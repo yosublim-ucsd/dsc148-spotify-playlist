@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32264,
+  "num_followers": 32266,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
       "artists": [
         {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
         }
       ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
         "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 347200,
       "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
       "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
         }
       ],
-      "duration_ms": 364056,
-      "name": "Desde El Corazon",
-      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
+      "duration_ms": 524134,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
         }
       ],
-      "duration_ms": 524134,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
+      "duration_ms": 364056,
+      "name": "Desde El Corazon",
+      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "ESCALECTRIC",
-        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 286798,
-      "name": "Parque Chas",
-      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Enero",
         "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 412693,
       "name": "Cero",
       "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "ESCALECTRIC",
+        "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 286798,
+      "name": "Parque Chas",
+      "url": "https://open.spotify.com/track/0dnRzjlfB337Ay7nMcNsHS"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 495746,
+      "name": "Cabrera's Blues",
+      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Tr\u00edas",
         "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 640853,
       "name": "Trias",
       "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 495746,
-      "name": "Cabrera's Blues",
-      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "En el fondo del mar",
         "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 408293,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Manto de Carne",
-        "url": "https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH"
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
       "artists": [
         {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
         }
       ],
-      "duration_ms": 314213,
-      "name": "Juventud",
-      "url": "https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn"
+      "duration_ms": 341695,
+      "name": "Way You Look Tonight The",
+      "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1403,18 +1407,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Monumental",
-        "url": "https://open.spotify.com/album/0tcgqfwrBoCcZ4T9LiDcjI"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
       },
       "artists": [
         {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
         }
       ],
-      "duration_ms": 318200,
-      "name": "Monumental",
-      "url": "https://open.spotify.com/track/6dlFsQKa8km5nQPNpVmaEU"
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     }
   ],
   "unique_name": "Jazz Argentino",

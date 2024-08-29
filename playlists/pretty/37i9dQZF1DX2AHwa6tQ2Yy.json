@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 48414,
+  "num_followers": 48419,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 231448,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 282773,
       "name": "Tell You Not To Worry",
       "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 231448,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Learning",
-      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 230853,
       "name": "Naomi",
       "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Evil In Your Eyes",
+        "url": "https://open.spotify.com/album/3D2q615OjU1YPeJjBcqubI"
+      },
+      "artists": [
+        {
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+        }
+      ],
+      "duration_ms": 144995,
+      "name": "Evil In Your Eyes",
+      "url": "https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Evil In Your Eyes",
-        "url": "https://open.spotify.com/album/3D2q615OjU1YPeJjBcqubI"
+        "name": "High Off You",
+        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
       },
       "artists": [
         {
-          "name": "RISSA",
-          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
         }
       ],
-      "duration_ms": 144995,
-      "name": "Evil In Your Eyes",
-      "url": "https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA"
+      "duration_ms": 233760,
+      "name": "High Off You",
+      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -699,22 +715,6 @@
       "duration_ms": 186053,
       "name": "SOW",
       "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "High Off You",
-        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
-      },
-      "artists": [
-        {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "High Off You",
-      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Hard To Get High",
         "url": "https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 276229,
       "name": "Hard To Get High",
       "url": "https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Soul Lament",
+        "url": "https://open.spotify.com/album/1mIhoA0E2M4ELYWX49XzPM"
+      },
+      "artists": [
+        {
+          "name": "GC OConnor",
+          "url": "https://open.spotify.com/artist/25ra0El5kIfD8vrJVTtTf2"
+        }
+      ],
+      "duration_ms": 271919,
+      "name": "Rollin Dice",
+      "url": "https://open.spotify.com/track/7Jc4S1B2UdEupO5xJdEQAc"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "SEE YOU TRY...",
         "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 210873,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Soul Lament",
-        "url": "https://open.spotify.com/album/1mIhoA0E2M4ELYWX49XzPM"
-      },
-      "artists": [
-        {
-          "name": "GC OConnor",
-          "url": "https://open.spotify.com/artist/25ra0El5kIfD8vrJVTtTf2"
-        }
-      ],
-      "duration_ms": 271919,
-      "name": "Rollin Dice",
-      "url": "https://open.spotify.com/track/7Jc4S1B2UdEupO5xJdEQAc"
     },
     {
       "added_at": "2024-03-14 20:40:35",

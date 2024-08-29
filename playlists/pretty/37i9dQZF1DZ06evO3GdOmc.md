@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 ### [This Is Casting Crowns](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GdOmc)
 
-> This is Casting Crowns\. The essential tracks, all in one playlist.
+> This Is Casting Crowns\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,059 likes - 51 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,087 likes - 51 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 50 | [American Dream](https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 4:10 |
 | 51 | [I'm Still Out Here](https://open.spotify.com/track/0ELRoYeGlU0XxbvtL3JNJF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer \(Deluxe\)](https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4) | 3:34 |
 
-Snapshot ID: `ZsvFgAAAAABwwS4Yd2Srll/xNtYokNF9`
+Snapshot ID: `ZsvFgAAAAADZWE/TLGArbWO/bBIykgFq`

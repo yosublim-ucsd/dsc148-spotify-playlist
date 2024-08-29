@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 498404,
+  "num_followers": 498425,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 189805,
-      "name": "Looking For Something",
-      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "so be it in my dreams",
         "url": "https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 146571,
       "name": "so be it in my dreams",
       "url": "https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 189805,
+      "name": "Looking For Something",
+      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Safe House",
+        "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Safe House",
+      "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Vampire in Beverly Hills",
         "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 154607,
       "name": "Skater Dater (feat. Bb trickz & Elvia)",
       "url": "https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Safe House",
-        "url": "https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Safe House",
-      "url": "https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
-      },
-      "artists": [
-        {
-          "name": "Mind Shrine",
-          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 238573,
       "name": "Open",
       "url": "https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
+      },
+      "artists": [
+        {
+          "name": "Mind Shrine",
+          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Chopper",
         "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 202626,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "The Tallest Room",
+        "url": "https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC"
+      },
+      "artists": [
+        {
+          "name": "Van Houten",
+          "url": "https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB"
+        }
+      ],
+      "duration_ms": 238058,
+      "name": "Panoramic View",
+      "url": "https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Lady Luck EP",
         "url": "https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 194060,
       "name": "at least, I tried",
       "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "The Tallest Room",
-        "url": "https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC"
-      },
-      "artists": [
-        {
-          "name": "Van Houten",
-          "url": "https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB"
-        }
-      ],
-      "duration_ms": 238058,
-      "name": "Panoramic View",
-      "url": "https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf"
     },
     {
       "added_at": "2024-07-09 21:52:54",

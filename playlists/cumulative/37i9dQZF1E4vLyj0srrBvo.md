@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [グライムス Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> FKAツイッグス, Crystal Castles, Purity Ringなど
+> With FKA twigs, Crystal Castles, Purity Ring and more
 
 1,775 songs - 4 day 13 hr 8 min
 

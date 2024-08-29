@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,918 likes - 55 songs - 3 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,926 likes - 53 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,18 +50,16 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 40 | [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 |
 | 41 | [Yr Broom](https://open.spotify.com/track/7vtvaC8cBykfsBGoSfUB7N) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 1:37 |
 | 42 | [Glad and Sorry](https://open.spotify.com/track/0NtyuUILV22rjcc7JiSFfA) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:06 |
-| 43 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 |
-| 44 | [Bizarre Love Triangle \- Remastered](https://open.spotify.com/track/3AJ7w7Un7IIMyRJ6PJ2pOJ) | [Even As We Speak](https://open.spotify.com/artist/76TkEBFTqaVNF4KWwaQudW) | [Blue Suburban Skies \(1987 Remastered\)](https://open.spotify.com/album/55mptKYNpfe7yjIdAlXK2H) | 2:02 |
-| 45 | [Twee](https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ) | [Tullycraft](https://open.spotify.com/artist/3KtOvpYuKClAuYxJqdITm6) | [Beat Surf Fun](https://open.spotify.com/album/6AN7guo4oFxMb5OU3pAe3m) | 3:21 |
-| 46 | [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 |
-| 47 | [The Ruling Class](https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:35 |
-| 48 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 |
-| 49 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 |
-| 50 | [I Hope You Like Me Too](https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [The Maybellines](https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA) | 1:43 |
-| 51 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 |
-| 52 | [Day Out](https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI) | [Spresso](https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw), [Alpha Maid](https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW), [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Rockstars](https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6) | 1:36 |
-| 53 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 |
-| 54 | [Prothese](https://open.spotify.com/track/1pBeR9uhlH4n8sS3vd7dww) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 2:08 |
-| 55 | [The Joy Of Living](https://open.spotify.com/track/3HLB0NiX67dDjDCM84rv8Q) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Unisex](https://open.spotify.com/album/4SxP15xAMiqz0W4kOKFdS0) | 4:30 |
+| 43 | [Twee](https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ) | [Tullycraft](https://open.spotify.com/artist/3KtOvpYuKClAuYxJqdITm6) | [Beat Surf Fun](https://open.spotify.com/album/6AN7guo4oFxMb5OU3pAe3m) | 3:21 |
+| 44 | [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 |
+| 45 | [The Ruling Class](https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:35 |
+| 46 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 |
+| 47 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 |
+| 48 | [I Hope You Like Me Too](https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [The Maybellines](https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA) | 1:43 |
+| 49 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 |
+| 50 | [Day Out](https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI) | [Spresso](https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw), [Alpha Maid](https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW), [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Rockstars](https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6) | 1:36 |
+| 51 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 |
+| 52 | [Prothese](https://open.spotify.com/track/1pBeR9uhlH4n8sS3vd7dww) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 2:08 |
+| 53 | [The Joy Of Living](https://open.spotify.com/track/3HLB0NiX67dDjDCM84rv8Q) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Unisex](https://open.spotify.com/album/4SxP15xAMiqz0W4kOKFdS0) | 4:30 |
 
-Snapshot ID: `AAAK6RuLtvMB9eCV7LKTHVJOakdAKksy`
+Snapshot ID: `AAAK687pWfsAuhuJ0wTrtxYY91gqrPm4`

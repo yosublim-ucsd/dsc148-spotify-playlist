@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 ### [This Is Rauw Alejandro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Kc0i8)
 
-> This is Rauw Alejandro\. The essential tracks, all in one playlist.
+> This Is Rauw Alejandro\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,388 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,739 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 49 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
 | 50 | [Mírame \- Remix](https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mírame](https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2) | 6:17 |
 
-Snapshot ID: `ZsvFgAAAAACluFj5ZP11OOtV0OV2tzqF`
+Snapshot ID: `ZsvFgAAAAABCVwrzu8kSWtNx5gOI0KV/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,546 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,562 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,23 +39,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 29 | [Boys Do Cry](https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI) | 2:56 |
 | 30 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 |
 | 31 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 |
-| 32 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
-| 33 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
+| 32 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
+| 33 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 |
 | 34 | [Another Heart](https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Another Heart](https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d) | 2:22 |
 | 35 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 |
 | 36 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 |
 | 37 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 |
 | 38 | [Alles was ich will](https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Alles was ich will](https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa) | 2:56 |
 | 39 | [Frostbites](https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Frostbites](https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT) | 2:59 |
-| 40 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 |
-| 41 | [Forever](https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:32 |
+| 40 | [Forever](https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:32 |
+| 41 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 |
 | 42 | [Nightmare](https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Nightmare](https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu) | 2:57 |
 | 43 | [Home \- The Voice Of Switzerland](https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Home \(The Voice Of Switzerland\)](https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8) | 3:21 |
 | 44 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 |
 | 45 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 |
-| 46 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
-| 47 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
-| 48 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 |
+| 46 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 |
+| 47 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 |
+| 48 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
 | 49 | [SucieriaZH](https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [SucieriaZH](https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j) | 2:54 |
 | 50 | [Alright](https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Alright](https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM) | 3:22 |
 | 51 | [rabbit holes](https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [rabbit holes](https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE) | 3:36 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 62 | [silver lining](https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [silver lining](https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5) | 3:42 |
 | 63 | [Surfer Girl](https://open.spotify.com/track/3WLqSWEgz0Dxo2D5qKfXAP) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Surfer Girl](https://open.spotify.com/album/7AUCY4FBxSUUzHp2YX5nkg) | 3:39 |
 | 64 | [Champions](https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Champions](https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT) | 2:32 |
-| 65 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
-| 66 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 |
+| 65 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 |
+| 66 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
 | 67 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 |
 | 68 | [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 |
 | 69 | [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 |

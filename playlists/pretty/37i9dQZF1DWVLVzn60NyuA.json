@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 442385,
+  "num_followers": 443460,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Yoga",
-        "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 181045,
-      "name": "Yoga",
-      "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 181045,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1739,30 +1739,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+        "name": "All for U (Ameyatchi)",
+        "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
       },
       "artists": [
         {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+          "name": "King Serenity",
+          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
         },
         {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Sergio Alejandro",
+          "url": "https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX"
         }
       ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+      "duration_ms": 165563,
+      "name": "All for U (Ameyatchi)",
+      "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1803,26 +1799,30 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "All for U (Ameyatchi)",
-        "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
       "artists": [
         {
-          "name": "King Serenity",
-          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         },
         {
-          "name": "Locko",
-          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
         {
-          "name": "Sergio Alejandro",
-          "url": "https://open.spotify.com/artist/5pLwxvxnxbsHRdgqmhJ7NX"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 165563,
-      "name": "All for U (Ameyatchi)",
-      "url": "https://open.spotify.com/track/7LjHqvRyDcMZ9rJ1XuY0IP"
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "understand",
         "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 213913,
       "name": "LV N ATTN feat. Wizkid",
       "url": "https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Fallin in Love",
         "url": "https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 162061,
       "name": "Fallin in Love",
       "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Cool Me Down (feat. Wizkid)",
         "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 151899,
       "name": "Life Is Better Now",
       "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 164400,
       "name": "Likkle Riddim",
       "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Rock With Me",
-        "url": "https://open.spotify.com/album/5KnWslFbJTIcpsBLh52LRm"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 177678,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/5K2sqQFCw5I5SI4FcmEq8N"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Vitamine",
         "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 154772,
       "name": "Vitamine (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/5KnWslFbJTIcpsBLh52LRm"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 177678,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/5K2sqQFCw5I5SI4FcmEq8N"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2779,6 +2779,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Drunk in Love (Henny)",
+        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 104357,
+      "name": "Drunk in Love (Henny)",
+      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "No Fear (feat. Damian Marley & Nicky Jam)",
         "url": "https://open.spotify.com/album/5iNZBIAKC2ohCuxiZwuevw"
       },
@@ -2799,22 +2815,6 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Drunk in Love (Henny)",
-        "url": "https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 104357,
-      "name": "Drunk in Love (Henny)",
-      "url": "https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf"
     },
     {
       "added_at": "2024-08-01 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 114711,
+  "num_followers": 114758,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+        "name": "Lotus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 288960,
-      "name": "Dance In The Dark",
-      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
+      "duration_ms": 239853,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Lotus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk"
+      "duration_ms": 288960,
+      "name": "Dance In The Dark",
+      "url": "https://open.spotify.com/track/6Qh10T7u43YciJsJa99R3v"
     },
     {
       "added_at": "2024-06-02 21:23:10",

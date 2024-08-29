@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 ### [This Is Christine D'Clario](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq)
 
-> This is Christine D'Clario\. The essential tracks, all in one playlist.
+> This Is Christine D'Clario\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,462 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,472 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
 | 50 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
 
-Snapshot ID: `ZsvFgAAAAAAc9x/7JPaHobI0f2FJjVf+`
+Snapshot ID: `ZsvFgAAAAAANzaeMj7eDcfNqPGjgaDD1`

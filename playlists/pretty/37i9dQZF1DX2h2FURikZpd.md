@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,155 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 18 | [Una Playa En Nayarit](https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:34 |
 | 19 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 | 20 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [para siempre\(｡>﹏<\)](https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi) | 2:30 |
-| 21 | [mil procedimientos](https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [mil procedimientos](https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO) | 3:36 |
-| 22 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
+| 21 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
+| 22 | [mil procedimientos](https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [mil procedimientos](https://open.spotify.com/album/228lIoPGjFuFxEUAh4vjOO) | 3:36 |
 | 23 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
 | 24 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 |
 | 25 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |

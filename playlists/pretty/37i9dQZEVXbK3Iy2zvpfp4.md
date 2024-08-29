@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,602 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,604 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 | 49 | [Mamacita \(feat\. Rich Homie Quan & Young Thug\)](https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:32 |
 | 50 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

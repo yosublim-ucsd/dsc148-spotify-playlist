@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 4 hr 52 min
+104 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Sunshine](https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ) | 2:52 | 2024-02-27 |  |
 | [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 | 2023-12-13 |  |
 | [The Rat Race](https://open.spotify.com/track/46bgDWUtBBceo13LMCZIXg) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:48 | 2023-12-13 |  |
+| [Too Attached](https://open.spotify.com/track/2Wp3n0MebrQyI0264yC3fG) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:41 | 2024-08-28 |  |
 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 | 2023-12-13 |  |
 | [Under Control](https://open.spotify.com/track/3B6Ha04nvVi9EeEbGsfrOX) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:05 | 2023-12-13 |  |
 | [Unpredictable](https://open.spotify.com/track/0awXZjZqqdyweoA4tG4KjW) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [Unpredictable](https://open.spotify.com/album/0JGYqkPi0Rj8el7KuxgvYm) | 2:53 | 2023-12-13 |  |

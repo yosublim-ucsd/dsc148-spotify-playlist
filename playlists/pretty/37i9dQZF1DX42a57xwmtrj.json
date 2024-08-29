@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 170246,
+  "num_followers": 170336,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 230713,
-      "name": "Cuarto para las Dos",
-      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 188917,
       "name": "Mi Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 230713,
+      "name": "Cuarto para las Dos",
+      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
       "artists": [
         {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 264289,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+      "duration_ms": 181394,
+      "name": "No Estoy Muerto",
+      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -219,34 +219,34 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Suicida (Remastered)",
-        "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
+        "name": "Llorando a Solas",
+        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
       },
       "artists": [
         {
-          "name": "Vago",
-          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
+          "name": "Tres Vallejo",
+          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
         }
       ],
-      "duration_ms": 243670,
-      "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
-      "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
+      "duration_ms": 237466,
+      "name": "No Me Arrepiento",
+      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
     },
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 181394,
-      "name": "No Estoy Muerto",
-      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+      "duration_ms": 264289,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Llorando a Solas",
-        "url": "https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x"
+        "name": "Suicida (Remastered)",
+        "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
       },
       "artists": [
         {
-          "name": "Tres Vallejo",
-          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7"
         }
       ],
-      "duration_ms": 237466,
-      "name": "No Me Arrepiento",
-      "url": "https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL"
+      "duration_ms": 243670,
+      "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
+      "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Quiero Cambiar (Remastered 2000)",
-        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 418795,
-      "name": "Barco Azul - Remastered 2000",
-      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "Delincuentes Con Placa",
         "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 253653,
       "name": "El No Lo Mato",
       "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Quiero Cambiar (Remastered 2000)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 418795,
+      "name": "Barco Azul - Remastered 2000",
+      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Ahora Que No Vives Conmigo",
-      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
       },
@@ -427,18 +411,34 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Un Minuto de Amor",
-        "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Un Minuto de Amor, Pt. 1",
-      "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
+      "duration_ms": 188373,
+      "name": "Ahora Que No Vives Conmigo",
+      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 319613,
+      "name": "El Pianista",
+      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+        "name": "Un Minuto de Amor",
+        "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
       },
       "artists": [
         {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 319613,
-      "name": "El Pianista",
-      "url": "https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX"
+      "duration_ms": 213000,
+      "name": "Un Minuto de Amor, Pt. 1",
+      "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "En Guerra de Amor",
-        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 224351,
-      "name": "Una Rola de Amor",
-      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "La Ciudad",
         "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "En Guerra de Amor",
+        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 224351,
+      "name": "Una Rola de Amor",
+      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Rock Sin Visa, Vol. 2",
-        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Historia de un Minuto",
-      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203685,
       "name": "Asalto Chido",
       "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Rock Sin Visa, Vol. 2",
+        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Historia de un Minuto",
+      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+      "duration_ms": 389863,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 389863,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
+      "duration_ms": 200053,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -855,22 +855,6 @@
       "duration_ms": 278666,
       "name": "De Que el Amor Apesta",
       "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
-        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
-        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -907,6 +891,38 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
+        "name": "La Casa del Sol Naciente",
+        "url": "https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "duration_ms": 223886,
+      "name": "La Casa del Sol Naciente",
+      "url": "https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
+        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
+        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
+    },
+    {
+      "added_at": "2024-07-12 18:10:47",
+      "album": {
         "name": "Unidos Por El Rock, Vol. 1",
         "url": "https://open.spotify.com/album/6vFlCKMqRMIMmCSlTbz23e"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "La Casa del Sol Naciente",
-        "url": "https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
       },
       "artists": [
         {
-          "name": "Javier B\u00e1tiz",
-          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 223886,
-      "name": "La Casa del Sol Naciente",
-      "url": "https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl"
+      "duration_ms": 210720,
+      "name": "Chavo de onda",
+      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Chavo de onda",
-      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
-    },
-    {
-      "added_at": "2024-07-12 18:10:47",
-      "album": {
         "name": "Ella Ya Muri\u00f3",
         "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 215480,
-      "name": "Tocando el Cielo",
-      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
+      "duration_ms": 123386,
+      "name": "Abuso de autoridad",
+      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
       "artists": [
         {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+      "duration_ms": 215480,
+      "name": "Tocando el Cielo",
+      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
     },
     {
       "added_at": "2024-07-12 18:10:47",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-07-12 18:10:47",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 183613,
-      "name": "Mi Terrible Soledad",
-      "url": "https://open.spotify.com/track/2CBofenBewzkNUKyxDZOnO"
+      "duration_ms": 162826,
+      "name": "Oye Cantinero",
+      "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
     },
     {
       "added_at": "2024-07-12 18:10:47",

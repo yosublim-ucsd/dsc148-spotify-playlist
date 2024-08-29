@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: aiko \*👉 <a href="https://spice.eplus.jp/articles/331274?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: aiko \*👉 <a href="https://spice.eplus.jp/articles/331479?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-7,531 songs - 19 day 7 hr 15 min
+7,533 songs - 19 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [2024/07/31 BUMP OF CHICKENがカバー！LEXのニューアルバム、藤井 風の新曲もピックアップ！約7年ぶりのニューアルバムをリリースしたトリプルファイヤー、礼賛の新曲も到着！この1週間の気になる音楽ニュースも深堀り！](https://open.spotify.com/episode/4sqfcG8XeeI5JycW1dJ6yk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 18:38 | 2024-07-31 | 2024-08-07 |
 | [2024/08/14 iriがカバー！kZmのニューアルバムもリリースに！w.o.d.の新曲、ティーンを中心にファンダムを拡大しているLeina、Kan SanoとShing02のコラボソングも！この1週間の気になる音楽ニュースもピックアップ！](https://open.spotify.com/episode/5UL7lv6swUejucYnR0R4J1) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:19 | 2024-08-14 | 2024-08-21 |
 | [2024/08/21 米津玄師がニューアルバムをリリースしてカバーに！Number\_iの新曲、ゆるふわギャングのNENEのソロアルバム、スカートの新曲、ブランデー戦記のニューEPも深堀り！この1週間の気になる音楽ニュースもピックアップ！](https://open.spotify.com/episode/0kp8X7WnZaO3KJr9VzInI0) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:53 | 2024-08-21 | 2024-08-28 |
+| [2024/08/28 aikoがニューアルバムをリリースしてカバーに！chilldspot、KM、PEOPLE 1の新曲や、BE:FIRSTのニューアルバムもリリースに！この1週間の気になる音楽ニュースも深堀り！！](https://open.spotify.com/episode/1EN4FHHVqTmFZTP6E1iSHT) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 23:33 | 2024-08-28 |  |
 | [2024/08/7 jo0jiが初カバー！Kvi Babaの新曲、石若駿が率いるAnswer to Rememberのニューアルバム、パソコン音楽クラブのニューアルバムもピックアップ！！注目のシンガーHana Hopeの新曲も。この1週間の気になる音楽ニュースも深堀り！](https://open.spotify.com/episode/2m7FuosdvtFb59dGvCTcQq) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:57 | 2024-08-08 | 2024-08-14 |
 | [2024/4/17 First Love is Never Returnedがカバー！BUMP OF CHICKEN、椎名林檎、aiko、水曜日のカンパネラの新曲もリリースに！Rina Sawayamaとちゃんみなのコラボソング、tuki.の新曲、荒谷翔大初のソロ楽曲や、MFSのアルバムもリリースに！ワンリパブリックが手がけたアニメ『怪獣8号』のエンディングテーマもピックアップ！](https://open.spotify.com/episode/7u83hn30oydzzNOefPTDIq) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:21 | 2024-04-17 | 2024-04-24 |
 | [2024/4/24 Lucky Kilimanjaroがカバー！go!go!vanillas、十明、DURDN、BE:FIRST、LEXなど注目アーティストの新作続々到着！Spotify記録を樹立したテイラー・スウィフトのニューアルバムも！Nenashiのニューアルバム、Bye\-Bye\-Handの方程式の新曲、KaneeeとDaichi Yamamotoのコラボ曲も！](https://open.spotify.com/episode/7KbNheF2NCe8gR8bPtOddJ) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:14 | 2024-04-24 | 2024-05-01 |
@@ -4963,6 +4964,7 @@
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-04-12 |
 | [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:55 | 2023-10-03 | 2023-10-11 |
 | [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2023-06-20 | 2023-06-28 |
+| [Zero Sum](https://open.spotify.com/track/6bjpmghStgfcmTsqsG6Yb6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Foreign Spies / Zero Sum](https://open.spotify.com/album/61qHOXEBFrlwPIWts51B4p) | 2:47 | 2024-08-28 |  |
 | [Zone 6](https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS) | 1:58 | 2023-07-05 | 2023-07-12 |
 | [Zone 6](https://open.spotify.com/track/7nA4oNF8JgzzZ7BYIIqYxs) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [ISSUES](https://open.spotify.com/album/3WP0YNX7s4lmBYIdiacUlk) | 1:58 | 2023-07-04 | 2023-07-06 |
 | [zoo](https://open.spotify.com/track/1lWajrL6NoG6ZDEtdWdhBN) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [zoo](https://open.spotify.com/album/5B5PoyeYH7Tep7UFdKik1a) | 2:39 | 2023-12-05 | 2023-12-13 |

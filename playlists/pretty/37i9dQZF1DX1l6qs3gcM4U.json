@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deedz B",
-  "num_followers": 207167,
+  "num_followers": 207212,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "Hegemonia",
+        "url": "https://open.spotify.com/album/0We0i9HuYUel9Z3hmFspQE"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Anjo mulher",
+      "url": "https://open.spotify.com/track/4xFzDY7kp01qba2SrUIPfU"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Safadeza",
         "url": "https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 189064,
       "name": "Safadeza",
       "url": "https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Hegemonia",
-        "url": "https://open.spotify.com/album/0We0i9HuYUel9Z3hmFspQE"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Anjo mulher",
-      "url": "https://open.spotify.com/track/4xFzDY7kp01qba2SrUIPfU"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -927,46 +927,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
-      },
-      "artists": [
-        {
-          "name": "J Levy",
-          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
-        },
-        {
-          "name": "Labo Music",
-          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
-        },
-        {
-          "name": "Dj kalisboy",
-          "url": "https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV"
-        }
-      ],
-      "duration_ms": 186524,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
       },
@@ -987,6 +947,46 @@
       "duration_ms": 200598,
       "name": "Suleban",
       "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/6SVKMkDQ0JfEQ8n1ZibYLZ"
+      },
+      "artists": [
+        {
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
+        },
+        {
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "Dj kalisboy",
+          "url": "https://open.spotify.com/artist/1JrVnCOJahRA4PeqsnOocV"
+        }
+      ],
+      "duration_ms": 186524,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3g6nTTgyH0IZ459ca8XtuO"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Jaj\u00e3o (feat. Eddy Flow)",
-        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
-      },
-      "artists": [
-        {
-          "name": "Master Jake",
-          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
-        },
-        {
-          "name": "Eddy Flow",
-          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
-        }
-      ],
-      "duration_ms": 248913,
-      "name": "Jaj\u00e3o (feat. Eddy Flow)",
-      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Vai Por Mim",
         "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Jaj\u00e3o (feat. Eddy Flow)",
+        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
+      },
+      "artists": [
+        {
+          "name": "Master Jake",
+          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
+        },
+        {
+          "name": "Eddy Flow",
+          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
+        }
+      ],
+      "duration_ms": 248913,
+      "name": "Jaj\u00e3o (feat. Eddy Flow)",
+      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Regresso",
-        "url": "https://open.spotify.com/album/486W9HSnl6hgmcHkgb0GJn"
-      },
-      "artists": [
-        {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
-        },
-        {
-          "name": "Paulo Flores",
-          "url": "https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M"
-        }
-      ],
-      "duration_ms": 188832,
-      "name": "Regresso",
-      "url": "https://open.spotify.com/track/1xBcCVkBBzEjZ7RBXd4QTN"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Sabi",
         "url": "https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 200983,
       "name": "Sabi",
       "url": "https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Regresso",
+        "url": "https://open.spotify.com/album/486W9HSnl6hgmcHkgb0GJn"
+      },
+      "artists": [
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        },
+        {
+          "name": "Paulo Flores",
+          "url": "https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M"
+        }
+      ],
+      "duration_ms": 188832,
+      "name": "Regresso",
+      "url": "https://open.spotify.com/track/1xBcCVkBBzEjZ7RBXd4QTN"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/3Djqo8MIXcu1wt13fedq8Y"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Denis Gra\u00e7a",
+          "url": "https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV"
+        }
+      ],
+      "duration_ms": 204817,
+      "name": "Fim do Mundo",
+      "url": "https://open.spotify.com/track/3Bl1FqkyVJLp1QH4hd3Ly4"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Novinha",
         "url": "https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs"
       },
@@ -1823,26 +1843,6 @@
       "duration_ms": 210379,
       "name": "Novinha",
       "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Pak\u00e9",
-        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
-      },
-      "artists": [
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Pak\u00e9",
-      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/3Djqo8MIXcu1wt13fedq8Y"
+        "name": "Pak\u00e9",
+        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
         },
         {
-          "name": "Denis Gra\u00e7a",
-          "url": "https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Fim do Mundo",
-      "url": "https://open.spotify.com/track/3Bl1FqkyVJLp1QH4hd3Ly4"
+      "duration_ms": 220645,
+      "name": "Pak\u00e9",
+      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
     },
     {
       "added_at": "2024-08-22 23:00:00",

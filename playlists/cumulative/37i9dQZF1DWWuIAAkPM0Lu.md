@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲
 
-1,746 songs - 3 day 17 hr 18 min
+1,747 songs - 3 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Bird in a Cage](https://open.spotify.com/track/1K1vbD5yJ7Oi7g9APCjAWz) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:38 | 2024-07-04 | 2024-07-12 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-16 | 2024-05-24 |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-25 | 2024-08-02 |
+| [BLACK <3](https://open.spotify.com/track/0KGorm5ZgIfyNriVnuQ5A6) | [FLAVA](https://open.spotify.com/artist/0iFemN19xhxGX63QjJfQEg) | [BLACK <3](https://open.spotify.com/album/1bdBtpvhoeAb07RxCoArz9) | 2:42 | 2024-08-27 |  |
 | [Black and Blue](https://open.spotify.com/track/6vnxOJlA5qohpdTw9mLYTW) | [Ameli Dot](https://open.spotify.com/artist/6rX000PthIdtHGAlvGZODh) | [The Truth](https://open.spotify.com/album/5CGHew4ZZX1K4l8jRxqEYa) | 2:53 | 2024-05-09 | 2024-05-17 |
 | [BLACK BELT](https://open.spotify.com/track/0CWj52hyVuhxiNK1zXPiBm) | [DEEJADE](https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK) | [BLACK BELT](https://open.spotify.com/album/4DzH6nuzqfdigLPTUlqTxK) | 2:43 | 2024-06-06 | 2024-06-14 |
 | [Black Lake](https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Black Lake](https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ) | 2:55 | 2024-08-16 | 2024-08-23 |

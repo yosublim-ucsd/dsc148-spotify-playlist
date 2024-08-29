@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: SIXTYUPTOWN",
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: Vy Vy",
   "name": "RADAR Vietnam",
   "tracks": [
     {
@@ -766,6 +766,28 @@
       "duration_ms": 233975,
       "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
       "url": "https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr"
+    },
+    {
+      "album": {
+        "name": "D\u1ea1o B\u01b0\u1edbc D\u01b0\u1edbi M\u00f9a H\u00e8",
+        "url": "https://open.spotify.com/album/7GPJUIV6BZOVGEcHkC3vhC"
+      },
+      "artists": [
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        },
+        {
+          "name": "T\u00e1o",
+          "url": "https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "D\u1ea1o B\u01b0\u1edbc D\u01b0\u1edbi M\u00f9a H\u00e8",
+      "url": "https://open.spotify.com/track/3xSvggH1vJwnGeDurKM7yJ"
     },
     {
       "album": {

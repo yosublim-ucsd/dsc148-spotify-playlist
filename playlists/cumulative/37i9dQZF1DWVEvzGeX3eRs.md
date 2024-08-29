@@ -4,7 +4,7 @@
 
 > that Darius and Nina type love.
 
-92 songs - 7 hr 44 min
+93 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/4FM8iY3r6cFC2g5tQnpnyM) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 | 2021-03-05 |  |
 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 | 2021-03-05 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2023-02-02 |  |
+| [Lately](https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:26 | 2023-02-12 |  |
 | [Let's Chill](https://open.spotify.com/track/0BEUswN4YNySo3KRVrAqCq) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/5b5MEeTdOAJHl5ICZW8QMs) | 5:23 | 2021-03-05 | 2022-07-29 |
 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 | 2021-03-05 | 2024-04-19 |
 | [Let's Stay Together \- Midnight Mix](https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:46 | 2021-03-05 | 2023-02-08 |
@@ -91,7 +92,7 @@
 | [Uhh Ahh](https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \- Expanded Edition](https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO) | 3:48 | 2021-03-05 | 2023-02-03 |
 | [Use Your Heart](https://open.spotify.com/track/5mCQirG6bW3iDN0gpdoxrP) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Best Of SWV](https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP) | 4:49 | 2021-03-05 | 2023-02-08 |
 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 | 2023-02-02 |  |
-| [When Can I See You](https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 3:49 | 2021-03-05 |  |
+| [When Can I See You](https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 3:49 | 2021-03-05 | 2024-08-29 |
 | [Where I Wanna Be](https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:13 | 2023-02-02 |  |
 | [Whip Appeal](https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:31 | 2021-03-05 | 2023-02-08 |
 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 | 2023-02-02 |  |

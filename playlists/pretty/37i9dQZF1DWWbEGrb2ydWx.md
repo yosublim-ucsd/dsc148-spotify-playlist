@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,259 likes - 67 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,265 likes - 67 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 40 | [I Hadn't Known \(I only heard\) \- Bonus Track](https://open.spotify.com/track/1Qd0No0lExyNRkbs7l4PtJ) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn) | [Around The House \(Special Edition\)](https://open.spotify.com/album/5tgVDeZ3r2IPYlitzedyjT) | 7:14 |
 | 41 | [Breaking Up](https://open.spotify.com/track/6IAlsmmCZ0AonpJUioEFJH) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Breaking Up](https://open.spotify.com/album/4Pg3iFxswe2xNog8CgaBsZ) | 5:38 |
 | 42 | [Hole Away](https://open.spotify.com/track/6ex8YIQvhg4U41mU9pKJzV) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels / Hole Away](https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0) | 3:31 |
-| 43 | [CHIBI \(Nick León Remix\)](https://open.spotify.com/track/43lXv1JVPq0KzNlDN0DcjZ) | [Estefany](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [CHIBI \(Nick León Remix\)](https://open.spotify.com/album/2QDzGhL4PT1531n5TGhPJa) | 3:09 |
+| 43 | [CHIBI \(Nick León Remix\)](https://open.spotify.com/track/43lXv1JVPq0KzNlDN0DcjZ) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [CHIBI \(Nick León Remix\)](https://open.spotify.com/album/2QDzGhL4PT1531n5TGhPJa) | 3:09 |
 | 44 | [SpaceSamba](https://open.spotify.com/track/1Tt531TrzUNKAwBNW1RnZ2) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 003](https://open.spotify.com/album/41tuPuEoR8mngf3eqL6Sni) | 5:47 |
 | 45 | [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 |
 | 46 | [Serpentine Tale](https://open.spotify.com/track/1J2HLUmgLEf9Nun0Stg0qj) | [Baby Ford](https://open.spotify.com/artist/4spzxMXpcVHY4QoIA6wJNN) | [Bford 14](https://open.spotify.com/album/65godysCySOKkKwP62hX7O) | 6:01 |

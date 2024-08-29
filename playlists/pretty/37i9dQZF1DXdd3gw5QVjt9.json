@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1163395,
+  "num_followers": 1163361,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
+      "duration_ms": 178346,
+      "name": "Virginia May",
+      "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 178346,
-      "name": "Virginia May",
-      "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Some People I Know",
         "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 139060,
       "name": "Red And Gold",
       "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Moonflowers (Binaural Acoustic Version)",
         "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "When I Say That I Love You",
         "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 154491,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 154491,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "always you",
         "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 188799,
       "name": "always you",
       "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Better Way",
+        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 356522,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Better Way",
-        "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 356522,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 285346,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Joy Alchemy",
         "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 225378,
       "name": "Southern Facing Room",
       "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
     },
     {
       "added_at": "2024-08-23 14:59:54",

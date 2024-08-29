@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
-  "num_followers": 447589,
+  "num_followers": 447651,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Ravers Bounce",
@@ -1447,22 +1463,6 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
-      },
-      "artists": [
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1825,22 +1825,6 @@
       "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "New Sound",
-      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "OVERDOSE",
@@ -1855,6 +1839,22 @@
       "duration_ms": 163500,
       "name": "OVERDOSE",
       "url": "https://open.spotify.com/track/3EndRWjDyW9XqK0xmMIgzm"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -1929,26 +1929,6 @@
       "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Apes",
-        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        },
-        {
-          "name": "MOR3L",
-          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Apes",
-      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Ignite",
@@ -1971,6 +1951,26 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Apes",
+        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "MOR3L",
+          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "Apes",
+      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2001,20 +2001,20 @@
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
       "artists": [
         {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2061,20 +2061,20 @@
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
         }
       ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Turn Up The Volume",
         "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
       },
@@ -2127,6 +2111,42 @@
       "duration_ms": 142445,
       "name": "Turn Up The Volume",
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Drinks & Pills",
+        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "GOTT",
+          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Drinks & Pills",
+      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2151,42 +2171,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Drinks & Pills",
-        "url": "https://open.spotify.com/album/319ZP2HwIwAZVsAjgG2XSL"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "GOTT",
-          "url": "https://open.spotify.com/artist/7IvbinDy7IXfQ5cUSmUFHM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Drinks & Pills",
-      "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "A Prayer",
         "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
@@ -2207,6 +2191,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Dare (Gimme 5)",
         "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
       },
@@ -2219,22 +2219,6 @@
       "duration_ms": 168000,
       "name": "Dare (Gimme 5)",
       "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Back Around",
-        "url": "https://open.spotify.com/album/3tjJQbcPfSKRx66koPczab"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 155774,
-      "name": "Back Around",
-      "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2251,6 +2235,22 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Back Around",
+        "url": "https://open.spotify.com/album/3tjJQbcPfSKRx66koPczab"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 155774,
+      "name": "Back Around",
+      "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/3HzScxQ9vXfj5eIoizsyY7"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 128716,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7wbpSjbRgHsjtT7Gb8VRa7"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2383,26 +2383,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+        "name": "Kiss Like This",
+        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+      "duration_ms": 143148,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
     }
   ],
   "unique_name": "Nasty Bits",

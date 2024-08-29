@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This Is Gloria Groove\. Los temas esenciales, todos en una lista.
+> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,597 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,613 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [Meu Anjo](https://open.spotify.com/track/55hdt9atyabpR1isrVW0H7) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Meu Anjo](https://open.spotify.com/album/64RCamPMW0E89XEV81ExhZ) | 4:09 |
 | 50 | [MAGENTA CA$H](https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:38 |
 
-Snapshot ID: `ZsvFgAAAAADm+FtoNUbRdPtsNMwCssqa`
+Snapshot ID: `ZsvFgAAAAAAih4JsXvW+bojCLENuhkPF`

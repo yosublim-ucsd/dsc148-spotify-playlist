@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189357,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
+    },
+    {
+      "album": {
         "name": "Side Effects Of You (Deluxe Version)",
         "url": "https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2"
       },
@@ -1590,6 +1612,36 @@
       "duration_ms": 176350,
       "name": "Tale Of 2 Legends",
       "url": "https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC"
+    },
+    {
+      "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        },
+        {
+          "name": "The California Jet Club",
+          "url": "https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022"
+        },
+        {
+          "name": "Jhonni Blaze",
+          "url": "https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23"
+        },
+        {
+          "name": "Maiya Sykes",
+          "url": "https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "The Disco Song",
+      "url": "https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR"
     },
     {
       "album": {

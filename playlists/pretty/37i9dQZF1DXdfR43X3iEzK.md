@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > The best in new alternative pop\. Cover: James Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,023 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,026 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,19 +73,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 63 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
 | 64 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 65 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 |
-| 66 | [Cycles](https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:58 |
-| 67 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 |
+| 66 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 |
+| 67 | [Cycles](https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:58 |
 | 68 | [ur special to me](https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [ur special to me](https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L) | 1:54 |
-| 69 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
-| 70 | [Say That You Will Wait For Me](https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Say That You Will Wait For Me](https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU) | 3:40 |
+| 69 | [Say That You Will Wait For Me](https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Say That You Will Wait For Me](https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU) | 3:40 |
+| 70 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
 | 71 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 |
 | 72 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 |
 | 73 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 |
 | 74 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 |
 | 75 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 |
 | 76 | [WHO AM I](https://open.spotify.com/track/45QAHW16P5rMhuMnITapGu) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [WHO AM I](https://open.spotify.com/album/3lscD3431rsquJaUgnUAU3) | 2:48 |
-| 77 | [Enough](https://open.spotify.com/track/2ML4VS9oSGFAraTJdSuSmq) | [That Woman](https://open.spotify.com/artist/1Rcmz0mDudMNtuJoTjmAEG), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Find Joy](https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW) | 3:23 |
-| 78 | [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 |
+| 77 | [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 |
+| 78 | [Enough](https://open.spotify.com/track/2ML4VS9oSGFAraTJdSuSmq) | [That Woman](https://open.spotify.com/artist/1Rcmz0mDudMNtuJoTjmAEG), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Find Joy](https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW) | 3:23 |
 | 79 | [Wish You Were Dead](https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Wish You Were Dead](https://open.spotify.com/album/2hjnP74xPNWyC2PoS7eqJF) | 3:14 |
 | 80 | [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 |
 

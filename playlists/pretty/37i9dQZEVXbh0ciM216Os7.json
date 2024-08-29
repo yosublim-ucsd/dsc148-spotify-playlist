@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC7zqA/wzfvkrrEidrE1wqZ",
+  "snapshot_id": "AAAAAAAAAADhdJUExD4Dx5cUSIsgRtPB",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/5Dbrr4nyx1xAamAHvUJBed"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "duration_ms": 229777,
+      "name": "Rogue",
+      "url": "https://open.spotify.com/track/416sAu56Q47IIqK0i8b6ss"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Fantastic Grace",
         "url": "https://open.spotify.com/album/0Hk7rWTjfLmWDusivXLhH3"
       },
@@ -67,34 +83,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Rogue",
-        "url": "https://open.spotify.com/album/5Dbrr4nyx1xAamAHvUJBed"
+        "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
+        "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
       },
       "artists": [
         {
-          "name": "The Cost",
-          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 229777,
-      "name": "Rogue",
-      "url": "https://open.spotify.com/track/416sAu56Q47IIqK0i8b6ss"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Mid Spiral",
-        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Best Left Unsolved - Bonus Track",
-      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
+      "duration_ms": 526655,
+      "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+      "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -155,22 +155,6 @@
       "duration_ms": 523556,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
-        "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 526655,
-      "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
-      "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -303,26 +287,6 @@
       "duration_ms": 159693,
       "name": "Drifting - Alternate Version / November 20, 1970",
       "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -660,7 +624,7 @@
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "The Punishment (Lockdown)",
-        "url": "https://open.spotify.com/album/6mAr4fsqyHYn5fzF26TOpl"
+        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
       },
       "artists": [
         {
@@ -670,7 +634,7 @@
       ],
       "duration_ms": 195220,
       "name": "The Punishment (Lockdown)",
-      "url": "https://open.spotify.com/track/5in6IhZHVwfTyvsvjXJYUG"
+      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain](/playlists/plain/37i9dQZF1E4kTD46HZNyiq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4kTD46HZNyiq)
 
-### [NIGHT TRAVELER 电台](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
+### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> 包含 By The Coast, LAVE, The Wild Wind 等艺人的作品
+> With By The Coast, LAVE, The Wild Wind and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,865 likes - 50 songs - 3 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Thoughts in Progress](https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:56 |
 | 50 | [Through the Silence](https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:48 |
 
-Snapshot ID: `Zs6NbAAAAADkNAWVRMt0T2bKdYPvZAbk`
+Snapshot ID: `Zs/PyQAAAADNMExOSnzPloJ6ZmGV+z9s`

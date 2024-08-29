@@ -4,7 +4,7 @@
 
 > 
 
-480 songs - 1 day 7 hr 1 min
+482 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Come Over](https://open.spotify.com/track/2NmaDAnnP9zspaHLc5aSjb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:17 | 2024-01-31 |  |
 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 | 2023-01-18 |  |
 | [coney island \(feat\. The National\)](https://open.spotify.com/track/2awNGIJHodfLZSClB3PYhz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 4:35 | 2023-07-10 |  |
+| [Cool\-Doug, at Night](https://open.spotify.com/track/6vqfGsLHkr6I741MUKl8v7) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB) | [Cool\-Doug, at Night](https://open.spotify.com/album/4F8znk4P0tcwrbGXUBYycS) | 3:32 | 2024-08-28 |  |
 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 | 2022-12-03 |  |
 | [cowboy like me](https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:35 | 2022-11-21 |  |
 | [Crazy Bird](https://open.spotify.com/track/4va1JykAJeulnYV0uYkWhF) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [The Runaround](https://open.spotify.com/album/29n2e4SBSxtMmRkPOKElF7) | 3:58 | 2024-03-09 | 2024-06-08 |
@@ -292,6 +293,7 @@
 | [Nine in the Afternoon \- Single Mix](https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:11 | 2023-04-13 |  |
 | [no body, no crime \(feat\. HAIM\)](https://open.spotify.com/track/6uwfVkaOM1mcMkFmSn35ix) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [evermore \(deluxe version\)](https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG) | 3:35 | 2022-11-08 |  |
 | [No Complaints](https://open.spotify.com/track/52DudaVZObvmBgEX6IObHX) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:25 | 2024-01-31 |  |
+| [No Rulebook](https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [No Rulebook](https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL) | 3:53 | 2024-08-28 |  |
 | [No Words](https://open.spotify.com/track/1m8UOoV8cZPnvV3AK2m7mI) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 4:16 | 2023-03-02 |  |
 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2023-10-22 |  |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-11-29 |  |

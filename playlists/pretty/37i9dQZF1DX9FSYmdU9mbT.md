@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Djavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,580 likes - 96 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,813 likes - 96 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 32 | [Chega de Saudade](https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Rosa Morena](https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq) | 2:01 |
 | 33 | [Maria Maria](https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Trem Azul](https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N) | 4:20 |
 | 34 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
-| 35 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
+| 35 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \- Live](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
 | 36 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
 | 37 | [Nem um Dia](https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Malásia](https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa) | 5:46 |
 | 38 | [Drão](https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Drão](https://open.spotify.com/album/0sM5ck5n1eDeg6ek2rUOex) | 4:11 |

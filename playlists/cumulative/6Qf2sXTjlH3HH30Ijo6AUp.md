@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-273 songs - 15 hr 54 min
+274 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Anywhere](https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Anywhere](https://open.spotify.com/album/3syh4e0H2YnXmzGzP5Rd3G) | 3:35 | 2022-06-07 | 2022-07-19 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-12-08 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-06 | 2023-12-14 |
-| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-12-08 |  |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-12-08 | 2024-08-29 |
 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 | 2022-06-07 |  |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-07-18 | 2024-02-10 |
 | [Bank of Wildflowers \(feat\. Georgia\)](https://open.spotify.com/track/3B1CZuOGy6H5Y8V4PEpTxw) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Bank of Wildflowers \(feat\. Georgia\)](https://open.spotify.com/album/5hHzqAvFxCYYNjpnQ4HzIu) | 3:45 | 2022-07-18 | 2023-02-04 |
@@ -224,6 +224,7 @@
 | [So Sick](https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [So Sick](https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y) | 2:57 | 2022-06-07 | 2022-07-19 |
 | [So Young](https://open.spotify.com/track/1vpFjf7k2b6TOfeuVrp4vG) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Talk on Corners](https://open.spotify.com/album/1z8ikMQ0VmMJDPmeiKY3o5) | 3:52 | 2022-06-07 | 2022-07-09 |
 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 | 2023-03-11 |
+| [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2024-08-28 |  |
 | [Something Got Me Started \- 2008 Remaster](https://open.spotify.com/track/7EVSRJ9eH21ri2lIHkKkoP) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Expanded Version\)](https://open.spotify.com/album/5IF8lK2MyVeLHxo0UNWMO7) | 4:00 | 2022-06-07 | 2022-07-19 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-10-14 | 2022-11-12 |
 | [Somewhere in My Heart](https://open.spotify.com/track/0pBqW7bLA3soohExT1bU8g) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [Love](https://open.spotify.com/album/1SUPpY4sx4B8c0rLyMhZc7) | 4:02 | 2022-06-07 | 2022-07-19 |

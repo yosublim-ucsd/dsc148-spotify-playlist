@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 405871,
+  "num_followers": 406007,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "A Real Fine Mess (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7"
-      },
-      "artists": [
-        {
-          "name": "The Harpoonist & the Axe Murderer",
-          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
-        }
-      ],
-      "duration_ms": 169076,
-      "name": "In and Out of Love",
-      "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "A Real Fine Mess (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist & the Axe Murderer",
+          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
+        }
+      ],
+      "duration_ms": 169076,
+      "name": "In and Out of Love",
+      "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Cowboy Nudes",
-        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 170537,
-      "name": "Cowboy Nudes",
-      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "My Dearest Darkest Neighbor",
         "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 217466,
       "name": "Fine and Mellow",
       "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -811,18 +811,34 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Reelin'",
-        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+        "name": "Cowboy Nudes",
+        "url": "https://open.spotify.com/album/04qJMoLGlPcBHGNt3RoEFG"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
+      "duration_ms": 170537,
+      "name": "Cowboy Nudes",
+      "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
         }
       ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+        "name": "Watermelon Oranges",
+        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
       "artists": [
         {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
+      "duration_ms": 207613,
+      "name": "Don't Please Yourself",
+      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -919,22 +935,6 @@
       "duration_ms": 288693,
       "name": "Stomp and Holler",
       "url": "https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "Watermelon Oranges",
-        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Don't Please Yourself",
-      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 219920,
       "name": "Who's Gonna Love You When I'm Gone",
       "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Matter & Time",
-        "url": "https://open.spotify.com/album/7cqXhBKcaYvz8xpgLBQZao"
-      },
-      "artists": [
-        {
-          "name": "Bill Eberle",
-          "url": "https://open.spotify.com/artist/7bohL0j1kV0XMEk1enZQwQ"
-        }
-      ],
-      "duration_ms": 260213,
-      "name": "Matter & Time",
-      "url": "https://open.spotify.com/track/27k1PgzJjFJIsyInRJMGfA"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Love You Anyway",
         "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 209360,
       "name": "Better Broken",
       "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Matter & Time",
+        "url": "https://open.spotify.com/album/7cqXhBKcaYvz8xpgLBQZao"
+      },
+      "artists": [
+        {
+          "name": "Bill Eberle",
+          "url": "https://open.spotify.com/artist/7bohL0j1kV0XMEk1enZQwQ"
+        }
+      ],
+      "duration_ms": 260213,
+      "name": "Matter & Time",
+      "url": "https://open.spotify.com/track/27k1PgzJjFJIsyInRJMGfA"
     },
     {
       "added_at": "2024-07-05 18:25:49",

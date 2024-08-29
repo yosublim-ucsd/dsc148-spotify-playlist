@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,652 likes - 436 songs - 1 day 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,660 likes - 436 songs - 1 day 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 46 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 |
 | 47 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 |
 | 48 | [Got 2 Luv U \(feat\. Alexis Jordan\)](https://open.spotify.com/track/62pSYErgGri97X9aIyBzHm) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Tomahawk Technique](https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd) | 3:16 |
-| 49 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 |
-| 50 | [No Vacancy](https://open.spotify.com/track/4QeoDcR16IHpmmgFGQDrCp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [No Vacancy](https://open.spotify.com/album/1UAt4G020TgW3lb2CkXr2N) | 3:43 |
-| 51 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
+| 49 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
+| 50 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 |
+| 51 | [No Vacancy](https://open.spotify.com/track/4QeoDcR16IHpmmgFGQDrCp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [No Vacancy](https://open.spotify.com/album/1UAt4G020TgW3lb2CkXr2N) | 3:43 |
 | 52 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 |
 | 53 | [Plastic Hearts](https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:25 |
 | 54 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
@@ -230,9 +230,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 220 | [Fake Friends](https://open.spotify.com/track/3OnCuJmMGAGCu59ixJnMFK) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Fake Friends](https://open.spotify.com/album/3uQBucC9DeP7iqCGKNJ1sk) | 2:54 |
 | 221 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:17 |
 | 222 | [Touch](https://open.spotify.com/track/1xz905v9g71heS0BQQM9re) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch](https://open.spotify.com/album/3Ukv5qnyHMAyBoG0GOrOMU) | 3:03 |
-| 223 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 |
-| 224 | [Lullaby](https://open.spotify.com/track/1QijFEB8TfVgDHdBqPczo6) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:37 |
-| 225 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \- Deluxe](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 |
+| 223 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \- Deluxe](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 |
+| 224 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 |
+| 225 | [Lullaby](https://open.spotify.com/track/1QijFEB8TfVgDHdBqPczo6) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:37 |
 | 226 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 |
 | 227 | [Love You So](https://open.spotify.com/track/0JTTx9wdM4bC08mavL54bf) | [Natalie](https://open.spotify.com/artist/4lFOyLUXnV2Emuus9X8xpA) | [Everything New](https://open.spotify.com/album/6RpXdKBebf3EBqAGvYHyaQ) | 3:35 |
 | 228 | [Take a Bow](https://open.spotify.com/track/09CIJTmSoWTrrpIh2EUatf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:54 |
@@ -243,11 +243,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 233 | [So Far Gone](https://open.spotify.com/track/1XCWRPypSirT0WiXQGDcAl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:34 |
 | 234 | [Waking Up](https://open.spotify.com/track/1GQO5U0Sx74BUoH1faCUWC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 6:07 |
 | 235 | ['Til The Dawn](https://open.spotify.com/track/6fc0E8NhqsOoXTDyudtaUb) | [Drew Sidora](https://open.spotify.com/artist/6RbIwDgAskXJEpnZJl5vnE) | [Step Up \- Original Soundtrack](https://open.spotify.com/album/02W2pKViYFgqy9JR7XpRio) | 3:09 |
-| 236 | [Distance](https://open.spotify.com/track/2l3gQ8Zv1KlGqyE6B4ntPC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:00 |
-| 237 | [Remember Me](https://open.spotify.com/track/724YX9T0xMHcZMXMHfj8qf) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Remember Me](https://open.spotify.com/album/0gWjs23KK3QgHxTbeUrTwf) | 3:52 |
-| 238 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 |
-| 239 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
-| 240 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 236 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 237 | [Distance](https://open.spotify.com/track/2l3gQ8Zv1KlGqyE6B4ntPC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:00 |
+| 238 | [Remember Me](https://open.spotify.com/track/724YX9T0xMHcZMXMHfj8qf) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Remember Me](https://open.spotify.com/album/0gWjs23KK3QgHxTbeUrTwf) | 3:52 |
+| 239 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 |
+| 240 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 |
 | 241 | [Neon Lights](https://open.spotify.com/track/6ok1D9R7MZW7slwfRWQ45N) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:42 |
 | 242 | [Reach Out](https://open.spotify.com/track/0NzKUImAsFDEvL4uDp1Lrz) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Reach Out](https://open.spotify.com/album/2nNquxV1Z0STeEB04RHWT7) | 4:16 |
 | 243 | [Hold On](https://open.spotify.com/track/7AuHKPDhAAtCAPk8mav6h4) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA) | 3:35 |
@@ -445,4 +445,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 435 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 436 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 
-Snapshot ID: `AbakmQAAAABc2SZwHRXzDaZJfIKJIE+n`
+Snapshot ID: `AbaqOQAAAACzBHAFqhHA0I9hqjCv4uvn`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 ### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This is Muddy Waters\. The essential tracks, all in one playlist.
+> This is Muddy Waters\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,092 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,103 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Big Legged Woman \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/3fQVodoQllFlEeGDEOpqiV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Pee Wee Madison](https://open.spotify.com/artist/5ZRzXIj0gQi03FpgQ9lTh4) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 3:54 |
 | 50 | [Train Fare Home \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:37 |
 
-Snapshot ID: `ZsvFgAAAAABIbHXwnMhchXmhJFLNvATZ`
+Snapshot ID: `ZsvFgAAAAAB3AT3AGcsviJlzqYjW1j1l`

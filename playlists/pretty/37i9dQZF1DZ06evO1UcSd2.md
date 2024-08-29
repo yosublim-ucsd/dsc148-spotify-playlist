@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
+> This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,921 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,937 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Por Los Radios](https://open.spotify.com/track/1psNcA19Q704H7YawPu2WT) | [Jose Castellon](https://open.spotify.com/artist/3ksd1FMwWHt3WudSkcOOZb), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Por Los Radios](https://open.spotify.com/album/34xv71fVprWXX8ofUwnOaI) | 3:27 |
 | 50 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 |
 
-Snapshot ID: `ZsvFgAAAAAA9CVz9p8UoSx0LzI1snMpR`
+Snapshot ID: `ZsvFgAAAAADY7fiqZfFXyB59GmBdpwZA`

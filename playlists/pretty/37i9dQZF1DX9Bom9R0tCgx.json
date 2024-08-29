@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 389332,
+  "num_followers": 389397,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Click Click Click",
         "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1463,6 +1463,34 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        }
+      ],
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "LA DI DA",
         "url": "https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR"
       },
@@ -1503,34 +1531,6 @@
       "duration_ms": 105009,
       "name": "Mozart's Final Rave (Lacrimosa)",
       "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
-        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
-      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1631,6 +1631,46 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "My Fantasy",
+        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 180535,
+      "name": "My Fantasy",
+      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Rave Generator",
         "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
       },
@@ -1667,26 +1707,6 @@
       "duration_ms": 117882,
       "name": "P.I.M.P",
       "url": "https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1743,22 +1763,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
       },
@@ -1775,22 +1779,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "My Fantasy",
-        "url": "https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF"
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
         }
       ],
-      "duration_ms": 180535,
-      "name": "My Fantasy",
-      "url": "https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck"
+      "duration_ms": 165018,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK"
     },
     {
       "added_at": "2024-08-22 22:00:00",

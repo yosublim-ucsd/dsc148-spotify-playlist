@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 ### [This Is Amy Grant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi)
 
-> This is Amy Grant\. The essential tracks, all in one playlist.
+> This Is Amy Grant\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,610 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,615 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 50 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
 | 51 | [A Woman](https://open.spotify.com/track/2uA16HjmZbiBx4YEaTURN1) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [FAITHFUL: Go and Speak](https://open.spotify.com/album/1SFAN6ruAedSZT2z6yGOCJ) | 5:20 |
 
-Snapshot ID: `ZsvFgAAAAAA3H1oUAOtHxXGdn8dVQElu`
+Snapshot ID: `ZsvFgAAAAAB5IwKasH0FNMcjjYwBAfPy`

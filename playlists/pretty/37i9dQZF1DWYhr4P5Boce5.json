@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 204152,
+  "num_followers": 204173,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Be Yourself",
-      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 270680,
       "name": "Safe",
       "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Just Too Good",
         "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "NATIVE TONGUE",
+        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 125598,
+      "name": "YOU'RE THE ONE I WANT",
+      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "NATIVE TONGUE",
-        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 125598,
-      "name": "YOU'RE THE ONE I WANT",
-      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
       "artists": [
         {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
         }
       ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "You Are My Love",
         "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 203120,
       "name": "You Are My Love",
       "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Colton Dixon",
+        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Can't Quit You",
+      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Colton Dixon",
-        "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Can't Quit You",
-      "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Nobody's Perfect",
-        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 151530,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 151530,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Good Love (feat. Kim Burrell)",
-        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Good Love (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1471,18 +1451,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "What a Heart Is Beating For",
-        "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
+        "name": "Good Love (feat. Kim Burrell)",
+        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
       "artists": [
         {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
         }
       ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
+      "duration_ms": 248066,
+      "name": "Good Love (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1499,6 +1483,22 @@
       "duration_ms": 169846,
       "name": "Me + You = Pi",
       "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "What a Heart Is Beating For",
+        "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
     },
     {
       "added_at": "2024-07-17 04:46:48",

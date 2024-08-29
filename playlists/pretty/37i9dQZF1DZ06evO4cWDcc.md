@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 ### [This Is Jimi Hendrix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc)
 
-> This is Jimi Hendrix\. The essential tracks, all in one playlist.
+> This is Jimi Hendrix\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,388 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,434 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 50 | [Earth Blues](https://open.spotify.com/track/7aAholeRCIGZD1QhHYKDDq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:33 |
 | 51 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
 
-Snapshot ID: `ZsvFgAAAAAA23/ygco0L6Xixo4JPCsPM`
+Snapshot ID: `ZsvFgAAAAAA7JdA+GFscqPRbYzay796X`

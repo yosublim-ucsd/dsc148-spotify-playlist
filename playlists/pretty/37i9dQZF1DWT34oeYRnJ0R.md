@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Boza & ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,426 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,420 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 120 | [roadhead](https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [roadhead](https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7) | 2:37 |
 | 121 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 |
 | 122 | [Embuste](https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Embuste](https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5) | 2:39 |
-| 123 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 |
-| 124 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
+| 123 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 |
+| 124 | [ALMA</3](https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [ALMA</3](https://open.spotify.com/album/68bcjscUFhKvunT391ALub) | 2:24 |
 | 125 | [Medio friends](https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Medio Friends](https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX) | 2:29 |
 | 126 | [Qué Tengo Que Hacer](https://open.spotify.com/track/0iU9DB8dA2gT2WxBsnxWUg) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:52 |
 | 127 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 |
@@ -139,9 +139,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 129 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 |
 | 130 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 |
 | 131 | [Himalaya](https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Himalaya](https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk) | 2:48 |
-| 132 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
-| 133 | [CHRONOS](https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [CHRONOS](https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n) | 4:08 |
-| 134 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
+| 132 | [CHRONOS](https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [CHRONOS](https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n) | 4:08 |
+| 133 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
+| 134 | [POEMA A TUS PROBLEMAS](https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [POEMA A TUS PROBLEMAS](https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5) | 3:29 |
 | 135 | [Hace Un Mes](https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:53 |
 | 136 | [Eres Tú](https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 3:04 |
 | 137 | [El Father](https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [El Father](https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb) | 3:15 |

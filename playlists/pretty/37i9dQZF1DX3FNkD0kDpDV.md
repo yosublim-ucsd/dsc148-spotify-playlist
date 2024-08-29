@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > <a href="https://open.spotify.com/user/ushuaiaibiza">Ushuaïa Ibiza </a> presents the sun\-kissed sounds of Ibiza's most iconic outdoor dancefloor with this month's guest list takeover\. Enjoy unmissable electronic music from Ushuaïa Ibiza's superstar DJ residents and guests.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,243 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,386 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

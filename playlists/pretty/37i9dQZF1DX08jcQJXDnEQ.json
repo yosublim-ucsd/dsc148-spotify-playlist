@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1108275,
+  "num_followers": 1109013,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Facelift",
-        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "We Die Young",
-      "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "We Die Young",
+      "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 321573,
+      "name": "Jet City Woman - Remastered 2003",
+      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
         "name": "Attack Of The Killer B's",
         "url": "https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 211786,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 321573,
-      "name": "Jet City Woman - Remastered 2003",
-      "url": "https://open.spotify.com/track/4sOlbksuGHyUkSafNnho2f"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 348093,
       "name": "You Can't Bring Me Down",
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2024-06-10 14:17:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-10 14:17:16",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Midlife Crisis",
-      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
-    },
-    {
-      "added_at": "2024-06-10 14:17:16",
-      "album": {
         "name": "La Sexorcisto: Devil Music Volume 1",
         "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 381640,
       "name": "Welcome To Planet Motherfucker/ Psychoholic Slag",
       "url": "https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06"
+    },
+    {
+      "added_at": "2024-06-10 14:17:16",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Midlife Crisis",
+      "url": "https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP"
     },
     {
       "added_at": "2024-06-10 14:17:16",

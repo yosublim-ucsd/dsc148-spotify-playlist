@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 72 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 |
 | 73 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 74 | [Like I Do](https://open.spotify.com/track/2NHpE5U4QNOVCdVmY7FtSL) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Like I Do](https://open.spotify.com/album/6mr0iJfREskCb9S87Rfdgp) | 2:30 |
-| 75 | [Teenage Chemistry](https://open.spotify.com/track/3stuTXyPNlCcOLc9ErRZHb) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:47 |
-| 76 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
+| 75 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
+| 76 | [Teenage Chemistry](https://open.spotify.com/track/3stuTXyPNlCcOLc9ErRZHb) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:47 |
 | 77 | [Wash Over Me](https://open.spotify.com/track/3LLWFxfyC5SPaY08i6494p) | [The Beach Hut Sessions](https://open.spotify.com/artist/2HomAAHp1glbdhZh9UHAif), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [The Beach Hut Sessions, Vol\. 1](https://open.spotify.com/album/1U2CXx9yQX4cOxOyOcRwyC) | 2:49 |
 | 78 | [Tears from the Ice River](https://open.spotify.com/track/3riAEVASppsbo1wZBTvxmd) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [Zkaaai](https://open.spotify.com/artist/6RB2RIXIqFLubGeBD7u4gK) | [Tears from the Ice River](https://open.spotify.com/album/7uPdSeYHlYPhJmRPyGgC8P) | 2:41 |
 | 79 | [Something You Don't Know](https://open.spotify.com/track/4O3x2EvBVMP6PG4AviV3mQ) | [BETSIE GØLD](https://open.spotify.com/artist/5nE8CAd519jLpwMX2YgFMK) | [Songs from DLS](https://open.spotify.com/album/3Tj9DbqbE3OjeuYCrqWoO6) | 2:35 |
 | 80 | [More Than You \- Orchestra Version](https://open.spotify.com/track/0z9RDvy9eKlZftLGfD21hC) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [More Than You \(Orchestra Version\)](https://open.spotify.com/album/14V8LieonDK5IiEvKu6XCY) | 3:26 |
 | 81 | [Play My Game](https://open.spotify.com/track/4rsVBR4WADCMrNRKk6pGwb) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:01 |
-| 82 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 |
-| 83 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
+| 82 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
+| 83 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 |
 | 84 | [Spacebike](https://open.spotify.com/track/5ga7wZc4B0JuOnUGUiOrOk) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3) | [Spacebike](https://open.spotify.com/album/0sF3gZIDKvrGdutAfNuj8v) | 2:23 |
 | 85 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 |
 | 86 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 100 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 101 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbaklwAAAAA6j4PQa0SGbt+9jgD4WZ67`
+Snapshot ID: `AbaqNwAAAADUgZ0oumDYSKSy40M9g7zP`

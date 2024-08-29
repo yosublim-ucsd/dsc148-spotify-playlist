@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "BONKERS",
       "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 178211,
       "name": "I DON'T MIND",
       "url": "https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN"
@@ -4957,7 +4957,7 @@
     },
     {
       "album": {
-        "name": "Lost (Gerd Janson Edit)",
+        "name": "Lost - Gerd Janson Edit",
         "url": "https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ"
       },
       "artists": [

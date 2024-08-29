@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This is Miel San Marcos\. The essential tracks, all in one playlist.
+> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,788 likes - 52 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,800 likes - 52 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 51 | [Te Amo](https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Te Amo](https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL) | 5:31 |
 | 52 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
 
-Snapshot ID: `ZsvFgAAAAABxtAoVTQ6jUvkn167GgjXz`
+Snapshot ID: `ZsvFgAAAAADXNZJxuFpnbmWmUJJ39YLc`

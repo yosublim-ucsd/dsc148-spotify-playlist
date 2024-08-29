@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 ### [This Is Valerie June](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QDdsY)
 
-> This is Valerie June\. The essential tracks, all in one playlist.
+> This Is Valerie June\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,291 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,294 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 49 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
 | 50 | [Home](https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Way of the Weeping Willow](https://open.spotify.com/album/4zKQRxjvBRMEOJ02Y7nD3o) | 1:59 |
 
-Snapshot ID: `ZsvFgAAAAAC4uATm/9uTyVlkPT86VD2X`
+Snapshot ID: `ZsvFgAAAAAA3cInZUSFLp+/qIHwFO3pO`

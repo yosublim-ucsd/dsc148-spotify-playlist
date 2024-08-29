@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,385 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,387 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 4:00 |
 | 50 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

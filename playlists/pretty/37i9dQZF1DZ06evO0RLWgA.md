@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 ### [This Is John Lee Hooker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RLWgA)
 
-> This is John Lee Hooker\. The essential tracks, all in one playlist.
+> This is John Lee Hooker\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,231 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,251 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 |
 | 50 | [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 |
 
-Snapshot ID: `ZsvFgAAAAACVyK8ikTnM0owdhJd7fyuW`
+Snapshot ID: `ZsvFgAAAAABKCBDBWeblBjvn6Y0i42Pl`

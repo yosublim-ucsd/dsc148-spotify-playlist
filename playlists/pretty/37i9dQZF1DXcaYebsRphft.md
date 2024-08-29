@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > メンバーからの音声メッセージ入り『2024 aespa LIVE TOUR – SYNK : PARALLEL LINE – in TOKYO DOME \-SPECIAL EDITION\-』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,550 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,591 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

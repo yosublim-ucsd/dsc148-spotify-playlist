@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring ESSEL & MERYLL.  50% techno, 50% house",
-  "num_followers": 632546,
+  "num_followers": 632636,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs4plwAAAAAnBGH8tB/bDdq9MTLhJeiE",
+  "snapshot_id": "Zs91SwAAAACoVYhYr1DJruwrRvYcDiIW",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -121,20 +121,28 @@
       "url": "https://open.spotify.com/track/51ZqM59s1tcxlBbcbTz61b"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-27 19:31:35",
       "album": {
-        "name": "spendthenight.",
-        "url": "https://open.spotify.com/album/1DiSqYLvzqrtvXjx1We9CH"
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
       "artists": [
         {
-          "name": "Yuto.",
-          "url": "https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 135348,
-      "name": "spendthenight.",
-      "url": "https://open.spotify.com/track/1KDw0LtXk7O0BKGVVWOk45"
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -229,28 +237,20 @@
       "url": "https://open.spotify.com/track/0lSVOraKctlmtTKtE5MC1D"
     },
     {
-      "added_at": "2024-08-27 19:31:35",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Receipts (feat. Gunna)",
-        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
+        "name": "spendthenight.",
+        "url": "https://open.spotify.com/album/1DiSqYLvzqrtvXjx1We9CH"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Yuto.",
+          "url": "https://open.spotify.com/artist/6UwoKdavvfpEGn6c4s8zAg"
         }
       ],
-      "duration_ms": 234461,
-      "name": "Receipts (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
+      "duration_ms": 135348,
+      "name": "spendthenight.",
+      "url": "https://open.spotify.com/track/1KDw0LtXk7O0BKGVVWOk45"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
     },
     {
+      "added_at": "2024-08-28 19:06:51",
+      "album": {
+        "name": "Billz / On My Mind",
+        "url": "https://open.spotify.com/album/5ZaedNt75c3xtRHobm1lJZ"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Billz",
+      "url": "https://open.spotify.com/track/1nZJzm6DEMydw6sAgdtK54"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "It's Not Right But It's Okay",
@@ -659,6 +675,22 @@
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sit Down",
+        "url": "https://open.spotify.com/album/1T4vM2JuwbMaFIcuwJXR8Y"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 171796,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/7eFOkLB2xgBjcBBru0BD8o"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -691,22 +723,6 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Sit Down",
-        "url": "https://open.spotify.com/album/1T4vM2JuwbMaFIcuwJXR8Y"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 171796,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/7eFOkLB2xgBjcBBru0BD8o"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -745,26 +761,6 @@
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
-        "url": "https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Kilo Ali",
-          "url": "https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
-      "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unknown",
@@ -785,6 +781,26 @@
       "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
+        "url": "https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kilo Ali",
+          "url": "https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
+      "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Jamming (FISHER Rework)",
@@ -803,22 +819,6 @@
       "duration_ms": 201928,
       "name": "Jamming - FISHER Rework",
       "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "TOO COOL TO BE CARELESS",
-        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220046,
-      "name": "TOO COOL TO BE CARELESS",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -867,6 +867,22 @@
       "duration_ms": 146230,
       "name": "Sippin' Yak",
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1003,6 +1019,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -1019,22 +1051,6 @@
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BEATS FOR THE UNDERGROUND",
-        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "BEATS FOR THE UNDERGROUND",
-      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1221,6 +1237,26 @@
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Saving Up (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Saving Up - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "EAT THE BASS",
@@ -1259,26 +1295,6 @@
       "duration_ms": 137142,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Saving Up (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Saving Up - Odd Mob Remix",
-      "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1381,26 +1397,6 @@
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Hella Good",
-        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
-      },
-      "artists": [
-        {
-          "name": "Niko The Kid",
-          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        }
-      ],
-      "duration_ms": 175757,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "PAPI",
@@ -1419,6 +1415,26 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "duration_ms": 175757,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1617,22 +1633,6 @@
       "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "IBIZA",
@@ -1657,24 +1657,20 @@
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Bring Me Down",
-        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Stanton Warriors",
-          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 205492,
-      "name": "Bring Me Down",
-      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1735,6 +1731,26 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Stanton Warriors",
+          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+        }
+      ],
+      "duration_ms": 205492,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1993,22 +2009,6 @@
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Hustlin'",
-        "url": "https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 159534,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Tomala (Se Mueve Se Siente)",
@@ -2043,6 +2043,22 @@
       "duration_ms": 217946,
       "name": "One Pill",
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Hustlin'",
+        "url": "https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 159534,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2245,26 +2261,6 @@
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Body (feat. Tima Dee)",
-        "url": "https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 165468,
-      "name": "Body (feat. Tima Dee)",
-      "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Bidi Bam",
@@ -2283,6 +2279,26 @@
       "duration_ms": 120930,
       "name": "Bidi Bam",
       "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Body (feat. Tima Dee)",
+        "url": "https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "duration_ms": 165468,
+      "name": "Body (feat. Tima Dee)",
+      "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2347,26 +2363,6 @@
       "duration_ms": 185478,
       "name": "Fetish",
       "url": "https://open.spotify.com/track/5iuVm0iFFVThDwJ1CC4HHl"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Taka",
-        "url": "https://open.spotify.com/album/3rYqcadDaeDm6mF5MDvWLG"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 193650,
-      "name": "Taka",
-      "url": "https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2"
     }
   ],
   "unique_name": "Tech House Operator",

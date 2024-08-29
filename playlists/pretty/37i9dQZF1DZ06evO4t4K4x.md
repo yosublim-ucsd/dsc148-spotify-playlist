@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 ### [This Is Delia Derbyshire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t4K4x)
 
-> This is Delia Derbyshire\. The essential tracks, all in one playlist.
+> This is Delia Derbyshire\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,073 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,074 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 39 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
 | 40 | [Circle of Light, Pt\. 1](https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 21:14 |
 
-Snapshot ID: `ZsvFgAAAAAD0RHWNQaEh6hELcxQc2yjK`
+Snapshot ID: `ZsvFgAAAAAA4WYtzOxYoyS2PMtTcnLOS`

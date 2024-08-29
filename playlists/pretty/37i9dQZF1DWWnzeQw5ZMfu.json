@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69657,
+  "num_followers": 69662,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Goodbye My Lover - Live in Ireland",
-      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Live \u00e0 Paris",
         "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 285466,
       "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Goodbye My Lover - Live in Ireland",
+      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Stop - Live In Madrid, Spain / 1998",
-      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 275101,
       "name": "New Rules - Live",
       "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 357760,
-      "name": "Viva Forever - Live In Manchester, UK / 1998",
-      "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 413776,
       "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 357760,
+      "name": "Viva Forever - Live In Manchester, UK / 1998",
+      "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+        "name": "Viva Forever",
+        "url": "https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Make You Feel My Love (Live at Hotel Cafe)",
-      "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
+      "duration_ms": 266418,
+      "name": "Say You'll Be There - Live From Abdi \u0130pek\u00e7i Arena, Istanbul, Turkey/1997",
+      "url": "https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId"
     }
   ],
   "unique_name": "Pop Live",

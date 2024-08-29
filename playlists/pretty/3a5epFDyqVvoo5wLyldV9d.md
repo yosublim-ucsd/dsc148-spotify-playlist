@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 798 songs - 2 day 14 hr 34 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 800 songs - 2 day 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -800,11 +800,13 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 790 | [Vallja E Rugoves Shota](https://open.spotify.com/track/7I2D4I5fLN6CLy2tUJ79xK) | [Valle](https://open.spotify.com/artist/1NcAnVLuHv4OMDa9U87EQt) | [Vallja E Rugoves Shota](https://open.spotify.com/album/1UyahuFsSl0qEb8lCSOLEo) | 3:54 |
 | 791 | [Fshatarja Ime](https://open.spotify.com/track/6wDhH6ItVhgtrI2SMtscI4) | [Sabri Fejzullahu](https://open.spotify.com/artist/01kw1JZlojs7jcsMHnfyVr) | [Merrma Shiun E Prishtinës](https://open.spotify.com/album/279nOOpIU7dSF3pXCudidz) | 4:20 |
 | 792 | [Tet Chajé](https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV) | [Kajou](https://open.spotify.com/artist/7JmwiNjyR7b7EnkXXE7RAS) | [Tet Chajé](https://open.spotify.com/album/4SmqWQNUHPw1IUQd0EC0ZT) | 6:10 |
-| 793 | [バイブレイション](https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit) | [トーキョー・スペシャル](https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy) | 4:18 |
-| 794 | [プラスティックNIGHT](https://open.spotify.com/track/0kGcw9BC4b99bm0r3ne7i4) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [SMILE](https://open.spotify.com/album/0SWkx3Mhw5VfsruSF9jTZY) | 4:51 |
-| 795 | [Makiyaj](https://open.spotify.com/track/64zkMDZGsUBsqBaogoSRDS) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/2UFo1SSLCCCWmpfbyCULNp) | 4:29 |
-| 796 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
-| 797 | [September Rain \- 2020 Remaster](https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [COLLECTION](https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2) | 4:31 |
-| 798 | [Tes idées](https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/6bGDkhhkbgk7BNJQ70f9oq) | 3:35 |
+| 793 | [Oh Qué Será?](https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:04 |
+| 794 | [バイブレイション](https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit) | [トーキョー・スペシャル](https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy) | 4:18 |
+| 795 | [プラスティックNIGHT](https://open.spotify.com/track/0kGcw9BC4b99bm0r3ne7i4) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [SMILE](https://open.spotify.com/album/0SWkx3Mhw5VfsruSF9jTZY) | 4:51 |
+| 796 | [Makiyaj](https://open.spotify.com/track/64zkMDZGsUBsqBaogoSRDS) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/2UFo1SSLCCCWmpfbyCULNp) | 4:29 |
+| 797 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
+| 798 | [September Rain \- 2020 Remaster](https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [COLLECTION](https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2) | 4:31 |
+| 799 | [Tes idées](https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/6bGDkhhkbgk7BNJQ70f9oq) | 3:35 |
+| 800 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
 
-Snapshot ID: `AAADgbppi6RM171HyKptNaXvff1L+P+b`
+Snapshot ID: `AAADhPViqTpVXVya8JEbxZfV+GigBP+C`

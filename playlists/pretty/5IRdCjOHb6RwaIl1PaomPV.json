@@ -1,13 +1,217 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from Devon Again and MRD, plus the latest cuts from SURF GANG, benzii + more. ",
-  "num_followers": 50752,
+  "description": "The latest tracks from Mad Decent and friends. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Mdeline, Merry Lamb Lamb  &amp; more.",
+  "num_followers": 50748,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAag03aecQuaL8Zp83ae+3eIh7Q1fml",
+  "snapshot_id": "AAAau83K2/OL6qF5U6MItBtijMWLiAbw",
   "tracks": [
+    {
+      "added_at": "2024-08-28 16:47:58",
+      "album": {
+        "name": "INSTANT DEATH",
+        "url": "https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        },
+        {
+          "name": "Goner",
+          "url": "https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c"
+        }
+      ],
+      "duration_ms": 155408,
+      "name": "INSTANT DEATH",
+      "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+    },
+    {
+      "added_at": "2024-08-28 16:47:45",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/1od34k2qnVdccjj2GDfiY0"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        }
+      ],
+      "duration_ms": 313043,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ"
+    },
+    {
+      "added_at": "2024-08-28 16:48:39",
+      "album": {
+        "name": "take your vibes and go",
+        "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 134844,
+      "name": "take your vibes and go",
+      "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "added_at": "2024-08-28 17:09:22",
+      "album": {
+        "name": "Shake It Like A (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/3cQBYLjNbuCMHBpiWTwIar"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 197765,
+      "name": "Shake It Like A (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
+    },
+    {
+      "added_at": "2024-08-28 16:48:11",
+      "album": {
+        "name": "So Dramatic",
+        "url": "https://open.spotify.com/album/3AptlscWlH1LNL9P5qP7gp"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7zFkGRqHaa2KzL4l4cLIL5"
+    },
+    {
+      "added_at": "2024-08-28 16:47:08",
+      "album": {
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/5jNdazuk1sLFM7kPMJ7geF"
+      },
+      "artists": [
+        {
+          "name": "GRIGGY",
+          "url": "https://open.spotify.com/artist/14taCFzU37WYRPttdu7plf"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/0gwbpSOdruAYk3FETUBKif"
+    },
+    {
+      "added_at": "2024-08-28 16:47:14",
+      "album": {
+        "name": "FAF",
+        "url": "https://open.spotify.com/album/5fJBS7Ous2WYOQjrBP77qa"
+      },
+      "artists": [
+        {
+          "name": "Surf 2 Glory",
+          "url": "https://open.spotify.com/artist/1GQzSnBwaUlIdqFDiuktN3"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "FAF",
+      "url": "https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT"
+    },
+    {
+      "added_at": "2024-08-28 16:47:17",
+      "album": {
+        "name": "Rock Planet Chemist",
+        "url": "https://open.spotify.com/album/3nTeuJFBPGfsHhKEFQWv8t"
+      },
+      "artists": [
+        {
+          "name": "DJ Paver",
+          "url": "https://open.spotify.com/artist/5W0zB515Wg7oa9PnZNxwMi"
+        }
+      ],
+      "duration_ms": 267248,
+      "name": "Rock Planet",
+      "url": "https://open.spotify.com/track/2QZ9KCoV4Ujwzx2A96FnYN"
+    },
+    {
+      "added_at": "2024-08-28 16:47:04",
+      "album": {
+        "name": "Locomotiva Ibiza 2099 I",
+        "url": "https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Locomotiva Ibiza 2099 feat. VTSS",
+      "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
+    },
+    {
+      "added_at": "2024-08-28 16:48:48",
+      "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F"
+    },
+    {
+      "added_at": "2024-08-28 16:49:00",
+      "album": {
+        "name": "40 Hour Drive",
+        "url": "https://open.spotify.com/album/2FI47Iupx00n1LWGfV0c7e"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 230512,
+      "name": "40 Hour Drive",
+      "url": "https://open.spotify.com/track/5KW4Fp4DEnfJyj0zFTyVHP"
+    },
     {
       "added_at": "2024-07-14 22:51:47",
       "album": {
@@ -45,6 +249,46 @@
       "url": "https://open.spotify.com/track/1BeCYnSgefgDxYNuN9LOQB"
     },
     {
+      "added_at": "2024-08-28 16:48:30",
+      "album": {
+        "name": "CHURCH & SURF",
+        "url": "https://open.spotify.com/album/6gronSjSDPmO4l5bn7tvQo"
+      },
+      "artists": [
+        {
+          "name": "Durkalini",
+          "url": "https://open.spotify.com/artist/1nxosXm0jrpxcS0emZvUlk"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 86312,
+      "name": "SOHO",
+      "url": "https://open.spotify.com/track/45o1iqs4dsAEy03gQbq7LS"
+    },
+    {
+      "added_at": "2024-08-28 16:47:06",
+      "album": {
+        "name": "HIGHJACK",
+        "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 190074,
+      "name": "HIGHJACK",
+      "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
+    },
+    {
       "added_at": "2024-07-14 22:57:40",
       "album": {
         "name": "fucking highschool people",
@@ -79,6 +323,22 @@
       "duration_ms": 255955,
       "name": "beine sp\u00fcren - Paul Seul remix",
       "url": "https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ"
+    },
+    {
+      "added_at": "2024-08-28 16:47:11",
+      "album": {
+        "name": "See Through You",
+        "url": "https://open.spotify.com/album/3HI4Mh7Vgc3fFn4owYxx6E"
+      },
+      "artists": [
+        {
+          "name": "Samira",
+          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "See Through You",
+      "url": "https://open.spotify.com/track/67YgZAdBAl28xaqNTHapnz"
     },
     {
       "added_at": "2024-07-19 21:40:50",
@@ -169,6 +429,22 @@
       "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
     },
     {
+      "added_at": "2024-08-28 16:46:59",
+      "album": {
+        "name": "New Erotica Collection",
+        "url": "https://open.spotify.com/album/3mWuVVD49yMSC2y3wVW6SX"
+      },
+      "artists": [
+        {
+          "name": "System Olympia",
+          "url": "https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Call Girl",
+      "url": "https://open.spotify.com/track/6Imu7x4Aw431MxfxB2zLpq"
+    },
+    {
       "added_at": "2024-07-26 19:57:52",
       "album": {
         "name": "One More Time (feat. Popstar)",
@@ -207,6 +483,22 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "added_at": "2024-08-28 16:47:02",
+      "album": {
+        "name": "Euphoriphilia",
+        "url": "https://open.spotify.com/album/3g99XoVHz3t3EKfzPH5899"
+      },
+      "artists": [
+        {
+          "name": "Suzy Sheer",
+          "url": "https://open.spotify.com/artist/50p44UTSqyTs7BBHCeQq2V"
+        }
+      ],
+      "duration_ms": 204590,
+      "name": "Kiss (No Crosses)",
+      "url": "https://open.spotify.com/track/70QOq6l5gbLzyH1gXd4e2L"
     },
     {
       "added_at": "2024-07-26 19:58:00",
@@ -283,22 +575,6 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-07-26 19:57:57",
-      "album": {
-        "name": "AVIREX MUSIC",
-        "url": "https://open.spotify.com/album/6tLXuQkpmdu1lT9zGT9PGS"
-      },
-      "artists": [
-        {
-          "name": "Sub9K",
-          "url": "https://open.spotify.com/artist/0rn39NFJI8OiObhlVr7TzU"
-        }
-      ],
-      "duration_ms": 152971,
-      "name": "Mel Gibson",
-      "url": "https://open.spotify.com/track/6XbRwxW0EupdHoHoLi6AQS"
     },
     {
       "added_at": "2024-07-18 15:40:58",
@@ -451,26 +727,6 @@
       "duration_ms": 156064,
       "name": "I Need Your Violence",
       "url": "https://open.spotify.com/track/7hp6wioVHZ9lJIo4Pi42hz"
-    },
-    {
-      "added_at": "2024-06-22 00:40:47",
-      "album": {
-        "name": "LUXURY",
-        "url": "https://open.spotify.com/album/627z5HCoLuRLtWscADexPz"
-      },
-      "artists": [
-        {
-          "name": "Miss Madeline",
-          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
-        },
-        {
-          "name": "Chase Icon",
-          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "LUXURY",
-      "url": "https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j"
     },
     {
       "added_at": "2024-06-22 00:40:32",
@@ -949,30 +1205,6 @@
       "url": "https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw"
     },
     {
-      "added_at": "2024-05-10 21:10:43",
-      "album": {
-        "name": "EVILSLIME",
-        "url": "https://open.spotify.com/album/1QjQzHuJb4DnzmvqiQ2QkA"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Slimesito",
-          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
-        },
-        {
-          "name": "Eera",
-          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
-        }
-      ],
-      "duration_ms": 115211,
-      "name": "RIGHT OR WRONG",
-      "url": "https://open.spotify.com/track/1HICE9MTB7TW2aqxp7LF7U"
-    },
-    {
       "added_at": "2024-05-24 18:16:36",
       "album": {
         "name": "Valedictorian",
@@ -1131,42 +1363,6 @@
       "duration_ms": 183007,
       "name": "Mine O' Mine - P-rallel Remix",
       "url": "https://open.spotify.com/track/4f77scAPi1HX6OBeXkdBl9"
-    },
-    {
-      "added_at": "2024-04-26 18:14:02",
-      "album": {
-        "name": "DESIGNER DRUGZ",
-        "url": "https://open.spotify.com/album/3lGNVpMKKhqy9ogg5L4uRX"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Slimesito",
-          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
-        }
-      ],
-      "duration_ms": 143353,
-      "name": "DESIGNER DRUGZ",
-      "url": "https://open.spotify.com/track/06JXQfPKLhTAQNpCLCLJXC"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 177104,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
     },
     {
       "added_at": "2024-04-26 18:21:32",
@@ -1399,26 +1595,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Houdini (Danny L Harle Slowride Mix)",
-        "url": "https://open.spotify.com/album/6p2vrStOiZlz1xMcYVXtez"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 185678,
-      "name": "Houdini - Danny L Harle Slowride Mix",
-      "url": "https://open.spotify.com/track/2ChGgVurblHiROxSFw3vsP"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "World's Hardest Game",
         "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
       },
@@ -1447,30 +1623,6 @@
       "duration_ms": 180840,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "#HEAVENSGATE VOL. 1",
-        "url": "https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "K$upreme",
-          "url": "https://open.spotify.com/artist/7trxpXo6hVUnoB22sbCkEd"
-        },
-        {
-          "name": "Slimesito",
-          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
-        }
-      ],
-      "duration_ms": 119076,
-      "name": "LIL WAYNE",
-      "url": "https://open.spotify.com/track/6KnoViJF5e8tUf9iWKggji"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1551,62 +1703,6 @@
       "duration_ms": 207160,
       "name": "Mona Lisa Moan",
       "url": "https://open.spotify.com/track/5ns5Tb1ze3But3lgceEWzO"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/1eB6a3hIAK3q2SxjG9DHnY"
-      },
-      "artists": [
-        {
-          "name": "Lerado Khalil",
-          "url": "https://open.spotify.com/artist/6jqt9DD53I9n1RAj8SusCJ"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "1way",
-      "url": "https://open.spotify.com/track/3zcG7AVCDFaRZKCGmkbcbx"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "where's my head at _",
-        "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 152822,
-      "name": "where's my head at _",
-      "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "JGSG",
-        "url": "https://open.spotify.com/album/7b5kpZxuwy0KxQM7AsvZhd"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 72180,
-      "name": "MINDMAP",
-      "url": "https://open.spotify.com/track/4crzVIHusWSxAi668v9xlI"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1751,38 +1847,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "FRIED",
-        "url": "https://open.spotify.com/album/510BPX9r8VlNkF4b0o2qmC"
-      },
-      "artists": [
-        {
-          "name": "DavidTheTragic",
-          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "PARSLEY",
-      "url": "https://open.spotify.com/track/1RnGTZ0DomR137tsPsckWV"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "keep it goin xav",
-        "url": "https://open.spotify.com/album/3h0VZAV0VQ0WSp2dlpcIdH"
-      },
-      "artists": [
-        {
-          "name": "xaviersobased",
-          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
-        }
-      ],
-      "duration_ms": 91608,
-      "name": "BreakItDown",
-      "url": "https://open.spotify.com/track/0PBVudi2AmCmuKYKmvaT7X"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Like A Ribbon",
         "url": "https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC"
       },
@@ -1795,58 +1859,6 @@
       "duration_ms": 204916,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/1eB6a3hIAK3q2SxjG9DHnY"
-      },
-      "artists": [
-        {
-          "name": "Lerado Khalil",
-          "url": "https://open.spotify.com/artist/6jqt9DD53I9n1RAj8SusCJ"
-        },
-        {
-          "name": "Harto Fali\u00f3n",
-          "url": "https://open.spotify.com/artist/0wAEYYaHOqYJhHaSvpZUwP"
-        }
-      ],
-      "duration_ms": 95172,
-      "name": "White Lie",
-      "url": "https://open.spotify.com/track/65ig9gJIPbwzwtVm8WGpcK"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "D\u00f6d Mark 4Evigt",
-        "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
-      },
-      "artists": [
-        {
-          "name": "D\u00f6d Mark",
-          "url": "https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9"
-        }
-      ],
-      "duration_ms": 157451,
-      "name": "Evighet",
-      "url": "https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd"
-      },
-      "artists": [
-        {
-          "name": "Merry Lamb Lamb",
-          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
-        }
-      ],
-      "duration_ms": 263111,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
     }
   ],
   "unique_name": "Mad Decent Weekly",

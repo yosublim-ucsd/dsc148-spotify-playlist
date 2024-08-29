@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 ### [This Is Kirk Franklin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qXTri)
 
-> This is Kirk Franklin\. Todos os maiores hits em uma só playlist.
+> This Is Kirk Franklin\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,058 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,080 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [You Still Love Us](https://open.spotify.com/track/3dlU9kLdhOL2dwEFQYJuHI) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:24 |
 | 50 | [Revolution](https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Boycott](https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf) | 5:39 |
 
-Snapshot ID: `ZsvFgAAAAADxlip0zvv1HVx5U4mzFyc5`
+Snapshot ID: `ZsvFgAAAAAB9Ylbr1zLlqjfWz9u0Z56e`

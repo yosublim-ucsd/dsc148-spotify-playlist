@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: NuNew
 
-545 songs - 1 day 8 hr 23 min
+546 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [IWBYBF \(Original Soundtrack from "BE MY BOYFRIENDS 2 \- ROSE IN DA HOUSE"\)](https://open.spotify.com/track/6SVZlcM6bmOeYbiE93Ef53) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB), [Tommy Sittichok](https://open.spotify.com/artist/5Phq9wNCXtNt8b0ZDwuBjF), [TALAY](https://open.spotify.com/artist/55iFqROs9c9nw2auYuJ370), [MARKSIWAT](https://open.spotify.com/artist/5wWdsYM1ga3zWIaViwTFfC), [Boun Noppanut](https://open.spotify.com/artist/1TDYpPetZx12xYBtiwNyH7), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [IWBYBF \(Original Soundtrack from "BE MY BOYFRIENDS 2 \- ROSE IN DA HOUSE"\)](https://open.spotify.com/album/0MaIRb1qHAY6EWPS1pIEVn) | 4:18 | 2022-06-02 | 2022-06-10 |
 | [Jackpot](https://open.spotify.com/track/4rRdf1zm1Iqjznlbrml2GZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Jackpot](https://open.spotify.com/album/7iNT2d7jvOVtqwZYxPlJ3O) | 3:28 | 2022-09-15 | 2022-09-30 |
 | [JUST DANCE](https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [JUST DANCE](https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs) | 3:32 | 2023-01-26 | 2023-02-03 |
+| [KISS KISS](https://open.spotify.com/track/1N1lnrLpZfoRH7ICM74fEU) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [KISS KISS](https://open.spotify.com/album/5QV41p2rViJIU9gcBLV3Eb) | 3:22 | 2024-08-28 |  |
 | [Kiss Me!](https://open.spotify.com/track/2OJ4pcZ6TntuT0pk052jzW) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Kiss Me!](https://open.spotify.com/album/6buRGA4CO45tJZJpMmbJOx) | 3:04 | 2024-02-22 | 2024-03-02 |
 | [KNOCK KNOCK](https://open.spotify.com/track/2GCrGVTyymC8vXphc3uyep) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo), [JORIN](https://open.spotify.com/artist/4bKVuNT3nWDxl0Flezx1rj) | [KNOCK KNOCK \- Single](https://open.spotify.com/album/2ODK98p3Xfg56ZSGWkl6a4) | 3:12 | 2023-06-22 | 2024-05-24 |
 | [L.I.T \- Studio Ver.](https://open.spotify.com/track/3GBywB7OuV962QVeCRsdLu) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [L.I.T \(Studio Ver.\)](https://open.spotify.com/album/39Ks7LXBHTuSDCaLvhFlYU) | 3:20 | 2023-10-05 | 2023-10-20 |
@@ -204,7 +205,7 @@
 | [งอนตลอด \(Tell Me What You Want\)](https://open.spotify.com/track/7hz7tpYU2mvsBBnxLIjk8o) | [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [งอนตลอด \(Tell Me What You Want\)](https://open.spotify.com/album/1vUv6QoW9OEGv70WF6Rfru) | 3:16 | 2023-09-22 | 2023-10-06 |
 | [งอนละ](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 | 2023-09-20 |
 | [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-22 |  |
-| [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/track/7KYtXp4OomVO6N6Wc51kM9) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/album/3Y2dSVrfr5wC88TibguMqT) | 4:04 | 2024-08-15 |  |
+| [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/track/7KYtXp4OomVO6N6Wc51kM9) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [จดหมายรัก \(Sincerely Yours\)](https://open.spotify.com/album/3Y2dSVrfr5wC88TibguMqT) | 4:04 | 2024-08-15 | 2024-08-29 |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
 | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/track/5gfgG5rdsY3Ujs59xGwgo0) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [จะเป็นให้ได้เลย \(I’m Ready!\)](https://open.spotify.com/album/0StrxX14x5iooTqtn8nXOy) | 3:07 | 2024-05-06 | 2024-05-11 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 | 2024-06-01 |

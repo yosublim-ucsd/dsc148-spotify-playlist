@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 157626,
+  "num_followers": 157655,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-08-22 19:34:10",
       "album": {
+        "name": "Supersonic (Basstripper Remix)",
+        "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 224232,
+      "name": "Supersonic - Basstripper Remix",
+      "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
+    },
+    {
+      "added_at": "2024-08-22 19:34:10",
+      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
-    },
-    {
-      "added_at": "2024-08-22 19:34:10",
-      "album": {
-        "name": "Supersonic (Basstripper Remix)",
-        "url": "https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 224232,
-      "name": "Supersonic - Basstripper Remix",
-      "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
     },
     {
       "added_at": "2024-08-22 19:34:10",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-08-22 19:34:10",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
-    },
-    {
-      "added_at": "2024-08-22 19:34:10",
-      "album": {
         "name": "A Little More (Friendly Foe Remix)",
         "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 188275,
       "name": "A Little More - Friendly Foe Remix",
       "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
+    },
+    {
+      "added_at": "2024-08-22 19:34:10",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
     },
     {
       "added_at": "2024-08-22 19:34:10",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-22 19:34:10",
       "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
-    },
-    {
-      "added_at": "2024-08-22 19:34:10",
-      "album": {
         "name": "Nancy Junglist",
         "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 220800,
       "name": "Nancy Junglist",
       "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
+    },
+    {
+      "added_at": "2024-08-22 19:34:10",
+      "album": {
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
     },
     {
       "added_at": "2024-08-22 19:34:10",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-08-22 19:34:10",
       "album": {
-        "name": "Hardcore Riddim",
-        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        }
-      ],
-      "duration_ms": 249228,
-      "name": "Hardcore Riddim",
-      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
-    },
-    {
-      "added_at": "2024-08-22 19:34:10",
-      "album": {
         "name": "Meta Riddim",
         "url": "https://open.spotify.com/album/7krieuP9hW1gC6sNnUxC8K"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 254232,
       "name": "Meta Riddim",
       "url": "https://open.spotify.com/track/2u2vhW0N1UQgq0L1IYyW8w"
+    },
+    {
+      "added_at": "2024-08-22 19:34:10",
+      "album": {
+        "name": "Hardcore Riddim",
+        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        }
+      ],
+      "duration_ms": 249228,
+      "name": "Hardcore Riddim",
+      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
     },
     {
       "added_at": "2024-08-22 19:34:10",

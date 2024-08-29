@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Miles Nautu
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,022 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,065 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 36 | [money!](https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [money!](https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW) | 2:30 |
 | 37 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 38 | [Alone in the Dark](https://open.spotify.com/track/6ACoOMAlEwliECFRTCsTvr) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [Alone in the Dark](https://open.spotify.com/album/4l7xgeq26WRqCk3CoSWHhG) | 3:43 |
-| 39 | [Sit Down](https://open.spotify.com/track/15OJF0O9mcqDvTGnAR8mOb) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Sit Down](https://open.spotify.com/album/61i0UphomrYKq1el1hGkxN) | 2:32 |
+| 39 | [Sit Down](https://open.spotify.com/track/15OJF0O9mcqDvTGnAR8mOb) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Sit Down](https://open.spotify.com/album/61i0UphomrYKq1el1hGkxN) | 2:34 |
 | 40 | [Loser](https://open.spotify.com/track/32lp8fy60jhiM1uPr4h8sO) | [The Tullamarines](https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5) | [Loser](https://open.spotify.com/album/6UwUFzDynTFDw8ttNgPLyQ) | 3:00 |
 | 41 | [I Know What You Like](https://open.spotify.com/track/1JXo8BoMj6PeIGKRFliTof) | [Bec Sykes](https://open.spotify.com/artist/4VVb7e7KgVkt99sSvdxSL2) | [I Know What You Like](https://open.spotify.com/album/0hJqBuauaUDMGab00UC4CJ) | 3:42 |
 | 42 | [High Standards](https://open.spotify.com/track/15TdTzxecMez1Dw6IvxhhM) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [High Standards](https://open.spotify.com/album/1Z5o4bvn3UfgHxKNxosdWU) | 2:36 |

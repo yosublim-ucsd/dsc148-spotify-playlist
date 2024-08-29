@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Ralph
 
-1,014 songs - 2 day 4 hr 21 min
+1,016 songs - 2 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [DAIJINAMON](https://open.spotify.com/track/2mECnd4B1UVlq3uFzaMzrD) | [Deep Leaf](https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD), [Jeter](https://open.spotify.com/artist/3L9cu3KstfzbqZ0Yz6SW4b), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [DAIJINAMON](https://open.spotify.com/album/0mJ83mNs5W0Ax7sOyagvP4) | 2:02 | 2024-02-08 | 2024-02-10 |
 | [DAIKYUJYO](https://open.spotify.com/track/6X2t7KMv5swfmt6QR4JKqn) | [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [DAIKYUJYO](https://open.spotify.com/album/21OL83ryv1xqNXiQ5aoQii) | 3:03 | 2024-02-28 | 2024-03-27 |
 | [Daily Meets](https://open.spotify.com/track/4CnsxpN4C6twk8ya9Wq6L8) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Daily Meets](https://open.spotify.com/album/73Jy3GTDo4X4Rhdjanjqd9) | 3:02 | 2024-06-25 | 2024-07-03 |
+| [DANCELIXIR](https://open.spotify.com/track/5wZiqGMAbx6prjliENRYmb) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [DANCELIXIR](https://open.spotify.com/album/4xB7elCmGdQG1Srf9srUgz) | 2:58 | 2024-08-28 |  |
 | [DASU](https://open.spotify.com/track/3Z50sUroGIqtbaMQfGqOoc) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [DASU](https://open.spotify.com/album/67RyY3ewQ282LklwrRx3Li) | 2:58 | 2023-10-03 | 2023-10-11 |
 | [Day & Night](https://open.spotify.com/track/7qkG6a4pdooWNqgSz2PizX) | [ViryKnot](https://open.spotify.com/artist/0OmLGcDtPXUT2MnAtMtykp), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Day & Night](https://open.spotify.com/album/2SeuzXq3PPO1JREymjqmIm) | 2:36 | 2024-08-28 |  |
 | [Day 1](https://open.spotify.com/track/6L5xJl5MSTZwuVMvyua3ej) | [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb) | [soliloquio](https://open.spotify.com/album/5MtM57Lh3oYhlrD7hnLsCr) | 3:08 | 2024-08-03 | 2024-08-14 |
@@ -389,6 +390,7 @@
 | [Interest](https://open.spotify.com/track/6AcxzlVzebl34eXTEncIeD) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Interest](https://open.spotify.com/album/3CIxOcpESjOuywZ5P723fs) | 3:17 | 2024-02-28 | 2024-04-19 |
 | [IPPON](https://open.spotify.com/track/0RpSzkGJNGkmdrbrIgqG4y) | [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [25 joyboi](https://open.spotify.com/album/5aNPMkDsxcVzRGgcdYxBCv) | 2:30 | 2024-07-16 | 2024-08-16 |
 | [isekai](https://open.spotify.com/track/1AtbQhAfskE2WzUFK14rVs) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 3:40 | 2024-04-24 | 2024-05-08 |
+| [Island Flow](https://open.spotify.com/track/0xVdwG46vYzsq9EfaFsaXo) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Island Flow](https://open.spotify.com/album/3Qm9xaluHqqqmUvKXoNLiS) | 2:15 | 2024-08-28 |  |
 | [ISM](https://open.spotify.com/track/0252QtynkU5VsnIoQKToOm) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [ISM](https://open.spotify.com/album/4IdKDqJI4O4PXUiQNnClDi) | 3:46 | 2024-07-02 | 2024-07-10 |
 | [ISSUE](https://open.spotify.com/track/1OYV8eN3279Ou7FKTzLu0d) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA) | [ISSUE](https://open.spotify.com/album/4yVbYSuN3Rj8EHaTHrBckz) | 2:26 | 2024-08-21 |  |
 | [It's Not A Bad Thing](https://open.spotify.com/track/1lYvnAXJ1lmnAHtFmyqzqa) | [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [It's Not A Bad Thing](https://open.spotify.com/album/1Sm3MZeDvUc9BN7VNGn2Y5) | 3:16 | 2024-04-02 | 2024-04-17 |

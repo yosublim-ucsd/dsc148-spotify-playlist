@@ -20579,6 +20579,28 @@
     },
     {
       "album": {
+        "name": "throw it back",
+        "url": "https://open.spotify.com/album/6lOgUlThZsuQ4YjEFAO0oX"
+      },
+      "artists": [
+        {
+          "name": "1SEC",
+          "url": "https://open.spotify.com/artist/0ZsoOmc3MklnRauPm4FxlL"
+        },
+        {
+          "name": "fluent",
+          "url": "https://open.spotify.com/artist/7gwGLRTecyRhPh5qtsXeU6"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221678,
+      "name": "throw it back",
+      "url": "https://open.spotify.com/track/1COTpjhzESYgJ230j8pHWn"
+    },
+    {
+      "album": {
         "name": "Tik Tok",
         "url": "https://open.spotify.com/album/07rbrKhpXSilbigKmsfn0J"
       },

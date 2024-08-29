@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 105 | [Stretch Your Eyes](https://open.spotify.com/track/6v1q1CSP2FAsZ1vOua3ddY) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [Maybe I Love Kokomo](https://open.spotify.com/album/1e2vSHj3eyRKjvjdRyaGyO) | 3:17 |
 | 106 | [Turn up the Music](https://open.spotify.com/track/6hj1ydsfWAJxf14jSuBxgO) | [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Running, Fitness & Workout Music \(Cardio, Jogging, Gym, Training, Pump & Sport Session\)](https://open.spotify.com/album/70irZwH8bR9UGssAGvr6zo) | 3:55 |
 | 107 | [Empty](https://open.spotify.com/track/6JyGAC8zA00sLviSTy7eUm) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [Wildfires](https://open.spotify.com/album/7JpIZ91RWOIau5eUIkuAxK) | 3:04 |
-| 108 | [Lately](https://open.spotify.com/track/2HsFmrxcKiIFUWq4aHdYMF) | [Estefany](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Lately](https://open.spotify.com/album/2GwaCjC2SiEqOYv0T4zSDW) | 5:09 |
+| 108 | [Lately](https://open.spotify.com/track/2HsFmrxcKiIFUWq4aHdYMF) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Lately](https://open.spotify.com/album/2GwaCjC2SiEqOYv0T4zSDW) | 5:09 |
 | 109 | [Tous Les Hommes En Un](https://open.spotify.com/track/4wHcBzpTN6ABdeSf9ki2rO) | [Merwan Rim](https://open.spotify.com/artist/0yGfEbNbYNnF3RDtXxk08Q) | [L'Echappée](https://open.spotify.com/album/3DmlPzmKcFZorWHwKM2j2p) | 3:15 |
 | 110 | [Demonstrate](https://open.spotify.com/track/32TLjoTiQvBVzsPFtak7mk) | [Paxton](https://open.spotify.com/artist/7gyrfFsnJWKp7dQawi2VoR) | [This Is Me](https://open.spotify.com/album/0Zo7mvJIaN1QVpprbxo2ZA) | 2:47 |
 | 111 | [Broken Heart](https://open.spotify.com/track/3h0rAzuNjy6YEHZxzSgk2w) | [Raito](https://open.spotify.com/artist/5RXdPHNmsB6OQn8rUyRQtl) | [Broken Heart](https://open.spotify.com/album/6V5bFKFV9boYWezJw4whV3) | 2:29 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 130 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
 | 131 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `AbakngAAAAAiA+F1GsEGfQwkSM9Tb1q8`
+Snapshot ID: `AbaqPgAAAAB4wwNczHro/aZTxS9PIdDj`

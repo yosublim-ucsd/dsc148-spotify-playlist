@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46452,
+  "num_followers": 46469,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Io In Terra",
-        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Apnea",
-      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "Moriresti per vivere con me?",
         "url": "https://open.spotify.com/album/61eM5wzEw3GQyN1X1yV4ut"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 120533,
       "name": "Marylin M.",
       "url": "https://open.spotify.com/track/6uw8FVNAFNNpdXtd0AZl6m"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Io In Terra",
+        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Apnea",
+      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Indelebile",
+        "url": "https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "Indelebile",
+      "url": "https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "BreathingExercise",
         "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 72874,
       "name": "TheBestVersionOfMyself",
       "url": "https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "No Hooks",
-        "url": "https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "neezyboy",
-          "url": "https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Neve",
-      "url": "https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -539,22 +539,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Indelebile",
-        "url": "https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9"
+        "name": "No Hooks",
+        "url": "https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2"
       },
       "artists": [
         {
-          "name": "Fasma",
-          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         },
         {
-          "name": "GG",
-          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+          "name": "neezyboy",
+          "url": "https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv"
         }
       ],
-      "duration_ms": 168507,
-      "name": "Indelebile",
-      "url": "https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4"
+      "duration_ms": 192000,
+      "name": "Neve",
+      "url": "https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1095,6 +1095,42 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "ONIRO",
+        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+      },
+      "artists": [
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "DOVE SEI",
+      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "REBEL (Deluxe)",
+        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 220485,
+      "name": "Horror - Acoustic",
+      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "Profondo Rosa",
         "url": "https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE"
       },
@@ -1115,18 +1151,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "REBEL (Deluxe)",
-        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
       },
       "artists": [
         {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 220485,
-      "name": "Horror - Acoustic",
-      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
+      "duration_ms": 202500,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1151,22 +1187,6 @@
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Tatuaggi",
-        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tatuaggi",
-      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1207,22 +1227,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Polmoni",
-        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
-      },
-      "artists": [
-        {
-          "name": "Tripolare",
-          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
-        }
-      ],
-      "duration_ms": 123789,
-      "name": "Polmoni",
-      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "La stella pi\u00f9 bella di sempre",
         "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
       },
@@ -1239,18 +1243,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "MALA VITA",
-        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
+        "name": "Polmoni",
+        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
       },
       "artists": [
         {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
         }
       ],
-      "duration_ms": 179087,
-      "name": "Ti maledir\u00f2",
-      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
+      "duration_ms": 123789,
+      "name": "Polmoni",
+      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1267,6 +1271,22 @@
       "duration_ms": 146080,
       "name": "Torner\u00f2",
       "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "MALA VITA",
+        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        }
+      ],
+      "duration_ms": 179087,
+      "name": "Ti maledir\u00f2",
+      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1347,30 +1367,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "PERCH\u00c9 NON TI CAPIVO",
-        "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
-      },
-      "artists": [
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        },
-        {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Frada",
-          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
-        }
-      ],
-      "duration_ms": 142725,
-      "name": "PERCH\u00c9 NON TI CAPIVO",
-      "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "FOTORICORDO",
         "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
@@ -1407,6 +1403,30 @@
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "PERCH\u00c9 NON TI CAPIVO",
+        "url": "https://open.spotify.com/album/5e3Dy4cnbNIhXL45ETogGF"
+      },
+      "artists": [
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        },
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Frada",
+          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
+        }
+      ],
+      "duration_ms": 142725,
+      "name": "PERCH\u00c9 NON TI CAPIVO",
+      "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1463,26 +1483,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "ONIRO",
-        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
-      },
-      "artists": [
-        {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
-        },
-        {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "DOVE SEI",
-      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "TRASHBIN, Vol. 3",
         "url": "https://open.spotify.com/album/4RwU2dfTY9D2yfEcYsXn4z"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 151858,
       "name": "pensieri brutti",
       "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "AUTORITRATTO",
         "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 133658,
       "name": "SOGNI",
       "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2024-07-01 15:44:18",

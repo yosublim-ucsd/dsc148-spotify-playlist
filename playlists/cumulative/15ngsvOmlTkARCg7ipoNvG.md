@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,793 songs - 1 day 12 hr 58 min
+1,794 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Beautiful Places Arr\. For Cello](https://open.spotify.com/track/0SrKKF0rLAFSncOjyXANbQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Beautiful Places Arr\. For Cello](https://open.spotify.com/album/7pA9jiMHl941Jkm8L6Vuf8) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Beautiful Skies](https://open.spotify.com/track/2KfIpVHrdpzENkvn3zkFPU) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Beautiful Skies](https://open.spotify.com/album/30KJpVBq5OR1qcCOqBjX7d) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Beautiful Sky](https://open.spotify.com/track/2Ce4lxN8d8eCIrEmLv9Hl7) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Cello Songs](https://open.spotify.com/album/4qk2Cg1Gu9xJvDjyu9Mf6u) | 1:05 | 2022-02-18 | 2024-02-13 |
+| [Beautiful Soul](https://open.spotify.com/track/6MFK3n4FLjc47KDX2mWIOl) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Beautiful Soul](https://open.spotify.com/album/0bS3DTxzPvVVK1PjwggKHR) | 1:00 | 2024-08-28 |  |
 | [Beautiful Stillness](https://open.spotify.com/track/63ryEBkb9i1Tug3MBS86M6) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Beautiful Stillness](https://open.spotify.com/album/1YX9D9j8bLHKxS3w3TUvqp) | 2:55 | 2022-01-12 | 2024-01-30 |
 | [Beautiful Sunsets \- Cello Version](https://open.spotify.com/track/0UlCIWpGeIa3WgYc6FM4xL) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Winter String Melodies](https://open.spotify.com/album/2UroLPBnWzdEPOleebnFJw) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Beautiful Thoughts](https://open.spotify.com/track/2RTqC4jJ4Ee0kTvucJF5y4) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Beautiful Thoughts](https://open.spotify.com/album/4CPKSe0g11plO7x5xdgF2b) | 1:02 | 2022-09-12 |  |

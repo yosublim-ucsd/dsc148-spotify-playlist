@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 358262,
+  "num_followers": 358265,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 167066,
       "name": "Chain of Fools",
       "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2024-06-03 14:49:59",

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 
 ### [This Is Campo De Almas.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz)
 
-> This is Campo De Almas.\. The essential tracks, all in one playlist.
+> This Is Campo De Almas.\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 532 likes - 47 songs - 3 hr 6 min
 
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 | 46 | [Ecos De La Noche](https://open.spotify.com/track/5AbeaaNXyUj2o9WciFfAxc) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 5:07 |
 | 47 | [Niebla](https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:49 |
 
-Snapshot ID: `ZsvFgAAAAACYFoJQKC5SDgSatA4MtVrP`
+Snapshot ID: `ZsvFgAAAAACNooWkkiHhXgQinaLs6TPh`

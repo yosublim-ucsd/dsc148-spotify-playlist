@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 ### [This Is The O'Jays](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Oq1nW)
 
-> This is The O'Jays\. The essential tracks, all in one playlist.
+> This is The O'Jays\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,710 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,717 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 49 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
 | 50 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
 
-Snapshot ID: `ZsvFgAAAAAC8UGN0W6jFg+ELSgLQ+YtA`
+Snapshot ID: `ZsvFgAAAAAC8ar3QHeCRbz5F1wWAIhwl`

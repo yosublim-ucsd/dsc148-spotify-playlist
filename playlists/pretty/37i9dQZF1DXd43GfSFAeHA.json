@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: The Synaptik ",
-  "num_followers": 132216,
+  "num_followers": 132225,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
+        "name": "Ayamy Betfoot",
+        "url": "https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Ayamy Betfoot",
+      "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
         "name": "Ostaz Mahmoud Bezzawy",
         "url": "https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 162618,
       "name": "Ostaz Mahmoud Bezzawy",
       "url": "https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
-        "name": "Ayamy Betfoot",
-        "url": "https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3"
-      },
-      "artists": [
-        {
-          "name": "Abo El Anwar",
-          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Ayamy Betfoot",
-      "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
     },
     {
       "added_at": "2024-08-12 08:19:10",

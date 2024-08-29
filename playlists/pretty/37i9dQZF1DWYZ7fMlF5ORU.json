@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 162363,
+  "num_followers": 162402,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -223,8 +223,8 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
+        "name": "Eli Soares",
+        "url": "https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 249917,
-      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
+      "duration_ms": 231520,
+      "name": "Porque Ele Vive",
+      "url": "https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Eli Soares",
-        "url": "https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT"
+        "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 231520,
-      "name": "Porque Ele Vive",
-      "url": "https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3"
+      "duration_ms": 249917,
+      "name": "Vem Com Josu\u00e9 Lutar Em Jeric\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Por Amor a Ti",
+        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Medley: Dom Supremo",
+      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Aten\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 240520,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Por Amor a Ti",
-        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Medley: Dom Supremo",
-      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA"
+      },
+      "artists": [
+        {
+          "name": "Samuel Mizrahy",
+          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Reden\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA"
-      },
-      "artists": [
-        {
-          "name": "Samuel Mizrahy",
-          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL"
     },
     {
       "added_at": "2024-08-23 03:01:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. The essential tracks, all in one playlist.
+> This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,234 likes - 52 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,245 likes - 52 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 51 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 |
 | 52 | [Vento do Espírito](https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:08 |
 
-Snapshot ID: `ZsvFgAAAAABFDid4j4g9JOenRWaBdcFh`
+Snapshot ID: `ZsvFgAAAAAAG/VC0I1B4c0riI/fr37Bk`

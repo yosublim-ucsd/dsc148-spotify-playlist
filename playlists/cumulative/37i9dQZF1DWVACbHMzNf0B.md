@@ -4,7 +4,7 @@
 
 > 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://subelealamexcla.byspotify.com/"> AQUÍ</a>
 
-589 songs - 1 day 7 hr 11 min
+589 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 | 2024-02-23 | 2024-05-04 |
 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-26 | 2024-04-17 |
 | [Bandolero](https://open.spotify.com/track/2AsqZbYfD9007Dw9aW6N7u) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Bandolero](https://open.spotify.com/album/223VABFuHUyZNNW1OTGlmW) | 2:52 | 2021-12-08 | 2022-09-20 |
-| [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:51 | 2024-08-13 |  |
+| [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:31 | 2024-08-13 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2022-12-16 | 2024-05-11 |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2023-05-05 | 2023-06-03 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2023-12-15 | 2024-05-25 |

@@ -1,12 +1,12 @@
 {
   "description": "She's your favorite artist's favorite artist for real \ud83d\udc97",
-  "num_followers": 2159261,
+  "num_followers": 2159110,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs4vhQAAAAC63iH56FLhU1MhaTutmAlh",
+  "snapshot_id": "Zs+wrgAAAADD7SoWOMB5DGY1ijLBew+A",
   "tracks": [
     {
       "added_at": "2024-08-26 19:02:13",
@@ -57,20 +57,36 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-28 21:23:37",
       "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+    },
+    {
+      "added_at": "2024-08-28 21:23:37",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2024-08-26 19:02:13",
@@ -89,6 +105,58 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-08-22 04:00:00",
+      "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Diet Pepsi",
@@ -103,6 +171,22 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
     },
     {
       "added_at": "2024-08-22 04:00:00",
@@ -151,26 +235,6 @@
       "duration_ms": 155577,
       "name": "PASSENGER PRINCESS",
       "url": "https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9"
-    },
-    {
-      "added_at": "2024-08-22 04:00:00",
-      "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Symphony (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -241,22 +305,6 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
-    },
-    {
       "added_at": "2024-07-01 17:54:09",
       "album": {
         "name": "BRAT",
@@ -287,6 +335,22 @@
       "duration_ms": 123088,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
+    },
+    {
+      "added_at": "2024-08-13 20:05:12",
+      "album": {
+        "name": "The Love Club EP",
+        "url": "https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 201433,
+      "name": "The Love Club",
+      "url": "https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces"
     },
     {
       "added_at": "2024-08-27 19:56:53",
@@ -453,22 +517,6 @@
       "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
     },
     {
-      "added_at": "2024-08-22 04:00:00",
-      "album": {
-        "name": "My Everything - Tenth Anniversary Edition",
-        "url": "https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 215810,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/2llI8hROBLYRXhH89nfqJW"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Again (feat. XXXTENTACION)",
@@ -587,22 +635,6 @@
       "duration_ms": 182795,
       "name": "\ubcc4\ubcc4\ubcc4 (See that?)",
       "url": "https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -949,22 +981,6 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2024-08-13 20:05:12",
-      "album": {
-        "name": "The Love Club EP",
-        "url": "https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 201433,
-      "name": "The Love Club",
-      "url": "https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces"
-    },
-    {
       "added_at": "2024-08-06 19:54:48",
       "album": {
         "name": "No Strings Attached",
@@ -1059,38 +1075,6 @@
       "duration_ms": 210070,
       "name": "Dream",
       "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Eyes For Me",
-        "url": "https://open.spotify.com/album/3YCuPHsoMzKZ1I4QSKEW25"
-      },
-      "artists": [
-        {
-          "name": "Alexa Cappelli",
-          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
-        }
-      ],
-      "duration_ms": 143711,
-      "name": "Eyes For Me",
-      "url": "https://open.spotify.com/track/6sF8VBCmb8XlMJ3l28vul0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1203,22 +1187,6 @@
       "duration_ms": 148021,
       "name": "Blackout Drunk",
       "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1353,22 +1321,6 @@
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
     },
     {
-      "added_at": "2024-06-19 20:56:23",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 86983,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
-    },
-    {
       "added_at": "2024-07-15 18:57:33",
       "album": {
         "name": "ROMANCE : UNTOLD",
@@ -1435,22 +1387,6 @@
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Good Guy",
-        "url": "https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk"
-      },
-      "artists": [
-        {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
-        }
-      ],
-      "duration_ms": 152759,
-      "name": "Good Guy",
-      "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
     },
     {
       "added_at": "2024-07-08 05:06:58",

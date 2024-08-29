@@ -10854,7 +10854,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 108007,
       "name": "Ice Mountain",
       "url": "https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw"
@@ -15726,6 +15726,24 @@
       "duration_ms": 99800,
       "name": "My Time",
       "url": "https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5"
+    },
+    {
+      "album": {
+        "name": "My Treat",
+        "url": "https://open.spotify.com/album/2YNRCzDh6HNNQmDFOOLJu5"
+      },
+      "artists": [
+        {
+          "name": "Trish Lupin",
+          "url": "https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122897,
+      "name": "My Treat",
+      "url": "https://open.spotify.com/track/3s66gdZkMGrpjY04UyU5yX"
     },
     {
       "album": {

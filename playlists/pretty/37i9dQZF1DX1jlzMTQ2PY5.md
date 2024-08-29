@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,745 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,862 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 31 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
 | 32 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
 | 33 | [Where The Flowers Grow](https://open.spotify.com/track/6hf4kAaXmv4eqxuXu0FWB1) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Where The Flowers Grow](https://open.spotify.com/album/2mICl0woSF5tieybH5Theo) | 3:53 |
-| 34 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
-| 35 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
+| 34 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
+| 35 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
 | 36 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
 | 37 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 38 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |

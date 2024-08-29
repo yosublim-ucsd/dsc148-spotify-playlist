@@ -1,6 +1,6 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 96348,
+  "num_followers": 96680,
   "original_name": "Verano Mix 2024",
   "owner": {
     "name": "Spotify",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+      "duration_ms": 230000,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1055,34 +1055,6 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "POLARIS (Remix)",
-        "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "POLARIS - Remix",
-      "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -1119,6 +1091,34 @@
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
+        "name": "POLARIS (Remix)",
+        "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "POLARIS - Remix",
+      "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1351,22 +1351,26 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "Jerusalema",
-        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
       "artists": [
         {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        },
+        {
+          "name": "La H\u00fangara",
+          "url": "https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU"
         }
       ],
-      "duration_ms": 342612,
-      "name": "Jerusalema (feat. Nomcebo Zikode)",
-      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+      "duration_ms": 198493,
+      "name": "T\u00fa Me Dejaste De Querer",
+      "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1407,26 +1411,22 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+        "name": "Jerusalema",
+        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
         },
         {
-          "name": "Ni\u00f1o de Elche",
-          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
-        },
-        {
-          "name": "La H\u00fangara",
-          "url": "https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU"
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
         }
       ],
-      "duration_ms": 198493,
-      "name": "T\u00fa Me Dejaste De Querer",
-      "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+      "duration_ms": 342612,
+      "name": "Jerusalema (feat. Nomcebo Zikode)",
+      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 222896,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
         "name": "RITMO (Bad Boys For Life)",
         "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
-        "name": "Mala Mujer",
-        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 222896,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1851,6 +1851,30 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -1887,30 +1911,6 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "Clavaito",
-        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
-      },
-      "artists": [
-        {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 162740,
-      "name": "Clavaito",
-      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 200746,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
+        "name": "Clavaito",
+        "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 162740,
+      "name": "Clavaito",
+      "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
+        "name": "Flamenco y Bachata",
+        "url": "https://open.spotify.com/album/1H7ReEyX6o5ygyXMueHLBm"
+      },
+      "artists": [
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Flamenco y Bachata",
+      "url": "https://open.spotify.com/track/6ynErSDSlxqsxg0D3LJ8sK"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
         "name": "Hace Calor (Remix)",
         "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
       },
@@ -2347,22 +2363,6 @@
       "duration_ms": 247384,
       "name": "Hace Calor - Remix",
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
-        "name": "Flamenco y Bachata",
-        "url": "https://open.spotify.com/album/1H7ReEyX6o5ygyXMueHLBm"
-      },
-      "artists": [
-        {
-          "name": "Daviles de Novelda",
-          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Flamenco y Bachata",
-      "url": "https://open.spotify.com/track/6ynErSDSlxqsxg0D3LJ8sK"
     },
     {
       "added_at": "2024-05-24 08:52:25",

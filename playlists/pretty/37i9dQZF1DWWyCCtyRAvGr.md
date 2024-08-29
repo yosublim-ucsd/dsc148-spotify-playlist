@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,495 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,582 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 21 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
 | 22 | [Don't Answer The Door](https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [His Best: The Electric B.B\. King \(Expanded Edition\)](https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4) | 5:09 |
 | 23 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
-| 24 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
-| 25 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin’ Wolf Sessions \- Deluxe Edition](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 |
-| 26 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
+| 24 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin’ Wolf Sessions \- Deluxe Edition](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 |
+| 25 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
+| 26 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
 | 27 | [Three Hours Past Midnight](https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Colin James And The Little Big Band](https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm) | 6:08 |
 | 28 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
 | 29 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 |

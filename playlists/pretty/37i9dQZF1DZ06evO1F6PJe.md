@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is: Joe Bonamassa\. Alle wichtigen Tracks in einer Playlist.
+> This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,637 likes - 51 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,648 likes - 51 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
 | 51 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 |
 
-Snapshot ID: `ZsvFgAAAAAArn0H6p8LhOL8Jztkw3qDv`
+Snapshot ID: `ZsvFgAAAAADIpZYCpW53mTyde+WrFHwE`

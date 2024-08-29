@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Big One, Ciro y los Persas & Miranda!",
-  "num_followers": 53518,
+  "num_followers": 53556,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+        "name": "QUEREME",
+        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+      "duration_ms": 194840,
+      "name": "QUEREME",
+      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -339,22 +343,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "QUEREME",
-        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 194840,
-      "name": "QUEREME",
-      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "posta",
         "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "no llames lo m\u00edo nuestro",
-        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "no llames lo m\u00edo nuestro",
-      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Kapun",
         "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "La Fuerza del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "EL PROCESO",
         "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 235500,
       "name": "Te So\u00f1aba",
       "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "La Fuerza del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "P\u00f3stumo",
-        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
       },
       "artists": [
         {
           "name": "Benjam\u00edn Amadeo",
           "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 214004,
-      "name": "P\u00f3stumo",
-      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
+      "duration_ms": 208000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
     },
     {
       "added_at": "2024-08-23 03:00:00",

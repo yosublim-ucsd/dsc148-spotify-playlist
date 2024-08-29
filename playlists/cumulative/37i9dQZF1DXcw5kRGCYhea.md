@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-125 songs - 6 hr 18 min
+126 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Love \(French Remix\)](https://open.spotify.com/track/7jOKVEH8BKVJekdWY9yOeH) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Love \(French Remix\)](https://open.spotify.com/album/6x82evLa3aeI9agy8mNbE4) | 2:53 | 2024-07-19 | 2024-08-16 |
 | [LV](https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51) | [Smurxa](https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB) | [LV](https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS) | 2:54 | 2024-06-17 |  |
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-03-26 | 2024-07-05 |
+| [Mab9it Kan7s B'walo](https://open.spotify.com/track/2szMlVaVGTjwPeG09hjZqH) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [August](https://open.spotify.com/album/0mFNED1mFni7eEEPi4PWk3) | 3:41 | 2024-08-28 |  |
 | [Madama](https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Madama](https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m) | 2:23 | 2024-03-26 |  |
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-08 | 2024-07-24 |
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-03-26 |  |
@@ -125,7 +126,7 @@
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-07-03 |  |
 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-18 | 2024-08-02 |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-07-04 | 2024-07-07 |
-| [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 | 2024-05-22 |  |
+| [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 | 2024-05-22 | 2024-08-29 |
 | [Wine](https://open.spotify.com/track/1KyRQJGLLkuEQC9Y0aeI9U) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Wine](https://open.spotify.com/album/3HvRgamjEvg5mSB6ergRjc) | 2:18 | 2024-05-17 | 2024-06-23 |
 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2024-03-26 |  |
 | [Ya Omri](https://open.spotify.com/track/2BHUvJYgDuKYxDwT6XKGVa) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Ya Omri](https://open.spotify.com/album/7jYMiGKF1WgzccQ9IskNEG) | 3:14 | 2024-08-02 |  |

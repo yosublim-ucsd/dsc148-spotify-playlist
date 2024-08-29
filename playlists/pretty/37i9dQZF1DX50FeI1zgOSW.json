@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 12619,
+  "num_followers": 12624,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs0T4wAAAAAMxfQwqEqnymwVLpPf6v/j",
+  "snapshot_id": "Zs7bDwAAAABPzDjH1gchg2DO1l1enHmi",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C"
     },
     {
+      "added_at": "2024-08-26 23:46:43",
+      "album": {
+        "name": "Distant Hearts",
+        "url": "https://open.spotify.com/album/66Usj77sp7rqjjN75lfYcr"
+      },
+      "artists": [
+        {
+          "name": "Stv Andrew",
+          "url": "https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd"
+        },
+        {
+          "name": "Ramprasad Nachimuthu",
+          "url": "https://open.spotify.com/artist/4BGo0AEhutUT0nJdEUvU9y"
+        }
+      ],
+      "duration_ms": 233999,
+      "name": "Distant Hearts",
+      "url": "https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA"
+    },
+    {
       "added_at": "2024-06-28 11:08:18",
       "album": {
         "name": "Nila",
@@ -71,50 +91,6 @@
       "duration_ms": 207310,
       "name": "Nila",
       "url": "https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed"
-    },
-    {
-      "added_at": "2024-08-21 14:38:15",
-      "album": {
-        "name": "VENKUZHALI",
-        "url": "https://open.spotify.com/album/3HN4AEXQO0Sw2PiUqwIq8l"
-      },
-      "artists": [
-        {
-          "name": "Martin Kartenjer",
-          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
-        },
-        {
-          "name": "L J Vijay",
-          "url": "https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP"
-        },
-        {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "VENKUZHALI",
-      "url": "https://open.spotify.com/track/4oIGqgabBXnjr6uwBplh1i"
-    },
-    {
-      "added_at": "2024-08-26 23:46:43",
-      "album": {
-        "name": "Distant Hearts",
-        "url": "https://open.spotify.com/album/66Usj77sp7rqjjN75lfYcr"
-      },
-      "artists": [
-        {
-          "name": "Stv Andrew",
-          "url": "https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd"
-        },
-        {
-          "name": "Ramprasad Nachimuthu",
-          "url": "https://open.spotify.com/artist/4BGo0AEhutUT0nJdEUvU9y"
-        }
-      ],
-      "duration_ms": 233999,
-      "name": "Distant Hearts",
-      "url": "https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA"
     },
     {
       "added_at": "2024-07-12 17:17:26",
@@ -161,20 +137,24 @@
       "url": "https://open.spotify.com/track/2cbQSnKC35zh2WwIXsPZeS"
     },
     {
-      "added_at": "2024-08-01 05:39:18",
+      "added_at": "2024-08-28 07:37:29",
       "album": {
-        "name": "Varun & Swathi",
-        "url": "https://open.spotify.com/album/5iv9tqsOzkperns4kDE6pm"
+        "name": "Podu Mike",
+        "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
       },
       "artists": [
         {
-          "name": "Raja Monsingh",
-          "url": "https://open.spotify.com/artist/3xTWrKpHuvtK3bOdWOvR3L"
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
         }
       ],
-      "duration_ms": 239903,
-      "name": "Varun & Swathi",
-      "url": "https://open.spotify.com/track/14BV2LYYNoQJm0cgf8OY7c"
+      "duration_ms": 120000,
+      "name": "Podu Mike",
+      "url": "https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F"
     },
     {
       "added_at": "2024-08-21 14:38:15",
@@ -211,38 +191,6 @@
       "duration_ms": 203478,
       "name": "Written By Holy Cow!",
       "url": "https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU"
-    },
-    {
-      "added_at": "2024-08-23 10:00:09",
-      "album": {
-        "name": "En Usurukku",
-        "url": "https://open.spotify.com/album/0dFLB5UQ0eDJ4sXAsaCm32"
-      },
-      "artists": [
-        {
-          "name": "Keshav Ram",
-          "url": "https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7"
-        }
-      ],
-      "duration_ms": 300822,
-      "name": "En Usurukku",
-      "url": "https://open.spotify.com/track/7veF16HNU1LYhm421W7LNp"
-    },
-    {
-      "added_at": "2024-07-27 01:06:30",
-      "album": {
-        "name": "Aasai Dhan",
-        "url": "https://open.spotify.com/album/3UsRTFRJuwiSg4FfYrsCAn"
-      },
-      "artists": [
-        {
-          "name": "Rudra",
-          "url": "https://open.spotify.com/artist/61gOjwzZNoWJlBW6Agw4GN"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Aasai Dhan",
-      "url": "https://open.spotify.com/track/5VHWhBx27a9NiErhhnf4mr"
     },
     {
       "added_at": "2024-07-30 11:54:53",

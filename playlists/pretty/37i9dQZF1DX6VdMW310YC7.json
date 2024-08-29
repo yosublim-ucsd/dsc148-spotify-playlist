@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3895814,
+  "num_followers": 3895810,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Cold Enough For Snow",
         "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 251731,
       "name": "Glasshouse (feat. Julia Church)",
       "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Turtle Jazz",
         "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Beautiful Life (Madism Remix)",
-        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 175609,
-      "name": "Beautiful Life - Madism Remix",
-      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
+      "duration_ms": 202997,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
+        "name": "Beautiful Life (Madism Remix)",
+        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 202997,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
+      "duration_ms": 175609,
+      "name": "Beautiful Life - Madism Remix",
+      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Trying To See U",
+        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Trying To See U",
+      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 195250,
       "name": "Prism",
       "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1407,26 +1423,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Brighter (Emmit's Version)",
-        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Brighter - Emmit's Version",
-      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "every-little-part",
         "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
       },
@@ -1451,6 +1447,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Dont Let Go",
+        "url": "https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV"
+      },
+      "artists": [
+        {
+          "name": "Rich Vom Dorf",
+          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Dont Let Go",
+      "url": "https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Dark In This Room",
         "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
       },
@@ -1463,6 +1475,26 @@
       "duration_ms": 252000,
       "name": "Dark In This Room",
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Adlin",
+          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
+        }
+      ],
+      "duration_ms": 172622,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1483,6 +1515,26 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Brighter (Emmit's Version)",
+        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Brighter - Emmit's Version",
+      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1519,42 +1571,6 @@
       "duration_ms": 236129,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
-      },
-      "artists": [
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Adlin",
-          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
-        }
-      ],
-      "duration_ms": 172622,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Trying To See U",
-        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
-      },
-      "artists": [
-        {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Trying To See U",
-      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1599,26 +1615,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Double Reflections",
-        "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Double Reflections",
-      "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Devices / Green",
         "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
       },
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+        "name": "Double Reflections",
+        "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
+      "duration_ms": 256500,
+      "name": "Double Reflections",
+      "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1691,34 +1691,18 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Dont Let Go",
-        "url": "https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
       },
       "artists": [
         {
-          "name": "Rich Vom Dorf",
-          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Dont Let Go",
-      "url": "https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 267860,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1739,6 +1723,22 @@
       "duration_ms": 257560,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 267860,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        },
+        {
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Nothing To Lose (feat. Circa Waves)",
         "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 251474,
       "name": "Roused",
       "url": "https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        },
-        {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Essentialism.",
         "url": "https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 200105,
       "name": "Essentialism.",
       "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     }
   ],
   "unique_name": "Chill Tracks",

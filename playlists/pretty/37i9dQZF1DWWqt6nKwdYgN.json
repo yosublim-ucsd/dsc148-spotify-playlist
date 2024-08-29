@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Yoss Bones en portada. ",
-  "num_followers": 14728,
+  "num_followers": 14733,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Cypher MND #18: Neo Pistea, Obie Wanshot & CNO",
         "url": "https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 154285,
       "name": "Cypher MND #18 v.1: Neo Pistea, Obie Wanshot & CNO",
       "url": "https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Parlante",
-        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        },
-        {
-          "name": "Valles T",
-          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
-        },
-        {
-          "name": "Raymond Daniel",
-          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "Parlante",
-      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Tiempo y Espacio",
         "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 177756,
       "name": "Tiempo y Espacio",
       "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+      },
+      "artists": [
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Sideral",
         "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 189486,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
-      },
-      "artists": [
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1443,6 +1443,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "UFC",
+        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Limbo Lowfi",
+          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
+        },
+        {
+          "name": "Renzo de Santis",
+          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "UFC",
+      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Charic",
         "url": "https://open.spotify.com/album/1H7Xl7VVVoizaRx7P8XJx5"
       },
@@ -1487,26 +1511,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "UFC",
-        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
       },
       "artists": [
         {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+          "name": "Kris Alaniz",
+          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
         },
         {
-          "name": "Limbo Lowfi",
-          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
-        },
-        {
-          "name": "Renzo de Santis",
-          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
+          "name": "Mari Pol\u00e9",
+          "url": "https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY"
         }
       ],
-      "duration_ms": 230000,
-      "name": "UFC",
-      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+      "duration_ms": 202803,
+      "name": "Amor Bonito",
+      "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1531,26 +1551,6 @@
       "duration_ms": 174086,
       "name": "Remakia",
       "url": "https://open.spotify.com/track/27uIJiTu7mxvbnpwyGHUUR"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Esc\u00e1ndalo",
-        "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
-      },
-      "artists": [
-        {
-          "name": "Kris Alaniz",
-          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
-        },
-        {
-          "name": "Mari Pol\u00e9",
-          "url": "https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY"
-        }
-      ],
-      "duration_ms": 202803,
-      "name": "Amor Bonito",
-      "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
     },
     {
       "added_at": "2024-08-02 06:00:00",

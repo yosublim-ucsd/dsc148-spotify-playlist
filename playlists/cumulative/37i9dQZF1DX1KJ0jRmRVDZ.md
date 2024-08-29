@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,185 songs - 2 day 19 hr 32 min
+1,186 songs - 2 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,6 +746,7 @@
 | [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 | 2024-02-29 |
 | [ブロードウェイ](https://open.spotify.com/track/2raSZjamdHq3bVk8GdGIgv) | [いゔどっと](https://open.spotify.com/artist/1IgcHRzXg2POh5QKM1p7mj) | [ブロードウェイ](https://open.spotify.com/album/7MSLbK6M2XYDpjQYyTziX4) | 3:03 | 2022-10-25 | 2022-11-18 |
 | [プラネテス](https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [プラネテス](https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc) | 4:40 | 2022-06-13 | 2022-07-27 |
+| [プロポーズ](https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [プロポーズ](https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P) | 3:54 | 2024-08-28 |  |
 | [プロポーズ](https://open.spotify.com/track/58tZJM6HcCHPxfA9AQn2Av) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [プロポーズ](https://open.spotify.com/album/0Xo0gFgxiQFsEftmF4LK4s) | 3:55 | 2023-10-24 | 2023-11-16 |
 | [プロローグ](https://open.spotify.com/track/7xk7RN5lLRzJVcu0m8Y65O) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [EVAN](https://open.spotify.com/artist/6bzdpLlsMQUyZzsbyBe4k2) | [プロローグ](https://open.spotify.com/album/015y1Qu5wxZN3uvHG7Q5Rl) | 5:01 | 2022-08-11 | 2022-08-24 |
 | [ヘビリンゴ](https://open.spotify.com/track/4uw4goMk2bvSFs04NuzTlf) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa), [ねね](https://open.spotify.com/artist/0S1GRfE1kpYSsOi08WkEet) | [ヘビリンゴ](https://open.spotify.com/album/5YtSut1smkxNZp810K5EC9) | 3:47 | 2022-06-21 | 2022-07-25 |
@@ -834,7 +835,7 @@
 | [僕らのストラテジー](https://open.spotify.com/track/2yrOqr7f2bJg5Z5keVIbO8) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp), [晴いちばん](https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW), [Flower](https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj) | [Ukulele Strategy](https://open.spotify.com/album/47xjZNxmVLnMTTbZrQCWVW) | 3:01 | 2022-06-21 | 2022-07-08 |
 | [優しさの在処](https://open.spotify.com/track/6arv0f7LlfDlyNfsaeVNjV) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [優しさの在処](https://open.spotify.com/album/2coTiBKAUB80TgEKpLxPfa) | 3:43 | 2022-06-30 | 2022-07-05 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-01 | 2023-02-24 |
-| [光](https://open.spotify.com/track/0AxAdWyqlJsl15fC9t4MsO) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [光](https://open.spotify.com/album/03IA6SjdqOmANBKjPly2M7) | 4:37 | 2024-07-26 |  |
+| [光](https://open.spotify.com/track/0AxAdWyqlJsl15fC9t4MsO) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [光](https://open.spotify.com/album/03IA6SjdqOmANBKjPly2M7) | 4:37 | 2024-07-26 | 2024-08-29 |
 | [光](https://open.spotify.com/track/1F7A10m9NPJLuJXAvcpFer) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [光](https://open.spotify.com/album/3aPJyKnY7geM2oM1RSxPYx) | 2:13 | 2024-02-27 | 2024-03-06 |
 | [光ってろ正義](https://open.spotify.com/track/4EjnL3jfg4sLMpp0eHoc8b) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [光ってろ正義](https://open.spotify.com/album/6RBlHo45oMRkzHwBVpBSuw) | 3:38 | 2023-01-17 | 2023-02-03 |
 | [全部が嫌いだ](https://open.spotify.com/track/0BqCPdwMHhfi9EdG784IbR) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [全部が嫌いだ](https://open.spotify.com/album/6bREPUWcely11Lkl5Ey7Wr) | 2:02 | 2022-06-09 | 2022-07-22 |

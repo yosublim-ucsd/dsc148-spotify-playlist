@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 159647,
       "name": "Drugs & Bad Habits",
       "url": "https://open.spotify.com/track/0xVH17EbVmgtuLPdWCQwZx"
@@ -2954,6 +2954,28 @@
       "duration_ms": 190195,
       "name": "Fields",
       "url": "https://open.spotify.com/track/4ttvewy7HOFAmFIlJ5Xubn"
+    },
+    {
+      "album": {
+        "name": "Fighting For - Hailey Whitters Version",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
     },
     {
       "album": {
@@ -4308,7 +4330,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 243798,
       "name": "How Much Longer?",
       "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
@@ -9890,7 +9912,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 249138,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"

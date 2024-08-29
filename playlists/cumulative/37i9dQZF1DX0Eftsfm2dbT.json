@@ -3995,6 +3995,36 @@
     },
     {
       "album": {
+        "name": "DANCELIXIR",
+        "url": "https://open.spotify.com/album/4xB7elCmGdQG1Srf9srUgz"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "Lil' Leise But Gold",
+          "url": "https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178941,
+      "name": "DANCELIXIR",
+      "url": "https://open.spotify.com/track/5wZiqGMAbx6prjliENRYmb"
+    },
+    {
+      "album": {
         "name": "DASU",
         "url": "https://open.spotify.com/album/67RyY3ewQ282LklwrRx3Li"
       },
@@ -8672,6 +8702,32 @@
       "duration_ms": 220000,
       "name": "isekai",
       "url": "https://open.spotify.com/track/1AtbQhAfskE2WzUFK14rVs"
+    },
+    {
+      "album": {
+        "name": "Island Flow",
+        "url": "https://open.spotify.com/album/3Qm9xaluHqqqmUvKXoNLiS"
+      },
+      "artists": [
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135579,
+      "name": "Island Flow",
+      "url": "https://open.spotify.com/track/0xVdwG46vYzsq9EfaFsaXo"
     },
     {
       "album": {

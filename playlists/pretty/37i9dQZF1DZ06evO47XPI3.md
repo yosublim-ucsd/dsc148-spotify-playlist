@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 ### [This Is The Delfonics](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47XPI3)
 
-> This is The Delfonics。アーティストの代表曲をひとつのプレイリストに。
+> This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,662 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,664 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [My World Revolves Around You](https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:38 |
 | 50 | [For the Love I Gave to You](https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 5:00 |
 
-Snapshot ID: `ZsvFgAAAAAA6d2HxW4Ne++8IEqS1i45g`
+Snapshot ID: `ZsvFgAAAAACME/0cBw/rTRXI9/hEPlL8`

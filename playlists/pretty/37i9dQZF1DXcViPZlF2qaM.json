@@ -1,6 +1,6 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 61921,
+  "num_followers": 61936,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Ojos Del Sol",
+        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Ojos Del Sol",
+      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+    },
+    {
       "added_at": "2022-07-15 18:11:06",
       "album": {
         "name": "La Cura",
@@ -751,22 +767,6 @@
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Ojos Del Sol",
-        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Ojos Del Sol",
-      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
     },
     {
       "added_at": "2022-03-30 01:48:29",

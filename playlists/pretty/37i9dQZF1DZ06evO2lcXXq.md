@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 ### [This Is Lauren Daigle](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq)
 
-> This is Lauren Daigle\. The essential tracks, all in one playlist.
+> This Is Lauren Daigle\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,015 likes - 43 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,057 likes - 43 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 42 | [Rescata](https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tú Dices / Rescata](https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm) | 3:35 |
 | 43 | [You Are So Beautiful \- Live Acoustic](https://open.spotify.com/track/7i6DvJgOTuVV1nOP7FfT5u) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Sessions](https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA) | 2:50 |
 
-Snapshot ID: `ZsvFgAAAAACYA6yjocRJD91zbQE/IRhh`
+Snapshot ID: `ZsvFgAAAAADhNhzJRs3dqTOFkO+NUDnW`

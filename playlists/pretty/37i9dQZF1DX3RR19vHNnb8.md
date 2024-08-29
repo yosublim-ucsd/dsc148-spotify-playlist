@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,234 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,249 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 26 | [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 |
 | 27 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 |
 | 28 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
-| 29 | [Maneuver](https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb) | [Gnewzy](https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Maneuver](https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ) | 2:31 |
+| 29 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 |
 | 30 | [Clowns In A Circus](https://open.spotify.com/track/4myCPEv2AGuG2myeEerx9G) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [Clowns In A Circus](https://open.spotify.com/album/71UiE4OeLdYPSFO6bfjjF2) | 2:50 |
-| 31 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 |
+| 31 | [Maneuver](https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb) | [Gnewzy](https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Maneuver](https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ) | 2:31 |
 | 32 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 |
 | 33 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 34 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 46 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 47 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 48 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 |
-| 49 | [Homecoming](https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V) | [The Prophecy](https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ) | 3:27 |
-| 50 | [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 |
+| 49 | [Will Be](https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS) | [Michealz](https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB) | [Will Be](https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R) | 3:55 |
+| 50 | [Homecoming](https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V) | [The Prophecy](https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ) | 3:27 |
 
 Snapshot ID: `ZqwhvAAAAAATini8feaQeeX/G2HIPlW9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,518 likes - 49 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,604 likes - 49 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 25 | [Jesus Fake](https://open.spotify.com/track/04efWvvvjC26BGe6GmoaAh) | [Azorap](https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE), [Pray Sessions](https://open.spotify.com/artist/2OhgPOkA10riBZX8WvPSWN) | [Jesus Fake](https://open.spotify.com/album/0OvuNJE15NStjeeUA070Pw) | 3:06 |
 | 26 | [Recomeçar \- Ao Vivo](https://open.spotify.com/track/0NxvDIWLIwXx1UEoGrHt8k) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Thanise Bittencourt](https://open.spotify.com/artist/0YzJ06OIsg2qSkxhA3Dz3d), [Lenise Antunes](https://open.spotify.com/artist/0VgP96YYPCydfHYMWxP5qs), [Adriene Nachtigal](https://open.spotify.com/artist/3SThgfykyOnxGBuMeuMMT2), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Recomeçar \- Ao Vivo](https://open.spotify.com/album/5LiqdlvVprgSNJslc878QQ) | 5:42 |
 | 27 | [Amor de Deus](https://open.spotify.com/track/1mwMkxAJgejJLyj8bCw8gF) | [Fruto Sagrado](https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K) | [Amor de Deus](https://open.spotify.com/album/25vPkphoNAFgmtmxXL7PEg) | 4:14 |
-| 28 | [mais um pouco \- Ao Vivo](https://open.spotify.com/track/76lP6fiSEYkgXFCzcDFRWL) | [Luz e Rimas](https://open.spotify.com/artist/34Br7WboPz9AzTDm6bDUlS), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK), [Natan Camacho](https://open.spotify.com/artist/0svJJAh3gxTHGhSYccQHC3) | [mais um pouco \- Ao Vivo](https://open.spotify.com/album/7cKbrIWosQ3qG7eML0GVvv) | 4:30 |
+| 28 | [Mais um Pouco \- Ao Vivo](https://open.spotify.com/track/76lP6fiSEYkgXFCzcDFRWL) | [Luz e Rimas](https://open.spotify.com/artist/34Br7WboPz9AzTDm6bDUlS), [Natan Camacho](https://open.spotify.com/artist/0svJJAh3gxTHGhSYccQHC3) | [Mais um Pouco \- Ao Vivo](https://open.spotify.com/album/7cKbrIWosQ3qG7eML0GVvv) | 4:30 |
 | 29 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 |
 | 30 | [Desperta \(Remix\)](https://open.spotify.com/track/7oX5fSUMxkJ6y0Hjdrqz1m) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e) | [Desperta \(Remix\)](https://open.spotify.com/album/1PUbuVcAIuocAgrXlAFI7h) | 3:31 |
 | 31 | [Meu Farol \(Remix\)](https://open.spotify.com/track/5fx6wBfFtNxqboFFAWabpR) | [Behort](https://open.spotify.com/artist/42eQbDm9tpxUg9LwM2opns), [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI) | [Meu Farol \(Remix\)](https://open.spotify.com/album/01xkXAQz43GU8NrwpmD3zC) | 3:01 |

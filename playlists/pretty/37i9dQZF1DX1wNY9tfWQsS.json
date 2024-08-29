@@ -1,6 +1,6 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: SZA and Lizzo ",
-  "num_followers": 584164,
+  "num_followers": 584452,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
@@ -363,7 +363,7 @@
     {
       "added_at": "2024-08-13 17:24:58",
       "album": {
-        "name": "Unapologetic (Deluxe)",
+        "name": "Unapologetic - Deluxe",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
       "artists": [
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
       "added_at": "2024-08-13 17:24:58",
       "album": {
         "name": "Last Day Of Summer",
@@ -427,6 +411,22 @@
       "duration_ms": 140760,
       "name": "Girls Need Love",
       "url": "https://open.spotify.com/track/644rGY6maSElnKVsAg1gJj"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2024-02-07 18:14:04",
@@ -541,26 +541,6 @@
       "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
-      "added_at": "2024-08-13 17:24:58",
-      "album": {
-        "name": "One Wish (feat. Childish Gambino)",
-        "url": "https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 195502,
-      "name": "One Wish (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
-    },
-    {
       "added_at": "2024-02-05 04:09:08",
       "album": {
         "name": "Stompin' At The Savoy",
@@ -595,6 +575,26 @@
       "duration_ms": 270760,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp"
+    },
+    {
+      "added_at": "2024-08-13 17:24:58",
+      "album": {
+        "name": "One Wish (feat. Childish Gambino)",
+        "url": "https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 195502,
+      "name": "One Wish (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
     },
     {
       "added_at": "2024-03-08 16:23:30",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
+      "added_at": "2024-08-13 17:24:58",
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
+    },
+    {
       "added_at": "2024-03-08 16:23:30",
       "album": {
         "name": "READY",
@@ -715,22 +731,6 @@
       "duration_ms": 274733,
       "name": "Rock The Boat",
       "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
-    },
-    {
-      "added_at": "2024-08-13 17:24:58",
-      "album": {
-        "name": "Check",
-        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
       "added_at": "2024-02-05 04:09:08",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
       "added_at": "2024-03-08 16:23:30",
       "album": {
         "name": "In A Perfect World...",
@@ -835,6 +819,22 @@
       "duration_ms": 326186,
       "name": "Knock You Down",
       "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2024-02-05 04:09:08",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 ### [This Is Labrinth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hiJc4)
 
-> This is Labrinth\. The essential tracks, all in one playlist.
+> This is Labrinth\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,573 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,606 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [I Don't Know If I'm a Good Person](https://open.spotify.com/track/5h2Yjx4DAA75OYtK5mATWd) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 0:32 |
 | 50 | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Same Team \(feat\. Stefflon Don\)](https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9) | 3:09 |
 
-Snapshot ID: `ZsvFgAAAAAAU2Ujsl46aD8HLBgxs6pO2`
+Snapshot ID: `ZsvFgAAAAABxMfUJNFm5XIcZg6mzwpvF`

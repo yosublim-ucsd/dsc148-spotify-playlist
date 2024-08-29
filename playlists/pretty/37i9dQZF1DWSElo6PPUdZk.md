@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,187 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,201 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 |
 | 2 | [Horse Stick](https://open.spotify.com/track/662pPKD0ssAigYYixY7Isn) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Horse Stick](https://open.spotify.com/album/4JzQWrQ5woDnrNGyCJ6wxy) | 2:56 |
 | 3 | [Raule](https://open.spotify.com/track/1IDO3YDXZEpBIT53R6QJSe) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:15 |
-| 4 | [Tera Haq](https://open.spotify.com/track/66OGvgobRKRtyysSDTTU7j) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Akanksha Bhandari](https://open.spotify.com/artist/4GAZsJ8Hsbw5TmeHPP2HLY) | [Purani Dilli](https://open.spotify.com/album/7goQjofv7pPE9YGBIsBlOa) | 3:40 |
+| 4 | [Tera Haq](https://open.spotify.com/track/66OGvgobRKRtyysSDTTU7j) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Purani Dilli](https://open.spotify.com/album/7goQjofv7pPE9YGBIsBlOa) | 3:40 |
 | 5 | [Tareekan](https://open.spotify.com/track/2I77I1dXs5CqYsRNBHCKmo) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Tareekan](https://open.spotify.com/album/6niefLkciMmlzS5fJmHk8c) | 2:43 |
 | 6 | [Mexican](https://open.spotify.com/track/3aHev9iM03320UCUm6X7hv) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [Mexican](https://open.spotify.com/album/7c16dgVaxSd21gbEmJNbAk) | 2:57 |
 | 7 | [Malwain](https://open.spotify.com/track/0p5qFQmghBRG73G0yJV0mz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [1996](https://open.spotify.com/album/1VIiYt1vOklJBc2EPUXVEj) | 2:35 |

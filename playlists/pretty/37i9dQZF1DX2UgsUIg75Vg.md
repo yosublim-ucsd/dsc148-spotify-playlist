@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: ELHAE & Xavier Omär
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351,445 likes - 150 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351,622 likes - 150 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

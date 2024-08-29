@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Michael Kiwanuka",
-  "num_followers": 89784,
+  "num_followers": 89801,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "Death Valley High",
         "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Untangling",
         "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "I'm In Love (Subaru)",
-        "url": "https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "I'm In Love (Subaru)",
-      "url": "https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Songs For The Canyon",
         "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 240080,
       "name": "Bluebird Singing",
       "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "I'm In Love (Subaru)",
+        "url": "https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "I'm In Love (Subaru)",
+      "url": "https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Bus",
-        "url": "https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 203992,
-      "name": "Bus",
-      "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "People Who Aren\u2019t There Anymore",
         "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 201200,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Bus",
+        "url": "https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 203992,
+      "name": "Bus",
+      "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 182240,
-      "name": "Call It Love - Edit",
-      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Love Heart Cheat Code",
         "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Call It Love - Edit",
+      "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "ghost",
         "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 246909,
       "name": "ghost",
       "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "66",
-        "url": "https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp"
-      },
-      "artists": [
-        {
-          "name": "Paul Weller",
-          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
-        }
-      ],
-      "duration_ms": 281819,
-      "name": "Flying Fish",
-      "url": "https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "Real Power",
         "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 175117,
       "name": "Give It Up For Love",
       "url": "https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "66",
+        "url": "https://open.spotify.com/album/1Mjh8aa3oKEaDO9U1uwhEp"
+      },
+      "artists": [
+        {
+          "name": "Paul Weller",
+          "url": "https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH"
+        }
+      ],
+      "duration_ms": 281819,
+      "name": "Flying Fish",
+      "url": "https://open.spotify.com/track/20UXHfP8HY1Wau8l2cEP9E"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1211,42 +1211,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm"
-      },
-      "artists": [
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "duration_ms": 204429,
-      "name": "Breaking",
-      "url": "https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Kiki, You Complete Me",
-        "url": "https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "1K!",
-      "url": "https://open.spotify.com/track/3bDle84REug8PQJdREswFG"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1275,6 +1239,42 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Kiki, You Complete Me",
+        "url": "https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "1K!",
+      "url": "https://open.spotify.com/track/3bDle84REug8PQJdREswFG"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "duration_ms": 204429,
+      "name": "Breaking",
+      "url": "https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "Fishbrain",
-        "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 277285,
-      "name": "Fishbrain",
-      "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
@@ -1551,34 +1535,18 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
-        "name": "ECRP",
-        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+        "name": "Fishbrain",
+        "url": "https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc"
       },
       "artists": [
         {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 236440,
-      "name": "ECRP",
-      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
-    },
-    {
-      "added_at": "2024-08-14 10:25:18",
-      "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 245985,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
+      "duration_ms": 277285,
+      "name": "Fishbrain",
+      "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
     },
     {
       "added_at": "2024-08-14 10:25:18",
@@ -1599,6 +1567,22 @@
     {
       "added_at": "2024-08-14 10:25:18",
       "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
         "name": "We Make Hits",
         "url": "https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 182606,
       "name": "We Make Hits",
       "url": "https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku"
+    },
+    {
+      "added_at": "2024-08-14 10:25:18",
+      "album": {
+        "name": "ECRP",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "ECRP",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
     },
     {
       "added_at": "2024-08-14 10:25:18",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3GmPLr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3GmPLr)
 
-### [این Little Simz است](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
+### [This Is Little Simz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
 
-> This Is Little Simz\. قطعه‌های برتر همگی در یک فهرست پخش.
+> This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,189 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,213 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 39 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 40 | [damn right](https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:00 |
 
-Snapshot ID: `ZsvFgAAAAAAyOHD57JOFAvuMqkIe+PDm`
+Snapshot ID: `ZsvFgAAAAAB/y3OaFhghSRQcK8jiKwBr`

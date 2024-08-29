@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,449 likes - 44 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,466 likes - 44 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 43 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
 | 44 | [Be Sad](https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 2:48 |
 
-Snapshot ID: `ZsvFgAAAAAADZ5kEGJMdou5C2rRTcazl`
+Snapshot ID: `ZsvFgAAAAADmH7SiKs5r6QYCwDMplpNG`

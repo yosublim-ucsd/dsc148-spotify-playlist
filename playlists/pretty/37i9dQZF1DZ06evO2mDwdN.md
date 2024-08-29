@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 ### [This Is Harold Melvin & The Blue Notes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mDwdN)
 
-> This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
+> This is Harold Melvin & The Blue Notes\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,745 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,750 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Harold Melvin's Blue Notes Band Introduction With MC \- Live](https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:56 |
 | 50 | [Pray Before You Start Your Day \- Inspirational Mix 1](https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Izaiah James](https://open.spotify.com/artist/4wZUGoay4DsAjuNtHlpGfG) | [Pray Before You Start Your Day \(Inspirational Mixes\)](https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m) | 2:27 |
 
-Snapshot ID: `ZsvFgAAAAADxgPVrdlOtTIMdAE2qQ1HL`
+Snapshot ID: `ZsvFgAAAAABXpc1f/zaAXRqhiTaZ5ygQ`

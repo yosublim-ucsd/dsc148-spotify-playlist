@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This is Shirley Caesar\. The essential tracks, all in one playlist.
+> This Is Shirley Caesar\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 5,216 likes - 50 songs - 4 hr 3 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 49 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 |
 | 50 | [Patiently Waiting \- Live](https://open.spotify.com/track/6hu6gpqsoTOSZMyIah8Zr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:28 |
 
-Snapshot ID: `ZsvFgAAAAADdHMQ0WBnR7/HbiC2i22UI`
+Snapshot ID: `ZsvFgAAAAABWjUCw0HbH9w301up2YT6+`

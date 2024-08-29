@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href="spotify:artist:1zK4ACgLi1lVPpfmmcwOTh">DC Talk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,340 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,385 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 14 | [Awesome God](https://open.spotify.com/track/4WeJ3uVTTkI2jg9JDmY1IV) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps) | [Songs](https://open.spotify.com/album/5ETGa7hc1jtpp2OGIv1wdq) | 3:03 |
 | 15 | [Walk By Faith](https://open.spotify.com/track/6NXaZTK2rnbA91jOEc3t1h) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Stay](https://open.spotify.com/album/5gbs9nxCzkbMdQRYXj955d) | 3:59 |
 | 16 | [Stranded](https://open.spotify.com/track/2iWTsNDdK2X1dYqzxfkDGi) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [candycoatedwaterdrops](https://open.spotify.com/album/0fjkgS1zQxeWoctrtSCrp1) | 3:39 |
-| 17 | [Only Hope](https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [New Way To Be Human](https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME) | 4:13 |
+| 17 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 18 | [Ooh Ahh \(My Life Be Like\) \(feat\. Toby Mac\)](https://open.spotify.com/track/2cGJxXXIBrxMhk2fWUJTLs) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Art of Translation](https://open.spotify.com/album/2DtNX7KFKsCf1CNJt5gvif) | 3:53 |
-| 19 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 19 | [Only Hope](https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [New Way To Be Human](https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME) | 4:13 |
 | 20 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 21 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
 | 22 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 46 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
 | 47 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
 | 48 | [Phenomenon](https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 5:19 |
-| 49 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 |
-| 50 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
+| 49 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
+| 50 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 |
 | 51 | [Love Me Good](https://open.spotify.com/track/4ynh61vZS9j5L6xC63U11q) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Live The Life](https://open.spotify.com/album/1VKNgXQZcAcaYRr6qUMTwM) | 4:41 |
 | 52 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
-| 53 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
-| 54 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
+| 53 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
+| 54 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
 | 55 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
 | 56 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
 | 57 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |

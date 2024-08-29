@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,147 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,153 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 39 | [MOROCHA CULONA](https://open.spotify.com/track/5Qn5j9CRAw2RRovnaVMsRE) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Casi extraños](https://open.spotify.com/album/0PW6wraXCbGfRJBixX5fiy) | 3:15 |
 | 40 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 |
 | 41 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 |
-| 42 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
+| 42 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 43 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 44 | [Qué Esperan???](https://open.spotify.com/track/0vRY0gNfGqR8fS5gXOAhEA) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz), [Santiago Ibarra](https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076) | [Qué Esperan???](https://open.spotify.com/album/5Syp9VrBZO5PsMnylWYct1) | 2:04 |
 | 45 | [XANAX DE 2](https://open.spotify.com/track/3IWKLYo0gnDuUWvGXbLtiG) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Carajita](https://open.spotify.com/artist/0EGnen60b0WKZQaoOsGsqJ) | [Casi extraños](https://open.spotify.com/album/0PW6wraXCbGfRJBixX5fiy) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [La Piel Bien Caliente](https://open.spotify.com/track/6VbNzSrjWjTMfrDLJ6Jt5D) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE) | 1:20 |
 | 50 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

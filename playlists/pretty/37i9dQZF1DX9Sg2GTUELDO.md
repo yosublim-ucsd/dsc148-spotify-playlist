@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover:   Sabrina Cheung 張蔓莎
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,216 likes - 358 songs - 21 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,222 likes - 358 songs - 21 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 95 | [謝謝你陪我那麼久](https://open.spotify.com/track/2fmSgHQ7bmeczwdGYmrLnJ) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [謝謝你陪我那麼久](https://open.spotify.com/album/5EFhYXBvXzTBLZ2aoH4t0q) | 3:25 |
 | 96 | [吸引之力](https://open.spotify.com/track/4l9cckN8dKOeBBuaL28dFA) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [吸引之力](https://open.spotify.com/album/3rxgdggzUqoYA9zCmRtg3d) | 3:38 |
 | 97 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 |
-| 98 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \(電視劇《繁花》歌曲\)](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 |
+| 98 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 |
 | 99 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
 | 100 | [灰燼](https://open.spotify.com/track/6FegPNbxnNF8j9SgKBI107) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [灰燼](https://open.spotify.com/album/0mxgFfOwmOL122cwdqe9dh) | 4:10 |
 | 101 | [單戀勿語](https://open.spotify.com/track/3WakD4Ojp9Bf3X7XFtZPXR) | [陳伊霖](https://open.spotify.com/artist/0iTxACKxpEMbeaGPFiTdtY) | [單戀勿語](https://open.spotify.com/album/3odN6kFs21z0mx68QhCoP6) | 3:23 |

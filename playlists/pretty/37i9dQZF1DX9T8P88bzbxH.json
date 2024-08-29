@@ -1,188 +1,356 @@
 {
-  "description": "Time to meet your faves IRL. Cover: Madison Beer",
-  "num_followers": 62648,
+  "description": "Get ready to be Bewitched. Cover: Laufey",
+  "num_followers": 62609,
   "original_name": "GO Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr2sfgAAAABKkKMWVQ7PxdVHWZvBjO4z",
+  "snapshot_id": "Zs9JgAAAAACY9QpTdbN2+ckNgCWmD9L+",
   "tracks": [
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+      "duration_ms": 241080,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 199516,
-      "name": "Envy the Leaves",
-      "url": "https://open.spotify.com/track/2HgvorjycrfcCHEhVCCErk"
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Life Support",
-        "url": "https://open.spotify.com/album/1TKYO9znkrY14VayHze05r"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 141949,
-      "name": "Good In Goodbye",
-      "url": "https://open.spotify.com/track/4y3g40TWe7fCWCayJZuGvw"
+      "duration_ms": 204813,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Home To Another One",
-        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 149108,
-      "name": "Home To Another One",
-      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+      "duration_ms": 210826,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 161852,
-      "name": "Sweet Relief",
-      "url": "https://open.spotify.com/track/12BAxMbHzksw2xiq05gKtT"
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "15 MINUTES",
-        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 189192,
-      "name": "15 MINUTES",
-      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+      "duration_ms": 155138,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5zHLswJplBXyPstFSSMIOH"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 166916,
-      "name": "Spinnin",
-      "url": "https://open.spotify.com/track/3JqEamRw9aUvTKIhPXne9J"
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "BOYSHIT",
-        "url": "https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp"
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 160397,
-      "name": "BOYSHIT",
-      "url": "https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w"
+      "duration_ms": 162758,
+      "name": "Like the Movies",
+      "url": "https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/1w9947gaSEqv6sJcxUKmtI"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 207734,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/7LjEQ8GsQiUNVakV6TZI0e"
+      "duration_ms": 144066,
+      "name": "Nocturne (Interlude)",
+      "url": "https://open.spotify.com/track/2dcPutROdT0VLw2ajhBwTc"
     },
     {
-      "added_at": "2024-08-15 07:21:34",
+      "added_at": "2024-08-28 16:00:00",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/5oGJKFb3M2At4rwLBDFlTP"
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 223270,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/4PV0uE5pZSh44E3NqNNDEH"
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "California and Me",
+      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164277,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/5zQR0qoA4S1Iwj2bAwW03a"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/753iehfOnYSmjVfjx20znR"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Letter To My 13 Year Old Self",
+      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-08-28 16:00:00",
+      "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
     }
   ],
   "unique_name": "GO Live",

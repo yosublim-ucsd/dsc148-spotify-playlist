@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: יסמין מועלם
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,962 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,040 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 10 | [ראיתי עולם](https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [ראיתי עולם](https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN) | 3:09 |
 | 11 | [חיפשתי אותו בנרות](https://open.spotify.com/track/6YQpTZk61Ku0hyutsVLpPe) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [דם שלי](https://open.spotify.com/album/2AupKgY0rxBU9UsJuAlilU) | 3:37 |
 | 12 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
-| 13 | [צמוד צמוד](https://open.spotify.com/track/1Jx6aZyJR985kw8CWUZ15O) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [צמוד צמוד](https://open.spotify.com/album/6HScIxtqplEa92gqOUiVsh) | 2:43 |
+| 13 | [צמוד צמוד](https://open.spotify.com/track/1Jx6aZyJR985kw8CWUZ15O) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [צמוד צמוד](https://open.spotify.com/album/6HScIxtqplEa92gqOUiVsh) | 2:43 |
 | 14 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
 | 15 | [גיבורי על](https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [גיבורי על](https://open.spotify.com/album/51I9fo6Ywk6O8vMnq4Oige) | 3:07 |
 | 16 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 26 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 27 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
 | 28 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
-| 29 | [אם אתה שלי](https://open.spotify.com/track/2foTZaysNY65xcTXlQKxg4) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם אתה שלי](https://open.spotify.com/album/5iT3CN3wnrjdDLNuTkxKj8) | 3:00 |
+| 29 | [אם אתה שלי](https://open.spotify.com/track/2foTZaysNY65xcTXlQKxg4) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם אתה שלי](https://open.spotify.com/album/5iT3CN3wnrjdDLNuTkxKj8) | 3:00 |
 | 30 | [חומר ממכר](https://open.spotify.com/track/2vR9gmLutur2qzskoEcYna) | [Ben Chen](https://open.spotify.com/artist/0C6NuuWwuMV3uBmsFAboVl) | [חומר ממכר](https://open.spotify.com/album/0WEAhwC2G8U70VAlga0yZs) | 3:16 |
 | 31 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 |
 | 32 | [צוחקת ובוכה](https://open.spotify.com/track/2fewVF6oOGKux69rHGbPMq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [צוחקת ובוכה](https://open.spotify.com/album/7qXbCrX1yBx5FvlchNFCGx) | 3:56 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 45 | [מרכז תל אביב](https://open.spotify.com/track/0tewqHTtZMfb7sPsqTyRVc) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [מרכז תל אביב](https://open.spotify.com/album/4o5Wgzg4laP9t7uKsNWAOu) | 3:30 |
 | 46 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 47 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
-| 48 | [עובד בכפר](https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [עובד בכפר](https://open.spotify.com/album/63aFSZxyANJzJYu4dQCLrw) | 3:02 |
+| 48 | [עובד בכפר](https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [עובד בכפר](https://open.spotify.com/album/63aFSZxyANJzJYu4dQCLrw) | 3:02 |
 | 49 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 50 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 

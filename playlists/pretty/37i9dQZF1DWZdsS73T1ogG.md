@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: ROA, J Abdiel & Slayter
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,423 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,520 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 48 | [FRESITA](https://open.spotify.com/track/6hA12wp8wT93WpLwNYUmOq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:22 |
 | 49 | [TRAQUETO](https://open.spotify.com/track/6jfp0rIQSdBoijRTR7TC9l) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [TRAQUETO](https://open.spotify.com/album/4bhbFsqH3xWEpn5dt2GJC7) | 3:22 |
 | 50 | [Tu Cuerpo Me Llama](https://open.spotify.com/track/6eBuArYi54c57MGtiHvEPH) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Tu Cuerpo Me Llama](https://open.spotify.com/album/1i3cNkMlzJIc3JmWFylFLi) | 2:49 |
-| 51 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
+| 51 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 | 52 | [Marquesa](https://open.spotify.com/track/5fgBtNJLOwvjJsc410ZTkq) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Marquesa](https://open.spotify.com/album/2JHbMQv2WaD8M9NMx65YH7) | 3:08 |
 | 53 | [Tacha$ & Tu$$i](https://open.spotify.com/track/5jKRqn4TAi6ASvRYI5AqJV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW) | [Tacha$ & Tu$$i](https://open.spotify.com/album/6kYaYO9RIX9hsseMbdOA1f) | 2:26 |
 | 54 | [VALERIA \(feat\. Gordo\)](https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:34 |

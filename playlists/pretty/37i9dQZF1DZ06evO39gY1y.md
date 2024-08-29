@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This Is Charles Ans\. Los temas esenciales, todos en una lista.
+> This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,671 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,756 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 50 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
 | 51 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 |
 
-Snapshot ID: `ZsvFgAAAAAD69T1xI0aOKATMLhtxsuXc`
+Snapshot ID: `ZsvFgAAAAADhIBsZ68HzWYJHAI9qVNHS`

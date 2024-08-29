@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,289 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,296 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 23 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 |
 | 24 | [Sjunka](https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sjunka](https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7) | 2:13 |
 | 25 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 |
-| 26 | [SOLDAT](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SOLDAT](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 |
-| 27 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 |
+| 26 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 |
+| 27 | [SOLDAT](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SOLDAT](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 |
 | 28 | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs) | 2:31 |
 | 29 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 |
-| 30 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 |
-| 31 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 |
+| 30 | [Blind](https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Blind](https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246) | 2:41 |
+| 31 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 |
 | 32 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 |
 | 33 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 |
 | 34 | [Ambassador](https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Ambassador](https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS) | 2:53 |

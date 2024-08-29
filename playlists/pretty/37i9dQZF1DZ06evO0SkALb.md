@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. The essential tracks, all in one playlist.
+> This is Lou Rawls\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,639 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,642 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
 | 50 | [\(They Call It\) Stormy Monday](https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO) | [Lou Rawls And Les McCann Trio](https://open.spotify.com/artist/4ldWE2nRMsjaNC9HZS6cRJ), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:45 |
 
-Snapshot ID: `ZsvFgAAAAACWdNQMvWQzxzqE0eVqppfc`
+Snapshot ID: `ZsvFgAAAAAAErlsBW0xS++4yAjw7DMEK`

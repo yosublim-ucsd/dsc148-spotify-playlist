@@ -2,7 +2,7 @@
 
 ### [This Is Generación 12](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q9BpF)
 
-> This is Generación 12\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Generación 12\. The essential tracks, all in one playlist.
 
 71 songs - 7 hr 33 min
 

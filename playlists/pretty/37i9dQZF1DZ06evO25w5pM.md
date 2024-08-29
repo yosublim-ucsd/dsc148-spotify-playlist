@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 ### [This Is Deuter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25w5pM)
 
-> This is Deuter\. Todos os maiores hits em uma só playlist.
+> This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,117 likes - 50 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,123 likes - 50 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 49 | [Khumbe](https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Tibet Nada Himalaya 2](https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73) | 9:05 |
 | 50 | [The Source](https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Earth Blue](https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5) | 6:21 |
 
-Snapshot ID: `ZsvFgAAAAAD6YOKXskmxJ671YdtkzMr9`
+Snapshot ID: `ZsvFgAAAAACFIa5m2bSUJdjCARLl8v1l`

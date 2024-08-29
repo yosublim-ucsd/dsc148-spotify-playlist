@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-303 songs - 17 hr 47 min
+306 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,14 +23,14 @@
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-11-23 | 2023-11-29 |
 | [BFF](https://open.spotify.com/track/0UphESovufBGWK0Npk1sHu) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Weekday](https://open.spotify.com/album/37176xs2bTWghwyAA67mHd) | 3:35 | 2024-03-05 | 2024-04-03 |
 | [BFF](https://open.spotify.com/track/3YwIFcgXFrTwQMlLpHM0lT) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [weekday](https://open.spotify.com/album/78KVeLhWFA4tDmb7DaMBic) | 3:35 | 2024-03-05 | 2024-03-07 |
-| [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 |  |
+| [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 | 2024-08-29 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-11 |  |
 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 | 2024-08-14 |  |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-02 |  |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-11-23 | 2024-01-24 |
 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 | 2023-11-23 | 2023-11-29 |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-30 | 2024-02-07 |
-| [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 | 2024-07-30 |  |
+| [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 | 2024-07-30 | 2024-08-29 |
 | [Convenience Love](https://open.spotify.com/track/0yyOdAOoAMzyQK54s2DpUM) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [DREAMS \- gift](https://open.spotify.com/album/0h3nDEYjeiYsvYIyM3Rf8I) | 3:45 | 2023-11-23 | 2023-11-29 |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-23 | 2023-12-13 |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-06 | 2024-02-21 |
@@ -44,6 +44,7 @@
 | [familie](https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [familie](https://open.spotify.com/album/4jX0nfsyTW1uhGXIHQiQun) | 3:42 | 2024-08-14 |  |
 | [Feelin’ Go\(o\)d](https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Feelin’ Go\(o\)d](https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR) | 4:19 | 2024-07-30 |  |
 | [Friday's High](https://open.spotify.com/track/1UMM7yez5N3ums1cFsAAxY) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Friday's High](https://open.spotify.com/album/5tNVnWBWRvCcZzinIcnRXp) | 3:13 | 2024-01-23 | 2024-02-07 |
+| [Friends, Family & God](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 | 2024-08-28 |  |
 | [gear5](https://open.spotify.com/track/23JwNWd7oVq9Jhqfv6nCVi) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [gear5](https://open.spotify.com/album/7ElBjSm3n8957SudOB5Dyt) | 3:01 | 2024-01-18 | 2024-02-07 |
 | [Get Back To 人生](https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rejoice](https://open.spotify.com/album/66azqlrT0IYzfh3621YClv) | 4:27 | 2024-07-24 | 2024-07-31 |
 | [Glitter Illusion](https://open.spotify.com/track/5anSKcba3F8aQm1MiHoEvN) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Glitter Illusion](https://open.spotify.com/album/2E1r3H1Kfx5hXqkeFsseu0) | 3:21 | 2023-11-23 | 2023-11-29 |
@@ -75,6 +76,7 @@
 | [Loa](https://open.spotify.com/track/1Y9CRlWO9wpEuPgo3yFyOJ) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:44 | 2024-04-02 | 2024-04-19 |
 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 | 2023-11-23 | 2024-04-06 |
 | [LOA](https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [LOA](https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo) | 3:46 | 2024-04-17 | 2024-06-13 |
+| [Lonely cocoa](https://open.spotify.com/track/6qxQtL7P942IyGv1CumwZr) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Lonely cocoa](https://open.spotify.com/album/3rdLQQxMuI3xvIMf8FnPhv) | 4:35 | 2024-08-28 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-11-23 |  |
 | [Love Sick](https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Love Sick](https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw) | 3:42 | 2024-07-30 | 2024-08-14 |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-11-23 | 2023-12-02 |
@@ -260,6 +262,7 @@
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-04-17 |  |
 | [声明](https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [声明](https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F) | 3:35 | 2024-05-01 | 2024-06-05 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2023-11-23 | 2023-11-29 |
+| [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 | 2024-08-28 |  |
 | [実感](https://open.spotify.com/track/4WNEZez1VdU0iCJox2SYDF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [実感](https://open.spotify.com/album/2UK51SZ1pcCWX4OSKzNcA8) | 2:44 | 2024-04-23 | 2024-07-18 |
 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 | 2024-04-23 | 2024-05-15 |
 | [幸せと災難](https://open.spotify.com/track/3kHevdk2wXCnW24J8qL1TE) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [誰よりも幸せになれ、報われろアタシ](https://open.spotify.com/album/4AddiZdg0gTeC8V5ao9Yyi) | 4:17 | 2024-06-12 | 2024-07-03 |
@@ -282,7 +285,7 @@
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-06-04 |  |
 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 | 2023-11-23 | 2023-11-29 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-11-23 | 2024-04-19 |
-| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-17 |  |
+| [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-17 | 2024-08-29 |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-07-24 | 2024-07-31 |
 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-06-03 | 2024-08-14 |
 | [私が明日死ぬなら](https://open.spotify.com/track/29KOSOrduu8U6Pz6ZZtuEj) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ROUNDABOUT](https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay) | 4:13 | 2024-01-09 | 2024-02-16 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1891748,
+  "num_followers": 1891912,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 221387,
       "name": "Para Impresionarte",
       "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -1115,38 +1095,6 @@
       "duration_ms": 234480,
       "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
       "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Volvere A Amar",
-      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1167,6 +1115,38 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 179400,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Palabra de Hombre",
-        "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
+      "duration_ms": 151510,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Antes Y El Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
+        "name": "Palabra de Hombre",
+        "url": "https://open.spotify.com/album/5EYyJ7ar2hW6Nh1G89wzPb"
       },
       "artists": [
         {
-          "name": "La Poderosa Banda San Juan",
-          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 135813,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/38opVim2NDSvYAPtsKfcOI"
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+        "name": "El Antes Y El Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
         }
       ],
-      "duration_ms": 151510,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
+      "duration_ms": 135813,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/38opVim2NDSvYAPtsKfcOI"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "\u00bfQue Nos Separa?",
+      "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Juro por Dios (En Vivo)",
         "url": "https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 202005,
       "name": "Juro por Dios - En Vivo",
       "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Montero",
-          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "\u00bfQue Nos Separa?",
-      "url": "https://open.spotify.com/track/4jULFslCeq1Wan6nczXoum"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Te Cambio El Domicilio",
-        "url": "https://open.spotify.com/album/0DMGfxvweGyaCJyXo4LDyx"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Te Cambio El Domicilio",
-      "url": "https://open.spotify.com/track/3WRPzdjCOkO5Vmt5LgrWTa"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Postrado A Tus Pies",
         "url": "https://open.spotify.com/album/78tTrHml784gmwEJM0VlY0"
       },
@@ -1891,18 +1875,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+        "name": "Te Cambio El Domicilio",
+        "url": "https://open.spotify.com/album/0DMGfxvweGyaCJyXo4LDyx"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+      "duration_ms": 131066,
+      "name": "Te Cambio El Domicilio",
+      "url": "https://open.spotify.com/track/3WRPzdjCOkO5Vmt5LgrWTa"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1919,6 +1903,22 @@
       "duration_ms": 189022,
       "name": "Hasta La Miel Amarga",
       "url": "https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 226360,
       "name": "Reencuentro",
       "url": "https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "25 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/1KFSWUORRh8TeDlhnTbt9Z"
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/4nX2YwuCsLZhvaPNaQphFJ"
       },
       "artists": [
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 266000,
-      "name": "En Esta Vida No Se Pudo",
-      "url": "https://open.spotify.com/track/4VepTqzlmZvNAAjUhdBhOP"
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/6wrUBvGFZYeOycORjHO0AM"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2223,6 +2223,22 @@
       "duration_ms": 179017,
       "name": "Muchas Gracias",
       "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "25 A\u00f1os Vol. 1",
+        "url": "https://open.spotify.com/album/1KFSWUORRh8TeDlhnTbt9Z"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "En Esta Vida No Se Pudo",
+      "url": "https://open.spotify.com/track/4VepTqzlmZvNAAjUhdBhOP"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2279,22 +2295,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 161944,
-      "name": "Un Pinchi Beso",
-      "url": "https://open.spotify.com/track/588wAUZI6wg7RReqHUf1n8"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
       },
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Borr\u00f3n y Cuenta Nueva",
-        "url": "https://open.spotify.com/album/0HQXVJ1Okm1zk1MfWq4yFX"
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
       "artists": [
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 214153,
-      "name": "T\u00edpico Cl\u00e1sico",
-      "url": "https://open.spotify.com/track/042314lfpSuDobybG3IxrC"
+      "duration_ms": 161944,
+      "name": "Un Pinchi Beso",
+      "url": "https://open.spotify.com/track/588wAUZI6wg7RReqHUf1n8"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "\u00bfPor Qu\u00e9 Terminamos?",
+      "url": "https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Exitos De Mariano Barba",
         "url": "https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp"
       },
@@ -2359,34 +2375,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Te He Prometido",
-        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/0HQXVJ1Okm1zk1MfWq4yFX"
       },
       "artists": [
         {
-          "name": "El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "\u00bfPor Qu\u00e9 Terminamos?",
-      "url": "https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh"
+      "duration_ms": 214153,
+      "name": "T\u00edpico Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/042314lfpSuDobybG3IxrC"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Te He Prometido",
+        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
+      },
+      "artists": [
+        {
+          "name": "El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/7aEMpk1yvAh8MA6dgpMuQ2"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 248520,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 232663,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA"
     },
     {
       "added_at": "2024-07-03 20:35:58",

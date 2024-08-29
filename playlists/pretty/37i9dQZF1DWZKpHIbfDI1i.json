@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Kim Loaiza y Codiciado en portada.",
-  "num_followers": 694565,
+  "num_followers": 694877,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "EN LA PEDA",
+      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "LA PEOPLE II",
         "url": "https://open.spotify.com/album/6oAHTqAdObRQ1BkmIQjX8c"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 141064,
       "name": "LA PEOPLE II",
       "url": "https://open.spotify.com/track/7EWtB4NKYY3NqBl31PVip9"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "EN LA PEDA",
-      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -991,30 +991,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "LA DURANGO",
-        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 262883,
-      "name": "LA DURANGO",
-      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -1079,6 +1055,46 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "LA DURANGO",
+        "url": "https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 262883,
+      "name": "LA DURANGO",
+      "url": "https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "No Mastico Culebras",
-        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 134975,
-      "name": "No Mastico Culebras",
-      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1131,30 +1131,6 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "ROMPE LA DOMPE",
-        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 165634,
-      "name": "ROMPE LA DOMPE",
-      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1195,6 +1171,30 @@
       "duration_ms": 142469,
       "name": "Tu Coquette",
       "url": "https://open.spotify.com/track/6fEGEvOAyszsJjQeLjK6PW"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "ROMPE LA DOMPE",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 165634,
+      "name": "ROMPE LA DOMPE",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "ALV (Remix)",
         "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
       },
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "LOS DOS",
         "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 202500,
       "name": "Tarde o temprano",
       "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1439,22 +1455,6 @@
       "duration_ms": 142372,
       "name": "DELTAS",
       "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 216765,
-      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
     }
   ],
   "unique_name": "Top M\u00e9xico",

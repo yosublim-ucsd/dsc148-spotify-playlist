@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,199 likes - 110 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,274 likes - 110 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 84 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
 | 85 | [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 |
 | 86 | [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 |
-| 87 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
-| 88 | [Everybody Hurts](https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Liz Vice](https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2) | [Everybody Hurts](https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe) | 4:53 |
-| 89 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 |
-| 90 | [Common People](https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7) | [Conor Patrick](https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh), [Emma Genta](https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O) | [Common People](https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg) | 4:03 |
+| 87 | [Everybody Hurts](https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Liz Vice](https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2) | [Everybody Hurts](https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe) | 4:53 |
+| 88 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
+| 89 | [Common People](https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7) | [Conor Patrick](https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh), [Emma Genta](https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O) | [Common People](https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg) | 4:03 |
+| 90 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 |
 | 91 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Covers Collection](https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy) | 3:20 |
 | 92 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 93 | [Have A Little Faith In Me](https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Have A Little Faith In Me](https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3) | 3:42 |

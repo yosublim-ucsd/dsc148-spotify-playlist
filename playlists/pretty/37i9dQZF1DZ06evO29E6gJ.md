@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 ### [This Is Los Alegres De Teran](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29E6gJ)
 
-> This is Los Alegres De Teran\. The essential tracks, all in one playlist.
+> This Is Los Alegres De Teran\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,495 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,498 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 45 | [Arnulfo Gonzalez](https://open.spotify.com/track/3crxQKluxTRyJE4l5JQ7YM) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:17 |
 | 46 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
 
-Snapshot ID: `ZsvFgAAAAABD80+AxmqCpQEwJyMFzkoG`
+Snapshot ID: `ZsvFgAAAAADqKz6GcVs4bze+GDWkTeIr`

@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 168712,
       "name": "Answer The G",
       "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 285489,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY"
@@ -708,6 +708,24 @@
       "duration_ms": 284812,
       "name": "ERE",
       "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
+    },
+    {
+      "album": {
+        "name": "All These and More",
+        "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Ridleys",
+          "url": "https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209166,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
     },
     {
       "album": {
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 268474,
       "name": "Karera",
       "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 202031,
       "name": "Malabong Ugnayan (feat. jikamarie)",
       "url": "https://open.spotify.com/track/4jkS21cAiVFz9rpWfW50g0"
@@ -1966,6 +1984,24 @@
       "duration_ms": 251455,
       "name": "MINAHALAGAD",
       "url": "https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1"
+    },
+    {
+      "album": {
+        "name": "minsan",
+        "url": "https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201381,
+      "name": "minsan",
+      "url": "https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK"
     },
     {
       "album": {
@@ -2542,7 +2578,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 240000,
       "name": "PAPALAYO",
       "url": "https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz"
@@ -3063,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Sisig",
+        "url": "https://open.spotify.com/album/7IIl5vFvQSUsMmoZcvo8WB"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238098,
+      "name": "Sisig",
+      "url": "https://open.spotify.com/track/27yg8NUSbUr0KBMB9JyNOV"
+    },
+    {
+      "album": {
         "name": "SITWASYONSHIP",
         "url": "https://open.spotify.com/album/7pZrfpbQ6XUmcE7ilysG4v"
       },
@@ -3212,7 +3266,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 224163,
       "name": "Tayo Na Lang",
       "url": "https://open.spotify.com/track/0dAyWjeCEoj6LwEPTLxb3D"
@@ -3412,7 +3466,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 185000,
       "name": "Walang Alam",
       "url": "https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV"

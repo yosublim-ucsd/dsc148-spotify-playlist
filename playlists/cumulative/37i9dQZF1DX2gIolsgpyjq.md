@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: NOEL
 
-493 songs - 1 day 2 hr 3 min
+494 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-05-23 | 2024-08-02 |
 | [Berlin foxes](https://open.spotify.com/track/5vdoUXvnuD4PeyWGIqreGw) | [Moto Boy](https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL) | [Berlin foxes](https://open.spotify.com/album/1tz1oX0FoghNElMVyxzOqZ) | 5:18 | 2024-08-22 |  |
 | [bitter](https://open.spotify.com/track/7C9NEInmh4vXcDEmTR1RvZ) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [bitter](https://open.spotify.com/album/5Vhf26MRIVaOkiJRYL0xEb) | 2:06 | 2024-07-25 |  |
+| [BLACK <3](https://open.spotify.com/track/0KGorm5ZgIfyNriVnuQ5A6) | [FLAVA](https://open.spotify.com/artist/0iFemN19xhxGX63QjJfQEg) | [BLACK <3](https://open.spotify.com/album/1bdBtpvhoeAb07RxCoArz9) | 2:42 | 2024-08-22 |  |
 | [Black Sand](https://open.spotify.com/track/1bezQ5DPYG5aZvXjXgE4yr) | [Adam Elma](https://open.spotify.com/artist/5SaMcWC2U0WWz7CQpTswHK) | [Black Sand](https://open.spotify.com/album/4aSGCLBiKLIey84CoV0BdF) | 4:00 | 2024-03-21 | 2024-04-26 |
 | [Bloom](https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Bloom](https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4) | 3:41 | 2024-04-18 | 2024-06-28 |
 | [Bones](https://open.spotify.com/track/59SMaCpcPjGuH1chhnK915) | [Cora Onori](https://open.spotify.com/artist/0HEdWXvCUHxJByBdjwkARm) | [Bones](https://open.spotify.com/album/0Xv3jbuYhAG7uszqyAZ0dQ) | 2:39 | 2024-05-30 | 2024-08-02 |

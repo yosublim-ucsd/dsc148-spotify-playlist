@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
+> This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,146 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,147 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Palabras del Alma](https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:35 |
 | 50 | [Nada Nos Para](https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Rakaa de Dilated Peoples](https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:54 |
 
-Snapshot ID: `ZsvFgAAAAAAEpJNevBHyrZYyCtm0VLfh`
+Snapshot ID: `ZsvFgAAAAAAkGbXmnCLWCWzg6ZL0Z2ju`

@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
@@ -7196,6 +7196,36 @@
       "duration_ms": 271448,
       "name": "Una Mierda (Autoremix) - Remix",
       "url": "https://open.spotify.com/track/5Fofw7TM0oUhkofttsnGxX"
+    },
+    {
+      "album": {
+        "name": "Vacaciones",
+        "url": "https://open.spotify.com/album/2rRvojU0dNIeoMN0DeItr6"
+      },
+      "artists": [
+        {
+          "name": "Juaxo",
+          "url": "https://open.spotify.com/artist/2HtcJoddH8GBPUlMpwonEZ"
+        },
+        {
+          "name": "Marts",
+          "url": "https://open.spotify.com/artist/2tTKkgWUmI2FV3aoxeqPmc"
+        },
+        {
+          "name": "Martin Margiela",
+          "url": "https://open.spotify.com/artist/4VUktrwTfi6xVdleeSngy0"
+        },
+        {
+          "name": "YungEest",
+          "url": "https://open.spotify.com/artist/025xeHKhaGt3DfQu8y7ULc"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157750,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/76509L8F0tfkf0sg1SpeSw"
     },
     {
       "album": {

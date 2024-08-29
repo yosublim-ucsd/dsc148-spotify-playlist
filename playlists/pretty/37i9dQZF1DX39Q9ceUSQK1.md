@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,183 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,191 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 |
 | 2 | [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 |
 | 3 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
-| 4 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
+| 4 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 |
 | 5 | [Ride Away](https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ride Away](https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf) | 5:13 |
 | 6 | [Anyone, Anything](https://open.spotify.com/track/3sKOFIxANNUQvScMAuZrjz) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Anyone, Anything](https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB) | 2:29 |
 | 7 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 69 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 |
 | 70 | [Intangible](https://open.spotify.com/track/37AHx5plFCTjUyahG4pcgQ) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Intangible](https://open.spotify.com/album/1LhBLbebW10ttVVizB1lmp) | 2:58 |
 
-Snapshot ID: `Zs5MYAAAAAB65r6GPxz/ZA1Vv5qzrHEV`
+Snapshot ID: `Zs9J4gAAAACWmh7uH0of5CS3kvUDQTCg`

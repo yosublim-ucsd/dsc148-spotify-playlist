@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 ### [This Is Phyllis Hyman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Y8O2w)
 
-> This is Phyllis Hyman\. The essential tracks, all in one playlist.
+> This is Phyllis Hyman\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,626 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,628 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 49 | [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 |
 | 50 | [But I Love You](https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:04 |
 
-Snapshot ID: `ZsvFgAAAAACYacg45sN1Ja3ReU4bnPOc`
+Snapshot ID: `ZsvFgAAAAABuozi7d2USfobCSulgWr3m`

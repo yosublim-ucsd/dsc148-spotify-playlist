@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers en compañía de León Larregui
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,431 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,436 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

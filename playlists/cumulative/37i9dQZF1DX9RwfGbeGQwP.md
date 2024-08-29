@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,434 songs - 2 day 6 hr 0 min
+1,435 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [I'll See Myself Out](https://open.spotify.com/track/1TBsrLMWBcPPEtzwYzYPkb) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [I'll See Myself Out](https://open.spotify.com/album/6A9hTaAFPDgeKQE9Ulqxxi) | 2:09 | 2022-05-27 | 2022-06-03 |
 | [I'll Wait](https://open.spotify.com/track/4gTsqVEBYNVgdwzJligeIM) | [Lomoplay](https://open.spotify.com/artist/0R7NYzygUKT8QjUpDTylUo) | [I'll Wait](https://open.spotify.com/album/2WFVu3UGokQwdMCXNTr5BH) | 2:02 | 2022-01-27 | 2022-06-10 |
 | [I'm Out](https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1) | [Glass Globe](https://open.spotify.com/artist/0crpGDMvXANXQ6wyjkcDzu) | [Home Alone](https://open.spotify.com/album/1BcrJRI3FXOpFqxUUeoXeN) | 2:02 | 2022-01-27 | 2022-12-24 |
-| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 |  |
+| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 | 2024-08-29 |
 | [Iced Pandan Latte](https://open.spotify.com/track/6mSfWNWb8c5kIkahN4Glix) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Iced Pandan Latte](https://open.spotify.com/album/0iJ5jwKjklnvYcAxLjaOO9) | 2:27 | 2022-07-15 | 2022-12-10 |
 | [Iced Skinny Latte](https://open.spotify.com/track/4hukQ9nia9ZgGrSsZ4hN8t) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Iced Skinny Latte](https://open.spotify.com/album/5QSFp8O3JuVkB4YrVlqbPH) | 2:05 | 2022-10-15 | 2023-09-22 |
 | [Iced Tea](https://open.spotify.com/track/0Oi6aHYgfr4COgmxDGwo8n) | [ben the bird](https://open.spotify.com/artist/1i5mrAjdJZ6NHsruDGXVN1) | [Iced Tea](https://open.spotify.com/album/4C5mkfc3AZwaY8bFRV2vm0) | 2:23 | 2022-09-16 | 2023-09-05 |
@@ -828,6 +828,7 @@
 | [My Favorite Things](https://open.spotify.com/track/0bM7Mq0kt0N4aCpyrnMVzW) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [My Favorite Things](https://open.spotify.com/album/1uk5RZ7Gum3Xw71QNRmG1R) | 2:12 | 2022-09-02 | 2023-01-13 |
 | [My Kind Of Club](https://open.spotify.com/track/6styRj3YNO2j31nY2ZBR3i) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [My Kind Of Club](https://open.spotify.com/album/5EcjvuoqZ0IkVcOQ2ryiYQ) | 2:18 | 2022-06-03 | 2022-12-10 |
 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 | 2022-09-02 |  |
+| [My Treat](https://open.spotify.com/track/3s66gdZkMGrpjY04UyU5yX) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [My Treat](https://open.spotify.com/album/2YNRCzDh6HNNQmDFOOLJu5) | 2:02 | 2024-08-23 |  |
 | [Mysteries](https://open.spotify.com/track/4Gs49fzepEtYLIlGDvHP7U) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Mysteries](https://open.spotify.com/album/1wb2u1Q89azoYcZGWy11ZT) | 1:55 | 2022-04-08 | 2022-10-15 |
 | [Mystic Brew](https://open.spotify.com/track/5iCYkGw65uiGPR6pV1GjQK) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Mystic Brew](https://open.spotify.com/album/0d5CsrlgArNZirsLrxHxTY) | 2:06 | 2022-06-03 | 2022-12-10 |
 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 | 2022-01-27 | 2022-10-29 |

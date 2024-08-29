@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Wiktor Walig\u00f3ra",
-  "num_followers": 20937,
+  "num_followers": 20940,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "epicentrum",
-        "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
-      },
-      "artists": [
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 139448,
-      "name": "epicentrum",
-      "url": "https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Nasze lato",
         "url": "https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 139821,
       "name": "Nasze lato",
       "url": "https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "epicentrum",
+        "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 139448,
+      "name": "epicentrum",
+      "url": "https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "nic(i)",
-        "url": "https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4"
-      },
-      "artists": [
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 138332,
-      "name": "nic(i)",
-      "url": "https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Instalacja I",
         "url": "https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 191666,
       "name": "Upadki i wzloty",
       "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "nic(i)",
+        "url": "https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 138332,
+      "name": "nic(i)",
+      "url": "https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Szcz\u0119\u015bliwa Wina",
-        "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD"
       },
       "artists": [
         {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
         }
       ],
-      "duration_ms": 153402,
-      "name": "Szcz\u0119\u015bliwa Wina",
-      "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
+      "duration_ms": 142627,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -587,18 +587,34 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD"
+        "name": "hyperstar",
+        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
       },
       "artists": [
         {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
         }
       ],
-      "duration_ms": 142627,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
+      "duration_ms": 153750,
+      "name": "hyperstar",
+      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Szcz\u0119\u015bliwa Wina",
+        "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Szcz\u0119\u015bliwa Wina",
+      "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -619,22 +635,6 @@
       "duration_ms": 156500,
       "name": "Kto\u015b",
       "url": "https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "hyperstar",
-        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "hyperstar",
-      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "jak mam",
-        "url": "https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ"
-      },
-      "artists": [
-        {
-          "name": "Lackluster",
-          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
-        }
-      ],
-      "duration_ms": 134359,
-      "name": "jak mam",
-      "url": "https://open.spotify.com/track/4xgTQMScb4nqX20eNVmU5K"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "\u017bYCZENIE",
         "url": "https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Clean girl era",
-        "url": "https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE"
+        "name": "jak mam",
+        "url": "https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ"
       },
       "artists": [
         {
-          "name": "Klaudia",
-          "url": "https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o"
+          "name": "Lackluster",
+          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
         }
       ],
-      "duration_ms": 157419,
-      "name": "Clean girl era",
-      "url": "https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B"
+      "duration_ms": 134359,
+      "name": "jak mam",
+      "url": "https://open.spotify.com/track/4xgTQMScb4nqX20eNVmU5K"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 166857,
       "name": "Wsch\u00f3d",
       "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Clean girl era",
+        "url": "https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE"
+      },
+      "artists": [
+        {
+          "name": "Klaudia",
+          "url": "https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "Clean girl era",
+      "url": "https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -831,22 +831,6 @@
       "duration_ms": 177750,
       "name": "Mia\u0142e\u015b by\u0107",
       "url": "https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "zabierz mnie nad morze",
-        "url": "https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck"
-      },
-      "artists": [
-        {
-          "name": "Lackluster",
-          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "zabierz mnie nad morze",
-      "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 147970,
       "name": "Beze mnie",
       "url": "https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "zabierz mnie nad morze",
+        "url": "https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck"
+      },
+      "artists": [
+        {
+          "name": "Lackluster",
+          "url": "https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "zabierz mnie nad morze",
+      "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1019,6 +1019,42 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Lawenda",
+        "url": "https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV"
+      },
+      "artists": [
+        {
+          "name": "Aymi",
+          "url": "https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Lawenda",
+      "url": "https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Nie m\u00f3w",
+        "url": "https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        },
+        {
+          "name": "eryq",
+          "url": "https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Nie m\u00f3w",
+      "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "fotki",
         "url": "https://open.spotify.com/album/2joFyfzqVnUz8GT3fIH9aN"
       },
@@ -1087,22 +1123,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Lawenda",
-        "url": "https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV"
-      },
-      "artists": [
-        {
-          "name": "Aymi",
-          "url": "https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Lawenda",
-      "url": "https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Fikcje",
         "url": "https://open.spotify.com/album/30272fiEqUNicMf5MoTo26"
       },
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nie m\u00f3w",
-        "url": "https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF"
+        "name": "Bal",
+        "url": "https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz"
       },
       "artists": [
         {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        },
-        {
-          "name": "eryq",
-          "url": "https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6"
+          "name": "evelina ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Nie m\u00f3w",
-      "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
+      "duration_ms": 174985,
+      "name": "Bal",
+      "url": "https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 128332,
       "name": "Klub Z\u0142amanych Serc",
       "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Bal",
-        "url": "https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz"
-      },
-      "artists": [
-        {
-          "name": "evelina ross",
-          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
-        }
-      ],
-      "duration_ms": 174985,
-      "name": "Bal",
-      "url": "https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Terminal 3",
-        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
-      },
-      "artists": [
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "Kiss And Fly",
-      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "wrogowie",
         "url": "https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Kosmosy",
-        "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
       },
       "artists": [
         {
-          "name": "Kuba D\u0105browski",
-          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
         }
       ],
-      "duration_ms": 175758,
-      "name": "Kosmosy",
-      "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
+      "duration_ms": 157384,
+      "name": "Kiss And Fly",
+      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1419,6 +1403,38 @@
       "duration_ms": 178000,
       "name": "Syriusz Black",
       "url": "https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Kosmosy",
+        "url": "https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "duration_ms": 175758,
+      "name": "Kosmosy",
+      "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "NIE ZNASZ JEJ",
+        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 154698,
+      "name": "NIE ZNASZ JEJ",
+      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "NIE ZNASZ JEJ",
-        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
+        "name": "zn\u00f3w patrzysz tak",
+        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
       },
       "artists": [
         {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
         }
       ],
-      "duration_ms": 154698,
-      "name": "NIE ZNASZ JEJ",
-      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
+      "duration_ms": 191355,
+      "name": "zn\u00f3w patrzysz tak",
+      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "zn\u00f3w patrzysz tak",
-        "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
+        "name": "D\u0142ugie Spacery",
+        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
       },
       "artists": [
         {
-          "name": "Julia Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
         }
       ],
-      "duration_ms": 191355,
-      "name": "zn\u00f3w patrzysz tak",
-      "url": "https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu"
+      "duration_ms": 276095,
+      "name": "D\u0142ugie Spacery",
+      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 203998,
       "name": "OMG",
       "url": "https://open.spotify.com/track/2Qz4CbdfPWwFdgpQvumvjy"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "D\u0142ugie Spacery",
-        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
-      },
-      "artists": [
-        {
-          "name": "Filip Grodowski",
-          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "D\u0142ugie Spacery",
-      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1635,34 +1635,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "NIE ZNASZ JEJ (Acoustic)",
-        "url": "https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ"
+        "name": "BLUZA",
+        "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
       "artists": [
         {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
         }
       ],
-      "duration_ms": 150361,
-      "name": "NIE ZNASZ JEJ - Acoustic",
-      "url": "https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Dancechlor",
-        "url": "https://open.spotify.com/album/3PISRyQEHa8sJBTy7BnGzA"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        }
-      ],
-      "duration_ms": 161842,
-      "name": "Dancechlor",
-      "url": "https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN"
+      "duration_ms": 170964,
+      "name": "BLUZA",
+      "url": "https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1683,18 +1667,34 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "BLUZA",
-        "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
+        "name": "Dancechlor",
+        "url": "https://open.spotify.com/album/3PISRyQEHa8sJBTy7BnGzA"
       },
       "artists": [
         {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
         }
       ],
-      "duration_ms": 170964,
-      "name": "BLUZA",
-      "url": "https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl"
+      "duration_ms": 161842,
+      "name": "Dancechlor",
+      "url": "https://open.spotify.com/track/3Gi9KxBBxjpYnXgxULVqBN"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "NIE ZNASZ JEJ (Acoustic)",
+        "url": "https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "NIE ZNASZ JEJ - Acoustic",
+      "url": "https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "P\u0119tle",
-        "url": "https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa"
-      },
-      "artists": [
-        {
-          "name": "Dereal",
-          "url": "https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3"
-        }
-      ],
-      "duration_ms": 135366,
-      "name": "P\u0119tle",
-      "url": "https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "szukam",
         "url": "https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 205000,
       "name": "szukam",
       "url": "https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "P\u0119tle",
+        "url": "https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa"
+      },
+      "artists": [
+        {
+          "name": "Dereal",
+          "url": "https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3"
+        }
+      ],
+      "duration_ms": 135366,
+      "name": "P\u0119tle",
+      "url": "https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE"
     }
   ],
   "unique_name": "gen z ",

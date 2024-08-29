@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 ### [This Is Isadora Pompeo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04Bs6I)
 
-> This Is Isadora Pompeo\. Los temas esenciales, todos en una lista.
+> This is Isadora Pompeo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,706 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,733 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 49 | [Diante De Ti](https://open.spotify.com/track/6kF89RbyQkJnpkVwO96q24) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 4:49 |
 | 50 | [Minha Alma Te Ama \(Ao Vivo\)](https://open.spotify.com/track/10x8UTJcYEh4r7hLKj1Emi) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \- Ao Vivo](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 5:54 |
 
-Snapshot ID: `ZsvFgAAAAADtznUmXmkRhxMaMtbIf+68`
+Snapshot ID: `ZsvFgAAAAAC483CNSETiV2dcVQxisWDf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,090 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,148 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 32 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 |
 | 33 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
 | 34 | [Không Phải Gu](https://open.spotify.com/track/7h69br1nQFSSgdVQp6sPx6) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Tage](https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 |
-| 35 | [LOVE SAND \(feat\. HIEUTHUHAI, JSOL, Ali Hoàng Dương & Vũ Thịnh\)](https://open.spotify.com/track/2SmnoPHetB88xJwC6HJHGv) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Ali Hoàng Dương](https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh), [Vũ Thịnh](https://open.spotify.com/artist/5CmaKrKVwzQ6iQnJx2cGAm) | [ANH TRAI "SAY HI", Tập 4](https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk) | 3:55 |
+| 35 | [I'M THINKING ABOUT YOU \(feat\. RHYDER, WEAN, Đức Phúc, Hùng Huỳnh & tlinh\)](https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [Hùng Huỳnh](https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ANH TRAI "SAY HI", Tập 8](https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A) | 4:38 |
 | 36 | [thế giới thần tiên](https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:50 |
 | 37 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 38 | [Già Cùng Nhau Là Được](https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD) | [Tùng TeA](https://open.spotify.com/artist/2SWNzbf1maA3oR4x56Uv9W), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr) | [Già Cùng Nhau Là Được](https://open.spotify.com/album/6uLKMVAfgwW68y7GuKYyXK) | 3:51 |

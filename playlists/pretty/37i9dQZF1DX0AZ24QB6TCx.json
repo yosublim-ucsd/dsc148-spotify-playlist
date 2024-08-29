@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311478,
+  "num_followers": 311485,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 371859,
       "name": "Movement",
       "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Marimba",
+        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Marimba",
+      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Marimba",
-        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Marimba",
-      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "3AMStillAlive Remix",
-        "url": "https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 219295,
-      "name": "3AMStillAlive Remix",
-      "url": "https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Cloudline (Parra for Cuva Reimagination)",
         "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 296981,
       "name": "Cloudline (Parra for Cuva Reimagination)",
       "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "3AMStillAlive Remix",
+        "url": "https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "duration_ms": 219295,
+      "name": "3AMStillAlive Remix",
+      "url": "https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/47FOIxBN2NCLwO6g3NjtP1"
-      },
-      "artists": [
-        {
-          "name": "Matt Nash",
-          "url": "https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/6DpIKPZTfbPr5spl1bHyda"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Secret Places (Club Version)",
         "url": "https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/47FOIxBN2NCLwO6g3NjtP1"
+      },
+      "artists": [
+        {
+          "name": "Matt Nash",
+          "url": "https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6DpIKPZTfbPr5spl1bHyda"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Hold Your Breath",
         "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 191260,
       "name": "Hold Your Breath",
       "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Just To Hear You Say",
+        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1127,22 +1143,6 @@
       "duration_ms": 230975,
       "name": "Carry On - Rezident Remix",
       "url": "https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Just To Hear You Say",
-        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "Just To Hear You Say",
-      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1267,26 +1267,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Need To Feel Loved (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
+        "name": "Emerge As New",
+        "url": "https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Monvol",
+          "url": "https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl"
         }
       ],
-      "duration_ms": 224467,
-      "name": "Need To Feel Loved - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
+      "duration_ms": 310229,
+      "name": "Emerge As New",
+      "url": "https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4"
     }
   ],
   "unique_name": "Afterhours",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,705 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,803 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 33 | [Alabaré Al Señor \(Anástasis\)](https://open.spotify.com/track/2AXa3PWYEyeRo80AAqJLXJ) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/20Jz9tXb633PF9nGukskgE) | 5:29 |
 | 34 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 35 | [Hermoso Nombre](https://open.spotify.com/track/4vcEBtKQLHwJSTVPa42mub) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [HAY MÁS](https://open.spotify.com/album/5X0oCa1m7BHMV0xd09GUG5) | 4:01 |
-| 36 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
-| 37 | [Más De Ti \- En Vivo](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti \(En Vivo\)](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 |
+| 36 | [Más De Ti \- En Vivo](https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Más De Ti \(En Vivo\)](https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v) | 3:09 |
+| 37 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
 | 38 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
-| 39 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 |
+| 39 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 |
 | 40 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
-| 41 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 |
+| 41 | [Merecedor de Alabanza](https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:27 |
 | 42 | [Muerte Por Vida](https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH) | [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [Muerte Por Vida](https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg) | 6:08 |
 | 43 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
 | 44 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 46 | [Tu Amor](https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI) | [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Tu Amor](https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES) | 7:48 |
 | 47 | [Aquella Cruz](https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Spanish\)](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 5:27 |
 | 48 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
-| 49 | [El Justo Vivirá Por Fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El Justo Vivirá Por Fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 |
-| 50 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 |
+| 49 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 |
+| 50 | [El Justo Vivirá Por Fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El Justo Vivirá Por Fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 |
 | 51 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
 | 52 | [Tengo Sed de Ti](https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl) | [Tengo Sed de Ti](https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh) | 5:02 |
 | 53 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |

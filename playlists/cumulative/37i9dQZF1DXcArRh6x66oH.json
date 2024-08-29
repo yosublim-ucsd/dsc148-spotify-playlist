@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "built for the climb",
+  "description": "roots run deep",
   "name": "homegrown",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 207820,
       "name": "68",
       "url": "https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji"
@@ -420,6 +420,24 @@
       "duration_ms": 182346,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
       "album": {
@@ -816,7 +834,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 349613,
       "name": "Coalshooter",
       "url": "https://open.spotify.com/track/24g0LIsryCU6uEeNu9OujX"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 254213,
       "name": "Dark Black Coal",
       "url": "https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 149659,
       "name": "Depression & Obsession",
       "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
@@ -1223,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "Dirt Cheap",
+      "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"
+    },
+    {
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 230066,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7"
@@ -1710,10 +1746,32 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 208480,
       "name": "Flower Shop",
       "url": "https://open.spotify.com/track/7ERt9MCq11WeqxFBPTGK6e"
+    },
+    {
+      "album": {
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1DbZAffh8GGwW41Q3AU8iC"
     },
     {
       "album": {
@@ -2363,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -2512,7 +2588,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
@@ -2552,7 +2628,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 231672,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/5loHd8KKK93wxEOkgGU12Q"
@@ -2678,7 +2754,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 183533,
       "name": "Lady May",
       "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
@@ -2758,6 +2834,24 @@
       "duration_ms": 239761,
       "name": "Letting Someone Go",
       "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
+    },
+    {
+      "album": {
+        "name": "Lies Lies Lies",
+        "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198068,
+      "name": "Lies Lies Lies",
+      "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
       "album": {
@@ -3448,7 +3542,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
@@ -3514,7 +3608,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 458173,
       "name": "Oklahoma (feat. Read Southall Band)",
       "url": "https://open.spotify.com/track/4YGql2q12wnXTdMvTm5573"
@@ -3583,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Never Will",
+        "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "One Night Standards",
+      "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
+    },
+    {
+      "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
@@ -3598,7 +3710,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 196706,
       "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"
@@ -4017,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Actin\u2019 Up Again",
+        "url": "https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160291,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT"
+    },
+    {
+      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -4068,7 +4198,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 216253,
       "name": "Sandpaper (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4"
@@ -4090,7 +4220,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 214056,
       "name": "Sarah's Place (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4"
@@ -4328,7 +4458,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
@@ -4407,6 +4537,28 @@
     },
     {
       "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
       },
@@ -4472,7 +4624,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 178573,
       "name": "Snow",
       "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
@@ -4796,7 +4948,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 236026,
       "name": "The Devil Wears a Suit and Tie",
       "url": "https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3"
@@ -5056,7 +5208,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
@@ -5798,6 +5950,24 @@
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "album": {

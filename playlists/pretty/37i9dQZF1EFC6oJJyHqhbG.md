@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 133 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398 likes - 133 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 36 | [Hey Alligator](https://open.spotify.com/track/1wMgSz5vW6txvc0RkbsvSY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:29 |
 | 37 | [Cuckoo](https://open.spotify.com/track/7j1SWWci3yWLgmMSZwurgd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:02 |
 | 38 | [Turn Me Up](https://open.spotify.com/track/2d5SLxED4RIdjnAfbpTcYw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:44 |
-| 39 | [Under Control](https://open.spotify.com/track/6xWivl1glHgntvVucG0mqD) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 4:06 |
-| 40 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 |
+| 39 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 |
+| 40 | [Under Control](https://open.spotify.com/track/6xWivl1glHgntvVucG0mqD) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 4:06 |
 | 41 | [Guilty Pleasure](https://open.spotify.com/track/6OeglDMxrFvhmHxegrNLz2) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [¡Viva la Cobra!](https://open.spotify.com/album/5hJuFOrpXDXHtBmAHnAvua) | 3:22 |
 | 42 | [Afroki \(feat\. Bonnie McKee\)](https://open.spotify.com/track/39Ni4ManwZGs46fXh5qPfu) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Neon Future I](https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6) | 4:17 |
 | 43 | [Gasoline](https://open.spotify.com/track/5AcTuYSmbmcZA8kiLE4bAR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:08 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 109 | [Rendezvous](https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [Rendezvous](https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF) | 3:16 |
 | 110 | [Honey](https://open.spotify.com/track/1ECd5UKynaaBRmfAp9Iect) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:45 |
 | 111 | [A Voice That Carries](https://open.spotify.com/track/6poGVzrkdRMFmegbUmR08U) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:48 |
-| 112 | [Cold Heart](https://open.spotify.com/track/3l5lhKAXRyISZ1NOBEMRhO) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Fight for Love](https://open.spotify.com/album/5jjrd3mUF01Da1FITGf8fY) | 3:34 |
-| 113 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
+| 112 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
+| 113 | [Cold Heart](https://open.spotify.com/track/3l5lhKAXRyISZ1NOBEMRhO) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Fight for Love](https://open.spotify.com/album/5jjrd3mUF01Da1FITGf8fY) | 3:34 |
 | 114 | [January](https://open.spotify.com/track/4Vc6f3K8mXoMwZDICJPPAw) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:07 |
 | 115 | [Show You Mine](https://open.spotify.com/track/06VOFlj1yY5SZTN29OOo5n) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:01 |
 | 116 | [Open Your Eyes](https://open.spotify.com/track/1AddvxH9HumxaQ8av44opX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:59 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 132 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 | 133 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbakngAAAADucKf/f2+58CQ4agf9pBoj`
+Snapshot ID: `AbaqPgAAAAC0Jsa6Sb1gQo2CtViclFf8`

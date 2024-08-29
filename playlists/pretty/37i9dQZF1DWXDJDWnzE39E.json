@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Voice of Baceprot ",
-  "num_followers": 688770,
+  "num_followers": 688887,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Don't Give Me Names",
-        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
-      },
-      "artists": [
-        {
-          "name": "Guano Apes",
-          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Big in Japan",
-      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "The Phantom Agony (Expanded Edition)",
         "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 289306,
       "name": "Sensorium",
       "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Don't Give Me Names",
+        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
+      },
+      "artists": [
+        {
+          "name": "Guano Apes",
+          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Big in Japan",
+      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Post Orgasmic Chill",
-        "url": "https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Charlie Big Potato",
-      "url": "https://open.spotify.com/track/7Bf0RPsldDH7jVi9H3wODv"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -955,22 +939,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Whips and Chains",
-        "url": "https://open.spotify.com/album/6ti7wgKd4PsYZv16WXE7xB"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Whips and Chains",
-      "url": "https://open.spotify.com/track/0MpAjXcBHuZMqkkuCJQ7P3"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Sonic Jihad",
         "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 235560,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Post Orgasmic Chill",
+        "url": "https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Charlie Big Potato",
+      "url": "https://open.spotify.com/track/7Bf0RPsldDH7jVi9H3wODv"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Whips and Chains",
+        "url": "https://open.spotify.com/album/6ti7wgKd4PsYZv16WXE7xB"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Whips and Chains",
+      "url": "https://open.spotify.com/track/0MpAjXcBHuZMqkkuCJQ7P3"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Reeling",
-        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Life's a Bitch (But I Like it So Much)",
-      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 215146,
       "name": "Crucif\u00e8re",
       "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Reeling",
+        "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Life's a Bitch (But I Like it So Much)",
+      "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "R.E.D.",
-        "url": "https://open.spotify.com/album/6GIIE5AwJY3FJVwKinolTl"
-      },
-      "artists": [
-        {
-          "name": "Simone Simons",
-          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
-        },
-        {
-          "name": "Ayreon",
-          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
-        }
-      ],
-      "duration_ms": 243960,
-      "name": "R.E.D.",
-      "url": "https://open.spotify.com/track/1i02PIDgVFoDNcTVZv4Ccd"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 230181,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "R.E.D.",
+        "url": "https://open.spotify.com/album/6GIIE5AwJY3FJVwKinolTl"
+      },
+      "artists": [
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "R.E.D.",
+      "url": "https://open.spotify.com/track/1i02PIDgVFoDNcTVZv4Ccd"
     },
     {
       "added_at": "2024-07-19 14:26:43",

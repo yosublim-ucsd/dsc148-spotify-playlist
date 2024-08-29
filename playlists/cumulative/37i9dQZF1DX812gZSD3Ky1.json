@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "alone tonight",
+        "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225031,
+      "name": "intentions",
+      "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 155038,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy"
@@ -2098,6 +2116,24 @@
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "pocket locket",
+      "url": "https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz"
     },
     {
       "album": {
@@ -2909,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -3164,7 +3218,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 241602,
       "name": "what do i do - English Ver.",
       "url": "https://open.spotify.com/track/3XMR34OkkyIp3MSBq4fCBu"
@@ -3186,7 +3240,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 150909,
       "name": "WHAT YOU THINK OF",
       "url": "https://open.spotify.com/track/4GmOUr865qgrdmZOIOLH2q"
@@ -3320,6 +3374,28 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
       "album": {

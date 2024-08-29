@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451320,
+      "name": "Champagne Supernova - Remastered",
+      "url": "https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4"
+    },
+    {
+      "album": {
         "name": "chaotic",
         "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
       },
@@ -6226,6 +6244,24 @@
       "duration_ms": 227527,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
     },
     {
       "album": {
@@ -8568,10 +8604,28 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 289560,
       "name": "Don't Look Back in Anger - Remastered",
       "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "album": {
@@ -8832,7 +8886,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 206295,
       "name": "Don\u2019t Smile",
       "url": "https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR"
@@ -12640,7 +12694,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -12662,7 +12716,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
@@ -12834,6 +12888,24 @@
       "duration_ms": 298384,
       "name": "Habits",
       "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267333,
+      "name": "Half The World Away - Remastered",
+      "url": "https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ"
     },
     {
       "album": {
@@ -14178,7 +14250,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -14546,7 +14618,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -18144,7 +18216,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 202001,
       "name": "Lie To Girls",
       "url": "https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z"
@@ -18588,10 +18660,28 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "Live Forever - Remastered",
+      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
     },
     {
       "album": {
@@ -19873,6 +19963,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Married With Children - Remastered",
+      "url": "https://open.spotify.com/track/57bbMdaWpthoPTfuU9TFvQ"
+    },
+    {
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -20668,7 +20776,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -22342,7 +22450,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -22654,7 +22762,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -26667,6 +26775,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322946,
+      "name": "Rock 'n' Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
+    },
+    {
+      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -26744,6 +26870,24 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Roll With It - Remastered",
+      "url": "https://open.spotify.com/track/3czgcbI4YZ4Gg29DOYFAnd"
     },
     {
       "album": {
@@ -27162,7 +27306,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
@@ -28086,6 +28230,24 @@
       "duration_ms": 207120,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "She's Electric - Remastered",
+      "url": "https://open.spotify.com/track/60QLLec3yKDwloXCyummPy"
     },
     {
       "album": {
@@ -29449,6 +29611,24 @@
     },
     {
       "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355866,
+      "name": "Stand By Me - Remastered",
+      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -30029,6 +30209,24 @@
     },
     {
       "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303120,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14"
+    },
+    {
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -30544,6 +30742,24 @@
       "duration_ms": 163381,
       "name": "supernatural",
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Supersonic - Remastered",
+      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
     },
     {
       "album": {
@@ -34084,7 +34300,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -36332,10 +36548,28 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 ### [This Is Azzy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0P1Sng)
 
-> This is Azzy\. The essential tracks, all in one playlist.
+> This is Azzy\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,996 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,998 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 50 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 |
 | 51 | [Diamante](https://open.spotify.com/track/7wIrCJb8dIHDNU0G76eaQB) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Galdino](https://open.spotify.com/artist/62WuiHnAUheosejcDquMMc), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Diamante](https://open.spotify.com/album/7vqZdXVpZPA6Jum52y035n) | 2:24 |
 
-Snapshot ID: `ZsvFgAAAAACPZuI6lsu1uydhBk/elE7Z`
+Snapshot ID: `ZsvFgAAAAAD8JyTjIuSUKE5602escHEb`

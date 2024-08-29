@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 123636,
       "name": "Lavanta",
       "url": "https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt"
@@ -2388,6 +2388,28 @@
       "duration_ms": 101235,
       "name": "Mostly Toasted",
       "url": "https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz"
+    },
+    {
+      "album": {
+        "name": "Move Around",
+        "url": "https://open.spotify.com/album/1NlyMIeGd01ovIX5XCWRXq"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "flowless",
+          "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114545,
+      "name": "Move Around",
+      "url": "https://open.spotify.com/track/4heW9iwtsMVkUXkX0sxGac"
     },
     {
       "album": {
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 161012,
       "name": "Peach Rings",
       "url": "https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS"
@@ -2958,6 +2980,24 @@
       "duration_ms": 144613,
       "name": "Pretrip",
       "url": "https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1"
+    },
+    {
+      "album": {
+        "name": "PullUp",
+        "url": "https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d"
+      },
+      "artists": [
+        {
+          "name": "Lamar Azul",
+          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129207,
+      "name": "PullUp",
+      "url": "https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp"
     },
     {
       "album": {

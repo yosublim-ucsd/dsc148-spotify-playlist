@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Amyl and The Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,481 likes - 130 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,540 likes - 130 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 49 | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 |
 | 50 | [Favourite](https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:16 |
 | 51 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 |
-| 52 | [Price On Fun](https://open.spotify.com/track/3Hf0FdUs6M72wuzvmUGqDA) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/1l4BHtwsAmmLTkiP1dP3k9) | 3:20 |
+| 52 | [Price On Fun](https://open.spotify.com/track/3Hf0FdUs6M72wuzvmUGqDA) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/1l4BHtwsAmmLTkiP1dP3k9) | 3:22 |
 | 53 | [Higher](https://open.spotify.com/track/2WpnBBRaxYoNCDQnz8PrCE) | [Croixx](https://open.spotify.com/artist/65l9u2CQrOizdTuOI4hTFf) | [Higher](https://open.spotify.com/album/38QbDZUjVX5PSpuuG2uYH8) | 2:03 |
 | 54 | [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 |
 | 55 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 |

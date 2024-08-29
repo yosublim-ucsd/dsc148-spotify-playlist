@@ -1,13 +1,61 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
-  "num_followers": 75842,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: harf.",
+  "num_followers": 76106,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZTwgAAAAD+DWZWeroPb+S01aV+YHLh",
+  "snapshot_id": "Zs6gwAAAAACEhiw7mIjiPBTv4Q1yXeHP",
   "tracks": [
+    {
+      "added_at": "2024-08-28 04:00:00",
+      "album": {
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
+      },
+      "artists": [
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
+    },
+    {
+      "added_at": "2024-08-28 04:00:00",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/5cWc6ZCExd4pwkE3SFAItu"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "duration_ms": 218689,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/4836c60FYoDyiMVshhZzev"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Sleep Tonight",
+        "url": "https://open.spotify.com/album/6aWqKJgGIkGKuIyr7UITuK"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Sleep Tonight",
+      "url": "https://open.spotify.com/track/2944dK6sVcflROZykZRYFQ"
+    },
     {
       "added_at": "2024-08-21 20:53:22",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 233730,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/0jtHUZ69AAVSVWaXpEP60D"
+    },
+    {
+      "added_at": "2024-08-28 04:00:00",
+      "album": {
+        "name": "everyone says its easier said than done",
+        "url": "https://open.spotify.com/album/7qkDiF3yucBzEdzmoXGEsk"
+      },
+      "artists": [
+        {
+          "name": "camryn",
+          "url": "https://open.spotify.com/artist/6Nr0y8GGHjOBFTdvKrMRlZ"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "everyone says",
+      "url": "https://open.spotify.com/track/257PLZzSh3u2xr9pgcc1RC"
     },
     {
       "added_at": "2024-08-14 04:00:00",
@@ -89,20 +153,20 @@
       "url": "https://open.spotify.com/track/6GBKUEIoyCwCCQGzTPM6Xs"
     },
     {
-      "added_at": "2024-08-21 20:53:22",
+      "added_at": "2024-08-28 04:00:00",
       "album": {
-        "name": "Sleep Tonight",
-        "url": "https://open.spotify.com/album/6aWqKJgGIkGKuIyr7UITuK"
+        "name": "Life Plan",
+        "url": "https://open.spotify.com/album/6SArRGwm8e7Ja7vdjfpl3v"
       },
       "artists": [
         {
-          "name": "harf.",
-          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+          "name": "Karissa Bone",
+          "url": "https://open.spotify.com/artist/1PetI8qKDvDARxOWIl5wVr"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Sleep Tonight",
-      "url": "https://open.spotify.com/track/2944dK6sVcflROZykZRYFQ"
+      "duration_ms": 115555,
+      "name": "Life Plan",
+      "url": "https://open.spotify.com/track/6zKvht9MLverqG8p9J835O"
     },
     {
       "added_at": "2024-08-21 20:53:22",
@@ -1455,22 +1519,6 @@
     {
       "added_at": "2024-06-19 16:02:06",
       "album": {
-        "name": "codepending",
-        "url": "https://open.spotify.com/album/6VdT3gkIWTkc9Jj4184Tna"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 194941,
-      "name": "codepending",
-      "url": "https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
         "name": "Kitchen Disco Queen",
         "url": "https://open.spotify.com/album/3BIX57DV8rx4t7PvZblsSc"
       },
@@ -1515,86 +1563,6 @@
       "duration_ms": 154285,
       "name": "Black Leather Daydream",
       "url": "https://open.spotify.com/track/4CtV5PEucaBYNpPXg7A8gj"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "little al",
-        "url": "https://open.spotify.com/album/3cj0iCt9C2GEaGkPs3Sswg"
-      },
-      "artists": [
-        {
-          "name": "Frail Talk",
-          "url": "https://open.spotify.com/artist/7stmp1OR4yaVInBIXIeKBf"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "little al",
-      "url": "https://open.spotify.com/track/0yb4dC4WEE0D0i6Kf8OAlf"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "Jenny",
-        "url": "https://open.spotify.com/album/2np1VMu280TCmJJqrSGRkp"
-      },
-      "artists": [
-        {
-          "name": "clay pigeon",
-          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
-        }
-      ],
-      "duration_ms": 239035,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3iBbRE7Oqe2IWrTXggqOau"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "Dog Tired",
-        "url": "https://open.spotify.com/album/3MZhqC7E3dHIuXify0XXcv"
-      },
-      "artists": [
-        {
-          "name": "Yours, Georgina",
-          "url": "https://open.spotify.com/artist/4xylBacyZL1owzph0szYdP"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Dog Tired",
-      "url": "https://open.spotify.com/track/4ZkSiaNRfbvBxPNNPyltA6"
-    },
-    {
-      "added_at": "2024-06-19 16:07:07",
-      "album": {
-        "name": "Someday Song",
-        "url": "https://open.spotify.com/album/13CBxmgIWuC6atTiEm2Nhl"
-      },
-      "artists": [
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
-        }
-      ],
-      "duration_ms": 196367,
-      "name": "Someday Song",
-      "url": "https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9"
-    },
-    {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "Baby Run",
-        "url": "https://open.spotify.com/album/0jfyqo1EtKZq68GIc6gRji"
-      },
-      "artists": [
-        {
-          "name": "Sedona",
-          "url": "https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi"
-        }
-      ],
-      "duration_ms": 222631,
-      "name": "Baby Run",
-      "url": "https://open.spotify.com/track/6VTwz5LbO6QBgRy33IA4JY"
     },
     {
       "added_at": "2024-06-12 16:16:43",

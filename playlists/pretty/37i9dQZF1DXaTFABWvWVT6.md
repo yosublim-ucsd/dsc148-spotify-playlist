@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,864 likes - 44 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,871 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 26 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 27 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 28 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 |
-| 29 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
-| 30 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
+| 29 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
+| 30 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
 | 31 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
-| 32 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
-| 33 | [FWTDJ \(All Night Long\)](https://open.spotify.com/track/5FyugvX0og6OA1s2NUBK6L) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [FWTDJ \(All Night Long\)](https://open.spotify.com/album/1u70efS1IicS42qnwzlWxC) | 2:54 |
+| 32 | [FWTDJ \(All Night Long\)](https://open.spotify.com/track/5FyugvX0og6OA1s2NUBK6L) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [FWTDJ \(All Night Long\)](https://open.spotify.com/album/1u70efS1IicS42qnwzlWxC) | 2:54 |
+| 33 | [Rainbow](https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Rainbow](https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1) | 2:56 |
 | 34 | [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 |
 | 35 | [PE$O](https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PE$O](https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7) | 2:36 |
 | 36 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |

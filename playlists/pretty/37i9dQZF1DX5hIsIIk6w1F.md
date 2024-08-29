@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Jere Klein.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,774 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,915 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Secuestrarte](https://open.spotify.com/track/6ccc5JmSOoHnmUR8l3sMYj) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [PALABREO DEL FUTURO](https://open.spotify.com/album/1UGMwCbhIEk8vI9z0RFVDv) | 2:09 |
-| 2 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
+| 2 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 | 3 | [JAIRO VERA \| DJ TAO Turreo Sessions \#25](https://open.spotify.com/track/5TdpGWFBA7iz2jdoaqnIHq) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [JAIRO VERA \| DJ TAO Turreo Sessions \#25](https://open.spotify.com/album/6Zh2P87SkQP69M8ZwZIeJz) | 2:33 |
 | 4 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |
 | 5 | [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 |

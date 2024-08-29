@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 35965,
+  "num_followers": 35975,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "What You Need (feat. Duane Harden)",
+        "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
+      },
+      "artists": [
+        {
+          "name": "Powerhouse",
+          "url": "https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+        }
+      ],
+      "duration_ms": 202698,
+      "name": "What You Need (feat. Duane Harden) - Full Intention Radio Edit",
+      "url": "https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "So Deep, So Good",
         "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 780936,
       "name": "Break Night - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "What You Need (feat. Duane Harden)",
-        "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
-      },
-      "artists": [
-        {
-          "name": "Powerhouse",
-          "url": "https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS"
-        },
-        {
-          "name": "Duane Harden",
-          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
-        }
-      ],
-      "duration_ms": 202698,
-      "name": "What You Need (feat. Duane Harden) - Full Intention Radio Edit",
-      "url": "https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i"
     },
     {
       "added_at": "2022-03-03 13:59:16",

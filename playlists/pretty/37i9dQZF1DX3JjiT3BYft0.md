@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,854 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,871 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 38 | [YAPPY! SCHOOL CARNIVAL☆彡](https://open.spotify.com/track/1vpQNpxodWPEL69zLaCVAw) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU) | 3:53 |
 | 39 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 5:22 |
 | 40 | [独創収差](https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:36 |
-| 41 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 |
+| 41 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |
 | 42 | [SAKURAスキップ \- Cover](https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:48 |
 | 43 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
-| 44 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |
+| 44 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 |
 | 45 | [わちゃ･もちゃ･ぺったん行進曲](https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 3:53 |
 | 46 | [Five Letters](https://open.spotify.com/track/4vzVHL13WVQwDlUXmeqOrQ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:09 |
 | 47 | [チョコレイトの低音レシピ](https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY) | 4:26 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 65 | [迷星叫](https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 3:31 |
 | 66 | [栞](https://open.spotify.com/track/0aJS4BLpbxcylFr1IK2DSR) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [栞](https://open.spotify.com/album/5nH0B2HxbulmQt1gpT5ji4) | 4:26 |
 | 67 | [迷路日々](https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷路日々](https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0) | 3:35 |
-| 68 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
-| 69 | [碧天伴走](https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [碧天伴走](https://open.spotify.com/album/7vwdWEULxaBGcAv4BgsKaP) | 3:38 |
+| 68 | [碧天伴走](https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [碧天伴走](https://open.spotify.com/album/7vwdWEULxaBGcAv4BgsKaP) | 3:38 |
+| 69 | [無路矢](https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [無路矢](https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt) | 3:42 |
 | 70 | [THRONE OF ROSE](https://open.spotify.com/track/6XggIM4w9i2z4UFQmf1m2j) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 5:12 |
 | 71 | [名無声](https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 4:31 |
 | 72 | [乙女解剖 \- Cover](https://open.spotify.com/track/1SakT3NRW0kb03W7v4hXBV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [乙女解剖 \(Cover\)](https://open.spotify.com/album/0wNBh9mdnn8mm4xIWEHnDi) | 3:44 |
 | 73 | [音一会](https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [音一会](https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN) | 4:42 |
-| 74 | [Swear \~Night & Day\~](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear \~Night & Day\~](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
-| 75 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 |
+| 74 | [アイのシナリオ \- Cover](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 |
+| 75 | [Swear \~Night & Day\~](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear \~Night & Day\~](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
 
 Snapshot ID: `Zp/FcAAAAACZyA/DSZGYlw1q/scWIVfn`

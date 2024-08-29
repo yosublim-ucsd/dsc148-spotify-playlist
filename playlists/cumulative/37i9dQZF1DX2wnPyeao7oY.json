@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 142138,
       "name": "Can't Stand No One",
       "url": "https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 210154,
       "name": "dub driving",
       "url": "https://open.spotify.com/track/3ItSI6Dlhs5S1sBR0PrIxA"
@@ -420,6 +420,24 @@
       "duration_ms": 316534,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1UFxhZOC18CAvWmOOB7OaB"
+    },
+    {
+      "album": {
+        "name": "Fastlanes",
+        "url": "https://open.spotify.com/album/3GTDD3YWdBNPtfvtEyfJuc"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260424,
+      "name": "Fastlanes",
+      "url": "https://open.spotify.com/track/2WaXCt23pu3pqQ9JoUpxaS"
     },
     {
       "album": {
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 331957,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h"
@@ -630,6 +648,42 @@
       "duration_ms": 175786,
       "name": "House \u2260 Home",
       "url": "https://open.spotify.com/track/4CQA3WAuyb3prHO2f9pSen"
+    },
+    {
+      "album": {
+        "name": "I Feel the Night",
+        "url": "https://open.spotify.com/album/6UlqlUXm4XxCJMElrUgJ4N"
+      },
+      "artists": [
+        {
+          "name": "IOTUNN",
+          "url": "https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394760,
+      "name": "I Feel the Night",
+      "url": "https://open.spotify.com/track/0Zv8aSaljJoVwuCJrxRukk"
+    },
+    {
+      "album": {
+        "name": "I'll Give You Hell",
+        "url": "https://open.spotify.com/album/07gD3jqtgnnxtm4Y1z1Vsr"
+      },
+      "artists": [
+        {
+          "name": "Arctis",
+          "url": "https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "I'll Give You Hell",
+      "url": "https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz"
     },
     {
       "album": {
@@ -868,7 +922,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 121852,
       "name": "Pastures",
       "url": "https://open.spotify.com/track/0HD2kWKZY5Ao4xv5AGGiRf"
@@ -1308,6 +1362,24 @@
       "duration_ms": 224924,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
+    },
+    {
+      "album": {
+        "name": "Upon Burdened Hands",
+        "url": "https://open.spotify.com/album/4GeXj7U1LHfx7Xvi1bw7n0"
+      },
+      "artists": [
+        {
+          "name": "Mother of Graves",
+          "url": "https://open.spotify.com/artist/2PnaLUVxH8HY0KOZz41ka6"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299154,
+      "name": "Upon Burdened Hands",
+      "url": "https://open.spotify.com/track/6HCPb0UNjcCaltfCnxxDdg"
     },
     {
       "album": {

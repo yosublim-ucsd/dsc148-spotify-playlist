@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: Fit For A King
 
-991 songs - 2 day 13 hr 30 min
+992 songs - 2 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Blood For Blood](https://open.spotify.com/track/6K7CKGJS74vxcW8QmyWP2p) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Blood For Blood](https://open.spotify.com/album/0ZLXQ4hfuQxAjxICWDXalb) | 2:45 | 2024-08-12 |  |
 | [Blood Spiller](https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Blood Spiller](https://open.spotify.com/album/4INTfLLX0IkZALmFceJKuZ) | 4:01 | 2022-04-29 | 2022-06-11 |
 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 | 2024-08-25 |  |
-| [BlüdGod \(feat\. Taylor Barber\)](https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [BlüdGod \(feat\. Taylor Barber\)](https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL) | 3:30 | 2024-06-04 |  |
+| [BlüdGod \(feat\. Taylor Barber\)](https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [BlüdGod \(feat\. Taylor Barber\)](https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL) | 3:30 | 2024-06-04 | 2024-08-29 |
 | [Boltcutter](https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Boltcutter](https://open.spotify.com/album/6OP2USRvGKWn7YUrwa8zur) | 3:37 | 2022-12-02 | 2023-02-18 |
 | [Bonebreaker](https://open.spotify.com/track/4XIyKIqxM2wo4mZJYPwoqa) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:25 | 2022-07-13 | 2022-07-23 |
 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 | 2022-07-13 | 2022-07-23 |
@@ -796,6 +796,7 @@
 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 | 2022-08-26 | 2023-01-06 |
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-07-01 |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-07-23 |
+| [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 | 2024-08-25 |  |
 | [Stay Away](https://open.spotify.com/track/0UZlOO9q3e8jxBj724f6oN) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Stay Away](https://open.spotify.com/album/4SLO8o4TkaPVH3OzlsNjNC) | 3:19 | 2021-12-17 | 2022-01-15 |
 | [Still Waters Run Deep](https://open.spotify.com/track/6y9KIUoJxFY4mbYnKLUqAY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Still Waters Run Deep](https://open.spotify.com/album/2sONdLc1W4vTmlC4MWnAgJ) | 3:35 | 2022-04-29 | 2022-07-08 |
 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 | 2022-05-27 | 2022-09-03 |

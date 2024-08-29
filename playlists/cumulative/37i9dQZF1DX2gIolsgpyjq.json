@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "BLACK <3",
+        "url": "https://open.spotify.com/album/1bdBtpvhoeAb07RxCoArz9"
+      },
+      "artists": [
+        {
+          "name": "FLAVA",
+          "url": "https://open.spotify.com/artist/0iFemN19xhxGX63QjJfQEg"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162248,
+      "name": "BLACK <3",
+      "url": "https://open.spotify.com/track/0KGorm5ZgIfyNriVnuQ5A6"
+    },
+    {
+      "album": {
         "name": "Black Sand",
         "url": "https://open.spotify.com/album/4aSGCLBiKLIey84CoV0BdF"
       },

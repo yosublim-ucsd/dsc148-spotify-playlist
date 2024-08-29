@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 2065848,
+  "num_followers": 2065881,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 248853,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Bluebeard",
+        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 188468,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 265387,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Bluebeard",
-        "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 188468,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 205603,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 251733,
       "name": "America",
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Lie to Me",
-        "url": "https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 205603,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "When I Say That I Love You",
+        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 177674,
+      "name": "When I Say That I Love You",
+      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "What Have We Got to Lose",
         "url": "https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf"
       },
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "When I Say That I Love You",
-        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
-      },
-      "artists": [
-        {
-          "name": "Gabe Goodman",
-          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "When I Say That I Love You",
-      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Slow Lightning (Deluxe)",
-        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Out for Blood",
-      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Birdtalker",
-        "url": "https://open.spotify.com/album/4nGfaiyuZRujKnApMPFBj6"
+        "name": "Slow Lightning (Deluxe)",
+        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 219213,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB"
+      "duration_ms": 234266,
+      "name": "Out for Blood",
+      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Solitaires",
-        "url": "https://open.spotify.com/album/2rTF4hRIuLqYQHUlJIHTzT"
+        "name": "Birdtalker",
+        "url": "https://open.spotify.com/album/4nGfaiyuZRujKnApMPFBj6"
       },
       "artists": [
         {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
         }
       ],
-      "duration_ms": 253624,
-      "name": "Solitaires",
-      "url": "https://open.spotify.com/track/4nTDBs35sLzhB3m9LAcQ05"
+      "duration_ms": 219213,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Solitaires",
+        "url": "https://open.spotify.com/album/2rTF4hRIuLqYQHUlJIHTzT"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 253624,
+      "name": "Solitaires",
+      "url": "https://open.spotify.com/track/4nTDBs35sLzhB3m9LAcQ05"
     },
     {
       "added_at": "2024-07-19 04:00:00",

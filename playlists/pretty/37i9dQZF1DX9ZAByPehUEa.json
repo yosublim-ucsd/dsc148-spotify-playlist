@@ -1,6 +1,6 @@
 {
   "description": "A happy place \ud83e\udea9\ud83e\udea9",
-  "num_followers": 324423,
+  "num_followers": 324424,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
@@ -563,7 +563,7 @@
     {
       "added_at": "2024-08-09 17:48:00",
       "album": {
-        "name": "Lost (Gerd Janson Edit)",
+        "name": "Lost - Gerd Janson Edit",
         "url": "https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ"
       },
       "artists": [
@@ -1949,6 +1949,22 @@
       "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "dancebaby",
+        "url": "https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "dancebaby",
+      "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Ma quale idea (Myd Remix)",
@@ -1967,22 +1983,6 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "dancebaby",
-        "url": "https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "dancebaby",
-      "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2133,38 +2133,6 @@
       "url": "https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 170357,
-      "name": "CHIKI",
-      "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Satisfy Your Soul",
-        "url": "https://open.spotify.com/album/4IqJyq5RoaX5GySTIzFFsw"
-      },
-      "artists": [
-        {
-          "name": "Da Lukas",
-          "url": "https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Satisfy Your Soul - Radio Edit",
-      "url": "https://open.spotify.com/track/30FNBuPkq0FeWjVrZPEdfD"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Finally Ready (feat. Billy Porter)",
@@ -2183,6 +2151,38 @@
       "duration_ms": 236730,
       "name": "Finally Ready (feat. Billy Porter)",
       "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Satisfy Your Soul",
+        "url": "https://open.spotify.com/album/4IqJyq5RoaX5GySTIzFFsw"
+      },
+      "artists": [
+        {
+          "name": "Da Lukas",
+          "url": "https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP"
+        }
+      ],
+      "duration_ms": 190928,
+      "name": "Satisfy Your Soul - Radio Edit",
+      "url": "https://open.spotify.com/track/30FNBuPkq0FeWjVrZPEdfD"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 170357,
+      "name": "CHIKI",
+      "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2287,22 +2287,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "My Lovin'",
-        "url": "https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6"
+        "name": "BONKERS",
+        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
       },
       "artists": [
         {
-          "name": "Dr Packer",
-          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
-        },
-        {
-          "name": "Elektrik Disko",
-          "url": "https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG"
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
         }
       ],
-      "duration_ms": 194032,
-      "name": "My Lovin'",
-      "url": "https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6"
+      "duration_ms": 186666,
+      "name": "BONKERS",
+      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2327,18 +2323,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I DON'T MIND",
-        "url": "https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz"
+        "name": "My Lovin'",
+        "url": "https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6"
       },
       "artists": [
         {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        },
+        {
+          "name": "Elektrik Disko",
+          "url": "https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG"
         }
       ],
-      "duration_ms": 178211,
-      "name": "I DON'T MIND",
-      "url": "https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN"
+      "duration_ms": 194032,
+      "name": "My Lovin'",
+      "url": "https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: harf.",
   "name": "Fresh Finds Folk ",
   "tracks": [
     {
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 222631,
       "name": "Baby Run",
       "url": "https://open.spotify.com/track/6VTwz5LbO6QBgRy33IA4JY"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 194941,
       "name": "codepending",
       "url": "https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx"
@@ -6020,7 +6020,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 210000,
       "name": "Dog Tired",
       "url": "https://open.spotify.com/track/4ZkSiaNRfbvBxPNNPyltA6"
@@ -7026,6 +7026,24 @@
       "duration_ms": 154314,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/33nIBZLkbps2iecMwXKCFs"
+    },
+    {
+      "album": {
+        "name": "everyone says its easier said than done",
+        "url": "https://open.spotify.com/album/7qkDiF3yucBzEdzmoXGEsk"
+      },
+      "artists": [
+        {
+          "name": "camryn",
+          "url": "https://open.spotify.com/artist/6Nr0y8GGHjOBFTdvKrMRlZ"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138266,
+      "name": "everyone says",
+      "url": "https://open.spotify.com/track/257PLZzSh3u2xr9pgcc1RC"
     },
     {
       "album": {
@@ -12124,7 +12142,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 239035,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3iBbRE7Oqe2IWrTXggqOau"
@@ -12164,6 +12182,24 @@
       "duration_ms": 304396,
       "name": "Jessie's Blues",
       "url": "https://open.spotify.com/track/0q9WJFr9bDnQXqr4WmvE4G"
+    },
+    {
+      "album": {
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
+      },
+      "artists": [
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
       "album": {
@@ -13139,6 +13175,24 @@
     },
     {
       "album": {
+        "name": "Life Plan",
+        "url": "https://open.spotify.com/album/6SArRGwm8e7Ja7vdjfpl3v"
+      },
+      "artists": [
+        {
+          "name": "Karissa Bone",
+          "url": "https://open.spotify.com/artist/1PetI8qKDvDARxOWIl5wVr"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "Life Plan",
+      "url": "https://open.spotify.com/track/6zKvht9MLverqG8p9J835O"
+    },
+    {
+      "album": {
         "name": "Life's Got A While",
         "url": "https://open.spotify.com/album/3e7QS762GLrr3qFRIuJp1b"
       },
@@ -13330,7 +13384,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 277933,
       "name": "little al",
       "url": "https://open.spotify.com/track/0yb4dC4WEE0D0i6Kf8OAlf"
@@ -19560,7 +19614,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 196367,
       "name": "Someday Song",
       "url": "https://open.spotify.com/track/6u4czoL1FCDlvT9Z4jECk9"
@@ -22198,6 +22252,24 @@
       "duration_ms": 278133,
       "name": "Through The Eyes Of A Woman",
       "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/5cWc6ZCExd4pwkE3SFAItu"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218689,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/4836c60FYoDyiMVshhZzev"
     },
     {
       "album": {

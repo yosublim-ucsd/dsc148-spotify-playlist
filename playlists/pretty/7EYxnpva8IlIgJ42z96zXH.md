@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Morning Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Hot Girl Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Want to win a 5x class packs with KX Pilates!? Follow Morning Workout and sign up <a href="https://FiltrAU.lnk.to/MW\-KX!KX">here</a> for your chance to win!
+> Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,466 likes - 50 songs - 2 hr 43 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,463 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 49 | [Don't Hold Back \- Ben Gerrans Remix](https://open.spotify.com/track/3jXLn3Omm4sBlDhAeEcbBm) | [The Potbelleez](https://open.spotify.com/artist/34sQ4BJAwfwQsn9OgJtIzj), [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [Don't Hold Back \(Ben Gerrans Remix\)](https://open.spotify.com/album/5VMBFY7s8yIgs3KcfT38r3) | 2:48 |
 | 50 | [Rain On Me \- Purple Disco Machine Remix \- Edit](https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Rain On Me \(Purple Disco Machine Remix\)](https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5) | 3:58 |
 
-Snapshot ID: `AAAM5Y5spm4hyrcEVH1BKW0E70D2hENq`
+Snapshot ID: `AAAM5m8OuJWmu0mkJG3qUFZGg61B3pP8`

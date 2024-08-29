@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNpKdqfZ9Upp.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Honduras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,150 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,151 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNpKdqfZ9Upp.md) - [plain]
 | 13 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 14 | [Tal Vez Fui Yo](https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Tal Vez Fui Yo](https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs) | 2:30 |
 | 15 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 16 | [Sólida](https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Sólida](https://open.spotify.com/album/6ijyNh1JRhaj3lqPys9eiZ) | 2:37 |
+| 16 | [Solida](https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solida](https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr) | 2:33 |
 | 17 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 18 | [Lo Que Hay X Aquí](https://open.spotify.com/track/7oJ3N7oVSwoa5sdpg6NCE6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:38 |
 | 19 | [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNpKdqfZ9Upp.md) - [plain]
 | 49 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
 | 50 | [LA PRIMERA VEZ \(feat\. NTG\)](https://open.spotify.com/track/1nlE7HodTsB0IHA3HkR6gd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 2:51 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

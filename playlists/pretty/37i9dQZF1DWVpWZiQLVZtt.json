@@ -1,29 +1,13 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 906016,
+  "num_followers": 906272,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmiYRQAAAAAlurwcyppZQn4QBu9QBeF8",
+  "snapshot_id": "Zs98UAAAAADLG94mFQQJ/tqipNFovrLg",
   "tracks": [
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Mis Mejores Momentos:Para Coleccionistas Romantic",
-        "url": "https://open.spotify.com/album/101Hh240WmUplE337DUCEO"
-      },
-      "artists": [
-        {
-          "name": "Cristian",
-          "url": "https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2Pu6Yd9XZ8H4lrGPv9kqEH"
-    },
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -103,6 +71,22 @@
       "duration_ms": 284466,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -231,6 +215,22 @@
       "duration_ms": 268186,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/2KeFEmC9tWtNaF2hZ7yLpm"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Mis Mejores Momentos:Para Coleccionistas Romantic",
+        "url": "https://open.spotify.com/album/101Hh240WmUplE337DUCEO"
+      },
+      "artists": [
+        {
+          "name": "Cristian",
+          "url": "https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2Pu6Yd9XZ8H4lrGPv9kqEH"
     },
     {
       "added_at": "2022-03-15 03:49:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Horacio Palencia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,153 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,172 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 8 | [El Valiente](https://open.spotify.com/track/2nMUyoPs9if5CMl07wuELR) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [El Valiente](https://open.spotify.com/album/3KaTydWo5cOZEQQTXejf8N) | 3:02 |
 | 9 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 |
 | 10 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 |
-| 11 | [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:51 |
+| 11 | [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:31 |
 | 12 | [A Chillar a otra parte](https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [A Chillar a otra parte](https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW) | 3:33 |
 | 13 | [Lejos \- En Vivo](https://open.spotify.com/track/5ApwxAEVY9BLPZ4x9KUNMF) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:27 |
 | 14 | [LOS DOS](https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: AGNEZ MO
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,694 likes - 103 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,698 likes - 103 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

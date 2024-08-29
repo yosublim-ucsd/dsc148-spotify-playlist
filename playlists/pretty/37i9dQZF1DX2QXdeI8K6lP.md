@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,807 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,848 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 38 | [Quinto patio](https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl) | [Emilio Tuero](https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD) | [Antología..\. Emilio Tuero](https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g) | 2:55 |
 | 39 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 | 40 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
-| 41 | [No Me Platiques Ya](https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 2:50 |
+| 41 | [¿Cómo Fue?](https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [RCA 100 Años De Musica](https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO) | 2:55 |
 | 42 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
-| 43 | [¿Cómo Fue?](https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [RCA 100 Años De Musica](https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO) | 2:55 |
+| 43 | [No Me Platiques Ya](https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 2:50 |
 | 44 | [Cuidadito, Cuidadito](https://open.spotify.com/track/2eNyia284twoi86yKlDFxV) | [Maria Victoria](https://open.spotify.com/artist/2kCMFGCTWev6UdoLwVKCDb) | [Dame Que Te Doy](https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs) | 3:11 |
 | 45 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 | 46 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 48 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |
 | 49 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
 | 50 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 |
-| 51 | [La Puerta](https://open.spotify.com/track/7410XFJdR47lachsg3fkth) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Epoca De Oro](https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my) | 2:56 |
-| 52 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
-| 53 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
-| 54 | [Nochecita](https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb) | 2:38 |
-| 55 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
+| 51 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
+| 52 | [Talisman](https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Frente A Frente](https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN) | 3:16 |
+| 53 | [La Puerta](https://open.spotify.com/track/7410XFJdR47lachsg3fkth) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Epoca De Oro](https://open.spotify.com/album/2Uq4IXSFhPPopHSaDpD2my) | 2:56 |
+| 54 | [Perfume de Gardenias](https://open.spotify.com/track/3Vb2RVcd98LSdUMZwEsBxx) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Exitos de los Tres Reyes](https://open.spotify.com/album/5Eis1ZpyaTosGqOTYD0drt) | 2:57 |
+| 55 | [Nochecita](https://open.spotify.com/track/1Z4PHeXxR6LkgBa9slCenT) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/2YfKDamKfrzXOxZGpl8zbb) | 2:38 |
 | 56 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
 | 57 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
 | 58 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |

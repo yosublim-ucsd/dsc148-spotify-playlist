@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,994 likes - 121 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,035 likes - 121 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 76 | [Siete canciones populares españolas: 5\. Nana](https://open.spotify.com/track/1haBgdlDn0dEwvUU1G5y5h) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Daniel de Borah](https://open.spotify.com/artist/1R4AaEYuSoNK7cpCvW47Of) | [In Circles](https://open.spotify.com/album/0qvgD72QdYNDnoWtOk2e9y) | 2:37 |
 | 77 | [Pequena Suíte, W064: V\. Melodia](https://open.spotify.com/track/0QoWnZHtYtAJRUAgtrqgU3) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Yūko Miyagawa](https://open.spotify.com/artist/1DwD2gIPxKdiad9udxMFbl), [Aki Kuroda](https://open.spotify.com/artist/5TMEiphJbIEqBMRWunPqv6) | [Black Swan](https://open.spotify.com/album/1sGGSlQ4Rsmh0fk3MVgiqF) | 2:37 |
 | 78 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
-| 79 | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/track/5SjC85F2Wm3AN9bS6gI7QM) | [Judith Falk](https://open.spotify.com/artist/5OWH5sEyBxf1B6vWipG70Z), [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/album/4fEu8NRbzg2C2ZUE8SehFw) | 3:03 |
+| 79 | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/track/5SjC85F2Wm3AN9bS6gI7QM) | [Judith Falk](https://open.spotify.com/artist/5OWH5sEyBxf1B6vWipG70Z) | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/album/4fEu8NRbzg2C2ZUE8SehFw) | 3:03 |
 | 80 | [Douze préludes, Op\. 36: No\. 10, Sur une tombe](https://open.spotify.com/track/4HgG9qvhKPOTsAjxvkhH9h) | [Louis Vierne](https://open.spotify.com/artist/5s5DbmkHjHiMe5rlFdUMGL), [Laurent Wagschal](https://open.spotify.com/artist/1KH9u201pXo6g9cXxNZo12) | [Douze préludes, Op\. 36: No\. 10, Sur une tombe](https://open.spotify.com/album/4iYPvpZZnNbCuCgajYIThI) | 2:36 |
 | 81 | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/track/4BWs1bcs60wjW56SyoHjQi) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Oleg Caetani](https://open.spotify.com/artist/5aQCrqgWkrOGdG7qb2FMVT) | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/album/3rWvlpOXpbx8ELWoPAKDpy) | 8:06 |
 | 82 | [Chants du Rhin, WD 52: Les rêves](https://open.spotify.com/track/0Kubohno5e03J30wNFg4B2) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Nathanaël Gouin](https://open.spotify.com/artist/6ycB2zc7NqE59KlP0WQCBl) | [Bizet sans Paroles](https://open.spotify.com/album/0UbRmtk4reK9XEzz1yk2P4) | 3:44 |

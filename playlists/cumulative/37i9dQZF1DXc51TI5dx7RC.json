@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "\u0e07\u0e49\u0e2d (ALRIGHT) - Single",
+        "url": "https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "\u0e07\u0e49\u0e2d (ALRIGHT)",
+      "url": "https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e14\u0e08\u0e33 - Single",
         "url": "https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR"
       },
@@ -1077,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e39\u0e01\u0e04\u0e38\u0e13\u0e2b\u0e19\u0e39 - Single",
         "url": "https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj"
       },
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 215294,
       "name": "\u0e2d\u0e34\u0e08\u0e09\u0e32",
       "url": "https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E"

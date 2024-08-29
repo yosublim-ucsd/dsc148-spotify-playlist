@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,485 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,560 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 41 | [Rainha da Finesse](https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 2:46 |
 | 42 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 |
 | 43 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
-| 44 | [Deixa o Cavalo Correr](https://open.spotify.com/track/3a4W4YjeCPvzdpVqoqG8NL) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq) | [Deixa o Cavalo Correr](https://open.spotify.com/album/4cXhQzxED13jQAlNUB4HH1) | 6:29 |
+| 44 | [Deixa o Cavalo Correr](https://open.spotify.com/track/3a4W4YjeCPvzdpVqoqG8NL) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW) | [Deixa o Cavalo Correr](https://open.spotify.com/album/4cXhQzxED13jQAlNUB4HH1) | 6:29 |
 | 45 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
 | 46 | [Vamo de Pagodin](https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Vamo de Pagodin](https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q) | 2:40 |
 | 47 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Simone Mendes \- Só Hits](https://open.spotify.com/album/1LftNEPKrkFye3xoJ8kjQ7) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 50 | [Saudade Butequeira \- Ao Vivo](https://open.spotify.com/track/1VbunACv3Z4cGfBenC7oTx) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:29 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

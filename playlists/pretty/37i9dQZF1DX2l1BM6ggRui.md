@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,500 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,499 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 16 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 |
 | 17 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 18 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
-| 19 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
+| 19 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 20 | [Some Day in the 21century](https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Some Day in the 21century](https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r) | 3:55 |
-| 21 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
+| 21 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
 | 22 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
 | 23 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 24 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 48 | [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:25 |
 | 49 | [Be with me](https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved](https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu) | 4:37 |
 | 50 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
-| 51 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 |
-| 52 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 |
+| 51 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 |
+| 52 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 |
 | 53 | [be like YOU](https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [be like YOU](https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8) | 2:34 |
 | 54 | [Sing\-a\-song](https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 2:50 |
 | 55 | [It's Love](https://open.spotify.com/track/2pqlJF13zbO268SNONERS4) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [It's Love](https://open.spotify.com/album/4KdgbFmE2xn5be7sUMzFDe) | 3:11 |
 | 56 | [For you, my sunshine](https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [For you, my sunshine](https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq) | 3:46 |
 | 57 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
 | 58 | [CAPTAIN](https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:02 |
-| 59 | [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 |
-| 60 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
+| 59 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
+| 60 | [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 |
 
 Snapshot ID: `ZrePGgAAAADw7Rt4SaI7u7Hkpxhj1KLX`

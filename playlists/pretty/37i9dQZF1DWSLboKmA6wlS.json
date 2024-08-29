@@ -1,6 +1,6 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TALAY. Artwork: Isu Kim",
-  "num_followers": 8549,
+  "num_followers": 8552,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD"
+      },
+      "artists": [
+        {
+          "name": "lostbeans",
+          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
+        }
+      ],
+      "duration_ms": 254842,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
         "name": "\u0e27\u0e2d\u0e19\u0e14\u0e32\u0e27 (Calling to the star)",
         "url": "https://open.spotify.com/album/1oGQHHlEcWnt1EeDuPfHPy"
       },
@@ -167,34 +183,18 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e48\u0e2d\u0e19",
-        "url": "https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD"
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/7jguSC3ec5UU6vHMfn8WU5"
       },
       "artists": [
         {
-          "name": "lostbeans",
-          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
+          "name": "SUNDAY NIGHTS",
+          "url": "https://open.spotify.com/artist/4ggK46gLB2cjdhc0XixrzC"
         }
       ],
-      "duration_ms": 254842,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e48\u0e2d\u0e19",
-      "url": "https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM"
-      },
-      "artists": [
-        {
-          "name": "Vrach",
-          "url": "https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl"
+      "duration_ms": 220540,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/23ngJAgRbah6JtxMGue1E9"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM"
+      },
+      "artists": [
+        {
+          "name": "Vrach",
+          "url": "https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
         "name": "\u0e18\u0e32\u0e19\u0e2d\u0e2a",
         "url": "https://open.spotify.com/album/2ZRmfCcPnnTuWjN9Psk5ff"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 290823,
       "name": "\u0e18\u0e32\u0e19\u0e2d\u0e2a",
       "url": "https://open.spotify.com/track/0HRkgYhNb0znkBExwdAwe1"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-        "url": "https://open.spotify.com/album/7jguSC3ec5UU6vHMfn8WU5"
-      },
-      "artists": [
-        {
-          "name": "SUNDAY NIGHTS",
-          "url": "https://open.spotify.com/artist/4ggK46gLB2cjdhc0XixrzC"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-      "url": "https://open.spotify.com/track/23ngJAgRbah6JtxMGue1E9"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
-        "name": "\u0e15\u0e32\u0e1a\u0e2d\u0e14",
-        "url": "https://open.spotify.com/album/5cjGIDEoEBBz0M3dtW1Gpz"
-      },
-      "artists": [
-        {
-          "name": "Noise Figure",
-          "url": "https://open.spotify.com/artist/2TBjfJFdS35pykK6rw8H2v"
-        }
-      ],
-      "duration_ms": 190325,
-      "name": "\u0e15\u0e32\u0e1a\u0e2d\u0e14",
-      "url": "https://open.spotify.com/track/6dSdnDc9YCzwC74YUOUxgW"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
         "name": "\u0e04\u0e37\u0e19\u0e44\u0e2b\u0e19 (When?)",
         "url": "https://open.spotify.com/album/6xfrisqPpsDrvWxH2AHW3G"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 275875,
       "name": "\u0e04\u0e37\u0e19\u0e44\u0e2b\u0e19 (When?)",
       "url": "https://open.spotify.com/track/2zJLtdXaI8Ua6HaYTU00lK"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
+        "name": "\u0e15\u0e32\u0e1a\u0e2d\u0e14",
+        "url": "https://open.spotify.com/album/5cjGIDEoEBBz0M3dtW1Gpz"
+      },
+      "artists": [
+        {
+          "name": "Noise Figure",
+          "url": "https://open.spotify.com/artist/2TBjfJFdS35pykK6rw8H2v"
+        }
+      ],
+      "duration_ms": 190325,
+      "name": "\u0e15\u0e32\u0e1a\u0e2d\u0e14",
+      "url": "https://open.spotify.com/track/6dSdnDc9YCzwC74YUOUxgW"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -391,6 +391,22 @@
       "duration_ms": 210726,
       "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Superman)",
       "url": "https://open.spotify.com/track/33qxqEWxgO0ZXraZy0RUGm"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/5lennoMOBZbKonOdVZQoWd"
+      },
+      "artists": [
+        {
+          "name": "FRONGNTC",
+          "url": "https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -455,6 +471,22 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
+        "name": "introvert (\u0e04\u0e38\u0e22\u0e41\u0e04\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d)",
+        "url": "https://open.spotify.com/album/4D1lZmUqHGkZVeD7fxCEvd"
+      },
+      "artists": [
+        {
+          "name": "Turbo4Wds",
+          "url": "https://open.spotify.com/artist/1Mke6Xjpf1lidJUDPaZOAg"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "introvert (\u0e04\u0e38\u0e22\u0e41\u0e04\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d)",
+      "url": "https://open.spotify.com/track/0LKkh7iP6hDq6KKIHCBHEE"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
         "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e1e\u0e0a\u0e23",
         "url": "https://open.spotify.com/album/4XLkOfRwvd7oQ0Y6l7YZyY"
       },
@@ -487,38 +519,6 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
-        "name": "introvert (\u0e04\u0e38\u0e22\u0e41\u0e04\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d)",
-        "url": "https://open.spotify.com/album/4D1lZmUqHGkZVeD7fxCEvd"
-      },
-      "artists": [
-        {
-          "name": "Turbo4Wds",
-          "url": "https://open.spotify.com/artist/1Mke6Xjpf1lidJUDPaZOAg"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "introvert (\u0e04\u0e38\u0e22\u0e41\u0e04\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d)",
-      "url": "https://open.spotify.com/track/0LKkh7iP6hDq6KKIHCBHEE"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/5lennoMOBZbKonOdVZQoWd"
-      },
-      "artists": [
-        {
-          "name": "FRONGNTC",
-          "url": "https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
-      "url": "https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48",
         "url": "https://open.spotify.com/album/3Yf2uGGCCPxswhElqSD1Xf"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 250454,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48",
       "url": "https://open.spotify.com/track/0Vk0lHbkWZA0wGpi5VxpwL"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -583,22 +599,6 @@
       "duration_ms": 345661,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (about you)",
       "url": "https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
-        "url": "https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC"
-      },
-      "artists": [
-        {
-          "name": "242",
-          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
-      "url": "https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/0FcQkSwtB9SmfxHUKc44Xl"
+      },
+      "artists": [
+        {
+          "name": "Add Friends",
+          "url": "https://open.spotify.com/artist/7oSHBXAbrP9IkD8htx4khB"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/2LCPeGvSirn0QyXbZQQNFP"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/2t184CffQlykLUGAIVhkbm"
       },
@@ -839,6 +855,58 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
+        "name": "First view in the morning",
+        "url": "https://open.spotify.com/album/6f7RrLdO9aO38500SeLvOz"
+      },
+      "artists": [
+        {
+          "name": "Space Brothers",
+          "url": "https://open.spotify.com/artist/5lFYWz571ysHgJrRFplV41"
+        }
+      ],
+      "duration_ms": 311145,
+      "name": "First view in the morning",
+      "url": "https://open.spotify.com/track/2pV5Ei1ktky7QUs9wKXmYf"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
+        "url": "https://open.spotify.com/album/3fC5coJQWzymjuHYDoepfp"
+      },
+      "artists": [
+        {
+          "name": "PVR",
+          "url": "https://open.spotify.com/artist/6O1UxPVjpxtWOolLqSBlJV"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/4kIgBh3oYWs1b1x0PZFAf4"
+        }
+      ],
+      "duration_ms": 216431,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
+      "url": "https://open.spotify.com/track/7h2urOGrYXWpE37b3KjwMA"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49\u0e40\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/4uuulNRUNZRr5GNRsl6Kti"
+      },
+      "artists": [
+        {
+          "name": "H8U",
+          "url": "https://open.spotify.com/artist/4kLKJGgybaZxvPkl9epErO"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49\u0e40\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/1ftg385GWgYnhmJ2DbP60r"
+    },
+    {
+      "added_at": "2024-08-23 12:12:26",
+      "album": {
         "name": "Chromatic Canvas",
         "url": "https://open.spotify.com/album/6UN7qZQmCXVQsJQadCqH07"
       },
@@ -871,42 +939,6 @@
     {
       "added_at": "2024-08-23 12:12:26",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
-        "url": "https://open.spotify.com/album/3fC5coJQWzymjuHYDoepfp"
-      },
-      "artists": [
-        {
-          "name": "PVR",
-          "url": "https://open.spotify.com/artist/6O1UxPVjpxtWOolLqSBlJV"
-        },
-        {
-          "name": "SIMON",
-          "url": "https://open.spotify.com/artist/4kIgBh3oYWs1b1x0PZFAf4"
-        }
-      ],
-      "duration_ms": 216431,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
-      "url": "https://open.spotify.com/track/7h2urOGrYXWpE37b3KjwMA"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
-        "url": "https://open.spotify.com/album/0FcQkSwtB9SmfxHUKc44Xl"
-      },
-      "artists": [
-        {
-          "name": "Add Friends",
-          "url": "https://open.spotify.com/artist/7oSHBXAbrP9IkD8htx4khB"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e22\u0e31\u0e07\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/2LCPeGvSirn0QyXbZQQNFP"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e33\u0e15\u0e2d\u0e1a",
         "url": "https://open.spotify.com/album/6hCNrFRKWCnyH9oCXKvun9"
       },
@@ -919,22 +951,6 @@
       "duration_ms": 251739,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e33\u0e15\u0e2d\u0e1a",
       "url": "https://open.spotify.com/track/5HeGyhizEos3bvtFevemhC"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49\u0e40\u0e2d\u0e07",
-        "url": "https://open.spotify.com/album/4uuulNRUNZRr5GNRsl6Kti"
-      },
-      "artists": [
-        {
-          "name": "H8U",
-          "url": "https://open.spotify.com/artist/4kLKJGgybaZxvPkl9epErO"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49\u0e40\u0e2d\u0e07",
-      "url": "https://open.spotify.com/track/1ftg385GWgYnhmJ2DbP60r"
     },
     {
       "added_at": "2024-08-23 12:12:26",
@@ -967,22 +983,6 @@
       "duration_ms": 203910,
       "name": "\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e40\u0e18\u0e2d\u0e01\u0e47\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/3HCAJhrHJD3kaQeIyOw6oK"
-    },
-    {
-      "added_at": "2024-08-23 12:12:26",
-      "album": {
-        "name": "First view in the morning",
-        "url": "https://open.spotify.com/album/6f7RrLdO9aO38500SeLvOz"
-      },
-      "artists": [
-        {
-          "name": "Space Brothers",
-          "url": "https://open.spotify.com/artist/5lFYWz571ysHgJrRFplV41"
-        }
-      ],
-      "duration_ms": 311145,
-      "name": "First view in the morning",
-      "url": "https://open.spotify.com/track/2pV5Ei1ktky7QUs9wKXmYf"
     },
     {
       "added_at": "2024-08-23 12:12:26",

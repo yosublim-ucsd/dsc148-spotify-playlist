@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0tOuj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0tOuj6)
 
-### [This Is 東京スカパラダイスオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
+### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
+> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,872 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,878 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [Pride Of Lions](https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 |
 | 50 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 |
 
-Snapshot ID: `ZsvFgAAAAABlu2/duQxLpbRMlbBV/YZj`
+Snapshot ID: `ZsvFgAAAAACs/EOATH10z7hvliaO1eQ4`

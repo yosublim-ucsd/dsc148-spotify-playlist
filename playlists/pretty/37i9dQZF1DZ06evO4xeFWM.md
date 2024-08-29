@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 ### [This Is Bastille](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xeFWM)
 
-> This Is Bastille\. Los temas esenciales, todos en una lista.
+> This is Bastille\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,643 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,656 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Remind Me](https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Remind Me](https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1) | 3:02 |
 | 51 | [The Waves](https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:00 |
 
-Snapshot ID: `ZsvFgAAAAADAi0bFqV/IvKfFJLl/YiWB`
+Snapshot ID: `ZsvFgAAAAADcKTMeMTn9ZL9s8pMHvQCo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,548,972 likes - 203 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,549,559 likes - 203 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 27 | [Fjord](https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fjord](https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs) | 2:37 |
 | 28 | [A New Start](https://open.spotify.com/track/3inyKRu1a4IJDE9RUEcfKd) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [A New Start](https://open.spotify.com/album/4qWtSHyc3thJSYU7nUHpOb) | 2:35 |
 | 29 | [Falling Rain](https://open.spotify.com/track/2ccbSytqRFWAl5WSFZbZmC) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Falling Rain](https://open.spotify.com/album/7pd29NkHnAS6cOJDlNOSTc) | 2:38 |
-| 30 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
+| 30 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 31 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
 | 32 | [Where the Rivers Run](https://open.spotify.com/track/68xDhjQhGVfq7dGhfC1XhZ) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Where the Rivers Run](https://open.spotify.com/album/7i78ZgsoSY3KpmLFF32x5J) | 2:19 |
 | 33 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 |

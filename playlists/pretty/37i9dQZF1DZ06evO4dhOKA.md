@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 ### [This Is Lalo Mora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA)
 
-> This Is Lalo Mora\. Los temas esenciales, todos en una lista.
+> This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,208 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,239 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Leonardo Reyes](https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Corridos](https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4) | 2:54 |
 | 50 | [El Rey De Mil Coronas \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [PALOMAZO NORTEÑO VOL\. 2 \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3) | 3:54 |
 
-Snapshot ID: `ZsvFgAAAAAAo5dBNunIdloLO/GaCZUIk`
+Snapshot ID: `ZsvFgAAAAAA0T3IT9G65/9TlhwbVwMQr`

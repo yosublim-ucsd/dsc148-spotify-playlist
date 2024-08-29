@@ -1,6 +1,6 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4242113,
+  "num_followers": 4242284,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "Estrechez De Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "Estrechez De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
-        "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
-      },
-      "artists": [
-        {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
-        }
-      ],
-      "duration_ms": 310586,
-      "name": "Es Por Amor",
-      "url": "https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "Peligrosamente Juntos",
         "url": "https://open.spotify.com/album/7eBwifbtzfdnn9NhcUaC8d"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 259079,
       "name": "Lo noto",
       "url": "https://open.spotify.com/track/1k3Y0fhjdYKjfPSacDJm0p"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
+        "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "duration_ms": 310586,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol",

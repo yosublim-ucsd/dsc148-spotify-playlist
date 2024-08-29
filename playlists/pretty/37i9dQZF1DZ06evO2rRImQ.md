@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 ### [This Is Banda Los Recoditos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ)
 
-> This Is Banda Los Recoditos\. Los temas esenciales, todos en una lista.
+> This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,479 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,487 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Arráncame La Vida](https://open.spotify.com/track/0ARvjCTMqNKUmfUJb2ABoM) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Arráncame La Vida](https://open.spotify.com/album/1jzozIch3Y7mGHgZP3Kjj5) | 2:33 |
 | 50 | [Paso A Paso](https://open.spotify.com/track/51Wuz0a71nIinwK7lqHv4g) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tu Abandono, Vol\. 4](https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz) | 2:14 |
 
-Snapshot ID: `ZsvFgAAAAADWFxngE6N3rdzNiNQd91ZR`
+Snapshot ID: `ZsvFgAAAAACp2lqm0axhUD+n3WnE/ncl`

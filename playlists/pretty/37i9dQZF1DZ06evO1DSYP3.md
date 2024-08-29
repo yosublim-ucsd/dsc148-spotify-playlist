@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This is P\-Lo\. The essential tracks, all in one playlist.
+> This Is P\-Lo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,429 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,427 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
 | 50 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 |
 
-Snapshot ID: `ZsvFgAAAAAAOTPfaeiFhhkHbqkgWd2m8`
+Snapshot ID: `ZsvFgAAAAABjOl+NPa7U+qAYdeY0yrJI`

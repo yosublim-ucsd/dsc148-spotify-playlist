@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,994 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,997 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 49 | [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 |
 | 50 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

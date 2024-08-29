@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,437,413 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,438,353 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 34 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 35 | [Dance Monkey](https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey](https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT) | 3:17 |
 | 36 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
-| 37 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
-| 38 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
-| 39 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
+| 37 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
+| 38 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
+| 39 | [Call Me Maybe \- Acoustic](https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Call Me Maybe \- Acoustic](https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr) | 3:30 |
 | 40 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 41 | [The Scientist](https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Scientist](https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse) | 4:35 |
 | 42 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
-| 43 | [see you soon](https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [see you soon](https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW) | 2:38 |
-| 44 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
+| 43 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
+| 44 | [see you soon](https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [see you soon](https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW) | 2:38 |
 | 45 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
-| 46 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
-| 47 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
+| 46 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 |
+| 47 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
 | 48 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
 | 49 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 50 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 60 | [Got You \(Where I Want You\)](https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Got You \(Where I Want You\)](https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd) | 3:13 |
 | 61 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 62 | [Behind Blue Eyes](https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Behind Blue Eyes](https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm) | 2:44 |
-| 63 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
-| 64 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
+| 63 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
+| 64 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 65 | [Ghost \- Acoustic](https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Ghost \- acoustic](https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE) | 2:31 |
 | 66 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 67 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 94 | [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 |
 | 95 | [Barbie Girl](https://open.spotify.com/track/2nWifBZb998ETUqTrriQR9) | [Jill & Jane](https://open.spotify.com/artist/2XsNyprLTFSGhXfJCY8qYG) | [Barbie Girl](https://open.spotify.com/album/2dQVj6SJhxaKIlq2AaRJUD) | 2:50 |
 | 96 | [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 |
-| 97 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 |
-| 98 | [Birds of a Feather](https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Birds of a Feather](https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt) | 3:39 |
+| 97 | [Birds of a Feather](https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Birds of a Feather](https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt) | 3:39 |
+| 98 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 |
 | 99 | [People](https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [People](https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW) | 2:52 |
 | 100 | [Eyes Closed](https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl) | [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [Eyes Closed](https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe) | 3:23 |
 
-Snapshot ID: `Zsx+lQAAAAAn9DalMC+Yjqd0jzF9x+X8`
+Snapshot ID: `Zs7MZAAAAAB8ihapkoF2dfVCabIkKGZM`

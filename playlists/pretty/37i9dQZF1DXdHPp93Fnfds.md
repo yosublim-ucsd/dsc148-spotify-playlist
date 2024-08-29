@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Girl Ultra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,345 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,343 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 59 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 60 | [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 |
 | 61 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 |
-| 62 | [Agua](https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [La Loba](https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR) | 3:06 |
-| 63 | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 |
+| 62 | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 |
+| 63 | [Agua](https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [La Loba](https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR) | 3:06 |
 | 64 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 65 | [Male](https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Male](https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA) | 3:02 |
 | 66 | [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 |
-| 67 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
-| 68 | [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 |
-| 69 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
+| 67 | [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 |
+| 68 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
+| 69 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
 | 70 | [This is un volcán](https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [This is un volcán](https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif) | 3:26 |
 | 71 | [Ninja](https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Ninja](https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff) | 2:56 |
 | 72 | [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 |

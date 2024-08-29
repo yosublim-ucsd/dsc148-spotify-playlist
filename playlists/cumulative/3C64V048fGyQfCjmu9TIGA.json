@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "100% Ginuwine",
+        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "So Anxious",
+      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
+    },
+    {
+      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/0MomEpdhFU5YUXQxr47kxe"
       },

@@ -4,7 +4,7 @@
 
 > de skarpeste nye knive i dansk musik🔪 FRAAD på coveret, Uhhh Yeah!
 
-81 songs - 4 hr 24 min
+82 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 |  |
 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 |  |
 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 | 2024-06-27 |  |
+| [Bad Day](https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Bad Day](https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3) | 2:51 | 2024-08-23 |  |
 | [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 | 2024-06-27 | 2024-08-24 |
 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 | 2024-06-27 |  |
 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 | 2024-06-27 |  |
@@ -65,7 +66,7 @@
 | [Mand På En Nat](https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [I storslået kinddans, med livet som indsats](https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg) | 2:51 | 2024-06-27 |  |
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
-| [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 |  |
+| [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 | 2024-08-29 |
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 |  |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 |  |
 | [oslo til københavn](https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENGLE & BLAA MAERKER](https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x) | 2:54 | 2024-06-27 |  |

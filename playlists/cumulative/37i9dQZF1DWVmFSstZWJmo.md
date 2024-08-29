@@ -4,7 +4,7 @@
 
 > Is "indie sleaze" in the room with us now? ft\. The Dare
 
-237 songs - 14 hr 54 min
+238 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 | 2022-11-10 |  |
 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 | 2023-09-05 |  |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-11-10 |  |
-| [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 | 2023-09-05 |  |
+| [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 | 2023-09-05 | 2024-08-29 |
 | [I'm In Miami Bitch](https://open.spotify.com/track/1vaUxfrERQIQfJ1wBTmeRE) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Party Rock](https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR) | 3:47 | 2023-04-14 | 2023-04-27 |
 | [I'm Just Your Problem \(feat\. Olivia Olson\)](https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/65tIpVeX7kDv9ZCyZDV90e) | 1:56 | 2023-04-14 | 2023-05-18 |
 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 | 2023-09-05 |  |
@@ -217,6 +217,7 @@
 | [try](https://open.spotify.com/track/7KPibpTWZTtzUuhiNWX6d3) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [try](https://open.spotify.com/album/4Bgc3jlcqzN9QtRqq4hUqg) | 2:08 | 2023-08-18 | 2023-09-06 |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-11-10 | 2023-02-02 |
 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2023-01-10 | 2024-04-19 |
+| [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-08-28 |  |
 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-17 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-11-10 | 2023-12-23 |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-09-05 | 2024-04-19 |

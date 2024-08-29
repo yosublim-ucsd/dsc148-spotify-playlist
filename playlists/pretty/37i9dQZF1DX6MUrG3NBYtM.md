@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Alternative, Indie en Rock van nu! Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,966 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,953 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 32 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 33 | [I Like Boys](https://open.spotify.com/track/6R3uOuN5VN0BEzbtA2mKH4) | [Indian Askin](https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6) | [Lonely Citizen](https://open.spotify.com/album/6TiciGAyXjDDXi1ofxY3ru) | 2:52 |
 | 34 | [No One Is Innocent](https://open.spotify.com/track/1EKs3esr4su4Ue3giL0Kpx) | [Meltheads](https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W) | [Decent Sex](https://open.spotify.com/album/4nZedGZUFguFyyZxZmcrt5) | 2:00 |
-| 35 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
+| 35 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
 | 36 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 |
 | 37 | [how bad could it be](https://open.spotify.com/track/4Dj8VDoJPIYkryOKrJdI0e) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:08 |
 | 38 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 54 | [Dead On The Money](https://open.spotify.com/track/2wQHKNtbt27tIawFXnpsAF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Dead On The Money](https://open.spotify.com/album/43EzvE87hJGfpZiYcD1HSU) | 2:42 |
 | 55 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 
-Snapshot ID: `ZqwFYAAAAACkSd4kG38Tib+vaBgmKfTD`
+Snapshot ID: `Zs9J+AAAAABmKo6LZbTJwl+yY1G1DSan`

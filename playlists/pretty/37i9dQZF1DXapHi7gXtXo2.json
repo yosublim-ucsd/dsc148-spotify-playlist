@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 86743,
+  "num_followers": 86755,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "c\u00f3mo acaba",
         "url": "https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Juanito El Cantor",
-          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Cuando Estamos los Dos",
-      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "El Tesoro - Picnic En el Piso Doce",
         "url": "https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 242911,
       "name": "El Tesoro - Picnic En el Piso Doce",
       "url": "https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Juanito El Cantor",
+          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Cuando Estamos los Dos",
+      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Te quiero tanto",
-        "url": "https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Te quiero tanto",
-      "url": "https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
+        "name": "Te quiero tanto",
+        "url": "https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 213419,
+      "name": "Te quiero tanto",
+      "url": "https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 153139,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154087,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -867,22 +883,6 @@
       "duration_ms": 235682,
       "name": "Primer Recreo",
       "url": "https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "El Momento Perfecto",
         "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
         "name": "Delorean",
         "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
@@ -967,6 +967,26 @@
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 208908,
+      "name": "SUR",
+      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -991,26 +1011,6 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 208908,
-      "name": "SUR",
-      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 225938,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 225938,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 207809,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
+      },
+      "artists": [
+        {
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+        }
+      ],
+      "duration_ms": 207809,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Quiero Que Me Llames - Single",
-        "url": "https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257567,
-      "name": "Quiero Que Me Llames",
-      "url": "https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "Bajo la Lluvia \u96e8\u66dd",
         "url": "https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 247185,
       "name": "Bajo la Lluvia \u96e8\u66dd",
       "url": "https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "Quiero Que Me Llames - Single",
+        "url": "https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257567,
+      "name": "Quiero Que Me Llames",
+      "url": "https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1563,30 +1563,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Tu Vereda",
-        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Ivan C. Bakmas",
-          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
-        },
-        {
-          "name": "Fer Moreno",
-          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
-        }
-      ],
-      "duration_ms": 147198,
-      "name": "Tu Vereda",
-      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "Te Odio",
         "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
       },
@@ -1607,18 +1583,26 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Parque Acu\u00e1tico",
-        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+        "name": "Tu Vereda",
+        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Ivan C. Bakmas",
+          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
+        },
+        {
+          "name": "Fer Moreno",
+          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
         }
       ],
-      "duration_ms": 172646,
-      "name": "Parque Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
+      "duration_ms": 147198,
+      "name": "Tu Vereda",
+      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
+        "name": "Parque Acu\u00e1tico",
+        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 172646,
+      "name": "Parque Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
         "name": "El Problema \u96e3\u984c",
         "url": "https://open.spotify.com/album/1BrT4L9bLoN0VUjvhY8dLP"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Acto de Fe",
-        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "Acto de Fe",
+        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
     }
   ],
   "unique_name": "Radio Indie",

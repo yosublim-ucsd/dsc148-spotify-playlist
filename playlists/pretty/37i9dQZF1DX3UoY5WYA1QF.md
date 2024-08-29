@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,417 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,590 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 38 | [Escándalo Social](https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:19 |
 | 39 | [En Un Hilo](https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:42 |
 | 40 | [Buena Amiga](https://open.spotify.com/track/2QvxxH2qKdMdXGBr0blz1s) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:44 |
-| 41 | [Soy Como Quiero Ser](https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 2:35 |
-| 42 | [Con La Duda \(with Joan Sebastian\) \- Live Version](https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 3:16 |
+| 41 | [Con La Duda \(with Joan Sebastian\) \- Live Version](https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Thalia En Primera Fila](https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR) | 3:16 |
+| 42 | [Soy Como Quiero Ser](https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 2:35 |
 | 43 | [Aunque Ya Tengas Marido](https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 2:31 |
 | 44 | [Un Carino Como Tu](https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:18 |
 | 45 | [Hay Un Tren A Las 5](https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:42 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 94 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 |
 | 95 | [Mr\. Mandilón](https://open.spotify.com/track/3krnQOyZoTT54l1Bnzo4Xi) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Volví Pa´l Pueblo Acompañado Vol\. 1](https://open.spotify.com/album/27tyk3niWuwlHWl8wCCRGT) | 3:15 |
 | 96 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 |
-| 97 | [Como Tú Decidas](https://open.spotify.com/track/7atNmWz49se35HjJG7rAqC) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 3:09 |
-| 98 | [El Viejo Joven](https://open.spotify.com/track/1LSjVTaiRNOLNotHUIYqYU) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 2:45 |
+| 97 | [El Viejo Joven](https://open.spotify.com/track/1LSjVTaiRNOLNotHUIYqYU) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 2:45 |
+| 98 | [Como Tú Decidas](https://open.spotify.com/track/7atNmWz49se35HjJG7rAqC) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 3:09 |
 | 99 | [Cada Mañana](https://open.spotify.com/track/7Hi3l1vdmvQGOwvLP2FQRo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Otra Vez](https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF) | 3:24 |
 | 100 | [Rumores](https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:39 |
 

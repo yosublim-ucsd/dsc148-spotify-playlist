@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 463,143 likes - 253 songs - 15 hr 26 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 463,101 likes - 253 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 106 | [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 |
 | 107 | [Troublemaker \(feat\. Flo Rida\)](https://open.spotify.com/track/6s8nHXTJVqFjXE4yVZPDHR) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Right Place Right Time \- Expanded Edition](https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v) | 3:05 |
 | 108 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 |
-| 109 | [Diamonds](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:45 |
+| 109 | [Diamonds](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \- Deluxe](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:45 |
 | 110 | [Firework](https://open.spotify.com/track/4TVuirwgzxe9fWRBoWtPpq) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/6xfXgolXzcKzk77P3b3MeZ) | 3:47 |
 | 111 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 112 | [Forget You](https://open.spotify.com/track/6zKMARmU2Ue50cucKnIUR6) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer \(The Platinum Edition\)](https://open.spotify.com/album/3MnOoZGbCDAjLf8jOImSbg) | 3:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,381 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,406 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,21 +87,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 77 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
 | 78 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
 | 79 | [Hypnotherapy](https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Hypnotherapy](https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB) | 3:25 |
-| 80 | [What Happens In Your Head?](https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [East](https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf) | 3:34 |
-| 81 | [Rabid Dog](https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Rabid Dog](https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw) | 3:59 |
+| 80 | [Rabid Dog](https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Rabid Dog](https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw) | 3:59 |
+| 81 | [What Happens In Your Head?](https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [East](https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf) | 3:34 |
 | 82 | [Iris and I](https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Iris and I](https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1) | 2:45 |
-| 83 | [Back Then](https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 2:49 |
-| 84 | [I Think I Lost That Love](https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 4:02 |
-| 85 | [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 |
-| 86 | [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 |
+| 83 | [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 |
+| 84 | [Back Then](https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 2:49 |
+| 85 | [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 |
+| 86 | [I Think I Lost That Love](https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 4:02 |
 | 87 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
 | 88 | [good days](https://open.spotify.com/track/0bzRnAmbac20MQSkYClr8Z) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [good days](https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1) | 2:28 |
 | 89 | [Took One Look](https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ) | [Muunjuun](https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7) | [Took One Look](https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w) | 2:20 |
 | 90 | [DD](https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [33](https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7) | 3:20 |
 | 91 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
-| 92 | [Nightlife](https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A) | [Nightlife](https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB) | 3:08 |
-| 93 | [Forget About Us](https://open.spotify.com/track/65SdUIqOkTDkVRcZSa9xAu) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Stars at Midnight](https://open.spotify.com/album/2227pVdlLCui08gdcK3Pe0) | 4:12 |
-| 94 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
+| 92 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
+| 93 | [Nightlife](https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A) | [Nightlife](https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB) | 3:08 |
+| 94 | [Forget About Us](https://open.spotify.com/track/65SdUIqOkTDkVRcZSa9xAu) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Stars at Midnight](https://open.spotify.com/album/2227pVdlLCui08gdcK3Pe0) | 4:12 |
 | 95 | [Hazel](https://open.spotify.com/track/5qdiITVZ3gVXBAya6qglgh) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Blue Angeles](https://open.spotify.com/album/07oyYcBqQeUxuxEDh4xFO7) | 3:16 |
 | 96 | [swan hug \(feat\. jjared\)](https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [jjared](https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp) | [Goûter](https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij) | 4:32 |
 | 97 | [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 |

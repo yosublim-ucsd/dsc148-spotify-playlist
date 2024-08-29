@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u3064\u3044\u306b\u30b7\u30ea\u30fc\u30ba\u5b8c\u7d50\uff01\u6700\u65b0\u4f5c\u6620\u753b\u300e\u30b7\u30f3\u30fb\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5287\u5834\u7248\u300f\u516c\u958b\u8a18\u5ff5\u300e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u300f\u30b7\u30ea\u30fc\u30ba\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01\uff08C\uff09\u30ab\u30e9\u30fc",
+  "description": "\u300c<a href=\"https://eva-x-expo.exhibit.jp/\">\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5927\u535a\u89a7\u4f1a\u2015\u6771\u4eac\u51f1\u65cb</a>\u300d9/13~10/22\u307e\u3067\u516d\u672c\u6728\u30df\u30e5\u30fc\u30b8\u30a2\u30e0\u3067\u958b\u50ac\uff01\u671f\u9593\u9650\u5b9a\u30a8\u30f4\u30a1\u535aver.\u3067\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u516c\u958b\uff01\uff08C\uff09\u30ab\u30e9\u30fc",
   "name": "EVANGELION\u300e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u300f\u30b7\u30ea\u30fc\u30ba",
   "tracks": [
     {
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "A STEP FORWARD INTO TERROR",
+      "url": "https://open.spotify.com/track/5OBdCeehUA5j6KfYPC026D"
+    },
+    {
+      "album": {
         "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
         "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
       },
@@ -272,6 +290,42 @@
       "duration_ms": 118586,
       "name": "Ambassadrice Rouge",
       "url": "https://open.spotify.com/track/6fp0nAbrAvuhI17BYc1QnA"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68720,
+      "name": "ande-annonce (gar\u00e7ons)",
+      "url": "https://open.spotify.com/track/4M3B6iKbHRnTYeLC23LAKl"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151746,
+      "name": "ANGEL ATTACK",
+      "url": "https://open.spotify.com/track/4HlLKlrxgtfRlZ9ZwyX7uO"
     },
     {
       "album": {
@@ -304,10 +358,46 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 230733,
       "name": "Angel of Doom",
       "url": "https://open.spotify.com/track/4UjudP9wSDuBoNBtCpSr9J"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Angel of Doom (EM21)",
+      "url": "https://open.spotify.com/track/7vgZFM8fOPpkadQnpiJPji"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143693,
+      "name": "ASUKA STRIKES!",
+      "url": "https://open.spotify.com/track/3PiP9GtgkrLIUptc6kuJdX"
     },
     {
       "album": {
@@ -326,6 +416,24 @@
       "duration_ms": 195893,
       "name": "At The Very Beginning",
       "url": "https://open.spotify.com/track/3DRpsJc7Ir8NAR0kS8sIn0"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157133,
+      "name": "BAREFOOT IN THE PARK",
+      "url": "https://open.spotify.com/track/36LhMDdc5ZH5E2yx8No3DF"
     },
     {
       "album": {
@@ -358,7 +466,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 284973,
       "name": "Bataille d\u00e9cisive",
       "url": "https://open.spotify.com/track/5LOA41GVT3xtoA2qXijRxR"
@@ -383,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284973,
+      "name": "Battaille D\u00e9cisive (EM20)",
+      "url": "https://open.spotify.com/track/5typtbrx2c2kfIKbqAGGiz"
+    },
+    {
+      "album": {
         "name": "HEART STATION",
         "url": "https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L"
       },
@@ -394,7 +520,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 317946,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L"
@@ -412,7 +538,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 317400,
       "name": "Beautiful World - 2021 Remastered",
       "url": "https://open.spotify.com/track/4MfPhKZlI1e3Y31YoiLPS1"
@@ -448,7 +574,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 309986,
       "name": "Beautiful World - PLANiTb Acoustica Mix",
       "url": "https://open.spotify.com/track/2X5WNn3nHqFhihs8TtulVc"
@@ -470,7 +596,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 312840,
       "name": "Beautiful World - PLANiTb Acoustica Mix [2021 Remastered]",
       "url": "https://open.spotify.com/track/2EHBOLaqrlfoCvHLO2IVjX"
@@ -546,6 +672,24 @@
       "duration_ms": 372680,
       "name": "born evil",
       "url": "https://open.spotify.com/track/49qL8QSR26D93sZrdSQHMr"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111760,
+      "name": "Both of you,Dance Like You Want to Win!",
+      "url": "https://open.spotify.com/track/1DKbZ2P1MZW8lBg7Cz990R"
     },
     {
       "album": {
@@ -632,10 +776,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 121986,
       "name": "Contre les agressions",
       "url": "https://open.spotify.com/track/7LGUEPRL6m4U4XylWfjlcr"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121986,
+      "name": "Contre Les Agressions (EM04_A)",
+      "url": "https://open.spotify.com/track/6h2aOn20jbzx0HCFtfl3gA"
     },
     {
       "album": {
@@ -668,10 +830,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 194506,
       "name": "Cruel dilemme II",
       "url": "https://open.spotify.com/track/7GAK82GYC0wHR63XSwQs1F"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Cruel Dilemme \u2161 (EM16)",
+      "url": "https://open.spotify.com/track/6QhpFVh4iBHQdE3bqNRjZf"
     },
     {
       "album": {
@@ -704,7 +884,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 108360,
       "name": "Danse des lucioles",
       "url": "https://open.spotify.com/track/14AyjC3COhPa9HFFQjqrbh"
@@ -726,6 +906,42 @@
       "duration_ms": 108360,
       "name": "Danse des Lucioles",
       "url": "https://open.spotify.com/track/6Ns9v4uTilox4ez3uorJAV"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108360,
+      "name": "Danse des Lucioles (EM19)",
+      "url": "https://open.spotify.com/track/4ytyEWsnwPf8RnFNApZqJF"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144946,
+      "name": "DECISIVE BATTLE",
+      "url": "https://open.spotify.com/track/5d26ykXCmta1pTF3S1iHXk"
     },
     {
       "album": {
@@ -981,6 +1197,60 @@
     },
     {
       "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111133,
+      "name": "EVA-00",
+      "url": "https://open.spotify.com/track/5XuC1MiU4w53zE5yoXzb4U"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "EVA-01",
+      "url": "https://open.spotify.com/track/2VaBjcuPIvHoRVakCB2Jmh"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120346,
+      "name": "EVA-02",
+      "url": "https://open.spotify.com/track/7kxJkB4vpfyNuaX9srKB7q"
+    },
+    {
+      "album": {
         "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
         "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
       },
@@ -1071,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "EVANGELION ETERNALLY",
+        "url": "https://open.spotify.com/album/6oS76VmrAJrkcnCzzVglzh"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290065,
+      "name": "Final Call",
+      "url": "https://open.spotify.com/track/1Q0eBV82Xbj1IpFC7tl0qa"
+    },
+    {
+      "album": {
         "name": "HEART STATION",
         "url": "https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L"
       },
@@ -1082,7 +1370,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 206413,
       "name": "Fly Me To The Moon (In Other Words) - 2007 MIX",
       "url": "https://open.spotify.com/track/5zZzSkdXVaCyh6348E2ieD"
@@ -1118,7 +1406,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 206760,
       "name": "Fly Me To The Moon (In Other Words) - 2007 MIX [2021 Remastered]",
       "url": "https://open.spotify.com/track/2zV1Yl4jhpRwaKYejQoEnX"
@@ -1226,10 +1514,46 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 192920,
       "name": "I'll Go on Lovin' Someone Else",
       "url": "https://open.spotify.com/track/7cJKh9wkbG0mpVIlM6VxIi"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "I'll Go On Lovin'Someone Else (EM02)",
+      "url": "https://open.spotify.com/track/3c4r0BcHCCcPfGQ4M0fIYm"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "if a cause is worth dying for then be",
+      "url": "https://open.spotify.com/track/48ls27bOa36Dc9Fc3c5Jfm"
     },
     {
       "album": {
@@ -1442,10 +1766,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 153693,
       "name": "L'attaque des anges",
       "url": "https://open.spotify.com/track/3HtEVdzj5s2YJf9C2d5FQd"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "L'Attaque des Anges (EM01)",
+      "url": "https://open.spotify.com/track/5vrFAt4RsmmbBg0a5CAQIo"
     },
     {
       "album": {
@@ -1496,10 +1838,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 130693,
       "name": "Les b\u00eates",
       "url": "https://open.spotify.com/track/2evX9VlejVVvpdIVMLjGhG"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130693,
+      "name": "Les B\u00eates (EM05_B)",
+      "url": "https://open.spotify.com/track/6RCqDJUAyLsZPvEQ6burjO"
     },
     {
       "album": {
@@ -1568,10 +1928,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 166733,
       "name": "Lucifer's Cry",
       "url": "https://open.spotify.com/track/3hPCJkD23VUz1WeI01a0J8"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166733,
+      "name": "Lucifer's Cry (EM17)",
+      "url": "https://open.spotify.com/track/0hJZZP25U2QEhzfUzC8H4b"
     },
     {
       "album": {
@@ -1629,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164360,
+      "name": "Mecanisme de Defense (EM13)",
+      "url": "https://open.spotify.com/track/5e8TriZuENpAefE3kRLdjc"
+    },
+    {
+      "album": {
         "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
       },
@@ -1640,10 +2036,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 164360,
       "name": "Mecanisme de d\u00e9fense",
       "url": "https://open.spotify.com/track/48uxBSYbFJAQgdM8jiHhMH"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92080,
+      "name": "MISATO",
+      "url": "https://open.spotify.com/track/62EGUED22fAnvQbS7gBxRi"
     },
     {
       "album": {
@@ -1662,6 +2076,132 @@
       "duration_ms": 252026,
       "name": "One Last Kiss",
       "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233906,
+      "name": "Out of the Dark =3EM10=",
+      "url": "https://open.spotify.com/track/5S9jWBjXZfKjRRE86thcYF"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282400,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/3fKmq0ULDVfLjHh2FOVc06"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/1pCMc9WVPdWUgIRlhKO2AP"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51640,
+      "name": "Peaceful Times (ch\u0153ur) =3EM32=",
+      "url": "https://open.spotify.com/track/7k2fMETKIFAofuE7jIvrNs"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "pillars of faith",
+      "url": "https://open.spotify.com/track/304pMIGnlcVmJNENtFASuW"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "Premiere Man\u0153uvre (EM03)",
+      "url": "https://open.spotify.com/track/5nJ6viUBjMW35U0USUZ3lJ"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "prettiest star",
+      "url": "https://open.spotify.com/track/5Q4GBZDrfMIpfdWQ5br3m3"
     },
     {
       "album": {
@@ -1712,7 +2252,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 143786,
       "name": "Rei-Opus IV",
       "url": "https://open.spotify.com/track/6EOtWX1Bxj5TaZ45yAljGg"
@@ -1748,7 +2288,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 179920,
       "name": "Rei-Opus V",
       "url": "https://open.spotify.com/track/3i7qH0ACIHYTLFlna1dO0M"
@@ -1773,6 +2313,60 @@
     },
     {
       "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143786,
+      "name": "Rei-Opus \u2163 (EMA13_B)",
+      "url": "https://open.spotify.com/track/1Eti9INbw1fSV5KhodWp62"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Rei-Opus \u2164 (EMA01)",
+      "url": "https://open.spotify.com/track/69bGff6rYUHT6Fzodw6wpV"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Scarred and Battled =3EM26=",
+      "url": "https://open.spotify.com/track/58Zq39pXfebptcdEWKa4rX"
+    },
+    {
+      "album": {
         "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
         "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
       },
@@ -1788,6 +2382,24 @@
       "duration_ms": 212693,
       "name": "Serenity Amongst the Turmoil =3EM04=",
       "url": "https://open.spotify.com/track/5C1nVE6mOIhOrDxhirUDPE"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115613,
+      "name": "She said,\"Don't make others suffer for your personal hatred.\"",
+      "url": "https://open.spotify.com/track/58KIY6gFlLQCeAtLXAnN1p"
     },
     {
       "album": {
@@ -1820,10 +2432,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 122000,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/40P22AbktoXnMYLvd8oDxS"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Showdown (EM05_A)",
+      "url": "https://open.spotify.com/track/4Z7Wv4njZy2A6lUf14XPCY"
     },
     {
       "album": {
@@ -1874,10 +2504,28 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 120933,
       "name": "Staggering Yet",
       "url": "https://open.spotify.com/track/7bSiiOGbwuJU9HwHep2HeQ"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120933,
+      "name": "Staggering Yet (EM11)",
+      "url": "https://open.spotify.com/track/78V8kKH6PpEvJ5XK5UXeAx"
     },
     {
       "album": {
@@ -1892,7 +2540,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 145466,
       "name": "Strategie \"Yashima\"",
       "url": "https://open.spotify.com/track/5cL2HmDP7UdBp2wGM1CnCL"
@@ -1914,6 +2562,42 @@
       "duration_ms": 145466,
       "name": "Strategie \"Yashima\"",
       "url": "https://open.spotify.com/track/72C0QGw41D3nU0nFAKIQ52"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Strat\u00e9gie \"Yashima\" (EM18_Rhythm03)",
+      "url": "https://open.spotify.com/track/6aFNQGdSonHngp0dvPtxeI"
+    },
+    {
+      "album": {
+        "name": "EVANGELION ETERNALLY",
+        "url": "https://open.spotify.com/album/6oS76VmrAJrkcnCzzVglzh"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244545,
+      "name": "Teardrops of hope",
+      "url": "https://open.spotify.com/track/0cNxd8zT4uDS9htxuuxL13"
     },
     {
       "album": {
@@ -1971,6 +2655,60 @@
     },
     {
       "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299253,
+      "name": "The Anthem =3EM07=",
+      "url": "https://open.spotify.com/track/6psDbSAwt2i9wiJ70K0Ipo"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100893,
+      "name": "THE BEAST",
+      "url": "https://open.spotify.com/track/5QnChvR3PQ9gIDsOrls5fi"
+    },
+    {
+      "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139853,
+      "name": "THE BEAST \u2161",
+      "url": "https://open.spotify.com/track/3Aa85sLXx98Za8msqyXbNV"
+    },
+    {
+      "album": {
         "name": "Evangelion Finally",
         "url": "https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho"
       },
@@ -2018,7 +2756,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 179813,
       "name": "The Longest Day",
       "url": "https://open.spotify.com/track/0se17WEMwh4agIweLeVgd2"
@@ -2061,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "The Longest Day (EM10_A)",
+      "url": "https://open.spotify.com/track/7ExgPysY9AiXn8IQ6NKN6N"
+    },
+    {
+      "album": {
         "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
       },
@@ -2072,7 +2828,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 139586,
       "name": "The Longest Day II",
       "url": "https://open.spotify.com/track/4YwNfht6IQJrdSgGKgA07C"
@@ -2126,7 +2882,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 134213,
       "name": "The Longest Day III",
       "url": "https://open.spotify.com/track/5BrmivgBJ3Tw9P2YrEAIEL"
@@ -2148,6 +2904,60 @@
       "duration_ms": 137160,
       "name": "The Longest Day III (2007)",
       "url": "https://open.spotify.com/track/6Xm8d9HBP92vjnqUNQofrg"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139586,
+      "name": "The Longest Day \u2161 (EM10_B)",
+      "url": "https://open.spotify.com/track/0ewHfkvKlb4534ynvC8giY"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134213,
+      "name": "The Longest Day \u2162(EM10_C)",
+      "url": "https://open.spotify.com/track/0YguLRtIa69Xk7o7CvZGJF"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253160,
+      "name": "the path",
+      "url": "https://open.spotify.com/track/5mR56QAdZalubbUiU8vFXv"
     },
     {
       "album": {
@@ -2223,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX",
+        "url": "https://open.spotify.com/album/0lpgkuH72w3f8UKVELKeFX"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "TOKYO-3",
+      "url": "https://open.spotify.com/track/1RASLSUQA7dBlv4BGJgFGZ"
+    },
+    {
+      "album": {
         "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
         "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
       },
@@ -2274,6 +3102,24 @@
       "duration_ms": 295093,
       "name": "VOYAGER\uff5e\u65e5\u4ed8\u306e\u306a\u3044\u5893\u6a19",
       "url": "https://open.spotify.com/track/6tbgYUwdwOCeCLJtHS3zKf"
+    },
+    {
+      "album": {
+        "name": "EVANGELION ETERNALLY",
+        "url": "https://open.spotify.com/album/6oS76VmrAJrkcnCzzVglzh"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345505,
+      "name": "what if?",
+      "url": "https://open.spotify.com/track/3pjpWLWGdL47ItoYyW6MfJ"
     },
     {
       "album": {
@@ -2414,7 +3260,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 229653,
       "name": "\u4e16\u754c\u306f\u4e8c\u4eba\u306e\u305f\u3081\u306b",
       "url": "https://open.spotify.com/track/3R57Is4lByrwj7phOdEMXe"
@@ -2450,7 +3296,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 273320,
       "name": "\u4eba\u751f\u3092\u8a9e\u3089\u305a",
       "url": "https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8"
@@ -2490,6 +3336,24 @@
       "duration_ms": 163066,
       "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
       "url": "https://open.spotify.com/track/2SsjrvkdZMqkU9DNgQGqIz"
+    },
+    {
+      "album": {
+        "name": "EVANGELION FINALLY",
+        "url": "https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279694,
+      "name": "\u5e78\u305b\u306f\u7f6a\u306e\u5302\u3044",
+      "url": "https://open.spotify.com/track/2Coord6yg5ivNJx8QpiIFx"
     },
     {
       "album": {
@@ -2594,7 +3458,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 280760,
       "name": "\u685c\u6d41\u3057",
       "url": "https://open.spotify.com/track/2TQsZUVhevVTtNUil5JoJv"
@@ -2630,7 +3494,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 282880,
       "name": "\u685c\u6d41\u3057 - 2021 Remastered",
       "url": "https://open.spotify.com/track/6qXWOctgLJfiAFrmC9ogGE"
@@ -2691,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "EVANGELION FINALLY",
+        "url": "https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324214,
+      "name": "\u7121\u9650\u62b1\u64c1",
+      "url": "https://open.spotify.com/track/4fxsvweS3JGNrGxrFYMy3F"
+    },
+    {
+      "album": {
         "name": "\u6c34\u524d\u5bfa\u6e05\u5b50\u5168\u66f2\u96c6 \uff5e\u718a\u672c\u57ce\u30fb\u4e09\u767e\u516d\u5341\u4e94\u6b69\u306e\u30de\u30fc\u30c1\uff5e",
         "url": "https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk"
       },
@@ -2702,7 +3584,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 212666,
       "name": "\u771f\u5b9f\u4e00\u8def\u306e\u30de\u30fc\u30c1",
       "url": "https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy"

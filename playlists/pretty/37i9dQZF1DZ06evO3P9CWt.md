@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This Is Pabllo Vittar\. Los temas esenciales, todos en una lista.
+> This is Pabllo Vittar\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,748 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,769 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Paraíso](https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Paraíso](https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt) | 2:43 |
 | 50 | [Balinha de Coração](https://open.spotify.com/track/3l7guSk8yRLenAYRQuWGoH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:16 |
 
-Snapshot ID: `ZsvFgAAAAAChQt2meLY/ZpDo1Lax+hHP`
+Snapshot ID: `ZsvFgAAAAAAboAvurG8ybAzR22QPtM+/`

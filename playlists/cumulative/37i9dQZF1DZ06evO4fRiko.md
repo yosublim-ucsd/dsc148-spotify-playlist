@@ -2,7 +2,7 @@
 
 ### [This Is Chris Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fRiko)
 
-> This is: Chris Brown\. Alle wichtigen Tracks in einer Playlist.
+> This is Chris Brown\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 30 min
 
@@ -43,7 +43,7 @@
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/7FEwp8BavoEVE3AnxJDchc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Guidance \(feat\. Drake\)](https://open.spotify.com/album/1ypdCwJwVaUHuFTnvvQbMX) | 4:20 | 2024-07-13 |  |
 | [No Interruptions](https://open.spotify.com/track/6DaUoalUi6GAQTLaWmNcF0) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:39 | 2024-07-13 | 2024-07-20 |
 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:43 | 2024-07-13 |  |
-| [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 | 2024-07-13 |  |
+| [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \- Deluxe](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 | 2024-07-13 |  |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2024-07-13 |  |
 | [Not You Too \(feat\. Chris Brown\)](https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 4:29 | 2024-07-13 |  |
 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 | 2024-07-13 |  |

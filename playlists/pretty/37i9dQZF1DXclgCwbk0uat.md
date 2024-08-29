@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Jere Klein.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972,156 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,972,230 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
+| 1 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 | 2 | [Mi Automóvil](https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Mi Automóvil](https://open.spotify.com/album/7CbDAkPVNEiapO8UlC5MoL) | 2:20 |
 | 3 | [No Ponga Excusas](https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [No Ponga Excusas](https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4) | 2:44 |
 | 4 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |

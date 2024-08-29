@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,371 likes - 70 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,377 likes - 70 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 14 | [Sacrifice](https://open.spotify.com/track/5OZRQxwGu0r484nJu433EH) | [Zaatar⁩](https://open.spotify.com/artist/7BF810kNm8Hzi4taT8zqjh) | [No Border](https://open.spotify.com/album/0Kl88nIYuoMv2UnNJtNTQf) | 5:20 |
 | 15 | [Tragedy 2 \(Known Artist Remix\)](https://open.spotify.com/track/1g3Nq69QYbjh1JYEY4zeN6) | [Panthera](https://open.spotify.com/artist/1ogGXVsOLLqW0GxGIIIHzX), [Known Artist](https://open.spotify.com/artist/07iYEyMyKAt0MzUt3JdFU2) | [Tragedy](https://open.spotify.com/album/0iMlBbm5SV84gHcLKnBqv0) | 5:38 |
 | 16 | [Need It](https://open.spotify.com/track/6jmny3liDUdjL95U1J8Njx) | [Maruwa](https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF) | [Freeride Millenium presents Queer Base, Vol\. 2](https://open.spotify.com/album/5fE7Ds652mDjUfSdQMYSaw) | 5:02 |
-| 17 | [Lost \- Gerd Janson Edit](https://open.spotify.com/track/4bpB7YsjgZ436rwT5Iwl5g) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Lost \(Gerd Janson Edit\)](https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ) | 3:30 |
+| 17 | [Lost \- Gerd Janson Edit](https://open.spotify.com/track/4bpB7YsjgZ436rwT5Iwl5g) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Lost \- Gerd Janson Edit](https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ) | 3:30 |
 | 18 | [Down \(Original Mix\)](https://open.spotify.com/track/6YaFyRsRbB2AIy6Ajea4jB) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Down](https://open.spotify.com/album/2aN1FWQGqSU86NVzRAmvCE) | 3:49 |
 | 19 | [Bubble Toy](https://open.spotify.com/track/4RnYjuF4JTz1C3vjzuwQ4E) | [Olsvangèr](https://open.spotify.com/artist/3xlprdQ7Cjmqn9j8WqcZED) | [Icy Hookups](https://open.spotify.com/album/5vAyq7wUVPb3x9yxf3Gvru) | 6:30 |
 | 20 | [Club Crush](https://open.spotify.com/track/5Kzz8PVZcdof4503XYH4sz) | [Anatole Serret](https://open.spotify.com/artist/10F7V9723cEBqtgn474KOM) | [Club Crush](https://open.spotify.com/album/6VgeXNUGHb4LjSG4gzV8TH) | 8:22 |

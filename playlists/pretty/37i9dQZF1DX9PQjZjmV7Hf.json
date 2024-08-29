@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 51753,
+  "num_followers": 51779,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+        "name": "Drip Season 3 - Deluxe",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
       "artists": [
         {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 240895,
-      "name": "None of This",
-      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
+      "duration_ms": 229977,
+      "name": "Toast Up",
+      "url": "https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -659,18 +655,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Drip Season 3 - Deluxe",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 229977,
-      "name": "Toast Up",
-      "url": "https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i"
+      "duration_ms": 240895,
+      "name": "None of This",
+      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -727,26 +727,6 @@
       "duration_ms": 190491,
       "name": "Flewed Out",
       "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 185155,
-      "name": "Effortless",
-      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -851,22 +831,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 104803,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/7mKJak60o7cmixVEfggraL"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Young And Turnt",
         "url": "https://open.spotify.com/album/6ghfhTnYBG1W5Ky22OhJzD"
       },
@@ -883,6 +847,26 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 185155,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Backdoor",
         "url": "https://open.spotify.com/album/5PSCPhiCCm6eL1URdzagzf"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 200000,
       "name": "Backdoor",
       "url": "https://open.spotify.com/track/1MUsTqcuOaBeMnEL73K4fS"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 104803,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/7mKJak60o7cmixVEfggraL"
     },
     {
       "added_at": "2022-10-01 20:14:07",

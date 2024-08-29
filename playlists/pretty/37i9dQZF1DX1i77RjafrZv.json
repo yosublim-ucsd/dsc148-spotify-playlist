@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 318622,
+  "num_followers": 318648,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "S'il Suffisait D'aimer",
-        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
+        "name": "Les Dix Commandements (L'int\u00e9grale)",
+        "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Les Dix Commandements",
+          "url": "https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb"
+        },
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD"
         }
       ],
-      "duration_ms": 214826,
-      "name": "S'il suffisait d'aimer",
-      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
+      "duration_ms": 388840,
+      "name": "L'envie d'aimer",
+      "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -255,22 +259,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Les Dix Commandements (L'int\u00e9grale)",
-        "url": "https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l"
+        "name": "S'il Suffisait D'aimer",
+        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
       },
       "artists": [
         {
-          "name": "Les Dix Commandements",
-          "url": "https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb"
-        },
-        {
-          "name": "Daniel Levi",
-          "url": "https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 388840,
-      "name": "L'envie d'aimer",
-      "url": "https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n"
+      "duration_ms": 214826,
+      "name": "S'il suffisait d'aimer",
+      "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "&",
         "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 235866,
       "name": "Le lac",
       "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Comic Strip",
-        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        },
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Je t'aime moi non plus",
-      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Morgane De Toi (Remastered)",
         "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 176160,
       "name": "Aimer \u00e0 mort",
       "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Je Te Dis Vous",
-        "url": "https://open.spotify.com/album/69n8bkgSfdSYf8IBvSdRC8"
+        "name": "Qu'en restera-t-il ?",
+        "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
       },
       "artists": [
         {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
         }
       ],
-      "duration_ms": 321266,
-      "name": "Il me dit que je suis belle",
-      "url": "https://open.spotify.com/track/19faTtoozaabdpDnj1rxZy"
+      "duration_ms": 252413,
+      "name": "Une autre histoire d'amour",
+      "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
     }
   ],
   "unique_name": "French Kiss",

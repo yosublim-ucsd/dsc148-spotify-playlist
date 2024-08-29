@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,059 likes - 18 songs - 57 min 1 sec
+[Spotify](https://open.spotify.com/user/spotify) - 54,071 likes - 18 songs - 57 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

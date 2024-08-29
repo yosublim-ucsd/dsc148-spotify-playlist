@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 72004,
+  "num_followers": 72020,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,18 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
       "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -183,18 +175,26 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
       "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Luz V",
-        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "No me importa nada",
-      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Luz V",
+        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "No me importa nada",
+      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "No tenemos prisa",
         "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 238847,
       "name": "Como una punzada",
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Esperanza",
         "url": "https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 189573,
       "name": "Noche Fr\u00eda",
       "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 200725,
+      "name": "El Jardin",
+      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 199935,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA"
+      "duration_ms": 247959,
+      "name": "Sabr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN"
+      "duration_ms": 199935,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1792,9 +1792,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 247959,
-      "name": "Sabr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW"
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN"
     }
   ],
   "unique_name": "Bugambilias",

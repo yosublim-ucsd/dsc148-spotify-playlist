@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,200 likes - 497 songs - 1 day 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,189 likes - 497 songs - 1 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

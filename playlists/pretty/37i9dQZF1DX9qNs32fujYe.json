@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Powerwolf",
-  "num_followers": 1262999,
+  "num_followers": 1263259,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 296626,
-      "name": "Davidian",
-      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Conflict",
         "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 144000,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 296626,
+      "name": "Davidian",
+      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 263786,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+      "duration_ms": 258586,
+      "name": "Wild Eyes",
+      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 258586,
-      "name": "Wild Eyes",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ"
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 348093,
       "name": "You Can't Bring Me Down",
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "1589",
-        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 244780,
-      "name": "1589",
-      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Senjutsu",
         "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 243754,
       "name": "Days Of Future Past",
       "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "1589",
+        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 244780,
+      "name": "1589",
+      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215924,
-      "name": "The Past Is Dead",
-      "url": "https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Circus Of Doom",
         "url": "https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 246990,
       "name": "Wings of Light",
       "url": "https://open.spotify.com/track/69Tm9WdAS2Y74e99YBfZOE"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215924,
+      "name": "The Past Is Dead",
+      "url": "https://open.spotify.com/track/7M7AFtWYg73Kvj5cTZUjiZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "I'll Be Your Hero",
+        "url": "https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "I'll Be Your Hero - Single Edit",
+      "url": "https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Darkenguard",
         "url": "https://open.spotify.com/album/2Pz9nX3wMVPSnLBYITUe5J"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 511506,
       "name": "Darkenguard",
       "url": "https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "I'll Be Your Hero",
-        "url": "https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "I'll Be Your Hero - Single Edit",
-      "url": "https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2103,18 +2103,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Fall in Line",
-        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
+        "name": "Scum",
+        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
       },
       "artists": [
         {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
         }
       ],
-      "duration_ms": 284453,
-      "name": "Fall In Line",
-      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
+      "duration_ms": 158200,
+      "name": "Scum",
+      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2135,18 +2135,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Scum",
-        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
+        "name": "Fall in Line",
+        "url": "https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT"
       },
       "artists": [
         {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
         }
       ],
-      "duration_ms": 158200,
-      "name": "Scum",
-      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
+      "duration_ms": 284453,
+      "name": "Fall In Line",
+      "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Made Of Metal",
-        "url": "https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 252316,
-      "name": "Made Of Metal",
-      "url": "https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sk8 or Die",
         "url": "https://open.spotify.com/album/1UO3gKPqtHDXMahNnm4SIf"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 131523,
       "name": "Sk8 or Die",
       "url": "https://open.spotify.com/track/2ajQofPpJ5EiOzGDP3NFmw"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Made Of Metal",
+        "url": "https://open.spotify.com/album/6iF2V3BdIyQY21w3JyZcSN"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 252316,
+      "name": "Made Of Metal",
+      "url": "https://open.spotify.com/track/6YvnVtMnUipiiJXKexq9MI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Master of Confusion",
-        "url": "https://open.spotify.com/album/4zPOosENFJO2AI2MJXnN2n"
-      },
-      "artists": [
-        {
-          "name": "Gamma Ray",
-          "url": "https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Master of Confusion",
-      "url": "https://open.spotify.com/track/5r1pLWSHgVAwmoDcSJ4ogL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Shed My Skin",
         "url": "https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 270479,
       "name": "Shed My Skin (feat. Annisokay)",
       "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Master of Confusion",
+        "url": "https://open.spotify.com/album/4zPOosENFJO2AI2MJXnN2n"
+      },
+      "artists": [
+        {
+          "name": "Gamma Ray",
+          "url": "https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Master of Confusion",
+      "url": "https://open.spotify.com/track/5r1pLWSHgVAwmoDcSJ4ogL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Feast Of Fire",
         "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 258837,
       "name": "Feast Of Fire",
       "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Bloodclock",
-        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Bloodclock",
-      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
         "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 300013,
       "name": "Crow Killer Blues",
       "url": "https://open.spotify.com/track/3LK0cE6zURQCFoiAzQiaUy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Bloodclock",
+        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Bloodclock",
+      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Unforgivable",
-        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Unforgivable",
-      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 344918,
       "name": "Hatred Will Prevail - Monolith Remix",
       "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Unforgivable",
+        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Unforgivable",
+      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2707,18 +2707,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Castle In The Sky",
-        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
+        "name": "Chapter III - Downfall",
+        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
       "artists": [
         {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
         }
       ],
-      "duration_ms": 304500,
-      "name": "Castle In The Sky",
-      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
+      "duration_ms": 234346,
+      "name": "Eternal Rains",
+      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2739,22 +2739,6 @@
       "duration_ms": 301576,
       "name": "Left on Mars",
       "url": "https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Chapter III - Downfall",
-        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
-      },
-      "artists": [
-        {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Eternal Rains",
-      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2791,6 +2775,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
       },
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Saturn Coming Down",
-        "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 358546,
-      "name": "Saturn Coming Down",
-      "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 216388,
       "name": "Dopamine (feat. Simone Simons)",
       "url": "https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Saturn Coming Down",
+        "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 358546,
+      "name": "Saturn Coming Down",
+      "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Out Of The Shadows 2.0",
-        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 219195,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Gawdzillionaire",
         "url": "https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK"
       },
@@ -2907,6 +2891,22 @@
       "duration_ms": 196740,
       "name": "Full Disclosure",
       "url": "https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Out Of The Shadows 2.0",
+        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 219195,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2999,6 +2999,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "duration_ms": 330813,
+      "name": "Northwards",
+      "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "This Heathen Land",
         "url": "https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K"
       },
@@ -3027,22 +3043,6 @@
       "duration_ms": 242172,
       "name": "Crossing Over",
       "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
-      },
-      "artists": [
-        {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
-        }
-      ],
-      "duration_ms": 330813,
-      "name": "Northwards",
-      "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -3263,22 +3263,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Hin helga kv\u00f6l",
-        "url": "https://open.spotify.com/album/5X0eZLojAXvGHXpFZEzLRo"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Hin helga kv\u00f6l",
-      "url": "https://open.spotify.com/track/4Al63sF8CtNkAegXTLcwKM"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Hin helga kv\u00f6l",
+        "url": "https://open.spotify.com/album/5X0eZLojAXvGHXpFZEzLRo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Hin helga kv\u00f6l",
+      "url": "https://open.spotify.com/track/4Al63sF8CtNkAegXTLcwKM"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 210485,
+  "num_followers": 210560,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-08-23 09:36:20",
@@ -876,6 +876,10 @@
           "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
         },
         {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        },
+        {
           "name": "MC Bruno MS",
           "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
         },
@@ -886,10 +890,6 @@
         {
           "name": "Boladin 211",
           "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
-        },
-        {
-          "name": "Mc Tato",
-          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
         }
       ],
       "duration_ms": 389538,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 ### [This Is Pancho Barraza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU)
 
-> This is Pancho Barraza\. The essential tracks, all in one playlist.
+> This Is Pancho Barraza\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,928 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,957 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
 | 50 | [Cien Por Ciento Sincero](https://open.spotify.com/track/0Vp2IK6mnqGiJGmH2SKIH7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cien Por Ciento Sincero](https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq) | 3:07 |
 
-Snapshot ID: `ZsvFgAAAAACSMznyGjl90J3UaLgzOCIR`
+Snapshot ID: `ZsvFgAAAAAD8Y4rV89aJk1gpu+8fAjqt`

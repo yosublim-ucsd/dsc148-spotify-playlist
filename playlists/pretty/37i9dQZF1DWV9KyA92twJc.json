@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d9\u05e1\u05de\u05d9\u05df \u05de\u05d5\u05e2\u05dc\u05dd",
-  "num_followers": 25622,
+  "num_followers": 25621,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
-      },
-      "artists": [
-        {
-          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
-          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
         "url": "https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
       },
       "artists": [
         {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
+          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
         }
       ],
-      "duration_ms": 196548,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
+      "duration_ms": 228320,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 182700,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05d7\u05d5\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 196548,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
     },
     {
       "added_at": "2024-08-22 21:00:00",

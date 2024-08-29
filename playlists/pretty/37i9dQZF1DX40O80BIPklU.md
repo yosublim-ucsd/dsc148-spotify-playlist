@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Tose One y  Almanegra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,822 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,854 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 3 | [Un Pelito y Un Tamal](https://open.spotify.com/track/3EPHagMulVWYwuefchltK6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [dj spizike](https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm) | [Un Pelito y Un Tamal](https://open.spotify.com/album/69d8lxsfANufzR41UZThPM) | 2:06 |
 | 4 | [ADRENALINA](https://open.spotify.com/track/1Y7PMEmhBNhwRYdwupj61v) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ADRENALINA](https://open.spotify.com/album/738JDm3WZaOJJUqtCsdDRv) | 3:13 |
 | 5 | [Desecho por Capricho](https://open.spotify.com/track/4eZDxg3GdHkjxnE4NhFrtw) | [Niche Ls](https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7), [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Desecho por Capricho](https://open.spotify.com/album/3uMreTb7ATgAtxKJecnH1c) | 2:10 |
-| 6 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 |
+| 6 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 |
 | 7 | [Mi Psique](https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [AleexBeat](https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY) | [Mi Psique](https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T) | 3:17 |
 | 8 | [Candela](https://open.spotify.com/track/6QgZMzRigLCwQZfEBgRDoU) | [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Candela](https://open.spotify.com/album/1iUBAs3SCKHSI3n5tnTq7j) | 2:51 |
 | 9 | [TRANKY FUNKY](https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TRANKY FUNKY](https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Isac Elliot ja Miriam Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,061 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,072 likes - 108 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 33 | [S.O.S](https://open.spotify.com/track/2q60C4ppVAMYukwYnLfYFq) | [BALOBOIZ](https://open.spotify.com/artist/08VZsyOGm9AsqIuICGVvdo) | [LIFE OF a BALOBOI](https://open.spotify.com/album/2rXIY2CQwl5VyUNqWztKsx) | 2:38 |
 | 34 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 35 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 |
-| 36 | [Sunnuntai aamuun](https://open.spotify.com/track/2giCy35lwlICeJpiIf2z6f) | [Äänet Käskee](https://open.spotify.com/artist/6tYoCkla26VpGOZcUVCuT3), [Kuningas Pähkinä & Setä Tamu](https://open.spotify.com/artist/5eDDKdMzwO9fODuj6lUEaG) | [Sunnutai aamuun](https://open.spotify.com/album/0uAueTwxLfj3fNOROtTkl1) | 2:35 |
+| 36 | [Sunnuntai aamuun](https://open.spotify.com/track/2giCy35lwlICeJpiIf2z6f) | [Äänet Käskee](https://open.spotify.com/artist/6tYoCkla26VpGOZcUVCuT3), [Kuningas Pähkinä & Setä Tamu](https://open.spotify.com/artist/5eDDKdMzwO9fODuj6lUEaG) | [Sunnuntai aamuun](https://open.spotify.com/album/0uAueTwxLfj3fNOROtTkl1) | 2:35 |
 | 37 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 |
 | 38 | [Yksi Jumalista](https://open.spotify.com/track/6qwYKr4CzlrYoo4me8HUDR) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Yksi Jumalista](https://open.spotify.com/album/06qwkBk7tzsv4KAWWriRqL) | 3:19 |
 | 39 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 |

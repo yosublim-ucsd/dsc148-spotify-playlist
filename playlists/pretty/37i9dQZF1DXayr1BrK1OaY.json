@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 224918,
+  "num_followers": 224965,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 157681,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
-        "name": "Miss U",
-        "url": "https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 157681,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
+        "name": "Lone Raver",
+        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 257299,
+      "name": "Lone Raver",
+      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh"
       },
@@ -1331,34 +1363,18 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+        "name": "DESCEND",
+        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         }
       ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
-        "name": "Lone Raver",
-        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 257299,
-      "name": "Lone Raver",
-      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+      "duration_ms": 220245,
+      "name": "DESCEND",
+      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -1379,22 +1395,6 @@
       "duration_ms": 152610,
       "name": "Forever In My Mind",
       "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
-        "name": "DESCEND",
-        "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "DESCEND",
-      "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Surrender To The Feeling",
-        "url": "https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo"
-      },
-      "artists": [
-        {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
-        }
-      ],
-      "duration_ms": 207787,
-      "name": "Surrender To The Feeling",
-      "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 213106,
       "name": "Cruel Heart",
       "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Surrender To The Feeling",
+        "url": "https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "duration_ms": 207787,
+      "name": "Surrender To The Feeling",
+      "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Too Many Questions",
-        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Too Many Questions",
-      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
         "name": "Gonna Be Good",
         "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 172319,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Too Many Questions",
+        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Too Many Questions",
+      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "THERE 4 U",
-        "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
+        "name": "Good Faith",
+        "url": "https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr"
       },
       "artists": [
         {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
         }
       ],
-      "duration_ms": 200000,
-      "name": "THERE 4 U",
-      "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
+      "duration_ms": 241040,
+      "name": "Heavy With Hoping",
+      "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -2003,6 +2003,22 @@
       "duration_ms": 235577,
       "name": "Lonely - AVAION Remix",
       "url": "https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "THERE 4 U",
+        "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "THERE 4 U",
+      "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -2067,38 +2083,6 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Good Faith",
-        "url": "https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Heavy With Hoping",
-      "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
         "name": "life gets hard (Edit)",
         "url": "https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs"
       },
@@ -2135,6 +2119,22 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
         "name": "I DON'T WANT TO FALL IN LOVE",
         "url": "https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V"
       },
@@ -2147,38 +2147,6 @@
       "duration_ms": 188983,
       "name": "I DON'T WANT TO FALL IN LOVE",
       "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
-        "name": "LOVE U BETTER",
-        "url": "https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b"
-      },
-      "artists": [
-        {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
-        }
-      ],
-      "duration_ms": 160014,
-      "name": "LOVE U BETTER",
-      "url": "https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez"
-    },
-    {
-      "added_at": "2024-08-23 21:29:18",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -2199,18 +2167,34 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Shiny New Thing",
-        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq"
       },
       "artists": [
         {
-          "name": "CXLOE",
-          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
         }
       ],
-      "duration_ms": 158170,
-      "name": "Shiny New Thing",
-      "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
+      "duration_ms": 193548,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "LOVE U BETTER",
+        "url": "https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "duration_ms": 160014,
+      "name": "LOVE U BETTER",
+      "url": "https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -2235,6 +2219,22 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Shiny New Thing",
+        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "Shiny New Thing",
+      "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
     },
     {
       "added_at": "2024-08-23 21:29:18",
@@ -2279,22 +2279,18 @@
     {
       "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Hide and Seek (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
       },
       "artists": [
         {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        },
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 231288,
-      "name": "Hide and Seek - Le Youth Remix",
-      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+      "duration_ms": 274500,
+      "name": "Julia (deep diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
     }
   ],
   "unique_name": "crying on the dance floor",

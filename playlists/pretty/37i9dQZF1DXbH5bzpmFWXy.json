@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Yahir Saldivar en portada.",
-  "num_followers": 170946,
+  "num_followers": 171001,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 223783,
-      "name": "Un Desperdicio",
-      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "Un Desperdicio",
+      "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -751,26 +735,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "MONEY EDITION",
-        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -791,6 +755,42 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "MONEY EDITION",
+        "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 203606,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 243466,
       "name": "No Hay Manera",
       "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Va En Serio",
         "url": "https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
     },
     {
       "added_at": "2024-08-16 06:00:00",

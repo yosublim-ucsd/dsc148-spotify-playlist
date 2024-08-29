@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,083 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,117 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 4 | [Bogotá](https://open.spotify.com/track/0qOfKcnU3dAgHAGQOS3tBP) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Antesala](https://open.spotify.com/album/3qGctkbUxZLVKsKaF1Co3P) | 3:21 |
 | 5 | [Relé](https://open.spotify.com/track/1HJbLgHCVVAWEAHMp0JZmB) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [TABOGO'S FINEST](https://open.spotify.com/album/3DeRst2QWe9zsGpKP7zfEe) | 3:10 |
 | 6 | [Drama & Dinero](https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Drama & Dinero](https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ) | 3:28 |
-| 7 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 |
+| 7 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 |
 | 8 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:44 |
 | 9 | [Ceviche](https://open.spotify.com/track/248gpx3jT9byxh7sybf0LT) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Sike Damodar](https://open.spotify.com/artist/3w8j14IiejZYTYSHyMwemO) | [Ceviche](https://open.spotify.com/album/2hn2uMgBlqDecFuKJtsLpQ) | 2:46 |
 | 10 | [Parados En La Raya](https://open.spotify.com/track/38pDlpPCf0LXRwHRElYtnQ) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Parados En La Raya](https://open.spotify.com/album/19ovx88sTeDtQwp441pwBD) | 3:02 |

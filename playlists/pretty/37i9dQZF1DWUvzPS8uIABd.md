@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Gasellit ja Ellinoora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,345 likes - 62 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,362 likes - 62 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 7 | [Sä voitit jo](https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Sä voitit jo](https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88) | 2:58 |
 | 8 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 |
 | 9 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
-| 10 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 |
-| 11 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 |
+| 10 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 |
+| 11 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 |
 | 12 | [Saanko mä luvan](https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Saanko mä luvan](https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf) | 2:59 |
 | 13 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 |
 | 14 | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96) | 2:44 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 61 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 |
 | 62 | [Salaisuus](https://open.spotify.com/track/3ddeaVQxXscRq9PgI6ijtY) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Salaisuus](https://open.spotify.com/album/4AO5Fv8uovky248sPXyylO) | 2:44 |
 
-Snapshot ID: `Zs4cogAAAADsX6z058lEiZ8DlTK3nSpP`
+Snapshot ID: `Zs8gLwAAAADze/R6aURQr+Qzgyc9QqmG`

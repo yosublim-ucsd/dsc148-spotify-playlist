@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 ### [This Is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
 
-> This is Mercy Chinwo\. The essential tracks, all in one playlist.
+> This Is Mercy Chinwo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,283 likes - 43 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,287 likes - 43 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 42 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
 | 43 | [Trust](https://open.spotify.com/track/0My8DVXf12YQFJicl20tAW) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/7ADT3sHzKtro6GCqcCv0FN) | 2:53 |
 
-Snapshot ID: `ZsvFgAAAAAAtZyDBFY5dvAAqLHuCh0BJ`
+Snapshot ID: `ZsvFgAAAAADjKBMZh13GeqZ0oqlnRdYR`

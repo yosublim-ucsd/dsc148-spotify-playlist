@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 ### [This Is Banda Toro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v)
 
-> This is Banda Toro\. The essential tracks, all in one playlist.
+> This Is Banda Toro\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,834 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,838 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 49 | [Tampico Hermoso San Luis Potosi](https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:16 |
 | 50 | [El Cantador \- Estilo Tierra Caliente](https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:26 |
 
-Snapshot ID: `ZsvFgAAAAADY48CbnvFoe676xsngtz0v`
+Snapshot ID: `ZsvFgAAAAADpbhAOBiD62qIU032oRmRk`

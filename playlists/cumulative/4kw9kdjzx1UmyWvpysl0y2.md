@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-803 songs - 1 day 21 hr 59 min
+804 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Around Me](https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Around Me](https://open.spotify.com/album/6Rn2V0wlOJgl7h4CdLCBci) | 3:18 | 2024-08-20 |  |
 | [Around You](https://open.spotify.com/track/54EKXaigl9tDnVZINeLKtO) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA) | [Around You](https://open.spotify.com/album/4ywO9E6gyjRuFUBa2FenKj) | 3:09 | 2022-11-29 | 2023-02-24 |
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 | 2022-05-28 |
+| [Assassins](https://open.spotify.com/track/7fUtz2v6funYLn8G1W8TdD) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Asketa](https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03) | [Assassins](https://open.spotify.com/album/2AQN1Enb8Sj4GXPQe3LnpK) | 2:54 | 2024-08-28 |  |
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [AUTOMATIC](https://open.spotify.com/track/4xYMDPAohsKkfsO2lHltOQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [AUTOMATIC](https://open.spotify.com/album/3M7GhG2yRtLncbiLtDBm6D) | 2:50 | 2023-08-03 | 2023-12-14 |
@@ -446,7 +447,7 @@
 | [Mirrors](https://open.spotify.com/track/59j1aFqihFjuwZzii7lIYP) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [BELELA](https://open.spotify.com/artist/6nPKt2CGXcKHtmbMq8Sq62) | [Mirrors](https://open.spotify.com/album/5NoNQjHMRQ0bmO2BfOoxv1) | 3:21 | 2022-07-26 | 2022-10-07 |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 | 2022-09-17 |
 | [Moment \- Worlds Version](https://open.spotify.com/track/7wfquD5DrEBAqqZEXJoJa2) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Isaac App](https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy) | [Moment \(Worlds Version\)](https://open.spotify.com/album/7jLueD1XaPlGgP6NSogvXx) | 3:07 | 2022-08-01 | 2022-10-19 |
-| [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 | 2024-06-06 |  |
+| [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 | 2024-06-06 | 2024-08-29 |
 | [Money Moves](https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Clique / Money Moves](https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX) | 2:43 | 2023-11-01 | 2024-02-15 |
 | [Monster](https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Monster](https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0) | 3:04 | 2022-09-15 | 2022-11-12 |
 | [Moonstone](https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Moonstone](https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi) | 3:20 | 2023-03-14 | 2023-06-08 |

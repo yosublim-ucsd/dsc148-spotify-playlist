@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 69591,
+  "num_followers": 69597,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Du som snodde min cykel",
-        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
-      },
-      "artists": [
-        {
-          "name": "Kronofogden",
-          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
-        }
-      ],
-      "duration_ms": 223515,
-      "name": "Du som snodde min cykel",
-      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Irie",
         "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
       },
@@ -471,22 +455,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Allting ordnar sig",
-        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+        "name": "Du som snodde min cykel",
+        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
       },
       "artists": [
         {
-          "name": "Achee Flips",
-          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
-        },
-        {
-          "name": "Rob Bourne",
-          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+          "name": "Kronofogden",
+          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Allting ordnar sig",
-      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
+      "duration_ms": 223515,
+      "name": "Du som snodde min cykel",
+      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -507,6 +487,26 @@
       "duration_ms": 209133,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Allting ordnar sig",
+        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+      },
+      "artists": [
+        {
+          "name": "Achee Flips",
+          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
+        },
+        {
+          "name": "Rob Bourne",
+          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Allting ordnar sig",
+      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
     },
     {
       "added_at": "2024-06-24 11:19:01",

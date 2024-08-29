@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 150000,
       "name": "639 Hz Frequency for Truth",
       "url": "https://open.spotify.com/track/7nB2tKukAMBqF8FS0RWsvM"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 228128,
       "name": "Bird Whisperer (Just Relax)",
       "url": "https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 281142,
       "name": "Breathing Beliefs 528 Hz",
       "url": "https://open.spotify.com/track/62KNbFaTQiZLy6uuCv2eqn"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 138750,
       "name": "Center 528 Hz",
       "url": "https://open.spotify.com/track/75IwoDcRiVsD9nJnXD8zrP"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 170181,
       "name": "Ethereal in 528hz",
       "url": "https://open.spotify.com/track/2PiEsCiricooWn5a3CxuVU"
@@ -1412,6 +1412,24 @@
       "duration_ms": 125749,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T"
+    },
+    {
+      "album": {
+        "name": "Hortus",
+        "url": "https://open.spotify.com/album/3tmZNMYzhmydv7EmuByHoK"
+      },
+      "artists": [
+        {
+          "name": "neon cosmo",
+          "url": "https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157775,
+      "name": "Hortus",
+      "url": "https://open.spotify.com/track/4lWR4THBvha8RGEczIxe6r"
     },
     {
       "album": {
@@ -2011,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/3KUlx75eUHsy83qdPK0mDL"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154576,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/4v8SiWd4H0iRvRkZdDOHRf"
+    },
+    {
+      "album": {
         "name": "Mozart: Piano Sonatas Nos. 11 & 12/Fantasia in D minor",
         "url": "https://open.spotify.com/album/1TqayVLpoTPrHyOkY7Nc15"
       },
@@ -2186,7 +2222,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 210875,
       "name": "Reflector",
       "url": "https://open.spotify.com/track/3VActv26ShH9wZKsYivLut"
@@ -2244,7 +2280,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 181000,
       "name": "Right Path 852 Hz",
       "url": "https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK"
@@ -2334,7 +2370,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 156385,
       "name": "Serene",
       "url": "https://open.spotify.com/track/3nn7aokCLWgYyhipYJj1Vh"
@@ -2592,6 +2628,24 @@
       "duration_ms": 194542,
       "name": "Submerged in Silence",
       "url": "https://open.spotify.com/track/7COIgCvwUIdWjmhp8OQXQa"
+    },
+    {
+      "album": {
+        "name": "Sun Bells",
+        "url": "https://open.spotify.com/album/0euFYTO4xkTMu8vKzTDBgf"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "Sun Bells",
+      "url": "https://open.spotify.com/track/1f5BNfpT1tP7LpD9zri8wD"
     },
     {
       "album": {

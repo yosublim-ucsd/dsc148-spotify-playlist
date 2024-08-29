@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Rocky Aur Rani Kii Prem Kahaani
+> Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
 238 songs - 13 hr 57 min
 

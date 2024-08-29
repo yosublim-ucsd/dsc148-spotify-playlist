@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MENDEZ, Soarito",
-  "num_followers": 46796,
+  "num_followers": 46810,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
-      },
-      "artists": [
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "CorDaPele",
         "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 178815,
       "name": "CorDaPele",
       "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "duration_ms": 176425,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 212727,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -963,38 +963,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Salto Alto",
-        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
-      },
-      "artists": [
-        {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        }
-      ],
-      "duration_ms": 219968,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Oj\u00e9 Oj\u00e9",
-        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Oj\u00e9 Oj\u00e9",
-      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1015,6 +983,38 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Oj\u00e9 Oj\u00e9",
+        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Oj\u00e9 Oj\u00e9",
+      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Salto Alto",
+        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
     },
     {
       "added_at": "2024-08-22 23:00:00",

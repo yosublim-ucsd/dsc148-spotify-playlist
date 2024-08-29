@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 ### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This Is Latto\. Los temas esenciales, todos en una lista.
+> This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,866 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,896 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 50 | [Bitter \(feat\. Mulatto\)](https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 3:04 |
 | 51 | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT) | 2:55 |
 
-Snapshot ID: `ZsvFgAAAAACMYE9A+OEAgds7fNgCOAiM`
+Snapshot ID: `ZsvFgAAAAACXTXh3JS/sGqWbS8i7A9nf`

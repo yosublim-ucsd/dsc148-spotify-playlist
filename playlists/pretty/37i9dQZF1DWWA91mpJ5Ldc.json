@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 128056,
+  "num_followers": 128074,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -407,22 +411,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
       },
       "artists": [
         {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Fragma",
         "url": "https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 283181,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/3M1H3xYAf9D1sXiZ6aUQQZ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "ZAM ZAM",
         "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+      "duration_ms": 242130,
+      "name": "Caju",
+      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
         }
       ],
-      "duration_ms": 242130,
-      "name": "Caju",
-      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
     },
     {
       "added_at": "2024-08-23 03:00:00",

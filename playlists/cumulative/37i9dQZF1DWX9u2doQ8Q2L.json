@@ -10726,7 +10726,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
@@ -18675,6 +18675,28 @@
     },
     {
       "album": {
+        "name": "Stay With Me (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172085,
+      "name": "Stay With Me (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
+    },
+    {
+      "album": {
         "name": "GAMA",
         "url": "https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV"
       },
@@ -23592,7 +23614,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 183477,
       "name": "\u304b\u3051\u304a\u3061",
       "url": "https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV"
@@ -27050,6 +27072,24 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "album": {

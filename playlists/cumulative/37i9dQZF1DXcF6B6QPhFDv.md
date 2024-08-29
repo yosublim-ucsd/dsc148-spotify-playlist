@@ -4,7 +4,7 @@
 
 > rock never dies \| feel it in your bones\.  📸: Fontaines D.C.
 
-709 songs - 1 day 15 hr 8 min
+711 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Feeling Grey](https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [i'll remember you for the same feeling you gave me as i slept](https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm) | 4:32 | 2024-03-13 | 2024-04-06 |
 | [Find My Own Way](https://open.spotify.com/track/0gyAtsUMGDlf4FGKLSXnCW) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Nonfiction](https://open.spotify.com/album/5tnu3rGzSZuZhkqoKLofh4) | 2:19 | 2021-10-20\* | 2021-10-23 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-08-19 | 2022-01-15 |
+| [flower boy \- Spotify Singles](https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [flower boy \- Spotify Singles](https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq) | 2:54 | 2024-08-28 |  |
 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 | 2022-05-13 | 2022-09-24 |
 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-19 | 2023-08-21 |
 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 | 2023-08-18 | 2023-08-26 |
@@ -345,6 +346,7 @@
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-18 | 2023-07-01 |
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2024-03-13 | 2024-03-23 |
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-05-24 | 2024-08-24 |
+| [Love Raider \- Spotify Singles](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \- Spotify Singles](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 | 2024-08-28 |  |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-03-01 | 2024-03-12 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2024-01-12 | 2024-03-02 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-12-16 | 2023-02-18 |

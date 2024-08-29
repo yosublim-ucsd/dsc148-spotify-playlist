@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,701 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,703 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 11 | [CIEGO SORDO MUDO](https://open.spotify.com/track/2q7lduBHmZ3HeqkUKZEM7h) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [CIEGO SORDO MUDO](https://open.spotify.com/album/1HEIs7pw9riPY4i1qhvBos) | 3:16 |
 | 12 | [Amiga Ya Mató](https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq) | [Fran Maira](https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN) | [Amiga Ya Mató](https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh) | 2:24 |
 | 13 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 |
-| 14 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
+| 14 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 | 15 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 |
 | 16 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 17 | [El Puñetazo](https://open.spotify.com/track/0QvOKVBumpc6z1I3xCTV6F) | [Los Dinos de Chile](https://open.spotify.com/artist/0IBPiuTlbQq7uLUp7ywXh0) | [El Puñetazo](https://open.spotify.com/album/7LK3qSmEwXJLYragpEdqt7) | 2:43 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 31 | [NO SUFRIRE POR NADIE \(version urbana\)](https://open.spotify.com/track/7BPHiBdGnMWZNbPNisJ19B) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [NO SUFRIRE POR NADIE \(version urbana\)](https://open.spotify.com/album/3q1WgOxHKzLPYc3KcMURgC) | 4:06 |
 | 32 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 33 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 |
-| 34 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
+| 34 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
 | 35 | [A Tu Lado](https://open.spotify.com/track/0HIFkKeys4hC9bosmZShQ9) | [Entremares](https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU) | [El Amor en 48 Compases](https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ) | 2:14 |
 | 36 | [BEIA \(Jere Klein\)](https://open.spotify.com/track/6Dj22jpOiUm5DMjjEdeImQ) | [Prod Millones](https://open.spotify.com/artist/5cRpSxsBSMfrPgDuXDsys1), [Axl Boore](https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8) | [BEIA \(Jere Klein\)](https://open.spotify.com/album/2vOMwwbgBe7vCGfV18lmUv) | 2:11 |
 | 37 | [CHINGON](https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [CHINGON](https://open.spotify.com/album/1G7CJQFdIdrwyI06JeinOe) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [Baby Dime Si Estas Bien](https://open.spotify.com/track/77oVZJVwJ5o2N7aIEOwCMT) | [filtragvspii](https://open.spotify.com/artist/2OPS7FYxZ4emdikGqRUExU) | [Baby Dime Si Estas Bien](https://open.spotify.com/album/735vDbdMVd26DLNGQKDsgF) | 1:50 |
 | 50 | [GLIZZY GVNGSTER \(feat\. Slayter, SOMBRA PR & Ele d\)](https://open.spotify.com/track/4RRZW1jOVHmualiLCQKghJ) | [Glizzy Gvng](https://open.spotify.com/artist/5RpxZNS91QBBvRCPqvGTKs), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [SOMBRA PR](https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5), [Ele d](https://open.spotify.com/artist/7e8ljvie31q2e5w5tgDnvD) | [GLIZZY GVNGSTER \(feat\. Slayter, SOMBRA PR & Ele d\)](https://open.spotify.com/album/759RSASTqaAXlqIKWdkE99) | 4:44 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

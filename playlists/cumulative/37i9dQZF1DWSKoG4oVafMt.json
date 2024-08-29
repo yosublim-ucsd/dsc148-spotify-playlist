@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100 Cho 100",
+        "url": "https://open.spotify.com/album/4q4zWLEJkTNtRT3eLAgQml"
+      },
+      "artists": [
+        {
+          "name": "Akaal",
+          "url": "https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169147,
+      "name": "100 Cho 100",
+      "url": "https://open.spotify.com/track/7h9mEFGFq4J6gTiZTvaUPX"
+    },
+    {
+      "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
       },
@@ -754,7 +776,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 212692,
       "name": "Ambran De Taare",
       "url": "https://open.spotify.com/track/6qRdYQIMhVBG9FtVC1lItU"
@@ -7368,13 +7390,17 @@
         {
           "name": "Dhira Gill",
           "url": "https://open.spotify.com/artist/2FQhpGbpOq4z3dz4oHmB7G"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
         }
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203091,
-      "name": "Kachi Pakki Neend (Haye Bibbye Kithe Fas Gaye)",
+      "name": "Kachi Neend (\"Haye Bibbye Kithe Fas Gaye\")",
       "url": "https://open.spotify.com/track/3Vl2tpB9tofxxc59eFzVMN"
     },
     {
@@ -10882,6 +10908,32 @@
       "duration_ms": 216328,
       "name": "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3"
+    },
+    {
+      "album": {
+        "name": "Naina Da Kehna",
+        "url": "https://open.spotify.com/album/29JkvepEboC8N7OppDua7x"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        },
+        {
+          "name": "Tren D",
+          "url": "https://open.spotify.com/artist/6V8eYCPda6zJq0PHiXMK7H"
+        },
+        {
+          "name": "Singhjeet",
+          "url": "https://open.spotify.com/artist/1BrQ9Pn1fxEH9THhkP8D4j"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Naina Da Kehna",
+      "url": "https://open.spotify.com/track/2fjFvZdmYPIFqaDRHCFEoz"
     },
     {
       "album": {
@@ -14799,6 +14851,28 @@
     },
     {
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/260NmiRF3k1XNWqV4qCjIY"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170103,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5Ps4AK1YretB4UL1SBxJDw"
+    },
+    {
+      "album": {
         "name": "Snap",
         "url": "https://open.spotify.com/album/1Zc4roJLxndSHZhxABjsAx"
       },
@@ -16252,7 +16326,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 193000,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/5PQU5EG7rF1YXd6Pxebwlb"
@@ -16510,7 +16584,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 301714,
       "name": "Teri Hoi Na Hundi (From \"Zindagi Zindabaad\")",
       "url": "https://open.spotify.com/track/27SnwZ40otkoLWiTTQvZ74"
@@ -16934,6 +17008,24 @@
       "duration_ms": 132085,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO"
+    },
+    {
+      "album": {
+        "name": "First Album",
+        "url": "https://open.spotify.com/album/78HaqqhvApLn9ekzNudy3k"
+      },
+      "artists": [
+        {
+          "name": "G Romio",
+          "url": "https://open.spotify.com/artist/3rNBq6NdpGpcSAuNIgrY9Y"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200016,
+      "name": "Tu Chahida",
+      "url": "https://open.spotify.com/track/5cUr6puvXjDPgs4yTfSW3o"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 502867,
+  "num_followers": 502882,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-08-27 09:23:47",
       "album": {
-        "name": "Guay",
-        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 210788,
-      "name": "Guay",
-      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
-    },
-    {
-      "added_at": "2024-08-27 09:23:47",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 156126,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
+    },
+    {
+      "added_at": "2024-08-27 09:23:47",
+      "album": {
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 210788,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
     },
     {
       "added_at": "2024-08-27 09:23:47",

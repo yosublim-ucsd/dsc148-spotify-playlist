@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 ### [This Is LEGADO 7](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tuRIA)
 
-> This is LEGADO 7\. The essential tracks, all in one playlist.
+> This Is LEGADO 7\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,604 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,633 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [En la lumbre \- En Vivo](https://open.spotify.com/track/3JFsYMe5JHHtJaKD4BmwhK) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [De Día A Noche](https://open.spotify.com/album/4FJBGA0XCukKbetJGkv8QG) | 3:33 |
 | 50 | [Hasta Parece Que Fue Ayer](https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche](https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E) | 3:27 |
 
-Snapshot ID: `ZsvFgAAAAADYvLFHhJdt6gE2cbm3QBO+`
+Snapshot ID: `ZsvFgAAAAACygvZFdLorSkSBYz8sAuiL`

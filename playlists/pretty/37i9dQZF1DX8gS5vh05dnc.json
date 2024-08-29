@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129592,
+  "num_followers": 129598,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-08-26 02:13:09",
       "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2024-08-26 02:13:09",
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2024-08-26 02:13:09",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2024-08-26 02:13:09",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-26 02:13:09",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2024-08-26 02:13:09",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 196500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "added_at": "2024-08-26 02:13:09",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2024-08-26 02:13:09",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-08-26 02:13:09",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
+        "name": "can't slow down",
+        "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
+      "duration_ms": 175720,
+      "name": "can't slow down",
+      "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
     },
     {
       "added_at": "2024-08-26 02:13:09",
@@ -1011,22 +1011,6 @@
       "duration_ms": 182895,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"
-    },
-    {
-      "added_at": "2024-08-26 02:13:09",
-      "album": {
-        "name": "can't slow down",
-        "url": "https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "can't slow down",
-      "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
     },
     {
       "added_at": "2024-08-26 02:13:09",
@@ -1059,6 +1043,22 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
+    },
+    {
+      "added_at": "2024-08-26 02:13:09",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
     },
     {
       "added_at": "2024-08-26 02:13:09",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-08-26 02:13:09",
       "album": {
+        "name": "sunburn",
+        "url": "https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 173218,
+      "name": "sunburn",
+      "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
+    },
+    {
+      "added_at": "2024-08-26 02:13:09",
+      "album": {
         "name": "Adicto (feat. Marc Anthony)",
         "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 209191,
       "name": "Adicto (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
-    },
-    {
-      "added_at": "2024-08-26 02:13:09",
-      "album": {
-        "name": "sunburn",
-        "url": "https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 173218,
-      "name": "sunburn",
-      "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
     },
     {
       "added_at": "2024-08-26 02:13:09",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-08-26 02:13:09",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 200865,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu"
+    },
+    {
+      "added_at": "2024-08-26 02:13:09",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
-    },
-    {
-      "added_at": "2024-08-26 02:13:09",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 200865,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

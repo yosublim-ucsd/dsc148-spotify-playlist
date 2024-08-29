@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,324 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,336 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 42 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
 | 43 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 44 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
-| 45 | [Santorin](https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Santorin](https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm) | 3:44 |
+| 45 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
 | 46 | [die fabrik](https://open.spotify.com/track/228FnXbEKe9zjCVPAI4qbA) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [die fabrik](https://open.spotify.com/album/3llTvy1SStPBl56onQN1JH) | 2:39 |
 | 47 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
-| 48 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
-| 49 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
-| 50 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 48 | [Santorin](https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Santorin](https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm) | 3:44 |
+| 49 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 50 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
 
 Snapshot ID: `Zse04AAAAABXxrBBhixz6vKoF0qGIFjs`

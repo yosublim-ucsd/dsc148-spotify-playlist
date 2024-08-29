@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. The essential tracks, all in one playlist.
+> This is Ma Rainey\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,804 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,807 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 | 50 | [Misery Blues](https://open.spotify.com/track/6tcfRhVILM8brsQr2dj3qK) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:41 |
 | 51 | [Hellish Rag](https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [1923\-1928](https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC) | 3:07 |
 
-Snapshot ID: `ZsvFgAAAAACuzEgR+8ztyPWZbTRdtZo9`
+Snapshot ID: `ZsvFgAAAAABQtwixvaKNUYZkJVryEwF1`

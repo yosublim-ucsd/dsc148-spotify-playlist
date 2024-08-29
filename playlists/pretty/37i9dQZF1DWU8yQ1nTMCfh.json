@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Los Outsaiders",
-  "num_followers": 297833,
+  "num_followers": 297846,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 258765,
       "name": "San Saltar\u00edn",
       "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Escombros",
-        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Todo Se Detiene Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "La Bas(e)",
-        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "La Bas(e)",
-      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "FLASHBACKS",
         "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 173000,
       "name": "FLASHBACKS",
       "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "La Bas(e)",
+        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "La Bas(e)",
+      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "F\u00fatbol Rock",
+        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "F\u00fatbol Rock",
+      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -1063,42 +1083,6 @@
       "duration_ms": 163720,
       "name": "Qu\u00e9date Con \u00c9l",
       "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "F\u00fatbol Rock",
-        "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "F\u00fatbol Rock",
-      "url": "https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Tatuada Tu Huella",
-        "url": "https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0"
-      },
-      "artists": [
-        {
-          "name": "David Otero",
-          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Tatuada Tu Huella",
-      "url": "https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Serenata de una ruta larga",
-        "url": "https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV"
+        "name": "Tatuada Tu Huella",
+        "url": "https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
         }
       ],
-      "duration_ms": 287494,
-      "name": "Serenata de una ruta larga",
-      "url": "https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga"
+      "duration_ms": 246573,
+      "name": "Tatuada Tu Huella",
+      "url": "https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1179,22 +1163,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
+        "name": "Serenata de una ruta larga",
+        "url": "https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV"
       },
       "artists": [
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        },
-        {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 234115,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
+      "duration_ms": 287494,
+      "name": "Serenata de una ruta larga",
+      "url": "https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1211,6 +1191,26 @@
       "duration_ms": 250746,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "duration_ms": 234115,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr"
     },
     {
       "added_at": "2024-08-23 04:00:00",

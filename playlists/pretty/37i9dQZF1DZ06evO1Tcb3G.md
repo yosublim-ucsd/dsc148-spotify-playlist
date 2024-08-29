@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 ### [This Is Mumford & Sons](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G)
 
-> This Is Mumford & Sons\. Los temas esenciales, todos en una lista.
+> This is Mumford & Sons\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,249 likes - 39 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,295 likes - 39 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 38 | [Delta](https://open.spotify.com/track/3Rtlsb4YUeAz1733sFt8eJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 6:16 |
 | 39 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/13UaKj7X8zno0QHa0sQ4lR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/2BSWogsmKbWv9zmTAjjgpH) | 4:04 |
 
-Snapshot ID: `ZsvFgAAAAAD8kwcSrxf9rLJunAmN6LCP`
+Snapshot ID: `ZsvFgAAAAAB2A68oV4GgrUK6XgT9PRRR`

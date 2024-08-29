@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-184 songs - 13 hr 49 min
+185 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Driving West](https://open.spotify.com/track/7voJqXn9Ee7Iaw7Wr0qarI) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Driving West](https://open.spotify.com/album/1raCakTNJ9bGvnN42gRnjd) | 3:10 | 2024-02-07 |  |
 | [Dry Your Eyes](https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:19 | 2022-05-06 |  |
 | [Déjà Vu](https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Playin' Favorites](https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH) | 4:29 | 2022-05-06 |  |
+| [Echoes Of Hollywood](https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY) | [Duke Washington](https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq) | [Echoes Of Hollywood](https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ) | 3:04 | 2024-08-26 |  |
 | [Edelweiss](https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Edelweiss](https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb) | 3:27 | 2023-10-13 | 2024-03-20 |
 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 | 2022-05-06 |  |
 | [Emily](https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 3:39 | 2023-05-11 |  |
@@ -67,7 +68,7 @@
 | [Groovin' Up Hip Street](https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 6:02 | 2022-05-06 | 2023-03-28 |
 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 | 2022-05-06 |  |
 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 | 2022-05-06 | 2023-08-19 |
-| [High Pines](https://open.spotify.com/track/6GZpEePdoYCWUEkJbGjSvI) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [High Pines](https://open.spotify.com/album/6bmeCbUhX9z5ep5GitTDB2) | 3:07 | 2024-04-10 |  |
+| [High Pines](https://open.spotify.com/track/6GZpEePdoYCWUEkJbGjSvI) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [High Pines](https://open.spotify.com/album/6bmeCbUhX9z5ep5GitTDB2) | 3:07 | 2024-04-10 | 2024-08-29 |
 | [Hold On Tight](https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2022-05-06 |  |
 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 | 2023-03-02 |  |
 | [I Feel You](https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:18 | 2022-05-06 |  |

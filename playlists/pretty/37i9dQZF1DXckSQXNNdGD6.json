@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lua de Santana.",
-  "num_followers": 18569,
+  "num_followers": 18570,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
         "name": "GINGA",
         "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 157297,
       "name": "iLUS\u00c3O II",
       "url": "https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
+        "name": "Collar Fular",
+        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Collar Fular",
+      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
         "name": "AMOR MALDITO",
         "url": "https://open.spotify.com/album/0cFVXOmtqkTd51GPBLIcAl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 154146,
       "name": "AMOR MALDITO",
       "url": "https://open.spotify.com/track/0TS5CAQIJwww9g29AFHvXP"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "Collar Fular",
-        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Collar Fular",
-      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
-      },
-      "artists": [
-        {
-          "name": "AXHE",
-          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "Confieso",
         "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 265327,
       "name": "Por Espa\u00f1a - Banda Sonora Original de la Pel\u00edcula \u00a1Cort\u00e9n!",
       "url": "https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
+      },
+      "artists": [
+        {
+          "name": "AXHE",
+          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
     },
     {
       "added_at": "2024-08-06 22:00:00",

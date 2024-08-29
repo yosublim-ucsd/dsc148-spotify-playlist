@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,982 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,984 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 16 | [Carta a mi niña](https://open.spotify.com/track/3afIXQ8CCFCmumEtA2blTc) | [Sharon Roter](https://open.spotify.com/artist/4jrtI4E6IhiCOmeU8MgahH), [Or Edry](https://open.spotify.com/artist/0fx5Wp9roWDYVZY6lzbhQE) | [Carta a mi niña](https://open.spotify.com/album/6rJFHJUue5xi3ETjfkRHJN) | 3:48 |
 | 17 | [ילד שלי](https://open.spotify.com/track/6A7mx6pFzIHwk16tdt7GW3) | [Flora](https://open.spotify.com/artist/3XGi4MkpA7kn9k8RRfp18Z) | [ילד שלי](https://open.spotify.com/album/57a0UiP3qiwsdi44wvOny6) | 3:05 |
 | 18 | [הלכתי לים](https://open.spotify.com/track/7dycwok9iyO3KCIU6ZU2yQ) | [Sharon Kidushin](https://open.spotify.com/artist/66ptxqs7L4IF1HPF3ZchAN) | [הלכתי לים](https://open.spotify.com/album/2v0x55cDiHVYIiaFXo8Wqk) | 2:32 |
-| 19 | [פוליטיקה](https://open.spotify.com/track/4f8ym2kd2ptaLBVF2f8sAC) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פוליטיקה](https://open.spotify.com/album/5UrBzW0JrGGkOYekJbzlGI) | 3:17 |
+| 19 | [פוליטיקה](https://open.spotify.com/track/4f8ym2kd2ptaLBVF2f8sAC) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פוליטיקה](https://open.spotify.com/album/5UrBzW0JrGGkOYekJbzlGI) | 3:17 |
 | 20 | [רציתי לדבר איתך \- Live](https://open.spotify.com/track/5mrfrXajXDyBJNFePuT4dN) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim), [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [רציתי לדבר איתך \(Live\)](https://open.spotify.com/album/3Y2trBKc8FHMYqL0POiFW6) | 4:04 |
 | 21 | [ואפילו בהסתרה](https://open.spotify.com/track/0KIckiVPDf0TGPg5C9eKpI) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [ניגונים](https://open.spotify.com/album/0192jknPtN7YaABZksAXWW) | 3:47 |
 | 22 | [נגן לי](https://open.spotify.com/track/4jcXHebaIUv9iVHdOOkmWE) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [נגן לי](https://open.spotify.com/album/57uOu6dU4YynDj1nljN3Aj) | 3:15 |
 | 23 | [זה לא הזמן ללכת](https://open.spotify.com/track/4xIf4E4qTvdZKdb5lADaKR) | [Meshi Kleinstein](https://open.spotify.com/artist/5UXzKAfgV4czwkDaJE5NmP) | [זה לא הזמן ללכת](https://open.spotify.com/album/2MfhL6NSC2sTf6i7AdpLYL) | 3:00 |
 | 24 | [אין לי מקום](https://open.spotify.com/track/6LcGGRZ1JbkS38YNVRQgB9) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [אין לי מקום](https://open.spotify.com/album/35Ge43etXq0xPPWp29ZFyK) | 3:20 |
 | 25 | [When the Winter’s Coming In](https://open.spotify.com/track/5qM5FyaUbUeQlR6mPX1kTO) | [Sivan Levy](https://open.spotify.com/artist/09LjkxY0qGa4Ht2mvQ7Xjx) | [When The Winter's Coming In](https://open.spotify.com/album/1eemmS2ojkPXD5paT3DTF2) | 4:48 |
-| 26 | [הדם שלי](https://open.spotify.com/track/3yqs30JY1zriDdlN2di2gI) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc), [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [הדם שלי](https://open.spotify.com/album/4Gvf5Xy2SSnnCbuLpnNh2e) | 2:21 |
+| 26 | [הדם שלי](https://open.spotify.com/track/3yqs30JY1zriDdlN2di2gI) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [הדם שלי](https://open.spotify.com/album/4Gvf5Xy2SSnnCbuLpnNh2e) | 2:21 |
 | 27 | [יום כיפור](https://open.spotify.com/track/6uc5gCVI30JNif2o4Ahmud) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יום כיפור](https://open.spotify.com/album/3opuEp25U7UOwB5yKxtzRt) | 3:13 |
 | 28 | [שמור עליי](https://open.spotify.com/track/2CLjbcmvsq0EvBhkIM8Gtb) | [Shiri Maimon](https://open.spotify.com/artist/3giniJpo19Md4V5Plataq2) | [שמור עליי](https://open.spotify.com/album/0UfIFew01kUAi3DUZlYQey) | 3:08 |
 | 29 | [לקחת את ידי בידך \- LIVE](https://open.spotify.com/track/1Xrs0tY2VvMXRlqh5qv9e3) | [Zehu Ze](https://open.spotify.com/artist/7iVNjn71Rqn4vZRJiRog4o), [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [Gidi Gov](https://open.spotify.com/artist/0RNFCu4ChoQ1FDBKcGhnoi), [Avi Kushnir](https://open.spotify.com/artist/6WKsCXctANEt7RoxS0z7cD), [Moni Moshonov](https://open.spotify.com/artist/5dethsYBuQPdIgi2no6SUm), [Shlomo Bar\-Aba](https://open.spotify.com/artist/450kmStDcDUGntRJpsZy1g), [Doval'e Glickman](https://open.spotify.com/artist/0zuf5jfnvcn0JkeMbZHqKC) | [לקחת את ידי בידך \(LIVE\)](https://open.spotify.com/album/1B56EhWCCmcUpqsxDFIAKz) | 3:38 |

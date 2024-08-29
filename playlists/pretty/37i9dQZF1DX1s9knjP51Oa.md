@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,868 likes - 167 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,010 likes - 167 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 19 | [Cascade](https://open.spotify.com/track/2c4PSLMgucCOOd8sveoLUL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Cascade](https://open.spotify.com/album/52Ozb1gsB6O7EUaYnLtU1U) | 3:07 |
 | 20 | [Humanity](https://open.spotify.com/track/53XdJTeVZtu0nePZdbjNGp) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Humanity](https://open.spotify.com/album/2VN90aP103rpfa4k5604hH) | 2:15 |
 | 21 | [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 |
-| 22 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
+| 22 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 23 | [Remember](https://open.spotify.com/track/3yuxTdPf7Lt55cxz8CCCsr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Remember](https://open.spotify.com/album/5LhHzYbtjw9rATAomkOmS4) | 2:39 |
 | 24 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
 | 25 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |

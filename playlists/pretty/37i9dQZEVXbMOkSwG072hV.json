@@ -1,12 +1,12 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 351841,
+  "num_followers": 351848,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-08-27 14:07:44",
@@ -860,6 +860,10 @@
           "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
         },
         {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        },
+        {
           "name": "MC Bruno MS",
           "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
         },
@@ -870,10 +874,6 @@
         {
           "name": "Boladin 211",
           "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
-        },
-        {
-          "name": "Mc Tato",
-          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
         }
       ],
       "duration_ms": 389538,

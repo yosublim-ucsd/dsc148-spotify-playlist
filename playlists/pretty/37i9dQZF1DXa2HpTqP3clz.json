@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dan Tyminski",
-  "num_followers": 163267,
+  "num_followers": 163290,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 157696,
-      "name": "Go in Peace",
-      "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 157696,
+      "name": "Go in Peace",
+      "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -255,18 +255,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+        "name": "Brown's Ferry Blues",
+        "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+      "duration_ms": 226955,
+      "name": "Brown's Ferry Blues",
+      "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -287,22 +291,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Brown's Ferry Blues",
-        "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 226955,
-      "name": "Brown's Ferry Blues",
-      "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -359,22 +359,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 196677,
-      "name": "Castilleja",
-      "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 196677,
+      "name": "Castilleja",
+      "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Back Porch Bluegrass",
         "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 170440,
       "name": "Polly Vaughn",
       "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Eliza",
+      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 219493,
       "name": "Kentucky Highway",
       "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Love Train",
-        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
-      },
-      "artists": [
-        {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Rebecca Lynn Howard",
-          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
-        }
-      ],
-      "duration_ms": 209391,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Rebecca Lynn Howard",
+          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+        }
+      ],
+      "duration_ms": 209391,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Kentucky for Me",
         "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Kentucky Bluegrassed",
         "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 180570,
       "name": "Kentucky Blue",
       "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Blackgrass: From West Virginia to 125th St",
-        "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        },
-        {
-          "name": "Vernon Reid",
-          "url": "https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD"
-        }
-      ],
-      "duration_ms": 205660,
-      "name": "Rise Up (feat. Vernon Reid)",
-      "url": "https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1639,22 +1619,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Mary Ann is a Pistol",
-        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Mary Ann is a Pistol",
-      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1671,6 +1635,42 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Mary Ann is a Pistol",
+        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Mary Ann is a Pistol",
+      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Blackgrass: From West Virginia to 125th St",
+        "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        },
+        {
+          "name": "Vernon Reid",
+          "url": "https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD"
+        }
+      ],
+      "duration_ms": 205660,
+      "name": "Rise Up (feat. Vernon Reid)",
+      "url": "https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Snake Charmer",
         "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 179000,
       "name": "Snake Charmer",
       "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Just Let Me Know",
-        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Just Let Me Know",
-      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1735,18 +1719,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+        "name": "Just Let Me Know",
+        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+      "duration_ms": 168000,
+      "name": "Just Let Me Know",
+      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1763,6 +1747,22 @@
       "duration_ms": 166400,
       "name": "My Little Girl in Tennessee - Live",
       "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
         }
       ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
+      "duration_ms": 169976,
+      "name": "Let All the Girls Know You're a Cowboy",
+      "url": "https://open.spotify.com/track/3HdHado8GvBIqOBMiGnvvL"
     }
   ],
   "unique_name": "Grass Roots",

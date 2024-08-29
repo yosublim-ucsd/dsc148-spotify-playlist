@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 ### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> This Is Los Primos del Este\. Los temas esenciales, todos en una lista.
+> This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,800 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 50 | [De Fiesta](https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:26 |
 | 51 | [Toxicuh](https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Briant Rangel](https://open.spotify.com/artist/3632WStjylo2le6C4k0gcx) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:21 |
 
-Snapshot ID: `ZsvFgAAAAACnY6SnrkKGn1Zg3DZsJem9`
+Snapshot ID: `ZsvFgAAAAACRuk/bRcj2ix5s2JzRaB23`

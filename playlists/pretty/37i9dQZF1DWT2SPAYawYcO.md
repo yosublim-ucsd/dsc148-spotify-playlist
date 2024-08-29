@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,410 likes - 92 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,473 likes - 92 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

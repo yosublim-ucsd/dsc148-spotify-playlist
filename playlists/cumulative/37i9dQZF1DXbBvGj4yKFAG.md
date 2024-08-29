@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-242 songs - 12 hr 49 min
+243 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [synecdoche](https://open.spotify.com/track/5DIPZrYpIMmGPpKSZZvLDU) | [tommy oeffling](https://open.spotify.com/artist/5FVxzy9gAv9zyNdlNObDA6) | [synecdoche](https://open.spotify.com/album/4tifV0CIZRnuxOC9gFQut6) | 2:40 | 2024-04-16 |  |
 | [Tacomex](https://open.spotify.com/track/0ZoUiVuJTnlEFT4bwgRpmA) | [Witches Exist](https://open.spotify.com/artist/04Lu0fhVMDqNwBeXZIasgR) | [Tacomex](https://open.spotify.com/album/2SGLLCKcbMk04z7HdC0ulN) | 4:15 | 2024-04-16 |  |
 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \- EP](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 | 2023-05-16 |  |
+| [Tears In The Typing Pool \[Demo\]](https://open.spotify.com/track/4I14GF67E3kfWbb7nb9r3b) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Come Back To Me \[Demo\]](https://open.spotify.com/album/5AwJhUSuoCdvE2Fp5BHRER) | 2:07 | 2024-08-29 |  |
 | [tell me a joke](https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 5:04 | 2023-02-09 | 2023-02-22 |
 | [Texaco](https://open.spotify.com/track/3Hyztgc87Pex2iK4wR4tBl) | [Homes at Night](https://open.spotify.com/artist/4KxAWQwGcTuJrLwamRGDaS) | [Texaco](https://open.spotify.com/album/0rURdutUzNeZ5yomJFBImt) | 3:40 | 2023-05-16 | 2023-07-15 |
 | [The Gaping Mouth](https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 4:38 | 2023-04-11 |  |

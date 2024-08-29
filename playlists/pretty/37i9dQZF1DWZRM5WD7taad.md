@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Yoss Bones en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,232 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,255 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nagasaki](https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Nagasaki](https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus) | 4:05 |
 | 2 | [ADRENALINA](https://open.spotify.com/track/1Y7PMEmhBNhwRYdwupj61v) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ADRENALINA](https://open.spotify.com/album/738JDm3WZaOJJUqtCsdDRv) | 3:13 |
 | 3 | [No Era para Mí](https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [No Era para Mí](https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc) | 1:57 |
-| 4 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 |
+| 4 | [¿Algo Que Decir?](https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [Arion](https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c) | [¿Algo Que Decir?](https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a) | 2:23 |
 | 5 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 |
 | 6 | [I'M SO SEXY](https://open.spotify.com/track/7kh7H2L79O90XyBD5w9Nip) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [I'M SO SEXY](https://open.spotify.com/album/5TWsuuD1VLhnddk7gqPO3C) | 2:04 |
 | 7 | [Cañonazo](https://open.spotify.com/track/6N00qL6Ovf0SXvGQ0r8MxZ) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Track 1](https://open.spotify.com/album/6kQCfXiPcvde29I9rMkw8S) | 3:16 |

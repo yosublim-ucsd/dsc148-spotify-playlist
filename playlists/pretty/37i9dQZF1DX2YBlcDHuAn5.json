@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 8017,
+  "num_followers": 8018,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Alpine Gold",
+        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
+      },
+      "artists": [
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "It's So Easy",
+      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "I'll Wait Till You're Really Gone",
         "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 229386,
       "name": "I'll Wait Till You're Really Gone",
       "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Alpine Gold",
-        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "It's So Easy",
-      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Desert Bride",
-        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 255953,
-      "name": "Desert Bride",
-      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Desert Bride",
+        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
+      },
+      "artists": [
+        {
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+        }
+      ],
+      "duration_ms": 255953,
+      "name": "Desert Bride",
+      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 180466,
       "name": "Gold Dust Woman",
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     }
   ],
   "unique_name": "Country & Americana",

@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 555536,
+  "num_followers": 555517,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Happy?",
-      "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "on the verge",
         "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 134400,
       "name": "on the verge",
       "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Happy?",
+      "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Titans of Creation",
         "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 392066,
       "name": "Night of the Witch",
       "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
     },
     {
       "added_at": "2024-07-15 13:16:22",

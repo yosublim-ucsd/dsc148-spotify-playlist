@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This Is BIA\. Los temas esenciales, todos en una lista.
+> This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,650 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,658 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 | 50 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 
-Snapshot ID: `ZsvFgAAAAADO99Fp3trhG5kDrjovnnl3`
+Snapshot ID: `ZsvFgAAAAACiKET8KPSDLnjrb7TUYM/d`

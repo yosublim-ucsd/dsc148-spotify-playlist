@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-195 songs - 9 hr 32 min
+196 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 |  |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 |  |
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 |  |
+| [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-23 |  |
 | [Equilibrium](https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m) | [Alina Hill](https://open.spotify.com/artist/2Ok5dXrKJa8fs1vSoOMHlQ) | [Equilibrium](https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3) | 3:06 | 2023-04-28 |  |
 | [Equipoise](https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Equipoise](https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP) | 3:00 | 2023-04-28 |  |
 | [Era](https://open.spotify.com/track/3ZY6rH74cqvDepyhdCOi0h) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Molecular](https://open.spotify.com/album/2jx7dxHeOE350FXStCWTtd) | 2:56 | 2023-04-28 | 2023-11-11 |
@@ -78,7 +79,7 @@
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2023-04-28 |  |
 | [Forest Walk](https://open.spotify.com/track/2u31nOfjr1R9mu7ZewBWQp) | [Warm Decay](https://open.spotify.com/artist/7hJU4gu9Gp482Lm4PcX1lh) | [Forest Walk](https://open.spotify.com/album/5pvKhCFze4euwB2aj1bVSY) | 2:43 | 2024-06-03 |  |
 | [Forever Still](https://open.spotify.com/track/1uUMHYJpNiev5x1vZPdXsc) | [Zen Om](https://open.spotify.com/artist/1rM7kgU05ig5vYpYTpSPZs), [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Forever Still](https://open.spotify.com/album/3M7iDJTVb6CDB0c65rzVzD) | 1:42 | 2023-05-05 | 2023-07-29 |
-| [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 |  |
+| [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 | 2024-08-29 |
 | [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 | 2024-04-01 |  |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 |  |
 | [Gentle Streams](https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Gentle Streams](https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV) | 3:19 | 2023-11-24 |  |

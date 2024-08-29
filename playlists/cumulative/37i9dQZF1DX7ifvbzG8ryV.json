@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month curated by: <a href=\"https://open.spotify.com/playlist/37i9dQZF1EFFaNIqhJxmrd?si=91ad250cc0614a66\">Fanny Hultman</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:6oSTtYd3B3OJubFU8mVhHQ\">JHart</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 181911,
       "name": "Alone",
       "url": "https://open.spotify.com/track/678hBD7LlMNofbRYXGwt7E"
+    },
+    {
+      "album": {
+        "name": "BackToYou",
+        "url": "https://open.spotify.com/album/6NAuIPEzXzHlqgQ9vEUXUv"
+      },
+      "artists": [
+        {
+          "name": "Ghostryder",
+          "url": "https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139954,
+      "name": "BackToYou",
+      "url": "https://open.spotify.com/track/6iU8OHfNUYh5cMXW9yTluE"
     },
     {
       "album": {
@@ -208,7 +226,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 158154,
       "name": "BUMMED",
       "url": "https://open.spotify.com/track/3ZF6JyZX5VGH25XWsNWrEJ"
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 234863,
       "name": "Father's Son",
       "url": "https://open.spotify.com/track/4U1vvzrtgWiBZZGsylNaLn"
@@ -655,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Nice Guy",
+        "url": "https://open.spotify.com/album/56hjcZ7cuvs3VpQ25Udqlp"
+      },
+      "artists": [
+        {
+          "name": "Benedict Cork",
+          "url": "https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/45Cm2OHPj7L3xaBW94buSS"
+    },
+    {
+      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -728,6 +764,42 @@
       "duration_ms": 190354,
       "name": "Only Sorry",
       "url": "https://open.spotify.com/track/1Kriq5ncfgGwoZ4evrIPC5"
+    },
+    {
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
     },
     {
       "album": {
@@ -883,6 +955,24 @@
     },
     {
       "album": {
+        "name": "TRYNA NOT MISS ME",
+        "url": "https://open.spotify.com/album/3N7HSIsXdyBT0rHGXEGEzg"
+      },
+      "artists": [
+        {
+          "name": "kennedi",
+          "url": "https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161833,
+      "name": "TRYNA NOT MISS ME",
+      "url": "https://open.spotify.com/track/0AUKa9mzJ9hH6YotIO84td"
+    },
+    {
+      "album": {
         "name": "Unfinished",
         "url": "https://open.spotify.com/album/54f036fGtMuSs8TrxqGlI2"
       },
@@ -902,6 +992,24 @@
       "duration_ms": 130407,
       "name": "Unfinished",
       "url": "https://open.spotify.com/track/2z1qAkmyeZgKSWqruUuufl"
+    },
+    {
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1wiNGVqtNMiziYeh8hGpb1"
+      },
+      "artists": [
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227803,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2H5ZgMAQWLsq09AEkZyT3g"
     },
     {
       "album": {
@@ -938,7 +1046,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 175053,
       "name": "What It Was",
       "url": "https://open.spotify.com/track/1sm5qtPRLNoUAlETajxcPG"

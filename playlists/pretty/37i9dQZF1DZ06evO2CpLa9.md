@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 ### [This Is Santa Fe Klan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CpLa9)
 
-> This Is Santa Fe Klan\. Los temas esenciales, todos en una lista.
+> This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,286 likes - 53 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,373 likes - 53 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 52 | [Diente Por Diente](https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Diente Por Diente](https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu) | 2:18 |
 | 53 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
 
-Snapshot ID: `ZsvFgAAAAAB2CZ7ZCf9BZK6YZ+pOAJI4`
+Snapshot ID: `ZsvFgAAAAADak9ApE91Tj1/BRtM2lTj9`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 
 ### [This Is Adriana Ríos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zrpe1)
 
-> This is Adriana Ríos\. The essential tracks, all in one playlist.
+> This Is Adriana Ríos\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 288 likes - 45 songs - 2 hr 24 min
 
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 44 | [Sigo Siendo Yo \- En Vivo](https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:22 |
 | 45 | [Empiezo a Recordarte \- En Vivo](https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:51 |
 
-Snapshot ID: `ZsvFgAAAAAAh8Q3IaV/7J7E35Q+TP/TN`
+Snapshot ID: `ZsvFgAAAAACtJ7tPuKwLOb/pcXvp5LJt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,664 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,686 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 59 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
 | 60 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
 | 61 | [Vazou um Áudio \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vazou um Áudio \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP) | 2:31 |
-| 62 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
-| 63 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 62 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 63 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 64 | [Bom Dia](https://open.spotify.com/track/4A0vKKkbHRVJc7vIVnEoop) | [Nêgo Jhá](https://open.spotify.com/artist/2KbGxTODNjsDa9DZgpC6rZ) | [Bom Dia](https://open.spotify.com/album/5Fxrlgctaae03u1eLNoW7W) | 1:56 |
 | 65 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
 | 66 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/0bMhnnw1SbmpGUWs8gzuIv) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Levada Do Gigante \(Ao Vivo / Pt\. 2\)](https://open.spotify.com/album/4oO0DPB6UyM2ldoKKLMLGc) | 3:45 |
 | 67 | [Monta Logo Vai](https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Monta Logo Vai](https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT) | 2:21 |
-| 68 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 |
-| 69 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
+| 68 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
+| 69 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 |
 | 70 | [Desce Deslizando](https://open.spotify.com/track/3pAmu2snfRsk8tyGx5WtEb) | [Lucas Boquinha](https://open.spotify.com/artist/2sFYm8AmgLWa4WNxfppJtP), [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH) | [Desce Deslizando](https://open.spotify.com/album/1ZxKx6QpyMR9pAbcDHyyWl) | 2:08 |
 | 71 | [É Só Oi e Tchau](https://open.spotify.com/track/6V6Vgs8NDlYappnYAq0Syy) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [É Só Oi e Tchau](https://open.spotify.com/album/1cRntUVNelLM02NrKFjYhV) | 3:27 |
 | 72 | [Matuto de Verdade](https://open.spotify.com/track/4gryO2XRHDvVgDfAoxZCi4) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Matuto de Verdade](https://open.spotify.com/album/5u5l9acR8uBt6xtVFSdoF9) | 2:26 |

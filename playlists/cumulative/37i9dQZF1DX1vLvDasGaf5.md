@@ -4,7 +4,7 @@
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-51 songs - 3 hr 3 min
+53 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,12 @@
 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 | 2024-08-19 |  |
 | [おれはグレートマジンガー \(グレートマジンガー\)](https://open.spotify.com/track/0rn96uPpyrQJFQ6mcas3Eo) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 2:35 | 2024-08-19 | 2024-08-28 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/2CN6Ku8RAJc14d4BbkD5rk) | [らんま1/2](https://open.spotify.com/artist/50h5fygfWtNlFN4FrddJCd) | [らんま1/2 おか持ち特選～猫飯店メニュー・ソング～](https://open.spotify.com/album/0dRu0BUHGRswjKwqoQtRlk) | 1:40 | 2024-08-19 |  |
-| [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 | 2024-08-19 |  |
+| [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 | 2024-08-19 | 2024-08-29 |
 | [ど根性ガエル](https://open.spotify.com/track/0OMsLUf2ee3xxIXFdw9XBI) | [石川 進](https://open.spotify.com/artist/6M3y1FG6FWQqey40DPToW3) | [ど根性ガエル ミュージックファイル](https://open.spotify.com/album/64t1tTMjOCDGeTuaZSOnQE) | 1:33 | 2024-08-19 |  |
+| [ひょっこりひょうたん島](https://open.spotify.com/track/0OtLgyGzmLV82nXpgJel4M) | [ひばり児童合唱団](https://open.spotify.com/artist/2uTsoHGIkGX1Yz0VKOSD4l), [前川陽子](https://open.spotify.com/artist/6jthsP9pciBAA9JhNuUUzC) | [昭和の童謡のあゆみ～キングレコード90周年を彩る100曲](https://open.spotify.com/album/0SxDabDf6VyAO5wJE9vbth) | 1:05 | 2024-08-28 |  |
 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 | 2024-08-19 |  |
 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 | 2024-08-19 |  |
+| [よあけのみち](https://open.spotify.com/track/3IMYsxn9vgDuIiNr8WK9qI) | [大杉久美子](https://open.spotify.com/artist/4m9E6QuKZkgXk6TTeuB4gd), [アントワープ・チルドレン・コーラス](https://open.spotify.com/artist/1Db401Bi0xKjjydMKthzql) | [フランダースの犬](https://open.spotify.com/album/57ChkkwWRUFZeqitSpJgc6) | 2:59 | 2024-08-28 |  |
 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 | 2024-08-19 |  |
 | [ガッチャマンの歌](https://open.spotify.com/track/4LZ8V5AzbbnLAzyD48onT6) | [子門真人](https://open.spotify.com/artist/1bTABPMS2C7EppBgOFaiUw) | [ガッチャマン 50th Anniversary G\-SONG Best Collection](https://open.spotify.com/album/3tR4wjelQ47IyMu9YO2rZt) | 2:39 | 2024-08-19 |  |
 | [キン肉マン Go Fight! \(キン肉マン\) \- LIVE](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 | 2024-08-19 |  |
@@ -53,7 +55,7 @@
 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 | 2024-08-19 |  |
 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2024-08-19 |  |
 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 | 2024-08-19 |  |
-| [疾風ザブングル](https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [戦闘メカ ザブングル オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N) | 3:44 | 2024-08-19 |  |
+| [疾風ザブングル](https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [戦闘メカ ザブングル オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N) | 3:44 | 2024-08-19 | 2024-08-29 |
 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 | 2024-08-19 |  |
 | [銀河鉄道999](https://open.spotify.com/track/2eTFeq3uicvq8wzG00JMQx) | [Godiego](https://open.spotify.com/artist/7agr01GMFpbX5ie9UsTGxe) | [銀河鉄道999](https://open.spotify.com/album/2nkL2KXEMdQOaxJOOmJdAm) | 3:29 | 2024-08-19 |  |
 | [鏡の中のアクトレス](https://open.spotify.com/track/5Aqe880HNpsQAkjWqWGqdu) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:35 | 2024-08-19 |  |

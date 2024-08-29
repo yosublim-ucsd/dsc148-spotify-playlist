@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,650 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,654 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 | 49 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
 | 50 | ["Hola" Amor Mio](https://open.spotify.com/track/3z1dJa9YPPn4HedlXCxvzE) | [Manolo Otero](https://open.spotify.com/artist/1RV8jUtBYlqrVqX4uqPhoJ) | [Lo Mejor](https://open.spotify.com/album/5cI848Gy9tM2M61L1jblfa) | 3:23 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

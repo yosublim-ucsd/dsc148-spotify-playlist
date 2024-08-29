@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 ### [J\-Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXdbRLJPSmnyq)
 
-> All the J\-Pop tunes you love in one playlist\. Cover: Fujii Kaze
+> All the J\-Pop tunes you love in one playlist\. Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,327 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,373 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 69 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 |
 | 70 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 |
 
-Snapshot ID: `Zs2fYQAAAADVqsSPL0uuBt2NnllYrZVb`
+Snapshot ID: `Zs9TuAAAAADQJ3Gs7im28Gx5HzB6bL/U`

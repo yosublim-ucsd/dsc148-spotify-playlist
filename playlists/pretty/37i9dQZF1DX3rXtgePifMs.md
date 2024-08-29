@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,984 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,106 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 60 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
 | 61 | [Always Get Through To You](https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Always Get Through To You](https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg) | 3:23 |
 | 62 | [A STRANGER](https://open.spotify.com/track/6t26Su0fcxR2tbHzNfzE8I) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [A STRANGER](https://open.spotify.com/album/0o3v4DaaAydiFZLv9nsUeC) | 2:47 |
-| 63 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
-| 64 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
+| 63 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
+| 64 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 |
 | 65 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 66 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
 | 67 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 74 | [Powder](https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd) | [Pontypool](https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ) | [Powder](https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R) | 3:26 |
 | 75 | [i've got a bf \(best friend\)](https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [i've got a bf \(best friend\)](https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec) | 2:28 |
 | 76 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 |
-| 77 | [Better Than I?](https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG) | [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Better Than I?](https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5) | 2:25 |
-| 78 | [Paradox](https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:43 |
+| 77 | [Paradox](https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [DICHOTOMY](https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg) | 3:43 |
+| 78 | [Better Than I?](https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG) | [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Better Than I?](https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5) | 2:25 |
 | 79 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
 | 80 | [Waiting To Go](https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Waiting To Go](https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP) | 2:30 |
 | 81 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 |

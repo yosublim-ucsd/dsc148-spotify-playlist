@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq\_kGzYYw">Onyeka Onwenu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,222 likes - 40 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,241 likes - 40 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 32 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
 | 33 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 34 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
-| 35 | [Ojah Awake](https://open.spotify.com/track/5XRkdF0BOrqlN3jV0pYNhy) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 4:54 |
-| 36 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 35 | [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 |
+| 36 | [Ojah Awake](https://open.spotify.com/track/5XRkdF0BOrqlN3jV0pYNhy) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4LK4xmWEuNYYEn5oPrQUpD) | 4:54 |
 | 37 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
-| 38 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 39 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
-| 40 | [Pennywhistle](https://open.spotify.com/track/31TjeXsbZmwBbJqhwn6YG7) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 3:19 |
+| 38 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 39 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 40 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
 
 Snapshot ID: `Zqti6AAAAAAkf1reAbLr+TU6X2l7Rd2H`

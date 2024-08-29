@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,449 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,451 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 71 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 |
 | 72 | [Nee Horata Dariyali](https://open.spotify.com/track/2Iny0VWuD83vBXq1N2SwpL) | [Roystan Dias](https://open.spotify.com/artist/1QriZyzUpLMpTdKpte6o5p) | [Nee Horata Dariyali](https://open.spotify.com/album/3iH8D522P3IGa6TQuSnQ8C) | 4:44 |
 | 73 | [Iralu nee jothege](https://open.spotify.com/track/47Wb3Xc7BSE7oGVYFLyaku) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Prerna](https://open.spotify.com/artist/4fS73ERwSZsqhEa3S9dtMW), [Yashas L](https://open.spotify.com/artist/0TVIU73sXS2pGmFiJteghJ) | [Iralu nee jothege](https://open.spotify.com/album/64MPncYSfjac0lphmSIvg7) | 4:02 |
-| 74 | [Manasu Jaaride](https://open.spotify.com/track/6bUKQYlsou3gViUUj6Xp2O) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Manasu Jaaride](https://open.spotify.com/album/6opIhmM4pIEcVqrM3ilhUO) | 2:39 |
-| 75 | [Ani Ani Anisutide](https://open.spotify.com/track/4zsKK2o1risZLPP5GNmlTB) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Ani Ani Anisutide](https://open.spotify.com/album/1fjADk8xGb7geepJdEAADc) | 4:13 |
+| 74 | [Ani Ani Anisutide](https://open.spotify.com/track/4zsKK2o1risZLPP5GNmlTB) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Ani Ani Anisutide](https://open.spotify.com/album/1fjADk8xGb7geepJdEAADc) | 4:13 |
 
-Snapshot ID: `Zs2ACgAAAAAYxtJROTWMZHBZcv59/WlS`
+Snapshot ID: `Zs9uGAAAAAAdHL16w1XnlsEVGerNjpoZ`

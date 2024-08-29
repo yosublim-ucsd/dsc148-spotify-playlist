@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6690,
+  "num_followers": 6695,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "All My Life (Where Have You Been)",
-        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "All My Life (Where Have You Been)",
-      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "I Should\u2019ve Danced More",
         "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201026,
       "name": "I Should\u2019ve Danced More",
       "url": "https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "All My Life (Where Have You Been)",
+        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "All My Life (Where Have You Been)",
+      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "I Don't Know Love",
+        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "I Don\u2019t Know Love",
+      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 224620,
       "name": "Habits (Stay High) [Stripped in France]",
       "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "I Don't Know Love",
-        "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "I Don\u2019t Know Love",
-      "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 137435,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/13yQEoJ6hDD560qMei009H"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
+        "name": "Side Effects",
+        "url": "https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 144051,
-      "name": "Wishing well",
-      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+      "duration_ms": 137435,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 144051,
+      "name": "Wishing well",
+      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Sweet Night",
         "url": "https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 238506,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "maserati",
-        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 92133,
-      "name": "maserati",
-      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
       },
@@ -1055,18 +1023,34 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
         }
       ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+      "duration_ms": 183733,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "maserati",
+        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 92133,
+      "name": "maserati",
+      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "The Ick",
-        "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
-      },
-      "artists": [
-        {
-          "name": "SVEA",
-          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-        }
-      ],
-      "duration_ms": 158987,
-      "name": "The Ick",
-      "url": "https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "The Ick",
+        "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "duration_ms": 158987,
+      "name": "The Ick",
+      "url": "https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Again and Again",
-        "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
+        "name": "glued to the floor",
+        "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Again and Again",
-      "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
+      "duration_ms": 138953,
+      "name": "glued to the floor",
+      "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
     }
   ],
   "unique_name": "GRL PWR",

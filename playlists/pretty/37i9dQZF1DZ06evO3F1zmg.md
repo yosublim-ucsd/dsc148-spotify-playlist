@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This Is Saweetie\. Los temas esenciales, todos en una lista.
+> This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,684 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,693 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 50 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
 | 51 | [GIVE IT TO EM \(feat\. Saweetie\)](https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:02 |
 
-Snapshot ID: `ZsvFgAAAAAA0CuVZcBIBto1I1vFuxhkr`
+Snapshot ID: `ZsvFgAAAAACRNwhWKIBGJkmLyN+s8Gin`

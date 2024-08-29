@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> ft Luna Li ✨
+> it's a Magdalena Bay world
 
-2,945 songs - 6 day 15 hr 10 min
+2,948 songs - 6 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 | 2024-04-19 | 2024-07-12 |
 | [ANGEL FANGS](https://open.spotify.com/track/08qb0NthjRwcBNe7sa0cDR) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [ANGEL FANGS](https://open.spotify.com/album/4dG9qANfO7RSd9pU8xUlUs) | 2:17 | 2020-07-31 | 2020-09-10 |
 | [Angel Landing](https://open.spotify.com/track/1ri3NFmrk6qbTMAHZGJhSg) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Angel Landing](https://open.spotify.com/album/6O95QXgfXKDbt3qxfTdaO4) | 3:52 | 2020-10-30 | 2020-12-04 |
+| [Angel on a Satellite](https://open.spotify.com/track/57C485VPv0kP1XASAwjEYV) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 4:03 | 2024-08-29 |  |
 | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/track/6CSTneaZKWmtPzZcLfSstQ) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/album/598OcPPCVwE5jK68mTOGNX) | 3:09 | 2023-01-20 | 2023-02-16 |
 | [Angelina](https://open.spotify.com/track/5YTztYEB44rImOMnukFNqI) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Angelina](https://open.spotify.com/album/3sY4fpHYZecvIo3hfuS6GS) | 2:30 | 2024-06-28 | 2024-07-27 |
 | [Angels](https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Angels](https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL) | 3:08 | 2022-02-02 | 2022-05-19 |
@@ -1319,6 +1320,7 @@
 | [II HANDS II HEAVEN](https://open.spotify.com/track/1Y7vNzQrybb2ICYKmbOfdt) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 5:41 | 2024-03-29 | 2024-04-27 |
 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 | 2023-04-07 | 2024-01-11 |
 | [im nothing thats all i am](https://open.spotify.com/track/3oDBYKthsd3DGliEdGfWcx) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [im nothing thats all i am](https://open.spotify.com/album/2ayUmTStEfjW9Km9juAR73) | 2:57 | 2023-05-19 | 2023-06-08 |
+| [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-08-29 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 | 2024-08-24 |
 | [Imagine U](https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Imagine U](https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo) | 3:09 | 2020-04-09 | 2020-07-29 |
 | [imperfect for you \- acoustic](https://open.spotify.com/track/0blfewz7XXrjsZd5WnHwgE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:03 | 2024-03-13 | 2024-07-27 |
@@ -2536,6 +2538,7 @@
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-03-01 |  |
 | [Tears '06](https://open.spotify.com/track/363StpInH8eU79r1ZEmn2F) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Tears '06](https://open.spotify.com/album/3iT6LycWhaHIsb9dslPOtK) | 4:38 | 2022-02-25 | 2022-04-09 |
 | [Teen Heartbreak](https://open.spotify.com/track/5Qo3V9WDGb8eqCZtCgvJMw) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Teen Heartbreak](https://open.spotify.com/album/7qm9tv1Pn9EkYcfxXwIH7t) | 2:11 | 2024-06-21 | 2024-07-13 |
+| [Teenage Dirtbag](https://open.spotify.com/track/484LUX0XVdBqpy3vgCUbSm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Teenage Dirtbag \[2020\]](https://open.spotify.com/album/44sgfDxieYl7F5gLhWosJk) | 3:15 | 2024-08-29 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2022-08-09 | 2022-08-19 |
 | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/track/5goZCkRmpk5tWTX3Af6XRL) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/album/0MKG6I8hXwzKlW2ww5OclV) | 3:19 | 2021-10-26 | 2022-01-22 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2021-05-15 | 2021-05-22 |
@@ -2695,7 +2698,7 @@
 | [Tubthumping](https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv) | 4:38 | 2022-06-24 | 2022-08-06 |
 | [Tuethday](https://open.spotify.com/track/5Bne2idW8XpKfErI8wkCkc) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [baby a](https://open.spotify.com/artist/2uhZyZ7WgPEdEAk7FhKwsB) | [Tuethday](https://open.spotify.com/album/66lxxHJ1UCrFa6teqzHyZf) | 3:07 | 2020-09-04 | 2021-01-12 |
 | [tulsa](https://open.spotify.com/track/0iesFoMEeh75EmNc5SoDfk) | [dev soter](https://open.spotify.com/artist/72o6x8c93sNk9FjARfRyCy) | [tulsa](https://open.spotify.com/album/4DUAkm9cJKMoXmgwR7AxBl) | 1:57 | 2021-07-17 | 2021-09-09 |
-| [Tunnel Vision](https://open.spotify.com/track/3LlQyxWlsx8y4rZtkETUjl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 5:05 | 2024-08-23 |  |
+| [Tunnel Vision](https://open.spotify.com/track/3LlQyxWlsx8y4rZtkETUjl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 5:05 | 2024-08-23 | 2024-08-29 |
 | [Turn Red](https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 3:56 | 2023-10-13 | 2024-02-22 |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-05 | 2022-08-25 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 | 2022-11-17 |

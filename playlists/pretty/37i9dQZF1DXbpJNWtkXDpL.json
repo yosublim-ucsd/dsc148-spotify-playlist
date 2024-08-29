@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 85311,
+  "num_followers": 85326,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 145239,
+      "name": "Accidente",
+      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 145239,
-      "name": "Accidente",
-      "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Seguimos Dejando Marca - En Vivo",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Y As\u00ed Suena el 3030",
         "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Seguimos Dejando Marca - En Vivo",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Anillos",
         "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 207400,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 231854,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 231854,
-      "name": "CHOKE",
-      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "El Brillo De Tus Ojitos",
         "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
       },
@@ -899,22 +899,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "La Casa Siempre Gana",
-        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -959,46 +955,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Barby Bellaka",
-        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Barby Bellaka",
-      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
       },
@@ -1011,6 +967,42 @@
       "duration_ms": 265561,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "La Casa Siempre Gana",
+        "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1035,18 +1027,26 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+        "name": "Barby Bellaka",
+        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
         }
       ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+      "duration_ms": 162493,
+      "name": "Barby Bellaka",
+      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1087,6 +1087,38 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 184771,
+      "name": "Qu\u00e9 M\u00e1s Quieres",
+      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1143,38 +1175,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 184771,
-      "name": "Qu\u00e9 M\u00e1s Quieres",
-      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "La Favorita",
         "url": "https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 145865,
       "name": "La Favorita",
       "url": "https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 204913,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0"
+        "name": "El Traje Naranja",
+        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 204913,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa"
+      "duration_ms": 177960,
+      "name": "De Ladrillo a Ladrillo",
+      "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1259,22 +1275,6 @@
       "duration_ms": 296965,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "El Traje Naranja",
-        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "De Ladrillo a Ladrillo",
-      "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Rosa Pastel",
+        "url": "https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Rosa Pastel",
-        "url": "https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

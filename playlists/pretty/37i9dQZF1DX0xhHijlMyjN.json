@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 344434,
+  "num_followers": 344443,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -95,18 +95,18 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Electric Warrior",
         "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 262613,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 237120,
       "name": "I Know You Want Me (Calle Ocho)",
       "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
-      },
-      "artists": [
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
-      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Tarpeia",
         "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 229333,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
+      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Ese d\u00eda piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Dolores se llamaba Lola",
-      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Are You Ready",
         "url": "https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 211253,
       "name": "Oh La La La",
       "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Ese d\u00eda piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Dolores se llamaba Lola",
+      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Pasi\u00f3n Condal",
-        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
-      },
-      "artists": [
-        {
-          "name": "Los Manolos",
-          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Cuentame",
         "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 143106,
       "name": "Chica Ye Ye",
       "url": "https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Pasi\u00f3n Condal",
+        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
+      },
+      "artists": [
+        {
+          "name": "Los Manolos",
+          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
     },
     {
       "added_at": "2024-06-18 12:57:48",

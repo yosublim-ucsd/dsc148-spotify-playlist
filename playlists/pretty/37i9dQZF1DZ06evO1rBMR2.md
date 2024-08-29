@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 ### [This Is Los Huracanes del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rBMR2)
 
-> This Is Los Huracanes del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,686 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,718 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Viaje Eterno](https://open.spotify.com/track/4ajgw37ARwrMUV9ESMVfvd) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Viaje Eterno](https://open.spotify.com/album/7rm2ZPIHjRuEnM9LIek5fX) | 2:49 |
 | 50 | [El Dormilon](https://open.spotify.com/track/20l6LAb5mqBS7hodm871wV) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:47 |
 
-Snapshot ID: `ZsvFgAAAAAB6eQ2rRqz2/i+17uulENyi`
+Snapshot ID: `ZsvFgAAAAAC41JcI1LXGPDaP2qr22y4/`

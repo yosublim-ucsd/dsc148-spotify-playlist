@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Vy Vy
 
-115 songs - 6 hr 43 min
+116 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dumb Mê \- Acoustic Version](https://open.spotify.com/track/6mR3aPF7A0VoFrm5acTMXq) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 2:30 | 2022-09-09 | 2024-02-22 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-09-09 | 2023-09-15 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 | 2022-10-14 | 2022-11-14 |
+| [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/3xSvggH1vJwnGeDurKM7yJ) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/album/7GPJUIV6BZOVGEcHkC3vhC) | 3:34 | 2024-08-28 |  |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/65cM1nyMf9pFDZVV8xmPX9) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa \- Maxi Single](https://open.spotify.com/album/1hJ4ByH5DIbywauU2koZDT) | 4:41 | 2024-02-01 | 2024-04-19 |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-25 |  |
 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 | 2024-06-24 |  |

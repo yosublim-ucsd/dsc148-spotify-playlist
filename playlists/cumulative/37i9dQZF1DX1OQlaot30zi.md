@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Cosang, Kassimi e tanti altri! 🔥
 
-4,051 songs - 7 day 14 hr 8 min
+4,052 songs - 7 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3591,6 +3591,7 @@
 | [TAGLI:CICATRICI](https://open.spotify.com/track/707bpEARtRydDcI2CsohE4) | [Rico Rua](https://open.spotify.com/artist/5qtpAedIGNUyxyAyZ4B74E), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [TAGLI:CICATRICI](https://open.spotify.com/album/6kJkeOEH33G7V0M7JYcZ17) | 1:59 | 2024-05-16 | 2024-05-24 |
 | [Taglio Precedente](https://open.spotify.com/track/3gS1XJFJNIexascYqePI4s) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf), [Cabeleira](https://open.spotify.com/artist/7Lauhxh5gRrMpARrXzJ7dh), [Young Kid](https://open.spotify.com/artist/3fLhN3w58mHNCl7pxTbPz7) | [Taglio Precedente](https://open.spotify.com/album/4Z71kjFkYwWzfnBh1bdJRw) | 2:40 | 2022-11-18 | 2022-11-25 |
 | [Take 4](https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 4](https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr) | 2:50 | 2022-11-09 | 2022-12-02 |
+| [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 | 2024-08-28 |  |
 | [Talento 1](https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Damo](https://open.spotify.com/artist/5LAlkPIJfTgQ7w65HPMll2) | [Talento 1](https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp) | 2:43 | 2023-10-26 | 2023-11-10 |
 | [TALENTO DEL BARRIO](https://open.spotify.com/track/1ws8keZnLC3IivfPf4Cwgl) | [BHG Rich](https://open.spotify.com/artist/0oQoakhuWlElIuMe2sZwrl) | [TALENTO DEL BARRIO](https://open.spotify.com/album/0acAn2TOi2VO1Eswooi8IA) | 2:36 | 2024-06-21 | 2024-07-05 |
 | [TALENTO DELLA ZONA \(feat\. Uzi Lvke\)](https://open.spotify.com/track/0RyKx7vPPetX0620k1k1t9) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [TALENTO DELLA ZONA \(feat\. Uzi Lvke\)](https://open.spotify.com/album/0OXJGNjaUiCxGpf46bKRsu) | 2:52 | 2024-02-15 | 2024-03-08 |

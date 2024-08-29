@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 27752,
+  "num_followers": 27755,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 274102,
       "name": "One Night",
       "url": "https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Amor Inocente",
+        "url": "https://open.spotify.com/album/7pWtehv340syIcZaXSZclR"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 227931,
+      "name": "Amor Inocente",
+      "url": "https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Polvo C\u00f3smico (Remix)",
         "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 207888,
       "name": "Polvo C\u00f3smico - Remix",
       "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Amor Inocente",
-        "url": "https://open.spotify.com/album/7pWtehv340syIcZaXSZclR"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 227931,
-      "name": "Amor Inocente",
-      "url": "https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "See you",
+        "url": "https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Longoni",
+          "url": "https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf"
+        },
+        {
+          "name": "Axel Mark",
+          "url": "https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC"
+        }
+      ],
+      "duration_ms": 210012,
+      "name": "See you",
+      "url": "https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Parasacalapava",
         "url": "https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 160020,
       "name": "Me Bajo en San Isidro",
       "url": "https://open.spotify.com/track/6zwgZybE3JhWNNDMdHjwBv"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "#10 | Doce",
-        "url": "https://open.spotify.com/album/2ewrtvIiOB6N2bpW8UkD5O"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lebrero",
-          "url": "https://open.spotify.com/artist/4f1rX5WJ5mDGq8vsAn5vBf"
-        },
-        {
-          "name": "Aspis Valerio",
-          "url": "https://open.spotify.com/artist/0LAV8l7qn7wcnjTThQtcmG"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Influencers",
-      "url": "https://open.spotify.com/track/2JYae7ogXc5pu5q6ytKRmI"
     }
   ],
   "unique_name": "Nota Funk",

@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 113708,
+  "num_followers": 113772,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-05 02:13:10",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2024-07-05 02:13:10",
-      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2024-07-05 02:13:10",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2024-07-05 02:13:10",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-07-05 02:13:10",
       "album": {
+        "name": "Jose Jose (1)",
+        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
+    },
+    {
+      "added_at": "2024-07-05 02:13:10",
+      "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 137933,
       "name": "MAMI 100PRE SABE (INTERLUDE)",
       "url": "https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ"
-    },
-    {
-      "added_at": "2024-07-05 02:13:10",
-      "album": {
-        "name": "Jose Jose (1)",
-        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
     }
   ],
   "unique_name": "pa llorar",

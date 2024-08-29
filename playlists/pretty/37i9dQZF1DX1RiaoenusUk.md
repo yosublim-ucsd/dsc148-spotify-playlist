@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,752 likes - 94 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,755 likes - 94 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 38 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
 | 39 | [Can't Fight The Funk](https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE) | 4:01 |
 | 40 | [Bienvenidos al Presente](https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 4:19 |
-| 41 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
-| 42 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
+| 41 | [One Night](https://open.spotify.com/track/6bDvwo63vUW9qWUUgWGBby) | [Núkuma](https://open.spotify.com/artist/52HtCVkBSfLDGRHlugmOlg) | [One Night](https://open.spotify.com/album/7pxArAvPLT49D1pujkSm9P) | 4:34 |
+| 42 | [Coconut Boogaloo](https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Combustication](https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN) | 3:57 |
 | 43 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 |
 | 44 | [Liviano Como el Viento](https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR) | [De Kiruza](https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX) | [Musica Pa'l Mundo](https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv) | 4:53 |
 | 45 | [Croto](https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Especies](https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7) | 3:13 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 57 | [Maybe I'm Leo](https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 6:18 |
 | 58 | [Myselfed](https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Myselfed](https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf) | 4:47 |
 | 59 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
-| 60 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
-| 61 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
+| 60 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
+| 61 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
 | 62 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
 | 63 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
 | 64 | [Beast in You](https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 5:15 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 86 | [Una Vez Más](https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl) | [Sophie Sobral & Factor Paracaídas](https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl) | [Una Vez Más](https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G) | 3:30 |
 | 87 | [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 |
 | 88 | [Agitando](https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd) | [Halks](https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [El Reino](https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m) | 3:35 |
-| 89 | [Polvo Cósmico \- Remix](https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Polvo Cósmico \(Remix\)](https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx) | 3:27 |
-| 90 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 |
+| 89 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 |
+| 90 | [Polvo Cósmico \- Remix](https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Polvo Cósmico \(Remix\)](https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx) | 3:27 |
 | 91 | [Conexión](https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI) | [Maleboux](https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH) | [Impar](https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf) | 3:41 |
 | 92 | [Foulmouth](https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [Foulmouth](https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP) | 2:54 |
-| 93 | [Me Bajo en San Isidro](https://open.spotify.com/track/6zwgZybE3JhWNNDMdHjwBv) | [La Kimbo](https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm) | [Parasacalapava](https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ) | 2:40 |
-| 94 | [Influencers](https://open.spotify.com/track/2JYae7ogXc5pu5q6ytKRmI) | [Tomi Lebrero](https://open.spotify.com/artist/4f1rX5WJ5mDGq8vsAn5vBf), [Aspis Valerio](https://open.spotify.com/artist/0LAV8l7qn7wcnjTThQtcmG) | [\#10 \| Doce](https://open.spotify.com/album/2ewrtvIiOB6N2bpW8UkD5O) | 2:30 |
+| 93 | [See you](https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ) | [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf), [Axel Mark](https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC) | [See you](https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt) | 3:30 |
+| 94 | [Me Bajo en San Isidro](https://open.spotify.com/track/6zwgZybE3JhWNNDMdHjwBv) | [La Kimbo](https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm) | [Parasacalapava](https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ) | 2:40 |
 
 Snapshot ID: `ZsyGnAAAAAChcI+2djkP7CST/EBYswfJ`

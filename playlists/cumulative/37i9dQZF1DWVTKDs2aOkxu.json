@@ -2075,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392773,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1CZpWzCvN6fl2WslWTyPn2"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs"
       },

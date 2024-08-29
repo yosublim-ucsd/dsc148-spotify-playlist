@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Fosca & Samt, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  Die Schere zwischen Arm und Reich, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -876,6 +876,24 @@
       "duration_ms": 206666,
       "name": "Alte Liebe",
       "url": "https://open.spotify.com/track/3qedD1HgxjX4qrp4sRwUw8"
+    },
+    {
+      "album": {
+        "name": "Altes Geld",
+        "url": "https://open.spotify.com/album/0SRCwtyFFtuLopypRQiiJG"
+      },
+      "artists": [
+        {
+          "name": "Die Schere zwischen Arm und Reich",
+          "url": "https://open.spotify.com/artist/3QrSXOSgw9JkMexETyWiSc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164401,
+      "name": "Altes Geld",
+      "url": "https://open.spotify.com/track/2xwUpTuk0vRdfLV0mNBsS4"
     },
     {
       "album": {
@@ -2057,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/18IXtlSgWQFWk3Pb7L6P7X"
+      },
+      "artists": [
+        {
+          "name": "Grundeis",
+          "url": "https://open.spotify.com/artist/7KvUT9udHg6tPuKWwPdQ4p"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169255,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/2C4R9w75EB2L0WtikmZhqz"
+    },
+    {
+      "album": {
         "name": "Black Horses",
         "url": "https://open.spotify.com/album/2qE6CrrfYO0LbXRFAjwMvo"
       },
@@ -2216,7 +2252,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 176880,
       "name": "blaue stunde",
       "url": "https://open.spotify.com/track/2oHwsGocm8rT9fdAl4SKM2"
@@ -3147,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Came Along",
+        "url": "https://open.spotify.com/album/46LSsdvNKWlsp1QAtpNGjv"
+      },
+      "artists": [
+        {
+          "name": "Bird's View",
+          "url": "https://open.spotify.com/artist/6JDFIEWzNXcsQqCOOd09mh"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162196,
+      "name": "Came Along",
+      "url": "https://open.spotify.com/track/78aqEFzfZKAYmjLHUns5H9"
+    },
+    {
+      "album": {
         "name": "Can I Go Back",
         "url": "https://open.spotify.com/album/71dGeJGluCU7VzGxO7hByp"
       },
@@ -3466,7 +3520,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 174707,
       "name": "charlie chaplin",
       "url": "https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB"
@@ -6985,6 +7039,24 @@
     },
     {
       "album": {
+        "name": "Fragen",
+        "url": "https://open.spotify.com/album/4VT2gGPFkw2bQPNAz5k7G7"
+      },
+      "artists": [
+        {
+          "name": "Ingrids Enkel",
+          "url": "https://open.spotify.com/artist/27QSJBIlPVWlH6SymRjBjm"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172388,
+      "name": "Fragen",
+      "url": "https://open.spotify.com/track/174WGwOVvNtcICLYHJqN55"
+    },
+    {
+      "album": {
         "name": "Fragezeichen",
         "url": "https://open.spotify.com/album/2uEQBXHaEMdDhjrpl934QD"
       },
@@ -7224,7 +7296,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 176867,
       "name": "gasleuchte",
       "url": "https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5"
@@ -7578,7 +7650,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 235098,
       "name": "Glow",
       "url": "https://open.spotify.com/track/2adojbdJXnJxBatQ35RvMx"
@@ -8608,6 +8680,24 @@
       "duration_ms": 186000,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/3avf3jb1HVYK5TkZBjytuB"
+    },
+    {
+      "album": {
+        "name": "Herz aus Gold",
+        "url": "https://open.spotify.com/album/6ckpcIJRgUUc5x9KwfHcpp"
+      },
+      "artists": [
+        {
+          "name": "Yujin",
+          "url": "https://open.spotify.com/artist/5EdhZbkKV4KiKxEC6wp0By"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "Herz aus Gold",
+      "url": "https://open.spotify.com/track/4PKS2K2zZW6peFww8xJKP6"
     },
     {
       "album": {
@@ -12778,7 +12868,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 238734,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/3HUjcP7Oo2TwSbmoxFat0P"
@@ -13034,7 +13124,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 200699,
       "name": "nachhause",
       "url": "https://open.spotify.com/track/5dJ3IZMEyhd7BmJOzbTpQu"
@@ -14696,7 +14786,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 223920,
       "name": "Pleasant Conversation",
       "url": "https://open.spotify.com/track/2RL1UtRs7WO0C4Mfas9PrD"
@@ -15742,6 +15832,24 @@
       "duration_ms": 197396,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/2RvheiLZEgoDwiHm5BJNhi"
+    },
+    {
+      "album": {
+        "name": "RIV",
+        "url": "https://open.spotify.com/album/3yF20AL0vAetFSrDx10RcN"
+      },
+      "artists": [
+        {
+          "name": "HCL",
+          "url": "https://open.spotify.com/artist/59wQb8V2WmZCD6xWr0STof"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363196,
+      "name": "RIV",
+      "url": "https://open.spotify.com/track/48cB4tKFQdIXfMnzt70VOU"
     },
     {
       "album": {
@@ -17235,6 +17343,24 @@
     },
     {
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6EAWCnwj7JmZdrQYWsew9p"
+      },
+      "artists": [
+        {
+          "name": "Yunni",
+          "url": "https://open.spotify.com/artist/6YhZhe9BvIMt8qg1VnWrL4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224717,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2gKFnGLBEFp8xhSDoTWKAN"
+    },
+    {
+      "album": {
         "name": "Something To Save",
         "url": "https://open.spotify.com/album/2TRPdBwGBtgpwgdl3KFy1C"
       },
@@ -18278,7 +18404,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 192272,
       "name": "Swipe",
       "url": "https://open.spotify.com/track/1Z6rx92R2MNjGodjeUrq4e"
@@ -20048,6 +20174,24 @@
       "duration_ms": 182898,
       "name": "Uptight Dance",
       "url": "https://open.spotify.com/track/1IwLd7XPBJMCgkXfEPJW4G"
+    },
+    {
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/0wwkLAnqYFb8CkbKn1AYO9"
+      },
+      "artists": [
+        {
+          "name": "Die Jugend von Gestern",
+          "url": "https://open.spotify.com/artist/4YifxvYJn6lvPKqwpySXuP"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187187,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/1DPnUYdhwU4zZzSjFbJ3vX"
     },
     {
       "album": {

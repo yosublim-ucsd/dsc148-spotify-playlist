@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 ### [This Is AWOLNATION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yLRw4)
 
-> This is AWOLNATION\. The essential tracks, all in one playlist.
+> This Is AWOLNATION\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,107 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,114 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 50 | [Kill It 4 The Kids \(feat\. AWOLNATION & R.City\)](https://open.spotify.com/track/1ZsURRKj1wHUeQq6kZze8S) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [OCCULT CLASSIC](https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw) | 2:23 |
 | 51 | [Swinging from the Castles](https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:02 |
 
-Snapshot ID: `ZsvFgAAAAADDHVm3FqjrpMk9tKGYyj4t`
+Snapshot ID: `ZsvFgAAAAABeA7WKGfhnkj5eq7N/R7Vn`

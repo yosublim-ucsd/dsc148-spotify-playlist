@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688199,
+  "num_followers": 688274,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Everybody Hurts",
         "url": "https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe"
       },
@@ -1475,22 +1459,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
       "artists": [
         {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        },
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
         }
       ],
-      "duration_ms": 159541,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1511,6 +1491,26 @@
       "duration_ms": 243750,
       "name": "Common People",
       "url": "https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        },
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This is Emei แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This Is Emei\. Los temas esenciales, todos en una lista.
 
 23 songs - 54 min 32 sec
 

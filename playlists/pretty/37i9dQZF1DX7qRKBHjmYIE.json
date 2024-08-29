@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con RIZA & Humbe.",
-  "num_followers": 753395,
+  "num_followers": 753381,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Disco 9",
         "url": "https://open.spotify.com/album/0cMCxMu4d6sjPND40Jr2l6"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 208351,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+      "duration_ms": 207750,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -635,6 +619,22 @@
       "duration_ms": 195862,
       "name": "Luna mar",
       "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -795,6 +795,46 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "TRUFFY",
+          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "TU FAN",
+      "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "T siento RARA",
+        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 129535,
+      "name": "T siento RARA",
+      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Atelier",
         "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
       },
@@ -839,46 +879,6 @@
       "duration_ms": 151250,
       "name": "Asuntillo",
       "url": "https://open.spotify.com/track/3S6R6gGy81gwNrxxZNFtu0"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "LA CLASSE",
-        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "TRUFFY",
-          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "TU FAN",
-      "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "T siento RARA",
-        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 129535,
-      "name": "T siento RARA",
-      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "YASS",
         "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
       },
@@ -999,6 +983,38 @@
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "day ONe",
+        "url": "https://open.spotify.com/album/5owcX09d3IttMCUWNHwlAO"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "day ONe",
+      "url": "https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 204991,
       "name": "UN PORRITO",
       "url": "https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "day ONe",
-        "url": "https://open.spotify.com/album/5owcX09d3IttMCUWNHwlAO"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "day ONe",
-      "url": "https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Caster y Roxy",
+        "url": "https://open.spotify.com/album/0J2rAAqOV88hnIPBda79m7"
+      },
+      "artists": [
+        {
+          "name": "DRIMS",
+          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Caster y Roxy",
+      "url": "https://open.spotify.com/track/5pNvENxRsxYLYXS23JL6xt"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Frenos",
         "url": "https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Caster y Roxy",
-        "url": "https://open.spotify.com/album/0J2rAAqOV88hnIPBda79m7"
-      },
-      "artists": [
-        {
-          "name": "DRIMS",
-          "url": "https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Caster y Roxy",
-      "url": "https://open.spotify.com/track/5pNvENxRsxYLYXS23JL6xt"
     },
     {
       "added_at": "2024-08-23 04:00:00",

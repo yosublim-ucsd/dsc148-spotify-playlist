@@ -1,6 +1,6 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0 \ud83d\ude44 ",
-  "num_followers": 2747870,
+  "num_followers": 2747745,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-22 22:16:54",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 323746,
-      "name": "Wicked Games",
-      "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
-    },
-    {
-      "added_at": "2024-08-22 22:16:54",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
+    },
+    {
+      "added_at": "2024-08-22 22:16:54",
+      "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 323746,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
     },
     {
       "added_at": "2024-08-22 22:16:54",
@@ -1151,26 +1151,18 @@
     {
       "added_at": "2024-08-22 22:16:54",
       "album": {
-        "name": "Sincerely For You",
-        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 281013,
-      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
-      "url": "https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5"
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
     },
     {
       "added_at": "2024-08-22 22:16:54",
@@ -1195,18 +1187,26 @@
     {
       "added_at": "2024-08-22 22:16:54",
       "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+      "duration_ms": 281013,
+      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
+      "url": "https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5"
     },
     {
       "added_at": "2024-08-22 22:16:54",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-08-22 22:16:54",
       "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "Girl Like Me (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
+    },
+    {
+      "added_at": "2024-08-22 22:16:54",
+      "album": {
         "name": "Adore You",
         "url": "https://open.spotify.com/album/2wqfHaT71DWVCdCEGYhz00"
       },
@@ -1359,6 +1379,26 @@
       "duration_ms": 152896,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/40fckfhRuwuo6Y9hDPSE3L"
+    },
+    {
+      "added_at": "2024-08-22 22:16:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 207294,
+      "name": "Unloyal (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
       "added_at": "2024-08-22 22:16:54",
@@ -1395,46 +1435,6 @@
     {
       "added_at": "2024-08-22 22:16:54",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 207294,
-      "name": "Unloyal (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
-    },
-    {
-      "added_at": "2024-08-22 22:16:54",
-      "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 224880,
-      "name": "Girl Like Me (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
-    },
-    {
-      "added_at": "2024-08-22 22:16:54",
-      "album": {
         "name": "Groovy People",
         "url": "https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-22 22:16:54",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2024-08-22 22:16:54",
-      "album": {
         "name": "SEPT 5TH",
         "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 246293,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd"
+    },
+    {
+      "added_at": "2024-08-22 22:16:54",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2024-08-22 22:16:54",

@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 122949,
+  "num_followers": 122951,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2024-08-09 18:34:31",
+      "album": {
         "name": "Vamo Com Tudo",
         "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
-    },
-    {
-      "added_at": "2024-08-09 18:34:31",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2024-08-09 18:34:31",

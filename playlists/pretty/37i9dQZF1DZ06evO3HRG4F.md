@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This Is Charlie Monttana\. Los temas esenciales, todos en una lista.
+> This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,734 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,737 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Menor de Edad](https://open.spotify.com/track/1grfsGcGQq3Unosd0KIvDY) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:06 |
 | 50 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 |
 
-Snapshot ID: `ZsvFgAAAAAAhnYiN4cS/pnT1tJ5hvPfU`
+Snapshot ID: `ZsvFgAAAAADweawQT42FH97+7y481Nrv`

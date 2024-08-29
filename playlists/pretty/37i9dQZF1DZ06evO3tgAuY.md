@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 ### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This Is Alex Favela\. Los temas esenciales, todos en una lista.
+> This is Alex Favela\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,932 likes - 51 songs - 2 hr 22 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 50 | [Chavalo Serio \- En Vivo](https://open.spotify.com/track/3xqtqir31h4pU9InbaIYS8) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:07 |
 | 51 | [El De La Misma Línea \- En Vivo](https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
 
-Snapshot ID: `ZsvFgAAAAAD4IvnGyRMtUyQk/7e63dlJ`
+Snapshot ID: `ZsvFgAAAAAAxyThiEZ1Hy302y4nwSSy4`

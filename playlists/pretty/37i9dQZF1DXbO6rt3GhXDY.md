@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 ### [Indie Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXbO6rt3GhXDY)
 
-> You know em, you love em, these are indie pop hits\. Cover: Clairo
+> You know em, you love em, these are indie pop hits\. Cover: The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,100 likes - 119 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,438 likes - 119 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 118 | [When U Loved Me](https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [When U Loved Me](https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w) | 3:11 |
 | 119 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 
-Snapshot ID: `ZrUzGgAAAAC0cDzxTUGI5vVnzOmj+gGB`
+Snapshot ID: `Zs8qfAAAAABH9uf3SrZIWj38DV0UOZYl`

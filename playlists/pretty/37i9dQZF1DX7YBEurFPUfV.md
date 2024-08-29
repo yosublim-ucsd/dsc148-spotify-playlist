@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,257 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,265 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 3 | [Zhar](https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Zhar](https://open.spotify.com/album/7DjgxzLWhW5tuL0TqneH1c) | 2:37 |
 | 4 | [Kol Manzid](https://open.spotify.com/track/6MzKnihMvYG74ZS309SjLB) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Kol Manzid](https://open.spotify.com/album/0AsZIVxdSVZkPdeBJHz8Ul) | 3:50 |
 | 5 | [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 |
-| 6 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
-| 7 | [La liberta](https://open.spotify.com/track/6a3WsoihY4H9Tst9a9Xoao) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [La liberta](https://open.spotify.com/album/7pyPJajsIcSQjjoLGIEPvV) | 3:35 |
-| 8 | [SECRET](https://open.spotify.com/track/68RcscBwwog1oQ96I5gnrL) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [SECRET](https://open.spotify.com/album/0kSOvC2nXGzIA4IASccBW3) | 3:16 |
-| 9 | [Savage](https://open.spotify.com/track/0eTSk4KhErvJ8fC4PhbsQg) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Savage](https://open.spotify.com/album/51skWbUOPoL7tqIvCZUKqY) | 2:52 |
-| 10 | [Inti Ta3ref](https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Inti Ta3ref](https://open.spotify.com/album/6BU8Y6zEO4fzBOAcSLPFwX) | 3:14 |
-| 11 | [Bambina](https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Bambina](https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH) | 2:55 |
-| 12 | [Lambo](https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lambo](https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci) | 3:33 |
-| 13 | [Hkayet](https://open.spotify.com/track/0KRjzTajjH5yheFIl8qBZr) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Hkayet](https://open.spotify.com/album/2EkmDyQHSd63mQi7Dm9kdJ) | 3:40 |
+| 6 | [Youm Wara Youm](https://open.spotify.com/track/7ArNRveJLl0IiY6gI8mzGj) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/1rcdwiwJpjLasS3JRKpwQW) | 3:44 |
+| 7 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
+| 8 | [La liberta](https://open.spotify.com/track/6a3WsoihY4H9Tst9a9Xoao) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [La liberta](https://open.spotify.com/album/7pyPJajsIcSQjjoLGIEPvV) | 3:35 |
+| 9 | [SECRET](https://open.spotify.com/track/68RcscBwwog1oQ96I5gnrL) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [SECRET](https://open.spotify.com/album/0kSOvC2nXGzIA4IASccBW3) | 3:16 |
+| 10 | [Savage](https://open.spotify.com/track/0eTSk4KhErvJ8fC4PhbsQg) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Savage](https://open.spotify.com/album/51skWbUOPoL7tqIvCZUKqY) | 2:52 |
+| 11 | [Inti Ta3ref](https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Inti Ta3ref](https://open.spotify.com/album/6BU8Y6zEO4fzBOAcSLPFwX) | 3:14 |
+| 12 | [Bambina](https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Bambina](https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH) | 2:55 |
+| 13 | [Lambo](https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lambo](https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci) | 3:33 |
 | 14 | [Souvenir](https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Souvenir](https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi) | 2:57 |
 | 15 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 |
 | 16 | [Ti Amo](https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Ti Amo](https://open.spotify.com/album/0fNoucZFlVIsQhJiZYsL1p) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [Heroine](https://open.spotify.com/track/0iKRsjag7PRFFs9N6je8HK) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Heroine](https://open.spotify.com/album/3rCPPG6uTfQoy9eDFccejT) | 3:26 |
 | 50 | [Nesta3ref](https://open.spotify.com/track/0dIYvl9pLL5lhmTXOWkz5Q) | [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Nesta3ref](https://open.spotify.com/album/5We6huHN6gtuVPYXXqNw3e) | 3:25 |
 
-Snapshot ID: `ZsRi8wAAAAAO8II0LzTgiumzzC9wTGXX`
+Snapshot ID: `Zs7QpAAAAACwzE+rwoSqtkBQWIMLtbum`

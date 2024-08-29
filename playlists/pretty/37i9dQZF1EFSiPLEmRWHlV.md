@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199 likes - 124 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 124 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 23 | [Romeo](https://open.spotify.com/track/5sRjSBt7feBd03mXz4xatE) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ) | [Romeo](https://open.spotify.com/album/60e37EefKU4IwwgjZgjB0M) | 2:28 |
 | 24 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 |
 | 25 | [Greenlight \(feat\. Clementine Douglas\)](https://open.spotify.com/track/5D3Bf5y0Y51p8dEdQpM7Li) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Greenlight \(feat\. Clementine Douglas\)](https://open.spotify.com/album/26422GmcV96zY9uJzalG49) | 2:39 |
-| 26 | [Love Me Or Let Me Go](https://open.spotify.com/track/3Ibf5MzsKj4TKeeoL8ZtiQ) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Love Me Or Let Me Go](https://open.spotify.com/album/4nRcUuqqch0WbjDk3OvOoe) | 2:34 |
-| 27 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
+| 26 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
+| 27 | [Love Me Or Let Me Go](https://open.spotify.com/track/3Ibf5MzsKj4TKeeoL8ZtiQ) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ) | [Love Me Or Let Me Go](https://open.spotify.com/album/4nRcUuqqch0WbjDk3OvOoe) | 2:34 |
 | 28 | [Mind Off \(feat\. Kudu Blue\)](https://open.spotify.com/track/45cgSmYAMG5H7KMafbrWdG) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Mind Off \(feat\. Kudu Blue\)](https://open.spotify.com/album/4htVw10oXFS4xQKFBVPOdo) | 3:04 |
 | 29 | [Play With Fire](https://open.spotify.com/track/0X214IiDWGaV68nzAnyGZW) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Play With Fire](https://open.spotify.com/album/5oBhLCEbpEBVsTCjqzu95u) | 3:13 |
 | 30 | [Need You Now](https://open.spotify.com/track/3xSJRO7U763TI1dzGH8ixZ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Need You Now](https://open.spotify.com/album/1aBZkuy9Rv9k6fxKiAqzCb) | 2:40 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 123 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 124 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbakngAAAAADoydt0tG0YNhdbLoWT2r1`
+Snapshot ID: `AbaqPgAAAAD1c4Bb7+pbyhcMYEC41r2i`

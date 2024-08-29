@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Sofie Royer
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,171 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,176 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 24 | [Feel The Rush \- Honey Dijon Remix](https://open.spotify.com/track/17qcqOh2XjT3pYAzDipzNx) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Feel The Rush \(Honey Dijon Remix\)](https://open.spotify.com/album/1XT3rxm9mfegbd78WnfZKH) | 6:49 |
 | 25 | [kassio.](https://open.spotify.com/track/6QrVflADAEvTGMegzHt7GH) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [kassio.](https://open.spotify.com/album/0utLwRngVR9E0BZqkn6WGT) | 4:06 |
 | 26 | [Volume](https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Volume](https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc) | 3:58 |
-| 27 | [Smalltown Boy \- Planningtorock's 'The Love That You Need' Rework](https://open.spotify.com/track/4V6VyAxLxWfmnWlaJuVVRV) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Smalltown Boy \(Planningtorock's 'The Love That You Need' Rework\)](https://open.spotify.com/album/68eT8PNa2lmvX5tKdhJSjM) | 4:07 |
+| 27 | [Smalltown Boy \- Planningtorock's 'The Love That You Need' Rework](https://open.spotify.com/track/4V6VyAxLxWfmnWlaJuVVRV) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Smalltown Boy \- Planningtorock's 'The Love That You Need' Rework](https://open.spotify.com/album/68eT8PNa2lmvX5tKdhJSjM) | 4:07 |
 | 28 | [Heat](https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Heat](https://open.spotify.com/album/0TKD0FPj0eYCu8HnihRXme) | 3:44 |
 | 29 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
 | 30 | [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 62066,
+  "num_followers": 62214,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-08-25 18:07:12",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+    },
+    {
+      "added_at": "2024-08-25 18:07:12",
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
-    },
-    {
-      "added_at": "2024-08-25 18:07:12",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2024-08-25 18:07:12",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-08-25 18:07:12",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+      "duration_ms": 171666,
+      "name": "Ba$tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
     },
     {
       "added_at": "2024-08-25 18:07:12",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2024-08-25 18:07:12",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Ba$tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-08-25 18:07:12",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-08-25 18:07:12",
       "album": {
-        "name": "Muyeez (Deluxe)",
-        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 154689,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
-    },
-    {
-      "added_at": "2024-08-25 18:07:12",
-      "album": {
         "name": "Something Something - Remix",
         "url": "https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 177005,
       "name": "Something Something - Remix",
       "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
+    },
+    {
+      "added_at": "2024-08-25 18:07:12",
+      "album": {
+        "name": "Muyeez (Deluxe)",
+        "url": "https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 154689,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
     },
     {
       "added_at": "2024-08-25 18:07:12",

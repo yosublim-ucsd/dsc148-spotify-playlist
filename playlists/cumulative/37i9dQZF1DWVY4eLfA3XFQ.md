@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring ESSEL & MERYLL\.  50% techno, 50% house
 
-1,723 songs - 4 day 0 hr 24 min
+1,724 songs - 4 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-05-13 | 2022-07-09 |
 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 | 2024-01-12 |  |
 | [Bills, Bills \(feat\. MRYN\) \- Radio Edit](https://open.spotify.com/track/1bIOPOZlC6SQtyP1gRFZHD) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Bills, Bills \(feat\. MRYN\)](https://open.spotify.com/album/05lKjlzT4gUEMsfNwXrzlF) | 3:03 | 2024-01-26 | 2024-03-23 |
+| [Billz](https://open.spotify.com/track/1nZJzm6DEMydw6sAgdtK54) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Billz / On My Mind](https://open.spotify.com/album/5ZaedNt75c3xtRHobm1lJZ) | 3:39 | 2024-08-28 |  |
 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 | 2023-11-10 | 2024-02-03 |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 | 2022-09-17 |
 | [Bitch, Don't Kill My Vibe](https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Liquid Rose](https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN) | [Bitch, Don't Kill My Vibe](https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W) | 2:37 | 2024-01-26 |  |
@@ -1435,7 +1436,7 @@
 | [T.F.C.](https://open.spotify.com/track/4kDuFLglikZPQXUMfmWj1F) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [T.F.C.](https://open.spotify.com/album/0W8dOcmOLqtPv79RzaUWIT) | 3:07 | 2023-03-17 | 2023-06-10 |
 | [T.Y.S.D\. \(Throw Your Soul Down\) \- HoneyLuv Remix](https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [T.Y.S.D\. \(Throw Your Soul Down\) \[Remixes\]](https://open.spotify.com/album/3pogOmNSH3PIO1bNbz7d28) | 3:15 | 2022-12-28 | 2023-01-06 |
 | [Tacheté](https://open.spotify.com/track/32v92N39LOlK2w0GA3u8jl) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Simon Ray](https://open.spotify.com/artist/0Lv8Fe6PuOVjqAk7lUdlTU) | [Back It Up](https://open.spotify.com/album/4rgh27ob3afcsItdfCeaKM) | 3:18 | 2023-06-09 | 2023-07-08 |
-| [Taka](https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Taka](https://open.spotify.com/album/3rYqcadDaeDm6mF5MDvWLG) | 3:13 | 2024-03-22 |  |
+| [Taka](https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Taka](https://open.spotify.com/album/3rYqcadDaeDm6mF5MDvWLG) | 3:13 | 2024-03-22 | 2024-08-29 |
 | [Taka Doom](https://open.spotify.com/track/42qyBa2ID6T0tDiwyHcSuR) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Taka Doom EP](https://open.spotify.com/album/786kzW7jBDfCZogIeHYLpt) | 2:54 | 2023-08-11 | 2023-09-02 |
 | [Taka Doom](https://open.spotify.com/track/5Ukd9BLEG6Ae9hedwZY0PX) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Taka Doom EP](https://open.spotify.com/album/5S6urowFyIkdlHaTlqvjui) | 2:54 | 2023-05-12 | 2023-07-20 |
 | [Take Control](https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Take Control](https://open.spotify.com/album/0hsDFkEFaI2UK6R0iatreB) | 2:49 | 2024-04-19 | 2024-05-18 |

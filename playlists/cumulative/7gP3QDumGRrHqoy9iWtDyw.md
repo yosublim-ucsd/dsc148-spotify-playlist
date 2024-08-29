@@ -4,12 +4,13 @@
 
 > 
 
-220 songs - 14 hr 18 min
+222 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Prayer](https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [A Prayer](https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD) | 3:30 | 2023-10-20 |  |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2023-06-13 |  |
+| [Acid](https://open.spotify.com/track/2hQEXzrvoJ7UpFi4NOowg0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Rami Ali](https://open.spotify.com/artist/0gdxUjDVq4FWKpMe5YgdgB) | [Acid / A Lot](https://open.spotify.com/album/34F0ocwlWSuPYIr24I8YiU) | 3:04 | 2024-08-28 |  |
 | [Afraid To Feel \- CID Remix](https://open.spotify.com/track/1mvypEtmZxHz1GT6zaW67g) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Afraid To Feel \(CID Remix\)](https://open.spotify.com/album/1QxcMxNHAkFTSULS2RbRck) | 3:25 | 2022-08-20 | 2024-01-21 |
 | [Afrikaa](https://open.spotify.com/track/2NTrfGXcS2zhrAXsm0gDGz) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Afrikaa](https://open.spotify.com/album/57n7DbBFBEbqcXQ22xBfrK) | 3:04 | 2022-10-24 |  |
 | [Ain't No Party](https://open.spotify.com/track/7m8H5YUbVlRZ61Juc4ofIX) | [Scott Shima](https://open.spotify.com/artist/2hHxTBGkP3ZtqGilz3kgmf) | [Ain't No Party](https://open.spotify.com/album/6FjVgPNGGm7Wq16vSJ2e2S) | 5:12 | 2023-09-22 |  |
@@ -85,6 +86,7 @@
 | [GOOD FOR YOU](https://open.spotify.com/track/3EhUlT5FGsG9SNaKagJlEh) | [MEKKAWY](https://open.spotify.com/artist/0Ir4hjJIxt7uIhWZDUWY6x) | [THE CHOICE EP](https://open.spotify.com/album/1CJs0dhZNoBNNhdL9Jlsxo) | 2:44 | 2022-10-21 |  |
 | [Gospel](https://open.spotify.com/track/0Eqpd2ecXGxoLWBVFBBf1z) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [F That EP](https://open.spotify.com/album/5ZmskTPNKJpAbZQGRShiYP) | 3:30 | 2023-02-05 |  |
 | [Got That Flow](https://open.spotify.com/track/0SWjYYoeTEvG0dV9MKyCND) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Got That Flow](https://open.spotify.com/album/6D1x95S3Lcm9qq9YdM7Xht) | 3:00 | 2023-05-05 |  |
+| [H\*es](https://open.spotify.com/track/27Dsm8IzYaLkec04yeCyzc) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [H\*es](https://open.spotify.com/album/62LmVQgKcN1LZlrfeKu5b6) | 4:12 | 2024-08-28 |  |
 | [Hold Me Close](https://open.spotify.com/track/7LY5bGhl8Pnx9LkIwyVgGq) | [SINO](https://open.spotify.com/artist/1MZecWkWxDoc1iU8qNH1q3) | [Hold Me Close EP](https://open.spotify.com/album/2WdPVFXYS5G0yIBMlM6jIq) | 2:32 | 2024-04-14 |  |
 | [Hold On](https://open.spotify.com/track/4N0D6t3zCjyYjF7GR3jH4T) | [Zsak](https://open.spotify.com/artist/6lDaKCEOsU9d3gedCSigq1) | [Hold On](https://open.spotify.com/album/3YvhnnkXqisgWsKXFvZJ6A) | 3:20 | 2022-12-18 |  |
 | [House Affair](https://open.spotify.com/track/5ZNomp1OsMpUMGNy9cXw6v) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Bruno Blanc](https://open.spotify.com/artist/0bkcBCt15UZF5yvj3b4NCa) | [House Affair](https://open.spotify.com/album/2YWrXRsChp6NHq0g1WsONZ) | 3:07 | 2023-09-21 |  |

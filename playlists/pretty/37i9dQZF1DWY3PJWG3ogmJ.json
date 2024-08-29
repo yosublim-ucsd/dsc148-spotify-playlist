@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 664148,
+  "num_followers": 664250,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-19 14:07:01",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Scratch the Surface",
-      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Opening Fire: 2008-2014",
         "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "The Battle of Yaldabaoth",
         "url": "https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob"
       },
@@ -843,8 +843,8 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Here Comes The Boom",
-        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Here Comes The Boom",
-      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
+      "duration_ms": 191746,
+      "name": "Nekketsu",
+      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Posthuman",
+        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "duration_ms": 192436,
+      "name": "Become a Machine",
+      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Firsthand Accounts",
         "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
       },
@@ -943,6 +959,22 @@
       "duration_ms": 194466,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -963,40 +995,8 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Posthuman",
-        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
-      },
-      "artists": [
-        {
-          "name": "Harms Way",
-          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
-        }
-      ],
-      "duration_ms": 192436,
-      "name": "Become a Machine",
-      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "In Darkness",
-        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+        "name": "Here Comes The Boom",
+        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Nekketsu",
-      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+      "duration_ms": 251560,
+      "name": "Here Comes The Boom",
+      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Chainbreaker",
-        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
-      },
-      "artists": [
-        {
-          "name": "Shrine of Malice",
-          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
-        }
-      ],
-      "duration_ms": 275807,
-      "name": "Chainbreaker",
-      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Built from War",
-        "url": "https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 204661,
-      "name": "Built from War",
-      "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "SUPERN\u00d8VA (feat. Marcus Bischoff of Heaven Shall Burn)",
         "url": "https://open.spotify.com/album/2ZdKo8ZWbTBffLX0iVJ8y9"
       },
@@ -1191,6 +1159,38 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Built from War",
+        "url": "https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 204661,
+      "name": "Built from War",
+      "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Chainbreaker",
+        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
+      },
+      "artists": [
+        {
+          "name": "Shrine of Malice",
+          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
+        }
+      ],
+      "duration_ms": 275807,
+      "name": "Chainbreaker",
+      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Snowblood",
-        "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 253680,
-      "name": "Snowblood",
-      "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Curse Us",
         "url": "https://open.spotify.com/album/5M0HrALsh99LkP1xfz39cI"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 282850,
       "name": "Curse Us",
       "url": "https://open.spotify.com/track/7rST24w7mbPpLXbPtJHtD4"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Snowblood",
+        "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 253680,
+      "name": "Snowblood",
+      "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Habitual Decline",
-        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "Habitual Decline",
-      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 293000,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Habitual Decline",
+        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "Habitual Decline",
+      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
     },
     {
       "added_at": "2023-01-18 15:54:17",

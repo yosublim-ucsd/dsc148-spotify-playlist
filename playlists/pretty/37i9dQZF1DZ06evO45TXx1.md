@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This Is Mc Luanna\. Los temas esenciales, todos en una lista.
+> This is Mc Luanna\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,097 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,123 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 |
 | 50 | [SEM BARULHO](https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [REAL R&B](https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j) | 2:42 |
 
-Snapshot ID: `ZsvFgAAAAACOR670McYaF98klkqflyvR`
+Snapshot ID: `ZsvFgAAAAAAgGyWx67LDZobQNnTVYrvW`

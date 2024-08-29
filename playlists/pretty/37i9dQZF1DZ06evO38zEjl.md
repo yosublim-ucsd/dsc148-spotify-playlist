@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. The essential tracks, all in one playlist.
+> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,072 likes - 51 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,073 likes - 51 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 50 | [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 |
 | 51 | [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 |
 
-Snapshot ID: `ZsvFgAAAAABFDGR9FpYF81mJsXBqL0lA`
+Snapshot ID: `ZsvFgAAAAADHpdiSvOld5Fg96FW1O+33`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,612 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,679 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 28 | [This Is Love](https://open.spotify.com/track/7IohFKIwrb75c4XaqX7WWo) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [\#willpower \(Deluxe\)](https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q) | 4:39 |
 | 29 | [Thinking About You \(feat\. Ayah Marar\)](https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:07 |
 | 30 | [Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:03 |
-| 31 | [Right Now](https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:01 |
+| 31 | [Right Now](https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Unapologetic \- Deluxe](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:01 |
 | 32 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 33 | [Back in Time \- featured in "Men In Black 3"](https://open.spotify.com/track/3eQlGeyuSibgAGPEJugaDW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:27 |
 | 34 | [Years](https://open.spotify.com/track/2KrHwwnKAfSDdOStftigJm) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/5McL4QMcdi5XmBQBAonR1D) | 3:15 |

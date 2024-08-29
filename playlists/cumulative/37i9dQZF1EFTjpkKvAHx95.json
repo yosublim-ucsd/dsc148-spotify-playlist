@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189357,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
+    },
+    {
+      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/0QFW85XzFgWQJcZzOhKQf0"
       },

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 ### [This Is Pearl Jam](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q8JGw)
 
-> This is Pearl Jam\. Todos os maiores hits em uma só playlist.
+> This Is Pearl Jam\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,987 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,119 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 49 | [Mind Your Manners](https://open.spotify.com/track/2PdxbK3d0ZS58dD8jRqR6L) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 2:38 |
 | 50 | [Hail, Hail](https://open.spotify.com/track/5cpnyC2TLztgxOWNzoxqbY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 3:41 |
 
-Snapshot ID: `ZsvFgAAAAACY1rSCTqSG158oXe2wTYnt`
+Snapshot ID: `ZsvFgAAAAABumQzAG771p/rUsaJFxBrg`

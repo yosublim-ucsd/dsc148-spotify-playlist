@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-86 songs - 4 hr 57 min
+87 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Hayou](https://open.spotify.com/track/7q3b86yEL24ycAI3coYvie) | [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp) | [Hayou](https://open.spotify.com/album/5orl2rXj02e1E2ZgAzDOWI) | 5:14 | 2024-02-24 |  |
 | [Helma](https://open.spotify.com/track/0wd5ZYfUoRZOovKpVCNIPE) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:48 | 2024-02-24 | 2024-06-01 |
 | [Heroine](https://open.spotify.com/track/0iKRsjag7PRFFs9N6je8HK) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Heroine](https://open.spotify.com/album/3rCPPG6uTfQoy9eDFccejT) | 3:26 | 2024-02-24 |  |
-| [Hkayet](https://open.spotify.com/track/0KRjzTajjH5yheFIl8qBZr) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Hkayet](https://open.spotify.com/album/2EkmDyQHSd63mQi7Dm9kdJ) | 3:40 | 2024-06-04 |  |
+| [Hkayet](https://open.spotify.com/track/0KRjzTajjH5yheFIl8qBZr) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Hkayet](https://open.spotify.com/album/2EkmDyQHSd63mQi7Dm9kdJ) | 3:40 | 2024-06-04 | 2024-08-29 |
 | [Indica](https://open.spotify.com/track/4gJLd2cOfS0wlzmZ4BIjNm) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Indica](https://open.spotify.com/album/1cPuoUIkK5GqJWDKgGVScZ) | 3:39 | 2024-02-24 | 2024-08-01 |
 | [Inti Ta3ref](https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Inti Ta3ref](https://open.spotify.com/album/6BU8Y6zEO4fzBOAcSLPFwX) | 3:14 | 2024-08-01 |  |
 | [Intro](https://open.spotify.com/track/1TTg8aTqkCxmBuLZrLpRYX) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:43 | 2024-02-24 | 2024-08-06 |
@@ -92,6 +92,7 @@
 | [Wahda x2](https://open.spotify.com/track/5vZXSl3qJro0cieaZ0xFYt) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Wahda x2](https://open.spotify.com/album/4xGvwM9WS9Fp8UjQHJ8lue) | 3:27 | 2024-02-24 |  |
 | [Wasitkom](https://open.spotify.com/track/3cRvl8WM9Rqn4J92Ud3tSa) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wasitkom](https://open.spotify.com/album/6pAdQjbshmsr3YTzVGebVz) | 5:57 | 2024-04-10 | 2024-07-09 |
 | [Welou](https://open.spotify.com/track/686PvZSfRMuquXf7GzZsz4) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Welou](https://open.spotify.com/album/5RxtQOX7YmRWrlF4jLMAzV) | 3:12 | 2024-02-24 | 2024-04-26 |
+| [Youm Wara Youm](https://open.spotify.com/track/7ArNRveJLl0IiY6gI8mzGj) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/1rcdwiwJpjLasS3JRKpwQW) | 3:44 | 2024-08-28 |  |
 | [Zhar](https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Zhar](https://open.spotify.com/album/7DjgxzLWhW5tuL0TqneH1c) | 2:37 | 2024-08-20 |  |
 | [ليالي حمرة](https://open.spotify.com/track/4VFVWwgJE5MBSqxzZzmA6M) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [ليالي حمرة](https://open.spotify.com/album/65OJJ5zF0JXETjgsdLUGBO) | 2:43 | 2024-07-04 |  |
 

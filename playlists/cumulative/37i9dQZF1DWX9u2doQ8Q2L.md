@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,492 songs - 3 day 18 hr 38 min
+1,494 songs - 3 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,7 +541,7 @@
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-11-29 |
 | [Lively Christmas](https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP) | 3:18 | 2023-11-21 | 2023-11-23 |
 | [Loa](https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Loa](https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ) | 3:46 | 2023-12-16 | 2024-04-06 |
-| [LOA](https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [LOA](https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo) | 3:46 | 2024-04-16 |  |
+| [LOA](https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [LOA](https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo) | 3:46 | 2024-04-16 | 2024-08-29 |
 | [Lonely](https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Yonawo House](https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX) | 3:31 | 2022-11-08 | 2023-04-19 |
 | [Lonely In Tokyo \(Japanese version\)](https://open.spotify.com/track/1DuQO5Rd1nM3phSLXIDcPa) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 3:14 | 2023-05-09 | 2023-08-23 |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-10-13 |
@@ -939,6 +939,7 @@
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 | 2024-02-11 |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2022-12-01 | 2023-04-26 |
 | [stay tune](https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [stay tune](https://open.spotify.com/album/0NFlXSACdR4nZXapj6ZHFI) | 2:43 | 2024-02-15 | 2024-04-24 |
+| [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976) | 2:52 | 2024-08-28 |  |
 | [Step](https://open.spotify.com/track/49GUjKB2nBXKVrjwiwTnfZ) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV) | 4:14 | 2022-06-14 | 2022-07-20 |
 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 | 2022-07-28 | 2022-08-17 |
 | [STEP IT](https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP) | 3:40 | 2022-05-26 | 2022-07-29 |
@@ -1182,7 +1183,7 @@
 | [おすし](https://open.spotify.com/track/432b1BqmBhTu0YcQtZu3k0) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [おすし](https://open.spotify.com/album/5WYAvW8s9xG4ESshoqffaJ) | 3:44 | 2023-10-17 | 2023-11-01 |
 | [おつかれさま](https://open.spotify.com/track/67CX2TCjTzcfOVLG37MqYC) | [Borsch](https://open.spotify.com/artist/6KKXBoP2i6wgxXX8mUbQcc) | [おつかれさま](https://open.spotify.com/album/1FMFYaEbNu6fRSANvfr8JL) | 3:27 | 2022-08-30 | 2022-09-02 |
 | [おもいつくかぎりのすべて](https://open.spotify.com/track/01EbADTLRUtT9qvfmSXxan) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [おもいつくかぎりのすべて](https://open.spotify.com/album/6H4nCo7arFfNNEDATsdMD2) | 4:36 | 2023-08-22 | 2023-08-30 |
-| [かけおち](https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Dancers Friendly](https://open.spotify.com/album/4j4y6E8RrEGjupLCZIZp21) | 3:03 | 2024-07-24 |  |
+| [かけおち](https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Dancers Friendly](https://open.spotify.com/album/4j4y6E8RrEGjupLCZIZp21) | 3:03 | 2024-07-24 | 2024-08-29 |
 | [からっぽ \(feat\. さらさ\)](https://open.spotify.com/track/7HfAvBz7Vy4nlgqk5n4HbK) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Division](https://open.spotify.com/album/5FbSkATpgmz861U1EGs54M) | 3:50 | 2023-06-27 | 2023-07-26 |
 | [きみのようになれるかな](https://open.spotify.com/track/0Ytmq9kI83vgqdwvBA9uNd) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あこがれ](https://open.spotify.com/album/39AFfvD3CUjQR0QHK7ETWg) | 4:08 | 2023-02-14 | 2023-02-22 |
 | [ごめんね](https://open.spotify.com/track/3k2Cp8MPEWVbjmfDbboFbd) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [ごめんね](https://open.spotify.com/album/0jI1hHT93QEMp9XUdNwJBf) | 3:31 | 2023-04-04 | 2023-04-12 |
@@ -1362,6 +1363,7 @@
 | [夏に溺れたい](https://open.spotify.com/track/3VHHhp7Si9eA8F6AvkrTUM) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf), [Asami Izawa](https://open.spotify.com/artist/4CSFDF5CSlREXqaXG0pGh4) | [夏に溺れたい](https://open.spotify.com/album/3HfFRjMsM5dfUvaE6RfhcK) | 3:31 | 2022-06-30 | 2022-09-30 |
 | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/track/5QZJ0oITXby0ON4JiWSDH6) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [夏の亡霊 feat\. KIRINJI](https://open.spotify.com/album/43QPrf7HouyvP7W1Aw7XCD) | 4:14 | 2023-04-25 | 2023-04-27 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-09-02 | 2024-01-24 |
+| [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 | 2024-08-28 |  |
 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-02-02 | 2023-06-28 |
 | [夢はさめても](https://open.spotify.com/track/6qGRdMmPJzb5hA6eqTegnG) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [夢はさめても](https://open.spotify.com/album/32jcdlCziq8Y8olpXHj2Jc) | 3:41 | 2023-04-04 | 2023-04-06 |
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-26 | 2022-06-24 |

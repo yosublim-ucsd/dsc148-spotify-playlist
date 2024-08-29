@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ">Sio</a> & <a href="https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA">Kid Fonque</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,106 likes - 51 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,109 likes - 51 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

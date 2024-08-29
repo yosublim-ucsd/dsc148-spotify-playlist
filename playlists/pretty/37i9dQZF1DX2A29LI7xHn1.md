@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Central Cee & Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,067,596 likes - 101 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068,002 likes - 101 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

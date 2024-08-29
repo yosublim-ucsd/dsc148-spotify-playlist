@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-432 songs - 22 hr 56 min
+433 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [I Got You](https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [I Got You](https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX) | 3:30 | 2021-12-03 | 2022-01-08 |
 | [I Just Got 2](https://open.spotify.com/track/0v5I3HwpNzrwfl5ffI0RNZ) | [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [I Just Got 2](https://open.spotify.com/album/7f6eZI7qRX6LHzXiuYFqWY) | 2:22 | 2021-12-03 | 2022-01-06 |
 | [I Just Wanna Dance](https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD) | 2:34 | 2021-12-03 | 2022-09-15 |
-| [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2022-11-18 |  |
+| [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2022-11-18 | 2024-08-29 |
 | [I LUV U \(Sunny\)](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [BLENDER](https://open.spotify.com/artist/6IwTZTN2WX3s6jmbSHoBNS), [Ragdoll](https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl) | [I LUV U \(Sunny\)](https://open.spotify.com/album/3TT7K751J6hjcElJckpc9J) | 2:44 | 2024-05-24 |  |
 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 | 2021-12-03 | 2022-01-08 |
 | [I Want It All](https://open.spotify.com/track/3oSCJeOl0XjcpNcigO9vj7) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 3:11 | 2021-12-03 | 2022-01-08 |
@@ -367,6 +367,7 @@
 | [Summertime](https://open.spotify.com/track/5iqlyXZPcfCtKxG5vqgu3Y) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [John Paul Lakes](https://open.spotify.com/artist/3Ke9ubVapReZsiJUiZ51sJ) | [Summertime](https://open.spotify.com/album/1pIkxSiAVdaGSNnDKvfc2W) | 3:51 | 2021-12-03 | 2022-01-08 |
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 | 2023-08-19 |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 |  |
+| [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 | 2024-08-28 |  |
 | [Take Me Back](https://open.spotify.com/track/6tBQwbubOllLrJgkh3utw2) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Take Me Back](https://open.spotify.com/album/5SsKV34TZECeZsU0tAEZb3) | 3:09 | 2021-12-03 | 2022-01-08 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take My Chance](https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0) | 3:18 | 2024-04-19 |  |

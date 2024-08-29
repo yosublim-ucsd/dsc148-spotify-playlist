@@ -77123,6 +77123,24 @@
     },
     {
       "album": {
+        "name": "Take 5",
+        "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191856,
+      "name": "Take 5",
+      "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
+    },
+    {
+      "album": {
         "name": "Talento 1",
         "url": "https://open.spotify.com/album/0HXIPwmEkOiEbt9L55XhWp"
       },

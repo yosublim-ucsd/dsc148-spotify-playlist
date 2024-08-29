@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL)
 
-> Fresh new music by independent artists and labels, featuring Mando Exclusivo\.  Updates every Wednesday.
+> Fresh new music by independent artists and labels, featuring La Cuatiza\.  Updates every Wednesday.
 
-216 songs - 11 hr 33 min
+220 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,9 +68,11 @@
 | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\) \(Mariachi\)](https://open.spotify.com/track/5tH8Te1w2FwlmImxxqwC3k) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Cambio \(Mariachi\) \(Feat\. Grupo Firme\) \(Mariachi\)](https://open.spotify.com/album/5uTECABgpbG1BPXcUqDcwa) | 3:00 | 2023-05-26 | 2024-04-19 |
 | [El Chivo \(feat\. T3r Elemento\)](https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [El Chivo](https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP) | 4:35 | 2022-05-13 | 2024-04-24 |
 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 | 2024-04-24 | 2024-08-08 |
+| [El DF](https://open.spotify.com/track/6tWLWqYXaHbZMMV74Gpelj) | [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [El DF](https://open.spotify.com/album/2nd5sZLpBE8CXEmC2dLlzX) | 2:42 | 2024-08-28 |  |
 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-03-10 | 2024-04-24 |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-12-01 | 2024-04-24 |
 | [El Mañas](https://open.spotify.com/track/6GCJ6s6AODlHYpAGYNRW4c) | [Grupo MVP](https://open.spotify.com/artist/1xfr7QVmJN7w3xpjeT2ndd) | [El Mañas](https://open.spotify.com/album/7uh85cOMhKIOeZd6fgrwpP) | 2:44 | 2024-08-07 |  |
+| [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-28 |  |
 | [El Peine](https://open.spotify.com/track/3iRvVMHgagZIHfnclCqBUJ) | [Daniel De la H](https://open.spotify.com/artist/4kADDt5bRxbPOty8EcApCS), [Juan Olivas](https://open.spotify.com/artist/4hMvVAl5Fd1Cct3sIfBpjS) | [El Peine](https://open.spotify.com/album/1XeKe4JCD4YoYygFnYahWb) | 2:59 | 2024-08-14 |  |
 | [El Perro](https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Perro](https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp) | 2:04 | 2024-04-24 | 2024-08-08 |
 | [El Tocayo](https://open.spotify.com/track/0dXSBVh8fO4U15rWz7A77I) | [Clave Exclusiva](https://open.spotify.com/artist/3djmqRcaEmEqYM3pMLsXod) | [El Tocayo](https://open.spotify.com/album/3DDaPqcmknhqrTfUc3OSVI) | 3:29 | 2024-08-07 |  |
@@ -120,6 +122,7 @@
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-24 | 2024-04-24 |
 | [Lo Hago y Me Cuido](https://open.spotify.com/track/27QObCLAL1PMQauG47mxSL) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Lo Hago y Me Cuido](https://open.spotify.com/album/0A4WikIQethwBCB9ifoLsU) | 2:52 | 2024-08-07 |  |
 | [Malas Decisiones](https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 2:59 | 2022-05-13 | 2024-04-24 |
+| [Mami](https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Mami](https://open.spotify.com/album/4QWnhJfLTrD0fPDmU6SeES) | 3:00 | 2024-08-28 |  |
 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/7wJlEfqBaKiHFU9FFODAne) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro \(Version Deluxe\)](https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX) | 2:25 | 2024-04-24 | 2024-08-08 |
 | [Me Extraño](https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:11 | 2022-09-02 | 2024-04-24 |
 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 | 2023-05-05 | 2024-04-24 |
@@ -128,6 +131,7 @@
 | [Mejor Que Él](https://open.spotify.com/track/7LPD3A0BKXL5AndAizpL8y) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8) | [Mejor Que Él](https://open.spotify.com/album/3lIyzv5YIy7HY0dS5XIZpR) | 3:49 | 2024-08-07 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-09-08 | 2024-04-24 |
 | [Mi Suerte](https://open.spotify.com/track/2yJ7IgjALexSVjYwajKmJe) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [Mi Suerte](https://open.spotify.com/album/0vOgrIqqLxO1OXEvyow4l3) | 3:48 | 2024-08-07 |  |
+| [Miedo](https://open.spotify.com/track/1ttyQDwjNVzxAaH27aE2AD) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Miedo](https://open.spotify.com/album/70ARhx6oOzZ3nac3CTx0Lz) | 3:36 | 2024-08-28 |  |
 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 | 2023-09-08 | 2024-04-24 |
 | [Morir Y Existir](https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:05 | 2024-04-24 | 2024-08-08 |
 | [Mujer De Piedra](https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:53 | 2024-04-24 | 2024-08-08 |

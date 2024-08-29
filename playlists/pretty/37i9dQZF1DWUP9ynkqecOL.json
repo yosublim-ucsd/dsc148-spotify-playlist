@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 22891,
+  "num_followers": 22901,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Susurro (Matanza Remix)",
-        "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        },
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 302368,
-      "name": "Susurro - Matanza Remix",
-      "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 251106,
       "name": "La Colina de la Vida (feat. Chancha V\u00eda Circuito)",
       "url": "https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Susurro (Matanza Remix)",
+        "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        },
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 302368,
+      "name": "Susurro - Matanza Remix",
+      "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Campo",
         "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
-      },
-      "artists": [
-        {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        }
-      ],
-      "duration_ms": 379200,
-      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
-      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Yemanja (Chancha Via Circuito Remix)",
         "url": "https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
       },
       "artists": [
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
         }
       ],
-      "duration_ms": 290760,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+      "duration_ms": 379200,
+      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
+      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -711,18 +711,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+        "name": "Wal\u00fcng II",
+        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
       "artists": [
         {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+          "name": "El Extravagante",
+          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
+        },
+        {
+          "name": "Camilo Zanetti",
+          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
         }
       ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+      "duration_ms": 244000,
+      "name": "Baile De M\u00e1scaras",
+      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -787,22 +791,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Wal\u00fcng II",
-        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
       },
       "artists": [
         {
-          "name": "El Extravagante",
-          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
-        },
-        {
-          "name": "Camilo Zanetti",
-          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Baile De M\u00e1scaras",
-      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "La L\u00ednea Del Rio (Remix)",
         "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 546568,
       "name": "La L\u00ednea Del Rio - Remix",
       "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/5BOYpCrtxsqlMVGqD0x39R"
       },
@@ -1055,6 +1071,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "El tiempo de las cosas que frenan",
+        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
+      },
+      "artists": [
+        {
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 300250,
+      "name": "El tiempo de las cosas que frenan",
+      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Tierra Natal (Barzo Remix)",
         "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
@@ -1079,22 +1115,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "El tiempo de las cosas que frenan",
-        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
       },
       "artists": [
         {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
         }
       ],
-      "duration_ms": 300250,
-      "name": "El tiempo de las cosas que frenan",
-      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1119,38 +1151,6 @@
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
-      },
-      "artists": [
-        {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
-        }
-      ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2024-07-19 03:00:00",

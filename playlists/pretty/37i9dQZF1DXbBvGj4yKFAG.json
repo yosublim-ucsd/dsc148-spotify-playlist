@@ -1,12 +1,12 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 94240,
+  "num_followers": 94277,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7PvAAAAACixFMQGlY2Buavy4J+wCPp",
+  "snapshot_id": "Zs/PCwAAAABfkxMti9e4M58W7nHjUWZv",
   "tracks": [
     {
       "added_at": "2024-08-16 04:04:12",
@@ -23,6 +23,22 @@
       "duration_ms": 206386,
       "name": "Word",
       "url": "https://open.spotify.com/track/4M6x3QboBSckK3j0rNxYJQ"
+    },
+    {
+      "added_at": "2024-08-29 01:29:47",
+      "album": {
+        "name": "Come Back To Me [Demo]",
+        "url": "https://open.spotify.com/album/5AwJhUSuoCdvE2Fp5BHRER"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 127832,
+      "name": "Tears In The Typing Pool [Demo]",
+      "url": "https://open.spotify.com/track/4I14GF67E3kfWbb7nb9r3b"
     },
     {
       "added_at": "2024-07-05 22:15:55",

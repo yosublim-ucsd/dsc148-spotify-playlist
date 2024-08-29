@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: マルシィ
 
-613 songs - 1 day 11 hr 32 min
+614 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [ノスタルジア](https://open.spotify.com/track/4UUOhghk5XjgIFEu57s2CZ) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ノスタルジア](https://open.spotify.com/album/1s6AnoQ2kdFacXjzVoWfwt) | 2:46 | 2024-08-22 |  |
 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 | 2024-07-16 |  |
 | [ハニートラップ](https://open.spotify.com/track/74CwJftVUW6rfZzjSpUYtL) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ハニートラップ](https://open.spotify.com/album/2nJWHjKuLSpz5mffWM6Ojm) | 3:25 | 2024-07-09 |  |
-| [ハミング](https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ハミング](https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw) | 3:39 | 2024-06-04 |  |
+| [ハミング](https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ハミング](https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw) | 3:39 | 2024-06-04 | 2024-08-29 |
 | [ハートブレイク・ダンスミュージック](https://open.spotify.com/track/1HfT1AF5VNwMLDHf6A0Vwi) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [星巡り、君に金星](https://open.spotify.com/album/3NsnN2tlsf5jrqB9Qj2CMS) | 2:48 | 2024-01-16 | 2024-02-12 |
 | [ハードモード](https://open.spotify.com/track/71MJ9Tzph2XWjKpqZI2AsI) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [ディスコの卵](https://open.spotify.com/album/5abpmCp73IMXcZ1ezGqQrh) | 4:16 | 2024-05-21 | 2024-05-29 |
 | [バイマイダーリン](https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [バイマイダーリン](https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA) | 2:40 | 2024-04-16 | 2024-05-08 |
@@ -449,6 +449,7 @@
 | [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 | 2024-02-21 |
 | [ブービー・プライズ](https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブービー・プライズ](https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT) | 4:01 | 2023-12-12 | 2024-01-11 |
 | [プランA](https://open.spotify.com/track/6uotAIXMVlxBnZITXs5dmm) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [プランA](https://open.spotify.com/album/0xw4GL428TN0eAioPvBIFo) | 3:36 | 2024-07-16 |  |
+| [プロポーズ](https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [プロポーズ](https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P) | 3:54 | 2024-08-28 |  |
 | [ベガとアルタイル](https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル](https://open.spotify.com/album/005VNX1PTHOlstwc3STv09) | 3:55 | 2024-06-26 |  |
 | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/track/02X171LzwfnxmzcMn2BYuG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [ベランダ feat\. 戦慄かなの](https://open.spotify.com/album/1bPXXUszurgUndYpS540rI) | 3:28 | 2024-02-13 | 2024-02-15 |
 | [ペアリング](https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ペアリング](https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP) | 3:09 | 2024-02-28 | 2024-05-01 |

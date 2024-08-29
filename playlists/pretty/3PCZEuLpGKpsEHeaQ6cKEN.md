@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Reinier Zonneveld
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,181 likes - 236 songs - 12 hr 38 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,204 likes - 236 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

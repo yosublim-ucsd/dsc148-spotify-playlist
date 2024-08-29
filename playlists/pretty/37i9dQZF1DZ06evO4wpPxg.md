@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,862 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 |
 | 50 | [Children of Zion](https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 7:09 |
 
-Snapshot ID: `ZsvFgAAAAACCfKeVqK3Z4Rrjt7rZ+bfq`
+Snapshot ID: `ZsvFgAAAAAC8gxf+R0jucAu2+/5N/FrS`

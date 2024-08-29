@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 219328,
       "name": "Lucky Color",
       "url": "https://open.spotify.com/track/4G79qDjWXpgNxfuqfC8cU7"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 132472,
       "name": "My lovely killer",
       "url": "https://open.spotify.com/track/0l9OsLo35t2HgSqLkJMT4G"
@@ -5673,6 +5673,24 @@
     },
     {
       "album": {
+        "name": "Inferno & More Hits",
+        "url": "https://open.spotify.com/album/4zNEbWExHkXbRIfd6VPsJ7"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203149,
+      "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/49e13ohEsiacRnFK3AoiKu"
+    },
+    {
+      "album": {
         "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
       },
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5LkmpgQYtwHtuvASgnLBe1"
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 219328,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
       "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
@@ -6720,7 +6738,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 132472,
       "name": "\u521d\u604b\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"
@@ -7124,7 +7142,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 224804,
       "name": "\u602a\u7363\u306e\u82b1\u5504",
       "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"
@@ -7842,6 +7860,28 @@
     {
       "album": {
         "name": "Inferno & More Hits",
+        "url": "https://open.spotify.com/album/4zNEbWExHkXbRIfd6VPsJ7"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        },
+        {
+          "name": "Sonoko Inoue",
+          "url": "https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307120,
+      "name": "\u70b9\u63cf\u306e\u5504",
+      "url": "https://open.spotify.com/track/2JDKWwLkdsLocfUxKtKrIc"
+    },
+    {
+      "album": {
+        "name": "Inferno & More Hits",
         "url": "https://open.spotify.com/album/6S3xkUk67SSNzWhGDoKyt5"
       },
       "artists": [
@@ -7856,7 +7896,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 307120,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/7Md0Rk4s9khBtVpSD03bWl"

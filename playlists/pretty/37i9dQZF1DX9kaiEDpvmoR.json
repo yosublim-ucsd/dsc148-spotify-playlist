@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92190,
+  "num_followers": 92187,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Hoppas du m\u00e5r bra",
-        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Hoppas du m\u00e5r bra",
-      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Hoppas du m\u00e5r bra",
+        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Hoppas du m\u00e5r bra",
+      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Bar Thinking",
         "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 185286,
       "name": "Bar Thinking",
       "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -647,22 +663,6 @@
       "duration_ms": 140533,
       "name": "We're In This Together",
       "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
         }
       ],
-      "duration_ms": 237000,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -843,50 +843,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Roll On Buddy",
-        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
       },
       "artists": [
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Roll On Buddy",
-      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Vill ha mer (2024 Version)",
-        "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
-      },
-      "artists": [
-        {
-          "name": "Nordman",
-          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Vill ha mer - 2024 Version",
-      "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 163984,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
+      "duration_ms": 237000,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -907,18 +875,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Mordbrand",
-        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
+        "name": "Vill ha mer (2024 Version)",
+        "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
       },
       "artists": [
         {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Nordman",
+          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
         }
       ],
-      "duration_ms": 218103,
-      "name": "Mordbrand",
-      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
+      "duration_ms": 164880,
+      "name": "Vill ha mer - 2024 Version",
+      "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -935,6 +903,38 @@
       "duration_ms": 207360,
       "name": "Flowers at a Funeral",
       "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Mordbrand",
+        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 218103,
+      "name": "Mordbrand",
+      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Min Elsa",
+        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
+      },
+      "artists": [
+        {
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+        }
+      ],
+      "duration_ms": 172602,
+      "name": "Min Elsa",
+      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "En bruten fj\u00e4der",
         "url": "https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 245986,
       "name": "En bruten fj\u00e4der",
       "url": "https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Min Elsa",
-        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
-      },
-      "artists": [
-        {
-          "name": "Klara Tuva",
-          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
-        }
-      ],
-      "duration_ms": 172602,
-      "name": "Min Elsa",
-      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1103,6 +1103,42 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
+      },
+      "artists": [
+        {
+          "name": "Sofi Bonde",
+          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
+        }
+      ],
+      "duration_ms": 224402,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
       },
@@ -1131,26 +1167,6 @@
       "duration_ms": 237706,
       "name": "En k\u00e4rlek sj\u00e4lv",
       "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
-      },
-      "artists": [
-        {
-          "name": "Sofi Bonde",
-          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
-        }
-      ],
-      "duration_ms": 224402,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
         "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
       },
@@ -1223,26 +1223,6 @@
       "duration_ms": 297895,
       "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
       "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "I Will See You",
-        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "I Will See You",
-      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1279,22 +1259,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Are You Ok",
-        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "Are You Ok",
-      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Peaceful Easy Feeling",
         "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
       },
@@ -1307,6 +1271,42 @@
       "duration_ms": 171038,
       "name": "Peaceful Easy Feeling",
       "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "I Will See You",
+        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "I Will See You",
+      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Are You Ok",
+        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "Are You Ok",
+      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
     },
     {
       "added_at": "2024-08-22 22:00:00",

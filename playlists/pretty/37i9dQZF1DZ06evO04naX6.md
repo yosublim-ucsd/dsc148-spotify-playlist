@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 ### [This Is Yandel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04naX6)
 
-> This Is Yandel\. Los temas esenciales, todos en una lista.
+> This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,895 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,917 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 50 | [Trofeo](https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:42 |
 | 51 | [La Calle Me Lo Pidio](https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 3:05 |
 
-Snapshot ID: `ZsvFgAAAAADEitubCMmMGpdywtroCp41`
+Snapshot ID: `ZsvFgAAAAAAntWhPr/xm4a0vwE6JgqmK`

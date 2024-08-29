@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This is Emei แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This Is Emei\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,171 likes - 23 songs - 54 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,181 likes - 23 songs - 54 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 22 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 |
 | 23 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 
-Snapshot ID: `ZsvFgAAAAAD6756TNyzxIX60LzwrUxCN`
+Snapshot ID: `ZsvFgAAAAACVCWh35vV6eZUdTs+JMCzZ`

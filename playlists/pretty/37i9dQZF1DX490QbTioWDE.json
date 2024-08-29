@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Eugenia Marquez & Angela Leiva.",
-  "num_followers": 711967,
+  "num_followers": 712077,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Cuidado Que Te Supero",
-        "url": "https://open.spotify.com/album/0qNhZHGPeTOdyvsSC1vcsd"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 168980,
-      "name": "Cuidado Que Te Supero",
-      "url": "https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Cuidado Que Te Supero",
+        "url": "https://open.spotify.com/album/0qNhZHGPeTOdyvsSC1vcsd"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 168980,
+      "name": "Cuidado Que Te Supero",
+      "url": "https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "El M\u00e1s Popular - Remix",
+        "url": "https://open.spotify.com/album/3LP8U2XNMpWVk1ICV8BU3w"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 189032,
+      "name": "El M\u00e1s Popular - Remix",
+      "url": "https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Desapar\u00e9cete (En Vivo)",
         "url": "https://open.spotify.com/album/7fIrnJJxm9bYJgUoakXdqG"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "El M\u00e1s Popular - Remix",
-        "url": "https://open.spotify.com/album/3LP8U2XNMpWVk1ICV8BU3w"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 189032,
-      "name": "El M\u00e1s Popular - Remix",
-      "url": "https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1163,18 +1163,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "El No Va a Venir",
-        "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
+        "name": "Atr\u00e9vete",
+        "url": "https://open.spotify.com/album/56CyDTKDVVyUgrKmXqAbq9"
       },
       "artists": [
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
-      "duration_ms": 135287,
-      "name": "El No Va a Venir",
-      "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
+      "duration_ms": 197077,
+      "name": "Atr\u00e9vete",
+      "url": "https://open.spotify.com/track/0g9ThXviJTdKDhj8StP5EE"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Atr\u00e9vete",
-        "url": "https://open.spotify.com/album/56CyDTKDVVyUgrKmXqAbq9"
+        "name": "El No Va a Venir",
+        "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
       },
       "artists": [
         {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 197077,
-      "name": "Atr\u00e9vete",
-      "url": "https://open.spotify.com/track/0g9ThXviJTdKDhj8StP5EE"
+      "duration_ms": 135287,
+      "name": "El No Va a Venir",
+      "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 208906,
       "name": "Amor Infiel",
       "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
+        }
+      ],
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Dejame Intentar",
         "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos (En Vivo)",
-        "url": "https://open.spotify.com/album/7kv36MMXX9UCBezzFhdiTM"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        },
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 547541,
-      "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos - En Vivo",
-      "url": "https://open.spotify.com/track/5CNL6wtodffbjXzTwKzYS2"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Te extra\u00f1o",
         "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
       },
@@ -1563,38 +1543,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "De Nada",
-        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
-      },
-      "artists": [
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 197565,
-      "name": "De Nada",
-      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "No Dire Que Si",
         "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
       },
@@ -1615,6 +1563,58 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 197565,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos (En Vivo)",
+        "url": "https://open.spotify.com/album/7kv36MMXX9UCBezzFhdiTM"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 547541,
+      "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos - En Vivo",
+      "url": "https://open.spotify.com/track/5CNL6wtodffbjXzTwKzYS2"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1627,26 +1627,6 @@
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Arrancarte de M\u00ed",
-        "url": "https://open.spotify.com/album/5mZ6yPIMdL8rii7bT2WBhp"
-      },
-      "artists": [
-        {
-          "name": "Lautaro LR",
-          "url": "https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8"
-        },
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 179172,
-      "name": "Arrancarte de M\u00ed",
-      "url": "https://open.spotify.com/track/0RxjDDZj47Q0k7nD4aBGsi"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1687,6 +1667,58 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Arrancarte de M\u00ed",
+        "url": "https://open.spotify.com/album/5mZ6yPIMdL8rii7bT2WBhp"
+      },
+      "artists": [
+        {
+          "name": "Lautaro LR",
+          "url": "https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 179172,
+      "name": "Arrancarte de M\u00ed",
+      "url": "https://open.spotify.com/track/0RxjDDZj47Q0k7nD4aBGsi"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "No Es Lo Que Dices",
+        "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "No Es Lo Que Dices",
+      "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Luis",
         "url": "https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN"
       },
@@ -1719,38 +1751,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "No Es Lo Que Dices",
-        "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 192103,
-      "name": "No Es Lo Que Dices",
-      "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/5thIpx6IS6laCgbVeRsu0H"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 178943,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/3OYiGZYV6ZoRrqN1mwr1Ie"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 211250,
       "name": "La Vagancia Cuartetera",
       "url": "https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2024-08-23 03:00:00",

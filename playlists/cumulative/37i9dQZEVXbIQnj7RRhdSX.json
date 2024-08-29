@@ -10105,6 +10105,28 @@
     },
     {
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
         "name": "Nuda10 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3oz5WsYXsqTN6H7H3M46LW"
       },
@@ -16354,7 +16376,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/7BeZyW4hVjeCocSLwDrCME"
@@ -36325,6 +36347,24 @@
     },
     {
       "album": {
+        "name": "Take 5",
+        "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191856,
+      "name": "Take 5",
+      "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
+    },
+    {
+      "album": {
         "name": "RAVE, ECLISSI",
         "url": "https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I"
       },
@@ -36504,7 +36544,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 143506,
       "name": "TAXI SULLA LUNA (feat. Emma & Takagi & Ketra)",
       "url": "https://open.spotify.com/track/2MHGhfiCXvfeo3ZQ3RyG0B"

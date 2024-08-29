@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 ### [This Is Los Gemelos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17JzNU)
 
-> This Is Los Gemelos De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,486 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,503 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 50 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 |
 | 51 | [Nos Traicionamos](https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Nos Traicionamos](https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2) | 4:43 |
 
-Snapshot ID: `ZsvFgAAAAAB2WWUimTL+GqimtXlx+dtF`
+Snapshot ID: `ZsvFgAAAAABG11Po1/WYsPr7qg0FSZBm`

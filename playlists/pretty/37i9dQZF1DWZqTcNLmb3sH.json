@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Royal\n",
-  "num_followers": 58751,
+  "num_followers": 58758,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs2CzwAAAAARnJ32/4CZv3E0dU0jVwf0",
+  "snapshot_id": "Zs9tSAAAAAAkrkzIEVhbRkM1+UxvjkV/",
   "tracks": [
     {
       "added_at": "2024-08-14 12:15:59",
@@ -73,6 +73,46 @@
       "url": "https://open.spotify.com/track/6nMfRRjmIPMY3w9KLfZn6D"
     },
     {
+      "added_at": "2024-08-28 18:29:58",
+      "album": {
+        "name": "Kaathavaraayan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/48IEuVs0O4o365vyd2q1vz"
+      },
+      "artists": [
+        {
+          "name": "Narayanan Ravishankar",
+          "url": "https://open.spotify.com/artist/09TcZcAm54rxRfJonoa8PE"
+        },
+        {
+          "name": "Pavan Bhat",
+          "url": "https://open.spotify.com/artist/7iAsi6Rr4eZ9ZbbhlgMsyq"
+        }
+      ],
+      "duration_ms": 210768,
+      "name": "Raayan Rumble",
+      "url": "https://open.spotify.com/track/45aY1KBMrntBeRL01WHIgH"
+    },
+    {
+      "added_at": "2024-08-27 07:39:47",
+      "album": {
+        "name": "Sa Ri Ma Pa - From \"Surya's Saturday (Kannada)\"",
+        "url": "https://open.spotify.com/album/0htszhQOnH430Y49p4i9uR"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        }
+      ],
+      "duration_ms": 278851,
+      "name": "Sa Ri Ma Pa (From \"Surya's Saturday (Kannada)\")",
+      "url": "https://open.spotify.com/track/6cerKLtZSXTIyW7tfbAjCP"
+    },
+    {
       "added_at": "2024-08-22 05:22:29",
       "album": {
         "name": "Double ISMART (Kannada)",
@@ -101,44 +141,96 @@
       "url": "https://open.spotify.com/track/4P3xUiFpxD3T3niGugmLXT"
     },
     {
-      "added_at": "2024-08-27 07:37:09",
+      "added_at": "2024-08-28 18:32:21",
       "album": {
-        "name": "Kali Agiru (From \"Kapati\")",
-        "url": "https://open.spotify.com/album/5EC3dhWKujG0yg7ViCcELY"
+        "name": "Vidyarthi Vidyarthiniyare",
+        "url": "https://open.spotify.com/album/2e5L1Ej1UHmmRqpv3qe8NH"
       },
       "artists": [
         {
-          "name": "Arpith Gowda",
-          "url": "https://open.spotify.com/artist/1nawgXH7klbP2VoUR3Ybae"
+          "name": "Vijeth Krishna",
+          "url": "https://open.spotify.com/artist/5bqjClcwNAPtn90N8wSdoy"
         },
         {
-          "name": "Johan Shevanesh",
-          "url": "https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF"
+          "name": "Keerthana Chandru",
+          "url": "https://open.spotify.com/artist/7mkHtprXxNu4EdPFzIGOPc"
+        },
+        {
+          "name": "Sunaina Benne",
+          "url": "https://open.spotify.com/artist/1jBfjTbOOlAoSIBCLDYIcp"
         }
       ],
-      "duration_ms": 192719,
-      "name": "Kali Agiru (From \"Kapati\")",
-      "url": "https://open.spotify.com/track/2yt6XmbILJTQBAs6u8re1l"
+      "duration_ms": 223076,
+      "name": "We Are The Bad Boys",
+      "url": "https://open.spotify.com/track/2eGv6ray3KOT9jRKm9aajx"
     },
     {
-      "added_at": "2024-08-27 07:39:47",
+      "added_at": "2024-08-28 18:28:09",
       "album": {
-        "name": "Sa Ri Ma Pa - From \"Surya's Saturday (Kannada)\"",
-        "url": "https://open.spotify.com/album/0htszhQOnH430Y49p4i9uR"
+        "name": "Salma (From \"Aho Vikramaarka\")(Kannada)",
+        "url": "https://open.spotify.com/album/4Aeaxn6cR50gazidkj7s5F"
       },
       "artists": [
         {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
         },
         {
-          "name": "P V N S Rohit",
-          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
         }
       ],
-      "duration_ms": 278851,
-      "name": "Sa Ri Ma Pa (From \"Surya's Saturday (Kannada)\")",
-      "url": "https://open.spotify.com/track/6cerKLtZSXTIyW7tfbAjCP"
+      "duration_ms": 226903,
+      "name": "Salma (From \"Aho Vikramaarka\")(Kannada)",
+      "url": "https://open.spotify.com/track/6qj67DfVXVqTdLBYl8am4G"
+    },
+    {
+      "added_at": "2024-08-28 18:32:21",
+      "album": {
+        "name": "Vidyarthi Vidyarthiniyare",
+        "url": "https://open.spotify.com/album/2e5L1Ej1UHmmRqpv3qe8NH"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Vijeth Krishna",
+          "url": "https://open.spotify.com/artist/5bqjClcwNAPtn90N8wSdoy"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Student Party",
+      "url": "https://open.spotify.com/track/18bEtr0jCjLkbwAzUn98Hv"
+    },
+    {
+      "added_at": "2024-08-28 18:29:58",
+      "album": {
+        "name": "Kaathavaraayan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/48IEuVs0O4o365vyd2q1vz"
+      },
+      "artists": [
+        {
+          "name": "Ajay Krishna",
+          "url": "https://open.spotify.com/artist/0aA9hKuu6WOzgiamn2Eg5C"
+        },
+        {
+          "name": "Aparna Narayanan",
+          "url": "https://open.spotify.com/artist/6URiVqjFJ8E8K1HmktPbgt"
+        },
+        {
+          "name": "Pavan Bhat",
+          "url": "https://open.spotify.com/artist/7iAsi6Rr4eZ9ZbbhlgMsyq"
+        }
+      ],
+      "duration_ms": 246002,
+      "name": "Nee Miramirane",
+      "url": "https://open.spotify.com/track/4G842sOFxJ2O9Q7gLVvasH"
     },
     {
       "added_at": "2024-08-06 12:30:20",
@@ -179,6 +271,26 @@
       "duration_ms": 214095,
       "name": "Kaadadeye Hegirali (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/1onhyMSonHxMyOv0fk2YqT"
+    },
+    {
+      "added_at": "2024-08-27 07:37:09",
+      "album": {
+        "name": "Kali Agiru (From \"Kapati\")",
+        "url": "https://open.spotify.com/album/5EC3dhWKujG0yg7ViCcELY"
+      },
+      "artists": [
+        {
+          "name": "Arpith Gowda",
+          "url": "https://open.spotify.com/artist/1nawgXH7klbP2VoUR3Ybae"
+        },
+        {
+          "name": "Johan Shevanesh",
+          "url": "https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF"
+        }
+      ],
+      "duration_ms": 192719,
+      "name": "Kali Agiru (From \"Kapati\")",
+      "url": "https://open.spotify.com/track/2yt6XmbILJTQBAs6u8re1l"
     },
     {
       "added_at": "2024-08-20 14:14:18",
@@ -260,8 +372,8 @@
       },
       "artists": [
         {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         }
       ],
       "duration_ms": 176474,
@@ -904,8 +1016,8 @@
           "url": "https://open.spotify.com/artist/6kjkFPnd0lcGfD3hQpDWhL"
         },
         {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
         }
       ],
       "duration_ms": 191076,
@@ -1639,134 +1751,6 @@
       "duration_ms": 204113,
       "name": "Don't Worry Baby Chinnamma (From \"Bheema\")",
       "url": "https://open.spotify.com/track/65Y24BKzG2wnRVM7vW8eud"
-    },
-    {
-      "added_at": "2024-06-28 13:32:04",
-      "album": {
-        "name": "Blink (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3BNfHQIXMRshatry0PbtZR"
-      },
-      "artists": [
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
-        },
-        {
-          "name": "Kata",
-          "url": "https://open.spotify.com/artist/0NJDqxm6wskTXYQfP2FVEm"
-        },
-        {
-          "name": "Srinidhi Bengaluru",
-          "url": "https://open.spotify.com/artist/6QUpifmUA71MLShBfrzZzh"
-        },
-        {
-          "name": "Kaumudhi",
-          "url": "https://open.spotify.com/artist/7Bkv9jtPIcuh6kd3ddS648"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Aaganthuka - Blink Anthem (From \"Blink\")",
-      "url": "https://open.spotify.com/track/704C24oblUrlyZh87uSFb3"
-    },
-    {
-      "added_at": "2024-07-04 06:13:56",
-      "album": {
-        "name": "Bhairava Anthem (From \"Kalki 2898 AD\") (Kannada)",
-        "url": "https://open.spotify.com/album/3kIoDfe2JqKAGSJipYJsKy"
-      },
-      "artists": [
-        {
-          "name": "Vijaynarain",
-          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 149806,
-      "name": "Bhairava Anthem (From \"Kalki 2898 AD\") (Kannada)",
-      "url": "https://open.spotify.com/track/32gInyb6HvXw0Qj86NAZDG"
-    },
-    {
-      "added_at": "2024-07-03 09:05:44",
-      "album": {
-        "name": "Nakshatra Ondu (From \"Jigar\")",
-        "url": "https://open.spotify.com/album/6g0Ak5HjpWOLxUa2ARMKev"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Sunidhi Ganesh",
-          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
-        },
-        {
-          "name": "Ritvik Muralidhar",
-          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
-        }
-      ],
-      "duration_ms": 218852,
-      "name": "Nakshatra Ondu (From \"Jigar\")",
-      "url": "https://open.spotify.com/track/4VXd4eaSVlFGML8P4TrFEv"
-    },
-    {
-      "added_at": "2024-07-01 12:40:21",
-      "album": {
-        "name": "SteppaMaar (From \"Double ISMART \")(Kannada)",
-        "url": "https://open.spotify.com/album/70kOrxctNEWiOaGY51PWxX"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Kaushik Harsha",
-          "url": "https://open.spotify.com/artist/4zTNqvFFrgCFjsZ3CArDso"
-        },
-        {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
-        },
-        {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
-        }
-      ],
-      "duration_ms": 232221,
-      "name": "SteppaMaar (From \"Double ISMART \")(Kannada)",
-      "url": "https://open.spotify.com/track/3kLBHcjJIkbIq60qznve2v"
-    },
-    {
-      "added_at": "2024-06-28 13:32:04",
-      "album": {
-        "name": "Blink (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3BNfHQIXMRshatry0PbtZR"
-      },
-      "artists": [
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
-        },
-        {
-          "name": "Jayanth Kaikini",
-          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Sariva Samaya - Soul of Blink (From \"Blink\")",
-      "url": "https://open.spotify.com/track/5OFgZhwX6tTYaXmHrbizFS"
     }
   ],
   "unique_name": "Latest Kannada",

@@ -2,7 +2,7 @@
 
 ### [This Is Isabel LaRosa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8)
 
-> This is Isabel LaRosa แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This is Isabel LaRosa\. Todos os maiores hits em uma só playlist.
 
 21 songs - 50 min 7 sec
 

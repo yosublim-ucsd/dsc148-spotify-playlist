@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Imanbek, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,806 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,925 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

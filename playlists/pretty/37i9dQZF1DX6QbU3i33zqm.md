@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QbU3i33zqm.md) - [plain]
 
 > El mejor Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,121 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,122 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QbU3i33zqm.md) - [plain]
 | 83 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
 | 84 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 |
 | 85 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 |
-| 86 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
-| 87 | [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 |
+| 86 | [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 |
+| 87 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 |
 | 88 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 |
 | 89 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
 | 90 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QbU3i33zqm.md) - [plain]
 | 96 | [Pressure \(feat\. Tove Lo\)](https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Pressure \(feat\. Tove Lo\)](https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN) | 2:24 |
 | 97 | [REMEDY](https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [REMEDY](https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe) | 3:10 |
 | 98 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
-| 99 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 |
-| 100 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 |
+| 99 | [Me Provocas](https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x) | 2:27 |
+| 100 | [Believe \(feat\. Goodboys\)](https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Believe \(feat\. Goodboys\)](https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx) | 3:08 |
 
 Snapshot ID: `ZsbsNQAAAABrZBKwWPpYDs6jCnRsShzE`

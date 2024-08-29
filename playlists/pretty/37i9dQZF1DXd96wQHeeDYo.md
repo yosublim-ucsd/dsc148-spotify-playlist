@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Tiago PZK, Anitta, Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,128 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,146 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 42 | [Lua de Santana \- Fugitivo Vol\. 25](https://open.spotify.com/track/2OzaUBeFMSteGxd3sHk8dl) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam) | [Lua de Santana \- Fugitivo Vol\. 25](https://open.spotify.com/album/65EC6xGFKYwsHErMUyW6d3) | 2:34 |
 | 43 | [Wantantan](https://open.spotify.com/track/4UpOKlOtCQExAfwpgJremZ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 2:51 |
 | 44 | [Llorando x 1](https://open.spotify.com/track/4e1JJIj5eQlBiXVB4i2IA3) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Llorando x 1, No Se Preocupe](https://open.spotify.com/album/2C5jOcTpeYK9wAl0vNi3xT) | 2:30 |
-| 45 | [23](https://open.spotify.com/track/2dYTN3zGnJR8BGORUL8P2N) | [DIAZZ TM](https://open.spotify.com/artist/0RcY4NqjmxH9C3fxmV896d), [Balaguer](https://open.spotify.com/artist/2DQpVJxY8N8dHBXEztTYyz), [Jordán](https://open.spotify.com/artist/5lysF0N87Tl3AXSeAdAhLx) | [NFTL](https://open.spotify.com/album/6r8DDVdAuLC1UzfG0s981X) | 2:52 |
+| 45 | [23](https://open.spotify.com/track/2dYTN3zGnJR8BGORUL8P2N) | [DIAZZ TM](https://open.spotify.com/artist/0RcY4NqjmxH9C3fxmV896d), [Balaguer](https://open.spotify.com/artist/2DQpVJxY8N8dHBXEztTYyz), [Jordán](https://open.spotify.com/artist/5lysF0N87Tl3AXSeAdAhLx) | [NTFL](https://open.spotify.com/album/6r8DDVdAuLC1UzfG0s981X) | 2:52 |
 | 46 | [Angels in Tibet](https://open.spotify.com/track/0EXgkL6fM28ywdhyUzeRMD) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/2DQrDuW6WP8KcK8LrOVfEN) | 2:22 |
 | 47 | [Funk Rave](https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:27 |
 | 48 | [Vai Sentando](https://open.spotify.com/track/4UlkRoC6xPCDXehTyW21BF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Vai Sentando \(FAST X Soundtrack\)](https://open.spotify.com/album/08rwl7AoPbs22LGky7hgdu) | 2:14 |

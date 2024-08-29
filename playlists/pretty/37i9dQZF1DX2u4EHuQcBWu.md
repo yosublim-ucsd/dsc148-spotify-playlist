@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,985 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,021 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 36 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 |
 | 37 | [Millones](https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Almismotiempo](https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ) | 3:42 |
 | 38 | [Más Poder](https://open.spotify.com/track/3oF7I6xfM2ALb4rJ6d3mTt) | [La Sarita](https://open.spotify.com/artist/4FclbIRVpHDYM9RaQpQHCR) | [Más Poder](https://open.spotify.com/album/6q5z4VFO2RvUcFs7v7msYN) | 4:15 |
-| 39 | [Patria y Vida](https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm) | [Patria y Vida](https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa) | 4:05 |
+| 39 | [Si Me Matan](https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:10 |
 | 40 | [Latinoamérica Es un Pueblo al Sur de Estados Unidos](https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:02 |
-| 41 | [Si Me Matan](https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:10 |
+| 41 | [Patria y Vida](https://open.spotify.com/track/1jOF5X4zw27t9LQltutz9f) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm) | [Patria y Vida](https://open.spotify.com/album/11KmjqP7jS1tb7caxTPYHa) | 4:05 |
 | 42 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 |
 | 43 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
 | 44 | [En Paro](https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 4:32 |

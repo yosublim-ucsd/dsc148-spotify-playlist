@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Blondshell
 
-613 songs - 1 day 10 hr 25 min
+615 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-03-17 | 2024-04-19 |
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-01-19 | 2023-03-04 |
 | [\(You're Better\) Than Ever](https://open.spotify.com/track/4oZbuLXzaXBHKLrMJQq3Ie) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Kiss Yr Frenemies](https://open.spotify.com/album/7MBEDhV5OFYhCq6fkmQNUT) | 2:21 | 2021-03-09 | 2022-01-17 |
+| [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 | 2024-08-23 |  |
 | [17](https://open.spotify.com/track/6M6B25BFwE2h7W5izrDYmD) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [17](https://open.spotify.com/album/2R7HViCC1W5fNTEVYbWVog) | 3:13 | 2022-02-04 | 2022-08-19 |
 | [19 in a Week](https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Young & Naive](https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ) | 3:13 | 2023-01-20 | 2023-05-26 |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-28 | 2022-12-13 |
@@ -111,6 +112,7 @@
 | [Colors](https://open.spotify.com/track/6H45WOrHSreGgU7lIBxFN1) | [The Groans](https://open.spotify.com/artist/4jhD0dxLgux1cB7BN16PlT) | [Colors](https://open.spotify.com/album/70MY74J9ojxYbXzpcSwrXr) | 4:09 | 2021-03-09 | 2022-01-17 |
 | [Come Back To Me](https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Come Back To Me](https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo) | 2:33 | 2024-05-16 | 2024-08-09 |
 | [Commander Trainwreck](https://open.spotify.com/track/5QSX6X9d0wSn6JLWHCrpsR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/2gcoQ0InYl6g9gjNTDuFmp) | 3:08 | 2022-10-06 | 2022-11-18 |
+| [Control](https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Control](https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT) | 3:08 | 2024-08-23 |  |
 | [Couch Surfing](https://open.spotify.com/track/2Dhbsd9p8KVgCCiMvLUHL9) | [The Surfrajettes](https://open.spotify.com/artist/7bsvnY2FZ7P4TR8DAxZzCM) | [Couch Surfing](https://open.spotify.com/album/6bRn5DlJcOiVJb52O7oRcU) | 2:52 | 2021-10-29 | 2022-08-19 |
 | [Cough Up Cherries](https://open.spotify.com/track/3u3y2kYu8gdD2Ej4INb1Fx) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Married](https://open.spotify.com/album/2TG81vZCtpqIxG1DLggcOy) | 2:56 | 2022-04-01 | 2022-08-19 |
 | [Cough Up Cherries](https://open.spotify.com/track/4dsxz4IEl1T3ZmeBoLJ1Ky) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/1ctmJLfcmpgU9RSX5BWgD9) | 2:56 | 2021-10-15 | 2022-07-29 |
@@ -385,7 +387,7 @@
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-08 |  |
 | [Nothing Works](https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5) | 4:12 | 2023-09-15 | 2023-09-28 |
 | [Nothing Works](https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR) | 4:12 | 2023-09-15 | 2024-02-12 |
-| [Nothing Works](https://open.spotify.com/track/2xRJuPKg85jMzqPxjKlMgG) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq) | 4:12 | 2024-03-15 |  |
+| [Nothing Works](https://open.spotify.com/track/2xRJuPKg85jMzqPxjKlMgG) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq) | 4:12 | 2024-03-15 | 2024-08-29 |
 | [Oblivion!](https://open.spotify.com/track/7kbVobcMAcn9tPSjwYG5uT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [All These Dreams](https://open.spotify.com/album/6wIUAvOBQ6riiRHElALRGN) | 3:20 | 2022-08-18 | 2022-09-23 |
 | [Odds Are It's Blue](https://open.spotify.com/track/6ZvXyUlPkuFK04sAqaWY6U) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Odds Are It's Blue](https://open.spotify.com/album/1WHx1beOfbbcKHxBJUOnmd) | 3:04 | 2021-07-30 | 2022-03-11 |
 | [Off My Mind](https://open.spotify.com/track/6Rn74LzUZrzsNSB46uF8ML) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Off My Mind](https://open.spotify.com/album/6QlxMd4KIm1o27F3IyXW5F) | 3:09 | 2021-03-09 | 2022-01-17 |
@@ -503,7 +505,7 @@
 | [Sometimes](https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Sometimes](https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc) | 3:27 | 2023-11-17 | 2024-03-14 |
 | [Sometimes, I Swear](https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Sometimes, I Swear](https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU) | 3:38 | 2023-10-13 | 2024-01-31 |
 | [Sometimes, I Swear](https://open.spotify.com/track/2DJejaWAKa3BTTdwvzKVJO) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:38 | 2024-02-16 | 2024-04-19 |
-| [Spaceman](https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Spaceman](https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie) | 3:52 | 2024-05-31 |  |
+| [Spaceman](https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Spaceman](https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie) | 3:52 | 2024-05-31 | 2024-08-29 |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |
 | [Spilling Yr Guts](https://open.spotify.com/track/6wVjWIoAuJUqizw5MdgzDf) | [Apollo Ghosts](https://open.spotify.com/artist/1kELNMadpWBN7W2moY0h9O) | [Spilling Yr Guts](https://open.spotify.com/album/54jluCmKYHXQp2cii3NOzN) | 2:52 | 2022-01-24 | 2022-08-19 |
 | [SPLAT!](https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [SPLAT!](https://open.spotify.com/album/4jUgvT7VlkhWmpmm6KvtCt) | 2:33 | 2023-10-13 | 2023-10-27 |

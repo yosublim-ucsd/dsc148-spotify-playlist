@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "Then There Was You (From \"The Garfield Movie\")",
-        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Then There Was You - From \"The Garfield Movie\"",
-      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
         "name": "WEEDKILLER",
         "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 255875,
       "name": "Dying Star (feat. Ethel Cain)",
       "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
+        "name": "Then There Was You (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Then There Was You - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "A Call To The Void",
-        "url": "https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "OVER YOUR DEAD BODY",
-      "url": "https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
         "name": "Matriarchy",
         "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 164206,
       "name": "Matriarchy",
       "url": "https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
+        "name": "A Call To The Void",
+        "url": "https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "OVER YOUR DEAD BODY",
+      "url": "https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "breakdown. - Underworld Rework",
-        "url": "https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "breakdown.",
-      "url": "https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
         "name": "Favourite",
         "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 150402,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
+        "name": "breakdown. - Underworld Rework",
+        "url": "https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 163453,
+      "name": "breakdown.",
+      "url": "https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
+        "name": "HENRY'S REVENGE",
+        "url": "https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7"
+      },
+      "artists": [
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "duration_ms": 264446,
+      "name": "HENRY'S REVENGE",
+      "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
         "name": "B.I.L.L.S.",
         "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "HENRY'S REVENGE",
-        "url": "https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7"
+        "name": "Crumbling",
+        "url": "https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o"
       },
       "artists": [
         {
-          "name": "SHERELLE",
-          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+          "name": "Catlea",
+          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
         }
       ],
-      "duration_ms": 264446,
-      "name": "HENRY'S REVENGE",
-      "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
+      "duration_ms": 200699,
+      "name": "Crumbling",
+      "url": "https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 138484,
       "name": "Heaven (feat. Tinashe)",
       "url": "https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
-        "name": "Crumbling",
-        "url": "https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o"
-      },
-      "artists": [
-        {
-          "name": "Catlea",
-          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
-        }
-      ],
-      "duration_ms": 200699,
-      "name": "Crumbling",
-      "url": "https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "You Lucky One",
-        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
         "name": "idc",
         "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "Dancing star",
-        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
+        "name": "You Lucky One",
+        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 181959,
-      "name": "Dancing star",
-      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 202435,
       "name": "Got Weird",
       "url": "https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
+        "name": "Dancing star",
+        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 181959,
+      "name": "Dancing star",
+      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Ultrasound",
-      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
         "name": "Just Come Home With Me Tonight (Live at 45)",
         "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 280322,
       "name": "Just Come Home With Me Tonight - Live at 45",
       "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
+        "name": "Closing The Doors",
+        "url": "https://open.spotify.com/album/3VNK4aXIHIRfZ7gIeJOprB"
+      },
+      "artists": [
+        {
+          "name": "Kelly Maxwell",
+          "url": "https://open.spotify.com/artist/3rQFEyc1F8XXRLNg66wBWz"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Closing The Doors",
+      "url": "https://open.spotify.com/track/5KUyfDw6u3sf5eJLIMXgTS"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
         "name": "Like A Lesson",
         "url": "https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 185973,
       "name": "Cheap Love",
       "url": "https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
-        "name": "Closing The Doors",
-        "url": "https://open.spotify.com/album/3VNK4aXIHIRfZ7gIeJOprB"
-      },
-      "artists": [
-        {
-          "name": "Kelly Maxwell",
-          "url": "https://open.spotify.com/artist/3rQFEyc1F8XXRLNg66wBWz"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Closing The Doors",
-      "url": "https://open.spotify.com/track/5KUyfDw6u3sf5eJLIMXgTS"
     },
     {
       "added_at": "2024-08-12 23:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-08-12 23:00:00",
       "album": {
-        "name": "Real Hot n Naughty",
-        "url": "https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "Felix Mufti",
-          "url": "https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Real Hot n Naughty",
-      "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
-    },
-    {
-      "added_at": "2024-08-12 23:00:00",
-      "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv"
       },
@@ -1683,6 +1663,22 @@
       "duration_ms": 222186,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
+    },
+    {
+      "added_at": "2024-08-12 23:00:00",
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

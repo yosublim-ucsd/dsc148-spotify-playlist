@@ -6,7 +6,7 @@
     "name": "Sally_e713",
     "url": "https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u"
   },
-  "snapshot_id": "AAAE0uQux4C8KaKgZOSf7WUs+kp5IcSL",
+  "snapshot_id": "AAAE1IGt7TSWNFQ66wI9szbEayUcAbP2",
   "tracks": [
     {
       "added_at": "2022-04-11 12:00:45",
@@ -7063,6 +7063,42 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-08-28 04:11:45",
+      "album": {
+        "name": "Cool-Doug, at Night",
+        "url": "https://open.spotify.com/album/4F8znk4P0tcwrbGXUBYycS"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Jacob Jeffries",
+          "url": "https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB"
+        }
+      ],
+      "duration_ms": 212790,
+      "name": "Cool-Doug, at Night",
+      "url": "https://open.spotify.com/track/6vqfGsLHkr6I741MUKl8v7"
+    },
+    {
+      "added_at": "2024-08-28 04:11:50",
+      "album": {
+        "name": "No Rulebook",
+        "url": "https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "duration_ms": 233564,
+      "name": "No Rulebook",
+      "url": "https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3"
     }
   ],
   "unique_name": "main playlist",

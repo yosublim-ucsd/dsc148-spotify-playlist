@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 
 > Favoritlåtar för lugna och sköna stunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,748 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,739 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 42 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
 | 43 | [Misstro](https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Misstro](https://open.spotify.com/album/12jaj0y3yxdY5SFzE2OLjl) | 2:50 |
 | 44 | [Om jag somnar](https://open.spotify.com/track/5cbHWtmFMHukKHMGyEoCbf) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Tid & Tro](https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic) | 3:00 |
-| 45 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 |
-| 46 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
-| 47 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
-| 48 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 |
-| 49 | [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 |
-| 50 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 |
+| 45 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 |
+| 46 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 |
+| 47 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
+| 48 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
+| 49 | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Genom Eld & Vatten \- Spotify Singles](https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq) | 3:06 |
+| 50 | [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 |
 | 51 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 |
 | 52 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 |
 | 53 | [Genom livet](https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Genom livet](https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ) | 2:47 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 88 | [Mellanrum](https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Mellanrum](https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw) | 2:18 |
 | 89 | [Stockholm](https://open.spotify.com/track/6ehSWpWjyuwbTx4yS1nUf7) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Nyanser av liv](https://open.spotify.com/album/5uyC93S9gBbzFQTcFdvnNz) | 1:58 |
 | 90 | [It's a Beautiful Dream](https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 2:53 |
-| 91 | [Fragile Thing](https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fragile Thing](https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj) | 2:48 |
-| 92 | [The Healing](https://open.spotify.com/track/7pDWvRIbO3fDbLMpFjuEtP) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:10 |
+| 91 | [The Healing](https://open.spotify.com/track/7pDWvRIbO3fDbLMpFjuEtP) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:10 |
+| 92 | [Fragile Thing](https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fragile Thing](https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj) | 2:48 |
 | 93 | [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 |
 | 94 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 |
 | 95 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 |
 | 96 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
-| 97 | [Fire Escapes](https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fire Escapes](https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK) | 2:50 |
-| 98 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 |
-| 99 | [Back To My Roots \- Acoustic Version](https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Back To My Roots](https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz) | 3:22 |
-| 100 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 |
+| 97 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 |
+| 98 | [Back To My Roots \- Acoustic Version](https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Back To My Roots](https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz) | 3:22 |
+| 99 | [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 |
+| 100 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 |
 
 Snapshot ID: `Zse04AAAAABVsN/xKNNBbejaAxbo5bIA`

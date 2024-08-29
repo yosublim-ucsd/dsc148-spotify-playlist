@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [グライムス Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> FKAツイッグス, Crystal Castles, Purity Ringなど
+> With FKA twigs, Crystal Castles, Purity Ring and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,355 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,373 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Sheesh \(feat\. Grimes\)](https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:33 |
 | 50 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 
-Snapshot ID: `Zs6SAAAAAAAClifdPixZPdI2WQo2U3Hg`
+Snapshot ID: `Zs/EcgAAAAAF1l54gvhaDNDNnzPA0JwB`

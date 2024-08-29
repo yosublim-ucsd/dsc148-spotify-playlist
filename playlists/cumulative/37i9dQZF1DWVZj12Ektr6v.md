@@ -4,7 +4,7 @@
 
 > To The World, Here is NCT! Hi we are NCT DREAM!
 
-96 songs - 5 hr 24 min
+97 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Puzzle Piece](https://open.spotify.com/track/4hMYovC1APX8ojuANCoeuF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:47 | 2022-03-28 |  |
 | [Quiet Down](https://open.spotify.com/track/3l8JuoE2LHb7hiFo7lKrkh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:08 | 2022-03-28 |  |
 | [Rainbow](https://open.spotify.com/track/2TyDgN8q5NgOuiR8yYyBYj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:51 | 2022-03-28 |  |
+| [Rains in Heaven](https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW) | 3:57 | 2024-08-29 |  |
 | [Replay](https://open.spotify.com/track/0eACCV3ys1LIIxMit2wLWn) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:34 | 2022-03-28 |  |
 | [Rewind](https://open.spotify.com/track/07qSCcSVuVLHIf0gUSrUNW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:04 | 2022-03-28 |  |
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2022-03-28 |  |

@@ -3269,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm"
+      },
+      "artists": [
+        {
+          "name": "LXRY PXNK",
+          "url": "https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t"
+        },
+        {
+          "name": "CHMCL S\u00d8UP",
+          "url": "https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX"
+    },
+    {
+      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/512c9dyPWpLL5M5Nz9Byq3"
       },

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 ### [This Is Passion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MA8us)
 
-> This is Passion\. The essential tracks, all in one playlist.
+> This Is Passion\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,703 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,708 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
 | 50 | [My Heart Is Yours \- Radio Version](https://open.spotify.com/track/1s4YQ8NGWahmewapzQz83s) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Take It All \(Live/Deluxe Edition\)](https://open.spotify.com/album/09FvILATRxaL3eFG9eYnCA) | 4:08 |
 
-Snapshot ID: `ZsvFgAAAAAAW85jRT1N2oT7anCHIcimi`
+Snapshot ID: `ZsvFgAAAAAA1I08bL/IF2I9qmlOQR4HF`

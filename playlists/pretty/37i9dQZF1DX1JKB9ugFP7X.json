@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24120,
+  "num_followers": 24124,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "PAGA DIOS",
+        "url": "https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 136427,
+      "name": "PAGA DIOS",
+      "url": "https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "PAGA DIOS",
-        "url": "https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
-        }
-      ],
-      "duration_ms": 136427,
-      "name": "PAGA DIOS",
-      "url": "https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "PARA AFUERA",
         "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 154737,
       "name": "PARA AFUERA",
       "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -943,18 +943,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+        "name": "B\u00f3rrame el Dolor \u2606",
+        "url": "https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        },
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq"
         }
       ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+      "duration_ms": 223110,
+      "name": "B\u00f3rrame el Dolor \u2606",
+      "url": "https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -975,22 +979,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "B\u00f3rrame el Dolor \u2606",
-        "url": "https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW"
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
       "artists": [
         {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        },
-        {
-          "name": "Supernova",
-          "url": "https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 223110,
-      "name": "B\u00f3rrame el Dolor \u2606",
-      "url": "https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB"
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Rayo El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
-      },
-      "artists": [
-        {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 258629,
-      "name": "Rayo El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Rayo El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 258629,
+      "name": "Rayo El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Conexi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
+      },
+      "artists": [
+        {
+          "name": "Make Mama Proud",
+          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
+        }
+      ],
+      "duration_ms": 232550,
+      "name": "CONEXI\u00d3N DE AMOR",
+      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Conexi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
-      },
-      "artists": [
-        {
-          "name": "Make Mama Proud",
-          "url": "https://open.spotify.com/artist/5szSyl9vXGIHY6Ln8K14UI"
-        }
-      ],
-      "duration_ms": 232550,
-      "name": "CONEXI\u00d3N DE AMOR",
-      "url": "https://open.spotify.com/track/58F5bd40PlBLvoRKzKWDCD"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Remixes II",
         "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 228290,
       "name": "Pana",
       "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "SHAMPOO",
-        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 181983,
-      "name": "SHAMPOO",
-      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "POKITO",
         "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 252631,
       "name": "POKITO",
       "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "SHAMPOO",
+        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 181983,
+      "name": "SHAMPOO",
+      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "La Mar (Remixes)",
-        "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
-      },
-      "artists": [
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        },
-        {
-          "name": "Nico Castro",
-          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
-        }
-      ],
-      "duration_ms": 347000,
-      "name": "Dejarte de Querer - Nico Castro Remix",
-      "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "\u00c1ngel Malo",
         "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 214871,
       "name": "\u00c1ngel Malo",
       "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "La Mar (Remixes)",
+        "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
+      },
+      "artists": [
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        },
+        {
+          "name": "Nico Castro",
+          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
+        }
+      ],
+      "duration_ms": 347000,
+      "name": "Dejarte de Querer - Nico Castro Remix",
+      "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
     },
     {
       "added_at": "2024-08-23 03:00:00",

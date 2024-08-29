@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,255 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,281 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 46 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
 | 47 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 |
 | 48 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
-| 49 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |
-| 50 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 |
+| 49 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 |
+| 50 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |
 | 51 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 |
 | 52 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 |
 | 53 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 65 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
 | 66 | [Levitate](https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs) | 3:19 |
 | 67 | [The Beginning](https://open.spotify.com/track/0eeIwG0vTlzUpkpeKA4MuK) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [The Beginning](https://open.spotify.com/album/12HDa5GkLlZz5d32yATbwz) | 3:44 |
-| 68 | [Stockholm Syndrome](https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL) | [Xavier Boyer](https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ) | [Stockholm Syndrome](https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB) | 2:51 |
-| 69 | [Rails of the Night](https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Rails of the Night](https://open.spotify.com/album/7pYyi4rilAKFda806Y85VS) | 4:00 |
+| 68 | [Rails of the Night](https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Rails of the Night](https://open.spotify.com/album/7pYyi4rilAKFda806Y85VS) | 4:00 |
+| 69 | [Stockholm Syndrome](https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL) | [Xavier Boyer](https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ) | [Stockholm Syndrome](https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB) | 2:51 |
 | 70 | [1982 \- English Version](https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Solide Mirage \(Deluxe Edition\)](https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm) | 3:23 |
 | 71 | [So Real](https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 2:57 |
 | 72 | [Deeply](https://open.spotify.com/track/4zIpKhIGG2p9uJgyvthVxQ) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:21 |

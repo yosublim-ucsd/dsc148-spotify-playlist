@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This is Nicki Minaj\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,367 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,453 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 51 | [Runnin \(with A$AP Rocky, A$AP Ferg & Nicki Minaj\)](https://open.spotify.com/track/23dwrzeJtEEGl2U4CPWSor) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 2:11 |
 | 52 | [Barbie Dangerous](https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:12 |
 
-Snapshot ID: `ZsvFgAAAAAD1QWrYzd0/LaJL+7VMoGMX`
+Snapshot ID: `ZsvFgAAAAABGrb6M/jIzdhCYEgmE5f1b`

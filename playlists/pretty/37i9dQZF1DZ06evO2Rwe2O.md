@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 ### [This Is Big Daddy Weave](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Rwe2O)
 
-> This is Big Daddy Weave\. The essential tracks, all in one playlist.
+> This Is Big Daddy Weave\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,750 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,754 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 50 | [Prelude](https://open.spotify.com/track/7yHGpzJaeAtc5DsbcTvRUM) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 0:30 |
 | 51 | [Only Jesus](https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:13 |
 
-Snapshot ID: `ZsvFgAAAAAAUHrDfjNposYbuaSukTZOK`
+Snapshot ID: `ZsvFgAAAAACeAV+x6lowT5jwyrUrlANl`

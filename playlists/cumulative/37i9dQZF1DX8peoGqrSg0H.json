@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "KISS KISS",
+        "url": "https://open.spotify.com/album/5QV41p2rViJIU9gcBLV3Eb"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "KISS KISS",
+      "url": "https://open.spotify.com/track/1N1lnrLpZfoRH7ICM74fEU"
+    },
+    {
+      "album": {
         "name": "Kiss Me!",
         "url": "https://open.spotify.com/album/6buRGA4CO45tJZJpMmbJOx"
       },
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 244020,
       "name": "\u0e08\u0e14\u0e2b\u0e21\u0e32\u0e22\u0e23\u0e31\u0e01 (Sincerely Yours)",
       "url": "https://open.spotify.com/track/7KYtXp4OomVO6N6Wc51kM9"

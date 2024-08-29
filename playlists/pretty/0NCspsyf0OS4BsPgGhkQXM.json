@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2031239,
+  "num_followers": 2031481,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5oGrnvIOiyBs9xpNcP79KlEc/aesh",
+  "snapshot_id": "AAA5o8xL+22+0kWNuUNZZe6GDro8K/ky",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2133,6 +2133,26 @@
       "url": "https://open.spotify.com/track/7jc1Hk8PtZZbeuLckC9EvB"
     },
     {
+      "added_at": "2024-08-28 17:28:56",
+      "album": {
+        "name": "throw it back",
+        "url": "https://open.spotify.com/album/6lOgUlThZsuQ4YjEFAO0oX"
+      },
+      "artists": [
+        {
+          "name": "1SEC",
+          "url": "https://open.spotify.com/artist/0ZsoOmc3MklnRauPm4FxlL"
+        },
+        {
+          "name": "fluent",
+          "url": "https://open.spotify.com/artist/7gwGLRTecyRhPh5qtsXeU6"
+        }
+      ],
+      "duration_ms": 221678,
+      "name": "throw it back",
+      "url": "https://open.spotify.com/track/1COTpjhzESYgJ230j8pHWn"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "CIRCUIT DREAMS",
@@ -2613,6 +2633,22 @@
       "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
+      "added_at": "2024-08-27 20:46:36",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p"
+      },
+      "artists": [
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Midnight",
@@ -2731,22 +2767,6 @@
       "duration_ms": 213629,
       "name": "Embers",
       "url": "https://open.spotify.com/track/67lyxsvzzzHKSKfh0rSSMo"
-    },
-    {
-      "added_at": "2024-08-27 20:46:36",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p"
-      },
-      "artists": [
-        {
-          "name": "Alexis B",
-          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR"
     }
   ],
   "unique_name": "Trap Nation",

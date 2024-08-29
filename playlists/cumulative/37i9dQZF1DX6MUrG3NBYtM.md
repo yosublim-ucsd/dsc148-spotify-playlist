@@ -4,7 +4,7 @@
 
 > De beste Alternative, Indie en Rock van nu! Cover: Fontaines D.C.
 
-66 songs - 3 hr 53 min
+67 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 | 2024-06-26 |  |
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-26 |  |
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-06-26 |  |
-| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-07-11 |  |
+| [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-08-28 |  |
+| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-07-11 | 2024-08-29 |
 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2024-08-01 |  |
 | [The Sadness In You, The Sadness In Me](https://open.spotify.com/track/1cMwY32ezvo0JNXEOLKEVg) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Sadness In You, The Sadness In Me](https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy) | 4:30 | 2024-06-26 |  |
 | [Things I've Been Telling Myself for Years](https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO](https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK) | 3:33 | 2024-08-01 |  |

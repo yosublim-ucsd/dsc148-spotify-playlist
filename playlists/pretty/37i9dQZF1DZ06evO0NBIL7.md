@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 
 ### [This Is Fangclub](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0NBIL7)
 
-> This is Fangclub\. The essential tracks, all in one playlist.
+> This is Fangclub\. أغاني روعة في قايمة أغاني واحدة.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,468 likes - 28 songs - 1 hr 33 min
 
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NBIL7.md) - [plain]
 | 27 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 |
 | 28 | [Loner](https://open.spotify.com/track/14zaPsyRxGUtG5Dg7hJozL) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 4:01 |
 
-Snapshot ID: `ZsvFgAAAAABbON4+FXUj8JIhzX3vQiyI`
+Snapshot ID: `ZsvFgAAAAACL2qfkF+U0eqw0K+ddZIU4`

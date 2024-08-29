@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Neeraj Madhav
 
-173 songs - 9 hr 13 min
+174 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [BREAKFAST](https://open.spotify.com/track/6p21ywjrVlUnpmujl4S3dP) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 3:56 | 2023-07-23 | 2024-02-13 |
 | [CALICITY](https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF) | [Shihab Huzzain](https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [CALICITY](https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED) | 1:54 | 2023-11-06 | 2024-02-27 |
 | [Ceasefire Now](https://open.spotify.com/track/1vLVrRcfDIKhRlsrQ6gIuK) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Ceasefire Now](https://open.spotify.com/album/4i7U8lSSrQeS18qqeVRgqE) | 3:06 | 2023-11-28 | 2024-05-22 |
+| [Chaavu](https://open.spotify.com/track/4xSN6ouLFm4rXkZsF3e6uT) | [MAKAN.](https://open.spotify.com/artist/2AXZ392uTSLZ1B7B5WiwCG), [VXAL](https://open.spotify.com/artist/04ftZCJgjzpuUAFwO4OSpC) | [Chaavu](https://open.spotify.com/album/762ThuxxYDeDzc4Hf9jhrc) | 2:40 | 2024-08-28 |  |
 | [Chathi](https://open.spotify.com/track/0HJVTFwv2ht5u4y9RCzfho) | [Sweezy Trip](https://open.spotify.com/artist/5v61kr8mEQuzSocL9c0DTl), [VKDKV](https://open.spotify.com/artist/2is3kAPzIxjgRHXd9qZB3n), [AMANI KL10](https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr) | [Chathi](https://open.spotify.com/album/0CyndZDyLdIqYlcG1JiwzL) | 3:54 | 2023-11-28 | 2024-02-13 |
 | [CHECK CHECK](https://open.spotify.com/track/7KieJoUWl3NAxZGmV24vJk) | [San Jaimt](https://open.spotify.com/artist/2BrfO48KSTebyOrNEyeMOm) | [CHECK CHECK](https://open.spotify.com/album/5mcYXrsMZ6X0xogQHGKnnL) | 2:32 | 2024-02-05 | 2024-02-13 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2021-12-03 |  |

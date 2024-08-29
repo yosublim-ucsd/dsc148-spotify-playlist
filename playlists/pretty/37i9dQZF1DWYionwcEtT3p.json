@@ -1,6 +1,6 @@
 {
   "description": "Hip hop hits, version dancefloor !",
-  "num_followers": 98813,
+  "num_followers": 98814,
   "original_name": "Hip Hop Party",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+    },
+    {
+      "added_at": "2024-06-25 16:00:40",
+      "album": {
         "name": "Wake Up in the Sky",
         "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 204664,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
-    },
-    {
-      "added_at": "2024-06-25 16:00:40",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2024-06-25 16:00:40",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
-        "name": "Je M'appelle",
-        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "Benzz",
-          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 139574,
-      "name": "Je M'appelle",
-      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+      "duration_ms": 245226,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
     },
     {
       "added_at": "2024-06-25 16:00:40",
@@ -723,42 +723,38 @@
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "Je M'appelle",
+        "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
+      "duration_ms": 139574,
+      "name": "Je M'appelle",
+      "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
-        "name": "Heavy Is The Head",
-        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
+        "name": "The Blueprint 2: The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
-      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+      "duration_ms": 205560,
+      "name": "03' Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
     },
     {
       "added_at": "2024-06-25 16:00:40",
@@ -783,22 +779,26 @@
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
-        "name": "The Blueprint 2: The Gift & The Curse",
-        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
+        "name": "Heavy Is The Head",
+        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         },
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 205560,
-      "name": "03' Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
+      "duration_ms": 216706,
+      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
+      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
     },
     {
       "added_at": "2024-06-25 16:00:40",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
-    },
-    {
-      "added_at": "2024-06-25 16:00:40",
-      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 155883,
       "name": "Best Friend (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
+    },
+    {
+      "added_at": "2024-06-25 16:00:40",
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     }
   ],
   "unique_name": "Hip Hop Party",

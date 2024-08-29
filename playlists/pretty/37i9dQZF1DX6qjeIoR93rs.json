@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 70453,
+  "num_followers": 70474,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-08-14 15:54:38",
       "album": {
+        "name": "Laween",
+        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 208237,
+      "name": "Laween",
+      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
+    },
+    {
+      "added_at": "2024-08-14 15:54:38",
+      "album": {
         "name": "Le meilleur, vol.1",
         "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 169970,
       "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
       "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
-    },
-    {
-      "added_at": "2024-08-14 15:54:38",
-      "album": {
-        "name": "Laween",
-        "url": "https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 208237,
-      "name": "Laween",
-      "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
     },
     {
       "added_at": "2024-08-14 15:54:38",

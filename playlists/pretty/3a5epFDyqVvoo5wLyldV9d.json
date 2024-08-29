@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAADgbppi6RM171HyKptNaXvff1L+P+b",
+  "snapshot_id": "AAADhPViqTpVXVya8JEbxZfV+GigBP+C",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -13133,6 +13133,22 @@
       "url": "https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV"
     },
     {
+      "added_at": "2024-08-28 09:21:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
+    },
+    {
       "added_at": "2024-08-15 19:05:35",
       "album": {
         "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30b9\u30da\u30b7\u30e3\u30eb",
@@ -13227,6 +13243,22 @@
       "duration_ms": 215188,
       "name": "Tes id\u00e9es",
       "url": "https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI"
+    },
+    {
+      "added_at": "2024-08-28 09:22:16",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     }
   ],
   "unique_name": "Worldly",

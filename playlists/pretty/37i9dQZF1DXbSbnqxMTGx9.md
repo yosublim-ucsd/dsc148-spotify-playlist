@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,005,861 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,006,311 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 50 | [Street Corner](https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 3:03 |
 | 51 | [Sweet Jamaica](https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx) | [Tony Rebel](https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:45 |
 | 52 | [Far East](https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4) | [Barry Brown](https://open.spotify.com/artist/4RLadJjrl8Ygnmg4HoWH8v) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:57 |
-| 53 | [I Love King Selassie](https://open.spotify.com/track/1m8km5zdC0WDsdwKnCZ6sa) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:29 |
-| 54 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
+| 53 | [Not Satisfied](https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 5:11 |
+| 54 | [I Love King Selassie](https://open.spotify.com/track/1m8km5zdC0WDsdwKnCZ6sa) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:29 |
 | 55 | [La La Bam\-Bam](https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:47 |
 | 56 | [Forward Ever Backward Never](https://open.spotify.com/track/37UsDnU8CMBbZ1bV1WZAkz) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:05 |
 | 57 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 94 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 95 | [Sweet Sensation](https://open.spotify.com/track/5uxBt9ZluGjgdVGj8oXkiX) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:52 |
 | 96 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 97 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 98 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
-| 99 | [Double Barrel](https://open.spotify.com/track/1TBjuwSsm731S048oMDehz) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:46 |
-| 100 | [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 |
+| 97 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
+| 98 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 99 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
+| 100 | [Double Barrel](https://open.spotify.com/track/1TBjuwSsm731S048oMDehz) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:46 |
 
 Snapshot ID: `ZpD3ewAAAACD/VRBno09HZL6DK+zQTq3`

@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-571 songs - 1 day 14 hr 30 min
+572 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 | 2023-01-17 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-17 | 2024-04-19 |
-| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 |  |
+| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 | 2024-08-29 |
 | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/1frLfdzAN9vP7iryVFkchw) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/album/39y4XsSMcz4OidDKNgsKBT) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Holly Golightly](https://open.spotify.com/track/6cpS0DbBW6i2h2YhScfvDI) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Holly Golightly](https://open.spotify.com/album/2mPxVWoD1tTM3YwIKCk8Eg) | 2:44 | 2023-01-17 |  |
@@ -247,6 +247,7 @@
 | [If I Could Turn Back Time](https://open.spotify.com/track/2o6Lu5MMOk6ra2l9pmTt8L) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 4:20 | 2023-01-17 | 2024-05-21 |
 | [If I Lead](https://open.spotify.com/track/5ZK5nRVtgYzw4FBK5f66A0) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/34gdRibrvFPimenAmpLIl2) | 3:26 | 2023-01-17 | 2024-04-19 |
 | [If I Lead](https://open.spotify.com/track/7h69lNNNo6TS5XomY9CxHH) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/15u9sohSPRl0qYMlBQ9b0x) | 3:26 | 2023-01-17 |  |
+| [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-08-29 |  |
 | [In A Bind](https://open.spotify.com/track/7L8cmap5xIlO3EBFYBKLV9) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:40 | 2023-01-17 |  |
 | [In Another Life \- Edit](https://open.spotify.com/track/3jkvyNJXLwnrQi0HntSYsk) | [Sandro Perri](https://open.spotify.com/artist/2CbeYAeoh6tWJhlJU3fI9c) | [In Another Life \(Edit\)](https://open.spotify.com/album/3rzgaHMGq9g1JWUNqwM5O9) | 5:51 | 2023-01-17 | 2023-09-25 |
 | [In August](https://open.spotify.com/track/0pZbjZDmdslY6OzxobTCt8) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [In August](https://open.spotify.com/album/37MAJ4lqEASmTNQGXdhMKK) | 3:45 | 2023-01-17 | 2024-07-28 |

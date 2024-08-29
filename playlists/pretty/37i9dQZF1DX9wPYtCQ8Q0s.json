@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 330113,
+  "num_followers": 330091,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -427,34 +427,6 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 145812,
-      "name": "CONFISS\u00d5ES PT2",
-      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
         "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
       },
@@ -487,6 +459,34 @@
       "duration_ms": 243490,
       "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 145812,
+      "name": "CONFISS\u00d5ES PT2",
+      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
         "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
         "url": "https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
-      },
-      "artists": [
-        {
-          "name": "Rushy",
-          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
-        }
-      ],
-      "duration_ms": 164357,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
         "name": "Pecado Capital",
         "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 185310,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
+      },
+      "artists": [
+        {
+          "name": "Rushy",
+          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
+        }
+      ],
+      "duration_ms": 164357,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
-        "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
         "name": "The London (feat. J. Cole & Travis Scott)",
         "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
       },
@@ -1143,6 +1119,30 @@
       "duration_ms": 200106,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
+        "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg) [From Bright: The Album]",
+        "url": "https://open.spotify.com/album/3wDMK9yGHVUEweHksZmGTU"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "That's My N**** (with Meek Mill, YG & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/3i1B1PnsfnOQPGVIzhf1lr"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
+        "name": "CREED: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 158706,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
-        "name": "CREED: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -1431,26 +1447,6 @@
       "duration_ms": 295826,
       "name": "Points of Authority / 99 Problems / One Step Closer",
       "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 166476,
-      "name": "Twerk (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "J CHRIST",
-        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 153766,
-      "name": "J CHRIST",
-      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "Yes",
-        "url": "https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 210931,
-      "name": "Yes",
-      "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
         "name": "Iphone Branco",
         "url": "https://open.spotify.com/album/6hp21aFf4l4auKtNfgKmU2"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 137142,
       "name": "Iphone Branco",
       "url": "https://open.spotify.com/track/6jxE4XjFVSKF18kfo7FCl9"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 210931,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
     },
     {
       "added_at": "2024-08-09 18:51:49",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-08-09 18:51:49",
       "album": {
-        "name": "Mission Control (feat. T Man the Wizard)",
-        "url": "https://open.spotify.com/album/3GHmcwHjyxpNwxWHqIMjXF"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "T Man The Wizard",
-          "url": "https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6"
-        }
-      ],
-      "duration_ms": 131429,
-      "name": "Mission Control (feat. T Man the Wizard)",
-      "url": "https://open.spotify.com/track/2VvZGmBkyKM6P8SJEu9Lhq"
-    },
-    {
-      "added_at": "2024-08-09 18:51:49",
-      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
+    },
+    {
+      "added_at": "2024-08-09 18:51:49",
+      "album": {
+        "name": "Mission Control (feat. T Man the Wizard)",
+        "url": "https://open.spotify.com/album/3GHmcwHjyxpNwxWHqIMjXF"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "T Man The Wizard",
+          "url": "https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6"
+        }
+      ],
+      "duration_ms": 131429,
+      "name": "Mission Control (feat. T Man the Wizard)",
+      "url": "https://open.spotify.com/track/2VvZGmBkyKM6P8SJEu9Lhq"
     },
     {
       "added_at": "2024-08-09 18:51:49",

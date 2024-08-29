@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 23791,
+  "num_followers": 23806,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-15 21:34:43",
       "album": {
+        "name": "Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
+      },
+      "artists": [
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "Las Vacas",
+      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
+    },
+    {
+      "added_at": "2024-08-15 21:34:43",
+      "album": {
         "name": "Stampede: Vol. 1",
         "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 190577,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L"
-    },
-    {
-      "added_at": "2024-08-15 21:34:43",
-      "album": {
-        "name": "Larga Duraci\u00f3n",
-        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
-      },
-      "artists": [
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "Las Vacas",
-      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
     },
     {
       "added_at": "2024-08-15 21:34:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-15 21:34:43",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
-    },
-    {
-      "added_at": "2024-08-15 21:34:43",
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2024-08-15 21:34:43",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2024-08-15 21:34:43",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-15 21:34:43",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 224587,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
-    },
-    {
-      "added_at": "2024-08-15 21:34:43",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2024-08-15 21:34:43",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 224587,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
     },
     {
       "added_at": "2024-08-15 21:34:43",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-15 21:34:43",
       "album": {
-        "name": "Prender\u00e9 Una Velita",
-        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 195335,
-      "name": "Tranquilo, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
-    },
-    {
-      "added_at": "2024-08-15 21:34:43",
-      "album": {
         "name": "Poquitito de T\u00e9",
         "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 204919,
       "name": "Poquitito de T\u00e9",
       "url": "https://open.spotify.com/track/0zucLaB2gGbKtdLFsiVC30"
+    },
+    {
+      "added_at": "2024-08-15 21:34:43",
+      "album": {
+        "name": "Prender\u00e9 Una Velita",
+        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 195335,
+      "name": "Tranquilo, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
     },
     {
       "added_at": "2024-08-15 21:34:43",

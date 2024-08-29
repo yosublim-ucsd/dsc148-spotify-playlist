@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-364 songs - 19 hr 18 min
+365 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [I Leave Again](https://open.spotify.com/track/4aNNFLoRfSOMHeYQXidsXL) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Parachute](https://open.spotify.com/album/3t4ZHswZdOfXd6TcZ51uHl) | 4:00 | 2022-07-08 | 2022-08-06 |
 | [I Love You Always Forever \(Nora's Version\)](https://open.spotify.com/track/4eMaX3oR9aD0JTwZOrNQ9Y) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [I Love You Always Forever \(Nora's Version\)](https://open.spotify.com/album/7pH3cy1xaXNxrOdinVKUuj) | 3:16 | 2023-06-16 | 2024-07-27 |
 | [I Love Your Smile](https://open.spotify.com/track/0tFvZDDjgzoIrWaLykgvRa) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [I Love Your Smile](https://open.spotify.com/album/0bQ6i9463hxM5YLIvzAYJ4) | 2:14 | 2021-10-29 | 2022-05-14 |
+| [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-28 |  |
 | [I See Blue](https://open.spotify.com/track/7McmRLT362Fss7WAUk670c) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Papaya Island](https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK) | 4:07 | 2021-10-29 | 2022-01-21 |
 | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL) | [Davai](https://open.spotify.com/artist/0xZvYTiM5QT94j1abOm0nC), [Philip Rustad](https://open.spotify.com/artist/5U5Wgc7sVVNuUlLckaYMGr) | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/album/37Gm8Ovojuc443hvViW9mu) | 2:55 | 2021-10-29 | 2022-03-26 |
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2021-10-29 | 2024-07-10 |
@@ -193,7 +194,7 @@
 | [Let Me Know \(feat.CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 | 2023-06-16 | 2023-06-24 |
 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 | 2021-10-29 | 2023-08-26 |
 | [Let's Go](https://open.spotify.com/track/2YRri7ZH86lUUzywldnkAk) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let's Go](https://open.spotify.com/album/4soFn3WnZIkSZJiljhkDuB) | 3:38 | 2022-03-04 | 2022-07-29 |
-| [Lift You Up](https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lift You Up](https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya) | 3:47 | 2024-08-16 |  |
+| [Lift You Up](https://open.spotify.com/track/4dUCnam5rLVdrQHYWEIx0e) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lift You Up](https://open.spotify.com/album/5BezUUsxmvHM0ousc2Tgya) | 3:47 | 2024-08-16 | 2024-08-29 |
 | [Lights On](https://open.spotify.com/track/1dMbhY5hzVJVQGIJY6r5FC) | [Saxity](https://open.spotify.com/artist/1jG8sNQCiRuv1Nz1GiFlax), [BoyBoyBoy](https://open.spotify.com/artist/10V0YVsp2S6F0mGSpD2t0E), [Bonny Lauren](https://open.spotify.com/artist/14C0HynGq0YJsXrQAEclN3) | [Lights On](https://open.spotify.com/album/7dRL1T9Yw89hG6lEc5ZuGJ) | 2:36 | 2021-10-29 | 2022-03-04 |
 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 | 2023-06-02 | 2023-09-09 |
 | [Little Airplanes](https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Little Airplanes](https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj) | 5:30 | 2022-03-25 | 2022-04-21 |

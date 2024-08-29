@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-287 songs - 16 hr 48 min
+288 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Algific](https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Algific](https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe) | 3:04 | 2024-06-10 |  |
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 | 2023-12-23 |
-| [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 | 2024-05-09 |
+| [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 |  |
 | [Andromeda](https://open.spotify.com/track/3ILiff34ZwEKw1mrVG4D6D) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Nebuleuses](https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2) | 2:37 | 2020-12-08\* | 2021-03-18 |
 | [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 | 2023-04-17 |  |
 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
@@ -99,6 +99,7 @@
 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 |  |
 | [Envision](https://open.spotify.com/track/3QG6JoaGwxU2zNUDg0Zcac) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Envision](https://open.spotify.com/album/2IgSdhA4y6Dv3D7q54OyT0) | 2:34 | 2023-07-28 | 2023-10-24 |
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-16 |  |
+| [Equanimity](https://open.spotify.com/track/7Il2cAbfYNidySAdrlP5Nx) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Equanimity](https://open.spotify.com/album/1ds68DcZuoV9M9wVZRiBBU) | 2:30 | 2024-08-21 |  |
 | [Fade To Green](https://open.spotify.com/track/7g6H3w5ZR6LltDkD2iRISL) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Slumber](https://open.spotify.com/album/0RVAtmxNwwR7lOimtJQAvY) | 2:28 | 2022-11-22 |  |
 | [Far Fetched Sleep](https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv) | [Millie S](https://open.spotify.com/artist/3WXETka20TU3p9HZZjQ0cj) | [Far Fetched Sleep](https://open.spotify.com/album/5UnOxSSbm5Ss1q5VHU2GnX) | 3:09 | 2020-12-08\* |  |
 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 | 2020-12-08\* | 2021-09-17 |
@@ -120,7 +121,7 @@
 | [Galactic Walz](https://open.spotify.com/track/2SHMIYyt2YYPkginGos4Bu) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Galactic Walz](https://open.spotify.com/album/0DSNkmAdy7JO20OCOV7Afb) | 3:26 | 2022-09-13 | 2023-06-10 |
 | [Ghost Pong](https://open.spotify.com/track/00gWNp9jpTJbT5TsGdHwla) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Ghost Pong](https://open.spotify.com/album/5VZ6W1glrfShr200XiOAUp) | 4:51 | 2020-12-08\* | 2021-03-18 |
 | [Glaciers](https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Glaciers](https://open.spotify.com/album/5DAdHl1zMFWuxnpF72sqP7) | 3:04 | 2020-12-08\* |  |
-| [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 |  |
+| [Glow](https://open.spotify.com/track/4TzR5P1srEfWyUjGFSqYhC) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Footsteps](https://open.spotify.com/album/3CGtfAcfdbt1UT45FTl7X1) | 2:25 | 2021-02-03 | 2024-08-29 |
 | [Gratefulness](https://open.spotify.com/track/40qeYynobNzqF9HfPkSFR3) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Gratefulness](https://open.spotify.com/album/7nHwZnjFrplsBHfzyJ1BKh) | 2:33 | 2022-09-30 |  |
 | [Greenland](https://open.spotify.com/track/2SPTGg9SC5MT1FwNX4IYfx) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:11 | 2020-12-08\* | 2021-03-06 |
 | [Healing Stones](https://open.spotify.com/track/3W2j6BipXBlTPfErJTyJWo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Healing Stones](https://open.spotify.com/album/0N4dk5ISyVfLM7Es4zEsCr) | 2:37 | 2022-04-21 |  |
@@ -285,7 +286,7 @@
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2020-12-08\* | 2021-02-20 |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 |  |
-| [Waves of Serenity \- 174 Hz](https://open.spotify.com/track/6ytsuBO5hxj5lXqeEOEujs) | [Fikret Glep](https://open.spotify.com/artist/7Bsyycg7zsa7WcegU4WMde) | [Waves of Serenity](https://open.spotify.com/album/7H0jANfu8S7xlBh4kuk5pe) | 2:18 | 2022-11-22 |  |
+| [Waves of Serenity \- 174 Hz](https://open.spotify.com/track/6ytsuBO5hxj5lXqeEOEujs) | [Fikret Glep](https://open.spotify.com/artist/7Bsyycg7zsa7WcegU4WMde) | [Waves of Serenity](https://open.spotify.com/album/7H0jANfu8S7xlBh4kuk5pe) | 2:18 | 2022-11-22 | 2024-08-29 |
 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 | 2022-12-30 | 2023-04-16 |
 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 | 2022-12-30 | 2024-02-17 |
 | [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 | 2024-05-17 |

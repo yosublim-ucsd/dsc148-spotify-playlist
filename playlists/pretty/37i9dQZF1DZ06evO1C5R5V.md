@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This Is El Haragán y Compañía\. Los temas esenciales, todos en una lista.
+> This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,484 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,494 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Aguja en la Ciudad](https://open.spotify.com/track/3RtmmS2IxTLbmOalW5cIk3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:26 |
 | 50 | [Policía Chacal](https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 3:49 |
 
-Snapshot ID: `ZsvFgAAAAABY+YSHeZpzWBk+hDezCbaJ`
+Snapshot ID: `ZsvFgAAAAACn3OYeO+h2Mf275PJkfEuP`

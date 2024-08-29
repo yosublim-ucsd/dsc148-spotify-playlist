@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 272288,
+  "num_followers": 272306,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-08-08 14:54:32",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2024-08-08 14:54:32",
-      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 233813,
       "name": "Lo Que Ten\u00edas Conmigo",
       "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
+    },
+    {
+      "added_at": "2024-08-08 14:54:32",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-08-08 14:54:32",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-08-08 14:54:32",
       "album": {
+        "name": "Conv\u00e9ncete",
+        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 216263,
+      "name": "Conv\u00e9ncete",
+      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
+    },
+    {
+      "added_at": "2024-08-08 14:54:32",
+      "album": {
         "name": "Eres Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/0mw9JCjWu3hzUTru1yt2mc"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
-    },
-    {
-      "added_at": "2024-08-08 14:54:32",
-      "album": {
-        "name": "Conv\u00e9ncete",
-        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 216263,
-      "name": "Conv\u00e9ncete",
-      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
     },
     {
       "added_at": "2024-08-08 14:54:32",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-08 14:54:32",
       "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "La Noche Sin T\u00ed",
-      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
-    },
-    {
-      "added_at": "2024-08-08 14:54:32",
-      "album": {
         "name": "Ojos Noche (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+    },
+    {
+      "added_at": "2024-08-08 14:54:32",
+      "album": {
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "La Noche Sin T\u00ed",
+      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
     },
     {
       "added_at": "2024-08-08 14:54:32",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-08 14:54:32",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
-    },
-    {
-      "added_at": "2024-08-08 14:54:32",
-      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+    },
+    {
+      "added_at": "2024-08-08 14:54:32",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
     },
     {
       "added_at": "2024-08-08 14:54:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-08 14:54:32",
       "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
-    },
-    {
-      "added_at": "2024-08-08 14:54:32",
-      "album": {
         "name": "Machu Picchu",
         "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 179004,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
+    },
+    {
+      "added_at": "2024-08-08 14:54:32",
+      "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2024-08-08 14:54:32",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-08-08 14:54:32",
       "album": {
-        "name": "Un Poquito",
-        "url": "https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 186842,
-      "name": "Un Poquito",
-      "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
-    },
-    {
-      "added_at": "2024-08-08 14:54:32",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2024-08-08 14:54:32",
+      "album": {
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 186842,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
     },
     {
       "added_at": "2024-08-08 14:54:32",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Firme",
-  "num_followers": 74781,
+  "num_followers": 74788,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
-        "name": "El Comando del Diablo (En Vivo)",
-        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "El Comando del Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
         "name": "Cr\u00f3nicas de la Batalla",
         "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 209668,
       "name": "Cr\u00f3nicas de la Batalla",
       "url": "https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
+        "name": "El Comando del Diablo (En Vivo)",
+        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "El Comando del Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
+        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
+        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "Zutano (En Vivo)",
+      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
         "name": "Yakifest Oasis Vol. 5 (En Vivo)",
         "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
-        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
-        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "Zutano (En Vivo)",
-      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
     },
     {
       "added_at": "2024-07-19 09:08:16",

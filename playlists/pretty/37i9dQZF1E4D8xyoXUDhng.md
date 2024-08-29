@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [I Will Bless The Lord](https://open.spotify.com/track/54AFtIsv7m7rQfnRLTlQ14) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Gotta Have Gospel! Gold](https://open.spotify.com/album/5IlbRx9INVQJrHMF5iKXdQ) | 5:07 |
 | 50 | [I Know You're Gonna Make It](https://open.spotify.com/track/6dWzaNFDPLNDSoComTLawV) | [Norman Hutchins](https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh) | [If You Didn't Know, Now You Know](https://open.spotify.com/album/7JscKWllmSiMrhHugSBcTn) | 5:13 |
 
-Snapshot ID: `Zs53SQAAAADgAHJdtoLKpBMtSINQ6ZU1`
+Snapshot ID: `Zs/hJwAAAABfVXOFIEhdcpRllGZSD1a4`

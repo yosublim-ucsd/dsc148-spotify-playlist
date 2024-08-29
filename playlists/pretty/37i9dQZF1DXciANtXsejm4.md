@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,377 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,554 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 56 | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Éxitos Santafesinos Enganchados ATR](https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH) | 3:56 |
 | 57 | [Flor Pálida](https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mensajes del Corazon](https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW) | 4:22 |
 | 58 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 |
-| 59 | [Y Hoy Volvimos A Vernos](https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Y Hoy Volvimos A Vernos](https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc) | 3:23 |
-| 60 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 |
+| 59 | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu) | [Los Amantes](https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Se que me extraña / El no es mejor que yo / Anda / Vienes a pedir Perdón / La Morocha](https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U) | 6:55 |
+| 60 | [Y Hoy Volvimos A Vernos](https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Y Hoy Volvimos A Vernos](https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc) | 3:23 |
 | 61 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
 | 62 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 63 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 75 | [Se Enamoró de Mí la Soledad](https://open.spotify.com/track/589S5fN5qBfJ6DL1R4YZCL) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Se Enamoró de Mí la Soledad](https://open.spotify.com/album/7y7Dw5kdlTFjBvnSkwHvTy) | 2:54 |
 | 76 | [Adicto a Tu Piel](https://open.spotify.com/track/0br8d63wjkqKph7c7YZeTV) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Adicto a Tu Piel](https://open.spotify.com/album/0GaQEVzKdGyzwbw6gzVltM) | 3:59 |
 | 77 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
-| 78 | [Señora](https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Señora](https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI) | 3:38 |
+| 78 | [Enganchados 1 \(No la estoy pasando bien / El no es mejor que yo / No puedo con otra\)](https://open.spotify.com/track/6A58b2EXiYUGC9PJIyV2U2) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:58 |
 | 79 | [Tu Cómo Estás](https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 3:38 |
-| 80 | [Enganchados 1 \(No la estoy pasando bien / El no es mejor que yo / No puedo con otra\)](https://open.spotify.com/track/6A58b2EXiYUGC9PJIyV2U2) | [Leo Mattioli y Trinidad](https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:58 |
+| 80 | [Señora](https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Señora](https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI) | 3:38 |
 
 Snapshot ID: `ZmiYtgAAAADL+KukVhbk680bKshPalKV`

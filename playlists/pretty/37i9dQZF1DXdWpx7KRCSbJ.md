@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,188 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,169 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 28 | [Sofazinho \- Ao Vivo](https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:07 |
 | 29 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 30 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
-| 31 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
-| 32 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
+| 31 | [Jogo do Amor](https://open.spotify.com/track/3MxbRHE1u74SoMNR9iURIZ) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Jogo do Amor](https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS) | 2:24 |
+| 32 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
 | 33 | [12 Horas](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
 | 34 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
 | 35 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 67 | [Até Ex Duvida \(feat\. Maiara & Maraisa\) \- Ao Vivo](https://open.spotify.com/track/3twpVbHfTCpgHNlStxfpzx) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 2:37 |
 | 68 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 |
 | 69 | [Qualidade De Vida \- Ao Vivo](https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Qualidade De Vida \(Ao Vivo\)](https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq) | 2:34 |
-| 70 | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za) | 3:00 |
+| 70 | [Deixe\-Me Ir \- Kiko Franco e Woak Remix](https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Deixe\-Me Ir \(Kiko Franco e Woak Remix\)](https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU) | 3:34 |
 
 Snapshot ID: `ZIxZ8QAAAACrFFLiQaMVUDVYm1Pad4jf`

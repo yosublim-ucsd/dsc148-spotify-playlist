@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 67 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 67 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 27 | [Riotka](https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:05 |
 | 28 | [Walking Through The Desert](https://open.spotify.com/track/6nAnpLRB9KQPg2juqXbzHe) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Finest Selection: The Greatest Hits](https://open.spotify.com/album/3LwLqcW85aPAOIZz6qH4MJ) | 3:22 |
 | 29 | [Sensation](https://open.spotify.com/track/1T1tTm5xT1413rn691AnSx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Nicky Romero JAPAN COLLECTION 2023 \(DELUXE\)](https://open.spotify.com/album/2Ot0oiXyGsIi5VbIVXTmaC) | 2:54 |
-| 30 | [Naked](https://open.spotify.com/track/7wM5hNcY1bLFUmZKp9mKkw) | [The Tide](https://open.spotify.com/artist/6cXVCUCVlW1JSPxRHoelTb) | [Young Love](https://open.spotify.com/album/0NKH3ImlF1nODufKjyYpqT) | 2:55 |
-| 31 | [Can't Say Goodbye](https://open.spotify.com/track/020u6AekCG9lytydtX5pVu) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:23 |
+| 30 | [Can't Say Goodbye](https://open.spotify.com/track/020u6AekCG9lytydtX5pVu) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:23 |
+| 31 | [Naked](https://open.spotify.com/track/7wM5hNcY1bLFUmZKp9mKkw) | [The Tide](https://open.spotify.com/artist/6cXVCUCVlW1JSPxRHoelTb) | [Young Love](https://open.spotify.com/album/0NKH3ImlF1nODufKjyYpqT) | 2:55 |
 | 32 | [Lazy Lovers](https://open.spotify.com/track/1v7XmP992YPIdBhMlknnBL) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Twilight Zone](https://open.spotify.com/album/5icIasbyaQwyG6ptiThzzt) | 3:27 |
 | 33 | [All The Time](https://open.spotify.com/track/19GhAhZTkpC0FXuL8n5NQQ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:28 |
 | 34 | [The Chase](https://open.spotify.com/track/0FZlnRFL7ZgzGdnC4BKt4S) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:20 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 66 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 67 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AbakoAAAAABod2R1YaRAJkiq3Y46TKqg`
+Snapshot ID: `AbaqQAAAAAAXDBwtok0yHGnxGXiqYcY7`

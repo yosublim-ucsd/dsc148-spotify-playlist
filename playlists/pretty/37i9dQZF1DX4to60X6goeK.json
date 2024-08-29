@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 62882,
+  "num_followers": 62922,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -875,46 +875,6 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "Robocop",
-        "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "B Live 247",
-          "url": "https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Robocop",
-      "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
-    },
-    {
-      "added_at": "2024-08-09 14:18:20",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2024-08-09 14:18:20",
-      "album": {
         "name": "Bomb Squad (Bou Remix)",
         "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
       },
@@ -935,6 +895,46 @@
       "duration_ms": 288052,
       "name": "Bomb Squad - Bou Remix",
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
+    },
+    {
+      "added_at": "2024-08-09 14:18:20",
+      "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2024-08-09 14:18:20",
+      "album": {
+        "name": "Robocop",
+        "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "B Live 247",
+          "url": "https://open.spotify.com/artist/44kLWQM6Vi4EbOA6fOyQJ5"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Robocop",
+      "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
     },
     {
       "added_at": "2024-08-09 14:18:20",

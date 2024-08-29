@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This is Joan Baez\. The essential tracks, all in one playlist.
+> This is Joan Baez\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,398 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,407 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
 | 50 | [Plaisir d'amour](https://open.spotify.com/track/5eRrNnH2Q3eF5VI3xWG6fB) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Music Legends Joan Baez : The Queen of Folk Music](https://open.spotify.com/album/6mu8PdnxaUQm7Li0wymAtD) | 3:05 |
 
-Snapshot ID: `ZsvFgAAAAADluPCRWTpSDRrqFGtT50Tr`
+Snapshot ID: `ZsvFgAAAAACGlyb5rXN7RrgOg1UGyx7u`

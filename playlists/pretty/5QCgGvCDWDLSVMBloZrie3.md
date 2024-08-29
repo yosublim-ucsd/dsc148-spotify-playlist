@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 427 songs - 1 day 3 hr 35 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 14 likes - 429 songs - 1 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -435,5 +435,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 425 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 426 | [White Horse \(Taylor’s Version\)](https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:54 |
 | 427 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
+| 428 | [Cool\-Doug, at Night](https://open.spotify.com/track/6vqfGsLHkr6I741MUKl8v7) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB) | [Cool\-Doug, at Night](https://open.spotify.com/album/4F8znk4P0tcwrbGXUBYycS) | 3:32 |
+| 429 | [No Rulebook](https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [No Rulebook](https://open.spotify.com/album/39t8KDt3ldQzwukKwlxbZL) | 3:53 |
 
-Snapshot ID: `AAAE0uQux4C8KaKgZOSf7WUs+kp5IcSL`
+Snapshot ID: `AAAE1IGt7TSWNFQ66wI9szbEayUcAbP2`

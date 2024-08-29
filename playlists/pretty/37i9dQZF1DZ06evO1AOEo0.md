@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 ### [This Is Shane & Shane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AOEo0)
 
-> This is Shane & Shane\. The essential tracks, all in one playlist.
+> This Is Shane & Shane\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,614 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,624 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
 | 50 | [God of Every Grace](https://open.spotify.com/track/3TzQR2O6RsyOIF1HvO2EuL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [God of Every Grace](https://open.spotify.com/album/0LYtQdY5VCU5LPhtFIXV4X) | 5:17 |
 
-Snapshot ID: `ZsvFgAAAAACCoka7uG6AqOV95Of0vRdn`
+Snapshot ID: `ZsvFgAAAAADoq7bXkniReNOcoN7jz4lO`

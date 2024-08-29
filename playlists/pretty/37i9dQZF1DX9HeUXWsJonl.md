@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,638 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,706 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,19 +37,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 27 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 28 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 | 29 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 |
-| 30 | [Ena Wayek](https://open.spotify.com/track/6CD97XQ4oLX0Z4RFqscm3k) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena Wayek](https://open.spotify.com/album/1C9AHey6Z6L3YFW6eM9tiO) | 3:11 |
-| 31 | [BAYNA](https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:05 |
-| 32 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 |
-| 33 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
-| 34 | [Omri T3ada](https://open.spotify.com/track/7rMmuMmb37vB0f4oq9INiq) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Omri T3ada](https://open.spotify.com/album/5R4xtMp7Tu4tNwn9CvdkpB) | 2:23 |
-| 35 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 |
-| 36 | [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 |
-| 37 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
-| 38 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 |
-| 39 | [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 |
-| 40 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
-| 41 | [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 |
-| 42 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 30 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
+| 31 | [Ena Wayek](https://open.spotify.com/track/6CD97XQ4oLX0Z4RFqscm3k) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena Wayek](https://open.spotify.com/album/1C9AHey6Z6L3YFW6eM9tiO) | 3:11 |
+| 32 | [BAYNA](https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:05 |
+| 33 | [Saber](https://open.spotify.com/track/471yCuh5et463zfP1ZlipM) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Saber](https://open.spotify.com/album/3JyxgFtlWiGnjcrD2c53wG) | 4:14 |
+| 34 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
+| 35 | [Omri T3ada](https://open.spotify.com/track/7rMmuMmb37vB0f4oq9INiq) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Omri T3ada](https://open.spotify.com/album/5R4xtMp7Tu4tNwn9CvdkpB) | 2:23 |
+| 36 | [9adech Men Mara](https://open.spotify.com/track/0DuaftqTbS98lnbfiEJj5V) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [9adech Men Mara](https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR) | 2:30 |
+| 37 | [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 |
+| 38 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 |
+| 39 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 |
+| 40 | [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 |
+| 41 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
+| 42 | [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 |
 | 43 | [Khousara](https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Khousara](https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N) | 2:58 |
 | 44 | [Sahara \- سهّارة](https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Sahara \(سهّارة\)](https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus) | 2:56 |
 | 45 | [Baba](https://open.spotify.com/track/36h8chyy24HG3382bLeKbz) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Baba](https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [في ظلام الليل](https://open.spotify.com/track/5FWwSKktYjKZgoRmWDs9X6) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Aymen Lessigue](https://open.spotify.com/artist/3JVwiRVxWfIHXlhuKk3PQ4) | [في ظلام الليل](https://open.spotify.com/album/4keFmtZOlKjDkIPEib966A) | 2:40 |
 | 50 | [Netmanelk Kol El Khiir](https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Netmanelk Kol El Khiir](https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc) | 2:25 |
 
-Snapshot ID: `Zs12AQAAAAAoIJ99MtKRY+KkNfsTX/h/`
+Snapshot ID: `Zs7RQAAAAAAO2oOiHSZNthaZxke8TxmH`

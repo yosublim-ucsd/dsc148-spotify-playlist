@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This Is Bivolt\. Los temas esenciales, todos en una lista.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 42 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 42 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 41 | [Palam Gang](https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz) | [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Crypto Reggae](https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj) | 3:02 |
 | 42 | [Chef, Chef, Chef](https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:46 |
 
-Snapshot ID: `ZsvFgAAAAAA9n39Aa/Q1Ec+ja+phQjpv`
+Snapshot ID: `ZsvFgAAAAADIqBmgtD8TrtlCiNbbsMOZ`

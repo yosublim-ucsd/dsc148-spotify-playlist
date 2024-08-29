@@ -4,7 +4,7 @@
 
 > ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: LISA, ROSALÍA
 
-69 songs - 4 hr 5 min
+71 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-20 | 2024-07-05 |
 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 | 2024-07-28 |  |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-06-20 |  |
-| [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-06-20 |  |
+| [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-06-20 | 2024-08-29 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-19 |  |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-06-20 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-20 | 2024-08-26 |
@@ -46,6 +46,7 @@
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-06-20 |  |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-06-20 |  |
 | [คิดคิด \(Let me know\)](https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [คิดคิด \(Let me know\)](https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF) | 3:45 | 2024-08-19 |  |
+| [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-28 |  |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-06-20 |  |
 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 | 2024-06-20 |  |
 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 | 2024-06-20 |  |
@@ -64,10 +65,11 @@
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-06-20 | 2024-07-15 |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-06-20 |  |
 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2024-06-20 | 2024-07-12 |
+| [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 | 2024-08-28 |  |
 | [ลูกคุณหนู](https://open.spotify.com/track/7n8XxOyeEnGBNJ7u5ClhCn) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ลูกคุณหนู \- Single](https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj) | 3:48 | 2024-06-20 |  |
 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 | 2024-06-20 |  |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-06-20 |  |
-| [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-06-20 |  |
+| [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-06-20 | 2024-08-29 |
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-06-20 |  |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-11 |  |
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-23 |  |

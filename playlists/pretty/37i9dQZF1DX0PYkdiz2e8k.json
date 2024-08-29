@@ -1,6 +1,6 @@
 {
   "description": "lonely is the muse! Foto: Halsey",
-  "num_followers": 112590,
+  "num_followers": 112587,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -147,8 +147,8 @@
     {
       "added_at": "2024-08-16 13:33:48",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+      "duration_ms": 149835,
+      "name": "OFF MY FACE",
+      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
     },
     {
       "added_at": "2024-08-16 13:33:48",
@@ -311,8 +311,8 @@
     {
       "added_at": "2024-08-16 13:33:48",
       "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 149835,
-      "name": "OFF MY FACE",
-      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2024-08-16 13:33:48",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-16 13:33:48",
       "album": {
-        "name": "Children In The Dark",
-        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 178842,
-      "name": "Children In The Dark",
-      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
-    },
-    {
-      "added_at": "2024-08-16 13:33:48",
-      "album": {
         "name": "SANCTUARY",
         "url": "https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 174852,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk"
+    },
+    {
+      "added_at": "2024-08-16 13:33:48",
+      "album": {
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
     },
     {
       "added_at": "2024-08-16 13:33:48",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-08-16 13:33:48",
       "album": {
+        "name": "maybe (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "maybe (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7"
+    },
+    {
+      "added_at": "2024-08-16 13:33:48",
+      "album": {
         "name": "Even When I\u2019m Not With You",
         "url": "https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 158840,
       "name": "Backtrack",
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
-    },
-    {
-      "added_at": "2024-08-16 13:33:48",
-      "album": {
-        "name": "maybe (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "maybe (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7"
     }
   ],
   "unique_name": "do rockeeee",

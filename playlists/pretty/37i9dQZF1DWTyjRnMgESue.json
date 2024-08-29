@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 79578,
+  "num_followers": 79583,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Maine/The Sink",
         "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Me Again",
-        "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cowboys Cry",
-      "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
       },
       "artists": [
         {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+      "duration_ms": 192000,
+      "name": "Cowboys Cry",
+      "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -691,34 +691,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Please Slow Down",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 241152,
+      "name": "Malleable",
+      "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "4 foot 2",
         "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
       },
@@ -1155,18 +1171,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+        "name": "Fighting For - Hailey Whitters Version",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
         }
       ],
-      "duration_ms": 241152,
-      "name": "Malleable",
-      "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1183,6 +1203,22 @@
       "duration_ms": 206459,
       "name": "Riding Around In The Dark",
       "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1215,38 +1251,6 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 159647,
-      "name": "Drugs & Bad Habits",
-      "url": "https://open.spotify.com/track/0xVH17EbVmgtuLPdWCQwZx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

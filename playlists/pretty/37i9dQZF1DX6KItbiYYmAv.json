@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 149940,
+  "num_followers": 33436,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsx/EwAAAADwpqjEMOrbnhU3Jt819R5L",
+  "snapshot_id": "Zs7MOAAAAADyQ38YprkOHlVqzDK2zwRj",
   "tracks": [
     {
       "added_at": "2024-04-24 06:24:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Arms Of A Woman",
-      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Arms Of A Woman",
+      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Welcome To The Cruel World",
-        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Magnolia (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 274493,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Welcome To The Cruel World",
+        "url": "https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Bavarian Fruit Bread",
         "url": "https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
-        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
-      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Only",
         "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 217167,
       "name": "The Only",
       "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
+        "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
+      "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "To Build A Home (Versions)",
         "url": "https://open.spotify.com/album/52bYfn1wSbaRAQKq0Ox3DW"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "They Moved in Shadow All Together",
-        "url": "https://open.spotify.com/album/4olhf0eR1NU9Kin2cNEk1m"
-      },
-      "artists": [
-        {
-          "name": "Emily Jane White",
-          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Pallid Eyes",
-      "url": "https://open.spotify.com/track/4mzYFb0DBTFNgyBtdbzznK"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Castle on the Hill",
         "url": "https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 243587,
       "name": "Castle on the Hill - Acoustic",
       "url": "https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "They Moved in Shadow All Together",
+        "url": "https://open.spotify.com/album/4olhf0eR1NU9Kin2cNEk1m"
+      },
+      "artists": [
+        {
+          "name": "Emily Jane White",
+          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Pallid Eyes",
+      "url": "https://open.spotify.com/track/4mzYFb0DBTFNgyBtdbzznK"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "What If We Never Forget",
-        "url": "https://open.spotify.com/album/6u7QPxWQ9UUm8DRZWAIRUP"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        }
-      ],
-      "duration_ms": 173585,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/6hmfvoVTNKsev2whMLjRjQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "What If We Never Forget",
+        "url": "https://open.spotify.com/album/6u7QPxWQ9UUm8DRZWAIRUP"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "duration_ms": 173585,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6hmfvoVTNKsev2whMLjRjQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Here Comes the Sun",
         "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 189912,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Go Rilla (Acoustic Version)",
         "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
       },
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "No One's Gonna Love You - Live from Spotify Sweden",
-      "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        }
-      ],
-      "duration_ms": 203673,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Ash & Clay",
         "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
       },
@@ -1639,6 +1607,22 @@
       "duration_ms": 244520,
       "name": "Whisper In Her Ear",
       "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "No One's Gonna Love You - Live from Spotify Sweden",
+      "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1687,6 +1671,22 @@
       "duration_ms": 211838,
       "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) - Radio Version",
       "url": "https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "duration_ms": 203673,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "London City, Boy, It's Killing Me (The Town)",
+        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
+      },
+      "artists": [
+        {
+          "name": "Nick & June",
+          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "London City, Boy, It's Killing Me - The Town",
+      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "wie lang?",
         "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
       },
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/7HzU6LycytXTD4Hhd6euqn"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 214747,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5s0tx3uxCUYaBgcmkyItn2"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Home Is Just a State of Mind",
         "url": "https://open.spotify.com/album/3IxzdY5PQlHmxb4oZjEOhG"
       },
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "London City, Boy, It's Killing Me (The Town)",
-        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/7HzU6LycytXTD4Hhd6euqn"
       },
       "artists": [
         {
-          "name": "Nick & June",
-          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 204146,
-      "name": "London City, Boy, It's Killing Me - The Town",
-      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
+      "duration_ms": 214747,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5s0tx3uxCUYaBgcmkyItn2"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Vagrant",
         "url": "https://open.spotify.com/album/0mmyG4fcLY3jwMyTxc2R54"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 217797,
       "name": "Driving With You",
       "url": "https://open.spotify.com/track/62bDQvC2EHmpMSCjtyvxY8"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "White Picket Fence",
-        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
-      },
-      "artists": [
-        {
-          "name": "Fiona Harte",
-          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
-        }
-      ],
-      "duration_ms": 245342,
-      "name": "White Picket Fence",
-      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Vestiges & Claws",
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 293880,
       "name": "Leaf Off / The Cave",
       "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "White Picket Fence",
+        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
+      },
+      "artists": [
+        {
+          "name": "Fiona Harte",
+          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "White Picket Fence",
+      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Drives Me Crazy",
-        "url": "https://open.spotify.com/album/29kOgkV6oKBFfZkL8sYgn6"
-      },
-      "artists": [
-        {
-          "name": "Pat Burgener",
-          "url": "https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I"
-        }
-      ],
-      "duration_ms": 262873,
-      "name": "Drives Me Crazy",
-      "url": "https://open.spotify.com/track/64b6Q49Fmm57T2cir1XorQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Faces in the Rocks",
         "url": "https://open.spotify.com/album/4uTqDWrJqOHYp1DCtkun16"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 555548,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5ZE6FQGvMCQFvTUsAltIYb"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Drives Me Crazy",
+        "url": "https://open.spotify.com/album/29kOgkV6oKBFfZkL8sYgn6"
+      },
+      "artists": [
+        {
+          "name": "Pat Burgener",
+          "url": "https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I"
+        }
+      ],
+      "duration_ms": 262873,
+      "name": "Drives Me Crazy",
+      "url": "https://open.spotify.com/track/64b6Q49Fmm57T2cir1XorQ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Darkest Darks, Lightest Lights",
-        "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "I Am the Moon",
-      "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Down with You",
         "url": "https://open.spotify.com/album/45hKNbuAcxCs4wzCYF2GBW"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 237686,
       "name": "Down with You",
       "url": "https://open.spotify.com/track/2C7qaqL7yHKc8KPac92MMC"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Darkest Darks, Lightest Lights",
+        "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "I Am the Moon",
+      "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Feel It Again Acoustic EP",
-        "url": "https://open.spotify.com/album/4DEiWbO9nwgtz9lZnao3wW"
-      },
-      "artists": [
-        {
-          "name": "Hudson Taylor",
-          "url": "https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub"
-        }
-      ],
-      "duration_ms": 181765,
-      "name": "Run with Me - Acoustic",
-      "url": "https://open.spotify.com/track/5HWHvdTxDbqunMzbmCLURA"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Late Night Howling",
         "url": "https://open.spotify.com/album/2E8Rjcixo3IYYlD46Wz46d"
       },
@@ -2363,18 +2347,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "EPHRATA - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ckh3U2IE879CgHJMSlqZ6"
+        "name": "Feel It Again Acoustic EP",
+        "url": "https://open.spotify.com/album/4DEiWbO9nwgtz9lZnao3wW"
       },
       "artists": [
         {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+          "name": "Hudson Taylor",
+          "url": "https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub"
         }
       ],
-      "duration_ms": 234326,
-      "name": "Blood Drive",
-      "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
+      "duration_ms": 181765,
+      "name": "Run with Me - Acoustic",
+      "url": "https://open.spotify.com/track/5HWHvdTxDbqunMzbmCLURA"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2395,22 +2379,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Ain't No Reason",
-      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7LPqQCiLYr4IiV4ovulidQ"
       },
@@ -2423,6 +2391,38 @@
       "duration_ms": 211791,
       "name": "Together",
       "url": "https://open.spotify.com/track/7h6DGVOQYhjOzqMdDFHoso"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "EPHRATA - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ckh3U2IE879CgHJMSlqZ6"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 234326,
+      "name": "Blood Drive",
+      "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Ain't No Reason",
+      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
     },
     {
       "added_at": "2024-04-24 06:24:42",

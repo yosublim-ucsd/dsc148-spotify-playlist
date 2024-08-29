@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Belinda en portada.",
-  "num_followers": 108460,
+  "num_followers": 108516,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
         "name": "Libro Abierto (En Vivo)",
         "url": "https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 159741,
       "name": "Libro Abierto - En Vivo",
       "url": "https://open.spotify.com/track/5xsTkci1YsuBTB9Sa5xiSS"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -951,22 +951,18 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Se Dice Facil",
-        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
+        "name": "ME PRENDO UN GALLO",
+        "url": "https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 155300,
-      "name": "Se Dice Facil",
-      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
+      "duration_ms": 194876,
+      "name": "ME PRENDO UN GALLO",
+      "url": "https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "ME PRENDO UN GALLO",
-        "url": "https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX"
+        "name": "Se Dice Facil",
+        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 194876,
-      "name": "ME PRENDO UN GALLO",
-      "url": "https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn"
+      "duration_ms": 155300,
+      "name": "Se Dice Facil",
+      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+        "name": "Las Noches",
+        "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
       },
       "artists": [
         {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+      "duration_ms": 133909,
+      "name": "Las Noches",
+      "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Las Noches",
-        "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 133909,
-      "name": "Las Noches",
-      "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
       },
@@ -1307,6 +1291,38 @@
       "duration_ms": 163200,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "Mucha Mujer",
         "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "No Te Fui Suficiente",
         "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 278666,
       "name": "No Te Fui Suficiente",
       "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
         "name": "Quer\u00eda Que Fueras T\u00fa",
         "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 174874,
       "name": "Quer\u00eda Que Fueras T\u00fa",
       "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
-        "name": "Voy A Quedarte Mal",
-        "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 223211,
-      "name": "Voy A Quedarte Mal - En Vivo",
-      "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Mujeres al Tiro",
-        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+        "name": "Voy A Quedarte Mal",
+        "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 145962,
-      "name": "Mujeres al Tiro",
-      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
+      "duration_ms": 223211,
+      "name": "Voy A Quedarte Mal - En Vivo",
+      "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
     },
     {
       "added_at": "2024-08-16 14:34:01",

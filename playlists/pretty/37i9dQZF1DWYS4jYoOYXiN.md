@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,638 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,663 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 23 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Latin Bugalu](https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH) | 2:28 |
 | 24 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 |
 | 25 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
-| 26 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 |
-| 27 | [Dry Coconuts](https://open.spotify.com/track/7tUKJZGKfMgb6VdCyTQIiF) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Dry Coconuts \- Güeita Caimán](https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6) | 2:33 |
+| 26 | [Dry Coconuts](https://open.spotify.com/track/7tUKJZGKfMgb6VdCyTQIiF) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Dry Coconuts \- Güeita Caimán](https://open.spotify.com/album/3NhmPB7jtHaB7YfcVZ28E6) | 2:33 |
+| 27 | [Touch Me](https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [The Queen Does Her Own Thing](https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD) | 2:25 |
 | 28 | [En Puerta de Tierra](https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g) | [Joe Quijano](https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4) | [Exitos de Oro \(Golden Hits\)](https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH) | 2:27 |
 | 29 | [Right On](https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 2:47 |
 | 30 | [Columbia's Boogaloo](https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:06 |

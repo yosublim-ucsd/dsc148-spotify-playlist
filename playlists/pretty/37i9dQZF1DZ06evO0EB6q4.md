@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 ### [This Is Nanpa Básico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EB6q4)
 
-> This Is Nanpa Básico\. Los temas esenciales, todos en una lista.
+> This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,168 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,310 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 50 | [Bulevar \(feat\. Nanpa Básico & Brray\) \- Remix](https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Bulevar \(feat\. Nanpa Básico & Brray\) \[Remix\]](https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD) | 6:00 |
 | 51 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 |
 
-Snapshot ID: `ZsvFgAAAAAC81dX2wHIiPCAjMVtyyh/7`
+Snapshot ID: `ZsvFgAAAAACSvZM1KgGFoWGPzDtcHqFi`

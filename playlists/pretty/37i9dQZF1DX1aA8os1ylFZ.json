@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242905,
+  "num_followers": 242932,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 210100,
       "name": "All That It Takes",
       "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "duration_ms": 215152,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 170129,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 215152,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211644,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Loveloca",
         "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 155624,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "COMING HOME (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211644,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "The Right One",
+        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "duration_ms": 176756,
+      "name": "The Right One",
+      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Players Voicemail",
         "url": "https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 238178,
       "name": "MUSE FREESTYLE",
       "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "The Right One",
-        "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "The Right One",
-      "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
     },
     {
       "added_at": "2024-08-02 06:34:58",

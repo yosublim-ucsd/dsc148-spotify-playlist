@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,815 likes - 71 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,813 likes - 71 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

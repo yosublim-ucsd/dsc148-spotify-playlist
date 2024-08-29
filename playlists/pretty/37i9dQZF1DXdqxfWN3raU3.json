@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
-  "num_followers": 254746,
+  "num_followers": 254773,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
       },
@@ -335,38 +351,18 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2024-08-14 15:56:04",
@@ -387,18 +383,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 217936,
       "name": "Obra de Dios",
       "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 181463,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Helado De Vainilla",
         "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 209100,
       "name": "Helado De Vainilla",
       "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 145413,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Corazones en Alm\u00edbar",
         "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 228803,
       "name": "Masaryk",
       "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 145413,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "hiErve",
+        "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 150982,
+      "name": "hiErve",
+      "url": "https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "hiErve",
-        "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 150982,
-      "name": "hiErve",
-      "url": "https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1739,22 +1739,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
+        "name": "Nadie Nos Entiende",
+        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
       },
       "artists": [
         {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         },
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+      "duration_ms": 217373,
+      "name": "Nadie Nos Entiende",
+      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1787,22 +1787,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Nadie Nos Entiende",
-        "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
         },
         {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Nadie Nos Entiende",
-      "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
+      "duration_ms": 238000,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
     },
     {
       "added_at": "2024-08-09 06:00:00",

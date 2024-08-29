@@ -2,7 +2,7 @@
 
 ### [J\-Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXdbRLJPSmnyq)
 
-> All the J\-Pop tunes you love in one playlist\. Cover: Fujii Kaze
+> All the J\-Pop tunes you love in one playlist\. Cover: Mrs\. GREEN APPLE
 
 192 songs - 12 hr 29 min
 

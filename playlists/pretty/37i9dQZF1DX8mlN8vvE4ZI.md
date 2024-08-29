@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,202 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,204 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 19 | [Sagar Kinare](https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Sitarscape](https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ) | 4:06 |
 | 20 | [Lat Ulajhi \- Instrumental](https://open.spotify.com/track/5pPBW1gjjepWGyn8BqqF5X) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Lat Ulajhi \- Single](https://open.spotify.com/album/1htF88la5OLlyZgDhJaRKT) | 3:48 |
 | 21 | [Yentha Prema \(Sitar Instrumental\)](https://open.spotify.com/track/6LxJvtF1DPZtCDj60DIWul) | [Raj Prakash Paul](https://open.spotify.com/artist/5pCZk4EhxyQ17HZS5Vom2e) | [Prakshalana](https://open.spotify.com/album/4V6pKFwkz1mtvVAmMCcoTD) | 1:35 |
-| 22 | [Roshan](https://open.spotify.com/track/1eWN6erAfKufEeyVy5pEWI) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Roshan](https://open.spotify.com/album/68TOQgbMmZ41jx8sCWyDWK) | 4:38 |
-| 23 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 |
+| 22 | [Evenings in Dehli \- Sitar/Guitar Melodies for Relaxation](https://open.spotify.com/track/5BHcmw8MMEgqY9jsgoD6O3) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [50 New Age, Relaxation & Massage Tracks \(For Office & Home Relaxation, Spa, Yoga Music, Massage Music & New Age\)](https://open.spotify.com/album/4Kl2t9NyYrmG6aehsIIWz9) | 2:29 |
+| 23 | [Roshan](https://open.spotify.com/track/1eWN6erAfKufEeyVy5pEWI) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Roshan](https://open.spotify.com/album/68TOQgbMmZ41jx8sCWyDWK) | 4:38 |
 | 24 | [wyd tonight?](https://open.spotify.com/track/2hQrvdLWkVbOtiGqLPYI3g) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [wyd tonight?](https://open.spotify.com/album/6cx7EyRZTmjkkLceusxD3r) | 1:55 |
 | 25 | [Yaman Kalyan](https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4) | [Rais Khan](https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK), [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 4:20 |
 | 26 | [Ayyappa Ashtakam](https://open.spotify.com/track/0D4ihckiXf3dIKhBm2YXaH) | [Sitar Heroes](https://open.spotify.com/artist/4HrMXro3GNDu8YBAjc9doe) | [Buddha Sitar Favorites](https://open.spotify.com/album/2kCpZPBUMJVjBavzZcc6qO) | 2:52 |

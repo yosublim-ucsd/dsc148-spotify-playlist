@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138255,
+  "num_followers": 138253,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Lightning I, II",
-        "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "The Lightning II",
-      "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Kiss Ur Face Forever",
         "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 166556,
       "name": "Kiss Ur Face Forever",
       "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "The Lightning I, II",
+        "url": "https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "The Lightning II",
+      "url": "https://open.spotify.com/track/4hgobGfWedCMII3bdualzM"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Teenage Headache Dreams (with Ellie Rowsell)",
         "url": "https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 283013,
       "name": "Teenage Headache Dreams (with Ellie Rowsell)",
       "url": "https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Move to San Francisco",
-        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 181492,
-      "name": "Move to San Francisco",
-      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Meet Glen Campbell",
         "url": "https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Move to San Francisco",
+        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 181492,
+      "name": "Move to San Francisco",
+      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
     },
     {
       "added_at": "2024-07-12 23:20:36",

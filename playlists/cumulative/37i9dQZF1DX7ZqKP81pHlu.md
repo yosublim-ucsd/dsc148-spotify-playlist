@@ -4,7 +4,7 @@
 
 > L'Algérino et Soolking à la une de la playlist numéro un en Algérie.
 
-230 songs - 13 hr 53 min
+231 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 | 2022-07-18 | 2022-09-29 |
 | [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 | 2024-07-18 |  |
 | [Halef](https://open.spotify.com/track/28kzTkgv60LFKbEGwdFgYa) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch), [Albaa](https://open.spotify.com/artist/3c0hnWjJw7lqYApYq7ihdT) | [Halef](https://open.spotify.com/album/5wq51CWjGXTao5FkGZe8Tv) | 3:30 | 2022-11-26 | 2023-03-07 |
+| [Hana](https://open.spotify.com/track/65HxtT2k0HH0iXxDkZcBk9) | [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Eklektika](https://open.spotify.com/album/2eJlyrJrorOon92OKkIthh) | 3:45 | 2024-08-28 |  |
 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 | 2024-06-04 |  |
 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 | 2021-12-09 | 2023-05-11 |
 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 | 2023-07-07 | 2024-07-19 |
@@ -181,7 +182,7 @@
 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-08-16 |  |
 | [Peace N Love](https://open.spotify.com/track/7ohwke3nvqtXepKH6ujm5J) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 3:09 | 2021-12-09 | 2022-03-11 |
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
-| [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-26 |  |
+| [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-26 | 2024-08-29 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-01-30 | 2024-02-20 |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-06-02 | 2022-11-25 |
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 |  |

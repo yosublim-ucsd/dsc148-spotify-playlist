@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 ### [This Is Yoss Bones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C)
 
-> This Is Yoss Bones\. Los temas esenciales, todos en una lista.
+> This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,274 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,285 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Nagasaki](https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Nagasaki](https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus) | 4:05 |
 | 50 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
 
-Snapshot ID: `ZsvFgAAAAAD7ofwJ4EEqsMFQtALwuFdj`
+Snapshot ID: `ZsvFgAAAAADoLEf4OSzhM2hmkFHtwjYY`

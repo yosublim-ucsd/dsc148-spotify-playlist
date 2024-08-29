@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,810 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,808 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 37 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 |
 | 38 | [Love me Again](https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Love me Again \(This is a Campus Romance Series X KEN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv) | 3:07 |
 | 39 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
-| 40 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
-| 41 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
+| 40 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
+| 41 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
 | 42 | [Traffic Accident](https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf) | [Dann](https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT), [MUJIN](https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH) | [Unintentional Love Story Original Televion Soundtrack Pt\. 3](https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS) | 3:21 |
 | 43 | [널 생각해](https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb) | [One More Chance](https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY) | [First Album](https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb) | 4:08 |
 | 44 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,903 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,905 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 |
 | 50 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-1,092 songs - 3 day 0 hr 19 min
+1,094 songs - 3 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-31 | 2024-04-24 |
 | [Kamakura On The Beach](https://open.spotify.com/track/5GLiyB0UfQfDgR5vUhUMVw) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Kamakura On The Beach](https://open.spotify.com/album/0TwTRZ0RIDblGzTUePZ6iP) | 4:17 | 2022-09-29 | 2022-10-05 |
 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 | 2023-04-18 | 2024-04-19 |
-| [KANASHIBARI](https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X) | 4:57 | 2024-04-03 |  |
+| [KANASHIBARI](https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X) | 4:57 | 2024-04-03 | 2024-08-29 |
 | [KARAKURI](https://open.spotify.com/track/1tY3kNrhNO6kVkfNDGJ3Qz) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 5:39 | 2024-02-27 | 2024-04-19 |
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-18 |  |
@@ -500,6 +500,7 @@
 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [so far so good](https://open.spotify.com/track/0T9Xn3cCZvMfoqT2TFUvF1) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:26 | 2022-06-14 | 2022-06-22 |
 | [Sokonashi Beauty](https://open.spotify.com/track/3aEN8WxAZJdgWAr0UY68Qm) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [PINEAPPLE](https://open.spotify.com/album/7H6O4bSyIxIKD5mavo8JMc) | 4:10 | 2023-04-11 | 2023-04-19 |
+| [Someone's Dream](https://open.spotify.com/track/6uFXWOU6GDP8HLxxFI7Nmy) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [LOVEBITES EP II](https://open.spotify.com/album/6RGhwITLhayQQGLxtwPTb7) | 5:47 | 2024-08-28 |  |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-04-23 | 2024-05-19 |
 | [Sono Keshiki o](https://open.spotify.com/track/0fXg4PLGmNOOgC8Bbs9O9s) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 2:08 | 2023-11-14 | 2023-12-09 |
 | [Sosue](https://open.spotify.com/track/6WlA1bKvy4WFbcaNowEIVG) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA \(Bonus Ver.\)](https://open.spotify.com/album/5rETW5Yvhihl1GjprrPris) | 3:46 | 2024-04-30 | 2024-07-31 |
@@ -592,7 +593,7 @@
 | [UGOKE](https://open.spotify.com/track/6sFS9uxrjOsw92LQZEWgca) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [UGOKE](https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj) | 3:57 | 2022-09-20 | 2022-09-28 |
 | [UK](https://open.spotify.com/track/0v64fID8K31ZcxQeb7sFqL) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [UK](https://open.spotify.com/album/59lRDiU4fyHPMG1jiH42bO) | 3:30 | 2022-10-11 | 2022-10-29 |
 | [Umi ni Naritai part.3](https://open.spotify.com/track/2mspLmFrpyqd4DCxGjN3Sz) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/2W9C8HL0Rkp2SwCLw4ySuh) | 3:36 | 2022-10-11 | 2022-10-29 |
-| [Unchained](https://open.spotify.com/track/1rc0mAmqWlGRNrCmhD84k9) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Unchained](https://open.spotify.com/album/0nWVFvy39189Y93He3yu8O) | 4:16 | 2024-07-30 |  |
+| [Unchained](https://open.spotify.com/track/1rc0mAmqWlGRNrCmhD84k9) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [Unchained](https://open.spotify.com/album/0nWVFvy39189Y93He3yu8O) | 4:16 | 2024-07-30 | 2024-08-29 |
 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-05-09 | 2024-01-17 |
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 | 2023-09-26 | 2024-04-19 |
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 | 2023-09-26 |  |
@@ -820,6 +821,7 @@
 | [パライゾ\-30th ver.\-](https://open.spotify.com/track/4ES7shczPGyUegYpBOxScV) | [PENICILLIN](https://open.spotify.com/artist/7JMKZglYmjZYT9hi7K6weT) | [パライゾ](https://open.spotify.com/album/4k4xXaItazEgYLDAA9xxc4) | 3:58 | 2022-11-17 | 2022-11-23 |
 | [パンデミック](https://open.spotify.com/track/362O8pwLinfFwPKUqxFhIg) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [パンデミック](https://open.spotify.com/album/0IdY0aJAlMww8ki3Rh4WBo) | 3:29 | 2022-12-20 | 2023-01-18 |
 | [ヒガンバナ](https://open.spotify.com/track/1HTcAOYu5BcJw4hp1Su2BS) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ヒガンバナ](https://open.spotify.com/album/02C47kK4jydCNezkMPmD9p) | 2:54 | 2022-05-19 | 2022-07-29 |
+| [ヒトシズク](https://open.spotify.com/track/27zFF1QpIIJRsu7thB9QvG) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ヒトシズク](https://open.spotify.com/album/5Djoopd8FZm1WdJedJ0duv) | 5:28 | 2024-08-28 |  |
 | [ビートとベースとスクラッチ](https://open.spotify.com/track/5HcdlZaChx26a85DeBF4PO) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD) | [ビートとベースとスクラッチ](https://open.spotify.com/album/5JjZ6SGj9QdpNIqINYryDJ) | 3:21 | 2022-05-24 | 2022-05-28 |
 | [ピグマリオン](https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ピグマリオン](https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC) | 4:38 | 2022-08-16 | 2022-10-12 |
 | [フェアウェル](https://open.spotify.com/track/29eO1P0Pl8yD6oyrnvUNNw) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [ファースト・ディケイド](https://open.spotify.com/album/4afJmYTlxOPCQ7NlOJyZsc) | 3:47 | 2022-10-05 | 2022-10-12 |

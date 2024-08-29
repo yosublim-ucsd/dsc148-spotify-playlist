@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1344539,
+  "num_followers": 1344853,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "All The Pain Money Can Buy",
-        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
-      },
-      "artists": [
-        {
-          "name": "Fastball",
-          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "...Somewhere More Familiar",
         "url": "https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 218706,
       "name": "All For You",
       "url": "https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "All The Pain Money Can Buy",
+        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+      },
+      "artists": [
+        {
+          "name": "Fastball",
+          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Mad Mad World",
-        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
-      },
-      "artists": [
-        {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+        "name": "Mad Mad World",
+        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
         }
       ],
-      "duration_ms": 298426,
-      "name": "Stay (Faraway, So Close!)",
-      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+      "duration_ms": 266560,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1015,6 +999,22 @@
       "duration_ms": 132306,
       "name": "Roll To Me",
       "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "Stay (Faraway, So Close!)",
+      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
     },
     {
       "added_at": "2024-06-26 02:07:58",

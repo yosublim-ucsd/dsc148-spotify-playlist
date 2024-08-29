@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,811 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,817 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 4 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 |
 | 5 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 |
 | 6 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
-| 7 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 |
+| 7 | [プロポーズ](https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [プロポーズ](https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P) | 3:54 |
 | 8 | [ルル](https://open.spotify.com/track/6UuxnR9zgvzpFS6YvfCqFL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ルル](https://open.spotify.com/album/10iuG3s2Fry5JiUh0i0c75) | 3:17 |
 | 9 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
 | 10 | [完璧彼女](https://open.spotify.com/track/4IvwKg7uLZmB8wx4eXS8h5) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [愛の不可思議](https://open.spotify.com/album/1Wed7kYwZvlHyRhd4eQVAm) | 2:57 |
 | 11 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 |
-| 12 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 |
+| 12 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 |
 | 13 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
 | 14 | [オーバーフロー](https://open.spotify.com/track/57CSCyVmuv4d1QgIr0yAaU) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [オーバーフロー](https://open.spotify.com/album/6IYWV5eR2dXE39qZSceXtk) | 3:59 |
-| 15 | [光](https://open.spotify.com/track/0AxAdWyqlJsl15fC9t4MsO) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [光](https://open.spotify.com/album/03IA6SjdqOmANBKjPly2M7) | 4:37 |
+| 15 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 |
 | 16 | [チューイン・ディスコ](https://open.spotify.com/track/4BQDsKhTfd2JX1M2ajkOJu) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [チューイン・ディスコ](https://open.spotify.com/album/5halVD4PFLhrdjnJuxTAgH) | 2:57 |
 | 17 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 18 | [Never Give Up](https://open.spotify.com/track/7LxHjUomn8u71LV2diIx2u) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Never Give Up](https://open.spotify.com/album/6akgi3cgQdZIH33K8px7wk) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [Surges](https://open.spotify.com/track/5XhxMq0dQNenKr6eDU79Ka) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背.](https://open.spotify.com/artist/5hunVn37cU0SN64HjAHfuy), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/72RDPs84Uf87a92q7GzhmT) | 2:00 |
 | 50 | [Go\-Getters](https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Go\-Getters](https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa) | 3:15 |
 
-Snapshot ID: `ZsSvcAAAAACX3duF3ZfxQJEivk/hCKLX`
+Snapshot ID: `Zs8xjgAAAABeJP0vb/Q1+HRaKTuJkBeW`

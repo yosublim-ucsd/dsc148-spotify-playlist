@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Preet Sidhu
+> Discover new Punjabi artists! Cover: Sahij Hothi
 
-67 songs - 3 hr 11 min
+68 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [MERA YAAR](https://open.spotify.com/track/5EkuhS6Fxi7JgwaNJaaVvB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [MERA YAAR](https://open.spotify.com/album/7Fq5g1BORrbYwavQKvmyHC) | 3:18 | 2024-07-03 |  |
 | [Meri Sorry](https://open.spotify.com/track/1KiRR1KUh4w8UFkj7nBei9) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Jus Keys](https://open.spotify.com/artist/27OucFF5mWVB8L55dp5RJP), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Meri Sorry](https://open.spotify.com/album/6g5Zt8zkDLmKYJtghOqSek) | 4:21 | 2024-07-03 | 2024-08-01 |
 | [Mi Precioso](https://open.spotify.com/track/6dD2PSY0pVmkQKsyflBR92) | [Jas Chahal](https://open.spotify.com/artist/1dEQI8eLF7oqlS3iV8aH24), [Nawab Khan](https://open.spotify.com/artist/36jHfTqq00vX3h5qu1yuWO), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Mi Precioso](https://open.spotify.com/album/5y868NRUeKZvLnPtHnKC44) | 2:52 | 2024-07-03 |  |
+| [Miss Me?](https://open.spotify.com/track/4Q1JtqEb1S0cmRItv4z5pK) | [Sahij Hothi](https://open.spotify.com/artist/7sgsLlXW0EuH981GfOS1Ri), [Garry on the Track](https://open.spotify.com/artist/43twEeStPpK0Q0sir8xoRw), [Deep Varn](https://open.spotify.com/artist/5y9NFdyMuph2diUhtvboh0) | [Miss Me?](https://open.spotify.com/album/5sqBZyEwQSY4N6e7tmX4yI) | 4:11 | 2024-08-28 |  |
 | [Mithiyan Maar Ke](https://open.spotify.com/track/7pgosVSOiaC5lP1kXn6OJI) | [Arsh Maini](https://open.spotify.com/artist/4ImRA2lyBqPcegIXeCmPvj), [Chobbxr](https://open.spotify.com/artist/6EG5sYMUAuU5Y1bD4r8JGU) | [Mithiyan Maar Ke](https://open.spotify.com/album/5hH98GCotwvLKLh4Z9GtGl) | 2:32 | 2024-07-03 | 2024-08-01 |
 | [Munda Hot](https://open.spotify.com/track/4Yjj5jvHi4uxtVuaY1zA1N) | [Ravonlyy](https://open.spotify.com/artist/4jxAIkgeW8CZnkMIOrAX9h) | [Munda Hot](https://open.spotify.com/album/52bA3D2RbWLwPetelaMBgT) | 2:28 | 2024-07-31 |  |
 | [Muqabala](https://open.spotify.com/track/10LE4vS4t6omJmadQQeqOg) | [The Ranjha](https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF), [The Kidd](https://open.spotify.com/artist/7rs8gMmzWfpTdRodGfBq3w) | [Muqabala](https://open.spotify.com/album/5QFYUisazLdsrFLpILm3iL) | 2:30 | 2024-07-03 |  |
@@ -63,7 +64,7 @@
 | [Pyaar Jeha](https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [Pyaar Jeha](https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB) | 2:33 | 2024-07-16 |  |
 | [Rumours](https://open.spotify.com/track/0UHAKKGEF136QPQBeOh2kk) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [More Than Before](https://open.spotify.com/album/2pigEktLHVZmgXKAgNWdFf) | 3:00 | 2024-07-03 |  |
 | [Sara Pind Mittran Da](https://open.spotify.com/track/2WYFqWFRaI1m8PCsdwRA6w) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ) | [Sara Pind Mittran Da](https://open.spotify.com/album/3TL1nlrJaZbhNArzLIHssl) | 4:16 | 2024-07-03 |  |
-| [Secrets](https://open.spotify.com/track/65VHO47bvPQfxEnLU6iWtV) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Secrets](https://open.spotify.com/album/6dIJC7qD94Ci85jWyYYKSC) | 2:37 | 2024-07-03 |  |
+| [Secrets](https://open.spotify.com/track/65VHO47bvPQfxEnLU6iWtV) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Secrets](https://open.spotify.com/album/6dIJC7qD94Ci85jWyYYKSC) | 2:37 | 2024-07-03 | 2024-08-29 |
 | [Sharafat](https://open.spotify.com/track/1qOe5HePibypL6IHBL8sKv) | [Jaswant Seerha](https://open.spotify.com/artist/4Lgt39Z3ManC75u9XeWIlU), [Yodha](https://open.spotify.com/artist/6UsPVTGOJePJomZKhVG4d7), [ellde fazilika](https://open.spotify.com/artist/3Od7H2yD7FTn4a4ug05oyl) | [Sharafat](https://open.spotify.com/album/2leFIh2HSTVsHaK89lT1KL) | 3:11 | 2024-07-03 |  |
 | [Sunset](https://open.spotify.com/track/4oStWk8TYqWPmAvEJ6AhkN) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:36 | 2024-07-03 |  |
 | [Talks](https://open.spotify.com/track/4lC5EzS4NHJFcyUKLvX7Q0) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Talks](https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF) | 3:33 | 2024-07-03 |  |

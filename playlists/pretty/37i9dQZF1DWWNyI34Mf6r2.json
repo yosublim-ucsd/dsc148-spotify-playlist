@@ -1,6 +1,6 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 63919,
+  "num_followers": 63933,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 233015,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2023-10-19 16:59:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "The Greatest",
-        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Apolonio",
         "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 102160,
       "name": "Hey Boy (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 279733,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Essential - Chill Out",
-        "url": "https://open.spotify.com/album/5BIbQzdWbWIePoloNliqzh"
-      },
-      "artists": [
-        {
-          "name": "Smoke City",
-          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Underwater Love - Radio Edit",
-      "url": "https://open.spotify.com/track/6q1yhCi0CBGWmbPIamAL9M"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 198000,
       "name": "This Girl's In Love With You",
       "url": "https://open.spotify.com/track/5bn5FRmh9HbVD2fX7HxcAf"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Essential - Chill Out",
+        "url": "https://open.spotify.com/album/5BIbQzdWbWIePoloNliqzh"
+      },
+      "artists": [
+        {
+          "name": "Smoke City",
+          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Underwater Love - Radio Edit",
+      "url": "https://open.spotify.com/track/6q1yhCi0CBGWmbPIamAL9M"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
         "name": "Running Up That Hill (A Deal With God)",
         "url": "https://open.spotify.com/album/3I55HthgqPq82YDhfzSHA2"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 261553,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/0KyIfYYxcxNPODhESiODtJ"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     }
   ],
   "unique_name": "cafeter\u00eda ",

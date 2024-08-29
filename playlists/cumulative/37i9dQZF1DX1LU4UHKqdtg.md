@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NEXZ
 
-1,167 songs - 2 day 14 hr 57 min
+1,169 songs - 2 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Air](https://open.spotify.com/track/0vOG7sgElxsfQyJvRs4kSG) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre4 : Air>](https://open.spotify.com/album/63TxL3GOqpzcFY4LkeNXoB) | 2:27 | 2024-05-10 | 2024-06-14 |
 | [Alcohol\-Free \(English ver.\)](https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:30 | 2023-11-22 | 2024-01-19 |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-14 | 2024-08-07 |
+| [Algorithm](https://open.spotify.com/track/26z9YaukqS3xtQm2fhm4UV) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Algorithm](https://open.spotify.com/album/2jvfjweOGDWg2P8VuPCp4G) | 2:27 | 2024-08-27 |  |
 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 | 2022-05-24 | 2022-07-21 |
 | [All About You](https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[All About You\]](https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs) | 3:38 | 2022-12-06 | 2023-02-22 |
 | [All Day](https://open.spotify.com/track/44dD5PYO7ZM6SiM8tjhawx) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [All Day](https://open.spotify.com/album/3PGMnYo3uTCroKf64s8RHm) | 2:27 | 2024-07-19 | 2024-08-21 |
@@ -243,6 +244,7 @@
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-14 | 2022-08-10 |
 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-15 | 2024-04-24 |
 | [Day dream](https://open.spotify.com/track/1H3WNw5YS12hQlaWCDKEzD) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Day dream](https://open.spotify.com/album/2pEhjOBOJwWNRMsYWGyq6I) | 3:42 | 2024-02-06 | 2024-02-16 |
+| [Day That I Died](https://open.spotify.com/track/4p6MZZx5zusaVnlzclH8Ut) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Day That I Died](https://open.spotify.com/album/2DvZGcbby4JpThkpLHaBuU) | 3:27 | 2024-08-27 |  |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-21 | 2022-05-25 |
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-25 | 2022-02-23 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-04-03 |

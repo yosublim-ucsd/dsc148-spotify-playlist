@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 ### [This Is Ximena Sariñana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nVdf2)
 
-> This Is Ximena Sariñana\. Los temas esenciales, todos en una lista.
+> This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,516 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,536 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Un Año Más](https://open.spotify.com/track/2udlQqrYr53x9gF1Nh7hPc) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Un Año Más](https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO) | 4:11 |
 | 50 | [No Soy Tuya \- Main Title](https://open.spotify.com/track/6soVui0dpsnaFegcclSdAg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Soy Tuya \(Música Original de “Las Azules” de Apple TV+\) \[Main Title\]](https://open.spotify.com/album/3nwgEgEjPZqqLthxVEr5Uw) | 3:11 |
 
-Snapshot ID: `ZsvFgAAAAACu7VFUyUoEciQpoZb+p3Xt`
+Snapshot ID: `ZsvFgAAAAADMkgLC9SGECEApBz6ilPff`

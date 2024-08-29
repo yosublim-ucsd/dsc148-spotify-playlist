@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Timecop1983, Kalax and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,214 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,219 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunset](https://open.spotify.com/track/6mB9A9YLbY4jxpKX5EYAnT) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/0ZbnBDVUkpegVOfgPFr1wr) | 5:26 |
-| 2 | [Clean Eyes \- The Midnight Remix](https://open.spotify.com/track/5OwQwWZwwlRFRejqWPCQnu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Clean Eyes \(The Midnight Remix\)](https://open.spotify.com/album/4oVPznrffwpCG11ft0yQaa) | 3:52 |
+| 2 | [Clean Eyes \- The Midnight Remix](https://open.spotify.com/track/5OwQwWZwwlRFRejqWPCQnu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Clean Eyes \- The Midnight Remix](https://open.spotify.com/album/4oVPznrffwpCG11ft0yQaa) | 3:52 |
 | 3 | [Kyra \- The Midnight Remix](https://open.spotify.com/track/28JgeXZxmTfzsfYLGo3e5G) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kyra \(The Midnight Remix\)](https://open.spotify.com/album/1dXXQkjUBQHUputNCjuQHV) | 4:42 |
 | 4 | [Never Enough \(The Midnight Remix\) \[feat\. the Midnight\]](https://open.spotify.com/track/5TC6bJRlkK0CGRhmaTKZ8w) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Shapes and Outlines \(Remixes\)](https://open.spotify.com/album/7zMH0i8ixbneGnBn285ocn) | 4:52 |
 | 5 | [Missing Out \- The Midnight Remix](https://open.spotify.com/track/0vhaMhozCr9SKpqRvEltsX) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Missing Out \(The Midnight Remix\)](https://open.spotify.com/album/6IFWZUq3vxaI3uHpcGmbvW) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [A Matter Of Time](https://open.spotify.com/track/6KQDL9qTpa49bHvTYKvWxQ) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [A Matter Of Time](https://open.spotify.com/album/38Qb46r3bn8XKpIZXBYLv1) | 3:52 |
 | 50 | [In Love](https://open.spotify.com/track/0XpKc2COn2AyhAFWCUVD8Z) | [Siamese Youth](https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw) | [Echoes of Tomorrow](https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu) | 4:52 |
 
-Snapshot ID: `Zs6VuAAAAAAoo4sqF5VdVREvoZbDwabZ`
+Snapshot ID: `Zs/m7AAAAAC0hJ67rt/HGpAcVwt7BeC6`

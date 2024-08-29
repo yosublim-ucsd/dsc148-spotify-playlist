@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 167125,
       "name": "(nendest) narkootikumidest ei tea me (k\u00fcll) midagi",
       "url": "https://open.spotify.com/track/43IB8nJZTAmlJi9eBAmTrJ"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -10563,6 +10563,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/04mszQh6VTdb0sQcXWPDFJ"
+      },
+      "artists": [
+        {
+          "name": "Kennyice",
+          "url": "https://open.spotify.com/artist/36fj0UBiN4y4kx2H98ofdO"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2L1tHukduoLoApBlgHeoLg"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -11928,7 +11946,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
@@ -13455,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "Hasta el Amanecer",
+        "url": "https://open.spotify.com/album/0wAPy2uzVSPaw55j60btfh"
+      },
+      "artists": [
+        {
+          "name": "Don Equis Y BOLIVIA MASTERWORX",
+          "url": "https://open.spotify.com/artist/1RcpYdTafPMgqyrY6xclRj"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196058,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/7qbXTpenAwgw3yQzqMzXJS"
+    },
+    {
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -14940,7 +14976,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -22491,6 +22527,28 @@
     },
     {
       "album": {
+        "name": "Midagi Head",
+        "url": "https://open.spotify.com/album/6Fh9kOxI1WNYIejSgbTgSA"
+      },
+      "artists": [
+        {
+          "name": "Maris Pihlap",
+          "url": "https://open.spotify.com/artist/3594I0JPmGJklcod5vZJv7"
+        },
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210359,
+      "name": "Midagi Head",
+      "url": "https://open.spotify.com/track/3HgTiFQD2ZCH2r3CAczUoq"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -25166,7 +25224,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 170031,
       "name": "NO POLICE (Remix)",
       "url": "https://open.spotify.com/track/0y2sUHVDAWQbfuIQGEfhFO"
@@ -39356,7 +39414,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

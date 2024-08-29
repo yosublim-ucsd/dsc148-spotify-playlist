@@ -4,7 +4,7 @@
 
 > 
 
-232 songs - 13 hr 45 min
+233 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Proxima](https://open.spotify.com/track/7M14W9QJ43hPh6gaVCcsbH) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Proxima](https://open.spotify.com/album/6BrF9TabHBjU905Stlqz8q) | 4:48 | 2019-11-03 |  |
 | [Questions](https://open.spotify.com/track/3tlTiN0lZQVcvcWxa9KGpv) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Questions](https://open.spotify.com/album/7afc6LcKi9jkE0l5m8lvWt) | 3:21 | 2020-08-10 |  |
 | [Radiant](https://open.spotify.com/track/5h3H7uXc5Uss7pNXK7C2WW) | [STS\-51L](https://open.spotify.com/artist/26sQOH3CNqd81507zMHofP), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Andromeda](https://open.spotify.com/album/0XQR3Ky1jdpw2RtpISEE93) | 3:13 | 2022-10-24 |  |
+| [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 | 2024-08-28 |  |
 | [Reach](https://open.spotify.com/track/6zL2omvnQ206XwPvXoMlx8) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Reach](https://open.spotify.com/album/512c9dyPWpLL5M5Nz9Byq3) | 3:33 | 2018-11-27 |  |
 | [Redox](https://open.spotify.com/track/1PlCzoflJ67dVBOZTKm3r7) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [Redox](https://open.spotify.com/album/4zeFJzRJ6qxTcDSJi6orzk) | 3:11 | 2019-07-31 |  |
 | [Reflection](https://open.spotify.com/track/1R3qWOKVtePIpfFYSuPwem) | [Lowly, Smokefishe](https://open.spotify.com/artist/74ZfaGpPxrbKS9zBNb6OHQ) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:27 | 2021-06-11 |  |

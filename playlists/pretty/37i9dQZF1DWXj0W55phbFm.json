@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 56469,
+  "num_followers": 56516,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-08 07:13:11",
       "album": {
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
+    },
+    {
+      "added_at": "2024-07-08 07:13:11",
+      "album": {
         "name": "On The Dance Floor",
         "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 209666,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
-    },
-    {
-      "added_at": "2024-07-08 07:13:11",
-      "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
     },
     {
       "added_at": "2024-07-08 07:13:11",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-08 07:13:11",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 509373,
-      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
-    },
-    {
-      "added_at": "2024-07-08 07:13:11",
-      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 357213,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
+    },
+    {
+      "added_at": "2024-07-08 07:13:11",
+      "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 509373,
+      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
     },
     {
       "added_at": "2024-07-08 07:13:11",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-08 07:13:11",
       "album": {
-        "name": "Why Not",
-        "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Ball",
-          "url": "https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
-    },
-    {
-      "added_at": "2024-07-08 07:13:11",
-      "album": {
         "name": "Little Johnny C",
         "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 312313,
       "name": "Apple House",
       "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
+    },
+    {
+      "added_at": "2024-07-08 07:13:11",
+      "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Ball",
+          "url": "https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
     },
     {
       "added_at": "2024-07-08 07:13:11",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-07-08 07:13:11",
       "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
-    },
-    {
-      "added_at": "2024-07-08 07:13:11",
-      "album": {
         "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
         "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 250173,
       "name": "Tranquillity - Remastered 1998",
       "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+    },
+    {
+      "added_at": "2024-07-08 07:13:11",
+      "album": {
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
     },
     {
       "added_at": "2024-07-08 07:13:11",

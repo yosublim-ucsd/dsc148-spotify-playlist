@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://subelealamexcla.byspotify.com/"> AQUÍ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,459 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,389 likes - 71 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 56 | [Perreando Y Llorando](https://open.spotify.com/track/6HJE6WqRM9VsARnBlz5fci) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Perreando Y Llorando](https://open.spotify.com/album/0FMR6ZhZB4affuCdzmDnwr) | 2:40 |
 | 57 | [Mantis](https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:31 |
 | 58 | [Cyberia](https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:41 |
-| 59 | [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:51 |
+| 59 | [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:31 |
 | 60 | [Te Amo \(En vivo\)](https://open.spotify.com/track/1SbhzB6EXA1VwjInrnXC89) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5bAIZiaPKzHJQoDAZ2Kldo) | 3:07 |
 | 61 | [Prisión De Amor](https://open.spotify.com/track/60djooUsL7woxEd08EcMjt) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [No Se Ve Por Dónde](https://open.spotify.com/album/12YkKLjCoAUxpKUeg395El) | 2:58 |
 | 62 | [Las Solicitudes](https://open.spotify.com/track/51kLagUGoJepiE2VjK8xoR) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Las Solicitudes](https://open.spotify.com/album/2wLx6AguseKODAAwsetCHR) | 3:42 |

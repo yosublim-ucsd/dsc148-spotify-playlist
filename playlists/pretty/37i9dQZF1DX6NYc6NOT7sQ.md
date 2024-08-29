@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,413 likes - 90 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,422 likes - 90 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 9 | [Sequence Pt\. 2](https://open.spotify.com/track/1AhqGJT3659u5B3gvJPPdO) | [Karma Whiff](https://open.spotify.com/artist/414O3gPDAvBftGcLSqgtw5), [Muaz Ceyhan](https://open.spotify.com/artist/1xlRrEXSQPhtLjFuQIF47p) | [Sequence Pt\. 2](https://open.spotify.com/album/0qHO6lTsqlch58hMJpKv2d) | 4:43 |
 | 10 | [Serpent](https://open.spotify.com/track/5e8XvUqeyxPqRrK7Bz85D7) | [talking rocks](https://open.spotify.com/artist/4dtZP42cTa7KX9sbpz31dX), [Netam](https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6) | [Nihilistan](https://open.spotify.com/album/51af7izp08nttVngxAZCaG) | 5:45 |
 | 11 | [Mercury](https://open.spotify.com/track/2LBzqBb8fCUNnkbkhdssyE) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 4:15 |
-| 12 | [The Model](https://open.spotify.com/track/1iHPo2jF7jfCQbqlQTd5dH) | [Olivier Libaux](https://open.spotify.com/artist/4JolMwisQMUtwysQfA193F), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Raphaël Chassin](https://open.spotify.com/artist/5h3xWHUBAMfWz6nL84j9wZ) | [ALL THAT MATTERS](https://open.spotify.com/album/6o6LkvldTFrCFvdppX6fQY) | 2:59 |
+| 12 | [The Model](https://open.spotify.com/track/1iHPo2jF7jfCQbqlQTd5dH) | [Olivier Libaux](https://open.spotify.com/artist/4JolMwisQMUtwysQfA193F), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Raphael Chassin](https://open.spotify.com/artist/2cnO4cLhG5s9MAxOWtjSKp) | [All That Matters](https://open.spotify.com/album/6o6LkvldTFrCFvdppX6fQY) | 2:59 |
 | 13 | [Conritmo](https://open.spotify.com/track/7m75ejp6P4NO3UG8VT89nQ) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Portrait of the Obscure](https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm) | 5:07 |
 | 14 | [Oslo](https://open.spotify.com/track/5Jf9o514OJWEZSYYTTHgOx) | [O/Y](https://open.spotify.com/artist/4VqH0mBvO9KUg195zWgfmB) | [VARIATIONS](https://open.spotify.com/album/2PFZsYtWxx3FZdLdxc1AEG) | 6:23 |
 | 15 | [Style Is the Answer](https://open.spotify.com/track/2P4Ds0DnfpQQOwixFn3C19) | [Mash](https://open.spotify.com/artist/4n85dK6BI8NjcYbcgfNzOX) | [Style Is the Answer](https://open.spotify.com/album/6TQbln0UcGE74L7ZKO68qX) | 6:49 |

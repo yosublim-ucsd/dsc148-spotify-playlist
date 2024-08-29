@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/6I8s8s1g77v6fBYImKv1yz"
+      },
+      "artists": [
+        {
+          "name": "Asmae",
+          "url": "https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Fink",
+      "url": "https://open.spotify.com/track/4vmmaBXaplcAyGVlQiPRuf"
+    },
+    {
+      "album": {
         "name": "Moroccan Dream",
         "url": "https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 244800,
       "name": "TRAP ROUMI V5",
       "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"

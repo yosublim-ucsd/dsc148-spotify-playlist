@@ -4,7 +4,7 @@
 
 > 
 
-1,956 songs - 4 day 9 hr 27 min
+1,959 songs - 4 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [19](https://open.spotify.com/track/4jAif33FWQlOCwGKoHXbXg) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [19](https://open.spotify.com/album/4H59aVCV5LwfpvSaiLEBau) | 3:48 | 2021-08-05 |  |
 | [1999 She](https://open.spotify.com/track/3giGHzw3cwE2xraZpRMY3p) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [1999 She](https://open.spotify.com/album/7CchnvrH1SKYlklfOGKmxb) | 2:46 | 2021-08-05 |  |
 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 | 2021-08-24 |  |
+| [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-08-28 |  |
 | [2012\_NoSekai](https://open.spotify.com/track/69XMn0nw3zBnU8DsflK1mo) | [Starcatcher](https://open.spotify.com/artist/7DaEbrXZus2RbkmXGtxhjT) | [2012\_NoSekai](https://open.spotify.com/album/07nkoN1P5IBUr7bQleUurv) | 2:45 | 2024-06-18 |  |
 | [212](https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 3:24 | 2024-03-27 |  |
 | [21st Century Schizoid Man \[Bonus Track\] \- Radio Version](https://open.spotify.com/track/0VM37qX3DRencowoNChrPB) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 6:41 | 2021-08-05 |  |
@@ -109,6 +110,7 @@
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2021-09-08 |  |
 | [All The Things She Said \- Sped Up](https://open.spotify.com/track/2m1JNhcHrWOsexYdbqu9Ku) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd) | [All The Things She Said \(Sped Up\)](https://open.spotify.com/album/1JS0COqrR1cURcgPEiePjc) | 2:54 | 2022-09-05 |  |
 | [All this love](https://open.spotify.com/track/52IPeim7OfK6ucIZC68DYY) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 4:09 | 2021-11-14 |  |
+| [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 | 2024-08-28 |  |
 | [Alligator Blood](https://open.spotify.com/track/1Jx2ZMYVcXM0CfqOysoC8R) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There Is A Hell Believe Me I've Seen It\. There Is A Heaven Let's Keep It A Secret](https://open.spotify.com/album/2BxDLAnw4QPcs8U4r1StrI) | 4:31 | 2021-08-05 |  |
 | [Aloha](https://open.spotify.com/track/0wc23hbQfO6pHyc600wFJq) | [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp), [GUN40](https://open.spotify.com/artist/7DCSxPjPxjyMFDSsygLMQa) | [The Creator](https://open.spotify.com/album/182T6uQqW6fYIWiMMQjuBk) | 1:27 | 2021-08-05 |  |
 | [alone](https://open.spotify.com/track/4DOQULDZcy6W3mNKtuAZpz) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx) | [alone](https://open.spotify.com/album/6io6hr34sIRqIuyqvvO2LT) | 2:34 | 2023-08-10 |  |
@@ -364,6 +366,7 @@
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-22 |  |
 | [Club Cyberia](https://open.spotify.com/track/3OPwVR3dVHEuWkNYk6LsQl) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Abandon The Flesh !](https://open.spotify.com/album/5UbQTFCWSpqzy8ZwviEJQ6) | 1:36 | 2022-10-13 |  |
 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2021-08-05 |  |
+| [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-08-28 |  |
 | [Coachella \- Woodstock In My Mind](https://open.spotify.com/track/5UPHeuDP0AnG830Yf3bJJD) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:18 | 2021-08-05 |  |
 | [Cock/ver10](https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 5:18 | 2022-07-08 |  |
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2022-11-23 |  |

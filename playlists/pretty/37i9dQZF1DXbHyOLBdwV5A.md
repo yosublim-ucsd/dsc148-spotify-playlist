@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,949 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,951 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 46 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 47 | [Contramão](https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2) | [Contramão](https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp) | 2:13 |
 | 48 | [Sorrindo à Toa \- Remix](https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sorrindo à Toa \(Remix\)](https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg) | 2:35 |
-| 49 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
-| 50 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
+| 49 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
+| 50 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
 | 51 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 52 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
 | 53 | [Se Tu Creres \- Remix](https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Se Tu Creres \(Remix\)](https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD) | 2:51 |

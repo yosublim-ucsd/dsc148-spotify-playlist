@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This is Skillet\. The essential tracks, all in one playlist.
+> This Is Skillet\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,688 likes - 51 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,769 likes - 51 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 50 | [The Defiant](https://open.spotify.com/track/7CS9m4zqBEH2so5yJR1UGC) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:14 |
 | 51 | [Valley of Death](https://open.spotify.com/track/6yPfhJH9EjrJZMCevkN7a9) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:27 |
 
-Snapshot ID: `ZsvFgAAAAAAjVlzEuvX+7JzzyTwc/h4V`
+Snapshot ID: `ZsvFgAAAAAC25/XMLuCo/MZ9ElgY/MJV`

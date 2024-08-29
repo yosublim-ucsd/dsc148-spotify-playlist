@@ -791,26 +791,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Los Sabanales 3.0",
-        "url": "https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 188467,
-      "name": "Los Sabanales 3.0",
-      "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "La Billo's y Los Melodicos de coleccion, vol.1",
         "url": "https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 157826,
       "name": "El Merecumbe",
       "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Los Sabanales 3.0",
+        "url": "https://open.spotify.com/album/2blRzFXYdX7EVTReawNzUt"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 188467,
+      "name": "Los Sabanales 3.0",
+      "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
     },
     {
       "added_at": "2023-12-15 19:49:30",

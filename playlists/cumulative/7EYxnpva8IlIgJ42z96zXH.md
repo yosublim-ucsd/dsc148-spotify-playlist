@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Morning Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Hot Girl Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Want to win a 5x class packs with KX Pilates!? Follow Morning Workout and sign up <a href="https://FiltrAU.lnk.to/MW\-KX!KX">here</a> for your chance to win!
+> Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
 896 songs - 1 day 23 hr 17 min
 

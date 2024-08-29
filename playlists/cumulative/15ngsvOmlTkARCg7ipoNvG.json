@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Soul",
+        "url": "https://open.spotify.com/album/0bS3DTxzPvVVK1PjwggKHR"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60695,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/6MFK3n4FLjc47KDX2mWIOl"
+    },
+    {
+      "album": {
         "name": "Beautiful Stillness",
         "url": "https://open.spotify.com/album/1YX9D9j8bLHKxS3w3TUvqp"
       },

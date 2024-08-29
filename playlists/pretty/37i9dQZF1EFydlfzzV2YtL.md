@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343 likes - 165 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,344 likes - 165 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 135 | [Somedays](https://open.spotify.com/track/6YrO7BJ5E50Y388G3KzqaU) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Somedays](https://open.spotify.com/album/1IaynhU4I7PywSNz1g764V) | 3:22 |
 | 136 | [SHADOWS](https://open.spotify.com/track/2Jf8AKTAQQLFRLpQ97Jt9F) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:14 |
 | 137 | [Crowded Room](https://open.spotify.com/track/7538JmMWZuw9kopnACWeyP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:24 |
-| 138 | [How You King?](https://open.spotify.com/track/4Y1fvVW6U12FrjdKj50Igz) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:35 |
-| 139 | [Hey Homie](https://open.spotify.com/track/187ncCMMqbzQg6UEyBAj9W) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:09 |
+| 138 | [Hey Homie](https://open.spotify.com/track/187ncCMMqbzQg6UEyBAj9W) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:09 |
+| 139 | [How You King?](https://open.spotify.com/track/4Y1fvVW6U12FrjdKj50Igz) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:35 |
 | 140 | [Lighter](https://open.spotify.com/track/1LnwJge8GNIzcQNqcVOB85) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 2:46 |
 | 141 | [Gasoline](https://open.spotify.com/track/070w1ad1BKWGBsXGJ4qp8k) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/2UvU0egYoXsysWkHqQy4Lc) | 3:38 |
 | 142 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 164 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 165 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbakogAAAAC+o4u73Wl/SjTmkrHFhj7A`
+Snapshot ID: `AbaqQgAAAACDh4eDWdJ2hgEMj4dSFcD6`

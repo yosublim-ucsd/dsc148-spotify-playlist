@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1956768,
+  "num_followers": 1957051,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Alabora",
-        "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
-      },
-      "artists": [
-        {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
-        }
-      ],
-      "duration_ms": 423756,
-      "name": "Alabora",
-      "url": "https://open.spotify.com/track/3uI33EsE7AVM3GMxaOn7fv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "A Million Suns",
         "url": "https://open.spotify.com/album/5PRpzouBKGp7Lmulcycf8C"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 164130,
       "name": "A Million Suns",
       "url": "https://open.spotify.com/track/4pfkkhXNUrzzQH11CjBYcv"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Alabora",
+        "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        }
+      ],
+      "duration_ms": 423756,
+      "name": "Alabora",
+      "url": "https://open.spotify.com/track/3uI33EsE7AVM3GMxaOn7fv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Don't Worry",
-        "url": "https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1"
-      },
-      "artists": [
-        {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
-        }
-      ],
-      "duration_ms": 144354,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "As Long As You Love Me",
         "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "duration_ms": 144354,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Floating In Space",
         "url": "https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 152288,
       "name": "Floating In Space",
       "url": "https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "9 PM",
+        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
+      },
+      "artists": [
+        {
+          "name": "COLIN",
+          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "9 PM",
+      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "9 PM",
-        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
+        "name": "Day Drinks",
+        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
       },
       "artists": [
         {
-          "name": "COLIN",
-          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
+          "name": "Sonic",
+          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
         }
       ],
-      "duration_ms": 120000,
-      "name": "9 PM",
-      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
+      "duration_ms": 137454,
+      "name": "Day Drinks",
+      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14"
-      },
-      "artists": [
-        {
-          "name": "Blewbird",
-          "url": "https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W"
-        }
-      ],
-      "duration_ms": 138964,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 130434,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14"
+      },
+      "artists": [
+        {
+          "name": "Blewbird",
+          "url": "https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W"
+        }
+      ],
+      "duration_ms": 138964,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Day Drinks",
-        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
-      },
-      "artists": [
-        {
-          "name": "Sonic",
-          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
-        }
-      ],
-      "duration_ms": 137454,
-      "name": "Day Drinks",
-      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
       },
@@ -847,22 +847,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Ghost (Fejk\u00e1 Remix)",
-        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
+        "name": "Time to Chill",
+        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+          "name": "Sound Nomaden",
+          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
         }
       ],
-      "duration_ms": 283106,
-      "name": "Ghost - Fejk\u00e1 Remix",
-      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
+      "duration_ms": 312272,
+      "name": "Time to Chill",
+      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -883,18 +879,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Time to Chill",
-        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
+        "name": "Ghost (Fejk\u00e1 Remix)",
+        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
       "artists": [
         {
-          "name": "Sound Nomaden",
-          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
         }
       ],
-      "duration_ms": 312272,
-      "name": "Time to Chill",
-      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
+      "duration_ms": 283106,
+      "name": "Ghost - Fejk\u00e1 Remix",
+      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "AQUARIUM",
-        "url": "https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I"
+        "name": "Balearic Dream",
+        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
       "artists": [
         {
-          "name": "Kharfi",
-          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+          "name": "Gueves",
+          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
         }
       ],
-      "duration_ms": 187245,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
+      "duration_ms": 186000,
+      "name": "Balearic Dream",
+      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "It's all clear now",
-        "url": "https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA"
+        "name": "AQUARIUM",
+        "url": "https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I"
       },
       "artists": [
         {
-          "name": "Sun Mirage",
-          "url": "https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4"
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
         }
       ],
-      "duration_ms": 242750,
-      "name": "White Dust",
-      "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
+      "duration_ms": 187245,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "It's all clear now",
+        "url": "https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA"
+      },
+      "artists": [
+        {
+          "name": "Sun Mirage",
+          "url": "https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "White Dust",
+      "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 151632,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
-      },
-      "artists": [
-        {
-          "name": "Together Alone",
-          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
+      },
+      "artists": [
+        {
+          "name": "Together Alone",
+          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Curvature",
         "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 153027,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Balearic Dream",
-        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
-      },
-      "artists": [
-        {
-          "name": "Gueves",
-          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Balearic Dream",
-      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "flux de vibrations",
-        "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
+        "name": "A Glitch",
+        "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
       },
       "artists": [
         {
-          "name": "Paon Bleu",
-          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
+          "name": "Miller Ford",
+          "url": "https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy"
         }
       ],
-      "duration_ms": 176052,
-      "name": "flux de vibrations",
-      "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
+      "duration_ms": 198314,
+      "name": "A Glitch",
+      "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "A Glitch",
-        "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
+        "name": "flux de vibrations",
+        "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
       },
       "artists": [
         {
-          "name": "Miller Ford",
-          "url": "https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy"
+          "name": "Paon Bleu",
+          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
         }
       ],
-      "duration_ms": 198314,
-      "name": "A Glitch",
-      "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
+      "duration_ms": 176052,
+      "name": "flux de vibrations",
+      "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Suen\u0303o Lu\u0301cido",
-        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
-      },
-      "artists": [
-        {
-          "name": "Ralf",
-          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Suen\u0303o Lu\u0301cido",
-      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Suen\u0303o Lu\u0301cido",
+        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
+      },
+      "artists": [
+        {
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Suen\u0303o Lu\u0301cido",
+      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Sun Road",
-        "url": "https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa"
-      },
-      "artists": [
-        {
-          "name": "Alinno",
-          "url": "https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Sun Road",
-      "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Toybox",
         "url": "https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 221217,
       "name": "Toybox",
       "url": "https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sun Road",
+        "url": "https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa"
+      },
+      "artists": [
+        {
+          "name": "Alinno",
+          "url": "https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Sun Road",
+      "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Lost In Stereo",
+        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
+      },
+      "artists": [
+        {
+          "name": "Sofachi",
+          "url": "https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Lost In Stereo",
+      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Star System",
         "url": "https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 235000,
       "name": "Star System",
       "url": "https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sunny Cruisin",
-        "url": "https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Berretini",
-          "url": "https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Sunny Cruisin",
-      "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Alike / Surface",
-        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "Alike",
-      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "lazy days",
         "url": "https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC"
       },
@@ -1687,18 +1671,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lost In Stereo",
-        "url": "https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5"
+        "name": "Alike / Surface",
+        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
       "artists": [
         {
-          "name": "Sofachi",
-          "url": "https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Lost In Stereo",
-      "url": "https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3"
+      "duration_ms": 195147,
+      "name": "Alike",
+      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sunny Cruisin",
+        "url": "https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Berretini",
+          "url": "https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl"
+        }
+      ],
+      "duration_ms": 160166,
+      "name": "Sunny Cruisin",
+      "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
     }
   ],
   "unique_name": "Chillout Lounge",

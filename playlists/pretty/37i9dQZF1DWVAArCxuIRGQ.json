@@ -1,6 +1,6 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 645894,
+  "num_followers": 645914,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-04-12 11:21:02",
       "album": {
+        "name": "The Essentials",
+        "url": "https://open.spotify.com/album/1N4pAgoZjA2oGnh4bTk8oh"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2MuJbBWAVewREJmB8WdGJ3"
+    },
+    {
+      "added_at": "2024-04-12 11:21:02",
+      "album": {
         "name": "Maxi",
         "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 218426,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
-    },
-    {
-      "added_at": "2024-04-12 11:21:02",
-      "album": {
-        "name": "The Essentials",
-        "url": "https://open.spotify.com/album/1N4pAgoZjA2oGnh4bTk8oh"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "It Was A Good Day",
-      "url": "https://open.spotify.com/track/2MuJbBWAVewREJmB8WdGJ3"
     },
     {
       "added_at": "2024-04-12 11:21:02",

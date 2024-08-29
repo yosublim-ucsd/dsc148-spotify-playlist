@@ -2,9 +2,9 @@
 
 ### [Orgánica](https://open.spotify.com/playlist/37i9dQZF1DX2pprEpa9URZ)
 
-> A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
+> Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-410 songs - 1 day 20 hr 12 min
+411 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Savage](https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Savage](https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny) | 7:58 | 2022-11-25 |  |
 | [Scena](https://open.spotify.com/track/3JARIWKhqDUQ0LDxCD75U5) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Scena EP](https://open.spotify.com/album/1XaQkW4nR9nUNJSG6L8A6M) | 5:41 | 2020-06-12 | 2020-08-20 |
 | [Se Va, Se Va](https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Se Va, Se Va](https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba) | 7:29 | 2023-01-30 |  |
+| [Searching for God](https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [David Satori](https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF) | [Searching for God](https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y) | 3:12 | 2024-08-22 |  |
 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 | 2022-09-09 |  |
 | [Senhor Carangeju \- Dengue Dengue Dengue Remix](https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Na Lagoa \(Remixes\)](https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm) | 4:24 | 2022-11-25 | 2024-08-25 |
 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 | 2021-12-17 |  |
@@ -383,7 +384,7 @@
 | [Twilight in Tankwa](https://open.spotify.com/track/2FRLszWM6EYIiKd5afU5cw) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Twilight in Tankwa](https://open.spotify.com/album/385xHS5jOnedTSH2dPoIiT) | 8:03 | 2019-08-02\* | 2019-09-06 |
 | [Tzantza](https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:50 | 2019-08-02\* | 2019-09-20 |
 | [Uhuru](https://open.spotify.com/track/5gWaO5shjSJ7YXAGoqRx3I) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Los Suruba](https://open.spotify.com/artist/5ChHWvFPh4raexx461QFhS) | [Uhuru EP](https://open.spotify.com/album/2qwxpk3oDnZUKiulgZNeqS) | 6:26 | 2020-06-12 | 2020-06-29 |
-| [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 | 2023-06-30 |  |
+| [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 | 2023-06-30 | 2024-08-29 |
 | [Unataka Nini](https://open.spotify.com/track/4nLNZjlEXZfmJbexOdKblj) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:53 | 2020-11-05 | 2022-11-24 |
 | [Undutu](https://open.spotify.com/track/6OjVy3Ec5pUQM9daiPQ2a4) | [Gazzille](https://open.spotify.com/artist/0RZmj0ZArllOXvKMA768s4), [Super Flu](https://open.spotify.com/artist/5gLRPNOZB4bsB0e2XHJal8) | [Undutu](https://open.spotify.com/album/70wdZ0EBSpvsofEzLXOHLz) | 3:28 | 2020-06-12 | 2021-03-11 |
 | [Unsichtbar \- Behrooz Zandi Remix](https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Behrooz Zandi](https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0) | [Unsichtbar \(Behrooz Zandi Remix\)](https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr) | 6:10 | 2023-04-20 |  |

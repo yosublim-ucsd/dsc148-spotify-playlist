@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Fontaines D.C. gift us with Romance \ud83d\udc9a",
-  "num_followers": 730696,
+  "num_followers": 730675,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfNCAAAAACTmbGkb2ZeCY4KZ6PUlF3X",
+  "snapshot_id": "Zs+vYwAAAADuxTmW3FdR5oHt7iAUF1ZM",
   "tracks": [
     {
       "added_at": "2024-08-22 23:43:04",
@@ -23,6 +23,22 @@
       "duration_ms": 266884,
       "name": "In The Modern World",
       "url": "https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm"
+    },
+    {
+      "added_at": "2024-08-28 23:14:43",
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 392773,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1CZpWzCvN6fl2WslWTyPn2"
     },
     {
       "added_at": "2024-08-22 23:00:00",

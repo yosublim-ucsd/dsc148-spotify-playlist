@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,046 likes - 123 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,117 likes - 123 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 15 | [Pine Scent](https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Pine Scent](https://open.spotify.com/album/3R5ljw2npySClY689m2qri) | 2:06 |
 | 16 | [Inner Peace Of Mind](https://open.spotify.com/track/1vQc1CMKybARohCOtrr7Oc) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Inner Peace Of Mind](https://open.spotify.com/album/1sys8kVADrVBBiPvB21JRi) | 3:06 |
 | 17 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 |
-| 18 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
+| 18 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 19 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
 | 20 | [teunok](https://open.spotify.com/track/382bYUbYKAIfyhZ0CQ9gek) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [teunok](https://open.spotify.com/album/2zR5ONJGefVeFM904jJ2HY) | 2:31 |
 | 21 | [Your Happiness](https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Happiness](https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5) | 2:27 |

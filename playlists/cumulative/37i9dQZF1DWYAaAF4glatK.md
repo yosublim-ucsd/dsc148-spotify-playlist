@@ -2,7 +2,7 @@
 
 ### [Summer Hits](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> L'été 2024 sera chaud 🌞
+> L'été 2024 continue 🌞
 
 295 songs - 15 hr 0 min
 

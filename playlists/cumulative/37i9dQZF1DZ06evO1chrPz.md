@@ -2,7 +2,7 @@
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music\. The essential tracks, all in one playlist.
+> This Is Bethel Music\. Los temas esenciales, todos en una lista.
 
 137 songs - 13 hr 58 min
 

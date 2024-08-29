@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-945 songs - 1 day 12 hr 42 min
+947 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2022-10-14 |  |
 | [Cold\-Water Feels](https://open.spotify.com/track/2e2SIW2xo0JDsYta88o32C) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:13 | 2022-06-10 | 2024-02-09 |
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-15 | 2022-07-01 |
+| [Come Again](https://open.spotify.com/track/4dVXPyNrB1DAhhhdrJcGQL) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Come Again](https://open.spotify.com/album/5gMhVvHXKKFhPQXxurDB9T) | 2:12 | 2024-08-23 |  |
 | [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-15 | 2022-07-01 |
@@ -297,7 +298,7 @@
 | [Grab Me](https://open.spotify.com/track/0cE08OroMUhkConKh6M6gV) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Venetian Blinds](https://open.spotify.com/album/6JUA2UDIIF444niaQMlbL3) | 1:10 | 2022-11-11 | 2022-11-24 |
 | [Grab Me](https://open.spotify.com/track/18XKAqXpqPMOvBtwd4OMxm) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Grab Me](https://open.spotify.com/album/2418RlJ3zBet0TfLMn8MwF) | 1:10 | 2022-09-16 | 2022-11-21 |
 | [Gravel](https://open.spotify.com/track/3hqhYxVwW3o6g8p7HhtSVW) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Gravel](https://open.spotify.com/album/7ICWHUYb9EkAyol455qck6) | 1:54 | 2022-11-11 | 2024-06-17 |
-| [Gray or Grey](https://open.spotify.com/track/6tLMDPDjojjIn2dv7KEXco) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Gray or Grey](https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd) | 2:52 | 2022-04-15 |  |
+| [Gray or Grey](https://open.spotify.com/track/6tLMDPDjojjIn2dv7KEXco) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Gray or Grey](https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd) | 2:52 | 2022-04-15 | 2024-08-29 |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 |  |
 | [Grey](https://open.spotify.com/track/3GAy161sXmgiMOD7PYzBIA) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Grey](https://open.spotify.com/album/7CUV9YXdh4CdcwLl7K4La6) | 3:16 | 2022-04-15 | 2022-05-20 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 |  |
@@ -447,7 +448,7 @@
 | [lucid](https://open.spotify.com/track/5Mmwj21GsWUNJga9RQSolY) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [lucid](https://open.spotify.com/album/0rMoBJlYV5Ie2EYnfZnR2g) | 2:06 | 2024-01-12 | 2024-03-07 |
 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 | 2022-09-23 | 2023-11-17 |
 | [lucky punch](https://open.spotify.com/track/4Q7dEitZXGBrgu3UzAfeZo) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [lucky punch](https://open.spotify.com/album/0ufZPC4ZmewfYvz84hExIS) | 2:08 | 2023-04-03 |  |
-| [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-01-06 |  |
+| [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-01-06 | 2024-08-29 |
 | [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 | 2022-04-15 | 2023-09-22 |
 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 | 2022-09-23 | 2023-10-06 |
 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 | 2023-09-22 |  |
@@ -711,6 +712,7 @@
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
 | [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 |  |
+| [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 |  |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
 | [Sleepless Times](https://open.spotify.com/track/0SIjNbculfq6PiPg1PkggT) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Sleepless Times](https://open.spotify.com/album/5QTYGdQ4X4lUNpf7cV5Z6d) | 2:32 | 2022-11-11 |  |
 | [Sleepy Turtle](https://open.spotify.com/track/1PMKS7BnOOXwFpEyspGwd3) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Sleepy Turtle](https://open.spotify.com/album/0HXsJ0Dwrx5Kf4Py3fngRa) | 2:27 | 2022-12-09 | 2023-10-20 |

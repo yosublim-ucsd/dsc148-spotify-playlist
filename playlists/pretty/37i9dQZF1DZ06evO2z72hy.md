@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 ### [This Is Gondwana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2z72hy)
 
-> This Is Gondwana\. Los temas esenciales, todos en una lista.
+> This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,155 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,165 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 49 | [No Desesperes](https://open.spotify.com/track/4gvUtG1oO9EnXs5hk6UYjz) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:51 |
 | 50 | [Medley: Libros Sagrados / Orgullosa Mole \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/3DJDWiD41D6pVhC4gdt4NF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 3:29 |
 
-Snapshot ID: `ZsvFgAAAAADgh78F0XNLq9waiTXFvlDi`
+Snapshot ID: `ZsvFgAAAAAB/FtAfSTaO4gZlf6LdjYEK`

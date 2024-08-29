@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁  Xavi en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁  Jasiel Nuñez & DannyLux en portada.
 
-345 songs - 19 hr 13 min
+347 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cartas](https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Cartas](https://open.spotify.com/album/6WZShqo7ZujFuNJS7Aeoa1) | 2:33 | 2024-03-15 | 2024-05-18 |
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-06-09 | 2024-01-20 |
 | [Chanelita](https://open.spotify.com/track/4JhpZksyQOrf13HYgy7sFq) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG), [MILAS](https://open.spotify.com/artist/3TKgamKsMMP7pmm1likOgY) | [Chanelita](https://open.spotify.com/album/6sYFY7He71eJ8kCm03IUcJ) | 3:13 | 2023-11-17 | 2024-01-06 |
+| [Cielo Eterno \- Spotify Singles](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 | 2024-08-28 |  |
 | [Claro Que Te Amo](https://open.spotify.com/track/6bbqOi8ccpkyVpX4E2dUTK) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Claro Que Te Amo](https://open.spotify.com/album/1uO2tuBoVL3QF5K8p874fC) | 3:07 | 2022-04-08 | 2022-05-24 |
 | [Como Voy A Ser Feliz](https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Como Voy A Ser Feliz](https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId) | 2:53 | 2024-01-26 | 2024-03-16 |
 | [Copa Tras Copas](https://open.spotify.com/track/1gLNj6ANVeSYSvBGLODeQ5) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ), [ERRE](https://open.spotify.com/artist/3qAdZSijJdaym3wQfMCktd), [Brian Mendoza](https://open.spotify.com/artist/1PkMdAG1vujZStQVTjF3I9) | [Copa Tras Copas](https://open.spotify.com/album/6U1aNoigyf6SvWEC82PpKG) | 2:47 | 2023-12-08 | 2024-01-16 |
@@ -132,6 +133,7 @@
 | [La Niña Del Instagram](https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [La Niña Del Instagram](https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr) | 3:48 | 2023-12-01 | 2024-01-16 |
 | [La Realidad](https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Noches Tristes](https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa) | 4:21 | 2022-03-16 | 2023-02-18 |
 | [La Tarde](https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [La Tarde](https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa) | 3:36 | 2022-04-01 | 2022-06-04 |
+| [LA TROKA](https://open.spotify.com/track/0R23grfg7MaNE9TUpNNQUU) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:23 | 2024-08-28 |  |
 | [La Verdad](https://open.spotify.com/track/7onIiU1mi9YDbFzMsErUgw) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Mi Cautela](https://open.spotify.com/album/7i9Wby2FKiRw4RFz2WuF7I) | 4:02 | 2023-11-10 | 2024-01-27 |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2023-08-25 | 2024-06-29 |
 | [La Última Vez \- Deluxe](https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:12 | 2023-02-10 | 2023-02-18 |

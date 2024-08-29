@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-483 songs - 1 day 10 hr 33 min
+484 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [我還沒有作好被打倒的準備](https://open.spotify.com/track/4IBSuzLweUblLvGRy6O9FQ) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [愚者](https://open.spotify.com/album/4GtICvnqTjOdv9htYsqqG7) | 5:58 | 2022-06-06 | 2022-07-27 |
 | [我還能怎麼伴](https://open.spotify.com/track/5lhtEnWhmWfvECzPcC1qFd) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [舞狀元](https://open.spotify.com/album/2M28Qhgb7On9XGAtm9LNsj) | 4:22 | 2024-08-01 | 2024-08-24 |
 | [我需要一些孤獨 \(八大原創戲劇《親愛的亞當》插曲\)](https://open.spotify.com/track/0dFb9eVcS8YazOCm8Qr3ku) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我需要一些孤獨 \(八大原創戲劇《親愛的亞當》插曲\)](https://open.spotify.com/album/5OczIitNHb1MwBSvTDbhjq) | 4:40 | 2022-06-13 | 2022-07-01 |
-| [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 | 2023-05-22 |  |
+| [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 | 2023-05-22 | 2024-08-29 |
 | [执迷](https://open.spotify.com/track/6CRPBxW4UsGLXLHipqLNwQ) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [执迷](https://open.spotify.com/album/5nikOBUca1e3xs42vtRpyC) | 3:29 | 2024-07-18 | 2024-08-12 |
 | [把所有的愛都揮霍](https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [把所有的愛都揮霍](https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N) | 3:03 | 2023-10-02 | 2023-10-09 |
 | [括号](https://open.spotify.com/track/3dujQRmSbUNOGsi1HBq1dr) | [蔡瀞萱](https://open.spotify.com/artist/5Wdp9Ri5mJcc7rkK6CgEpP), [Nicole Kung](https://open.spotify.com/artist/5m2AaaQax8s3feVRyjA0q7) | [括号](https://open.spotify.com/album/31W9LuT1yHGAV3itkQ34AA) | 4:15 | 2024-05-16 | 2024-05-24 |
@@ -310,6 +310,7 @@
 | [按部就班](https://open.spotify.com/track/6rzIygJUB5cuPOE1krIfb9) | [草爺](https://open.spotify.com/artist/2saJkMLnybRcxBoOQy6hUG) | [按部就班](https://open.spotify.com/album/6uQppkeYCZl2qemsFb9tPT) | 4:00 | 2023-12-04 | 2023-12-11 |
 | [换个角度](https://open.spotify.com/track/6RqLe2IKHFtflmkADqyT3W) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [换个角度](https://open.spotify.com/album/4HaBUU0v5HHq7hDL3uHnmy) | 3:39 | 2023-01-10 | 2023-01-24 |
 | [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-22 |  |
+| [摺痕 \(Imprint\)](https://open.spotify.com/track/5zhonW8YyuLmvFBjmlrFY6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [摺痕 \(Imprint\)](https://open.spotify.com/album/6pOrwbhSJX359aJYKd6R18) | 4:50 | 2024-08-23 |  |
 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 | 2022-08-08 |  |
 | [救世主](https://open.spotify.com/track/22QgawZFbjPJ0R8BZTLhxQ) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 4:33 | 2022-06-27 | 2022-07-29 |
 | [敢傻敢衝 \- 2020黑松沙士年度主題曲](https://open.spotify.com/track/3V0psPzZ73wCDh4BmM7izM) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [敢傻敢衝](https://open.spotify.com/album/3W8AXuHbge4JtOzjhmLIpo) | 3:17 | 2022-06-06 | 2023-08-01 |

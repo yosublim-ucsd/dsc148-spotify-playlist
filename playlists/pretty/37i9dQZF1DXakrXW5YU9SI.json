@@ -1,6 +1,6 @@
 {
   "description": "Odpal wakacyjny relaks ju\u017c dzi\u015b \u2600\ufe0f",
-  "num_followers": 317966,
+  "num_followers": 317960,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-08-23 15:49:29",
       "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "added_at": "2024-08-23 15:49:29",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2024-08-23 15:49:29",
-      "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2024-08-23 15:49:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-23 15:49:29",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-08-23 15:49:29",
-      "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2024-08-23 15:49:29",
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-08-23 15:49:29",

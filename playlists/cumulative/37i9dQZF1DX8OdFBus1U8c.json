@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Chaavu",
+        "url": "https://open.spotify.com/album/762ThuxxYDeDzc4Hf9jhrc"
+      },
+      "artists": [
+        {
+          "name": "MAKAN.",
+          "url": "https://open.spotify.com/artist/2AXZ392uTSLZ1B7B5WiwCG"
+        },
+        {
+          "name": "VXAL",
+          "url": "https://open.spotify.com/artist/04ftZCJgjzpuUAFwO4OSpC"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Chaavu",
+      "url": "https://open.spotify.com/track/4xSN6ouLFm4rXkZsF3e6uT"
+    },
+    {
+      "album": {
         "name": "Chathi",
         "url": "https://open.spotify.com/album/0CyndZDyLdIqYlcG1JiwzL"
       },

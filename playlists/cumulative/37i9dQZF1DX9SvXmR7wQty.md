@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost, Kekra
 
-2,753 songs - 6 day 2 hr 22 min
+2,754 songs - 6 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Ballet](https://open.spotify.com/track/1nrEeqKilTrv3wIA2iVkUG) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Ballet](https://open.spotify.com/album/2YGnCjsaEIhSN6pDKGfFb2) | 2:29 | 2023-03-31 | 2023-04-09 |
 | [Balliterie \(Championne\)](https://open.spotify.com/track/0zLA1xZzgKHTgjpzlw9N2t) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Balliterie \(Championne\)](https://open.spotify.com/album/1ccrd31kQcq8m4fb8ux10e) | 2:49 | 2022-02-11 | 2022-02-19 |
 | [Balèn](https://open.spotify.com/track/5pzecuPMIBdp14ZNbE9CMv) | [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Balèn](https://open.spotify.com/album/6nJipqncQH77Hj76Vujq9O) | 3:47 | 2023-01-06 | 2023-01-21 |
-| [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 | 2024-07-12 |  |
+| [Bandito](https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [VICE CITY](https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp) | 2:42 | 2024-07-12 | 2024-08-29 |
 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 | 2023-10-13 | 2023-10-21 |
 | [Bang](https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Bang](https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV) | 3:47 | 2024-05-31 | 2024-06-15 |
 | [Bang Bang Bang](https://open.spotify.com/track/2GCo6tiqduhpuaY0qL7Hl1) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Bang Bang Bang](https://open.spotify.com/album/6n927dm48RWFEEYQStM5IK) | 2:44 | 2023-01-06 | 2023-01-21 |
@@ -2086,6 +2086,7 @@
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2021-12-31 | 2022-01-15 |
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-10 | 2024-07-06 |
+| [Quitter](https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Quitter](https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf) | 2:15 | 2024-08-23 |  |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2023-09-15 | 2023-09-23 |
 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-13 | 2023-07-08 |
 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 | 2023-03-03 | 2023-03-18 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
+> This is Sister Rosetta Tharpe\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,511 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,536 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 48 | [Peace In The Valley](https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:21 |
 | 49 | [There Is Something Within Me](https://open.spotify.com/track/6bM7JWEqwRTwNfmEMKym5R) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:26 |
 
-Snapshot ID: `ZsvFgAAAAAATJ1dHOtT04xC8KQiMQa8m`
+Snapshot ID: `ZsvFgAAAAAAZSosMwEDPDPrZ84y3WcZn`

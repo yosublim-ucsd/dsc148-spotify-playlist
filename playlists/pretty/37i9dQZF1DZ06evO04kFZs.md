@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 ### [This Is Pop Smoke](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04kFZs)
 
-> This is Pop Smoke\. The essential tracks, all in one playlist.
+> This Is Pop Smoke\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,074 likes - 46 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,149 likes - 46 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 40 | [Coupe](https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:03 |
 | 41 | [100k On A Coupe \(feat\. Calboy\)](https://open.spotify.com/track/4wVuGccjXDNf9sWWVajkpk) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [100k On A Coupe](https://open.spotify.com/album/1RUkOaQD5teWHg7JmrVBGB) | 1:57 |
 | 42 | [Wolves \(with NAV\)](https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:14 |
-| 43 | [Don't Know Em \(feat\. Rah Swish\)](https://open.spotify.com/track/0kjIeKhqH933ppKUK6gOCE) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 1:51 |
+| 43 | [Don't Know Em \(feat\. Rah Swish\)](https://open.spotify.com/track/0kjIeKhqH933ppKUK6gOCE) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith \- Deluxe](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 1:51 |
 | 44 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 |
 | 45 | [She Feelin Nice \(feat\. Jamie Foxx\)](https://open.spotify.com/track/3qzSfoByowr6tDfd08b0T0) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 2:35 |
 | 46 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 |
 
-Snapshot ID: `ZsvFgAAAAADYrccV5xTR+SbGySFNXX0c`
+Snapshot ID: `ZsvFgAAAAACzLysZAJ0UlA1WjPbbviBW`

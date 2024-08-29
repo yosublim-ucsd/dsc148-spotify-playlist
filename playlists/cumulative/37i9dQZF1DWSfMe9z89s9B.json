@@ -1975,6 +1975,32 @@
     },
     {
       "album": {
+        "name": "Babe",
+        "url": "https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0"
+      },
+      "artists": [
+        {
+          "name": "Louis Culture",
+          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
+        },
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188711,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
+    },
+    {
+      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
       },
@@ -4658,7 +4684,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 90526,
       "name": "Communication",
       "url": "https://open.spotify.com/track/68fRVWyPvb63bjiKYigmxj"
@@ -5460,6 +5486,28 @@
       "duration_ms": 180279,
       "name": "Day In The Life",
       "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
+    },
+    {
+      "album": {
+        "name": "day+night (feat. Wolfacejoeyy)",
+        "url": "https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        },
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167983,
+      "name": "day+night (feat. Wolfacejoeyy)",
+      "url": "https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR"
     },
     {
       "album": {
@@ -12662,7 +12710,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 273291,
       "name": "Love Heart Cheat Code",
       "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
@@ -13208,7 +13256,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 248975,
       "name": "Make Friends - Pocket Size Radio Edit",
       "url": "https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic"
@@ -16152,7 +16200,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 183716,
       "name": "Pixie Dust",
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"

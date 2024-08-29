@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,625 likes - 145 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,596 likes - 145 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 23 | [a bulleT w/ my namE On \(feat\. Underoath\)](https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:20 |
 | 24 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 |
 | 25 | [Soft Glow](https://open.spotify.com/track/2KZsN4rkEtuL35yGuRsfr5) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Soft Glow](https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF) | 3:43 |
-| 26 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 |
-| 27 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 |
+| 26 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 |
+| 27 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 |
 | 28 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 |
 | 29 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
 | 30 | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Below The Belt \(feat\. Set It Off\)](https://open.spotify.com/album/5PpGvWHxcI2ddJ94i3KTGj) | 3:12 |
@@ -115,13 +115,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 105 | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/track/0SXHYLK8GYc2jAtFJXiL0Y) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [MURDER \(feat\. Code:Pandorum\)](https://open.spotify.com/album/0XznCZpaBbtD0ZYeEjJ8wP) | 3:12 |
 | 106 | [smother](https://open.spotify.com/track/2HcGm8GCzfYJGmCZuxweT2) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [smother](https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk) | 3:21 |
 | 107 | [Liar Liar](https://open.spotify.com/track/4pQvb7EKACWR2tRjjSaL5w) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Liar Liar](https://open.spotify.com/album/1Aaa6h3XcLOWxJ0ST6aQMs) | 2:57 |
-| 108 | [Straycations](https://open.spotify.com/track/7zCZWACsSVwEnc0Bt2C7qh) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Straycations](https://open.spotify.com/album/7tLQKPKKgOwcWQgZ2MekC5) | 3:49 |
-| 109 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
-| 110 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |
+| 108 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
+| 109 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |
+| 110 | [Straycations](https://open.spotify.com/track/7zCZWACsSVwEnc0Bt2C7qh) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Straycations](https://open.spotify.com/album/7tLQKPKKgOwcWQgZ2MekC5) | 3:49 |
 | 111 | [Losing My Grip](https://open.spotify.com/track/1h29QJe8e4TzlhdpXIue4U) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip](https://open.spotify.com/album/2osQNt480aZ9v9UEDLWPCA) | 2:47 |
-| 112 | [Go Tobann](https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Go Tobann](https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN) | 2:24 |
-| 113 | [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 |
-| 114 | [UNLOVED](https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [UNLOVED](https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ) | 3:16 |
+| 112 | [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 |
+| 113 | [UNLOVED](https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [UNLOVED](https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ) | 3:16 |
+| 114 | [Go Tobann](https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Go Tobann](https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN) | 2:24 |
 | 115 | [Kersed](https://open.spotify.com/track/75Op3sFsxnCOOGSZiYyb81) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Kersed](https://open.spotify.com/album/1J3fVPmmCWJhovkDRxQKRc) | 1:53 |
 | 116 | [Modern Love](https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Modern Love](https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6) | 3:28 |
 | 117 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 |

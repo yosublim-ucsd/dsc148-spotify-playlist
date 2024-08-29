@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 8onthebeat is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,492 likes - 20 songs - 55 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,488 likes - 20 songs - 55 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 16 | [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 |
 | 17 | [NENE \(feat\. Fuerza Regida\)](https://open.spotify.com/track/1oe4qSlEZIObCbvRE05Stg) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:06 |
 | 18 | [Sola Suelta Soltera](https://open.spotify.com/track/2TsQ2eMg44sEqvbLwjzWrA) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [Sola Suelta Soltera](https://open.spotify.com/album/2wZGGuDMF3MsvjCky3oOMy) | 2:43 |
-| 19 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
+| 19 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [EL MURCIELAGO](https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 | 20 | [Volando Bajito](https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Volando Bajito](https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3) | 2:26 |
 
 Snapshot ID: `ZsbpFgAAAACMwrTXGk4l5buaQQSkE/vE`

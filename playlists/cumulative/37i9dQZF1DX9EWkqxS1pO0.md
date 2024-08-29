@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ada](https://open.spotify.com/track/11LP8h4KqAnOtnzTEos6CC) | [Melike Cem](https://open.spotify.com/artist/4KWDW1O48FFRbtgsjgBSVr) | [Ada](https://open.spotify.com/album/7q3gMH0zWSKBoEdSGJ8qRR) | 3:16 | 2024-06-20 |  |
+| [Ada](https://open.spotify.com/track/11LP8h4KqAnOtnzTEos6CC) | [Melike Cem](https://open.spotify.com/artist/4KWDW1O48FFRbtgsjgBSVr) | [Ada](https://open.spotify.com/album/7q3gMH0zWSKBoEdSGJ8qRR) | 3:16 | 2024-06-20 | 2024-08-29 |
 | [add](https://open.spotify.com/track/0aUhJQdCqJ5Xtrb8PoOE0F) | [rody dünyada](https://open.spotify.com/artist/2PPVH8rUFlN2zzJrrP8Cjg) | [add](https://open.spotify.com/album/66fBkhvO57E0Sfi2zVJuE5) | 2:26 | 2024-06-20 |  |
 | [Ah Etmedim](https://open.spotify.com/track/43HCAAd4aum17h9R8CZHYp) | [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA) | [Ah Etmedim](https://open.spotify.com/album/058wo47lM7uAE2m6p2NeWa) | 3:43 | 2024-06-20 | 2024-08-02 |
 | [Ankara Ayazı](https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f), [Zibo](https://open.spotify.com/artist/5N6mauDodGl3hh9xzm7Zwj) | [Ankara Ayazı](https://open.spotify.com/album/0U31turfAphETTOc8k3nQN) | 3:20 | 2024-06-20 |  |
@@ -35,7 +35,7 @@
 | [DOLDUR](https://open.spotify.com/track/62KVbuzhWZBUiq3737T4hz) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [DOLDUR](https://open.spotify.com/album/1ZyrVQgSBTV19FxOlOM1By) | 2:42 | 2024-06-20 |  |
 | [Dolunay](https://open.spotify.com/track/0nVehOjbqRPByxOzO9keQk) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Dolunay](https://open.spotify.com/album/670sNl07ubMq2HqgvjvX2h) | 2:17 | 2024-06-20 |  |
 | [DURMA](https://open.spotify.com/track/4NJGNIZXwTI9DAT6iwxcgR) | [Alara](https://open.spotify.com/artist/73cy4QAQJslj4bVgTxN5bk) | [DURMA](https://open.spotify.com/album/3UjL3kwbHXGvnuxAp9mllB) | 2:06 | 2024-08-01 |  |
-| [Duy Sesimi](https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O) | [Duhan Demirci](https://open.spotify.com/artist/4xfIX4AK4xyml8Bqj5Mw3F), [Kaan Arslan](https://open.spotify.com/artist/5ML0ingV07lUL61gjbH7u2) | [Duy Sesimi](https://open.spotify.com/album/0hO21Uh7eA7UwbjY5s3QuY) | 2:54 | 2024-07-04 | 2024-08-26 |
+| [Duy Sesimi](https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O) | [Duhan Demirci](https://open.spotify.com/artist/4xfIX4AK4xyml8Bqj5Mw3F), [Kaan Arslan](https://open.spotify.com/artist/5ML0ingV07lUL61gjbH7u2) | [Duy Sesimi](https://open.spotify.com/album/0hO21Uh7eA7UwbjY5s3QuY) | 2:54 | 2024-07-04 |  |
 | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl) | [Erdem Yıldırım](https://open.spotify.com/artist/2jBduF7UwhDFLvFiLdWuhm) | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI) | 2:46 | 2024-06-20 |  |
 | [dön bak ne haldesin](https://open.spotify.com/track/2BllmYspkFLpqrbYVM3tY6) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [dön bak ne haldesin](https://open.spotify.com/album/6esCyEWg0It0yLqlQ1YAKf) | 2:39 | 2024-06-20 | 2024-08-09 |
 | [Dün Gördüğüm Rüya](https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Dün Gördüğüm Rüya](https://open.spotify.com/album/5VhULdlFyy9iDC1MMHIuFa) | 3:24 | 2024-08-08 | 2024-08-25 |

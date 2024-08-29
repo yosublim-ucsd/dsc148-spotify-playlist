@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-97 songs - 5 hr 16 min
+99 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 | 2024-06-07 |  |
 | [I Just Need Love](https://open.spotify.com/track/1lK1Jj98gtUsyVl8dXkFVm) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:22 | 2024-06-07 |  |
 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 | 2024-06-07 |  |
+| [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 | 2024-08-28 |  |
 | [If I Was a Bird](https://open.spotify.com/track/0329HQXhaQN13Hi5GOaC1X) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Side Effects Of You \(Deluxe Version\)](https://open.spotify.com/album/7dbS6arvfa5lkzer8I6tq2) | 2:47 | 2024-06-07 |  |
 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 | 2024-06-07 |  |
 | [Interlude: Oasis](https://open.spotify.com/track/5vJQ9vMJUE585xcIC5RPW9) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 2:07 | 2024-06-07 |  |
@@ -88,6 +89,7 @@
 | [Strongest Woman I Know](https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:38 | 2024-06-07 |  |
 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 | 2024-06-07 |  |
 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 | 2024-06-07 |  |
+| [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 | 2024-08-28 |  |
 | [THE SPIRIT OF MONSTER KODY](https://open.spotify.com/track/1JHKRUy261mWgDVGJfkNgT) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 0:45 | 2024-06-07 |  |
 | [Thinking of You](https://open.spotify.com/track/70ZhUOVBwrBv2gKXABIgux) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 4:24 | 2024-06-07 |  |
 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 | 2024-06-07 |  |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Aimer
 
-2,631 songs - 7 day 0 hr 45 min
+2,632 songs - 7 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,7 +596,7 @@
 | [Ice Age](https://open.spotify.com/track/5scjv3pREcgPWjBSeQYPLw) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Ice Age](https://open.spotify.com/album/1cNBJO2Qx0fLV2q5BsZbae) | 4:01 | 2023-05-09 | 2023-05-31 |
 | [ichimoku](https://open.spotify.com/track/0InJ51oQDgsT8YWBvofDJS) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [ichimoku](https://open.spotify.com/album/5JVzsRCaDQaHd8PePUauc2) | 3:44 | 2022-06-02 | 2022-06-06 |
 | [If](https://open.spotify.com/track/10q5xuxzTGWyBtG0fQfseC) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/4wxvHYc2ESuh2euEMn2SlF) | 3:15 | 2022-05-29 | 2022-06-20 |
-| [If I Ain’t Got You](https://open.spotify.com/track/3xr5E2h30Rvx4sfnstyi2Q) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [If I Ain’t Got You](https://open.spotify.com/album/77QHpb4B7igwiMUEpPlJ9F) | 3:05 | 2024-08-06 |  |
+| [If I Ain’t Got You](https://open.spotify.com/track/3xr5E2h30Rvx4sfnstyi2Q) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [If I Ain’t Got You](https://open.spotify.com/album/77QHpb4B7igwiMUEpPlJ9F) | 3:05 | 2024-08-06 | 2024-08-29 |
 | [Iijan](https://open.spotify.com/track/2fI1cHKCcgf3CSK02hEt6Y) | [IDE AYAKA](https://open.spotify.com/artist/2TdIl7ikauEs63fMLrnE7b) | [Iijan](https://open.spotify.com/album/1sE3XGiQ57dQkKrSmDTIM9) | 3:04 | 2023-05-04 | 2023-05-10 |
 | [IKEMENTAL](https://open.spotify.com/track/46c3kd2fWfsc6gBkDSRHKB) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 2:15 | 2023-08-08 | 2023-08-23 |
 | [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-10 | 2023-02-22 |
@@ -1924,6 +1924,7 @@
 | [プレイリスト](https://open.spotify.com/track/4ckVseuJeCfzi0vUXlTDta) | [川西奈月](https://open.spotify.com/artist/2HMIvzlbbpkt8KaEKOgLCE) | [ミッドナイトブルー](https://open.spotify.com/album/10kDiSprNhKrkZgDJxgmZS) | 3:03 | 2022-06-21 | 2022-06-29 |
 | [プレミアム](https://open.spotify.com/track/1VjBjIurnw7b4N5QI5Td8x) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [わかりあえないことから](https://open.spotify.com/album/5K4clS7mfedD25a6w615VG) | 3:54 | 2024-08-06 |  |
 | [プレロマンス](https://open.spotify.com/track/7zwBsjM35nm1k44paHHJym) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [プレロマンス](https://open.spotify.com/album/2CH1T0Or6qnBXy37xr8CnN) | 3:12 | 2022-08-23 | 2022-08-25 |
+| [プロポーズ](https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [プロポーズ](https://open.spotify.com/album/7jtMWkpwjDlUJPlcJib23P) | 3:54 | 2024-08-28 |  |
 | [ペルソナの記憶](https://open.spotify.com/track/3RxXuOv8Ek9ugFFRxxNc5J) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:20 | 2022-08-18 | 2022-08-20 |
 | [ペーパードライバー](https://open.spotify.com/track/6YpYRWZCGjdhxKM1txkfmK) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [ペーパードライバー](https://open.spotify.com/album/1xJSe3DIBkewet7dXPSV19) | 2:59 | 2022-10-25 | 2022-12-21 |
 | [ホットチョコレートミュージック](https://open.spotify.com/track/5XotxipU5S6NV3riSldayh) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [hot chocolate music](https://open.spotify.com/album/45KnE5ZCYVrBeK7D2EL2Of) | 3:56 | 2022-06-07 | 2022-06-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,251 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 35 | [Keep Me](https://open.spotify.com/track/6SWHTMywuTXLFlMQ75cAuu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:36 |
 | 36 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 |
 | 37 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 |
-| 38 | [Contra](https://open.spotify.com/track/7u90MSvVyEjL0c8icaE7jl) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino II](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) | 3:37 |
-| 39 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
+| 38 | [Stars Align \(with Drake\)](https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 4:20 |
+| 39 | [Contra](https://open.spotify.com/track/7u90MSvVyEjL0c8icaE7jl) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino II](https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV) | 3:37 |
 | 40 | [Cutting Ties](https://open.spotify.com/track/6lJ5aSxKHCwNBoWkZT3JeJ) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Cutting Ties](https://open.spotify.com/album/5wy7JKTWa3JRjvQT7cWOcq) | 4:21 |
 | 41 | [Can't Love](https://open.spotify.com/track/1iZg40RiFZNlX52QDlf9oz) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:49 |
 | 42 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 110 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 111 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbakogAAAABnbAFa7V8oTi17w3hDO+V/`
+Snapshot ID: `AbaqQgAAAADFzIQbXxrHen7Wn7L2B0Aj`

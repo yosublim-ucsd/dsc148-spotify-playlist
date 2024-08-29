@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Billie Eilish ja Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,172 likes - 81 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,181 likes - 81 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

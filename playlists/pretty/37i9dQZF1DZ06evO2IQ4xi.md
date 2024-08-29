@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 ### [This Is Doechii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IQ4xi)
 
-> This Is Doechii\. Los temas esenciales, todos en una lista.
+> This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,022 likes - 43 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,066 likes - 43 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 42 | [Afro Blues](https://open.spotify.com/track/5EfDqGykBZWPbxopMU7xyj) | [Mike Escanor](https://open.spotify.com/artist/0PAiCX4TiAWTuLyy3t6gsB), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Afro Blues](https://open.spotify.com/album/5gXvPxkcH6tPY2sRwnV2Li) | 2:28 |
 | 43 | [Pms](https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 4:37 |
 
-Snapshot ID: `ZsvFgAAAAABpnLsUAX5UbRwUK31a7ORS`
+Snapshot ID: `ZsvFgAAAAADDzw1Gt45c+mKGJfxOIK3i`

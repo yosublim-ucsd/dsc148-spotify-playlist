@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 101828,
+  "num_followers": 101906,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
-        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Polka Dots And Moonbeams - Remastered",
-      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Jazz Moments",
         "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240133,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
+        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Polka Dots And Moonbeams - Remastered",
+      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Duke's Dream",
         "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Mary Lou Williams Presents Black Christ of the Andes",
-        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "My Blue Heaven",
-      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Serenade To \"Laura\"",
-        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Trio",
         "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
       },
@@ -1111,6 +1095,38 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Serenade To \"Laura\"",
+        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Great Britain's",
         "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 170306,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 323000,
       "name": "Memories Of Paris",
       "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Swahililand",
-      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "Swahililand",
+      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 278640,
       "name": "\u00datviklingssang",
       "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
+        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
-        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Fishin' In Stockholm",
         "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
       },
@@ -1431,38 +1431,6 @@
       "duration_ms": 171609,
       "name": "Dawn Mist",
       "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
-        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
-      },
-      "artists": [
-        {
-          "name": "James P. Johnson",
-          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Blue Note Boogie",
-      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 499253,
-      "name": "Blind Man, Blind Man",
-      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1495,6 +1463,38 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 499253,
+      "name": "Blind Man, Blind Man",
+      "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
+        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
+      },
+      "artists": [
+        {
+          "name": "James P. Johnson",
+          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Blue Note Boogie",
+      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Now He Sings, Now He Sobs",
         "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 423440,
       "name": "Now He Sings, Now He Sobs",
       "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "Tiger Rag",
-      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1555,6 +1539,22 @@
       "duration_ms": 233066,
       "name": "The Lady's In Love With You",
       "url": "https://open.spotify.com/track/3RwiIrxjJwfzYOltz5kZq6"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 138306,
+      "name": "Tiger Rag",
+      "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1599,30 +1599,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Trio Vol.2",
-        "url": "https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6"
-      },
-      "artists": [
-        {
-          "name": "Cedar Walton",
-          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
-        },
-        {
-          "name": "David Williams",
-          "url": "https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3"
-        },
-        {
-          "name": "Billy Higgins",
-          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
-        }
-      ],
-      "duration_ms": 541000,
-      "name": "Off Minor",
-      "url": "https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Setting Standards - The New York Sessions",
         "url": "https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m"
       },
@@ -1647,6 +1623,30 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "The Trio Vol.2",
+        "url": "https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6"
+      },
+      "artists": [
+        {
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+        },
+        {
+          "name": "David Williams",
+          "url": "https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+        }
+      ],
+      "duration_ms": 541000,
+      "name": "Off Minor",
+      "url": "https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Made Possible",
         "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 370133,
       "name": "Pound For Pound",
       "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Masterjazz: Vince Guaraldi Trio",
+        "url": "https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1691,22 +1707,6 @@
       "duration_ms": 205373,
       "name": "Wolverine Blues",
       "url": "https://open.spotify.com/track/46MgOcI4ynxtWCWatdu5b2"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Masterjazz: Vince Guaraldi Trio",
-        "url": "https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl"
     }
   ],
   "unique_name": "Jazz Piano Classics",

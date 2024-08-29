@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2128984,
+  "num_followers": 2129194,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Far Far Away",
-        "url": "https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        },
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Search for Peace",
-      "url": "https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Standards, Vol. 2",
         "url": "https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 435266,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Far Far Away",
+        "url": "https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        },
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Search for Peace",
+      "url": "https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ"
+      },
+      "artists": [
+        {
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+        }
+      ],
+      "duration_ms": 259970,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 204760,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ"
-      },
-      "artists": [
-        {
-          "name": "Svaneborg Kardyb",
-          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
-        }
-      ],
-      "duration_ms": 259970,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Misanthrope's Hymn",
+        "url": "https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 369253,
+      "name": "Misanthrope's Hymn",
+      "url": "https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Returnings",
         "url": "https://open.spotify.com/album/0Oko9SZeGlIDRiURyc1f3y"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Nearness Of You: The Ballad Book",
-        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Midnight Mood",
-      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Nearness Of You: The Ballad Book",
+        "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Midnight Mood",
+      "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Remembering",
-        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
-      },
-      "artists": [
-        {
-          "name": "Hyuntae Kim",
-          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/2vsMMoxL7EcOp5KS1tuyo2"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 329600,
       "name": "Ballad Of The Sad Young Men",
       "url": "https://open.spotify.com/track/6N57mvrlpGr2yl0FfiHnY4"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
+      },
+      "artists": [
+        {
+          "name": "Hyuntae Kim",
+          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -987,6 +1003,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "At the Movies",
         "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
       },
@@ -1007,22 +1039,6 @@
       "duration_ms": 240903,
       "name": "End Music",
       "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1151,22 +1167,6 @@
       "duration_ms": 308831,
       "name": "Humming Bird - Rhodes Version",
       "url": "https://open.spotify.com/track/4o2mArKsE2bflX9cOH9YAD"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Misanthrope's Hymn",
-        "url": "https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        }
-      ],
-      "duration_ms": 369253,
-      "name": "Misanthrope's Hymn",
-      "url": "https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Orange Moon",
+        "url": "https://open.spotify.com/album/12WoQVbEZNbEqzVJRBBqha"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        },
+        {
+          "name": "Georgios Prokopiou",
+          "url": "https://open.spotify.com/artist/3EGNysAIQ36W2JB5BS6W2x"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/2l5K5sIXKGT5A7Ok8K1q5v"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Part VII (Live)",
         "url": "https://open.spotify.com/album/5bJyXieDWqLEgJPvIleSrK"
       },
@@ -1571,38 +1591,6 @@
       "duration_ms": 315240,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/5pESIEsMvc2p0LC2BpyMzi"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Ruth",
-        "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
-      },
-      "artists": [
-        {
-          "name": "Joe Chambers",
-          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
-        }
-      ],
-      "duration_ms": 251277,
-      "name": "Ruth",
-      "url": "https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Slow Hot Wind",
-        "url": "https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Slow Hot Wind",
-      "url": "https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1655,6 +1643,38 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Slow Hot Wind",
+        "url": "https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Slow Hot Wind",
+      "url": "https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Ruth",
+        "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
+      },
+      "artists": [
+        {
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+        }
+      ],
+      "duration_ms": 251277,
+      "name": "Ruth",
+      "url": "https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Meant for You",
         "url": "https://open.spotify.com/album/1yXeNcpnN9mmI0fIW67gRe"
       },
@@ -1683,50 +1703,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Conversation Starter",
-        "url": "https://open.spotify.com/album/3MWuBLErUmqp8x2YX1tCIg"
-      },
-      "artists": [
-        {
-          "name": "Willie Morris",
-          "url": "https://open.spotify.com/artist/2rzVXME9utxP6mQy09aQjb"
-        }
-      ],
-      "duration_ms": 267274,
-      "name": "It Is Well With My Soul",
-      "url": "https://open.spotify.com/track/3IHLQNqBaeHe0ts6iEsLJS"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Theme for Ernie",
-        "url": "https://open.spotify.com/album/2nT1hom1JGnM6Z1RQCCPxs"
-      },
-      "artists": [
-        {
-          "name": "G\u00e1bor Bolla",
-          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
-        },
-        {
-          "name": "R\u00f3bert Lakatos",
-          "url": "https://open.spotify.com/artist/5sGpH9552Y13uJp6wi7bm1"
-        },
-        {
-          "name": "Daniel Franck",
-          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
-        },
-        {
-          "name": "Billy Drummond",
-          "url": "https://open.spotify.com/artist/1P5JD0ocEllsCSrj0fgBA1"
-        }
-      ],
-      "duration_ms": 307370,
-      "name": "Theme for Ernie",
-      "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH"
       },
@@ -1743,6 +1719,22 @@
       "duration_ms": 141360,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Conversation Starter",
+        "url": "https://open.spotify.com/album/3MWuBLErUmqp8x2YX1tCIg"
+      },
+      "artists": [
+        {
+          "name": "Willie Morris",
+          "url": "https://open.spotify.com/artist/2rzVXME9utxP6mQy09aQjb"
+        }
+      ],
+      "duration_ms": 267274,
+      "name": "It Is Well With My Soul",
+      "url": "https://open.spotify.com/track/3IHLQNqBaeHe0ts6iEsLJS"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1791,6 +1783,34 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Theme for Ernie",
+        "url": "https://open.spotify.com/album/2nT1hom1JGnM6Z1RQCCPxs"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1bor Bolla",
+          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
+        },
+        {
+          "name": "R\u00f3bert Lakatos",
+          "url": "https://open.spotify.com/artist/5sGpH9552Y13uJp6wi7bm1"
+        },
+        {
+          "name": "Daniel Franck",
+          "url": "https://open.spotify.com/artist/72xSyvnAe9Hb1vgtQblTTt"
+        },
+        {
+          "name": "Billy Drummond",
+          "url": "https://open.spotify.com/artist/1P5JD0ocEllsCSrj0fgBA1"
+        }
+      ],
+      "duration_ms": 307370,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Light Wood, Dark Strings",
         "url": "https://open.spotify.com/album/2JSTNVXcog7ywG3iG3xIiG"
       },
@@ -1807,22 +1827,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Abeyance",
-        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
-      },
-      "artists": [
-        {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
-        }
-      ],
-      "duration_ms": 414108,
-      "name": "Abeyance",
-      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "The Deep",
         "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
       },
@@ -1835,6 +1839,22 @@
       "duration_ms": 176871,
       "name": "Close Enough for Love",
       "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Abeyance",
+        "url": "https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 414108,
+      "name": "Abeyance",
+      "url": "https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1871,6 +1891,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "No Cure",
+        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 263971,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "In Two Minds",
         "url": "https://open.spotify.com/album/75RpBmCNDTaZ4yow0HZBjj"
       },
@@ -1891,38 +1927,6 @@
       "duration_ms": 350450,
       "name": "In Two Minds",
       "url": "https://open.spotify.com/track/59RDXW9iKOCp3XFdfJH3cm"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "No Cure",
-        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 263971,
-      "name": "No Cure",
-      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO"
-      },
-      "artists": [
-        {
-          "name": "Verneri Pohjola",
-          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
-        }
-      ],
-      "duration_ms": 360266,
-      "name": "Of Our Children",
-      "url": "https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1951,6 +1955,22 @@
       "duration_ms": 229274,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO"
+      },
+      "artists": [
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        }
+      ],
+      "duration_ms": 360266,
+      "name": "Of Our Children",
+      "url": "https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -1999,18 +2019,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Baltic Wind",
-        "url": "https://open.spotify.com/album/6wDiSuCc4pZk6fh0SDyPmZ"
+        "name": "The Lights Are Always On",
+        "url": "https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB"
       },
       "artists": [
         {
-          "name": "Central Park Quartet",
-          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
+          "name": "Lynne Arriale Trio",
+          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
+        },
+        {
+          "name": "Lynne Arriale",
+          "url": "https://open.spotify.com/artist/4AB72E5tmD1ojC0ZUYcQMZ"
         }
       ],
-      "duration_ms": 229541,
-      "name": "Baltic Wind",
-      "url": "https://open.spotify.com/track/5AXHh4068Cr0GA5glGIEvP"
+      "duration_ms": 255541,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2031,22 +2055,34 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "The Lights Are Always On",
-        "url": "https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB"
+        "name": "Baltic Wind",
+        "url": "https://open.spotify.com/album/6wDiSuCc4pZk6fh0SDyPmZ"
       },
       "artists": [
         {
-          "name": "Lynne Arriale Trio",
-          "url": "https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x"
-        },
-        {
-          "name": "Lynne Arriale",
-          "url": "https://open.spotify.com/artist/4AB72E5tmD1ojC0ZUYcQMZ"
+          "name": "Central Park Quartet",
+          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
         }
       ],
-      "duration_ms": 255541,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w"
+      "duration_ms": 229541,
+      "name": "Baltic Wind",
+      "url": "https://open.spotify.com/track/5AXHh4068Cr0GA5glGIEvP"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2111,22 +2147,6 @@
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2211,26 +2231,6 @@
       "duration_ms": 331423,
       "name": "Tom Traubert's Blues",
       "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Orange Moon",
-        "url": "https://open.spotify.com/album/12WoQVbEZNbEqzVJRBBqha"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        },
-        {
-          "name": "Georgios Prokopiou",
-          "url": "https://open.spotify.com/artist/3EGNysAIQ36W2JB5BS6W2x"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/2l5K5sIXKGT5A7Ok8K1q5v"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2563,38 +2563,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Defiant, Tender Warrior",
-        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Defiant, Tender Warrior",
-      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 320373,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Blue Dawn - Blue Nights",
         "url": "https://open.spotify.com/album/3Lhq62uVpxoRuCwkhV6ZsL"
       },
@@ -2611,6 +2579,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Defiant, Tender Warrior",
+        "url": "https://open.spotify.com/album/6o4Vh8olYsbYaMSBc8kR3B"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Defiant, Tender Warrior",
+      "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Tripwire",
         "url": "https://open.spotify.com/album/3JfSiufEqo9JHzBhjyIa91"
       },
@@ -2623,22 +2607,6 @@
       "duration_ms": 369466,
       "name": "Blue and Sentimental",
       "url": "https://open.spotify.com/track/3ekVMZX5rGIrr8NJzPGnUN"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Broken Blue",
-        "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
-      },
-      "artists": [
-        {
-          "name": "Spiral TRIO",
-          "url": "https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f"
-        }
-      ],
-      "duration_ms": 621680,
-      "name": "Once upon a Summertime",
-      "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2663,6 +2631,38 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 320373,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Broken Blue",
+        "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
+      },
+      "artists": [
+        {
+          "name": "Spiral TRIO",
+          "url": "https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f"
+        }
+      ],
+      "duration_ms": 621680,
+      "name": "Once upon a Summertime",
+      "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Semantics",
         "url": "https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ"
       },
@@ -2679,18 +2679,18 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
       },
       "artists": [
         {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
         }
       ],
-      "duration_ms": 270508,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
+      "duration_ms": 263872,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2707,6 +2707,22 @@
       "duration_ms": 379800,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/4eoJSIPKVrVbeTgXm6x7RP"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        }
+      ],
+      "duration_ms": 270508,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2755,22 +2771,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Part VIII (Live)",
-        "url": "https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 318122,
-      "name": "Part VIII - Live",
-      "url": "https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Afflicted",
         "url": "https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA"
       },
@@ -2791,6 +2791,22 @@
       "duration_ms": 261573,
       "name": "Afflicted",
       "url": "https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Part VIII (Live)",
+        "url": "https://open.spotify.com/album/45UxbVT9bQtR6LvPFFqxWo"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 318122,
+      "name": "Part VIII - Live",
+      "url": "https://open.spotify.com/track/2JRTt8P8Orx1iSQS8t0DA3"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2867,22 +2883,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 252480,
-      "name": "Get Out of Town",
-      "url": "https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Ledsen",
         "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
       },
@@ -2895,6 +2895,22 @@
       "duration_ms": 330120,
       "name": "Ledsen",
       "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 252480,
+      "name": "Get Out of Town",
+      "url": "https://open.spotify.com/track/46LFQQGf0KavPAaepNN8sB"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -2955,6 +2971,22 @@
       "duration_ms": 284529,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Alternate Summer",
+        "url": "https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "Alternate Summer",
+      "url": "https://open.spotify.com/track/08uejV02ReXbbGK8cJoGXj"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -3027,22 +3059,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Loslassen",
-        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
-      },
-      "artists": [
-        {
-          "name": "Bastian Menz Quintett",
-          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
-        }
-      ],
-      "duration_ms": 261708,
-      "name": "Loslassen",
-      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Last Decade",
         "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
       },
@@ -3067,6 +3083,22 @@
       "duration_ms": 349802,
       "name": "Last Decade",
       "url": "https://open.spotify.com/track/6kw0TP5KGTilTx0ZdorCun"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Loslassen",
+        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
+      },
+      "artists": [
+        {
+          "name": "Bastian Menz Quintett",
+          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
+        }
+      ],
+      "duration_ms": 261708,
+      "name": "Loslassen",
+      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -3215,6 +3247,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 309733,
+      "name": "Lookout for Hope",
+      "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Dialect",
         "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
@@ -3231,22 +3279,6 @@
       "duration_ms": 222858,
       "name": "Road to Eden",
       "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 309733,
-      "name": "Lookout for Hope",
-      "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -3291,22 +3323,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Collblanc",
-        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
-      },
-      "artists": [
-        {
-          "name": "Joe Webb",
-          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
-        }
-      ],
-      "duration_ms": 363818,
-      "name": "Collblanc",
-      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Fire in the West",
         "url": "https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8"
       },
@@ -3323,6 +3339,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Collblanc",
+        "url": "https://open.spotify.com/album/1xqIngSJuoNALGX6LRq7Eq"
+      },
+      "artists": [
+        {
+          "name": "Joe Webb",
+          "url": "https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6"
+        }
+      ],
+      "duration_ms": 363818,
+      "name": "Collblanc",
+      "url": "https://open.spotify.com/track/6xDP0taIqMcnygtfZbQx0v"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
       },
@@ -3335,22 +3367,6 @@
       "duration_ms": 226466,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/4hsAzbCsj34wT8lBYArxn0"
-      },
-      "artists": [
-        {
-          "name": "Casper Hejlesen",
-          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
-        }
-      ],
-      "duration_ms": 263872,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5kmRpMlAFCCuo8tWpNIvx9"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -3447,6 +3463,34 @@
       "duration_ms": 293453,
       "name": "One Door Closes, Another Opens (feat. Reuben Rogers, Walter Smith III)",
       "url": "https://open.spotify.com/track/0mX6hVAVZ3mG0vXmqQ1whM"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
+        "name": "Ritournelle",
+        "url": "https://open.spotify.com/album/0yF0mHPg3gwyzM1iN6wsCt"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Bailly",
+          "url": "https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS"
+        },
+        {
+          "name": "\u00c9tienne Renard",
+          "url": "https://open.spotify.com/artist/22OYHZMv7lOEXT4iW8sbNR"
+        },
+        {
+          "name": "David Gadea",
+          "url": "https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso"
+        },
+        {
+          "name": "Bodek Janke",
+          "url": "https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE"
+        }
+      ],
+      "duration_ms": 367080,
+      "name": "Ritournelle",
+      "url": "https://open.spotify.com/track/2GV61NkWi4YKFzgvLbZVBX"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -3567,22 +3611,6 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
-        "name": "Alternate Summer",
-        "url": "https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "Alternate Summer",
-      "url": "https://open.spotify.com/track/08uejV02ReXbbGK8cJoGXj"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
         "name": "Valleys & Mountains",
         "url": "https://open.spotify.com/album/4tnbCSnePSEWvTejqy5nTu"
       },
@@ -3611,34 +3639,6 @@
       "duration_ms": 378389,
       "name": "Balance of Time",
       "url": "https://open.spotify.com/track/5ZHOaD5V7dd54rfo7gomqR"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Ritournelle",
-        "url": "https://open.spotify.com/album/0yF0mHPg3gwyzM1iN6wsCt"
-      },
-      "artists": [
-        {
-          "name": "Baptiste Bailly",
-          "url": "https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS"
-        },
-        {
-          "name": "\u00c9tienne Renard",
-          "url": "https://open.spotify.com/artist/22OYHZMv7lOEXT4iW8sbNR"
-        },
-        {
-          "name": "David Gadea",
-          "url": "https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso"
-        },
-        {
-          "name": "Bodek Janke",
-          "url": "https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE"
-        }
-      ],
-      "duration_ms": 367080,
-      "name": "Ritournelle",
-      "url": "https://open.spotify.com/track/2GV61NkWi4YKFzgvLbZVBX"
     },
     {
       "added_at": "2024-08-23 13:10:08",

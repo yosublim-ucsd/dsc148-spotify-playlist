@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is: Ryan Adams\. Alle wichtigen Tracks in einer Playlist.
+> This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,502 likes - 53 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,501 likes - 53 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 52 | [Living On A Prayer \- Live from Red Bank, NJ\. 2023](https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Livin' On A Prayer \(Live from Red Bank, NJ\. 2023\)](https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL) | 3:53 |
 | 53 | [Sin City \- Live from Bensalem, PA\. 2023](https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sin City \(Live from Bensalem, PA\. 2023\)](https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj) | 3:31 |
 
-Snapshot ID: `ZsvFgAAAAADecezaNLup0Uf6vi3QjkOq`
+Snapshot ID: `ZsvFgAAAAACZlroQSxfP5GamHLXEE+ys`

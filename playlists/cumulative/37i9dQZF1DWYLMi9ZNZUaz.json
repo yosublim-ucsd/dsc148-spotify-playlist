@@ -1937,6 +1937,44 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 8",
+        "url": "https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        },
+        {
+          "name": "\u0110\u1ee9c Ph\u00fac",
+          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
+        },
+        {
+          "name": "H\u00f9ng Hu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "I'M THINKING ABOUT YOU (feat. RHYDER, WEAN, \u0110\u1ee9c Ph\u00fac, H\u00f9ng Hu\u1ef3nh & tlinh)",
+      "url": "https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA"
+    },
+    {
+      "album": {
         "name": "IDOOMYTHANG",
         "url": "https://open.spotify.com/album/3H7Z2Z9rhP6DLEdk8QrOIl"
       },
@@ -2206,7 +2244,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 235179,
       "name": "LOVE SAND (feat. HIEUTHUHAI, JSOL, Ali Ho\u00e0ng D\u01b0\u01a1ng & V\u0169 Th\u1ecbnh)",
       "url": "https://open.spotify.com/track/2SmnoPHetB88xJwC6HJHGv"

@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/66NYjSHUYFmgIW1VYKMASB"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159711,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/7pQ241OlUabMsT9qwiyWtV"
+    },
+    {
+      "album": {
         "name": "S.S.S.",
         "url": "https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X"
       },
@@ -3008,6 +3026,24 @@
       "duration_ms": 162253,
       "name": "Tada de Futotta Jinsei",
       "url": "https://open.spotify.com/track/2Qb4apNFWlRnZNfTtLGL4F"
+    },
+    {
+      "album": {
+        "name": "Take a Look",
+        "url": "https://open.spotify.com/album/6sDoLTDVdTWHr9H0QvhMgS"
+      },
+      "artists": [
+        {
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111627,
+      "name": "Take a Look",
+      "url": "https://open.spotify.com/track/0hMj6nrtLTyRAMTKLjgpV8"
     },
     {
       "album": {
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 220313,
       "name": "\u3046\u3064\u3064",
       "url": "https://open.spotify.com/track/3vJCuyn9ASeiFGMR31b4Cv"
@@ -4128,7 +4164,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 250033,
       "name": "\u307e\u305f\u305f\u3073",
       "url": "https://open.spotify.com/track/0vYAQvD13yIkxb7121Z2tj"
@@ -4476,6 +4512,24 @@
       "duration_ms": 219211,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7"
+    },
+    {
+      "album": {
+        "name": "Neo Oriented",
+        "url": "https://open.spotify.com/album/1s7cSIMsphIt4ELBfOfEbC"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212487,
+      "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/33SKM1skEKGragmvSoy29f"
     },
     {
       "album": {
@@ -5575,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
+        "url": "https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
+      "url": "https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA"
+    },
+    {
+      "album": {
         "name": "\u6ce3\u304d\u305f\u3044\u591c",
         "url": "https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0"
       },
@@ -5788,7 +5860,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 247554,
       "name": "\u7d2b\u82d1",
       "url": "https://open.spotify.com/track/0tzkqPsJQBm6lvtYp61rT5"
@@ -5994,7 +6066,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 191689,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"

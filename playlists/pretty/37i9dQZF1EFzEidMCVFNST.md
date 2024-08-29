@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 360 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 360 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 182 | [Qual a Chance](https://open.spotify.com/track/4YQnERjGGNexQ4igpvLDEn) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Qual a Chance](https://open.spotify.com/album/6MVUHOTsAY2Umu43dPuTks) | 2:16 |
 | 183 | [Mama Me Olhando \(feat\. DENNIS\)](https://open.spotify.com/track/2fHlQJV1L8NWcSkGTUlmZX) | [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Poesia Para Maiores, Vol\. 1 \(feat\. DENNIS\)](https://open.spotify.com/album/223DLwcAOccNfsxqvewCb7) | 2:38 |
 | 184 | [XIU \(Ao Vivo\)](https://open.spotify.com/track/3rPhs1KenxPSvob0spJ3jT) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:40 |
-| 185 | [Na Cama Dela](https://open.spotify.com/track/3RRi0avqiUOLAl97XFAEXz) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Rob Suárez](https://open.spotify.com/artist/0VzSusN9DJTXG802JBdkmT) | [Na Cama Dela](https://open.spotify.com/album/0xndJjz6YrSd6Stn4SvU3z) | 3:12 |
-| 186 | [Tu Quer Fuder Com A Minha Vida \- Ao Vivo](https://open.spotify.com/track/4nNSWvyEirvMWOLvXqwc6I) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Rolê De Milhões \(Ao Vivo\)](https://open.spotify.com/album/5lrEnd1H04vv7tOF1WdS7R) | 2:58 |
+| 185 | [Tu Quer Fuder Com A Minha Vida \- Ao Vivo](https://open.spotify.com/track/4nNSWvyEirvMWOLvXqwc6I) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Rolê De Milhões \(Ao Vivo\)](https://open.spotify.com/album/5lrEnd1H04vv7tOF1WdS7R) | 2:58 |
+| 186 | [Na Cama Dela](https://open.spotify.com/track/3RRi0avqiUOLAl97XFAEXz) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Rob Suárez](https://open.spotify.com/artist/0VzSusN9DJTXG802JBdkmT) | [Na Cama Dela](https://open.spotify.com/album/0xndJjz6YrSd6Stn4SvU3z) | 3:12 |
 | 187 | [Sem Você Não Dá](https://open.spotify.com/track/48woc5D6BzV78fjYAxLgRE) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Histórias](https://open.spotify.com/album/1gnE9BymF9RCgdF8gI8VhL) | 2:36 |
 | 188 | [Errada ela não tá](https://open.spotify.com/track/5aSFo3IWPdDvVwbdYgXQcv) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 1](https://open.spotify.com/album/0xDwMkd9eQMSEI8eX6DMlp) | 2:23 |
 | 189 | [10 Mil Vezes Melhor \(feat\. Xand Avião\) \- Ao Vivo](https://open.spotify.com/track/59N1wcb8ky6o4VOUE28eQt) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Sentimento de Mulher \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6wlEOBuv2movYxuAOYcR22) | 3:08 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 359 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 | 360 | [Mordida e Carinho](https://open.spotify.com/track/3HBxeoQfG3EjqVhCn9Njy5) | [Christian Lins](https://open.spotify.com/artist/12BeE8Kf5XftekKcUADdol) | [Ativando Sentimento 2.0](https://open.spotify.com/album/2ass4W5wTlPS8GBp5C1L8w) | 2:15 |
 
-Snapshot ID: `AbaklAAAAABEut/GLEuPJYqnAgBOvg1e`
+Snapshot ID: `AbaqKgAAAAAzATHb5lI2FA157qGWrqMM`

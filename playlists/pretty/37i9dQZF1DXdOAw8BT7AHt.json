@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 467717,
+  "num_followers": 467719,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": "2024-07-19 10:43:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
-      },
-      "artists": [
-        {
-          "name": "GEL",
-          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
-        }
-      ],
-      "duration_ms": 172687,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Mob DLA",
         "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
       },
@@ -715,18 +699,34 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "aftermath/afterthought",
-        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
       "artists": [
         {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
         }
       ],
-      "duration_ms": 146746,
-      "name": "aftermath/afterthought",
-      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
+      "duration_ms": 172687,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-07-12 11:48:19",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+        "name": "aftermath/afterthought",
+        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
         }
       ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
     },
     {
       "added_at": "2024-07-12 11:48:19",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "California Sober",
-        "url": "https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "3 DAY HEADACHE",
         "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Cheapskate",
-        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
+        "name": "California Sober",
+        "url": "https://open.spotify.com/album/7gI0X71p03RtZMYpyCgtY9"
       },
       "artists": [
         {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 191761,
-      "name": "Cheapskate",
-      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
+      "duration_ms": 162600,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/7s5TCAqfDLMmOUqwsOXdId"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Cheapskate",
+        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Cheapskate",
+      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 252133,
       "name": "Found a Job",
       "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/6stziyO40ovFZGQN71pB67"
-      },
-      "artists": [
-        {
-          "name": "LOWLIVES",
-          "url": "https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "What A Fucking Nightmare",
         "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 145957,
       "name": "Cry Your Eyes Out",
       "url": "https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/6stziyO40ovFZGQN71pB67"
+      },
+      "artists": [
+        {
+          "name": "LOWLIVES",
+          "url": "https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
     },
     {
       "added_at": "2024-07-12 11:48:19",

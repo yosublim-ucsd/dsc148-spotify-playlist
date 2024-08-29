@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: Glass Animals
 
-100 songs - 5 hr 34 min
+101 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-06-24 |  |
 | [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 | 2024-08-27 |  |
 | [If I'm Gonna Go Anywhere](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 | 2024-06-24 |  |
+| [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-28 |  |
 | [Intangible](https://open.spotify.com/track/37AHx5plFCTjUyahG4pcgQ) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Intangible](https://open.spotify.com/album/1LhBLbebW10ttVVizB1lmp) | 2:58 | 2024-06-24 |  |
 | [Into You](https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Into You](https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ) | 4:44 | 2024-06-24 |  |
 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-07-04 | 2024-08-02 |
@@ -85,7 +86,7 @@
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-26 |  |
 | [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 | 2024-08-27 |  |
 | [Society's Fixation Seeker](https://open.spotify.com/track/5qQwPmOwM1yIHadiimVqjW) | [LIGHTSPEED](https://open.spotify.com/artist/6AKqwXVRN32svEj6t8gD3Q) | [Society's Fixation Seeker](https://open.spotify.com/album/0RuIqeRNLcpZJ2JtfZsPeo) | 3:06 | 2024-07-26 |  |
-| [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-08-27 |  |
+| [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-08-27 | 2024-08-29 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-06-24 | 2024-07-12 |
 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 | 2024-06-24 | 2024-07-10 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-24 |  |

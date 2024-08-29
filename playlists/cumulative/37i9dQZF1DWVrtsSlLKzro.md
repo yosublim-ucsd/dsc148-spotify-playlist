@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-348 songs - 20 hr 41 min
+349 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Keep Waiting](https://open.spotify.com/track/1GzVJMwepmBdnqTEfyQhl5) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [Keep Waiting](https://open.spotify.com/album/1wdPSxtM4BIFEnldbhLrW5) | 4:49 | 2022-07-15 | 2022-10-13 |
 | [Keys](https://open.spotify.com/track/1Hq7TRfVL9Rk3z3ddjmiNr) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Steven K](https://open.spotify.com/artist/7FfhFSZxCUDRWxLtEbX7i6) | [Becoming](https://open.spotify.com/album/002hMu6uJDan1XKVp3pmnb) | 3:57 | 2021-12-03 | 2022-05-07 |
 | [Learn To Love Again](https://open.spotify.com/track/4548LyFomXQmDAINcFizEq) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Learn To Love Again](https://open.spotify.com/album/442Ed4spkcuDL5gSFPwAjY) | 3:44 | 2021-12-03 | 2022-05-07 |
+| [Leave Me Slowly](https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw) | [Leave Me Slowly](https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs) | 2:47 | 2024-08-28 |  |
 | [Let Go](https://open.spotify.com/track/3EmhEAiSstmWMiGQx1VpY5) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [Let Go](https://open.spotify.com/album/52846um9qaO7U56WHZZotC) | 3:18 | 2022-02-11 | 2022-05-07 |
 | [Let Me Go](https://open.spotify.com/track/5WnnOy3qXPS8qOwl3U5KWX) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [Let Me Go](https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd) | 3:28 | 2022-05-06 | 2023-06-10 |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-02-11 | 2022-05-07 |

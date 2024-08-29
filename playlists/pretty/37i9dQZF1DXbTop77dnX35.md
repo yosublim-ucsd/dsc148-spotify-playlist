@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Oxlade, Coldplay, The Cavemen, Alpha P and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,177 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,320 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

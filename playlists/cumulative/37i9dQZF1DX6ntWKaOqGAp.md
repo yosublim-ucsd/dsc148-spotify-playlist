@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: back number
 
-1,670 songs - 4 day 9 hr 16 min
+1,671 songs - 4 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1163,6 +1163,7 @@
 | [パーフェクトブルー](https://open.spotify.com/track/4mRtTroNrEvMoB5iluPPjQ) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [パーフェクトブルー](https://open.spotify.com/album/19b2N3s4Q3HuxPPMp2tx7b) | 3:04 | 2024-07-23 |  |
 | [ヒアソビ](https://open.spotify.com/track/6qKp7lmQmKJMOlQILibPqA) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [ヒアソビ](https://open.spotify.com/album/1h3Bt2RaUK4JELrtxZsXo3) | 3:43 | 2023-07-06 | 2023-07-08 |
 | [ヒカリ](https://open.spotify.com/track/0Xf7lckHz3jvpSurbgbrFf) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ヒカリ](https://open.spotify.com/album/6ZkIrRQFB5BeXrDO8T52KC) | 4:10 | 2024-01-16 | 2024-02-28 |
+| [ヒトシズク](https://open.spotify.com/track/27zFF1QpIIJRsu7thB9QvG) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ヒトシズク](https://open.spotify.com/album/5Djoopd8FZm1WdJedJ0duv) | 5:28 | 2024-08-28 |  |
 | [ヒメゴト](https://open.spotify.com/track/36A9odRn2YOFd32Z0imnyy) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [ヒメゴト](https://open.spotify.com/album/3irroKY3CuejqNOU5qniXG) | 4:41 | 2023-06-27 | 2023-06-29 |
 | [ヒモと愛](https://open.spotify.com/track/0bYCJFtqOP7Zkf4EFzRka1) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [ヒモと愛](https://open.spotify.com/album/6iCCe0GQhkRgDP2ru8iUtG) | 2:42 | 2023-02-28 | 2023-03-02 |
 | [ビートアディクション](https://open.spotify.com/track/60LtCcKHQ5SF5XwGCJ4KqX) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ビートアディクション](https://open.spotify.com/album/5oR2C3qbkk0q0fAn8hy2Jd) | 3:09 | 2024-01-16 | 2024-02-07 |
@@ -1657,7 +1658,7 @@
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-02-15 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 | 2023-10-20 |
 | [青梅](https://open.spotify.com/track/0D0RLKxs1x9BfEnaFUfKCl) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [青梅](https://open.spotify.com/album/3iSZuYp6JssxuMOsqte6NO) | 3:11 | 2023-05-30 | 2023-09-01 |
-| [静かの海](https://open.spotify.com/track/70cJi46b8hOryqEbPjU0dE) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [静かの海](https://open.spotify.com/album/1VdHH55GBNiejuSNduRuAM) | 3:17 | 2024-08-20 |  |
+| [静かの海](https://open.spotify.com/track/70cJi46b8hOryqEbPjU0dE) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [静かの海](https://open.spotify.com/album/1VdHH55GBNiejuSNduRuAM) | 3:17 | 2024-08-20 | 2024-08-29 |
 | [面影](https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [面影](https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs) | 3:41 | 2023-09-12 | 2023-10-18 |
 | [革命の音](https://open.spotify.com/track/3s3dZXOIdbBIGlMfHXUh3G) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [ALPHA](https://open.spotify.com/album/483AZhuzgV5PWGEZiIAdts) | 3:15 | 2023-11-14 | 2023-12-20 |
 | [革命を覚えた日](https://open.spotify.com/track/72llbK86nQlb2LEZJUcYhS) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [革命を覚えた日](https://open.spotify.com/album/38MdQ5EnQN2O8xyoaSCrcC) | 4:05 | 2024-01-30 | 2024-04-03 |

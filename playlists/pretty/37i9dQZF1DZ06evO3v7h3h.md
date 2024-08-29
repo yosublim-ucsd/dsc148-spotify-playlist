@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This Is Rashid\. Los temas esenciales, todos en una lista.
+> This is Rashid\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 46,290 likes - 51 songs - 3 hr 25 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 50 | [Rede Moinho de Março 2](https://open.spotify.com/track/27KohREm8VNgO7sDwaIT4y) | [Rocha](https://open.spotify.com/artist/3LM3WY4VyCmTIC8LwDqMWD), [D\-Cazz](https://open.spotify.com/artist/6CLa3TvsaThfZJH7WNsu97), [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Rede Moinho de Março 2](https://open.spotify.com/album/3Km65A2qQ7GgTnFU1oLc5Y) | 4:03 |
 | 51 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 |
 
-Snapshot ID: `ZsvFgAAAAAB4+6bKRfcFo4G6r5dyu0bR`
+Snapshot ID: `ZsvFgAAAAADxptLZALUBWEkJvhcF19Rf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,052 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,065 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 31 | [VICTORIA'S SECRET \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [VICTORIA'S SECRET \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 | 32 | [Honesty \- Jersey Club Remix](https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe) | 2:10 |
 | 33 | [Im Loop \(feat\. Bilderbuch\)](https://open.spotify.com/track/29svgRT6R8PuLBjKGPJjz5) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG) | [Insomnia](https://open.spotify.com/album/7flMvR3hmHgwMpnTsdVApW) | 2:43 |
-| 34 | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:49 |
-| 35 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
+| 34 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
+| 35 | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:49 |
 | 36 | [7/7](https://open.spotify.com/track/5xoIhHhgZAoph1bz0o2Rtt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:37 |
 | 37 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 |
 | 38 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 50 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/4ZjUdbFR4lQRPCev91pQNk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/1GEAE5S8LPDE0n9yrcJiSJ) | 1:57 |
 | 51 | [Pretty Ones](https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Pretty Ones](https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU) | 3:41 |
 | 52 | [CNTRTE](https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [CNTRTE](https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU) | 2:46 |
-| 53 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
-| 54 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
+| 53 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
+| 54 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 55 | [Recoger](https://open.spotify.com/track/66UNqQkLP3vwoAK9FnxFca) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Recoger](https://open.spotify.com/album/2FiYyjIorlmOa9dD7STI05) | 2:12 |
 | 56 | [River](https://open.spotify.com/track/4tZCAD2myjzONvRWoDMulN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:03 |
 | 57 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |

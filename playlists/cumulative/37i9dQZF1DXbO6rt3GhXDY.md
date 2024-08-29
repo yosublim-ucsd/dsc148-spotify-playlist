@@ -2,7 +2,7 @@
 
 ### [Indie Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXbO6rt3GhXDY)
 
-> You know em, you love em, these are indie pop hits\. Cover: Clairo
+> You know em, you love em, these are indie pop hits\. Cover: The Marías
 
 163 songs - 8 hr 56 min
 

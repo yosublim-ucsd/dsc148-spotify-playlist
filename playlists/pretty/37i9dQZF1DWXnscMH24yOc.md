@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,091 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,229 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 11 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
 | 12 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 |
 | 13 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
-| 14 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
-| 15 | [How Deep is Your Love](https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f), [Glambeats Corp.](https://open.spotify.com/artist/2OfhO7rFJyxPWi4zqy9HxJ) | [How Deep is Your Love](https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK) | 3:38 |
+| 14 | [How Deep is Your Love](https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f), [Glambeats Corp.](https://open.spotify.com/artist/2OfhO7rFJyxPWi4zqy9HxJ) | [How Deep is Your Love](https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK) | 3:38 |
+| 15 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
 | 16 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
 | 17 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 |
 | 18 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 67 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 |
 | 68 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 |
 | 69 | [Country Roads](https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4), [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Country Roads](https://open.spotify.com/album/2htGdWsy7NuxdwLs0tA3Y4) | 3:13 |
-| 70 | [Harvest Moon](https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Harvest Moon](https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw) | 4:07 |
-| 71 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
+| 70 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
+| 71 | [Harvest Moon](https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Harvest Moon](https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw) | 4:07 |
 | 72 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 |
 | 73 | [dreams](https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [dreams](https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO) | 4:17 |
 | 74 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |

@@ -4,11 +4,11 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-120 songs - 7 hr 55 min
+122 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12:45 \- Stripped](https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [12:45 \(Stripped\)](https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv) | 2:59 | 2023-11-21 | 2024-08-19 |
+| [12:45 \- Stripped](https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [12:45 \(Stripped\)](https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv) | 2:59 | 2023-11-21 |  |
 | [16:28](https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 5:45 | 2023-11-21 | 2023-12-13 |
 | [Aiai](https://open.spotify.com/track/2fk7HoBZPtoeqIl54CLTR7) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madaramoyo](https://open.spotify.com/album/2SQQoQMMoeB2TnIQ8Wbc19) | 3:47 | 2024-01-23 | 2024-02-07 |
 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 | 2023-11-21 |  |
@@ -35,6 +35,7 @@
 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 | 2024-03-05 |  |
 | [Kakurembo](https://open.spotify.com/track/3vAOwkClLD0cwNrQ5i5dDg) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:04 | 2023-11-21 | 2024-01-10 |
 | [L4DY](https://open.spotify.com/track/4S7rVcmRg9wEpAwu05ynvc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [L4DY](https://open.spotify.com/album/45h4CMmgfsSyBoXWWLZoap) | 2:32 | 2024-07-31 |  |
+| [Lonely cocoa](https://open.spotify.com/track/6qxQtL7P942IyGv1CumwZr) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [Lonely cocoa](https://open.spotify.com/album/3rdLQQxMuI3xvIMf8FnPhv) | 4:35 | 2024-08-28 |  |
 | [LOSER](https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 4:03 | 2023-11-21 |  |
 | [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2023-11-21 |  |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-11-21 |  |
@@ -94,19 +95,20 @@
 | [今日はひとりでいようね](https://open.spotify.com/track/5Ouw9H4ioGNTdANf6qYOWi) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [石のような自由](https://open.spotify.com/album/4Fmt0D1UfjV3s4SAnP7cep) | 5:21 | 2023-12-19 | 2024-01-10 |
 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 | 2023-12-12 | 2024-01-24 |
 | [儚くない](https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [儚くない](https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2) | 5:10 | 2024-01-09 | 2024-03-04 |
-| [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2024-03-05 |  |
+| [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2024-03-05 | 2024-08-29 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-28 | 2024-01-24 |
 | [創造](https://open.spotify.com/track/3S6GTN1iZqA0x0yosF0UbH) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC), [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [創造](https://open.spotify.com/album/3S2gnL0ouaaysORJdKLylf) | 5:24 | 2024-07-12 | 2024-07-31 |
+| [勿忘草](https://open.spotify.com/track/0vFl7o9VFxujQygSECMPgn) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [勿忘草](https://open.spotify.com/album/52WlvYfOEkiWBP1w85NDv8) | 4:12 | 2024-08-28 |  |
 | [右手のネイル](https://open.spotify.com/track/1Sl2DHDcnQlLPq8Ko68bHW) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [右手のネイル](https://open.spotify.com/album/6kcHo9w5zCAJlr6wmEexd0) | 4:19 | 2023-12-12 | 2023-12-14 |
 | [向日葵](https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [向日葵](https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y) | 4:19 | 2024-03-05 |  |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-11-21 |  |
-| [大航海](https://open.spotify.com/track/60PhbyOBDd20JP3xPA9urs) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [大航海](https://open.spotify.com/album/4oN4vrtvrzf5C1kQYqa1gb) | 4:32 | 2024-01-09 |  |
+| [大航海](https://open.spotify.com/track/60PhbyOBDd20JP3xPA9urs) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [大航海](https://open.spotify.com/album/4oN4vrtvrzf5C1kQYqa1gb) | 4:32 | 2024-01-09 | 2024-08-29 |
 | [孤独の音が聞こえる](https://open.spotify.com/track/58b3yoz6divbjfjlroSfOz) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [yeh](https://open.spotify.com/album/1tvg6oby6wPL2m9oJsbj4I) | 4:46 | 2023-11-21 |  |
 | [思想犯](https://open.spotify.com/track/5o3LSzu8xCMDpbAwm4dZ46) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:11 | 2024-02-20 | 2024-06-10 |
 | [悲しみはバスに乗って](https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [悲しみはバスに乗って](https://open.spotify.com/album/4x7fCYXopnEfgQIkp9vNpq) | 3:55 | 2023-11-21 | 2024-01-10 |
 | [拝啓](https://open.spotify.com/track/47CyqBwdiNtf9VCPg1i6Ca) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [拝啓](https://open.spotify.com/album/2mkKC4lBLlpXlkzuCbnLor) | 3:30 | 2024-03-05 |  |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-11-21 |  |
-| [春に](https://open.spotify.com/track/0YyBc1fAHCY8QVnRxSkhgi) | [こたに](https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq) | [春に](https://open.spotify.com/album/0F5YQvR5sC0eWICGhYwgcl) | 4:45 | 2024-02-27 |  |
+| [春に](https://open.spotify.com/track/0YyBc1fAHCY8QVnRxSkhgi) | [こたに](https://open.spotify.com/artist/4F7KxmlJgFS4wjf8ulIJAq) | [春に](https://open.spotify.com/album/0F5YQvR5sC0eWICGhYwgcl) | 4:45 | 2024-02-27 | 2024-08-29 |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-11-21 |  |
 | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 | 2024-01-10 | 2024-08-15 |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-09 |  |

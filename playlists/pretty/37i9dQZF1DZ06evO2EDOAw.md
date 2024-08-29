@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 ### [This Is Kierra Sheard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EDOAw)
 
-> This is Kierra Sheard\. The essential tracks, all in one playlist.
+> This Is Kierra Sheard\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,507 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,508 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 49 | [The Jungle](https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:15 |
 | 50 | [If It Had Not Been](https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 2:39 |
 
-Snapshot ID: `ZsvFgAAAAAAf6Mmzjt6tZb87ioZEaxdh`
+Snapshot ID: `ZsvFgAAAAABboCCpb6LieF6+9VJnfZB9`

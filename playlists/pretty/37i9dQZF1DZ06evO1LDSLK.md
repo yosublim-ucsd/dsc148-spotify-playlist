@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 ### [This Is Iggy Pop](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LDSLK)
 
-> This Is Iggy Pop\. Los temas esenciales, todos en una lista.
+> This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,775 likes - 51 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,786 likes - 51 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 50 | [Private Hell](https://open.spotify.com/track/5oqkunbRxtmUlt0G75pr71) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 2:50 |
 | 51 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 |
 
-Snapshot ID: `ZsvFgAAAAAD3aE7tGQuCXWm1qlGbDIN/`
+Snapshot ID: `ZsvFgAAAAABXUUA+rYqmkGson6VxsUql`

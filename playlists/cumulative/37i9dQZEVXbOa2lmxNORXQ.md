@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,068 songs - 2 day 11 hr 8 min
+1,069 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Año Nuevo](https://open.spotify.com/track/06VcxmEJHf3gutIjC935g4) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Fin de Año](https://open.spotify.com/album/4aYSEmRBWa9ePuOphtSpi3) | 2:51 | 2022-01-02 | 2022-01-04 |
 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 | 2024-01-02 | 2024-01-04 |
 | [Baby](https://open.spotify.com/track/5iDNf2uMgRzmQpcmGAzOUk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Baby](https://open.spotify.com/album/2IHFaeOioSGMuyxjWMXdQ9) | 3:52 | 2023-07-15 | 2023-08-04 |
+| [BABY FACHA](https://open.spotify.com/track/3JQxqYDoKdIYuFxe9Yz3Of) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Indi C](https://open.spotify.com/artist/4LO0fCfCae25L85ZgRpy9n) | [BABY FACHA](https://open.spotify.com/album/6AII6mFZUjbyb1QC7S7voo) | 2:40 | 2024-08-28 |  |
 | [BABY NUEVA](https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:00 | 2023-10-14 | 2023-10-30 |
 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 | 2021-03-27\* | 2021-07-11 |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-03-27\* | 2021-10-29 |
@@ -886,7 +887,7 @@
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2022-07-04 | 2023-01-04 |
 | [SI TÚ SUPIERAS \- Bonus Track](https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 3:16 | 2021-08-22 | 2023-02-26 |
 | [Si Veo a Tu Mamá](https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:50 | 2022-01-26 | 2022-02-23 |
-| [Sicaria](https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg) | [MEL GRANDA](https://open.spotify.com/artist/6h9lS66Ib3dOiz3Gg6PpI1), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Sicaria](https://open.spotify.com/album/1q5gZnMxww9ZoQxC0MRtec) | 3:24 | 2024-03-18 |  |
+| [Sicaria](https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg) | [MEL GRANDA](https://open.spotify.com/artist/6h9lS66Ib3dOiz3Gg6PpI1), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Sicaria](https://open.spotify.com/album/1q5gZnMxww9ZoQxC0MRtec) | 3:24 | 2024-03-18 | 2024-08-29 |
 | [Siente el Sonido](https://open.spotify.com/track/4Omtwa3E3LvRBKvgG6HIcm) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Siente el Sonido](https://open.spotify.com/album/5BFj5XZCmXFjL9eLRdeLwb) | 1:57 | 2022-11-02 | 2022-11-19 |
 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 | 2024-01-20 | 2024-01-23 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-26 | 2022-04-03 |

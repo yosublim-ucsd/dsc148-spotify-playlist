@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray\. The essential tracks, all in one playlist.
+> This Is Coi Leray\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,799 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,808 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 50 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 51 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 
-Snapshot ID: `ZsvFgAAAAAAgyYmfF3TGlE7TRjMcZ89p`
+Snapshot ID: `ZsvFgAAAAAAOgb9P0GFaO4NBgdRb/GgH`

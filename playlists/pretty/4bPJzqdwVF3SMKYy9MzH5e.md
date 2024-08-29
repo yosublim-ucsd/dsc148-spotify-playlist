@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,945 songs - 4 day 8 hr 44 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,948 songs - 4 day 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1953,5 +1953,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1943 | [MADRE](https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:01 |
 | 1944 | [COLMILLO](https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 4:25 |
 | 1945 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 |
+| 1946 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 |
+| 1947 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 |
+| 1948 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 |
 
-Snapshot ID: `AAADPyd1JoEdzGN3C4PueJC9VRfqP+TS`
+Snapshot ID: `AAADQv2Lo8PNH/GNw1OdqO2Z9Mmea6Py`

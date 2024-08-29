@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,141 songs - 2 day 13 hr 56 min
+1,142 songs - 2 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Dicelo](https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk) | [Lianet Rivero](https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf), [Lia](https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z), [Gatillo](https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT) | [Dicelo](https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH) | 2:33 | 2023-10-20 | 2023-10-25 |
 | [Dictadura](https://open.spotify.com/track/16RRpUyUDjkIept8AymRiL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:27 | 2021-11-28 | 2021-12-04 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-10-31 | 2021-11-28 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-28 |  |
 | [Dile \(Homenaje\)](https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:48 | 2021-09-15 | 2022-05-08 |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-10-21 | 2024-04-28 |
 | [Dime que sí](https://open.spotify.com/track/0O4bCG1TnGt4rARJOFfa1N) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:29 | 2021-04-15 | 2021-04-18 |
@@ -835,7 +836,7 @@
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-10 | 2024-04-21 |
 | [Polvo](https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Polvo](https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB) | 3:31 | 2021-03-27\* | 2021-04-23 |
 | [Porfa no te vayas](https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Porfa no te vayas](https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s) | 3:29 | 2021-04-18 | 2021-05-25 |
-| [Potra Salvaje](https://open.spotify.com/track/7ulBZOeFHaCeN2ubZxHxsg) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [La Potra Salvaje](https://open.spotify.com/album/1eEiGvO7DLAkBem15h0ZQl) | 3:19 | 2024-07-06 |  |
+| [Potra Salvaje](https://open.spotify.com/track/7ulBZOeFHaCeN2ubZxHxsg) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [La Potra Salvaje](https://open.spotify.com/album/1eEiGvO7DLAkBem15h0ZQl) | 3:19 | 2024-07-06 | 2024-08-29 |
 | [Potra Salvaje \- Hard Remix](https://open.spotify.com/track/4gdpQ6zuDsePnD1YIDJCRw) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3), [Fernando Moreno](https://open.spotify.com/artist/4TQTQKrC6eNENv4xSH3Ax6) | [Potra Salvaje \(Hard Remix\)](https://open.spotify.com/album/7ztKmDnGDBWN0aFhuwXRfW) | 5:42 | 2024-05-28 |  |
 | [PRIVILEGIOS](https://open.spotify.com/track/2zonJr6k1OKs41TctoNU8Q) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:05 | 2023-09-30 | 2023-10-02 |
 | [Problemas Mentales](https://open.spotify.com/track/5LhdEc33NQUDRT3b9bdrlS) | [JZAEB](https://open.spotify.com/artist/2LVTQdAUaySowxKTRcP5mx), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Problemas Mentales](https://open.spotify.com/album/5DlsmTqp2IjFNooY4TUw6g) | 3:49 | 2024-03-06 | 2024-03-23 |

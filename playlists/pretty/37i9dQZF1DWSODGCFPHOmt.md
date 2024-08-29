@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,775 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,772 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 77 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 |
 | 78 | [Navidad, Navidad](https://open.spotify.com/track/3Pe6VYWJNGGsyRCNqoTjCb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [Conjunto Arroyero](https://open.spotify.com/artist/3t57wx00MMpK19IW7R3TUU), [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Navidad, Navidad](https://open.spotify.com/album/6tx4tFu6cQDIk5pZVwLLxI) | 2:13 |
 | 79 | [Cumbia Navideña](https://open.spotify.com/track/2zI42OfeV1hiqKor0ZR1Ou) | [Tamarindo Norteño](https://open.spotify.com/artist/08iGmnBkoG9wJxPUtoGX8n) | [Cumbia Navideña](https://open.spotify.com/album/6uOaixrTIaSIuEwIP7ofOF) | 3:02 |
-| 80 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
+| 80 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Sonidos de la Navidad](https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps) | 2:15 |
 
 Snapshot ID: `ZWjw5wAAAAB7pppJS2VflqD+VSIlOEeY`

@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Fontaines D.C\. gift us with Romance 💚
 
-151 songs - 8 hr 26 min
+152 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-18 |  |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-06-27 | 2024-07-27 |
 | [Sit Down And Love Again](https://open.spotify.com/track/4RxEoid1ToLKeWjiG5SYnK) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Sit Down And Love Again](https://open.spotify.com/album/42vfOd3wvScoT0GEZWF5w1) | 1:59 | 2024-08-15 |  |
+| [Slide Away](https://open.spotify.com/track/1CZpWzCvN6fl2WslWTyPn2) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC) | 6:32 | 2024-08-28 |  |
 | [Softly](https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Softly](https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs) | 4:02 | 2024-08-09 |  |
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-11 |  |
 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 | 2024-08-22 |  |

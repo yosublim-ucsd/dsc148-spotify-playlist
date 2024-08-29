@@ -180,7 +180,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 271706,
       "name": "D\u00eda Cero",
       "url": "https://open.spotify.com/track/0LJgnWjRvbM60ieEVAJcAO"
@@ -634,6 +634,24 @@
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "album": {
+        "name": "Sailor",
+        "url": "https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Sailor",
+      "url": "https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4"
     },
     {
       "album": {

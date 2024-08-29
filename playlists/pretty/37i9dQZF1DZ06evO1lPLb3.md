@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 ### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This Is Peggy Gou\. Los temas esenciales, todos en una lista.
+> This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,397 likes - 30 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,431 likes - 30 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 29 | [Troop](https://open.spotify.com/track/7GbhZNoIASAeUjwekiT0sa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 5:53 |
 | 30 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `ZsvFgAAAAADzc1jBbPedrAVaiEnR2U2w`
+Snapshot ID: `ZsvFgAAAAABzkxDIN7odO7sUurhon9vG`

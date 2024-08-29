@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,216 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,225 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 29 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 30 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
 | 31 | [Hakeem](https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Hakeem](https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP) | 2:26 |
-| 32 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
-| 33 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
+| 32 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
+| 33 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
 | 34 | [Matghebsh](https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5) | [Ramez Naguib](https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Yemken](https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri) | 2:27 |
 | 35 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
 | 36 | [YA RAYEH](https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [YA RAYEH](https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo) | 2:50 |

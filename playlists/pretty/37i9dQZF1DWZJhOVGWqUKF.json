@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Seether",
-  "num_followers": 331995,
+  "num_followers": 332027,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Showbiz",
-      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Necessary Evil",
         "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 176040,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Barely Breathing (feat. Against The Current)",
         "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 198748,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 271515,
       "name": "Don't Tell Me (feat. Ann Wilson)",
       "url": "https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
+        "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
+      "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
         "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 321735,
       "name": "Death by a Thousand Cuts - Feat. Lucas Woodland",
       "url": "https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
-        "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
-      "url": "https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+        "name": "ARTIFICIAL",
+        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
         }
       ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
+      "duration_ms": 219468,
+      "name": "ARTIFICIAL",
+      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "ARTIFICIAL",
-        "url": "https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 219468,
-      "name": "ARTIFICIAL",
-      "url": "https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "MUD",
         "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 190858,
       "name": "MUD",
       "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ghost Code",
-        "url": "https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1463,22 +1447,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 195099,
-      "name": "We Made It Look Easy",
-      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Rockstar - Deluxe",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -1495,6 +1463,38 @@
       "duration_ms": 192000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 195099,
+      "name": "We Made It Look Easy",
+      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
         "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
+        "name": "Ghost Code",
+        "url": "https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
+      "duration_ms": 218600,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 244233,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1623,6 +1623,22 @@
       "duration_ms": 212329,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc"
+        "name": "NO HOSTAGES",
+        "url": "https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 187835,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
+      "duration_ms": 183529,
+      "name": "NO HOSTAGES",
+      "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 211000,
       "name": "Human - Single Version",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "NO HOSTAGES",
-        "url": "https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "NO HOSTAGES",
-      "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
     },
     {
       "added_at": "2024-08-22 22:00:00",

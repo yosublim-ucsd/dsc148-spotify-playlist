@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,235 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,394 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 21 | [El Camaron Pelao](https://open.spotify.com/track/3a9zDfvyuEDTjFl89AvdMc) | [Banda Pachuco](https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb) | [Infierno y Gloria](https://open.spotify.com/album/6aKMQkJLlw0IskUHAPCQmJ) | 2:13 |
 | 22 | [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 |
 | 23 | [Casimira](https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:52 |
-| 24 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
+| 24 | [No Podras](https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:25 |
 | 25 | [La Talega Del Café](https://open.spotify.com/track/3Zpz5sWTBmuVHFkzZ5RDnB) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Panfilita](https://open.spotify.com/album/2Sm9fHLHxTmnBegRtO9U6I) | 2:56 |
-| 26 | [No Podras](https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:25 |
+| 26 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
 | 27 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 |
 | 28 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
 | 29 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 55 | [El Caracol](https://open.spotify.com/track/3e0UGZKNCocEJv7feS8d93) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Los Mejor De Vaquero's Musical](https://open.spotify.com/album/6qNFfXga8mDY359akhMKjx) | 2:43 |
 | 56 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 |
 | 57 | [La Danza del Coyote](https://open.spotify.com/track/4q7QCuZStwhymthrUmN3Ve) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/1WdlcwzVMGHrW2vnktTK68) | 3:07 |
-| 58 | [Mambo Lupita](https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 3:35 |
+| 58 | [No Bailes De Caballito](https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Historia \- Mi Banda El Mexicano](https://open.spotify.com/album/7n5pvyK4eUJxmrcMYlBecR) | 4:01 |
 | 59 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 |
 | 60 | [El Pato Asado](https://open.spotify.com/track/2TlEfB9ObkiXWLxwUIybnk) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [15 Éxitos Bailables](https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn) | 2:43 |
 | 61 | [El Torero Cotorro](https://open.spotify.com/track/1i2AwNOPHkyd0i3BSwX87L) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Vaqueros's Musical 10 Exitos Vol.2](https://open.spotify.com/album/6ZNeLzaVIN4YtfIjmFMUDw) | 2:52 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 64 | [Nosotros También Podemos](https://open.spotify.com/track/0pyoQa5euHAX9tadX92UqK) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Norteña, Vol.1](https://open.spotify.com/album/3OHuKWtnBLmt9D3ZZU1QC6) | 3:26 |
 | 65 | [Candela Verde](https://open.spotify.com/track/2NY8sX1X96OPi9GsPYLwVM) | [Ranchero Band](https://open.spotify.com/artist/0nh7sK3bFl3BCQaMUtMxPf) | [Candela Verde](https://open.spotify.com/album/4oYf20uOoFZaOB2PDIkspm) | 2:51 |
 | 66 | [La Negra Colora](https://open.spotify.com/track/56NnF59xCRGPyP0qfDil0w) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 2:39 |
-| 67 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 67 | [Mambo Lupita](https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 3:35 |
 | 68 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 |
 | 69 | [Tu Pum Pum](https://open.spotify.com/track/3QBmioYx33GPY0aixqlGBG) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:00 |
-| 70 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
-| 71 | [La Bota](https://open.spotify.com/track/3kUmCQhA8aFuKPYcZYNJ0X) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:28 |
+| 70 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 71 | [Ramito De Violetas](https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:32 |
 | 72 | [El Bigotón](https://open.spotify.com/track/2cG5hI7Zwuee0Trkwlvxah) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Íconos 25 Éxitos](https://open.spotify.com/album/7MxfcnVjT4jO4WmVrIUP22) | 2:47 |
 | 73 | [El puchoncito](https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las movidas de los machos](https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu) | 2:38 |
 | 74 | [El Perro De Mi Compadre](https://open.spotify.com/track/2mrBqGEkYb70SZPmvD2zLO) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [12 Favoritas](https://open.spotify.com/album/63KW9xfDO3QBLNMcbOWPFj) | 2:00 |

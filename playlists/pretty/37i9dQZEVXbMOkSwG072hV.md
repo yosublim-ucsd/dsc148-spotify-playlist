@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,841 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,848 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 40 | [Como Flecha](https://open.spotify.com/track/1QJ9w4EatzA9VXBt3OBNX2) | [Samuel Dias](https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK), [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA) | [Como Flecha](https://open.spotify.com/album/5sEDJUKZTMvChisYraNVQB) | 4:56 |
 | 41 | [Achei que era Pagode](https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ) | [Mc Priscila](https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd) | [Achei que era Pagode](https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH) | 3:00 |
 | 42 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
-| 43 | [Deixa o Cavalo Correr](https://open.spotify.com/track/3a4W4YjeCPvzdpVqoqG8NL) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq) | [Deixa o Cavalo Correr](https://open.spotify.com/album/4cXhQzxED13jQAlNUB4HH1) | 6:29 |
+| 43 | [Deixa o Cavalo Correr](https://open.spotify.com/track/3a4W4YjeCPvzdpVqoqG8NL) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW) | [Deixa o Cavalo Correr](https://open.spotify.com/album/4cXhQzxED13jQAlNUB4HH1) | 6:29 |
 | 44 | [Escape](https://open.spotify.com/track/1fWa6ZQQAxt9maPGnN2WE4) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [30 Anos de Louvor e Adoração](https://open.spotify.com/album/1hhZQOE9oSvKpqLCFfl4FR) | 7:06 |
 | 45 | [Montagem Biôníca Espectral 2](https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN) | [DJ OLIVEIRA ORIGINAL](https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4), [Mc Koruja](https://open.spotify.com/artist/44AXaX2aJKSQhMxVTtNb0s) | [Montagem Biôníca Espectral 2](https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu) | 1:20 |
 | 46 | [Pode Vim Me Dando](https://open.spotify.com/track/5tYgnE7vMlW6lCVKz0BD25) | [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO) | [Pode Vim Me Dando](https://open.spotify.com/album/0Uq4ddp0YQv43sxe6mIjoK) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Reza do Milhão](https://open.spotify.com/track/4oHVbU9l8Ja6g4q4ACf7M4) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Reza do Milhão](https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5) | 3:04 |
 | 50 | [Bloquinho da Agonia 2.0](https://open.spotify.com/track/0iAPI0M8NlROE4cOk6Kl5f) | [Oh Malvadãoo](https://open.spotify.com/artist/5sPVrlMHaCypOJbU8rgA7i) | [Bloquinho da agonia 2.0](https://open.spotify.com/album/45rVLH5Ow5Qvlkzd41A3Bm) | 4:42 |
 
-Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

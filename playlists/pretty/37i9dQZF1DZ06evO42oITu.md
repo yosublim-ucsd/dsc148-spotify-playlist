@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 ### [This Is Eric Clapton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42oITu)
 
-> This is Eric Clapton\. The essential tracks, all in one playlist.
+> This is Eric Clapton\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,825 likes - 51 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,880 likes - 51 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [Come Rain or Come Shine](https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:11 |
 | 51 | [Pretending](https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 4:43 |
 
-Snapshot ID: `ZsvFgAAAAABdOqO35tkjFafJyp7ftSAL`
+Snapshot ID: `ZsvFgAAAAAAX5HEpHd8IRt4aUwq/cV7D`

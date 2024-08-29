@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,076 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,091 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 34 | [Gingerbread Boy](https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 7:44 |
 | 35 | [Riot](https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 4:40 |
 | 36 | [Israel](https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 6:11 |
-| 37 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
-| 38 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
+| 37 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
+| 38 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
 | 39 | [Birdlike \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 10:15 |
 | 40 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
 | 41 | [Most Like Lee](https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:49 |

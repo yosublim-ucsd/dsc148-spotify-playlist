@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,578 likes - 111 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,592 likes - 111 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 17 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 |
 | 18 | [Returning To You](https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Returning To You](https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb) | 3:21 |
 | 19 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 |
-| 20 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
+| 20 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
 | 21 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 |
 | 22 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 |
 | 23 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 |

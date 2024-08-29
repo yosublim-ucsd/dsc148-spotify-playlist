@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 934237,
+  "num_followers": 934279,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -727,18 +727,26 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
         }
       ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -763,26 +771,18 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Guddi Riddim",
-        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        },
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Guddi Riddim",
-      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 154838,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
-      },
-      "artists": [
-        {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+      },
+      "artists": [
+        {
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 181934,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 181934,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/0oPhuMXsKIxAzc6mqartCz"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 166399,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Party Crashers",
-        "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Party Crashers",
-      "url": "https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Party Crashers",
+        "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Party Crashers",
+      "url": "https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 184266,
       "name": "Don't Say You Love Me",
       "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     },
     {
       "added_at": "2024-08-09 19:55:21",

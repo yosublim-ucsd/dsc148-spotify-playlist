@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 297692,
       "name": "KANASHIBARI",
       "url": "https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu"
@@ -9101,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "LOVEBITES EP II",
+        "url": "https://open.spotify.com/album/6RGhwITLhayQQGLxtwPTb7"
+      },
+      "artists": [
+        {
+          "name": "LOVEBITES",
+          "url": "https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347333,
+      "name": "Someone's Dream",
+      "url": "https://open.spotify.com/track/6uFXWOU6GDP8HLxxFI7Nmy"
+    },
+    {
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
@@ -10808,7 +10826,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 256959,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/1rc0mAmqWlGRNrCmhD84k9"
@@ -14966,6 +14984,24 @@
       "duration_ms": 174333,
       "name": "\u30d2\u30ac\u30f3\u30d0\u30ca",
       "url": "https://open.spotify.com/track/1HTcAOYu5BcJw4hp1Su2BS"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30c8\u30b7\u30ba\u30af",
+        "url": "https://open.spotify.com/album/5Djoopd8FZm1WdJedJ0duv"
+      },
+      "artists": [
+        {
+          "name": "Aqua Timez",
+          "url": "https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "\u30d2\u30c8\u30b7\u30ba\u30af",
+      "url": "https://open.spotify.com/track/27zFF1QpIIJRsu7thB9QvG"
     },
     {
       "album": {

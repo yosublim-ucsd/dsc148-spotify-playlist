@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 ### [This Is Greeicy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu)
 
-> This is Greeicy\. Tutti i brani in un'unica playlist.
+> This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,985 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,020 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 50 | [I Try For You](https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:16 |
 | 51 | [Lokita](https://open.spotify.com/track/4i0OTkKDtOhSNgVb57mexh) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:06 |
 
-Snapshot ID: `ZsvFgAAAAAAwfYS3dQtpQhMPyRC0bZB9`
+Snapshot ID: `ZsvFgAAAAAD4hHVGggxP6fbS+T/ItyJG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,017 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,018 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 33 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 |
 | 34 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
 | 35 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 |
-| 36 | [I'll Wait Till You're Really Gone](https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [I'll Wait Till You're Really Gone](https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe) | 3:49 |
-| 37 | [It's So Easy](https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Alpine Gold](https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK) | 3:16 |
+| 36 | [It's So Easy](https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Alpine Gold](https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK) | 3:16 |
+| 37 | [I'll Wait Till You're Really Gone](https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [I'll Wait Till You're Really Gone](https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe) | 3:49 |
 | 38 | [Keep It Simple](https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Keep It Simple](https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi) | 3:13 |
 | 39 | [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 |
 | 40 | [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 |
 | 41 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 |
 | 42 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 |
-| 43 | [Desert Bride](https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Desert Bride](https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW) | 4:15 |
-| 44 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
+| 43 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 |
+| 44 | [Desert Bride](https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Desert Bride](https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW) | 4:15 |
 | 45 | [When It's Through](https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Brand New Life](https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU) | 2:33 |
 | 46 | [Dancing In The Dark](https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Dancing In The Dark](https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV) | 3:28 |
 | 47 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 |
 | 48 | [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 |
-| 49 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
-| 50 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 |
+| 49 | [Heat of the Moment](https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [A Heightened Sense of Everything](https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng) | 3:28 |
+| 50 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 |
 
 Snapshot ID: `ZqwFYAAAAAC36Qq/I9HP2R0m3D+wxSW1`

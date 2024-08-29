@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover new favorites or tomorrow's hits today. Cover: Lady Gaga, Bruno Mars",
+  "description": "Discover new favorites or tomorrow's hits today. Cover: Coldplay",
   "name": "Pop Rising Singapore & Malaysia",
   "tracks": [
     {
@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "All Night (with Sophie and the Giants)",
+        "url": "https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120975,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu"
+    },
+    {
+      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
       },
@@ -280,6 +302,24 @@
       "duration_ms": 244733,
       "name": "Baby Blue Movie",
       "url": "https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc"
+    },
+    {
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
     },
     {
       "album": {
@@ -424,7 +464,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 226306,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0"
@@ -708,7 +748,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -734,6 +774,24 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "album": {
@@ -882,7 +940,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 127452,
       "name": "Escape (feat. Jessi)",
       "url": "https://open.spotify.com/track/2Tp8vm7MZIb1nnx1qEGYv5"
@@ -1354,7 +1412,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 151392,
       "name": "Hello World - Song of the Olympics\u2122",
       "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
@@ -1390,7 +1448,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
@@ -1430,7 +1488,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 150746,
       "name": "HOT UPTOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
@@ -1448,7 +1506,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -2169,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Private Blizzard",
+        "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "album": {
         "name": "Please Don't Fall In Love With Me",
         "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
       },
@@ -2314,6 +2390,24 @@
       "duration_ms": 141139,
       "name": "Psychic",
       "url": "https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a"
+    },
+    {
+      "album": {
+        "name": "Rains in Heaven",
+        "url": "https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237499,
+      "name": "Rains in Heaven",
+      "url": "https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo"
     },
     {
       "album": {
@@ -2494,7 +2588,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 154293,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp"
@@ -2649,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Stay With Me (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172085,
+      "name": "Stay With Me (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9"
+    },
+    {
+      "album": {
         "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
         "url": "https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ"
       },
@@ -2726,6 +2842,42 @@
       "duration_ms": 303933,
       "name": "Take A Chance With Me",
       "url": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
     },
     {
       "album": {
@@ -2824,7 +2976,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
@@ -3046,6 +3198,40 @@
       "duration_ms": 166706,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+    },
+    {
+      "album": {
+        "name": "WE PRAY",
+        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "WE PRAY",
+      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
       "album": {

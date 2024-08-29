@@ -2,7 +2,7 @@
 
 ### [Songs of Summer](https://open.spotify.com/playlist/37i9dQZF1DX4zbZrYRGVam)
 
-> Our song of summer predictions as chosen by Spotify editors.
+> The Songs of Summer 2024 as chosen by Spotify editors.
 
 118 songs - 6 hr 22 min
 

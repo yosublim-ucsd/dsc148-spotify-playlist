@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,778 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,779 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 41 | [Chicken Shake](https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 3:49 |
 | 42 | [Hi\-De\-Ho](https://open.spotify.com/track/26BpoFfXMCt0iX4daD6U9O) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Blood, Sweat And Tears 3](https://open.spotify.com/album/3Va4LEJ4n3EZxMo3CGLpB5) | 4:23 |
 | 43 | [Sometime in the Morning \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/29MWHZL3EnA792mpBpabvU) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:30 |
-| 44 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
-| 45 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 44 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
+| 45 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
 | 46 | [I Can't Make It Alone \- Remastered](https://open.spotify.com/track/2KzlY5heyGkSYSbd6MK7yr) | [P.J\. Proby](https://open.spotify.com/artist/3g4Os4LNZvOQUaokeSLCwG) | [Best Of The EMI Years \(1961\-1972\)](https://open.spotify.com/album/3AsA1h6kQvqdnfaC1lu8Tx) | 4:20 |
 | 47 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
 | 48 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 243 | [What About Me](https://open.spotify.com/track/4O4QKS1mPwH4LTob5tDq5X) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:08 |
 | 244 | [If She Were My Girl](https://open.spotify.com/track/4ZQyzfQ8lmicx974FvzR7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:11 |
 | 245 | [Who Needs It](https://open.spotify.com/track/1UVjTwSQGEYFza3hUIMLnF) | [Peggy Lipton](https://open.spotify.com/artist/5DEuMoHxgFu68qF7qkk8D4) | [Peggy Lipton \(Expanded Edition\)](https://open.spotify.com/album/6xhCppDY9jYAUAKKw6aTFn) | 3:45 |
-| 246 | [Will Power](https://open.spotify.com/track/6w1b6BImXLSrtK5ZhytOs2) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:33 |
-| 247 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
+| 246 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
+| 247 | [Will Power](https://open.spotify.com/track/6w1b6BImXLSrtK5ZhytOs2) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:33 |
 | 248 | [Blessed Is the Man](https://open.spotify.com/track/60OCAjSXxJCOKVsKhV9naE) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g) | [Rural Free Delivery](https://open.spotify.com/album/5ojLaEQWJ6Vwkw4CDiwmWn) | 3:43 |
 | 249 | [Echoes](https://open.spotify.com/track/0wxVFIGfvpbkK1Q7TL8RL5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Presenting Teddy Randazzo](https://open.spotify.com/album/46cFy8s2CRTfIQkL6vnukg) | 2:48 |
 | 250 | [Stone Cold World](https://open.spotify.com/track/56aAxTCxS2c8ZzKvS1MUKJ) | [A.l.t.](https://open.spotify.com/artist/6vFKxAcVuWQhv5J6CO9dQz) | [Stone Cold World](https://open.spotify.com/album/6TpuGCW86cAyDhCqG6WE89) | 3:33 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbakpgAAAACMOY+25OM6PHDsbsriaV5s`
+Snapshot ID: `AbaqRQAAAADTsJAY3r+KcUBEz0CsG7f7`

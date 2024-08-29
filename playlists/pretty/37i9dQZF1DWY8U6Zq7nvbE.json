@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2437413,
+  "num_followers": 2438353,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsx+lQAAAAAn9DalMC+Yjqd0jzF9x+X8",
+  "snapshot_id": "Zs7MZAAAAAB8ihapkoF2dfVCabIkKGZM",
   "tracks": [
     {
       "added_at": "2024-07-18 07:47:58",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
         "name": "Sex is on fire",
         "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 210473,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
-        "name": "Only Girl In The World",
-        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "Only Girl In The World",
-      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "see you soon",
-        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "see you soon",
-      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 179000,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Chasing Pavements",
-        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 180034,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 201600,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Chasing Pavements",
+        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 180034,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
-      },
-      "artists": [
-        {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
-        }
-      ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 158080,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+      },
+      "artists": [
+        {
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+        }
+      ],
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2024-07-18 07:47:58",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-18 07:47:58",
       "album": {
-        "name": "Pillowtalk",
-        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 153374,
-      "name": "Pillowtalk",
-      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
-    },
-    {
-      "added_at": "2024-07-18 07:47:58",
-      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 219120,
       "name": "Birds of a Feather",
       "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
+    },
+    {
+      "added_at": "2024-07-18 07:47:58",
+      "album": {
+        "name": "Pillowtalk",
+        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 153374,
+      "name": "Pillowtalk",
+      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
     },
     {
       "added_at": "2024-07-18 07:47:58",

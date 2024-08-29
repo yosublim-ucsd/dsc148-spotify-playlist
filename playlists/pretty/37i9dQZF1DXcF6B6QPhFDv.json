@@ -1,12 +1,12 @@
 {
   "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: Fontaines D.C.",
-  "num_followers": 4563056,
+  "num_followers": 4563114,
   "original_name": "MARROW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAADDRZczJnZmGVBGRaxQOZ/4",
+  "snapshot_id": "Zs8j6AAAAAChiUrjjLjgDghnCmF9MeSt",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -249,20 +249,20 @@
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2024-08-28 13:19:36",
       "album": {
-        "name": "Detroit",
-        "url": "https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy"
+        "name": "Love Raider - Spotify Singles",
+        "url": "https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK"
       },
       "artists": [
         {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
         }
       ],
-      "duration_ms": 211509,
-      "name": "Detroit",
-      "url": "https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu"
+      "duration_ms": 178000,
+      "name": "Love Raider - Spotify Singles",
+      "url": "https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -279,6 +279,38 @@
       "duration_ms": 190552,
       "name": "Sad In Carolina",
       "url": "https://open.spotify.com/track/4q3jPOs1eS4BoHtG08r9QW"
+    },
+    {
+      "added_at": "2024-08-28 13:19:36",
+      "album": {
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/0Fg9GTE8wRg3bGirHuiduy"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/2NgvsclHyE5KaOVSxJxPTu"
     },
     {
       "added_at": "2024-08-23 04:00:00",

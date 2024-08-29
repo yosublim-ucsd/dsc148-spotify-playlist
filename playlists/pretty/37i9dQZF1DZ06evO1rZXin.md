@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 ### [This Is Banda Vallarta Show](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rZXin)
 
-> This is Banda Vallarta Show\. The essential tracks, all in one playlist.
+> This Is Banda Vallarta Show\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,120 likes - 38 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,123 likes - 38 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 37 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 |
 | 38 | [La Fiesta](https://open.spotify.com/track/2BjQ7lWbTPAzqR5MjxjKql) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:01 |
 
-Snapshot ID: `ZsvFgAAAAACdFVu/jXiG7ZrdGRBpg/0L`
+Snapshot ID: `ZsvFgAAAAAA/5AY5jJDwo4djWwMkD6Ma`

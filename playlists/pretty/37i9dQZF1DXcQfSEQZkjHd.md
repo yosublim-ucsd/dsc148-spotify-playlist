@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 
 > Flirty tracks Tove Lo loves\. Put this on when you want your intentions to be obvious..\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,422 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,435 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQfSEQZkjHd.md) - [plain]
 | 16 | [Lights On](https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:39 |
 | 17 | [No Kink in the Wire](https://open.spotify.com/track/4qIwGVYW7OINlnBfMMlKSM) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Mt\. Pleasant](https://open.spotify.com/album/0ZjTwAs6QJit4LmOs1Z8TB) | 5:30 |
 | 18 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 19 | [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/0cQkBEIe6qi95izS79txnL) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 |
+| 19 | [Feedback](https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Feedback](https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF) | 3:12 |
 | 20 | [Pink Noise](https://open.spotify.com/track/4VkaCwvhIEZ80FjeDXF284) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Pink Noise](https://open.spotify.com/album/1VQO9qF4W5tCsMfwDYh5FU) | 3:29 |
 | 21 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 |
 | 22 | [I'm Everything](https://open.spotify.com/track/5JyAuVWt07CDdmKl3w6a9w) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa) | [I'm Everything](https://open.spotify.com/album/344T5wmPDAEJaKugZcjPuG) | 4:26 |

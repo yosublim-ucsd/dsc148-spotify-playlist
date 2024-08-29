@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 ### [This Is Glassjaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4mMOIM)
 
-> This Is Glassjaw\. Los temas esenciales, todos en una lista.
+> This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 33 | [closer](https://open.spotify.com/track/5uJpSKo6cFDwnvncugsC61) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:38 |
 | 34 | [Oxycodone](https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:44 |
 
-Snapshot ID: `ZsvFgAAAAACgMhnd6PcmQquO0llRyMV8`
+Snapshot ID: `ZsvFgAAAAADIIJ4LgAEmc74E4Q7ldXIy`

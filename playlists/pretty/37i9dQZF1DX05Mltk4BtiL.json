@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113324,
+  "num_followers": 113336,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -747,18 +747,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Santorin",
-        "url": "https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm"
+        "name": "Geheimnis",
+        "url": "https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y"
       },
       "artists": [
         {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+          "name": "Florian Paul & Die Kapelle der letzten Hoffnung",
+          "url": "https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV"
+        },
+        {
+          "name": "Magdalena Wawra",
+          "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
         }
       ],
-      "duration_ms": 224414,
-      "name": "Santorin",
-      "url": "https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG"
+      "duration_ms": 139986,
+      "name": "Geheimnis",
+      "url": "https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -799,38 +803,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Geheimnis",
-        "url": "https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y"
+        "name": "Santorin",
+        "url": "https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm"
       },
       "artists": [
         {
-          "name": "Florian Paul & Die Kapelle der letzten Hoffnung",
-          "url": "https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV"
-        },
-        {
-          "name": "Magdalena Wawra",
-          "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
         }
       ],
-      "duration_ms": 139986,
-      "name": "Geheimnis",
-      "url": "https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ostkreuz",
-        "url": "https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF"
-      },
-      "artists": [
-        {
-          "name": "Acht Eimer H\u00fchnerherzen",
-          "url": "https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Ostkreuz",
-      "url": "https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy"
+      "duration_ms": 224414,
+      "name": "Santorin",
+      "url": "https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 202308,
       "name": "Skandal im Patriarchat",
       "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Das Fest",
+        "url": "https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI"
+      },
+      "artists": [
+        {
+          "name": "Oehl",
+          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
+        }
+      ],
+      "duration_ms": 164562,
+      "name": "Das Fest",
+      "url": "https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe"
     }
   ],
   "unique_name": "Gegen den Strom",

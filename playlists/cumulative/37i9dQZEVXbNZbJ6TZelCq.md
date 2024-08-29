@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,741 songs - 3 day 19 hr 59 min
+1,742 songs - 3 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,6 +759,7 @@
 | [Inima](https://open.spotify.com/track/6v2xV32DfjSBVRGlPYHPJk) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Apă \(Deluxe Edition\)](https://open.spotify.com/album/0W1bmifq59fFf75BBeTv8B) | 3:10 | 2021-11-04 | 2021-11-08 |
 | [INIMA JUNGLEI](https://open.spotify.com/track/38VU7cEjYpi7jI0yVDTN7O) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [CARTEA JUNGLEI](https://open.spotify.com/album/0kOUAVz6jKiWYp9qZjqDNh) | 2:39 | 2023-11-11 | 2023-11-13 |
 | [Inima Nu Fi De Piatra](https://open.spotify.com/track/1X5GCDh0VwRZzknOcJAH63) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Inima Nu Fi De Piatra](https://open.spotify.com/album/56IZwovVw0s3W4XMFiaJdU) | 2:41 | 2021-08-09 | 2021-08-31 |
+| [Inima sau Banii](https://open.spotify.com/track/2r2lwkgZJbsNCNcWqg1ND3) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Claudia Puican](https://open.spotify.com/artist/2218dGWsepdbDbWnzJzYNB) | [Inima sau Banii](https://open.spotify.com/album/5KKqyKx3vykb5Rh3BrOyPY) | 2:21 | 2024-08-28 |  |
 | [Inimi de Bagabonti](https://open.spotify.com/track/684zOy7ApVbDMB3DLTM5O1) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [NMW Yanni](https://open.spotify.com/artist/72Xogl9AkYHurmrMyW5NZe), [NMW Umberto](https://open.spotify.com/artist/3DJ2pwk1vqbMC88FZEzgDD) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:21 | 2022-06-24 | 2022-06-26 |
 | [Inimă de aur \- From "Romina VTM" The Movie](https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Gheboasă](https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ) | [Inimă de aur \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/0SPpEUGu67Yf3I7tMN2nCt) | 2:32 | 2023-06-24 | 2024-05-29 |
 | [INSTA](https://open.spotify.com/track/3ejsINSoEKzT63Ov47NqGN) | [Nane](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [CORDIAL](https://open.spotify.com/album/5LpBSwOZaLQfU2mVU3Vyzm) | 2:42 | 2021-12-12 | 2021-12-13 |
@@ -1650,7 +1651,7 @@
 | [Vocea ta](https://open.spotify.com/track/7CMacubcnXb2QehV6HF4ew) | [Lele](https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G), [Manele VTM](https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba) | [Vocea ta](https://open.spotify.com/album/1KOUIh9JuOqVVD4LXu5brd) | 2:31 | 2024-05-04 | 2024-07-27 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-31 | 2023-04-02 |
 | [VOID](https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:07 | 2023-04-01 | 2023-04-03 |
-| [VOILA](https://open.spotify.com/track/6teznWA9gmC0CcAXRRqqRP) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Simiz](https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 3:41 | 2024-08-24 |  |
+| [VOILA](https://open.spotify.com/track/6teznWA9gmC0CcAXRRqqRP) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Simiz](https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD) | [BEAST MODE +](https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg) | 3:41 | 2024-08-24 | 2024-08-29 |
 | [Voila](https://open.spotify.com/track/5Z4UYVVlEYouySbUEaSMAf) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [2089](https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk) | 2:41 | 2021-06-09 | 2021-06-10 |
 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 | 2024-07-06 |  |
 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 | 2024-04-13 |  |

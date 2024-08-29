@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Eklektika",
+        "url": "https://open.spotify.com/album/2eJlyrJrorOon92OKkIthh"
+      },
+      "artists": [
+        {
+          "name": "Phobia Isaac",
+          "url": "https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225951,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/65HxtT2k0HH0iXxDkZcBk9"
+    },
+    {
+      "album": {
         "name": "Harami",
         "url": "https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-29",
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
