@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Kofi Mole ",
+  "description": "The most intense local drill music firing up the continent. Cover:  Kawabanga",
   "name": "Asakaa",
   "tracks": [
     {
@@ -662,6 +662,32 @@
       "duration_ms": 195957,
       "name": "Aso)den",
       "url": "https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky"
+    },
+    {
+      "album": {
+        "name": "ASOR",
+        "url": "https://open.spotify.com/album/1UabuKaGS9tZqFSlAZTTsF"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        },
+        {
+          "name": "Trig Triga",
+          "url": "https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203736,
+      "name": "ASOR",
+      "url": "https://open.spotify.com/track/50ZxuYLK3Ksexm6GoyqRom"
     },
     {
       "album": {
@@ -3349,6 +3375,28 @@
     },
     {
       "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/4G7ZD0J3rDL6MH6PIzYJHq"
+      },
+      "artists": [
+        {
+          "name": "Eddie Khae",
+          "url": "https://open.spotify.com/artist/2pGCVrouJpjRXXfph7O2Lf"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183923,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/6fOO1B6FqtPa0HON1uQTyC"
+    },
+    {
+      "album": {
         "name": "ON TEN",
         "url": "https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4"
       },
@@ -3444,7 +3492,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 207619,
       "name": "ORTEESO",
       "url": "https://open.spotify.com/track/29NNISjZWKCV7fe0SRRbXU"
@@ -3794,7 +3842,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 137038,
       "name": "Savage Flow",
       "url": "https://open.spotify.com/track/5Z5Bl3hHAM3N0rpN8QqxAP"

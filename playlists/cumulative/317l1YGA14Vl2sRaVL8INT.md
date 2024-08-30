@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-260 songs - 14 hr 11 min
+265 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,8 @@
 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 | 2022-10-12 | 2023-12-02 |
 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 | 2024-01-09 |  |
 | [Are You Happy Now?](https://open.spotify.com/track/5B7XIcS5T76NJZFOHX30Io) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hotel Paper](https://open.spotify.com/album/5cMMHA3CyA21eRXP1pnm0Z) | 3:50 | 2023-10-19 | 2023-12-02 |
+| [Aside](https://open.spotify.com/track/1bjzuQ0SHfrOVN0U2WqZdf) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Aside](https://open.spotify.com/album/4opsk1nTx5X1rKiHLTNLuG) | 3:14 | 2024-08-29 |  |
+| [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 | 2024-08-29 |  |
 | [Attention](https://open.spotify.com/track/3qF9lBDFFLdMbAn5arThmb) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Almost Here](https://open.spotify.com/album/1UFqUhgdLfxuV3AzVGlbOR) | 2:53 | 2023-10-19 | 2023-12-02 |
 | [Baby Come On](https://open.spotify.com/track/6Bcf5qj1eeHGjSiRc3eD3X) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 2:46 | 2024-01-09 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2023-10-19 | 2023-12-02 |
@@ -224,6 +226,8 @@
 | [The Baby Panda](https://open.spotify.com/track/2731uLCufdZj8Ut0bxSiaZ) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 1:49 | 2023-10-19 | 2023-12-02 |
 | [The Best Of Me](https://open.spotify.com/track/5bjWdmEdAQxGQPbtob0Xld) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Drive Thru Records Greatest Hits](https://open.spotify.com/album/6y2RzM4NUG4D91Ci9hyeZX) | 4:18 | 2024-01-09 |  |
 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 | 2024-03-08 |  |
+| [The Best Thing \(That Never Happened\)](https://open.spotify.com/track/2iEEWfjzmI4W1xZb0grtER) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [The Best Thing \(That Never Happened\)](https://open.spotify.com/album/7c4yJ40cEruVtTpwCi58ll) | 3:03 | 2024-08-29 |  |
+| [The Best Thing \(That Never Happened\)](https://open.spotify.com/track/5H4nCAMT63jW86e8s81VV4) | [We Are The In Crowd](https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME) | [Weird Kids](https://open.spotify.com/album/3c7e5GQ2om1QZd0uuXqQeB) | 2:51 | 2024-08-29 |  |
 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 | 2023-10-19 | 2023-12-02 |
 | [The Christmas Song](https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 3:08 | 2023-12-01 | 2024-01-10 |
 | [The Ghost Of Saint Valentine](https://open.spotify.com/track/7BlyWdMRa1HHIlwiUeP0ex) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Shudder \(Bonus Track Version\)](https://open.spotify.com/album/1gOUjyC3Dvd7xq2cEHiSvl) | 3:50 | 2023-02-12 | 2023-12-02 |
@@ -238,6 +242,7 @@
 | [The Slowest Drink at the Saddest Bar on the Snowiest Day in the Greatest City](https://open.spotify.com/track/7o2M1H5G247OQs98gIo10z) | [The Lawrence Arms](https://open.spotify.com/artist/0aQ8Ow9YAkGxr5bbehjkcS) | [Buttsweat and Tears](https://open.spotify.com/album/6CszJWUjAd6gBk6T7MzDUi) | 3:13 | 2023-12-01 | 2024-01-10 |
 | [The Space Between](https://open.spotify.com/track/3VGjUGJ5H3N61ggpyORS0n) | [Valencia](https://open.spotify.com/artist/44Ga8DsScroKWAkQAJ1GwE) | [This Could Be A Possibility](https://open.spotify.com/album/6fFF8Oo2xBO2kCnR6xW0Zg) | 3:37 | 2024-01-09 |  |
 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 | 2024-01-09 |  |
+| [There, There](https://open.spotify.com/track/2KtUs4SyTrHcmRt338fFFV) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [There, There](https://open.spotify.com/album/5LsmK8O9hIof0BulViXvU0) | 3:40 | 2024-08-29 |  |
 | [There, There](https://open.spotify.com/track/21EhWmp2yvVNPa0wCMnvd6) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Greatest Generation](https://open.spotify.com/album/7q9crgUsEy4Clq2B77ijN9) | 2:26 | 2024-01-09 |  |
 | [Thnx](https://open.spotify.com/track/3kUngdPstLUhp6QvbZlDvd) | [Spirit Weak](https://open.spotify.com/artist/1KHc3JjAjl9czNUb8mHRX3) | [Thnx](https://open.spotify.com/album/2c8YSRBnH6ZIe6cJ5PB2PR) | 3:48 | 2024-03-08 |  |
 | [Threadbare](https://open.spotify.com/track/4JrYtPByIks9p7h9FYhgeS) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Threadbare](https://open.spotify.com/album/7n9A3XL9AprUZ4UhMRWCja) | 3:30 | 2023-12-01 |  |

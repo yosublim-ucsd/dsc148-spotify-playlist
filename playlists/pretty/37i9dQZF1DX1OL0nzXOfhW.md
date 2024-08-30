@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Wantamnam 我地希望
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:  OJ Reambillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,048 likes - 57 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,051 likes - 57 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [南 Nam](https://open.spotify.com/track/4lUDA9q4iIM9IoQherQIn7) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [南 Nam](https://open.spotify.com/album/5pRm6QGxFNByZDzCvUhmqo) | 6:15 |
-| 2 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 |
-| 3 | [想 Want](https://open.spotify.com/track/505eClzHVGgNy4AUGdjTdW) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想 Want](https://open.spotify.com/album/5TzRmcWH06BWAdhAA9StBX) | 4:21 |
-| 4 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 |
-| 5 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 |
-| 6 | [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 |
-| 7 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
-| 8 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 |
+| 1 | [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 |
+| 2 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
+| 3 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 |
+| 4 | [南 Nam](https://open.spotify.com/track/4lUDA9q4iIM9IoQherQIn7) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [南 Nam](https://open.spotify.com/album/5pRm6QGxFNByZDzCvUhmqo) | 6:15 |
+| 5 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 |
+| 6 | [想 Want](https://open.spotify.com/track/505eClzHVGgNy4AUGdjTdW) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想 Want](https://open.spotify.com/album/5TzRmcWH06BWAdhAA9StBX) | 4:21 |
+| 7 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 |
+| 8 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 |
 | 9 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 |
 | 10 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 |
 | 11 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 56 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 57 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `ZsdggAAAAABh8iB9oqetR1x40PXYr5/U`
+Snapshot ID: `ZtCbAAAAAABrPU2aZ7YBhUgKAq3QE5fH`

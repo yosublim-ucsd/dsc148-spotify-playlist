@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: SPIRIT OF THE BEEHIVE
 
-2,702 songs - 6 day 5 hr 8 min
+2,703 songs - 6 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2554,6 +2554,7 @@
 | [Was it obvious?](https://open.spotify.com/track/7acygR0MITOkj40p2EWw9i) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Was it obvious?](https://open.spotify.com/album/0ic0Nqmg2qTRVGVA1nwVM3) | 3:03 | 2022-08-24 | 2022-09-29 |
 | [waste](https://open.spotify.com/track/3t7uUdKUYYwjg7SpGTXfdG) | [The Sonder Bombs](https://open.spotify.com/artist/1jcXXrb7lhflZzQSetip3C) | [waste](https://open.spotify.com/album/5g6AW9yit8pOU0uYuQNFBt) | 3:15 | 2023-06-14 | 2023-06-28 |
 | [Waste My Time](https://open.spotify.com/track/0TcRSTkWvD32LHSjB0Jomh) | [Young Robin](https://open.spotify.com/artist/4BnkPeqmiggfIeutldNqSC) | [Waste My Time](https://open.spotify.com/album/3MstlI0rdss4LIx4yACWFw) | 3:23 | 2022-06-08 | 2022-06-30 |
+| [Waste My Wishes](https://open.spotify.com/track/5fM3SwSsFvg7vzs5yAUyfZ) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [Waste My Wishes](https://open.spotify.com/album/7iEZGLZPz0nSTsU5DLbghK) | 3:27 | 2024-08-30 |  |
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-07-20 | 2022-09-07 |
 | [Wasted](https://open.spotify.com/track/3STDFm1uFX2vURQKYKc3Me) | [Blunt Chunks](https://open.spotify.com/artist/0LAiiUMmOgX2YIQ5xPb4XX) | [Wasted](https://open.spotify.com/album/7o7maQi8xuOcsG6IfEAY0l) | 5:41 | 2022-09-23 | 2022-10-26 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-09 | 2024-01-11 |

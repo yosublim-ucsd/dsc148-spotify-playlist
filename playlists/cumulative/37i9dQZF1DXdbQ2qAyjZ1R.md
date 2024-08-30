@@ -4,7 +4,7 @@
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-106 songs - 7 hr 30 min
+107 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Sunday Kind Of Love \- Single Version](https://open.spotify.com/track/2A6arq0CZXZZiwL4Wp6J2Y) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:18 | 2023-12-15 |  |
 | [Aht Uh Mi Hed](https://open.spotify.com/track/3bGVC25HcISA1ApJwux1LF) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:15 | 2022-12-16 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2022-12-16 |  |
-| [Angola, Louisiana](https://open.spotify.com/track/4iqtrToCLSIMCbt8QtvbAn) | [Gil Scott\-Heron & Brian Jackson](https://open.spotify.com/artist/2OELvPolUUefy9oQNgs8rj) | [Secrets](https://open.spotify.com/album/0MrHVkohZztmdrTrQAosNe) | 5:34 | 2022-12-16 |  |
+| [Angola, Louisiana](https://open.spotify.com/track/4iqtrToCLSIMCbt8QtvbAn) | [Gil Scott\-Heron & Brian Jackson](https://open.spotify.com/artist/2OELvPolUUefy9oQNgs8rj) | [Secrets](https://open.spotify.com/album/0MrHVkohZztmdrTrQAosNe) | 5:34 | 2022-12-16 | 2024-08-30 |
 | [As Long As I've Got You](https://open.spotify.com/track/5YKmsmPVYtjh5BH8OaVBUp) | [The Charmels](https://open.spotify.com/artist/3VklNAaOdAkZoqMMhDquLq) | [Shaolin Soul 1](https://open.spotify.com/album/17BDLRhafm3JfhVKBSLVD2) | 2:37 | 2023-12-15 |  |
 | [As Long As I've Got You](https://open.spotify.com/track/5f1dWtvWmx1RMP6ynU5PIH) | [The Charmels](https://open.spotify.com/artist/3VklNAaOdAkZoqMMhDquLq) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 2:37 | 2022-12-16 | 2024-04-19 |
 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 | 2022-12-16 |  |
@@ -58,6 +58,7 @@
 | [Inside My Love \- Remastered](https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:48 | 2022-12-16 |  |
 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 | 2022-12-16 |  |
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-12-16 |  |
+| [La ritournelle](https://open.spotify.com/track/40at1IRgEDeq0Jun0VNsz2) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/15668LZdvpFbxSGBFhoJ8K) | 7:34 | 2024-08-29 |  |
 | [Let's Get It On](https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:50 | 2022-12-16 | 2023-08-30 |
 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 | 2023-05-22 | 2023-09-01 |
 | [Let's Get It On](https://open.spotify.com/track/3wEEhk6eq1e8YjVBlNdHaR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Remastered w/ Bonus Tracks\)](https://open.spotify.com/album/50E1YSwaM6fsvfVnuLN7Jt) | 4:50 | 2023-12-15 |  |

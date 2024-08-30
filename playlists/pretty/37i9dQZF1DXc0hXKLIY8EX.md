@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey and Connecticut music breaking waves\. Curated by: <a href="spotify:artist:1WcZXhILKBJktTKnqfjWMT">Kitty Ca$h</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,580 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,590 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

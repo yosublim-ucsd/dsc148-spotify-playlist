@@ -2,9 +2,9 @@
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> A new world of alternative electronic music\. <br/>Cover: Joy Orbison
+> A new world of alternative electronic music\. <br/>Cover: Caribou
 
-724 songs - 2 day 4 hr 10 min
+729 songs - 2 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [CLUB MEGAMIXXX \- DUB MIX](https://open.spotify.com/track/0elf8UHDw5X6VieryKw1Tr) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [CRAZY IF TRUE](https://open.spotify.com/album/70RsZweRTsxLoFJVwqvvkm) | 4:03 | 2023-08-03 | 2023-09-01 |
 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 | 2023-04-27 | 2023-07-07 |
 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-05-11 | 2023-08-04 |
+| [Come Find Me](https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB) | 3:56 | 2024-08-29 |  |
 | [Coming On Strong](https://open.spotify.com/track/06zEIQV4HnyhES2flGFeVd) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Coming On Strong](https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ) | 6:02 | 2022-12-08 | 2023-01-27 |
 | [Confide](https://open.spotify.com/track/5BgDMTu8Mv7QGvekUoJTBH) | [Mirasia](https://open.spotify.com/artist/38BpiXYo0GESioPqkG5xyl), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [Confide](https://open.spotify.com/album/2fqyvFf3br0uH0VpPcpdir) | 4:12 | 2023-10-05 | 2024-02-10 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-26 | 2023-02-13 |
@@ -172,6 +173,7 @@
 | [Crystal](https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Crystal](https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU) | 2:50 | 2024-02-29 | 2024-06-28 |
 | [Cyber](https://open.spotify.com/track/4JCXymBQzkD7VcwFzlHQfd) | [Echomatics](https://open.spotify.com/artist/5RYZ30rKLarxPEVxkEpPO0) | [Move On](https://open.spotify.com/album/4GlSazlLDWRFoDTd1ChmuB) | 5:08 | 2023-01-19 | 2023-03-10 |
 | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [d\(\-\_\-\)b dreaming of your latte art d\(\-\_\-\)b](https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p) | 2:13 | 2023-07-06 | 2023-08-18 |
+| [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 |  |
 | [Daggers](https://open.spotify.com/track/7DMoJXTtrMxHWZJkOnmHm2) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Daggers](https://open.spotify.com/album/1joVdJWVO7E3ulPMvwJwl3) | 3:36 | 2023-02-02 | 2023-03-25 |
 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 | 2024-02-09 | 2024-04-30 |
 | [Damn Gloves](https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Yanga YaYa](https://open.spotify.com/artist/6khlvGagBlNVPYIknFCPeJ) | [Damn Gloves](https://open.spotify.com/album/5LtEbfT8ouvd9qLBVhLMv2) | 2:31 | 2024-02-16 | 2024-06-07 |
@@ -216,6 +218,7 @@
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-02-22 | 2024-06-07 |
 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 | 2023-11-09 | 2023-11-24 |
 | [Ela Joga na Hora](https://open.spotify.com/track/6hZGsChumRhWG24OEh698c) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v) | 2:12 | 2024-08-01 |  |
+| [ELECTRIC BLUE](https://open.spotify.com/track/33lekkAv8vy5DIf2oRNdPU) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [House Hues 2](https://open.spotify.com/album/5r0FrjNaPDjfAuGujcJKBt) | 3:00 | 2024-08-29 |  |
 | [EMBER\_dnb\_edit001](https://open.spotify.com/track/3mBLjr8jljLpg4UBwetooh) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER\_edit\_Vii](https://open.spotify.com/album/25FnnFOqjG4EwELODADGc6) | 3:42 | 2023-01-12 | 2023-02-17 |
 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 | 2024-05-16 | 2024-08-09 |
 | [End Credits](https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [End Credits](https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0) | 3:33 | 2023-09-21 | 2023-11-10 |
@@ -333,7 +336,9 @@
 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 | 2023-05-11 | 2023-06-30 |
 | [I Let Go](https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 4:18 | 2024-07-04 | 2024-08-23 |
 | [I Like That \(Jungle Music\)](https://open.spotify.com/track/7xNuZqcNRFoGAMafD20EbH) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [I Like That \(Jungle Music\)](https://open.spotify.com/album/3W1Cqs1zmAbkFKGH39IEx4) | 3:59 | 2023-08-24 | 2023-09-22 |
+| [I Like This One \- Domba Remix](https://open.spotify.com/track/3pAtfCDEER2v32knzID7DI) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n), [Domba](https://open.spotify.com/artist/3CeiqSedqQQ4lJ2wYmQywz) | [I Like This One \- Domba Remix](https://open.spotify.com/album/4ZN4dGDbJeM8ldQl89sZeg) | 1:55 | 2024-08-29 |  |
 | [I Need For Speed](https://open.spotify.com/track/1ggx4wohd1La6vue2KyHK4) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [I Need For Speed](https://open.spotify.com/album/16lV4BfF8XLr3M3QQzBVmB) | 3:36 | 2024-06-27 | 2024-08-23 |
+| [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-29 |  |
 | [I Want an Earth](https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 6:02 | 2023-07-27 | 2023-09-01 |
 | [I Want You](https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [I Want You](https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn) | 2:55 | 2023-09-21 | 2023-11-17 |
 | [I'm Trying](https://open.spotify.com/track/0hs65gzhueVA9Y5u7Tp5u2) | [Joshua Amour](https://open.spotify.com/artist/3jI6t8Tj9LvOVOVPYN8yUb) | [I'm Trying](https://open.spotify.com/album/4laizWsGgenglKUKnCSkXE) | 4:41 | 2022-12-08 | 2023-01-20 |

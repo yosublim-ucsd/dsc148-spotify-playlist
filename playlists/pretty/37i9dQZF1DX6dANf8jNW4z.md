@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Edurne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,123 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,127 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 31 | [Tiempo](https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Tiempo](https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0) | 3:16 |
 | 32 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 |
 | 33 | [AMÉ](https://open.spotify.com/track/1SFxf3rAJXABlo9IQYY7ED) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [AMÉ](https://open.spotify.com/album/6unj06Yig8gkRI9J0khrfL) | 2:11 |
-| 34 | [ALENAR](https://open.spotify.com/track/2IY2iIPh2rmKrQSjytrQ7H) | [MARIA HEIN](https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI) | [ALENAR](https://open.spotify.com/album/10SidKXpg2NlUiM18rlTbP) | 3:18 |
+| 34 | [ALENAR](https://open.spotify.com/track/2IY2iIPh2rmKrQSjytrQ7H) | [MARIA HEIN](https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [Joan Lupi](https://open.spotify.com/artist/6Ybl6CuxmtNj29sSZnAIk7), [Camil Arcarazo](https://open.spotify.com/artist/4YcxAiYpp05CKPIQ0eg4xS) | [ALENAR](https://open.spotify.com/album/10SidKXpg2NlUiM18rlTbP) | 3:18 |
 | 35 | [Navegantes \(En Pendura\)](https://open.spotify.com/track/2oVeabAuU3FnvGEMaZmkMG) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Navegantes \(En Pendura\)](https://open.spotify.com/album/1VbUrdQVSiLGVowicmO3vT) | 4:09 |
 | 36 | [PRÍNCIPE](https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [PRÍNCIPE](https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW) | 2:51 |
 | 37 | [Olvidarte](https://open.spotify.com/track/24CD0zgbjMA5ACogptH6VN) | [ROJAZ](https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6) | [La Noche](https://open.spotify.com/album/7dfPkAgR3DnzplUeC0iKSl) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2023\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,122 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,133 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 5 | [3:15](https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [1111](https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf) | 3:00 |
 | 6 | [Ola Kala](https://open.spotify.com/track/0pqkfIGOaW41isgsnzdGpQ) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Ola Kala](https://open.spotify.com/album/25vFcAwCSIZzVID0k8sdXP) | 3:06 |
 | 7 | [CASTELLANO](https://open.spotify.com/track/36eKhbZ5KaCBuBX2IL9ujN) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 4:11 |
-| 8 | [Blue Iguana](https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [X ORFEAS](https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC) | [5D](https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho) | 1:42 |
+| 8 | [Blue Iguana](https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [5D](https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho) | 1:42 |
 | 9 | [ROLEX](https://open.spotify.com/track/3bfTvADTPaf4KLkVhcw2IW) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [ROLEX](https://open.spotify.com/album/56TymD3tLnJoXvVgoz1Q13) | 2:21 |
 | 10 | [Double Fantasy \(with Future\) \- Radio Edit](https://open.spotify.com/track/0vuiKizDyUXdIge9npkEKn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 3:55 |
 | 11 | [Ton Kosmo Girizo](https://open.spotify.com/track/6xPJAhprbkceB2j3klCum1) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Ton Kosmo Girizo](https://open.spotify.com/album/6y49FBmAs42SXNX1MazPjD) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Mdeline, Merry Lamb Lamb  &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,748 likes - 101 songs - 5 hr 28 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,751 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

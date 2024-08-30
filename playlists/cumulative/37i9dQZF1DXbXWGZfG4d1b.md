@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-627 songs - 1 day 13 hr 2 min
+628 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 | 2023-06-02 | 2024-05-11 |
 | [Nevada](https://open.spotify.com/track/28I7nwBGoXFmV5AxaHhBTM) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Nevada](https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA) | 3:24 | 2022-06-03 | 2022-07-27 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2023-07-08 |
+| [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 | 2024-08-29 |  |
 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 | 2022-07-01 | 2023-10-27 |
 | [No Es Culpa del Frío](https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Es Culpa del Frío](https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b) | 3:45 | 2022-11-11 | 2023-08-17 |
 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2023-10-26 |  |
@@ -561,7 +562,7 @@
 | [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 | 2023-05-26 | 2024-08-23 |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-12 | 2023-03-03 |
-| [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 |  |
+| [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 | 2024-08-30 |
 | [Tiembla](https://open.spotify.com/track/2wNgvrdONvbTYvaC4ve9WT) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/6GQLm3j0mVHmywoGFumXxB) | 3:36 | 2024-01-25 | 2024-04-19 |
 | [Tiempo Compartido](https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Tiempo Compartido](https://open.spotify.com/album/75nbafNyS33ripWC6dOXKz) | 5:43 | 2022-07-15 | 2023-07-01 |
 | [TIEMPO PERFECTO](https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT) | [EN EL CIELO](https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc) | 2:41 | 2022-07-01 | 2024-07-19 |

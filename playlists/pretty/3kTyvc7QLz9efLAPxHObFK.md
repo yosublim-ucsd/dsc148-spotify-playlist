@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,657 songs - 3 day 17 hr 18 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,659 songs - 3 day 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1665,5 +1665,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1655 | [Bass Pump](https://open.spotify.com/track/6aeDVb0vZxBoVh6Fe6EZpK) | [Inpulsa](https://open.spotify.com/artist/3I15MHvYprvenj5oR3WHWM) | [Bass Pump](https://open.spotify.com/album/4eWcogbJRGvMr6zFkb6JpK) | 2:15 |
 | 1656 | [Mind Control](https://open.spotify.com/track/2dQ2AU5neEFf087FkYpytm) | [Inpulsa](https://open.spotify.com/artist/3I15MHvYprvenj5oR3WHWM) | [Mind Control](https://open.spotify.com/album/2EXoDDu3nclWWNUYxDufeJ) | 2:42 |
 | 1657 | [One More Time](https://open.spotify.com/track/3vWV49KwhJOXbGSMIThrdM) | [Broken Element](https://open.spotify.com/artist/6WMONlXvkrTWxC4TcI8qcD) | [One More Time](https://open.spotify.com/album/5HsJocB990PhZm8dBsw7dZ) | 2:38 |
+| 1658 | [Eyes Closed](https://open.spotify.com/track/0rJmohoEvjdcbSRPoyThbP) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G) | [Eyes Closed](https://open.spotify.com/album/1MIOLNy83zZBZGylJvpofm) | 2:18 |
+| 1659 | [Bass Drop](https://open.spotify.com/track/64HXLr9Hs2R9puLICPza5w) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Bass Drop](https://open.spotify.com/album/2Fs1bIKbO91EemirA1y9lk) | 2:48 |
 
-Snapshot ID: `AAAGptnIs9IJxlsmIO2smjAttjlNNKjz`
+Snapshot ID: `AAAGqDkY+TaZEP+PI24bVKrt9fM4HrNN`

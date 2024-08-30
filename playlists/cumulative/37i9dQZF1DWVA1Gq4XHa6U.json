@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 252746,
       "name": "Big Poppa - 2005 Remaster",
       "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 241933,
       "name": "I Love College",
       "url": "https://open.spotify.com/track/1akgiRM3mN2nxu2AX6ACCW"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 302760,
       "name": "Juicy - 2005 Remaster",
       "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 270653,
       "name": "Paris, Tokyo",
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
@@ -6426,6 +6426,28 @@
       "duration_ms": 259306,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+    },
+    {
+      "album": {
+        "name": "Nastradamus",
+        "url": "https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "You Owe Me (feat. Ginuwine)",
+      "url": "https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U"

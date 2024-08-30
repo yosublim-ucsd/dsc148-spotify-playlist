@@ -1,13 +1,29 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Masdddho",
-  "num_followers": 37982,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Putu Maydea",
+  "num_followers": 37984,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr43EgAAAABTAbpY9Y2EzqdiTNfC/m6a",
+  "snapshot_id": "ZtDk7AAAAABbvciYEvx9PNTtdPdDu9AM",
   "tracks": [
+    {
+      "added_at": "2024-08-15 17:12:50",
+      "album": {
+        "name": "Tak Cukup Baik",
+        "url": "https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe"
+      },
+      "artists": [
+        {
+          "name": "Putu Maydea",
+          "url": "https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Tak Cukup Baik",
+      "url": "https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n"
+    },
     {
       "added_at": "2024-08-15 17:12:50",
       "album": {
@@ -315,22 +331,6 @@
       "duration_ms": 242022,
       "name": "Tak Cukup Satu Kata",
       "url": "https://open.spotify.com/track/3PWN56ZibrUfhmnhTUu7yU"
-    },
-    {
-      "added_at": "2024-08-15 17:12:50",
-      "album": {
-        "name": "Tak Cukup Baik",
-        "url": "https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe"
-      },
-      "artists": [
-        {
-          "name": "Putu Maydea",
-          "url": "https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "Tak Cukup Baik",
-      "url": "https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n"
     },
     {
       "added_at": "2024-08-15 17:12:50",

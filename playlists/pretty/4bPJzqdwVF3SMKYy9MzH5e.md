@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,948 songs - 4 day 8 hr 57 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,951 songs - 4 day 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1956,5 +1956,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1946 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 |
 | 1947 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 |
 | 1948 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 |
+| 1949 | [Intoxicated \(Slowed\)](https://open.spotify.com/track/5d2ND4hQ2zyeB3UI6fhn0I) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Intoxicated \(Slowed\)](https://open.spotify.com/album/6A2tENxlWLMOfJHhJ1F149) | 2:14 |
+| 1950 | [POLSKA JUMPSTYLE](https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [POLSKA JUMPSTYLE](https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1) | 2:20 |
+| 1951 | [Paper Planes](https://open.spotify.com/track/64vv8CmBPaxya187jS6KhT) | [Voluptuöus](https://open.spotify.com/artist/0Op5CNaLTuYdXiB3rFesg8) | [Paper Planes](https://open.spotify.com/album/1aIaQoqhZhm7p4CNnPdXCQ) | 2:36 |
 
-Snapshot ID: `AAADQv2Lo8PNH/GNw1OdqO2Z9Mmea6Py`
+Snapshot ID: `AAADRUTxTpcT5Fi18jVWJs3l8hqjTj2g`

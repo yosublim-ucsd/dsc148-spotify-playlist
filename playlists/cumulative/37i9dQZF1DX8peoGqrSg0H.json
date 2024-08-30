@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NuNew",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GEMINI",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -786,6 +786,24 @@
       "duration_ms": 184422,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN"
+    },
+    {
+      "album": {
+        "name": "Expire",
+        "url": "https://open.spotify.com/album/4tzE6Gv1L50X43CJ3PmNY2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Jackrin",
+          "url": "https://open.spotify.com/artist/61wBtGF8ryUlEeb5lq4cnX"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247898,
+      "name": "Expire",
+      "url": "https://open.spotify.com/track/7oliYDhzo6s3QtwYpQMoRH"
     },
     {
       "album": {
@@ -2349,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "TRAP U",
+        "url": "https://open.spotify.com/album/4I17f75qSQFip4K3R8s9dg"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264566,
+      "name": "TRAP U",
+      "url": "https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV"
+    },
+    {
+      "album": {
         "name": "TRY",
         "url": "https://open.spotify.com/album/2bv4P5pVQ83fpcjCcHCvwa"
       },
@@ -3314,7 +3350,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230400,
       "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
@@ -3358,6 +3394,24 @@
       "duration_ms": 203000,
       "name": "\u0e04\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e2b\u0e49\u0e32\u0e21\u0e40\u0e25\u0e34\u0e01 (No Return)",
       "url": "https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
+        "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
+      "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
     },
     {
       "album": {
@@ -5106,7 +5160,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 266470,
       "name": "\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Unnoticed)",
       "url": "https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ"
@@ -6128,7 +6182,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 285584,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
@@ -6442,7 +6496,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 266557,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious]",
       "url": "https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv"
@@ -6778,7 +6832,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 226956,
       "name": "\u0e25\u0e31\u0e07\u0e40\u0e25",
       "url": "https://open.spotify.com/track/592XwpszQAW8olTXXIesls"
@@ -7588,6 +7642,28 @@
       "duration_ms": 182912,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e0a\u0e27\u0e19\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e2a\u0e19\u0e34\u0e17 (PASSERBY)",
       "url": "https://open.spotify.com/track/0Owt9EMT0meybf6Nb5PgLl"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e43\u0e01\u0e25\u0e49\u0e46 - Single",
+        "url": "https://open.spotify.com/album/0nYAogCAbmHB9bI3wEG8WQ"
+      },
+      "artists": [
+        {
+          "name": "KIN",
+          "url": "https://open.spotify.com/artist/1gRcxKiJMYrZX0Zo8s6J2B"
+        },
+        {
+          "name": "TAD ATLAS",
+          "url": "https://open.spotify.com/artist/2vC8accMrT7OyYGa1O35V2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201477,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e43\u0e01\u0e25\u0e49\u0e46",
+      "url": "https://open.spotify.com/track/02mE5JW89debQbxtBSPA9p"
     },
     {
       "album": {
@@ -9968,6 +10044,24 @@
       "duration_ms": 208125,
       "name": "\u0e44\u0e21\u0e48\u0e1e\u0e34\u0e40\u0e28\u0e29",
       "url": "https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e1e\u0e39\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e40\u0e2b\u0e23\u0e2d (Say Something) - Single",
+        "url": "https://open.spotify.com/album/0GDvqgHKL5XZW1FWrkoN7v"
+      },
+      "artists": [
+        {
+          "name": "Peck Palitchoke",
+          "url": "https://open.spotify.com/artist/5rbWOWw5jmpe6zbIHCzMpm"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "\u0e44\u0e21\u0e48\u0e1e\u0e39\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e40\u0e2b\u0e23\u0e2d (Say Something)",
+      "url": "https://open.spotify.com/track/0Xy2kapJcAPzwyRzrtxHi1"
     },
     {
       "album": {

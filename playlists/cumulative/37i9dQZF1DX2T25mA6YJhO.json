@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Karavana.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/4YWhShgiu8jh4aYgBssxTX"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/1QFIGt5aDUuXL5Aqk1dRXO"
+    },
+    {
+      "album": {
         "name": "Cierra la puerta",
         "url": "https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh"
       },
@@ -395,6 +413,24 @@
     },
     {
       "album": {
+        "name": "De aqu\u00ed a un mes",
+        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
+      },
+      "artists": [
+        {
+          "name": "Error 97",
+          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141023,
+      "name": "De aqu\u00ed a un mes",
+      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
+    },
+    {
+      "album": {
         "name": "Decid\u00ed Desaparecer",
         "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
@@ -460,7 +496,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 187656,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8"
@@ -496,7 +532,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 211529,
       "name": "Dos Galaxias",
       "url": "https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt"
@@ -800,7 +836,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 114276,
       "name": "Formigal",
       "url": "https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ"
@@ -966,7 +1002,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204173,
       "name": "La Carretera Nocturna",
       "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
@@ -1020,7 +1056,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 180705,
       "name": "La Excusa Perfecta",
       "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
@@ -1516,7 +1552,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183265,
       "name": "No me devuelvas la palabra",
       "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
@@ -1708,6 +1744,24 @@
       "duration_ms": 228192,
       "name": "Palos y Piedras",
       "url": "https://open.spotify.com/track/49BUQqlGJ42mDQtJWyypxp"
+    },
+    {
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "album": {
@@ -1971,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+      },
+      "artists": [
+        {
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
+    },
+    {
+      "album": {
         "name": "Rosquilla de canela",
         "url": "https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh"
       },
@@ -2022,6 +2094,24 @@
       "duration_ms": 144664,
       "name": "Sangre Azul",
       "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
+    },
+    {
+      "album": {
+        "name": "Santas Pascuas",
+        "url": "https://open.spotify.com/album/1uvsVK56FgVStxDCJGbCfg"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136573,
+      "name": "Santas Pascuas",
+      "url": "https://open.spotify.com/track/2tNFq8fnljBjfpbnF61As4"
     },
     {
       "album": {
@@ -2148,6 +2238,24 @@
       "duration_ms": 242870,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
+    },
+    {
+      "album": {
+        "name": "TDA",
+        "url": "https://open.spotify.com/album/0eBbJ6ZPUz9WcJGhnu4Hpp"
+      },
+      "artists": [
+        {
+          "name": "Los Bengala",
+          "url": "https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144652,
+      "name": "TDA",
+      "url": "https://open.spotify.com/track/2mIpVnpIHhIAOXo9Uzr0Hm"
     },
     {
       "album": {
@@ -2368,7 +2476,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160408,
       "name": "Un Momento De Desconexi\u00f3n",
       "url": "https://open.spotify.com/track/5NQQTHqXEvSB01h7vBYaqs"
@@ -2404,7 +2512,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 211623,
       "name": "Un viento de amnesia",
       "url": "https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd"
@@ -2426,6 +2534,24 @@
       "duration_ms": 224507,
       "name": "Ventajas",
       "url": "https://open.spotify.com/track/5aOZz1pmVGf7l4HoOYk7RS"
+    },
+    {
+      "album": {
+        "name": "Vicente Amor",
+        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112551,
+      "name": "Vicente Amor",
+      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
     },
     {
       "album": {
@@ -2534,6 +2660,24 @@
       "duration_ms": 190894,
       "name": "Ya Sale El Sol",
       "url": "https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms"
+    },
+    {
+      "album": {
+        "name": "Yinkana",
+        "url": "https://open.spotify.com/album/0vz7MwSnHqprH2LBj6e7Jw"
+      },
+      "artists": [
+        {
+          "name": "Sistema Nervioso",
+          "url": "https://open.spotify.com/artist/3NmIbNtA9v3NxFB1Gi7yfG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160925,
+      "name": "Yinkana",
+      "url": "https://open.spotify.com/track/49KGVbbnsPXGo2BwfCohba"
     },
     {
       "album": {

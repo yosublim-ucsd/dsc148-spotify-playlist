@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-583 songs - 1 day 10 hr 59 min
+584 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Love Survive](https://open.spotify.com/track/34nEzGUaDhG63sgBoql2EL) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/4FRWa4MJSeId62zVtrYMQw) | 2:48 | 2021-12-16 | 2022-04-21 |
 | [Love Survive](https://open.spotify.com/track/50Hylr3XgpE10oDIahc6Cm) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Love Survive](https://open.spotify.com/album/2xdoZZGPjIn7atH79XSSvS) | 2:48 | 2022-07-26 | 2024-04-19 |
 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 | 2022-03-30 | 2023-02-14 |
-| [Love You Most](https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh) | [Laura Jean Anderson](https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0) | [Lonesome No More](https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi) | 3:07 | 2024-08-14 |  |
+| [Love You Most](https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh) | [Laura Jean Anderson](https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0) | [Lonesome No More](https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi) | 3:07 | 2024-08-14 | 2024-08-30 |
 | [Love, Love, Love](https://open.spotify.com/track/3Is2HcRNZFrRxTvORBu6bU) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Someday We'll All Be Free](https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS) | 3:22 | 2022-01-07 | 2022-04-20 |
 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 | 2022-07-26 | 2022-10-04 |
 | [Lovin' in My Baby's Eyes](https://open.spotify.com/track/29yCqXXDp6PE6nq59Ke0I8) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 2:39 | 2022-03-30 | 2022-04-21 |
@@ -328,6 +328,7 @@
 | [Midas](https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:38 | 2021-12-16 | 2022-10-04 |
 | [Middle of Love](https://open.spotify.com/track/2dqg6jHb6ubKaXi4GbnYi0) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Soulsville](https://open.spotify.com/album/2FhIa0Dtpy6S5rEklsjuBo) | 4:10 | 2021-12-30 | 2022-04-19 |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2023-06-26 |  |
+| [Moon Eclipsed the Sun](https://open.spotify.com/track/3FAZXqZThvV6u8KpL7QgO2) | [Evolfo](https://open.spotify.com/artist/6oP90f8WzKpCFRcyZRvYPH) | [Last of the Acid Cowboys](https://open.spotify.com/album/12yK0awDW8z3K5l96PmYjm) | 3:49 | 2024-08-14 |  |
 | [More Of This](https://open.spotify.com/track/7IzTg6LQ9Lkm1zpziKifIq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/2wUNVVsJ1rgX6kKL3QP3MN) | 4:00 | 2021-12-30 | 2022-07-29 |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2024-03-21 |  |
 | [Most Times](https://open.spotify.com/track/3ySxFBVXkrrRJ9v1AWR9Yu) | [Shoos Off](https://open.spotify.com/artist/6hS6xIhVWdR6BBTMPYSAvQ) | [Most Times EP](https://open.spotify.com/album/3lEIshh1F5T3XR71jVGdqV) | 5:01 | 2021-12-16 | 2022-07-29 |

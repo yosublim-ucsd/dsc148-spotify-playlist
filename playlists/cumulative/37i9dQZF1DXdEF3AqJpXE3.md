@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Sherman Zhuo
+> The best tracks from the world of music\. Cover: Lady Gaga, Bruno Mars
 
 241 songs - 12 hr 57 min
 

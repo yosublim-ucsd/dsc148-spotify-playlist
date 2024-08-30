@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Charley Crockett",
-  "num_followers": 64063,
+  "num_followers": 64065,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Passage Du Desir",
-        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
+        "name": "Lavender Days",
+        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
       },
       "artists": [
         {
-          "name": "Johnny Blue Skies",
-          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
-        },
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Mint Tea",
-      "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
+      "duration_ms": 178080,
+      "name": "The Otter",
+      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lavender Days",
-        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
+        "name": "Passage Du Desir",
+        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 178080,
-      "name": "The Otter",
-      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
+      "duration_ms": 217093,
+      "name": "Mint Tea",
+      "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Abraham",
-        "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Abraham",
-      "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Hey Moon (A Campfire Song)",
         "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 290733,
       "name": "Hey Moon (A Campfire Song)",
       "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Abraham",
+        "url": "https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 250257,
+      "name": "Abraham",
+      "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
     },
     {
       "added_at": "2024-08-23 04:00:00",

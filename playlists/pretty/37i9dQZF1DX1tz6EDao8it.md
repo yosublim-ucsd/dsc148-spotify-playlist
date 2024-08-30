@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,028 likes - 127 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,297 likes - 127 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 22 | [The Fabelmans](https://open.spotify.com/track/5T7vBdg23LE9Nzn1YRVBEO) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Simone Pedroni](https://open.spotify.com/artist/0ikPH8Vl2teD0cHKXdCif3) | [The Fabelmans](https://open.spotify.com/album/739mvLsQoXlNtAr3RnV5mB) | 2:28 |
 | 23 | [Chevaliers De Sangreal \- From The Da Vinci Code Original Motion Picture Soundtrack](https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Richard Harvey](https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje) | [The Da Vinci Code](https://open.spotify.com/album/4GuLx38y1727p45spIvslr) | 4:07 |
 | 24 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 |
-| 25 | [Test Drive \- From How To Train Your Dragon Music From The Motion Picture](https://open.spotify.com/track/2QTDuJIGKUjR7E2Q6KupIh) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [How To Train Your Dragon \(Music From The Motion Picture\)](https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU) | 2:36 |
+| 25 | [Test Drive \- From How To Train Your Dragon Music From The Motion Picture](https://open.spotify.com/track/2QTDuJIGKUjR7E2Q6KupIh) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [How To Train Your Dragon \- Music From The Motion Picture](https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU) | 2:36 |
 | 26 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \- Original Motion Picture Soundtrack](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 27 | [Earth](https://open.spotify.com/track/6b4aMRJyI1vqwvrNZkDU4e) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/22UOVuCSJnESOxHBL7UJQN) | 3:01 |
 | 28 | [House of Woodcock](https://open.spotify.com/track/6FZDedaCzYhO4sdG3VYcHZ) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [Phantom Thread \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WyVg6gJ9kCPkZs4zhIrDz) | 3:53 |

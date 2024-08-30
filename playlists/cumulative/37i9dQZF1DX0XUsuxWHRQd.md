@@ -4,7 +4,7 @@
 
 > New music from Central Cee, Gucci Mane and more.
 
-2,126 songs - 4 day 14 hr 17 min
+2,127 songs - 4 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,6 +498,7 @@
 | [Drop A Location](https://open.spotify.com/track/4UBicDBC9UqwGau3sWIw86) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Kommunity Service](https://open.spotify.com/album/79kXQIGEmAb2QlundO0hRi) | 2:14 | 2021-05-22 | 2021-05-29 |
 | [Drop A Tear \(feat\. Lil Baby\)](https://open.spotify.com/track/1b5bD9RZ2KFv34O9Dn5NNr) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pain is Temporary](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5) | 3:02 | 2020-06-29 | 2020-07-03 |
 | [Drop Shit](https://open.spotify.com/track/416XBAqBQECEjtMS8dlPQM) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Drop Shit](https://open.spotify.com/album/56WJxTl9A4F6Sr5ibUsW0g) | 3:19 | 2021-12-17 | 2022-01-08 |
+| [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 | 2024-08-29 |  |
 | [Drums](https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Red Eye](https://open.spotify.com/album/2rGZ4DEQqxseAXO9hVqNDo) | 3:01 | 2023-06-09 | 2023-06-17 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 | 2022-08-06 |
 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 | 2021-10-30 | 2021-11-06 |
@@ -630,7 +631,7 @@
 | [Free Youngboy](https://open.spotify.com/track/3cuykPS9TJOWufYPvTUOTN) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Free Youngboy](https://open.spotify.com/album/0PxR6TfDziT6v7bU4xOnFA) | 2:44 | 2019-07-06 | 2019-08-13 |
 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 | 2022-10-07 | 2023-04-09 |
 | [Freshman 10 \(Freestyle\) \[10th Anniversary\]](https://open.spotify.com/track/77pgq3c52F4jMTKYTjw4Mp) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)](https://open.spotify.com/album/2wsEKWXcUpVNR2AKprorV3) | 3:52 | 2021-06-26 | 2021-07-04 |
-| [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:33 | 2024-08-03 |  |
+| [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:33 | 2024-08-03 | 2024-08-30 |
 | [From A Man](https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [From A Man](https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP) | 3:27 | 2023-10-13 | 2023-11-11 |
 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 | 2022-08-19 | 2022-10-29 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-24 | 2022-07-16 |

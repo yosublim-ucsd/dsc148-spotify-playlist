@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Yoss Bones en portada. ",
-  "num_followers": 14733,
+  "num_followers": 14735,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
       },
       "artists": [
         {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
       },
       "artists": [
         {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
         }
       ],
-      "duration_ms": 224521,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "La Laif",
-        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 227571,
-      "name": "La Laif",
-      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 140000,
       "name": "Constante",
       "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "La Laif",
+        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 227571,
+      "name": "La Laif",
+      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 232320,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "KEEP IT STUPID",
-        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 147158,
-      "name": "KEEP IT STUPID",
-      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Disparo",
         "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 222053,
       "name": "Disparo",
       "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "KEEP IT STUPID",
+        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 147158,
+      "name": "KEEP IT STUPID",
+      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "NEZA",
-        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "NEZA",
-      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "ICONIC PERRA",
         "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 124705,
       "name": "ICONIC PERRA",
       "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "NEZA",
+        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "NEZA",
+      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Niko RST",
-          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "\"El Camino\" Session 8",
         "url": "https://open.spotify.com/album/5PHkNDkaWVF7naFQayISSP"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 165176,
       "name": "\"El Camino\" Session 8",
       "url": "https://open.spotify.com/track/2MtssIysbW81WBAhOMTBmI"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Niko RST",
+          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1403,6 +1403,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "UFC",
+        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "Limbo Lowfi",
+          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
+        },
+        {
+          "name": "Renzo de Santis",
+          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "UFC",
+      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Mientras Dorm\u00edas",
         "url": "https://open.spotify.com/album/42sYXoqlNujD5ohc53zBbw"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 227200,
       "name": "SORRY (REMIX)",
       "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "UFC",
-        "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "Limbo Lowfi",
-          "url": "https://open.spotify.com/artist/4EQWL5UyTdKnVQeIERcnpr"
-        },
-        {
-          "name": "Renzo de Santis",
-          "url": "https://open.spotify.com/artist/5CotXfds0lXkxKAXsO0dhr"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "UFC",
-      "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Droga",
         "url": "https://open.spotify.com/album/6fyTpFJ692gCsBXpngo3a7"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 147594,
       "name": "Droga",
       "url": "https://open.spotify.com/track/37QFvs4p1XY1ObRyXZGHqj"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "No Lo Sab\u00eda",
+        "url": "https://open.spotify.com/album/19m2uImtcXFG4l8C7apxDp"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "Allen Spyda",
+          "url": "https://open.spotify.com/artist/0bvDY9wa7cOPOpOXZhXSbI"
+        }
+      ],
+      "duration_ms": 181317,
+      "name": "No Lo Sab\u00eda",
+      "url": "https://open.spotify.com/track/53ElsLZ9pgLzvEv1nkeNii"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Caribe",
         "url": "https://open.spotify.com/album/79mAXDMjYWMG4KlZuhGpnF"
       },
@@ -1875,26 +1895,6 @@
       "duration_ms": 148636,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "No Lo Sab\u00eda",
-        "url": "https://open.spotify.com/album/19m2uImtcXFG4l8C7apxDp"
-      },
-      "artists": [
-        {
-          "name": "Mc Kno",
-          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
-        },
-        {
-          "name": "Allen Spyda",
-          "url": "https://open.spotify.com/artist/0bvDY9wa7cOPOpOXZhXSbI"
-        }
-      ],
-      "duration_ms": 181317,
-      "name": "No Lo Sab\u00eda",
-      "url": "https://open.spotify.com/track/53ElsLZ9pgLzvEv1nkeNii"
     },
     {
       "added_at": "2024-08-02 06:00:00",

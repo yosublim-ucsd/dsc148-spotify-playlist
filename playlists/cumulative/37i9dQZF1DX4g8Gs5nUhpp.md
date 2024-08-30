@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Rhymastic
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: MONO
 
-289 songs - 18 hr 27 min
+290 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Đa Đoan](https://open.spotify.com/track/3Q5QdILpa7GDF4MvmsU8ZH) | [Phan Mạnh Quỳnh](https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa) | [Đa Đoan](https://open.spotify.com/album/1E5PmFaH9g95gPQ5VhUyQ6) | 3:20 | 2022-09-29 | 2022-10-06 |
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-05-27 | 2022-06-04 |
 | [Đi Chùa Cầu Duyên](https://open.spotify.com/track/3Nck7QyAElRokhrXRGuEF1) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Đi Chùa Cầu Duyên](https://open.spotify.com/album/7D7ZjTO0CTsYcXtEfHGH3i) | 3:11 | 2024-05-26 | 2024-06-17 |
+| [Đi Tìm Tình Yêu](https://open.spotify.com/track/4cdlZnUEuT8EYisPQkf01g) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Đi Tìm Tình Yêu](https://open.spotify.com/album/2bFVJWOCPsgeAWCf55diYO) | 3:23 | 2024-08-29 |  |
 | [điều vô tri nhất](https://open.spotify.com/track/3NvH1v6NOxlawEoCXjg9sK) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [điều vô tri nhất](https://open.spotify.com/album/4UeDLto76i9a2G5ouBbMWs) | 3:49 | 2024-06-27 |  |
 | [Đoạn Kết Mới](https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Đoạn Kết Mới](https://open.spotify.com/album/7w0mZIHzcZYyN60yMdMjYw) | 4:54 | 2022-07-31 | 2022-09-07 |
 | [Đá tan](https://open.spotify.com/track/6Wi18yv3aoO0ZF4uulguof) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Mạc Mai Sương](https://open.spotify.com/artist/7fMznGrNJs6H2kZbiqDPgE) | [Gieo](https://open.spotify.com/album/1ZnJrvDY8ih3ppPWR2Tc2a) | 3:22 | 2022-12-14 | 2023-01-12 |

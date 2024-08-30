@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-354 songs - 17 hr 56 min
+355 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Don't You Worry Child](https://open.spotify.com/track/043bfUkTydw0xJ5JjOT91w) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:43 | 2022-07-29 | 2023-08-11 |
 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 | 2023-07-28 |  |
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-05-09 | 2023-10-07 |
+| [Dreamer \(Just Like You\)](https://open.spotify.com/track/4m9JS7f3BFRRrDm1z46OeV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Dreamer \(Just Like You\)](https://open.spotify.com/album/3iNrMPpEExas9tmsNwahEE) | 3:56 | 2024-08-29 |  |
 | [Dreaming](https://open.spotify.com/track/1wyfWtYm1ObQLQ50tm5O9O) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [Dreaming](https://open.spotify.com/album/0fXksf7oidpAA6o6evLU0f) | 3:13 | 2022-10-14 | 2023-08-12 |
 | [Drop That Low \(When I Dip\)](https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Drop That Low \(When I Dip\)](https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR) | 2:39 | 2024-08-16 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-06-02 |  |

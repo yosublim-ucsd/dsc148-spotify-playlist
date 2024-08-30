@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is The Three Degrees. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
   "name": "This Is The Three Degrees",
   "tracks": [
     {
@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 196106,
       "name": "I Turn to You - Mono Version",
       "url": "https://open.spotify.com/track/4WNofpNcxMXpnAPzu5c6Fz"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 159626,
       "name": "There's So Much Love All Around Me",
       "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
@@ -1932,10 +1932,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169640,
       "name": "You're the Fool",
       "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/6YwsckRn4UW2FF6bzS5X1C"
     },
     {
       "album": {

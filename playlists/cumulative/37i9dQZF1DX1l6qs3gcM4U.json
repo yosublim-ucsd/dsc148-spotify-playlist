@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deedz B",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nsoki & Nelson Freitas",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -2264,6 +2264,32 @@
       "duration_ms": 246179,
       "name": "Esquece o Mundo",
       "url": "https://open.spotify.com/track/32QMS3ZbvlDhC9pFRMEytM"
+    },
+    {
+      "album": {
+        "name": "Essa Dan\u00e7a",
+        "url": "https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW"
+      },
+      "artists": [
+        {
+          "name": "Nsoki",
+          "url": "https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH"
+        },
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Essa Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq"
     },
     {
       "album": {
@@ -5354,7 +5380,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
@@ -5376,7 +5402,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
@@ -6612,7 +6638,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 256979,
       "name": "Sincera",
       "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4LUOGNccPSilRIm4Jcflg2">Shaznay Lewis</a> and co\-writer <a href="spotify:playlist:37i9dQZF1EFzIGUqdLpX4q">Fred Ball</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,525 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,544 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 30 | [Lily](https://open.spotify.com/track/7894UNTQvHJsm9n0ZH8UFI) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Lily](https://open.spotify.com/album/0KTmY2kLJHrjg6xID8p6mG) | 3:21 |
 | 31 | [One More Chance](https://open.spotify.com/track/7tlu6XbVvRpm6S49fevTuU) | [Lance Roark](https://open.spotify.com/artist/6i0HzrUPAeWOfZiXxOU903) | [Tenkiller](https://open.spotify.com/album/1XVoJ98MjMuJyIzoJmU7Wp) | 3:55 |
 | 32 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 |
-| 33 | [Rose du ciel \(feat\. Anson Jones and Mads Jensen\)](https://open.spotify.com/track/5Fu2e0wP2Uh9qEJHTPkPuh) | [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [Anson Jones](https://open.spotify.com/artist/3xT97ey0BVfOXbVwm17s0s), [Mads Jensen](https://open.spotify.com/artist/1mda7ug3kKOrooSI5RyeBx) | [Rose du Ciel](https://open.spotify.com/album/3gB7wh7AKeWLDdH9TwWlHW) | 3:40 |
+| 33 | [Rose du ciel \(feat\. Anson Jones\)](https://open.spotify.com/track/5Fu2e0wP2Uh9qEJHTPkPuh) | [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [Anson Jones](https://open.spotify.com/artist/3xT97ey0BVfOXbVwm17s0s) | [Rose du ciel \(feat\. Anson Jones\)](https://open.spotify.com/album/3gB7wh7AKeWLDdH9TwWlHW) | 3:40 |
 | 34 | [Wishes](https://open.spotify.com/track/14sIaxlKp5Cc6Il2JqhqbJ) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Wishes](https://open.spotify.com/album/2BHWtA0G23y3NmCtO2bQCd) | 3:52 |
 | 35 | [About You](https://open.spotify.com/track/2cSRV9TqkAlA5Gi6LpD0v0) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [About You](https://open.spotify.com/album/3Obo1DHp1WZf90lJb5P2OJ) | 3:39 |
 | 36 | [Bad at Beautiful](https://open.spotify.com/track/1j8OQi87XUFhzguNJWnrBo) | [The Damnwells](https://open.spotify.com/artist/3EGW3674nDZhddywIAAd1g), [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Bad at Beautiful](https://open.spotify.com/album/6KuPdDoFoP6iMyfXfWLa7n) | 2:55 |

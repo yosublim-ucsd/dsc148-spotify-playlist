@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Cover: JVLI, Emma, Olly
+> I brani italiani che abbiamo on repeat! 🔁 Cover: Fasma
 
-69 songs - 3 hr 26 min
+70 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,13 +60,14 @@
 | [PASSIONE](https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [PASSIONE](https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K) | 2:43 | 2024-07-18 |  |
 | [PEYOTE \(feat\. Fabri Fibra & Rocco Hunt\)](https://open.spotify.com/track/2Zx64xP39WnpMlYgQa0ESv) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:58 | 2024-07-01 |  |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
+| [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 | 2024-08-29 |  |
 | [QUE PASA](https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [QUE PASA](https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio) | 2:44 | 2024-07-01 | 2024-08-16 |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-07-01 |  |
 | [RANDAGI](https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/4WmwbD0f9GLDMU55MFWeo3) | 3:17 | 2024-07-01 | 2024-08-20 |
 | [REQUIEM](https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [REQUIEM](https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu) | 2:31 | 2024-07-01 |  |
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-07-25 |  |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [ICON](https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ) | 2:47 | 2024-07-01 |  |
-| [SEXY MAGICA](https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [SEXY MAGICA](https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM) | 2:39 | 2024-07-01 |  |
+| [SEXY MAGICA](https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [SEXY MAGICA](https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM) | 2:39 | 2024-07-01 | 2024-08-30 |
 | [SEXY SHOP](https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [SEXY SHOP](https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y) | 3:08 | 2024-07-01 |  |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-07-01 |  |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-07-01 |  |

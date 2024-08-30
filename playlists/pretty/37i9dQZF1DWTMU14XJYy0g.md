@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Cielo Razzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,360 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,408 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 12 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 |
 | 13 | [Nada Nadie](https://open.spotify.com/track/78AuCuvElLoLxrnicGfIjT) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Nada Nadie](https://open.spotify.com/album/44V18A3Ky6hGENZIPy7j08) | 4:26 |
 | 14 | [DAME MENOS](https://open.spotify.com/track/5kjeSPCqW7SqvT9bCJV1HN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 1:43 |
-| 15 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 |
+| 15 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 |
 | 16 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 |
 | 17 | [La Noche Sin Tí](https://open.spotify.com/track/0mdnJMB8I5rioFrxazCgJj) | [Bulldog](https://open.spotify.com/artist/0bI566gNqVLuVAra7TXQp9) | [La Noche Sin Tí](https://open.spotify.com/album/02A4nDVsZBgNFVnt65Xgay) | 5:46 |
 | 18 | [Juntos a la par](https://open.spotify.com/track/017IdqJWLWEODrrTRY8NEc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Versión Cobra Vol\. 1](https://open.spotify.com/album/2t56Hj24344JRswEoXkKRZ) | 3:14 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 40 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 |
 | 41 | [Sos la muerte del Rock](https://open.spotify.com/track/1cj6Y3dcGZ3nkOLeq48KwK) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n), [Lonnie Hillyer](https://open.spotify.com/artist/4I5JOqmSw3rmws7FxLPP6P), [Tomás Brugués](https://open.spotify.com/artist/1vh2HYwdjMQa0dcTNP3MjO) | [Sos la muerte del Rock](https://open.spotify.com/album/6dj7RmhfseRbViFt3mPivV) | 3:19 |
 | 42 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 |
-| 43 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 |
+| 43 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 |
 | 44 | [JAZMINES](https://open.spotify.com/track/5stOSNyy1mDr9VKGM3Nsds) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [JAZMINES](https://open.spotify.com/album/5AaX07apcNQnIlouDBRJmK) | 4:21 |
 | 45 | [Sola en los Bares](https://open.spotify.com/track/0xajGYgwjkBTz2rFAQlFkN) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Sola en los Bares](https://open.spotify.com/album/4EYbcIicrpX0tsqUtGGDO9) | 3:26 |
-| 46 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
+| 46 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
 | 47 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
 | 48 | [Corazón](https://open.spotify.com/track/0fykSvqczR1CXD6PWnusOW) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Corazón](https://open.spotify.com/album/4bdbHQc0l5NHBH4Mjh4TRU) | 3:27 |
 | 49 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 |

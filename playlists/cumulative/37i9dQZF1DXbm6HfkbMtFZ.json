@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 187542,
       "name": "Love You Most",
       "url": "https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh"
@@ -5998,6 +5998,24 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "album": {
+        "name": "Last of the Acid Cowboys",
+        "url": "https://open.spotify.com/album/12yK0awDW8z3K5l96PmYjm"
+      },
+      "artists": [
+        {
+          "name": "Evolfo",
+          "url": "https://open.spotify.com/artist/6oP90f8WzKpCFRcyZRvYPH"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "Moon Eclipsed the Sun",
+      "url": "https://open.spotify.com/track/3FAZXqZThvV6u8KpL7QgO2"
     },
     {
       "album": {

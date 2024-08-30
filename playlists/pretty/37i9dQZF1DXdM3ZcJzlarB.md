@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: motty & S3BZS
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,948 likes - 99 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,951 likes - 99 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 40 | [Faith](https://open.spotify.com/track/0l3VNxrPLf39D79rDcixoE) | [Desiree Nemcik](https://open.spotify.com/artist/79Cu3VGzeRFFNenY4K9y9w) | [Become](https://open.spotify.com/album/2AQ3hK0W5Jf2E6JExIh6MM) | 6:17 |
 | 41 | [Cerca](https://open.spotify.com/track/1hbK6LHdQBxgtVJIOLnbVl) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Marco Viera](https://open.spotify.com/artist/348ec6yd9QpDujVnSPoe2P) | [Cerca EP](https://open.spotify.com/album/68Zl4ptqDpo84aNs9TDTau) | 6:20 |
 | 42 | [Welcome To My Garden](https://open.spotify.com/track/52NpNpegyHrbnPkJRLtB7k) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Transcendental Shifts](https://open.spotify.com/album/5z3ghHDoycJIpSD3meyPj7) | 4:36 |
-| 43 | [Bye Bye \- Juan Hansen Remix](https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Bye Bye \(Juan Hansen Remix\)](https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98) | 6:07 |
+| 43 | [Bye Bye \- Juan Hansen Remix](https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Bye Bye \(Juan Hansen Remix\)](https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98) | 6:07 |
 | 44 | [Tetam Gramma](https://open.spotify.com/track/2Gao1954kvVrhiqt9o6rNM) | [Bilevicius](https://open.spotify.com/artist/2jRawRVCDSBZyJ24oL6fiX) | [Tetam Gramma](https://open.spotify.com/album/10OdqB89fb2yeaIUk430ko) | 4:47 |
 | 45 | [Misceláneas](https://open.spotify.com/track/3TCaJYtAbsEXdDJ68UUVIM) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Dogma](https://open.spotify.com/album/20r4ZJsIcT2WDaV0o9jaZa) | 3:57 |
 | 46 | [Southern Sun \- Anunnakis Remix](https://open.spotify.com/track/3tRyvyNRKsj5GVp6HzZ4Ln) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun \(Anunnakis Remix\)](https://open.spotify.com/album/4o93VExtyaKljkFk3mxJez) | 4:19 |

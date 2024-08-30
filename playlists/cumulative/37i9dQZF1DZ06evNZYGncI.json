@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Slipknot. Los temas esenciales, todos en una lista.",
+  "description": "This is Slipknot. The essential tracks, all in one playlist.",
   "name": "This Is Slipknot",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159426,
       "name": "Me Inside",
       "url": "https://open.spotify.com/track/5gs3OJVv8wly05nf44iHiZ"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 144506,
       "name": "Only One",
       "url": "https://open.spotify.com/track/59B7t5o9hGiojwPXalQSuk"

@@ -1933,6 +1933,44 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\" - Live Stage 4",
+        "url": "https://open.spotify.com/album/12QFrU7SbQXV60gqjevhKw"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "D\u01b0\u01a1ng Domic",
+          "url": "https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE"
+        },
+        {
+          "name": "Anh T\u00fa Atus",
+          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
+        },
+        {
+          "name": "Song Lu\u00e2n",
+          "url": "https://open.spotify.com/artist/0iqum9KAHh3LkgDhuqvTxM"
+        },
+        {
+          "name": "Quang Trung",
+          "url": "https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph"
+        },
+        {
+          "name": "Anh T\u00fa",
+          "url": "https://open.spotify.com/artist/7LLfmKhGZI11XO0dO4xDI7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "BAO L\u1edcI CON CH\u01afA N\u00d3I (feat. D\u01b0\u01a1ng Domic, Anh T\u00fa Atus, Song Lu\u00e2n, Quang Trung & Anh T\u00fa)",
+      "url": "https://open.spotify.com/track/52cD79EubHFgrw4lW0AnGB"
+    },
+    {
+      "album": {
         "name": "Qua Khung C\u1eeda S\u1ed5",
         "url": "https://open.spotify.com/album/7FbJRg2IYkVJioqMayEukG"
       },
@@ -3858,7 +3896,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -7048,7 +7086,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -16020,7 +16058,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -19354,7 +19392,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -20202,7 +20240,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"

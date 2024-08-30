@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 70781,
+  "num_followers": 70890,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -1043,46 +1043,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "uThando",
-        "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
-      },
-      "artists": [
-        {
-          "name": "Soa Mattrix",
-          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
-        },
-        {
-          "name": "Soulful G",
-          "url": "https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz"
-        },
-        {
-          "name": "Shaun 101",
-          "url": "https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "uThando",
-      "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
       },
@@ -1123,6 +1083,30 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "uThando",
+        "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
+      },
+      "artists": [
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        },
+        {
+          "name": "Soulful G",
+          "url": "https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz"
+        },
+        {
+          "name": "Shaun 101",
+          "url": "https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "uThando",
+      "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Sweet Sensation",
         "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ntumba",
         "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",

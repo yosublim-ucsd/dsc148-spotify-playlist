@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 9152,
+  "num_followers": 9155,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAAADBc9IUEuDFJKOSs67tjj+",
+  "snapshot_id": "Zs5ogAAAAADGvDA/Tw1NDGRIfwfH/ajH",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weight of the World",
+        "url": "https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr"
+      },
+      "artists": [
+        {
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+        },
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 192422,
+      "name": "Weight of the World",
+      "url": "https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WASTED",
         "url": "https://open.spotify.com/album/56ZGWOdDU4kFTvSPXINDOO"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 145454,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/6SMIjm419Gr0iWKxBCb8U8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weight of the World",
-        "url": "https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        },
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 192422,
-      "name": "Weight of the World",
-      "url": "https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Free Fall Without A Parachute",
-      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
+      "duration_ms": 141200,
+      "name": "Handguns and Second Chances",
+      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Handguns and Second Chances",
-      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
+      "duration_ms": 252800,
+      "name": "Free Fall Without A Parachute",
+      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Your Bliss: The Best of Senses Fail",
-        "url": "https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "War Paint",
-      "url": "https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+        "name": "Follow Your Bliss: The Best of Senses Fail",
+        "url": "https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz"
       },
       "artists": [
         {
@@ -672,73 +656,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 224133,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Elevator to the Gallows",
-      "url": "https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Steven",
-      "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "New Year's Eve",
-      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
+      "duration_ms": 219826,
+      "name": "War Paint",
+      "url": "https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8"
     },
     {
       "added_at": null,
@@ -759,6 +679,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Steven",
+      "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Elevator to the Gallows",
+      "url": "https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
       },
@@ -771,6 +771,30 @@
       "duration_ms": 183400,
       "name": "Hell is in Your Head",
       "url": "https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death by Water",
+        "url": "https://open.spotify.com/album/7hvyh7h4NDI3x3ag5ZoU3a"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Spencer Charnas",
+          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Death by Water",
+      "url": "https://open.spotify.com/track/0byxl96h2bWbBRNjyPgWSR"
     },
     {
       "added_at": null,
@@ -800,33 +824,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death by Water",
-        "url": "https://open.spotify.com/album/7hvyh7h4NDI3x3ag5ZoU3a"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Spencer Charnas",
-          "url": "https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Death by Water",
-      "url": "https://open.spotify.com/track/0byxl96h2bWbBRNjyPgWSR"
+      "duration_ms": 194466,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
     },
     {
       "added_at": null,

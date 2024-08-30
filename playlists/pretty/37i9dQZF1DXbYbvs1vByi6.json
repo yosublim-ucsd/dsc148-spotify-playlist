@@ -1,12 +1,12 @@
 {
-  "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 89496,
+  "description": "Non-stop energy, riffs and belters.. for all you rock'n'roll stars.",
+  "num_followers": 89521,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo3JYwAAAACYWUpu6kF0nNvZNeo3IiYI",
+  "snapshot_id": "ZtD+TwAAAABKBHk8xnXcC/SLlV5G82FI",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 194573,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 322946,
+      "name": "Rock 'n' Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
+      "added_at": "2024-08-29 23:03:43",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Roll With It - Remastered",
+      "url": "https://open.spotify.com/track/3czgcbI4YZ4Gg29DOYFAnd"
+    },
+    {
       "added_at": "2023-05-25 23:00:00",
       "album": {
         "name": "Sam's Town",
@@ -215,22 +247,6 @@
       "duration_ms": 251293,
       "name": "Obstacle 1",
       "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 322946,
-      "name": "Rock 'n' Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -507,6 +523,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 151822,
+      "name": "Sha Sha Sha",
+      "url": "https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -551,22 +583,6 @@
       "duration_ms": 141008,
       "name": "Cave Song",
       "url": "https://open.spotify.com/track/2lxqOVJzuS0s1SgulAvkav"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 151822,
-      "name": "Sha Sha Sha",
-      "url": "https://open.spotify.com/track/7BFwBubozsalZrZKGUAYJq"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -619,6 +635,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "Headshrinker - Remastered",
+      "url": "https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Amyl and The Sniffers",
         "url": "https://open.spotify.com/album/78lob7vtivvo4vm41e362A"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 265786,
       "name": "Zero",
       "url": "https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 281840,
-      "name": "Headshrinker - Remastered",
-      "url": "https://open.spotify.com/track/32drzZQvRLJ5oEVYQgIfJC"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Amyl and The Sniffers",
-        "url": "https://open.spotify.com/album/78lob7vtivvo4vm41e362A"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 109280,
-      "name": "Gacked on Anger",
-      "url": "https://open.spotify.com/track/2u5JordgUNEliQRWGkAiHP"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Antidotes",
-        "url": "https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM"
+        "name": "Amyl and The Sniffers",
+        "url": "https://open.spotify.com/album/78lob7vtivvo4vm41e362A"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 315253,
-      "name": "Red Socks Pugie",
-      "url": "https://open.spotify.com/track/3ilYdRwg3iu6EXRaC7QMLB"
+      "duration_ms": 109280,
+      "name": "Gacked on Anger",
+      "url": "https://open.spotify.com/track/2u5JordgUNEliQRWGkAiHP"
     }
   ],
   "unique_name": "Sticky Floors",

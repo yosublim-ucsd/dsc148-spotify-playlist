@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Lady Gaga & Bruno Mars
+> The UK's biggest playlist\. Cover: Sabrina Carpenter
 
 210 songs - 10 hr 56 min
 

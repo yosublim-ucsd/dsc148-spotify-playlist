@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Deedz B
+> Fall in love with the sensual sounds of Kizomba! Cover: Nsoki & Nelson Freitas
 
-410 songs - 1 day 0 hr 14 min
+411 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-02-23 | 2024-03-15 |
 | [Esperei por Ti](https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Kiari Flores](https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06) | [Esperei por Ti](https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn) | 3:19 | 2023-04-06 | 2023-04-28 |
 | [Esquece o Mundo](https://open.spotify.com/track/32QMS3ZbvlDhC9pFRMEytM) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Esquece o Mundo](https://open.spotify.com/album/3LXZA1WxdjcsjOffOWhLQM) | 4:06 | 2021-12-10 | 2022-09-30 |
+| [Essa Dança](https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq) | [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i) | [Essa Dança](https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW) | 3:36 | 2024-08-29 |  |
 | [Essa Mboa](https://open.spotify.com/track/30GRqeKxTuZQ1JEeCvHJKY) | [Adi Cudz](https://open.spotify.com/artist/1BdYccRPWnSKT7Hk8cZP3d), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Essa Mboa](https://open.spotify.com/album/2GFBG8FcKn02CztbiQJk8P) | 3:59 | 2021-12-10 | 2022-07-21 |
 | [Estou a Ficar Maluco](https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Estou a Ficar Maluco](https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio) | 2:53 | 2024-05-10 |  |
 | [Estragar o que Está Bom](https://open.spotify.com/track/0TeztqSxQL0OdnYR3XQV1R) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Estragar o que Está Bom](https://open.spotify.com/album/0pbURzL14oQNK9djUqAciy) | 3:00 | 2021-12-10 | 2022-04-07 |
@@ -273,8 +274,8 @@
 | [Over Again](https://open.spotify.com/track/4nqJ8iwqwbvvuVWuas7lXQ) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Over Again](https://open.spotify.com/album/0Wu7EvHRSspzoQlD5d0RIS) | 3:27 | 2024-02-09 | 2024-03-08 |
 | [Pa Bo](https://open.spotify.com/track/4kG9TzsANyoGlBBBZOF3ly) | [Dji Matias](https://open.spotify.com/artist/5mOlzlTezQGdusDUogjXnP), [Friderika](https://open.spotify.com/artist/4cSSXhYXK7J0VaLgEp08SS) | [Pa Bo](https://open.spotify.com/album/4QymS0mQNSsiVyV9Ntyw3F) | 3:17 | 2022-07-22 | 2022-07-28 |
 | [Padrinho](https://open.spotify.com/track/0lbLACKqa1sg7RitjHpVxC) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Puto Portugues](https://open.spotify.com/artist/2cSucEp5rNKjsY6B18Hzpt) | [Padrinho](https://open.spotify.com/album/0JDH6EcD4OWOewBkVG0UOW) | 3:39 | 2022-04-22 | 2022-06-07 |
-| [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 | 2022-08-04 |  |
-| [PAPI](https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [PAPI](https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD) | 3:37 | 2022-03-25 |  |
+| [Paké](https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Paké](https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA) | 3:40 | 2022-08-04 | 2024-08-30 |
+| [PAPI](https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [PAPI](https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD) | 3:37 | 2022-03-25 | 2024-08-30 |
 | [Para Para](https://open.spotify.com/track/5t9faEYkqP9aNAh70RXRor) | [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Kenny André](https://open.spotify.com/artist/5cYWf1PB3aglJRprDIcTWP) | [Para Para](https://open.spotify.com/album/7D8H34Hsa20isTrlVPnkXT) | 2:47 | 2022-02-11 | 2022-03-06 |
 | [Paradise](https://open.spotify.com/track/4mLhhkXotGXUrHZyNVQ4of) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Paradise](https://open.spotify.com/album/1zcy0WbVAHrs5AacOEvXa8) | 4:08 | 2021-12-10 | 2022-07-13 |
 | [Parar O Tempo \(feat\. Mika Mendes\)](https://open.spotify.com/track/79gXTEpKycijVMspDoi3xG) | [Ravidson](https://open.spotify.com/artist/1vvyxjq4RKNF1AzsdnR5Sk), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Rising](https://open.spotify.com/album/7gS0bFas0II42WXoKoQTMC) | 4:17 | 2022-02-18 | 2022-05-23 |
@@ -334,7 +335,7 @@
 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 | 2022-02-18 |  |
 | [Sigilo](https://open.spotify.com/track/5bYxJiNVoxRIsY1pHm0jyi) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Sigilo](https://open.spotify.com/album/32AVLMjOgtTfybsvEYErKb) | 3:39 | 2024-06-27 |  |
 | [Siguim](https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Siguim](https://open.spotify.com/album/1b5znILgCUFYB4xxJWRKTZ) | 3:04 | 2021-12-10 | 2023-03-29 |
-| [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 | 2022-04-07 | 2024-08-26 |
+| [Sincera](https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Sincera](https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh) | 4:16 | 2022-04-07 |  |
 | [Sinto Falta](https://open.spotify.com/track/6SiSYZkjnIj2RWSG2iCTb8) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/7kX74esVRq5dRZn8gu6tCb) | 3:21 | 2024-04-11 | 2024-04-19 |
 | [Sinto Falta](https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sinto Falta](https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq) | 3:22 | 2021-12-10 | 2024-03-22 |
 | [So Nos](https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC) | [Maggio](https://open.spotify.com/artist/2qTmQdww3CmENx1BXgzJq3) | [So Nos](https://open.spotify.com/album/79gYsZpsUqalrUuRL633ck) | 3:21 | 2021-12-10 | 2022-07-29 |

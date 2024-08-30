@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Los Dos Carnales. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
   "name": "This Is Los Dos Carnales",
   "tracks": [
     {
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 163705,
       "name": "Mi Profesi\u00f3n",
       "url": "https://open.spotify.com/track/6vZnpaBquxZQzTZqJrap1B"
@@ -1674,6 +1674,24 @@
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
+      "album": {
+        "name": "Un Paro de Compas",
+        "url": "https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221881,
+      "name": "Un Paro de Compas",
+      "url": "https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW"
     },
     {
       "album": {

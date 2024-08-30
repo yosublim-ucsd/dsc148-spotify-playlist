@@ -7097,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "La danse des oiseaux",
+        "url": "https://open.spotify.com/album/1AiS9k0MQRzP6mqXIOI8VQ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "La danse des oiseaux",
+      "url": "https://open.spotify.com/track/2kSUAzItCJMxVbpZjdtmLE"
+    },
+    {
+      "album": {
         "name": "Land Down Under",
         "url": "https://open.spotify.com/album/0XywQVB10g0VwSZi9FXLp9"
       },
@@ -10236,7 +10254,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 207731,
       "name": "Over You",
       "url": "https://open.spotify.com/track/5jAzncvTqIzzWgvqlCBx8t"

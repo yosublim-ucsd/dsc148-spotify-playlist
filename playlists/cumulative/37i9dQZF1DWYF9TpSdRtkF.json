@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 251093,
       "name": "RED ZONE",
       "url": "https://open.spotify.com/track/1I4S0n6yBbZuqUH0b8IT57"
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 242586,
       "name": "\u30a2\u30a4\u30c9\u30eb\u306f\u3001\u304b\u304f\u8a9e\u308a\u304d",
       "url": "https://open.spotify.com/track/2pP8pJvyy2iedtvj2YZXPf"
@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 259053,
       "name": "\u6298\u7d19\u7269\u8a9e",
       "url": "https://open.spotify.com/track/4BLv6sxH3J91nItZNyCJw9"
@@ -6738,7 +6738,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 299453,
       "name": "\u767e\u82b1\u306f\u6708\u4e0b\u306b\u6563\u308a\u306c\u308b\u3092",
       "url": "https://open.spotify.com/track/1ae8FD9T0y8sHy6yqmuPgT"
@@ -6820,6 +6820,24 @@
       "duration_ms": 289213,
       "name": "\u7a7a\u306b\u624b\u304c\u89e6\u308c\u308b\u5834\u6240",
       "url": "https://open.spotify.com/track/2tCyPUyugrIjVn8oI9qaoR"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ"
+      },
+      "artists": [
+        {
+          "name": "LOVERS HEART",
+          "url": "https://open.spotify.com/artist/32dhFyk4FYZwa4QsvP11et"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321693,
+      "name": "\u7a7a\u8272 Birthday Card",
+      "url": "https://open.spotify.com/track/7Bl7zceAe34Vvs4CALJ6Zs"
     },
     {
       "album": {
@@ -6986,7 +7004,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

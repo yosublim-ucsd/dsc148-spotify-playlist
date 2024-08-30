@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=2fIq431USQ-RmxDy5BziIg\">Franja Du Plessis</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=VrBl2LsXSg-1srU-DCReDg\">Danny Smoke</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -582,6 +582,24 @@
       "duration_ms": 176750,
       "name": "Buffel Van Buffelsfontein",
       "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+    },
+    {
+      "album": {
+        "name": "Carina",
+        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196208,
+      "name": "Carina",
+      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
     },
     {
       "album": {
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 185062,
       "name": "Lyntjie",
       "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"

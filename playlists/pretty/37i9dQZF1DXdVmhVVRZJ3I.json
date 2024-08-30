@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 279560,
+  "num_followers": 279635,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-08-23 03:03:00",
       "album": {
-        "name": "Fria (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 160483,
-      "name": "Fria - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
-    },
-    {
-      "added_at": "2024-08-23 03:03:00",
-      "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "added_at": "2024-08-23 03:03:00",
+      "album": {
+        "name": "Fria (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 160483,
+      "name": "Fria - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
     },
     {
       "added_at": "2024-08-23 03:03:00",
@@ -863,30 +863,6 @@
     {
       "added_at": "2024-08-23 03:03:00",
       "album": {
-        "name": "Turning Me Up (Hadal Ahbek)",
-        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Turning Me Up (Hadal Ahbek)",
-      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
-    },
-    {
-      "added_at": "2024-08-23 03:03:00",
-      "album": {
         "name": "One in a Million (Alok Remix)",
         "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 142816,
       "name": "One in a Million - Alok Remix",
       "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
+    },
+    {
+      "added_at": "2024-08-23 03:03:00",
+      "album": {
+        "name": "Turning Me Up (Hadal Ahbek)",
+        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Turning Me Up (Hadal Ahbek)",
+      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
     },
     {
       "added_at": "2024-08-23 03:03:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-08-23 03:03:00",
       "album": {
+        "name": "Won't Back Down",
+        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Won't Back Down",
+      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
+    },
+    {
+      "added_at": "2024-08-23 03:03:00",
+      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
-    },
-    {
-      "added_at": "2024-08-23 03:03:00",
-      "album": {
-        "name": "Won't Back Down",
-        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Won't Back Down",
-      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
     },
     {
       "added_at": "2024-08-23 03:03:00",

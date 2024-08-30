@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Nena
 
-88 songs - 4 hr 47 min
+89 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Como Se Te Fosse Perder](https://open.spotify.com/track/3Oa4gJ5OfEGpCNWlLslYh0) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Como Se Te Fosse Perder](https://open.spotify.com/album/0xSY141d5NGzZUGY5uRxgq) | 3:06 | 2024-06-27 | 2024-07-27 |
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2024-06-27 |  |
 | [Como É Linda](https://open.spotify.com/track/6B43EbmAvIZihRW50LCtav) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Como É Linda](https://open.spotify.com/album/3yniN1hEeGMKDr0k8HmhVd) | 2:57 | 2024-06-27 |  |
-| [COMPLICADO](https://open.spotify.com/track/0FbAnTTFeLnpfrNer6CzHZ) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [OLHAR P’RA BAIXO](https://open.spotify.com/album/1BeGFKGmjiP1RHDT9IxWUE) | 2:43 | 2024-07-04 |  |
+| [COMPLICADO](https://open.spotify.com/track/0FbAnTTFeLnpfrNer6CzHZ) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [OLHAR P’RA BAIXO](https://open.spotify.com/album/1BeGFKGmjiP1RHDT9IxWUE) | 2:43 | 2024-07-04 | 2024-08-30 |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-27 |  |
 | [Coração](https://open.spotify.com/track/0eWXOqxdbP647k3wVrstcY) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [9](https://open.spotify.com/album/2fBNDKu8TOe6HXY5L7gCV5) | 3:36 | 2024-06-27 |  |
 | [Coração](https://open.spotify.com/track/446HdJnpCj1fqbxrbO08Pq) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:04 | 2024-06-27 |  |
@@ -41,6 +41,7 @@
 | [Dois](https://open.spotify.com/track/4eYWyX4X4InIx1QnKkv3UI) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Dois](https://open.spotify.com/album/0aKzVffljSE3UF3Gg7UeyJ) | 3:25 | 2024-06-27 |  |
 | [Dois Dedos de Testa](https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Dois Dedos De Testa](https://open.spotify.com/album/7hXKkcdTAx5P2Kk3t1Vg2I) | 3:15 | 2024-06-27 |  |
 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 | 2024-06-27 |  |
+| [Entre O Passado E O Futuro](https://open.spotify.com/track/0CohDEhfKQFP1cuJ5NEoPs) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Entre O Passado E O Futuro](https://open.spotify.com/album/1RGsfRn9pL5WrFJUutdu4V) | 2:38 | 2024-08-29 |  |
 | [ESPELHO](https://open.spotify.com/track/5Q80Y8egSGr1MEO2KvCYGE) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ESPELHO](https://open.spotify.com/album/3ex5jxr25geXOcxNXFD8Nv) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-06-27 | 2024-08-02 |
 | [ESPINHOS](https://open.spotify.com/track/2IJYS685KL8OE01SNtR1KK) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ESPINHOS](https://open.spotify.com/album/3ApfoGIEbbpakkR8NqcviA) | 3:06 | 2024-06-27 |  |

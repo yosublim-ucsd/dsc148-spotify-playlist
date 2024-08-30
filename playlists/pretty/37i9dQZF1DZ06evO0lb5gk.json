@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 130631,
+  "num_followers": 130704,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAACDz5rcRP5+vrni7IHyL/1U",
+  "snapshot_id": "Zs5ogAAAAACtpG8g+3VEGqqoxa6GOEPP",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 258265,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/2auGZBF35U0Hx18EzGSVOX"
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Is Now",
-        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 271417,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
+      "duration_ms": 258265,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/2auGZBF35U0Hx18EzGSVOX"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
+        "name": "The link",
+        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 297402,
-      "name": "Clone",
-      "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
+      "duration_ms": 145173,
+      "name": "Wisdom comes",
+      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The link",
-        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Wisdom comes",
-      "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terra Incognita",
         "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
       },
@@ -532,25 +516,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 263502,
-      "name": "Satan Is a Lawyer",
-      "url": "https://open.spotify.com/track/6hykEQW67sL7g4oj0XgFZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 108293,
-      "name": "The Wild Healer",
-      "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
+      "duration_ms": 297402,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
     },
     {
       "added_at": null,
@@ -571,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 108293,
+      "name": "The Wild Healer",
+      "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terra Incognita",
         "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
       },
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 259053,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA"
+      "duration_ms": 263502,
+      "name": "Satan Is a Lawyer",
+      "url": "https://open.spotify.com/track/6hykEQW67sL7g4oj0XgFZh"
     },
     {
       "added_at": null,
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 320833,
-      "name": "Space Time",
-      "url": "https://open.spotify.com/track/2vPtc8B4NQhGY3eXghFn6X"
+      "duration_ms": 259053,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA"
     },
     {
       "added_at": null,
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 270225,
-      "name": "Lizard Skin",
-      "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
+      "duration_ms": 320833,
+      "name": "Space Time",
+      "url": "https://open.spotify.com/track/2vPtc8B4NQhGY3eXghFn6X"
     },
     {
       "added_at": null,
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 130006,
-      "name": "04",
-      "url": "https://open.spotify.com/track/71quk58zQYDoz650CiuVjF"
+      "duration_ms": 270225,
+      "name": "Lizard Skin",
+      "url": "https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 300960,
       "name": "The link",
       "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 130006,
+      "name": "04",
+      "url": "https://open.spotify.com/track/71quk58zQYDoz650CiuVjF"
     }
   ],
   "unique_name": "This Is Gojira",

@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 450439,
       "name": "F\u00e9 / Pertinho de Mim / Volta de Vez pra Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/25HZJtoINVHM90KBMYoclw"
@@ -2013,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "Pot-Pourri: Ch\u00e1 de Sumi\u00e7o | Confian\u00e7a | Carona do Amor | V\u00f4o Pro Jap\u00e3o | Sem Perceber | Linguagem dos Olhos",
+        "url": "https://open.spotify.com/album/6RIjG4Yrtt10cMpJMNtL5w"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 663913,
+      "name": "Pot-Pourri: Ch\u00e1 de Sumi\u00e7o | Confian\u00e7a | Carona do Amor | V\u00f4o Pro Jap\u00e3o | Sem Perceber | Linguagem dos Olhos",
+      "url": "https://open.spotify.com/track/4KMGttvIbuSAkqH0RW5omZ"
+    },
+    {
+      "album": {
         "name": "Ladr\u00e3o de Cora\u00e7\u00e3o, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/0SivEW9RNGz6yifXU4tvJ2"
       },
@@ -2584,7 +2606,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230018,
       "name": "Sou Do Sereno / Cada Um No Seu Cada Um - Ao Vivo",
       "url": "https://open.spotify.com/track/4VN7FeifNzXLwL8R7uvLki"
@@ -2866,6 +2888,28 @@
       "duration_ms": 300845,
       "name": "Vai Que Cola / Faz Falta / Me Diz (Por Favor) (feat. Vitinho) - Ao Vivo",
       "url": "https://open.spotify.com/track/2NPWthQC6HGkCUPXEk3bFN"
+    },
+    {
+      "album": {
+        "name": "Vendaval / Um Sonho Bom / Direito de Te Amar",
+        "url": "https://open.spotify.com/album/1L2fa12dnia7mUH31DRLWm"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291232,
+      "name": "Vendaval / Um Sonho Bom / Direito de Te Amar",
+      "url": "https://open.spotify.com/track/4aORqV0kOgsvEy4yP3QGTR"
     },
     {
       "album": {

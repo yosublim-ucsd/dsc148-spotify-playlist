@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Belinda en portada.",
-  "num_followers": 108516,
+  "num_followers": 108568,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "Cuando Me Importabas",
-        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "Cuando Me Importabas",
-      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "Las Noches",
         "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 133909,
       "name": "Las Noches",
       "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "Cuando Me Importabas",
+        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "No Te Fui Suficiente",
-        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "No Te Fui Suficiente",
-      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "El Bato Gacho",
         "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 145518,
       "name": "El Bato Gacho",
       "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "En Vivo: Irene del Rosario",
-        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 214414,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "CONCIERTO HUMILDE - IVONNE GALAZ (En Vivo)",
         "url": "https://open.spotify.com/album/5EIotKw7bqao4gFTiGaX8m"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 218500,
       "name": "Golpes De La Vida - En Vivo",
       "url": "https://open.spotify.com/track/0uNH4uvqBHZi4g5aw2Dj6G"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "En Vivo: Irene del Rosario",
+        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 214414,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
     },
     {
       "added_at": "2024-08-16 14:34:01",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        },
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 231793,
+      "name": "Tu Lo Decidiste",
+      "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
         "name": "Cerrada Al Amor",
         "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 200840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        },
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 231793,
-      "name": "Tu Lo Decidiste",
-      "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

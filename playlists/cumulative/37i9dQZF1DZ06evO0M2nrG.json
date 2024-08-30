@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
+  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
   "name": "This Is Mike Bah\u00eda",
   "tracks": [
     {
@@ -992,10 +992,32 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 201370,
       "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
       "url": "https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3"
+    },
+    {
+      "album": {
+        "name": "DIEZ",
+        "url": "https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201370,
+      "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv"
     },
     {
       "album": {

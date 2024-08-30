@@ -1,35 +1,51 @@
 {
   "description": "Rap napoletano e il meglio della scena campana. Cosang in cover.",
-  "num_followers": 205366,
+  "num_followers": 205433,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zse1HAAAAAAE93QJzdUKR/JPUpAS1NRi",
+  "snapshot_id": "ZtD9rAAAAAARPmP4Ng+S3X3tqxZkOTjA",
   "tracks": [
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
-        "name": "EL PIBE DE ORO",
-        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         },
         {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 155493,
-      "name": "EL PIBE DE ORO",
-      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
+      "duration_ms": 220588,
+      "name": "Perdere \u2018a capa (feat. Geolier)",
+      "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
+      "album": {
+        "name": "Vecchio stampo & West Coast",
+        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "Vecchio stampo & West Coast",
+      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
+    },
+    {
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "SAR\u00d2 CON TE (feat. Lele Blade, Vale Lambo, MV Killa, Yung Snapp) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu"
@@ -65,26 +81,30 @@
       "url": "https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
-        "name": "Vecchio stampo & West Coast",
-        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
+        "name": "EL PIBE DE ORO",
+        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
       },
       "artists": [
         {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
         }
       ],
-      "duration_ms": 183889,
-      "name": "Vecchio stampo & West Coast",
-      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
-        "name": "O primm post",
-        "url": "https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4"
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
       },
       "artists": [
         {
@@ -92,12 +112,12 @@
           "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         }
       ],
-      "duration_ms": 230399,
-      "name": "O primm post",
-      "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
+      "duration_ms": 154074,
+      "name": "Carne e ossa",
+      "url": "https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "FULL FULL",
         "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -133,7 +153,23 @@
       "url": "https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
+      "album": {
+        "name": "Chi more pe'mme",
+        "url": "https://open.spotify.com/album/5MBHrsqGDt3aEMPvTcuvHt"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/0SbPMAgqOh6hi0xLa5gD8C"
+    },
+    {
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "VIEN\u2018CCA",
         "url": "https://open.spotify.com/album/3WgAGqPic8HiBXkO8n1HCF"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/6ENT7ncTtDKUia5LSf0TUI"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/5EbuKgB6acYhza2WOztvXQ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
@@ -269,23 +305,7 @@
       "url": "https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
-      "album": {
-        "name": "Chi more pe'mme",
-        "url": "https://open.spotify.com/album/5MBHrsqGDt3aEMPvTcuvHt"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/0SbPMAgqOh6hi0xLa5gD8C"
-    },
-    {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "HOTEL MONTANA",
         "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "REPLAY (feat. Yung Snapp, MV Killa, Vale Lambo, Lele Blade)",
         "url": "https://open.spotify.com/album/19xqnKvk2U4tRVKJ7d70yY"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/1GQbYcdWWEmC9bV7BRfSQQ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Jacquemus Blu",
         "url": "https://open.spotify.com/album/3c2pAKv5vVzHoQaNN5I9jK"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/4gkEnpK3NVo3mTQ2cBjgE0"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "PUSH!",
         "url": "https://open.spotify.com/album/1VhFfUci89uff0TDbyo5Yv"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/3M1shvccYsWzWk0HW5uGTU"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/6EpgmYMlgURL6CmQrVjZye"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/3wqoCPK5S7NpUavgvqo4HL"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Vecchio stampo & West Coast",
         "url": "https://open.spotify.com/album/3OVnR5nA6PctoA8zxlayUH"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/3PPbAPR5IljfWZmHACBPAY"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/69PGHUPMp7FPMND7IMZKnm"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/1iYAxtlitQm6FNRH2HkIln"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Vita bona",
         "url": "https://open.spotify.com/album/0dzCyDqy3dTwfYkNflwTXL"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/0Hi6vdLz9l1yBDHg3CPaCL"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "CRIATUR",
         "url": "https://open.spotify.com/album/3ygQSRBTf3raxCUcF05s7s"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/7bQ3KZmW8L1LlP7Q4F4mUe"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "RAS",
         "url": "https://open.spotify.com/album/74zFaTDHOdMoIxnqK51XqC"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/18tZCcVtDJpQaRuw6sOIIR"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Tredici",
         "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Napoletano RMX (feat. SLF)",
         "url": "https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Sul'A Mia (feat. Enzo Dong)",
         "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "COCO (feat. Frezza)",
         "url": "https://open.spotify.com/album/6cFTdq80CJtMxJSoXm760u"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/0Ii2R9SawfnxkhNtUI5d7s"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "CHIU AVT",
         "url": "https://open.spotify.com/album/4GmQFA3ttlyWFAiCHCqJSw"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/0Am8wmouc9ZyfNrCZHVA3M"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Forever Alone",
         "url": "https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "HOTEL MONTANA (Deluxe)",
         "url": "https://open.spotify.com/album/55BeUFIdOnQjBEPnrvFyDy"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/0UiVmqmkbBQ4DhlXia0431"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "ADDIO",
         "url": "https://open.spotify.com/album/7iFrtAfj9vQpE0EYTaIZBe"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/4IuhPS27Rf3lDqSYYmHqI0"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Lonely (feat. Christian Revo)",
         "url": "https://open.spotify.com/album/2nAjv2gB9U51oIJB0h2yLz"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/51qaHCvkdBGe4hIruc0ucO"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/0SxncNbbzm0Sq8SBy5N0Np"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Still in Napl (Est) - pack",
         "url": "https://open.spotify.com/album/64OJp4xy34XWm9a25bJ6Bh"
@@ -861,7 +881,7 @@
       "url": "https://open.spotify.com/track/7DxwpmqGxLsVFDXpWXwOYx"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile Vol. 2",
         "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
@@ -881,7 +901,7 @@
       "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Marijuana (feat. Rhove)",
         "url": "https://open.spotify.com/album/2fvZ7msnb3QjrIUoB2xZGB"
@@ -917,7 +937,7 @@
       "url": "https://open.spotify.com/track/6zBoYvUKa47DRGXGGAziJk"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Plaza Freestyle",
         "url": "https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3"
@@ -937,7 +957,7 @@
       "url": "https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2GYnr5RUWwCWMQuyY6xUNO"
@@ -957,7 +977,7 @@
       "url": "https://open.spotify.com/track/6hNhO6JOgTGeT3CWjPSiIm"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -973,7 +993,7 @@
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "O'Sistem",
         "url": "https://open.spotify.com/album/4jz6bKLP1EPbzA0qZsYMa9"
@@ -993,7 +1013,7 @@
       "url": "https://open.spotify.com/track/786qEDqFcpcxzDzRf7K944"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "PLATA O PLOMO",
         "url": "https://open.spotify.com/album/7G3bsp51X53XzI3ydsk2Zn"
@@ -1013,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3M48RdME7j6qwd3hF3wSZX"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 23:01:00",
       "album": {
         "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo"

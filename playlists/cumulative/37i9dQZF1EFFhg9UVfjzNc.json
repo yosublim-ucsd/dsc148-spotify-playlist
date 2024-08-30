@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "\u00c9 Sobre Ele - Ao Vivo",
+        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519392,
+      "name": "Mist\u00e9rio Da Cria\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr"
+    },
+    {
+      "album": {
         "name": "Morena / Le\u00e3o Guerreiro",
         "url": "https://open.spotify.com/album/5r8J5nc7NJFTU18StkYSPD"
       },

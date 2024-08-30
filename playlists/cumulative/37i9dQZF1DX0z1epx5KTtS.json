@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "La bonne place",
+        "url": "https://open.spotify.com/album/2PXGO3w6Kh9LqVZfyDZ1XI"
+      },
+      "artists": [
+        {
+          "name": "Yilim",
+          "url": "https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "La bonne place",
+      "url": "https://open.spotify.com/track/2uWUY0oTHBvRlKij3Mv4rl"
+    },
+    {
+      "album": {
         "name": "La col\u00e8re du lion",
         "url": "https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p"
       },
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 163636,
       "name": "Tu Te Maries Quand? (Part. I)",
       "url": "https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw"

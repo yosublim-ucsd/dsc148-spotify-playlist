@@ -1,29 +1,13 @@
 {
-  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz?si=Z37_PeVYRyOePCRwwt0vxw\">TIMMS</a> ",
-  "num_followers": 2069,
+  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=RfXZXoR0RzSOx4C5S1N8GA\">Sabrina Carpenter</a> ",
+  "num_followers": 2068,
   "original_name": "POP JOY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZshHVAAAAADKWqaYd+wUsPf0lQzy4Fhj",
+  "snapshot_id": "ZtDvYAAAAADHOnIh7OFmaHRFUVO7K32v",
   "tracks": [
-    {
-      "added_at": "2024-08-23 08:24:52",
-      "album": {
-        "name": "Resting Sad Face",
-        "url": "https://open.spotify.com/album/6GkZjWmvOZhU8YcBG2tfPO"
-      },
-      "artists": [
-        {
-          "name": "TIMMS",
-          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
-        }
-      ],
-      "duration_ms": 129158,
-      "name": "Resting Sad Face",
-      "url": "https://open.spotify.com/track/3rJZb5rwpzn83Y2GEBc5mg"
-    },
     {
       "added_at": "2024-08-23 08:24:52",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+    },
+    {
+      "added_at": "2024-08-23 08:24:52",
+      "album": {
+        "name": "Resting Sad Face",
+        "url": "https://open.spotify.com/album/6GkZjWmvOZhU8YcBG2tfPO"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "duration_ms": 129158,
+      "name": "Resting Sad Face",
+      "url": "https://open.spotify.com/track/3rJZb5rwpzn83Y2GEBc5mg"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -73,46 +73,6 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-08-23 08:24:52",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/22uHDP1dLfvNi73JQ0n8IX"
-      },
-      "artists": [
-        {
-          "name": "MAEZTRO",
-          "url": "https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1"
-        },
-        {
-          "name": "Rowlene",
-          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
-        }
-      ],
-      "duration_ms": 167217,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4HYHtmNSYYRslP6FKiKsFJ"
-    },
-    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "A Bar Song (Tipsy)",
@@ -143,6 +103,26 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -179,30 +159,6 @@
       "duration_ms": 200145,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/4YiepHcrEBS5TSdIp7nY6Y"
-    },
-    {
-      "added_at": "2024-08-23 08:24:52",
-      "album": {
-        "name": "fall into place",
-        "url": "https://open.spotify.com/album/52yws9V4uJtcfwg98W8fap"
-      },
-      "artists": [
-        {
-          "name": "Mookigang",
-          "url": "https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO"
-        },
-        {
-          "name": "raihan",
-          "url": "https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD"
-        },
-        {
-          "name": "oh haven",
-          "url": "https://open.spotify.com/artist/454F3LMjDK0L51zDLsQDMe"
-        }
-      ],
-      "duration_ms": 117777,
-      "name": "fall into place",
-      "url": "https://open.spotify.com/track/2sFHw6ZJaxqL56CuOtXqAt"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -273,6 +229,26 @@
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
+      "added_at": "2024-08-23 08:24:52",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/22uHDP1dLfvNi73JQ0n8IX"
+      },
+      "artists": [
+        {
+          "name": "MAEZTRO",
+          "url": "https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1"
+        },
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "duration_ms": 167217,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4HYHtmNSYYRslP6FKiKsFJ"
+    },
+    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Unheard",
@@ -287,6 +263,26 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "up on lonelyhill",
+        "url": "https://open.spotify.com/album/5S7oPvn1SOQSN2EXPj39Xh"
+      },
+      "artists": [
+        {
+          "name": "Mookigang",
+          "url": "https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO"
+        },
+        {
+          "name": "raihan",
+          "url": "https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD"
+        }
+      ],
+      "duration_ms": 122303,
+      "name": "i'll be waiting",
+      "url": "https://open.spotify.com/track/0uOeZVpJSYW3g9d3VYKgcS"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -367,6 +363,22 @@
       "duration_ms": 231788,
       "name": "Summer in the 70's",
       "url": "https://open.spotify.com/track/2Tb8efkcaHLxz7wcXtUlKR"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Drops In My Eyes",
+        "url": "https://open.spotify.com/album/14GeS3Gm8nMQzUYQbUvBLt"
+      },
+      "artists": [
+        {
+          "name": "Cece Vee",
+          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
+        }
+      ],
+      "duration_ms": 196046,
+      "name": "Drops In My Eyes",
+      "url": "https://open.spotify.com/track/0B2017TXS8xiqgzf5btAO5"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -497,6 +509,26 @@
       "url": "https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV"
     },
     {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "JOUSKA",
+        "url": "https://open.spotify.com/album/6RoW89q8zle1uWxLdJ1oFQ"
+      },
+      "artists": [
+        {
+          "name": "Sulene",
+          "url": "https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg"
+        },
+        {
+          "name": "JOON",
+          "url": "https://open.spotify.com/artist/5velmxw0WUhaJm9PeeXpWE"
+        }
+      ],
+      "duration_ms": 131086,
+      "name": "dust",
+      "url": "https://open.spotify.com/track/2BYSGpfdV2TKp3YlZqShv3"
+    },
+    {
       "added_at": "2024-06-27 23:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -543,38 +575,6 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Fall Asleep",
-        "url": "https://open.spotify.com/album/5RxmvLXckds8tQARMaQtXS"
-      },
-      "artists": [
-        {
-          "name": "Tristan Cole Boltman",
-          "url": "https://open.spotify.com/artist/1gzoSdXYXUh5v1j8qB9QOv"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Fall Asleep",
-      "url": "https://open.spotify.com/track/4NHaWaro8WSRoYJVpU7joq"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "15 MINUTES",
-        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 189192,
-      "name": "15 MINUTES",
-      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -645,20 +645,20 @@
       "url": "https://open.spotify.com/track/2h6cKVFurOfEBB4GewcGOI"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Blood Rush",
-        "url": "https://open.spotify.com/album/4vT01YKtwUdlEBFiBUI9BE"
+        "name": "bloom.",
+        "url": "https://open.spotify.com/album/2AyW4Wfl0oojlGNyojxuq9"
       },
       "artists": [
         {
-          "name": "OLI Milne",
-          "url": "https://open.spotify.com/artist/3u7rcxzEbguyPZHrucpbEB"
+          "name": "Cosmic Way",
+          "url": "https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1"
         }
       ],
-      "duration_ms": 205632,
-      "name": "Blood Rush",
-      "url": "https://open.spotify.com/track/1ZmQmMqbbj72IgS8ZmxM6B"
+      "duration_ms": 147428,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/43Nbcj9BLgwTgDXXVLkV9w"
     },
     {
       "added_at": "2024-06-27 23:00:00",

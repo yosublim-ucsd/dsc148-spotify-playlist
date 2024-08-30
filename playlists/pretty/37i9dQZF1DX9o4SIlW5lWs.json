@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
-  "num_followers": 224641,
+  "num_followers": 224717,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "En Una de Esas",
+        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "En Una de Esas",
+      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 275375,
       "name": "Si Te Vas - Vivo",
       "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "En Una de Esas",
-        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "En Una de Esas",
-      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "La Luna y T\u00fa",
-        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "La Luna y T\u00fa",
-      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 170113,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/50WtswE20cDFRHe183OXkW"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "La Luna y T\u00fa",
+        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Me Va Mejor Con el Alcohol",
+        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Me Va Mejor Con el Alcohol",
+      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 323334,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Me Va Mejor Con el Alcohol",
-        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Me Va Mejor Con el Alcohol",
-      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 204659,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Hoy Te Vas",
         "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 188133,
       "name": "Hoy Te Vas",
       "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 204659,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Cu\u00e9ntale",
-        "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
+        "name": "Me Equivoqu\u00e9 Otra Vez",
+        "url": "https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         },
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
         }
       ],
-      "duration_ms": 161214,
-      "name": "Cu\u00e9ntale",
-      "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
+      "duration_ms": 175971,
+      "name": "Me Equivoqu\u00e9 Otra Vez",
+      "url": "https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Me Equivoqu\u00e9 Otra Vez",
-        "url": "https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy"
+        "name": "Cu\u00e9ntale",
+        "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         },
         {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         }
       ],
-      "duration_ms": 175971,
-      "name": "Me Equivoqu\u00e9 Otra Vez",
-      "url": "https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk"
+      "duration_ms": 161214,
+      "name": "Cu\u00e9ntale",
+      "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Coraz\u00f3n Partido",
+        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Coraz\u00f3n Partido",
+      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Si Te Agarran Las Ganas",
         "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n Partido",
-        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "Coraz\u00f3n Partido",
-      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
     },
     {
       "added_at": "2024-08-23 03:00:00",

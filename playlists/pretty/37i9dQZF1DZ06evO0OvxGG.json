@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 6272,
+  "num_followers": 6274,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAABroXU5e4MDhp9UiInF4VOd",
+  "snapshot_id": "Zs5ogAAAAAC8UgQk8JIH7o8QakGuIGWx",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SENSITIVO ;7",
-        "url": "https://open.spotify.com/album/5Lk1RcTvugXvIinZpFMLJl"
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
       },
       "artists": [
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "1berto",
-          "url": "https://open.spotify.com/artist/0yHRY5xBM1KF0DbtXRY9DV"
         }
       ],
-      "duration_ms": 258898,
-      "name": "Mizuno ;7",
-      "url": "https://open.spotify.com/track/28ADTthzHzF8xSiGhOreFj"
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,
@@ -735,22 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+        "name": "SENSITIVO ;7",
+        "url": "https://open.spotify.com/album/5Lk1RcTvugXvIinZpFMLJl"
       },
       "artists": [
         {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "1berto",
+          "url": "https://open.spotify.com/artist/0yHRY5xBM1KF0DbtXRY9DV"
         }
       ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+      "duration_ms": 258898,
+      "name": "Mizuno ;7",
+      "url": "https://open.spotify.com/track/28ADTthzHzF8xSiGhOreFj"
     },
     {
       "added_at": null,

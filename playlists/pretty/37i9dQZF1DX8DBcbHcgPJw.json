@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Yami Safdie.",
-  "num_followers": 1161721,
+  "num_followers": 1161744,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Ya no me duele :,)",
         "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 157021,
       "name": "Ya no me duele :,)",
       "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Amigo Remix",
         "url": "https://open.spotify.com/album/14t7REZzfSQYODT3If4Ti3"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 141501,
       "name": "Amigo Remix",
       "url": "https://open.spotify.com/track/3J3yRkO999AgZT4LMum1Yc"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -999,34 +999,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
-        "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
+        "name": "Julieta & Romeo",
+        "url": "https://open.spotify.com/album/2TPT7xsHb4BRsiQkKX4r71"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Pablo Lescano",
-          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
         }
       ],
-      "duration_ms": 253340,
-      "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
-      "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
+      "duration_ms": 124811,
+      "name": "Julieta & Romeo",
+      "url": "https://open.spotify.com/track/1wn8oTCxakJxpRi4rJm05T"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1071,38 +1055,34 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Julieta & Romeo",
-        "url": "https://open.spotify.com/album/2TPT7xsHb4BRsiQkKX4r71"
+        "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
+        "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
       },
       "artists": [
         {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        }
-      ],
-      "duration_ms": 124811,
-      "name": "Julieta & Romeo",
-      "url": "https://open.spotify.com/track/1wn8oTCxakJxpRi4rJm05T"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
         },
         {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 201804,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+      "duration_ms": 253340,
+      "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
+      "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1123,6 +1103,26 @@
       "duration_ms": 153876,
       "name": "POR QU\u00c9 LLORAS?",
       "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Noche de Party",
+        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 152942,
+      "name": "Noche de Party",
+      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Persia / YO SE QUE TU / Millonario",
+        "url": "https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs"
+      },
+      "artists": [
+        {
+          "name": "El Rodri",
+          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
+        }
+      ],
+      "duration_ms": 296254,
+      "name": "Persia / YO SE QUE TU / Millonario",
+      "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Persia / YO SE QUE TU / Millonario",
-        "url": "https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs"
-      },
-      "artists": [
-        {
-          "name": "El Rodri",
-          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
-        }
-      ],
-      "duration_ms": 296254,
-      "name": "Persia / YO SE QUE TU / Millonario",
-      "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Dime Quien",
         "url": "https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza"
       },
@@ -1839,22 +1839,6 @@
       "duration_ms": 185714,
       "name": "Dime Quien",
       "url": "https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1883,6 +1867,22 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2024-08-23 03:00:00",

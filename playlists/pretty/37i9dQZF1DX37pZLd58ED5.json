@@ -1,15 +1,83 @@
 {
-  "description": "Solo beat e rime avvolgenti. Cover: Sfera Ebbasta",
-  "num_followers": 316725,
+  "description": "Solo beat e rime avvolgenti. Cover: Tony Boy",
+  "num_followers": 316876,
   "original_name": "Mezzanotte Chill Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs2RrQAAAACQNV7evEOvcghc8TMJ/MCg",
+  "snapshot_id": "ZtDvnAAAAABTZ7lNKj59I79EBA+rrzH6",
   "tracks": [
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
+      "album": {
+        "name": "Bottiglie Priv\u00e8",
+        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "Bottiglie Priv\u00e8",
+      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
+    },
+    {
+      "added_at": "2024-08-29 22:01:00",
+      "album": {
+        "name": "Le cose cambiano",
+        "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 172538,
+      "name": "Moneylove (feat. Emis Killa)",
+      "url": "https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3"
+    },
+    {
+      "added_at": "2024-08-29 22:01:00",
+      "album": {
+        "name": "Il Tempo Cura",
+        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 152904,
+      "name": "Il Tempo Cura",
+      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+    },
+    {
+      "added_at": "2024-08-29 22:01:00",
+      "album": {
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
+    },
+    {
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
@@ -29,7 +97,7 @@
       "url": "https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -53,23 +121,7 @@
       "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
-      "album": {
-        "name": "Bottiglie Priv\u00e8",
-        "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bottiglie Priv\u00e8",
-      "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
-    },
-    {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
@@ -89,27 +141,7 @@
       "url": "https://open.spotify.com/track/5dx4QY85j4zjMNHreobVsS"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
-      "album": {
-        "name": "Le cose cambiano",
-        "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 172538,
-      "name": "Moneylove (feat. Emis Killa)",
-      "url": "https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3"
-    },
-    {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -125,23 +157,7 @@
       "url": "https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
-      "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
-    },
-    {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/5T6D0HGmxoPQVLUYeMbQw1"
@@ -161,23 +177,7 @@
       "url": "https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
-      "album": {
-        "name": "Il Tempo Cura",
-        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 152904,
-      "name": "Il Tempo Cura",
-      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
-    },
-    {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "HABITAT : tour",
         "url": "https://open.spotify.com/album/3hC8Ul139lIFkmtmX8B8XL"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "100 MESSAGGI",
         "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Bravo Ragazzo (Royal Edition)",
         "url": "https://open.spotify.com/album/0LHWAAN1t9MHgpkPjdXrkW"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/7fH13hSOyNoeiDGbjEnTUC"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "PLAZA",
         "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Famoso",
         "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5BxBGvLJdwBBjCYJRdezxM"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/1OeIJITrlUR4qss2kywMEn"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "CASA",
         "url": "https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Mowgli",
         "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "NOSTALGIA (export)",
         "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/4D6ywGtQxlezNqqRwJQDnb"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Piccolo principe",
         "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/3lptopTJBfU6RtzLC3My85"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Come Uccidere Un Usignolo",
         "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Le cose cambiano",
         "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/3G4ua9SB7TQLKgj1Q8HNQn"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/5wU2NUt1pSAeTIWfXnRRkQ"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Gemelli",
         "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/4n5omnB5GcKuHhkVZWv1Ih"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "MOTIVATION 4 THE STREETZ",
         "url": "https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/70AgFaB146MYf6cylc1hoS"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/0bSEor7VCHPuRiwyT6dvTM"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Avanti",
         "url": "https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/3WsO4fOOc2Yr6oTP7CYa4j"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Le cose cambiano",
         "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/4nKyIs9RnHzRJSyM5x7BEU"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "X2VR",
         "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/2tKH7kT40eTSp8SCf6VKeH"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Mattoni",
         "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Vita Vera Mixtape",
         "url": "https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "QVC9 - QUELLO CHE VI CONSIGLIO VOL. 9",
         "url": "https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Dammi Un Motivo",
         "url": "https://open.spotify.com/album/0HflwxpqIV1kISwqYaBPEH"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/0oZlPs7TYiYlLfveiUfQJ6"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Dasein Sollen",
         "url": "https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/16UKRoJsS0i0eUNCCroz7n"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Re Mida (Aurum)",
         "url": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4vuQhmBVvyy4Zau0Ypv738"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Dilemme (with tha Supreme & Mara Sattei)",
         "url": "https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp"
@@ -1065,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Piccolo principe",
         "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
@@ -1081,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0ReSNmM6DihL9WAb95jc5h"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2tpfOljBdskx8G331TjRps"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3rOw9WmYFCRLHTRcbOjhUl"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4pDkYM6khFgQTqS8V0RNBB"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Spigoli",
         "url": "https://open.spotify.com/album/7d2mx3ECVdcvoLFLXrx8Qo"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/1XQvMjA9IiIx1lAiTHSxQi"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "MULA",
         "url": "https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/0nd1tWz1bmTQ2ObCnZCLV9"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim"
     },
     {
-      "added_at": "2024-08-22 22:01:00",
+      "added_at": "2024-08-29 22:01:00",
       "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"

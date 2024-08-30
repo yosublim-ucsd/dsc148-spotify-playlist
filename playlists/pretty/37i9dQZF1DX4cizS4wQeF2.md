@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > ah la vie en rose!
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,469 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,556 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 | 3 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 |
 | 4 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 5 | [Cupid](https://open.spotify.com/track/5UrDFY2cYc7NMoheN4syct) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Sam Cooke: Portrait Of A Legend 1951\-1964](https://open.spotify.com/album/6QGm9AGR7l5YYQPb66FGdc) | 2:38 |
-| 6 | [Say Hey \(I Love You\) \(feat\. Cherine Tanya Anderson\)](https://open.spotify.com/track/383B8ksM58jbV3HbiRJo0K) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB), [Cherine Tanya Anderson](https://open.spotify.com/artist/1PeGxM3M7FcKIUYQ4zFovG) | [All Rebel Rockers](https://open.spotify.com/album/7gbG5HpQeBPXUSvhrlP9bc) | 3:55 |
+| 6 | [Say Hey \(I Love You\) \(feat\. Cherine Anderson\)](https://open.spotify.com/track/383B8ksM58jbV3HbiRJo0K) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB), [Cherine Anderson](https://open.spotify.com/artist/1d5nqaOa3PXgjrHv7hEQg4) | [All Rebel Rockers](https://open.spotify.com/album/7gbG5HpQeBPXUSvhrlP9bc) | 3:55 |
 | 7 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 8 | [God Only Knows \- Remastered 1996](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:54 |
 | 9 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 |

@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 223120,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1fmPvEu7fVUL8Png48XMGj"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/1Ivs2XzyHSUHUYXFbFghUp"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/6ZqFEJmQokxWJ2dwzJZ3RR"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/13u5Dj3JQCowv1LH94I5xQ"
       },
@@ -1178,10 +1196,28 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 126981,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/74M23XQkvsKoSmQ8Colncd"
+    },
+    {
+      "album": {
+        "name": "find your own",
+        "url": "https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196899,
+      "name": "find your own",
+      "url": "https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP"
     },
     {
       "album": {
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
@@ -1886,7 +1922,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 177011,
       "name": "hurts to love you",
       "url": "https://open.spotify.com/track/4fYGtQT2HDz9K6I2j6sPiG"
@@ -2492,7 +2528,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
@@ -3232,7 +3268,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 270333,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6XnkTsV9oWE72MnQmZagZs"
@@ -3632,6 +3668,24 @@
       "duration_ms": 202496,
       "name": "One Day",
       "url": "https://open.spotify.com/track/27r2uANqwK7XbsiAZnzf9e"
+    },
+    {
+      "album": {
+        "name": "3.2",
+        "url": "https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197345,
+      "name": "orange tree",
+      "url": "https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l"
     },
     {
       "album": {

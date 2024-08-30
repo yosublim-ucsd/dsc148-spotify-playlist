@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : F\u00e9lix Radu",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Barbara Pravi",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183181,
       "name": "Douce",
       "url": "https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi"
@@ -164,10 +164,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF"
+    },
+    {
+      "album": {
+        "name": "Exister",
+        "url": "https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Exister",
+      "url": "https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865"
     },
     {
       "album": {
@@ -244,6 +262,60 @@
       "duration_ms": 200720,
       "name": "Hauteurs",
       "url": "https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0"
+    },
+    {
+      "album": {
+        "name": "Ce qui nous lie",
+        "url": "https://open.spotify.com/album/5YHJckjmhPlW6RiVDHminK"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        },
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        },
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        },
+        {
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
+        },
+        {
+          "name": "Emily Loizeau",
+          "url": "https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09"
+        },
+        {
+          "name": "La Chica",
+          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
+        },
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        },
+        {
+          "name": "NACH",
+          "url": "https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0"
+        },
+        {
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+        },
+        {
+          "name": "L (Rapha\u00eble Lannad\u00e8re)",
+          "url": "https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Homme (feat. Barbara Pravi, Camille, Clou, Emily Loizeau, La Chica, Laura Cahen, Nach, Poppy Fus\u00e9e & L (Rapha\u00eble Lannad\u00e8re))",
+      "url": "https://open.spotify.com/track/3QIZPNupFHSvcOPx0Q41XM"
     },
     {
       "album": {
@@ -471,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Piano Voix",
+        "url": "https://open.spotify.com/album/1gqh4vUbdIetgdpWqnaq67"
+      },
+      "artists": [
+        {
+          "name": "Arthur Teboul",
+          "url": "https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6"
+        },
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "La Rua Madureira",
+      "url": "https://open.spotify.com/track/0JodGC4N6E7adLUi3nYf1I"
+    },
+    {
+      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
       },
@@ -482,7 +576,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 198789,
       "name": "La symphonie des \u00e9clairs",
       "url": "https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS"
@@ -580,7 +674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 225061,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY"
@@ -638,7 +732,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183853,
       "name": "Ma m\u00e8re",
       "url": "https://open.spotify.com/track/6hCsNW3jamyjGIsiQUmPgn"
@@ -901,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Salut",
+        "url": "https://open.spotify.com/album/2JrNI1AjKnD11vR5Gn4hXo"
+      },
+      "artists": [
+        {
+          "name": "C\u00f4me Ranjard",
+          "url": "https://open.spotify.com/artist/40PTFLX9GHiZm6sF2RCCoz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222220,
+      "name": "Salut",
+      "url": "https://open.spotify.com/track/1JKaVKszQvRRRWkC4Jl7NE"
+    },
+    {
+      "album": {
         "name": "contrebande 02. le disque de l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG"
       },
@@ -1086,6 +1198,24 @@
       "duration_ms": 182721,
       "name": "Vivant",
       "url": "https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'\u00e9vidence",
+        "url": "https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn"
+      },
+      "artists": [
+        {
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "\u00c0 l'\u00e9vidence",
+      "url": "https://open.spotify.com/track/159HSchugulB4yPCx1SaI1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx"

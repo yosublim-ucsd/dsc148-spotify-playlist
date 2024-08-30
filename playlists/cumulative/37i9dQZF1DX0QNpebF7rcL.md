@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-411 songs - 1 day 3 hr 33 min
+412 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 | 2023-11-18 |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 | 2023-10-07 |
+| [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 | 2024-08-29 |  |
 | [Bleed](https://open.spotify.com/track/5khIty4Quq18tSkDrI0UaC) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Bleed](https://open.spotify.com/album/29TtZtZzeVNxPsjRKdaelu) | 4:09 | 2023-12-15 | 2024-01-27 |
 | [Blue Blue Water](https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Oscar Wilson](https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE) | 3:17 | 2022-09-09 | 2023-04-29 |
 | [Blues All Around](https://open.spotify.com/track/1cs8jvOVEgaCiKwpjhLxIf) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Blues All Around](https://open.spotify.com/album/68SUS4uQ8vrpd1McyF6uNq) | 4:08 | 2023-02-17 |  |
@@ -361,7 +362,7 @@
 | [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 | 2024-03-29 |  |
 | [Time Clocks](https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg) | 7:07 | 2021-10-01 | 2022-05-28 |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2022-04-23 |
-| [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 | 2024-07-12 |  |
+| [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 | 2024-07-12 | 2024-08-30 |
 | [Troubled Man](https://open.spotify.com/track/2jg5t9K7AkFwivcExkrLX9) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [The Brotherhood](https://open.spotify.com/artist/6N9kctJhQRc8tzejdUOYNW), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Blue Sky](https://open.spotify.com/album/4eXFt8xb1vaaivb332kvu1) | 3:34 | 2020-12-14 | 2022-02-26 |
 | [Try A Little Hound Dog](https://open.spotify.com/track/4JLAMd4e50ko2bSHIz7Ric) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Try A Little Hound Dog](https://open.spotify.com/album/6yRwzs70BHWTtGX2i9fQHD) | 2:40 | 2024-03-22 | 2024-06-15 |
 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues](https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl) | 4:32 | 2023-06-16 | 2023-07-15 |

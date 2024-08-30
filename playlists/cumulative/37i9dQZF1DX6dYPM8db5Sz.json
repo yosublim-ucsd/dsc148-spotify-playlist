@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 133268,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/61i3XTlaFGwDtLNS4hXPh5"
@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "Lagos Paris London",
+        "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
+      },
+      "artists": [
+        {
+          "name": "Yannis & The Yaw",
+          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240711,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
+    },
+    {
+      "album": {
         "name": "Clock Hands",
         "url": "https://open.spotify.com/album/7HIaCsIoIIuQ4esSKYXCra"
       },
@@ -2988,7 +3010,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
@@ -3328,6 +3350,24 @@
       "duration_ms": 205845,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1fK8bMrjQ20w3NDT0IshK9"
+    },
+    {
+      "album": {
+        "name": "Dentist",
+        "url": "https://open.spotify.com/album/5ybb4IVuxfXtpQgPef5Hn1"
+      },
+      "artists": [
+        {
+          "name": "Wynand Fourie",
+          "url": "https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Dentist",
+      "url": "https://open.spotify.com/track/5orSTcyaQ4EtCo0FeGGNDC"
     },
     {
       "album": {
@@ -5370,7 +5410,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 237535,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
@@ -5936,6 +5976,24 @@
       "duration_ms": 166400,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3IFTcBFpRSB9GBg3cJzYmJ"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/1S0FdM7Wt1nbhDN8w4DAgO"
+      },
+      "artists": [
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3Y177MJnthrkMYWgrFpWWl"
     },
     {
       "album": {
@@ -6958,7 +7016,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 143963,
       "name": "John",
       "url": "https://open.spotify.com/track/5XtFrdf4ROu1heMoo8YeT9"
@@ -7228,7 +7286,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 134117,
       "name": "Kinky",
       "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
@@ -7550,6 +7608,28 @@
       "duration_ms": 189152,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4YJZnj5OIzKiMi8MFVyXRv"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/56yZWSBtrR9oshkgYISrt1"
+      },
+      "artists": [
+        {
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
+        },
+        {
+          "name": "LNDE",
+          "url": "https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/2sagXkEx5o7uCDYHUwkq7T"
     },
     {
       "album": {
@@ -8220,7 +8300,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 240750,
       "name": "Marmalade",
       "url": "https://open.spotify.com/track/4GcIVVpHpvZV87A1nvzwXv"
@@ -8894,7 +8974,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 187433,
       "name": "Nack Nostalgia",
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
@@ -9766,7 +9846,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 262736,
       "name": "ONE DAY",
       "url": "https://open.spotify.com/track/1eETWC9pqW7sC4ZfMlilCV"
@@ -10496,6 +10576,24 @@
       "duration_ms": 222696,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3Nc3IhJPmdqYMqjowHdD2y"
+    },
+    {
+      "album": {
+        "name": "Pretty in Pink",
+        "url": "https://open.spotify.com/album/3KjC9HYstPH2wXVIGot0zn"
+      },
+      "artists": [
+        {
+          "name": "Jak Tomas",
+          "url": "https://open.spotify.com/artist/0WEGcXbQtiSIRVtSuugRMs"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288663,
+      "name": "Pretty in Pink",
+      "url": "https://open.spotify.com/track/2n8CqxhP5mKEqjF630yGQ4"
     },
     {
       "album": {
@@ -11440,7 +11538,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183189,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
@@ -13505,6 +13603,24 @@
     },
     {
       "album": {
+        "name": "The Mother / Father Song",
+        "url": "https://open.spotify.com/album/2NWuBXpYEqqEfhz07x3lc0"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351151,
+      "name": "The Mother / Father Song",
+      "url": "https://open.spotify.com/track/1cYnR1uib1Ibpb7f8CcjKu"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -13905,6 +14021,24 @@
     },
     {
       "album": {
+        "name": "A Great Exchange",
+        "url": "https://open.spotify.com/album/6M6c0jstabGdNsfSDML9wI"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222260,
+      "name": "Time Traveller",
+      "url": "https://open.spotify.com/track/6nDR6GyqwYJ0w1Fya7tmEM"
+    },
+    {
+      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK"
       },
@@ -13974,6 +14108,28 @@
       "duration_ms": 220365,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "album": {
+        "name": "tongue-tied & starry-eyed",
+        "url": "https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        },
+        {
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193002,
+      "name": "tongue-tied & starry-eyed",
+      "url": "https://open.spotify.com/track/55zZv3cr8mySL0lqzg2Ic0"
     },
     {
       "album": {
@@ -14552,7 +14708,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153802,
       "name": "Vintage Style",
       "url": "https://open.spotify.com/track/7wYVpRWtrZ4pTIioaGID2R"
@@ -14917,6 +15073,28 @@
     },
     {
       "album": {
+        "name": "We're Alright",
+        "url": "https://open.spotify.com/album/4saH7xQGWXrY13Uppv637S"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "We're Alright",
+      "url": "https://open.spotify.com/track/0rfSD7r8fUFzHX2btj5Fa9"
+    },
+    {
+      "album": {
         "name": "We're on an Island, but it's the UK",
         "url": "https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt"
       },
@@ -15224,6 +15402,24 @@
       "duration_ms": 297011,
       "name": "Wild City",
       "url": "https://open.spotify.com/track/5ALBOB9JGa6dpkT1IQtktz"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
     },
     {
       "album": {

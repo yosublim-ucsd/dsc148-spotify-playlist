@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
+> This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,704 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,706 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 36 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 |
 | 37 | [You Are Awesome](https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 |
 | 38 | [Love Lifted Me](https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 7:40 |
-| 39 | [You're Everything](https://open.spotify.com/track/6eF1yPvD0BgmiXQlucDM8Q) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 12:17 |
-| 40 | [It Pushed Me](https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Zebulon Ellis](https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 4:27 |
+| 39 | [It Pushed Me](https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Zebulon Ellis](https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 4:27 |
+| 40 | [You're Everything](https://open.spotify.com/track/6eF1yPvD0BgmiXQlucDM8Q) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 12:17 |
 | 41 | [Miracle is You \(feat\. Kymberli Joye\)](https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Kymberli Joye](https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 8:54 |
 | 42 | [It Will Always Be You \(feat\. Shavance Stephens, Leah Leach & Mav City Gospel Choir\)](https://open.spotify.com/track/6TbZNuPoUug1bpviurkKlH) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Leah Leach](https://open.spotify.com/artist/2jm2SBvvg6DQbnYLKIBOFi), [Shavance Stephens](https://open.spotify.com/artist/5kpvwgzWJwAVV2EfuoLv3H), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 8:10 |
 | 43 | [Everything Is Changed \- Live](https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 |
 | 50 | [All You've Done \(feat\. Cristabel Clack\)](https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 7:01 |
 
-Snapshot ID: `ZsvFgAAAAACFqmlRW8NM7V0GwEIKJE6x`
+Snapshot ID: `Zs5ogAAAAABaWfXW3g1tkh4M6mNO7uI0`

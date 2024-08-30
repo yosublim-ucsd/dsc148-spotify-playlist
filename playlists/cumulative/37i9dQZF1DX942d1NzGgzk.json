@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Elmiene",
+  "description": "100% British - 100% R&B. Cover: Dayo Bello",
   "name": "R&B UK",
   "tracks": [
     {
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "A Penny For Your Thoughts",
+        "url": "https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Back n Forth",
+      "url": "https://open.spotify.com/track/0pbBTuySY92aX82pNLcOxS"
+    },
+    {
+      "album": {
         "name": "Bag Of You",
         "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
       },
@@ -456,6 +474,24 @@
       "duration_ms": 180000,
       "name": "Before the World Ends",
       "url": "https://open.spotify.com/track/75PPriKhCpWpwxlT77byRK"
+    },
+    {
+      "album": {
+        "name": "Bending My Rules",
+        "url": "https://open.spotify.com/album/5g2IcWk7Deec3sOrtDiwk9"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224605,
+      "name": "Bending My Rules",
+      "url": "https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb"
     },
     {
       "album": {
@@ -782,6 +818,24 @@
       "duration_ms": 183779,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/0UoXbt3i1BiUmtFn8KbDFE"
+    },
+    {
+      "album": {
+        "name": "Chat",
+        "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139413,
+      "name": "Chat",
+      "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
     },
     {
       "album": {
@@ -2354,7 +2408,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
@@ -3002,7 +3056,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 185800,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
@@ -3361,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "No Bad Energy",
+        "url": "https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN"
+      },
+      "artists": [
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "No Bad Energy",
+      "url": "https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt"
+    },
+    {
+      "album": {
         "name": "no cinderella",
         "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
       },
@@ -3484,7 +3556,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 225760,
       "name": "Nothing On You",
       "url": "https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7"
@@ -4712,7 +4784,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 251894,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"

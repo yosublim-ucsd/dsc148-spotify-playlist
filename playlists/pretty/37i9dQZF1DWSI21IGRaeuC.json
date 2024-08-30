@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 38925,
+  "num_followers": 38982,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Jam Is Pumping EP",
+        "url": "https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Jam Is Pumping",
+      "url": "https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Weeping Willow",
         "url": "https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 330000,
       "name": "OSSAB",
       "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Jam Is Pumping EP",
-        "url": "https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Jam Is Pumping",
-      "url": "https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "ROCK THIS",
+        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "ROCK THIS",
+      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Un Beso",
         "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Movimiento",
-        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
+        "name": "Get Jiggy",
+        "url": "https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb"
       },
       "artists": [
         {
-          "name": "GiGi FM",
-          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+          "name": "EVIE (UK)",
+          "url": "https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ"
         }
       ],
-      "duration_ms": 333913,
-      "name": "Tempelhof",
-      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
+      "duration_ms": 332307,
+      "name": "Get Jiggy",
+      "url": "https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "duration_ms": 333913,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Wyle Up",
         "url": "https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX"
       },
@@ -1567,6 +1583,26 @@
       "duration_ms": 150644,
       "name": "Wyle Up",
       "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        },
+        {
+          "name": "Moonage",
+          "url": "https://open.spotify.com/artist/7tRAjkMKLsYQpzjcDgj34b"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1591,26 +1627,6 @@
       "duration_ms": 342623,
       "name": "Break Down - Dennis Cruz Remix",
       "url": "https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        },
-        {
-          "name": "Moonage",
-          "url": "https://open.spotify.com/artist/7tRAjkMKLsYQpzjcDgj34b"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd"
-      },
-      "artists": [
-        {
-          "name": "Chicks Luv Us",
-          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
-        }
-      ],
-      "duration_ms": 405586,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4VvCoy9PDFq3Y8E2XONvf5"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "without you",
         "url": "https://open.spotify.com/album/05maWYabu665iJoxUOxDHB"
       },
@@ -1703,6 +1703,38 @@
       "duration_ms": 336350,
       "name": "without you",
       "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd"
+      },
+      "artists": [
+        {
+          "name": "Chicks Luv Us",
+          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
+        }
+      ],
+      "duration_ms": 405586,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4VvCoy9PDFq3Y8E2XONvf5"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1727,38 +1759,6 @@
       "duration_ms": 178605,
       "name": "Velocity Funk",
       "url": "https://open.spotify.com/track/1U4LSGPscy17he2EXME0p7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm"
-      },
-      "artists": [
-        {
-          "name": "Jack Orley",
-          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Get Jiggy",
-        "url": "https://open.spotify.com/album/3blQTlvr2R5qeJzTaBCkBb"
-      },
-      "artists": [
-        {
-          "name": "EVIE (UK)",
-          "url": "https://open.spotify.com/artist/6TZ1sUeiF3vUvOeGcFOFVJ"
-        }
-      ],
-      "duration_ms": 332307,
-      "name": "Get Jiggy",
-      "url": "https://open.spotify.com/track/7BblhpOcUhX30R3mgDNC9U"
     },
     {
       "added_at": "2024-08-23 04:00:00",

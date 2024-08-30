@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Die Sonne so rot",
+        "url": "https://open.spotify.com/album/16HTEGFyHA4ZfEBSFKMxsx"
+      },
+      "artists": [
+        {
+          "name": "Fortuna Ehrenfeld",
+          "url": "https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166562,
+      "name": "Die Sonne so rot",
+      "url": "https://open.spotify.com/track/6U3YQb3ND36MsLicrwyl70"
+    },
+    {
+      "album": {
         "name": "Du kriegst mich nicht zur\u00fcck",
         "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
       },
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 157000,
       "name": "Durch den Monsun (Elena Rud Cover)",
       "url": "https://open.spotify.com/track/5bWU2SWXoFSU1TskXce1HA"
@@ -504,7 +522,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172944,
       "name": "engelboy",
       "url": "https://open.spotify.com/track/2jWBGilGMh7CdrcvtDdU6t"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 193885,
       "name": "Hot Maus Summer",
       "url": "https://open.spotify.com/track/6Wga3bfIC8lNvodrpxQpGn"
@@ -1271,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Nie wieder ist jetzt",
+        "url": "https://open.spotify.com/album/4QX3K6sJ3vNvZNfkXoNCtw"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184598,
+      "name": "Partisanen",
+      "url": "https://open.spotify.com/track/0rFqdzkjyeybcZ9NmVsXpL"
+    },
+    {
+      "album": {
         "name": "Pirdutu cori",
         "url": "https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD"
       },
@@ -1524,6 +1560,24 @@
       "duration_ms": 174362,
       "name": "Tr\u00fcmmer dieser Stadt",
       "url": "https://open.spotify.com/track/0vxI7mHy0uxIq70kLwUeEJ"
+    },
+    {
+      "album": {
+        "name": "Universal Punks Fuck Off",
+        "url": "https://open.spotify.com/album/2XQ9wU3DnW0t6ZVgE7xzSp"
+      },
+      "artists": [
+        {
+          "name": "SAL\u00d2",
+          "url": "https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146761,
+      "name": "Universal Punks Fuck Off",
+      "url": "https://open.spotify.com/track/4pTsMAjb2XWTPbpVfUddop"
     },
     {
       "album": {

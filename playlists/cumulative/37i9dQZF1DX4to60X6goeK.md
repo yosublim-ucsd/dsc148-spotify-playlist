@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Mozey
 
-250 songs - 16 hr 43 min
+251 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Lapse](https://open.spotify.com/track/6rduLWfZ32SDJLco9Pb4jr) | [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Lapse](https://open.spotify.com/album/7HcZT4FVS2BdGJIr7FfWPB) | 4:12 | 2024-03-22 | 2024-07-07 |
 | [Laser](https://open.spotify.com/track/6A8xdDCg9ZXX7ixqADU4Sp) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Let's Play](https://open.spotify.com/album/2bnmP4Sddqbmx5YqRTeKDt) | 4:11 | 2022-05-06 | 2022-07-28 |
 | [Last Time](https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Last Time](https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D) | 3:21 | 2022-05-06 |  |
+| [Let It Go](https://open.spotify.com/track/2AN5GEOr0gtyIGL0X2UXW3) | [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3) | [Slappuccino](https://open.spotify.com/album/14OvnNAtyRE8uQKBar8JzK) | 4:26 | 2024-08-30 |  |
 | [Let You Go](https://open.spotify.com/track/13UCK8NNturjjCdAweLwGa) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go](https://open.spotify.com/album/3p79c5Eixp07HMYxzDVwBi) | 3:44 | 2022-05-06 | 2022-07-29 |
 | [Let You Go](https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go EP](https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D) | 3:44 | 2022-06-20 | 2023-09-22 |
 | [Liars](https://open.spotify.com/track/3OCaoefS1DjvXBDfgZVBzt) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Liars](https://open.spotify.com/album/1FWxwqiXpKfCqpXOnHtiq4) | 4:04 | 2023-12-27 | 2024-01-12 |
@@ -255,7 +256,7 @@
 | [Wormhole](https://open.spotify.com/track/7v7IWGh1UAEHkra1zU6y0N) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Wormhole](https://open.spotify.com/album/66jXMpsvOHiBibx3pcp4uk) | 3:49 | 2023-12-27 | 2024-01-12 |
 | [WORRY](https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [WORRY](https://open.spotify.com/album/1ezsJZwtpUEi2a9WIYMbai) | 3:36 | 2022-05-06 | 2023-08-17 |
 | [Yeah Boi](https://open.spotify.com/track/2ehFv6rdhCW1tqrSiMeP1J) | [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Yeah Boi](https://open.spotify.com/album/3y7T1xHlf94vLD2qJy5be6) | 4:31 | 2022-05-06 | 2022-07-29 |
-| [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 | 2022-05-06 |  |
+| [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 | 2022-05-06 | 2024-08-30 |
 | [You & I \- Dr Meaker Remix](https://open.spotify.com/track/0naOpRxH1GlpIEH7lK591x) | [Dr Meaker](https://open.spotify.com/artist/2Tz73u31G8f4nUjtPOketU), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [You & I \(Dr Meaker Remix\)](https://open.spotify.com/album/4o8itsvPaaqPNSNqTZEKaM) | 4:46 | 2022-05-06 | 2022-07-25 |
 | [You Asked](https://open.spotify.com/track/19W4tAp35EecfU0yC4ruby) | [Niterider](https://open.spotify.com/artist/6YH1oeqKTMfugLwF13U5Yb) | [Henry's Finest](https://open.spotify.com/album/3W3C9cC6vDvDv2CI46kmEP) | 4:23 | 2022-05-06 | 2022-07-23 |
 

@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Krizbeatz
 
-638 songs - 1 day 7 hr 41 min
+639 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Manifest \(My Prayer\)](https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Manifest \(My Prayer\)](https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu) | 2:41 | 2024-01-26 | 2024-04-27 |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 | 2023-06-03 |
 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 | 2022-08-25 | 2023-09-15 |
-| [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2024-08-15 |  |
+| [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2024-08-15 | 2024-08-30 |
 | [Maria](https://open.spotify.com/track/1XUxwqxspZJOOrFJQvTcvn) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Maria](https://open.spotify.com/album/2x8mPFCuEGUGkQuGIdQhYV) | 2:09 | 2023-07-20 | 2023-09-29 |
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2021-12-02 | 2022-07-23 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 | 2024-06-28 |
@@ -384,6 +384,7 @@
 | [Milele](https://open.spotify.com/track/0y2qVXYOckABR6ZJT5QiYs) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Milele](https://open.spotify.com/album/1l6eZ2RICsffC8CKNJbuWn) | 3:24 | 2021-10-14 | 2022-03-04 |
 | [Miniskirt \- Remix](https://open.spotify.com/track/5jP4KOemrliC4wgExGkgBg) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Miniskirt \(Remix\)](https://open.spotify.com/album/0miuahO6ByhPG1biEV4Gem) | 2:36 | 2022-07-22 | 2022-07-25 |
 | [Minor Notes](https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 2:56 | 2021-10-14 | 2022-07-27 |
+| [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 | 2024-08-29 |  |
 | [Money For Hand](https://open.spotify.com/track/0vmB4AeK2fdL0kRnCfB0O3) | [Ade James](https://open.spotify.com/artist/39EFuDa5XKCmoh09xK0687), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Money For Hand](https://open.spotify.com/album/2CVxaCbqnviwpLhqw0w4Pl) | 2:54 | 2022-01-13 | 2022-03-01 |
 | [More](https://open.spotify.com/track/0FYmBLrrsrVzUHUIeof0Wu) | [Dumomi the Jig](https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw) | [More](https://open.spotify.com/album/5AOkntTGdK2nMGvQjk8IM0) | 3:03 | 2024-01-19 | 2024-01-24 |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-03-31 |

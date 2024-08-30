@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Papa V sulla cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "La playlist urban pi\u00f9 grande in Italia \ud83d\udd25 Cover: Cosang",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -2675,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203399,
+      "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
+      "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
+    },
+    {
+      "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
       },
@@ -5012,7 +5034,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 129798,
       "name": "gRaZie A Dio",
       "url": "https://open.spotify.com/track/0NUzLcrkkXeztSVlJYHOug"
@@ -8635,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Nun \u00e8 mai fernut",
+      "url": "https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA"
+    },
+    {
+      "album": {
         "name": "O primm post",
         "url": "https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4"
       },
@@ -8646,7 +8686,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230399,
       "name": "O primm post",
       "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
@@ -9450,6 +9490,28 @@
       "duration_ms": 154382,
       "name": "Per Un Fra (feat. Ernia)",
       "url": "https://open.spotify.com/track/0HDzbi541smhqa0MmgXP27"
+    },
+    {
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Perdere \u2018a capa (feat. Geolier)",
+      "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
     },
     {
       "album": {

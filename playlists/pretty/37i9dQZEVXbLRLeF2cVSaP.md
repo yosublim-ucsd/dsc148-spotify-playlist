@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,575 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,582 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 |
 | 50 | [далеко \(большой Бушизм\) \[prod\. by wex & heysubr\]](https://open.spotify.com/track/5n0HWIOT3UoScVThrRkH4k) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [далеко \(большой Бушизм\) \[prod\. by wex & heysubr\]](https://open.spotify.com/album/3KXxUj15lVB5qolvUReTWB) | 1:47 |
 
-Snapshot ID: `LmKN8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmPfcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

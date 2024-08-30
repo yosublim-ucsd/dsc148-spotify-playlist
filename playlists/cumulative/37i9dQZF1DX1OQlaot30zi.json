@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Tony Boy, Cosang, Kassimi e tanti altri! \ud83d\udd25",
+  "description": "Sempre aggiornata. Con nuovi brani di  Cosang, Rondodasosa Shiva e tanti altri! \ud83d\udd25",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -2482,6 +2482,28 @@
       "duration_ms": 150638,
       "name": "4U",
       "url": "https://open.spotify.com/track/6TV4UxrKTqf5lDBUZOfAKY"
+    },
+    {
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/391J3aAlf22fuHzHSoRokv"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        },
+        {
+          "name": "Skinny Flex",
+          "url": "https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180943,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/54j9WqGM5qQQAaO58tTsB6"
     },
     {
       "album": {
@@ -5778,7 +5800,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 116635,
       "name": "ANCORA",
       "url": "https://open.spotify.com/track/318Lp6wsrkOlnrsmiJ0CC1"
@@ -12517,6 +12539,28 @@
     },
     {
       "album": {
+        "name": "BUCHI NELLE MANI",
+        "url": "https://open.spotify.com/album/4s76CoES20YjGNfKErFllX"
+      },
+      "artists": [
+        {
+          "name": "Leason",
+          "url": "https://open.spotify.com/artist/0QfwK3DIqIrM8Tkfoy07gW"
+        },
+        {
+          "name": "Numb",
+          "url": "https://open.spotify.com/artist/5bUHBfTc6qLd5CuYzxh7Wg"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "BUCHI NELLE MANI",
+      "url": "https://open.spotify.com/track/15ag7dSgVHXnfZsNzN6gmG"
+    },
+    {
+      "album": {
         "name": "Buchi nelle tasche",
         "url": "https://open.spotify.com/album/6A0yMuY1axvU3xt2pDVdiK"
       },
@@ -14048,7 +14092,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 176202,
       "name": "CANI SCIOLTI",
       "url": "https://open.spotify.com/track/5m36GsBQD2L8aYmXoU6lZB"
@@ -14645,6 +14689,24 @@
     },
     {
       "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Carne e ossa",
+      "url": "https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0"
+    },
+    {
+      "album": {
         "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
         "url": "https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6"
       },
@@ -14668,6 +14730,50 @@
       "duration_ms": 244363,
       "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
       "url": "https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2"
+    },
+    {
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235999,
+      "name": "Carnicero (feat. Marracash)",
+      "url": "https://open.spotify.com/track/09N44sKefn4X4D5M0rkpod"
+    },
+    {
+      "album": {
+        "name": "Caronte",
+        "url": "https://open.spotify.com/album/59JcQVeKQMeMBTYtlM94mV"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        },
+        {
+          "name": "AJ AJ",
+          "url": "https://open.spotify.com/artist/6Nk7pVYQU3SKDYQAKZwUSo"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145749,
+      "name": "Caronte",
+      "url": "https://open.spotify.com/track/41X5gG92MkQ0gS0NvQsPrs"
     },
     {
       "album": {
@@ -15426,6 +15532,28 @@
       "duration_ms": 165625,
       "name": "Cazzi Nostri (feat. Goosie, Sayonike, dolcedormire & Ombra)",
       "url": "https://open.spotify.com/track/5aL8ctNoQD8Y4Hs70QphZW"
+    },
+    {
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203399,
+      "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
+      "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
     },
     {
       "album": {
@@ -30343,6 +30471,24 @@
     },
     {
       "album": {
+        "name": "GANGSTER",
+        "url": "https://open.spotify.com/album/3HHkW4nvIEJUFrgL35gxoc"
+      },
+      "artists": [
+        {
+          "name": "Chevro",
+          "url": "https://open.spotify.com/artist/0FDGYBU7YOslhGkMS2F0pE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "GANGSTER",
+      "url": "https://open.spotify.com/track/0WQfS84B2kMPSaTWo6onXm"
+    },
+    {
+      "album": {
         "name": "Gargoyle",
         "url": "https://open.spotify.com/album/2WbSa7vuVgGS6aVla0jF4D"
       },
@@ -40961,6 +41107,24 @@
     },
     {
       "album": {
+        "name": "La Zona",
+        "url": "https://open.spotify.com/album/7If6WbEIz4niL6sNZhOPvn"
+      },
+      "artists": [
+        {
+          "name": "yunghope",
+          "url": "https://open.spotify.com/artist/2nX5b035Z6l7lSSwZxQhTO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "La Zona",
+      "url": "https://open.spotify.com/track/7bvG4zUsqx8Sc4KcVBBXYa"
+    },
+    {
+      "album": {
         "name": "La Zona (feat. N\u00e9za, ASHE 22 & 3dnan)",
         "url": "https://open.spotify.com/album/69mTgcq0CndvT7lb7Iatnw"
       },
@@ -41032,6 +41196,32 @@
       "duration_ms": 157361,
       "name": "Lacoste 3",
       "url": "https://open.spotify.com/track/3yC4Kyj5a9VHGzxkXjJpqA"
+    },
+    {
+      "album": {
+        "name": "EP 6/1 (feat. Il Ghost)",
+        "url": "https://open.spotify.com/album/6jtx7VB5LK5hvlbmpqTU6M"
+      },
+      "artists": [
+        {
+          "name": "Real Talk",
+          "url": "https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW"
+        },
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "88FRNK",
+          "url": "https://open.spotify.com/artist/04cFnriB4cnMK2pjOvOZNk"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74500,
+      "name": "LACOSTE COMPLETO BIANCO (feat. Il Ghost & 88FRNK)",
+      "url": "https://open.spotify.com/track/3SdYUMe3lQje60KOW7r7r5"
     },
     {
       "album": {
@@ -43594,7 +43784,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 84049,
       "name": "LONTANO DALLA VISTA",
       "url": "https://open.spotify.com/track/4d77A9X1TKsxT76sf9L4S5"
@@ -45649,6 +45839,28 @@
     },
     {
       "album": {
+        "name": "Maledetta Italia",
+        "url": "https://open.spotify.com/album/2USf2BTFNGHHZ9a2SOOCEm"
+      },
+      "artists": [
+        {
+          "name": "Danti",
+          "url": "https://open.spotify.com/artist/4zAJfp9POACU7sGK8EoMrl"
+        },
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177419,
+      "name": "Maledetta Italia",
+      "url": "https://open.spotify.com/track/1FsPik3eEWov4KMt3xgO8d"
+    },
+    {
+      "album": {
         "name": "Maledette vie",
         "url": "https://open.spotify.com/album/6XPdshvT5iqqposfyo5ndb"
       },
@@ -46384,6 +46596,24 @@
       "duration_ms": 274500,
       "name": "Manchi solo tu",
       "url": "https://open.spotify.com/track/3dMyOpfVug1nDRpVZj5yPN"
+    },
+    {
+      "album": {
+        "name": "Mandante",
+        "url": "https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Mandante",
+      "url": "https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn"
     },
     {
       "album": {
@@ -48362,7 +48592,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 157741,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/1GJHorVM7DiuJuEHJzXyGW"
@@ -51180,6 +51410,28 @@
       "duration_ms": 135277,
       "name": "Mood Blu",
       "url": "https://open.spotify.com/track/0ayXlzf3J7QqeHw8bsSSdd"
+    },
+    {
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/6FMnMUCNAvqERdOzbA5m5X"
+      },
+      "artists": [
+        {
+          "name": "MACO",
+          "url": "https://open.spotify.com/artist/2sNh3ElkkBXenarDv2TfiM"
+        },
+        {
+          "name": "JOSH",
+          "url": "https://open.spotify.com/artist/5KFi2oXqe2TnLKpaUXq6Zt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/2Uy3j45nV0XY1TUZ4hDnNd"
     },
     {
       "album": {
@@ -55674,7 +55926,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152915,
       "name": "NRG",
       "url": "https://open.spotify.com/track/2XEDTm1bK5fq2sR2DjDvQ4"
@@ -55872,6 +56124,24 @@
       "duration_ms": 158666,
       "name": "NUN SE VER (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/2Buy0H2VxXZ8bmTp1fH5UA"
+    },
+    {
+      "album": {
+        "name": "Nun Spart\u00ec a Furtun",
+        "url": "https://open.spotify.com/album/5wZRgkUPSZ0iXD8YxZCVHd"
+      },
+      "artists": [
+        {
+          "name": "Lina Simons",
+          "url": "https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Nun Spart\u00ec a Furtun",
+      "url": "https://open.spotify.com/track/6qEflsLNK1PGsfOWNbfbVB"
     },
     {
       "album": {
@@ -56264,7 +56534,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230399,
       "name": "O primm post",
       "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
@@ -63567,6 +63837,24 @@
     },
     {
       "album": {
+        "name": "PRIVACY",
+        "url": "https://open.spotify.com/album/0wKSeHwIgMXbpBrPCXDZ4a"
+      },
+      "artists": [
+        {
+          "name": "Remi",
+          "url": "https://open.spotify.com/artist/5oqQu2oWnZZPoDEOABFD0Q"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "PRIVACY",
+      "url": "https://open.spotify.com/track/0ZcUnaiVm9vJ4ZgFrO9GsS"
+    },
+    {
+      "album": {
         "name": "MESSIA",
         "url": "https://open.spotify.com/album/1NY3CkX3Jahf4nKfBrF4LO"
       },
@@ -64933,6 +65221,32 @@
     },
     {
       "album": {
+        "name": "QUELLI COME ME (feat. 22simba)",
+        "url": "https://open.spotify.com/album/46Af4ep7IeeIUflOxN55RO"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157994,
+      "name": "QUELLI COME ME (feat. 22simba)",
+      "url": "https://open.spotify.com/track/1c56eVvDJVlDAq0rabjKCb"
+    },
+    {
+      "album": {
         "name": "QUELLO CHE HO",
         "url": "https://open.spotify.com/album/1ysRGJ2FlscSKragAzfgdV"
       },
@@ -65926,7 +66240,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152168,
       "name": "Re di Cuori",
       "url": "https://open.spotify.com/track/2YCXfySVOpRrxurUCOFgpC"
@@ -73215,6 +73529,24 @@
     },
     {
       "album": {
+        "name": "SOLITAIRE",
+        "url": "https://open.spotify.com/album/09KddUqgsGGDveqCIfZS9M"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170935,
+      "name": "SOLITAIRE",
+      "url": "https://open.spotify.com/track/2q1Nfj4SjeE9MeC1zMdy2l"
+    },
+    {
+      "album": {
         "name": "Solito posto, Soliti guai",
         "url": "https://open.spotify.com/album/62vlebjF60YzjJoKlqdvKP"
       },
@@ -74734,7 +75066,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 157611,
       "name": "Sta Piovendo",
       "url": "https://open.spotify.com/track/2KwpMzhi4rAhusIbrj5OLU"
@@ -79188,7 +79520,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 151071,
       "name": "TOOTHGEM (4ever)",
       "url": "https://open.spotify.com/track/6FTcWxKTqQZFhkl3g3v5Oe"
@@ -81936,7 +82268,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 171704,
       "name": "Una vita in tour",
       "url": "https://open.spotify.com/track/5Q8k0207JgvCr8WlNbugrx"
@@ -82412,7 +82744,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 123000,
       "name": "VaLiGeTTa GiaLLa",
       "url": "https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs"
@@ -83604,6 +83936,24 @@
       "duration_ms": 172008,
       "name": "VITA BONA",
       "url": "https://open.spotify.com/track/3uPQ50wPnayE3ac7sa5x7I"
+    },
+    {
+      "album": {
+        "name": "Vita Contata",
+        "url": "https://open.spotify.com/album/0weiQQroO65UCLCT7OWpZm"
+      },
+      "artists": [
+        {
+          "name": "Axhel",
+          "url": "https://open.spotify.com/artist/2nJ3EwyH5Hn4u8uttzavm4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Vita Contata",
+      "url": "https://open.spotify.com/track/0O0V7Uk4jb9AVHfP9jod20"
     },
     {
       "album": {

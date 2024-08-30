@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Cikey",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Arma Jackson",
   "name": "le miel",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 190843,
       "name": "21 questions",
       "url": "https://open.spotify.com/track/30CBJnKLRMP8uRXNqMfsDW"
+    },
+    {
+      "album": {
+        "name": "A quoi on joue ?",
+        "url": "https://open.spotify.com/album/0hICOSl2tqgLqvR8p1fLeL"
+      },
+      "artists": [
+        {
+          "name": "Sev7en",
+          "url": "https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173791,
+      "name": "A quoi on joue ?",
+      "url": "https://open.spotify.com/track/1ypcBViKKuS0UjHphXw6JK"
     },
     {
       "album": {
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154105,
       "name": "FEU",
       "url": "https://open.spotify.com/track/4QgD0HU3APilEvKMGtKWWi"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 161333,
       "name": "Get out",
       "url": "https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx"
@@ -1909,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Ma Ch\u00e8re Michelle",
+        "url": "https://open.spotify.com/album/6TcfCEGkswjcg8s98Bp2lM"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78648,
+      "name": "Ma Ch\u00e8re Michelle",
+      "url": "https://open.spotify.com/track/7yeLUEtDLYWffUWc9yt5Wn"
+    },
+    {
+      "album": {
         "name": "Ma Go",
         "url": "https://open.spotify.com/album/6uzWRdxMpk51b2f1QjI5iA"
       },
@@ -2062,7 +2098,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 195226,
       "name": "Message pour son ex",
       "url": "https://open.spotify.com/track/4IvQd50r5HC3iG7ogwHHvf"
@@ -2488,6 +2524,24 @@
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/5i4zyH9dQFUPtSSmtdjTom"
+      },
+      "artists": [
+        {
+          "name": "Mee Shel",
+          "url": "https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/2PSLcpysXnCNwCsf5WB5zz"
     },
     {
       "album": {

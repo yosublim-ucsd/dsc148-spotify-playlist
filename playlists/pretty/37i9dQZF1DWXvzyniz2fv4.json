@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158299,
+  "num_followers": 158298,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+        "name": "De Longe. (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+      "duration_ms": 206549,
+      "name": "De Longe. - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -499,22 +515,6 @@
       "duration_ms": 310153,
       "name": "RIMAR 10 - Ondas Tropicais",
       "url": "https://open.spotify.com/track/1E2UfbGwjU0GZMiClR9LZl"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
-        "name": "De Longe. (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 206549,
-      "name": "De Longe. - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -823,38 +823,6 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
-        "name": "DOUTOR",
-        "url": "https://open.spotify.com/album/4qVtkOVXvzzLV2JFR7eqT2"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 168976,
-      "name": "DOUTOR",
-      "url": "https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
-        "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
-        "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        }
-      ],
-      "duration_ms": 163530,
-      "name": "T\u00c1 FAZENDO OQ?",
-      "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
+        "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
+        "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "duration_ms": 163530,
+      "name": "T\u00c1 FAZENDO OQ?",
+      "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
+        "name": "DOUTOR",
+        "url": "https://open.spotify.com/album/4qVtkOVXvzzLV2JFR7eqT2"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 168976,
+      "name": "DOUTOR",
+      "url": "https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -903,34 +903,6 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
-        "name": "50 Tons De Um Sentimento",
-        "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
-      },
-      "artists": [
-        {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Boa Noite Mo\u00e7a",
-      "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -955,6 +927,34 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
+        "name": "50 Tons De Um Sentimento",
+        "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Boa Noite Mo\u00e7a",
+      "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Mad\u00e1",
-          "url": "https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 161022,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -1171,6 +1151,46 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Mad\u00e1",
+          "url": "https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 161022,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
+        "name": "Girl From Ipanema",
+        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "NSFS",
+          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -1235,26 +1255,6 @@
       "duration_ms": 168960,
       "name": "De F\u00e9rias Com O WEY",
       "url": "https://open.spotify.com/track/44gLlJcTjyTRJ2KFip1I6r"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
-        "name": "Girl From Ipanema",
-        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "NSFS",
-          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
     },
     {
       "added_at": "2024-08-09 19:04:27",

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-727 songs - 2 day 4 hr 0 min
+729 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Charanga](https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC), [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Charanga](https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe) | 4:26 | 2023-12-12 |  |
 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 | 2022-11-25 | 2024-06-09 |
 | [Chasin](https://open.spotify.com/track/7c0hcOEQSi62Jdd98q59aI) | [Olumo Soundz](https://open.spotify.com/artist/1poZ5uHaXqaGiPV70IWi0l) | [U.N\. \(United Nonsense\)](https://open.spotify.com/album/1fhkaWXCAmwhEVlSbTXIKF) | 7:58 | 2021-12-10 | 2022-07-27 |
-| [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 | 2022-11-18 |  |
+| [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 | 2022-11-18 | 2024-08-30 |
 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-06 |  |
 | [Circular Movimento](https://open.spotify.com/track/0JQM8wWBFFjgy2iLCA0llY) | [Marsa](https://open.spotify.com/artist/4E5ZAqaEK4WnZJ9gZmXO50) | [Circular Movimento](https://open.spotify.com/album/52EVAjzv30WIEr9J3utCas) | 4:27 | 2021-12-10 | 2022-04-17 |
 | [Coffee](https://open.spotify.com/track/6LqOYg4N0usYg21XdkaJeE) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Coffee](https://open.spotify.com/album/5KlvWHbWKpmUHI8YiF5fZV) | 3:35 | 2021-10-06 | 2022-07-15 |
@@ -150,6 +150,7 @@
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2021-10-06 | 2022-06-27 |
 | [Day By Day](https://open.spotify.com/track/2nJTbCUSqva9qCjLFFQJhu) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Day By Day](https://open.spotify.com/album/48n17knZcV17EROw3ndSRm) | 4:55 | 2021-10-06 | 2022-07-01 |
 | [Ddoje Facce](https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:21 | 2021-10-06 |  |
+| [De Allí Pa'llá](https://open.spotify.com/track/7xRDAQFUvtSW4YIGFXS3Hz) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 6:30 | 2024-08-29 |  |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-10-06 | 2022-04-18 |
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2022-09-12 | 2022-12-06 |
 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 | 2024-03-05 |  |
@@ -356,6 +357,7 @@
 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 | 2023-03-22 | 2023-05-13 |
 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2021-10-06 |  |
 | [La Fibra Humana \- Instrumental](https://open.spotify.com/track/4a5gvEMnfw3OIRmQYyykY1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando Instrumental](https://open.spotify.com/album/47OSRvZFU2wRfQy0UX68Xa) | 5:27 | 2021-10-06 | 2022-04-20 |
+| [La Franca](https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 3:18 | 2024-08-29 |  |
 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 |  |
 | [La Negra](https://open.spotify.com/track/7tUhh4MxnkgNvasB6ZxlAu) | [Hektombe](https://open.spotify.com/artist/1IJq0H8jAxPSeGSh2q0jPK) | [La Negra](https://open.spotify.com/album/7mzcTL8cKCD6uJ9lmXeIlf) | 5:59 | 2021-10-06 | 2022-04-19 |
 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2021-10-06 | 2022-07-19 |
@@ -396,7 +398,7 @@
 | [Magica Nueva](https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm) | 3:19 | 2021-10-06 | 2022-04-21 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-03-05 |  |
 | [Make It Right](https://open.spotify.com/track/0KjwYVDuTHrfN36XSWEQc5) | [Johnny!](https://open.spotify.com/artist/0qdofS3PCyg0WmhycmvnYk) | [Make It Right](https://open.spotify.com/album/1d99bHzvTbXCiTyqyuWMK8) | 4:00 | 2021-10-06 | 2022-07-18 |
-| [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 | 2021-10-06 |  |
+| [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 | 2021-10-06 | 2024-08-30 |
 | [Makhafi](https://open.spotify.com/track/5IHUtO6caNT23Al1oyRAYh) | [Jantra](https://open.spotify.com/artist/3MxZN1bBa3Skcr8qR22mNN) | [Makhafi](https://open.spotify.com/album/4JvXYvW1OSHQY5smCvNtOt) | 5:19 | 2023-06-16 | 2023-07-19 |
 | [Makom Ma Bobe](https://open.spotify.com/track/6f4DXvuDxaFn0cjkKJzrsr) | [Jeannette Ndiaye](https://open.spotify.com/artist/2trDKGvhEsWjDTHlELK7Mw) | [Makom Ma Bobe](https://open.spotify.com/album/5vg3VkyG1kDVrAq0owk2bn) | 4:27 | 2021-10-06 | 2022-07-13 |
 | [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 | 2022-01-14 | 2023-08-08 |

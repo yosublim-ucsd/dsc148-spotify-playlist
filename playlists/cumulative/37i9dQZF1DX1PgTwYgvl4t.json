@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "Labisi",
+          "url": "https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "Alpha And Omega (feat. Labisi)",
+      "url": "https://open.spotify.com/track/2Jnd6Dh738gaUcRzSAbzNu"
+    },
+    {
+      "album": {
         "name": "Anytime Anyday",
         "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
       },
@@ -787,6 +809,28 @@
     },
     {
       "album": {
+        "name": "i WoRsHiP - Live",
+        "url": "https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV"
+      },
+      "artists": [
+        {
+          "name": "Promise Benson",
+          "url": "https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28"
+        },
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428760,
+      "name": "i WoRsHiP - Live",
+      "url": "https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf"
+    },
+    {
+      "album": {
         "name": "Imela",
         "url": "https://open.spotify.com/album/1t9RvjiXTXN79Fp1gPHenK"
       },
@@ -860,6 +904,24 @@
       "duration_ms": 337711,
       "name": "Kadosh (Live)",
       "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
+    },
+    {
+      "album": {
+        "name": "Lead Me",
+        "url": "https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386000,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8"
     },
     {
       "album": {

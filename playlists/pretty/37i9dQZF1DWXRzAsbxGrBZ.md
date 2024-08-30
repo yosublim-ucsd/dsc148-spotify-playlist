@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,257 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,332 likes - 50 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 16 | [Can't Give Up Now \(feat\. EarfulSoul\)](https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Can't Give Up Now \(EarfulSoul\)](https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO) | 7:26 |
 | 17 | [Unprepared](https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e) | [Zinyo](https://open.spotify.com/artist/2vk3zvWovQVzknMW3HREjV), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Unprepared](https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3) | 6:45 |
 | 18 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
-| 19 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
-| 20 | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ) | 1:04:10 |
+| 19 | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ) | 1:04:10 |
+| 20 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
 | 21 | [Jewels](https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 7:20 |
 | 22 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
 | 23 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |

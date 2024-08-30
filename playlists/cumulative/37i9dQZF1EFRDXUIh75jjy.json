@@ -1885,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "THESE ARE THE DAYS",
+        "url": "https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        },
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "IT'S ALL GOOD",
+      "url": "https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS"
+    },
+    {
+      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-723 songs - 1 day 12 hr 32 min
+724 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2022-04-01 |  |
 | [La Alegria](https://open.spotify.com/track/3FG4LCZZH7QfcuneE9wt1L) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Lindal](https://open.spotify.com/artist/2gvjdkmKWJUbFdmAFBQVeR) | [La Alegria](https://open.spotify.com/album/1vH5vMokULPAClIkKZ5Vzv) | 2:31 | 2022-12-23 | 2024-01-03 |
 | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T) | 2:17 | 2024-08-16 |  |
+| [La danse des oiseaux](https://open.spotify.com/track/2kSUAzItCJMxVbpZjdtmLE) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [La danse des oiseaux](https://open.spotify.com/album/1AiS9k0MQRzP6mqXIOI8VQ) | 3:45 | 2024-08-16 |  |
 | [Land Down Under](https://open.spotify.com/track/5bAkVFcWMvxfgJ03rBn38s) | [Chachi](https://open.spotify.com/artist/0mpFXzm8CkqkhvN4PLCYkV), [Paige](https://open.spotify.com/artist/30Pq3e28wKKtHVI28o2oY5) | [Land Down Under](https://open.spotify.com/album/0XywQVB10g0VwSZi9FXLp9) | 3:33 | 2022-01-14 | 2022-04-21 |
 | [Last Night](https://open.spotify.com/track/1hrAQcYSB04pglky6NjYRw) | [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Last Night](https://open.spotify.com/album/22ZueslBfEy3Ho2JXsFkRb) | 2:24 | 2022-10-14 | 2023-05-02 |
 | [Leave a Smile](https://open.spotify.com/track/2Qp0s8Qr7CMynidI7925H2) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Leave a Smile](https://open.spotify.com/album/4PdWkqJdqKB3arKBSI3qkx) | 2:27 | 2022-07-08 |  |
@@ -480,7 +481,7 @@
 | [Over & Over](https://open.spotify.com/track/0t0BoLdXb5VO3WelCxQoty) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [Over & Over](https://open.spotify.com/album/319XvNCwRnwIESaY251OlE) | 2:48 | 2023-07-14 |  |
 | [Over You](https://open.spotify.com/track/1ug22meh3YgHra1l314WLA) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Over You](https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw) | 2:21 | 2022-08-19 |  |
 | [Over You](https://open.spotify.com/track/4FNkE8eT1CJBmHcX2MT5ex) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Aili](https://open.spotify.com/artist/0TVW1CjHIgfuFIUimSgPoj) | [Over You](https://open.spotify.com/album/3RbMFz4GlUUKABu9c398fN) | 2:26 | 2024-01-19 |  |
-| [Over You](https://open.spotify.com/track/5jAzncvTqIzzWgvqlCBx8t) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Over You](https://open.spotify.com/album/3W49rkfcQPS9R1T3gUluHl) | 3:27 | 2024-08-16 |  |
+| [Over You](https://open.spotify.com/track/5jAzncvTqIzzWgvqlCBx8t) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Over You](https://open.spotify.com/album/3W49rkfcQPS9R1T3gUluHl) | 3:27 | 2024-08-16 | 2024-08-30 |
 | [Own the Night](https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [Own the Night](https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy) | 3:30 | 2022-01-14 | 2022-07-19 |
 | [Oxas](https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Oxas](https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN) | 5:01 | 2022-01-14 | 2022-09-24 |
 | [Pacific Coast](https://open.spotify.com/track/2NlmT21qfh9nohiaYkecRy) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Pacific Coast](https://open.spotify.com/album/7LD54uSzY4Q6LfzSDQQezv) | 2:33 | 2022-01-14 | 2022-08-09 |

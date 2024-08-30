@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-212 songs - 12 hr 49 min
+213 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Insyaallah Masyaallah Astaghfirullah \(IMA\)](https://open.spotify.com/track/6LJEtme2ycUD0FsEQ74eQa) | [Indomusik Team](https://open.spotify.com/artist/7jTXG4yKeX4acFBNkIwtGE) | [Insyaallah Masyaallah Astaghfirullah \(IMA\)](https://open.spotify.com/album/4WcvPcSDH311PYio0ILmat) | 3:16 | 2024-03-25 | 2024-04-24 |
 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 | 2023-10-11 |  |
 | [It's Coming Your Way](https://open.spotify.com/track/4bHA8KP3gTxclQ67ZqOj9U) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [Adriana](https://open.spotify.com/album/6bekgj3c013VtE4dPisih3) | 3:58 | 2023-10-11 | 2024-01-04 |
-| [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 | 2023-09-12 |  |
+| [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 | 2023-09-12 | 2024-08-30 |
 | [Jakarta Hari Ini](https://open.spotify.com/track/5hkQFKFRrr5gKdbbxsg6Lj) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Jakarta Hari Ini](https://open.spotify.com/album/1Kw6W5Pj7gvROUJJRqBMzq) | 3:44 | 2023-03-22 | 2024-06-06 |
 | [Jendela Kelas 1](https://open.spotify.com/track/438ilw1OljGU8GNEtuirlJ) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Country](https://open.spotify.com/album/0YgZqV0b2jVagi7qnbzCoX) | 3:35 | 2023-09-12 |  |
 | [Jernih](https://open.spotify.com/track/5YRKBYBlphckCllFczLzAR) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Pengantar Purifikasi Pikir](https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk) | 4:37 | 2024-03-06 | 2024-04-24 |
@@ -195,6 +195,7 @@
 | [Tampar](https://open.spotify.com/track/1csKczcJqOSdK8JriLMpDW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:22 | 2024-07-24 |  |
 | [Tanpa Diminta](https://open.spotify.com/track/2uT0cNyO1gl4XRFeqkc2ud) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senandika](https://open.spotify.com/album/7G5u1YpMeur38AijDIp1x2) | 4:15 | 2023-09-12 | 2023-10-12 |
 | [Tanpa Diminta](https://open.spotify.com/track/5K6HxdlgStsikWTy9jPaiN) | [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senandika](https://open.spotify.com/album/7ub6oAQi8e6dzxk5NAyZdA) | 4:15 | 2023-04-04 | 2023-09-17 |
+| [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-29 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-06-07 | 2024-05-07 |
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2023-03-22 | 2023-11-16 |
 | [Teman](https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Teman](https://open.spotify.com/album/0HsFWCBUOfZdiIJC5xrbfL) | 3:57 | 2024-03-03 |  |

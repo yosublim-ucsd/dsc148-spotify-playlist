@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "CALAPA",
+        "url": "https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151395,
+      "name": "CALAPA",
+      "url": "https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1"
+    },
+    {
+      "album": {
         "name": "Call me",
         "url": "https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP"
       },
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 208500,
       "name": "Oblije Blockem - Baby Gyal",
       "url": "https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy"
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 201836,
       "name": "PLAN B",
       "url": "https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152170,
       "name": "Ton amour",
       "url": "https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI"
@@ -2831,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Troph\u00e9e",
+        "url": "https://open.spotify.com/album/1814HhtSuacyysbTwr79mO"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Troph\u00e9e",
+      "url": "https://open.spotify.com/track/4bMmiLEjHHhwqo8fKIRayx"
+    },
+    {
+      "album": {
         "name": "TU ME TOUCHES",
         "url": "https://open.spotify.com/album/2INKDIz39NOpEhXTkydqnc"
       },
@@ -2854,6 +2894,24 @@
       "duration_ms": 212398,
       "name": "TU ME TOUCHES",
       "url": "https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn"
+    },
+    {
+      "album": {
+        "name": "Two m\u00e9fian",
+        "url": "https://open.spotify.com/album/4WJI63uMzZ8sKWu9lrTOZQ"
+      },
+      "artists": [
+        {
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Two m\u00e9fian",
+      "url": "https://open.spotify.com/track/1rCtW0Td7JwoQOfTLoICUq"
     },
     {
       "album": {

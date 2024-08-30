@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 214326,
       "name": "Brain On Drugs",
       "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176934,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of"
+    },
+    {
+      "album": {
         "name": "Creep / Major",
         "url": "https://open.spotify.com/album/6N0ez4f0rQjP0eRvDazUFr"
       },
@@ -1713,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Deserve It All",
+        "url": "https://open.spotify.com/album/644bHxtxVgP80b9eTU5VsR"
+      },
+      "artists": [
+        {
+          "name": "Infernal",
+          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Deserve It All",
+      "url": "https://open.spotify.com/track/3OAX7nG40HNRJkxHJXLM5v"
+    },
+    {
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -1841,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "Do You Think About Me",
+        "url": "https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Do You Think About Me",
+      "url": "https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy"
+    },
+    {
+      "album": {
         "name": "Doggy Style",
         "url": "https://open.spotify.com/album/0Jd5RNbJ8EBwzRopT611wS"
       },
@@ -1906,7 +1964,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 181028,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
@@ -2208,7 +2266,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172444,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY"
@@ -4067,6 +4125,32 @@
     },
     {
       "album": {
+        "name": "Lift Me Up (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233203,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
+    },
+    {
+      "album": {
         "name": "LIFT ME UP",
         "url": "https://open.spotify.com/album/4P4mMZqsPVTzwAxpdMrHVe"
       },
@@ -5432,7 +5516,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 207815,
       "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
       "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
@@ -5458,7 +5542,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 189376,
       "name": "OneHundred",
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
@@ -7865,6 +7949,32 @@
     },
     {
       "album": {
+        "name": "Tekno",
+        "url": "https://open.spotify.com/album/3QiiysW5CAxLkwmRKZYNHp"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151401,
+      "name": "Tekno",
+      "url": "https://open.spotify.com/track/6Ac6OAu0NTuJ6uVAiEr9LK"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
       },
@@ -8229,6 +8339,24 @@
     },
     {
       "album": {
+        "name": "TIGHT DRESS",
+        "url": "https://open.spotify.com/album/6nZdhi8Mr6Mk2njIBtfnQb"
+      },
+      "artists": [
+        {
+          "name": "Skotte",
+          "url": "https://open.spotify.com/artist/5GDfELQRat65DAU2FvjTPb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147389,
+      "name": "TIGHT DRESS",
+      "url": "https://open.spotify.com/track/3I9Lz2vQ30UsLAZjbRmFvh"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/6v260UdseJka96hzE3oy1d"
       },
@@ -8384,7 +8512,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 123000,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5FKBqx4yck8x33P01naOKG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > it's a Magdalena Bay world
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,964 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,387 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 124 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 |
 | 125 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 |
 
-Snapshot ID: `Zs/NxgAAAABbnn/mKVmqgcAJqKWBUa8o`
+Snapshot ID: `ZtEFpQAAAAA3H6WmRza7Xqt0DdVaLout`

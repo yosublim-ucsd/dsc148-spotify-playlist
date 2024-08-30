@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204532,
+  "num_followers": 204539,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Madera Prohibida",
-        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
-      },
-      "artists": [
-        {
-          "name": "Los Antiguos",
-          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
-        }
-      ],
-      "duration_ms": 311222,
-      "name": "La Culpa Al Viento",
-      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Un Paso Mas en la Batalla",
         "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 316413,
       "name": "Deseando Destruir y Matar",
       "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Madera Prohibida",
+        "url": "https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb"
+      },
+      "artists": [
+        {
+          "name": "Los Antiguos",
+          "url": "https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91"
+        }
+      ],
+      "duration_ms": 311222,
+      "name": "La Culpa Al Viento",
+      "url": "https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "From the Abyss",
-        "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
-      },
-      "artists": [
-        {
-          "name": "Eshtadur",
-          "url": "https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn"
-        },
-        {
-          "name": "Richie Brown",
-          "url": "https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Lowborn Bastard",
-      "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "From the Abyss",
+        "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
+      },
+      "artists": [
+        {
+          "name": "Eshtadur",
+          "url": "https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn"
+        },
+        {
+          "name": "Richie Brown",
+          "url": "https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Lowborn Bastard",
+      "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
     },
     {
       "added_at": "2023-04-28 03:00:00",

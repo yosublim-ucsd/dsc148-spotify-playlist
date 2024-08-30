@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 101197,
+  "num_followers": 101214,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -567,30 +567,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Symphonies In E Major & C Major",
-        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Tokyo Metropolitan Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
-        },
-        {
-          "name": "Hiroshi Wakasugi",
-          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
-      "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Symphony in C Major, Tristan und Isolde, Siegfried Idyll",
         "url": "https://open.spotify.com/album/6wcBMJ8IJ0r59oRUqcpxsZ"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 899360,
       "name": "Symphony in C Major: I. Sostenuto e maestoso",
       "url": "https://open.spotify.com/track/4TjyDeIoLr6HmzdrMBSXow"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Symphonies In E Major & C Major",
+        "url": "https://open.spotify.com/album/5IgdBVEXXfuHleOBxnte8o"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Tokyo Metropolitan Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7sZ6l5rUEtMpeqNRPtSM38"
+        },
+        {
+          "name": "Hiroshi Wakasugi",
+          "url": "https://open.spotify.com/artist/4d9YDMvrULZ7CQrONKAs5N"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Symphony In E Major, WWV 35: II. Adagio Cantabile",
+      "url": "https://open.spotify.com/track/0b0Qj95orjydO2W9MIeWy3"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1023,34 +1023,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner: Tristan und Isolde",
-        "url": "https://open.spotify.com/album/2mnftFLsMflPnLLGTaGBgq"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Margaret Price",
-          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 446133,
-      "name": "Tristan und Isolde, Act III: Mild und leise wie er l\u00e4chelt",
-      "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner: Die Meistersinger",
         "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
       },
@@ -1091,6 +1063,34 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Tristan und Isolde",
+        "url": "https://open.spotify.com/album/2mnftFLsMflPnLLGTaGBgq"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Margaret Price",
+          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 446133,
+      "name": "Tristan und Isolde, Act III: Mild und leise wie er l\u00e4chelt",
+      "url": "https://open.spotify.com/track/4SkJKfnGhQCikozqxyNXjP"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner : Die Walk\u00fcre [Bayreuth, 1991]",
+        "url": "https://open.spotify.com/album/29lSam8Q8OOriowjX9bte4"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Bayreuth Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Wagner : Die Walk\u00fcre : Act 1 \"Winterst\u00fcrme wichen dem Wonnemond\" [Siegmund]",
+      "url": "https://open.spotify.com/track/7BpJ4Nw58bkmf2awhplYyM"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Die Meistersinger",
         "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 322400,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
       "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner : Die Walk\u00fcre [Bayreuth, 1991]",
-        "url": "https://open.spotify.com/album/29lSam8Q8OOriowjX9bte4"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Bayreuth Festival Orchestra",
-          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Wagner : Die Walk\u00fcre : Act 1 \"Winterst\u00fcrme wichen dem Wonnemond\" [Siegmund]",
-      "url": "https://open.spotify.com/track/7BpJ4Nw58bkmf2awhplYyM"
     },
     {
       "added_at": "2022-06-28 08:58:25",

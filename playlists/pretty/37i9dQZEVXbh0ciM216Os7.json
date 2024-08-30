@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADhdJUExD4Dx5cUSIsgRtPB",
+  "snapshot_id": "AAAAAAAAAADN9LfX3OmdaEFHQj+Zsswf",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -155,30 +155,6 @@
       "duration_ms": 523556,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Luvology",
-        "url": "https://open.spotify.com/album/0KUhHH6aZ8f8CKusg8U1HG"
-      },
-      "artists": [
-        {
-          "name": "LARA'",
-          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
-        },
-        {
-          "name": "Harry Edohoukwa",
-          "url": "https://open.spotify.com/artist/2ugmrMhuc5JJjQFFwACJYa"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "Good Wine (feat. Rapsody)",
-      "url": "https://open.spotify.com/track/0vcHHEcBk4EsvWPZXBsYYW"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -455,6 +431,26 @@
       "duration_ms": 255054,
       "name": "sweet moon (jung remix)",
       "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "See What I See",
+      "url": "https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW"
     },
     {
       "added_at": "2024-08-23 04:00:00",

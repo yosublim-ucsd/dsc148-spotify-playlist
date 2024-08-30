@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-392 songs - 20 hr 15 min
+393 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Lush Brown Noise](https://open.spotify.com/track/2uqaVuV72INBHmXKl9UuGK) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Lush Brown Noise](https://open.spotify.com/album/2bhUuuG2Mk3Jhuo5tfb71L) | 2:40 | 2023-10-06 |  |
 | [Lynx Brown Noise](https://open.spotify.com/track/52oBEDQA9kqro0zISVZL5H) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 2:55 | 2022-01-07 | 2022-12-17 |
 | [Machine Brown Noise](https://open.spotify.com/track/3DEcCBYZ6wvBEIwSWld6LS) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Machine Brown Noise](https://open.spotify.com/album/0s6i6UdOJqJV1JDLyzqHDy) | 2:26 | 2023-10-26 |  |
+| [Maple Brown Dreams](https://open.spotify.com/track/4Dqn4yeduSMxz0e6LD8uTw) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Maple Brown Dreams](https://open.spotify.com/album/2IhkDVH8zUf1eyTdeVxZHh) | 5:57 | 2024-07-26 |  |
 | [Meditation Hum Noise](https://open.spotify.com/track/2HXHPCsC9J7Y7bviP23qfm) | [Above Cloud 9](https://open.spotify.com/artist/52LnYKZEJPQhT1ePuMVxnb) | [Noise Meditations](https://open.spotify.com/album/5yeKP9HLiFEzGPDVEjfTJB) | 3:12 | 2022-01-07 | 2022-12-17 |
 | [Meditative Brown Noise](https://open.spotify.com/track/1AmRa0N5eKc7OLsam5GOdb) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [Tranquil Brown Noise](https://open.spotify.com/album/0VSQtAxsuUSEKmIfQnPhbD) | 2:54 | 2023-10-26 |  |
 | [Meditative Noise](https://open.spotify.com/track/7xXP9ysqubm7UfxmZfv63x) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Meditative Noise](https://open.spotify.com/album/2gc9kWLQhE5kbxZFBNnoEM) | 2:00 | 2022-01-07 | 2022-07-30 |
@@ -308,7 +309,7 @@
 | [Natural Brown Noise](https://open.spotify.com/track/1jKLICBM8As16eSgPP1qKg) | [Lübecker](https://open.spotify.com/artist/0dnss17AER9aBUwr90XH5o) | [Woodland Brown Noise](https://open.spotify.com/album/3o6IGYg0QZtY6mm1p242fV) | 2:13 | 2023-06-28 |  |
 | [Nature Sounds & Brown Noise](https://open.spotify.com/track/69KhM6G8FxEnZfZNGoX3NP) | [Julia Sono](https://open.spotify.com/artist/7Bbr5r0eIb5k773rp7En9q) | [Brown Noise for Relaxation](https://open.spotify.com/album/1E6F6GgZyFaMDxSXgLVZ7J) | 2:39 | 2023-01-20 |  |
 | [Nighttime Brown Noise](https://open.spotify.com/track/1fFQRjliSkgx8k58BXRc1O) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Nighttime Brown Noise](https://open.spotify.com/album/7bOwzgHmf9neP2ApwS6xEO) | 2:30 | 2023-10-26 |  |
-| [Nocturnal Brown Noise Melody](https://open.spotify.com/track/3hE44GysNEICR5XacMONbH) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Nocturnal Brown Noise Melody](https://open.spotify.com/album/03dCVgBuAABJaZ57apNQAM) | 2:31 | 2024-07-26 |  |
+| [Nocturnal Brown Noise Melody](https://open.spotify.com/track/3hE44GysNEICR5XacMONbH) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Nocturnal Brown Noise Melody](https://open.spotify.com/album/03dCVgBuAABJaZ57apNQAM) | 2:31 | 2024-07-26 | 2024-08-30 |
 | [Noise Bliss 200 Hz](https://open.spotify.com/track/1PIexPfZnVlmoPMqNE6Xvu) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Noise Bliss](https://open.spotify.com/album/5lT9didrhUW3Xx4OgkzbSm) | 3:26 | 2022-01-07 | 2022-12-17 |
 | [Noise Dream](https://open.spotify.com/track/7s5bkyULE2gi9UXNWOippx) | [Zone Out](https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY) | [Floating Through Brown Noise](https://open.spotify.com/album/2JrmVd9VXCLeW6z3XgUYLM) | 3:10 | 2022-10-26 |  |
 | [Ocean Dark](https://open.spotify.com/track/0PpxQLCq0ZWzhrz1YxVUXD) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 3:01 | 2022-07-29 |  |

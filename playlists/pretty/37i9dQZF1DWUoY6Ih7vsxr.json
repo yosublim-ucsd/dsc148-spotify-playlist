@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 278105,
+  "num_followers": 278213,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "THE THIRD SINGLE CATALLENA",
-        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
-      },
-      "artists": [
-        {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
-        }
-      ],
-      "duration_ms": 193153,
-      "name": "Catallena",
-      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 263040,
       "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
       "url": "https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+      },
+      "artists": [
+        {
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+        }
+      ],
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Again 1977",
-        "url": "https://open.spotify.com/album/08wUc4fBRDP5MHmtadEjZ5"
+        "name": "TTL (Time To Love)",
+        "url": "https://open.spotify.com/album/03vGxLZasfe2LdJFuB4fpq"
       },
       "artists": [
         {
           "name": "T-ARA",
           "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        },
+        {
+          "name": "\ucd08\uc2e0\uc131",
+          "url": "https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW"
         }
       ],
-      "duration_ms": 228725,
-      "name": "\ub118\ubc84\ub098\uc778",
-      "url": "https://open.spotify.com/track/7CEWoh31m3nePP2Oz8joqo"
+      "duration_ms": 218347,
+      "name": "TTL (Time To Love)",
+      "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1115,22 +1119,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 194235,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
       },
@@ -1143,6 +1131,22 @@
       "duration_ms": 217887,
       "name": "WOW",
       "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 194235,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "TTL (Time To Love)",
-        "url": "https://open.spotify.com/album/03vGxLZasfe2LdJFuB4fpq"
+        "name": "Again 1977",
+        "url": "https://open.spotify.com/album/08wUc4fBRDP5MHmtadEjZ5"
       },
       "artists": [
         {
           "name": "T-ARA",
           "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        },
-        {
-          "name": "\ucd08\uc2e0\uc131",
-          "url": "https://open.spotify.com/artist/0buWcDodnGf3u36oAQPHzW"
         }
       ],
-      "duration_ms": 218347,
-      "name": "TTL (Time To Love)",
-      "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
+      "duration_ms": 228725,
+      "name": "\ub118\ubc84\ub098\uc778",
+      "url": "https://open.spotify.com/track/7CEWoh31m3nePP2Oz8joqo"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Kiss (Dara)",
-      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "No.1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 193226,
-      "name": "No.1",
-      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
+      "duration_ms": 213400,
+      "name": "Kiss (Dara)",
+      "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
     },
     {
       "added_at": "2024-03-27 14:24:46",

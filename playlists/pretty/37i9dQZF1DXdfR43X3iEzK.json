@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: James Smith",
-  "num_followers": 46026,
+  "num_followers": 46024,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 170339,
+      "name": "Realms",
+      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
         "name": "Death & Romance",
         "url": "https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 170339,
-      "name": "Realms",
-      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "ur special to me",
-        "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 114418,
-      "name": "ur special to me",
-      "url": "https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "Say That You Will Wait For Me",
         "url": "https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 220386,
       "name": "Say That You Will Wait For Me",
       "url": "https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "ur special to me",
+        "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 114418,
+      "name": "ur special to me",
+      "url": "https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
+        "name": "crush (tom verlaine)",
+        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 182498,
+      "name": "crush (tom verlaine)",
+      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
         "name": "Find Joy",
         "url": "https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 194069,
       "name": "Wish You Were Dead",
       "url": "https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
-        "name": "crush (tom verlaine)",
-        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 182498,
-      "name": "crush (tom verlaine)",
-      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
     }
   ],
   "unique_name": "alt/pop",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 207431,
+  "num_followers": 207527,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAAABCEwEiLyeAn1Cpb19rPlc",
+  "snapshot_id": "Zs5ogAAAAADDnK3qBlfECIjjpJkroD5r",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Popular Loner",
+      "url": "https://open.spotify.com/track/1EG6y4KL5c0T5UAT41d7VH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last Slimeto",
         "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 174645,
       "name": "Numb - 2024",
       "url": "https://open.spotify.com/track/5Gz52yJ9UJLNuV42sqPnS1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Popular Loner",
-      "url": "https://open.spotify.com/track/1EG6y4KL5c0T5UAT41d7VH"
     },
     {
       "added_at": null,

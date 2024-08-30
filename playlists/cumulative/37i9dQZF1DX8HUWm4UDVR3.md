@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Zélie
+> La pop française annonce la couleur\. Photo : Zaoui
 
-211 songs - 10 hr 27 min
+213 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amour de vacances](https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Amour de vacances](https://open.spotify.com/album/2N1i1A3vPHEZPxtotd7LLe) | 2:51 | 2023-09-07 | 2023-10-06 |
 | [Ange](https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Ange](https://open.spotify.com/album/7E1zfjwFcZOTW31kS5jgYE) | 2:49 | 2024-04-25 |  |
 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 | 2023-10-19 | 2024-02-09 |
+| [Avant la fin de l'été](https://open.spotify.com/track/1ZyraWusX0DqD6sW3tBI4d) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Avant la fin de l'été](https://open.spotify.com/album/5IUukxrkXQzps5JU7AOqP0) | 3:18 | 2024-08-29 |  |
 | [Baby Boom](https://open.spotify.com/track/1nBH9j0nyQiMjAT02rz35b) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Baby Boom](https://open.spotify.com/album/3LjqItLFxYl9xw1zpanrLE) | 3:03 | 2024-04-04 | 2024-04-19 |
 | [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 | 2024-01-18 | 2024-02-16 |
 | [Bad boy malheureux](https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Bad boy malheureux](https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD) | 2:54 | 2024-06-20 |  |
@@ -58,7 +59,7 @@
 | [Creep \- Reprise](https://open.spotify.com/track/6R3kzJCQFejaS1XIR7wnbo) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/2Q1hHWosLo5qBPj6oL8bDY) | 2:51 | 2024-01-04 | 2024-01-22 |
 | [Crises d'angoisse](https://open.spotify.com/track/4HFAZTPBdCFuUnSS57Syyx) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Crises d'angoisse](https://open.spotify.com/album/3YplunRHBWjCsiy3TIgf5T) | 2:32 | 2024-03-07 | 2024-04-19 |
 | [Célibataire](https://open.spotify.com/track/5NHRS577smnJUQ8OSinlzs) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [La Traversée du Désir](https://open.spotify.com/album/3KYtykOTlAZhuKcinFjMi3) | 3:05 | 2023-11-09 | 2024-06-21 |
-| [Dans mon coeur, tu reviens](https://open.spotify.com/track/7BNT3qsg230rBtAaZy0CC4) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Dans mon coeur, tu reviens](https://open.spotify.com/album/4jB21HxVGQORLHD7sqXQLX) | 3:05 | 2024-06-27 |  |
+| [Dans mon coeur, tu reviens](https://open.spotify.com/track/7BNT3qsg230rBtAaZy0CC4) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Dans mon coeur, tu reviens](https://open.spotify.com/album/4jB21HxVGQORLHD7sqXQLX) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 | 2024-01-10 |
 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 | 2024-01-19 |
 | [Des Histoires](https://open.spotify.com/track/2hvfaFWZHErqc3FyDfeXQe) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Des Histoires](https://open.spotify.com/album/4tCoXW3fESM9myCDX6cSD2) | 3:16 | 2024-05-16 |  |
@@ -101,7 +102,7 @@
 | [J'vais passer l'âge](https://open.spotify.com/track/2lXsHUjQV9sZN83sivu9JE) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [J'vais passer l'âge](https://open.spotify.com/album/37vSJJne6tHF4nDhnRDybJ) | 3:02 | 2023-10-12 | 2023-11-10 |
 | [Je t'ai dit non](https://open.spotify.com/track/3hA78BzovZdpdl2ZQw9KzI) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Je t'ai dit non](https://open.spotify.com/album/1QgvJtMaR04Cy2VySFNBA6) | 2:28 | 2024-08-01 |  |
 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 | 2023-07-27 | 2023-09-22 |
-| [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 | 2023-09-28 | 2024-06-14 |
+| [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 | 2023-09-28 |  |
 | [Julia](https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 2:38 | 2023-09-28 | 2024-04-19 |
 | [Julia](https://open.spotify.com/track/7M45CXpMcsjxAVZxqpmzrH) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Apollo](https://open.spotify.com/album/14VtQBdVFJ8RqjH4YsqZL7) | 2:53 | 2023-10-12 | 2024-01-26 |
 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 | 2023-10-05 | 2024-03-01 |
@@ -113,6 +114,7 @@
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
 | [Le bonheur et la tristesse](https://open.spotify.com/track/2YUJ40ggS5vW61ZufiCOK8) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Le bonheur et la tristesse](https://open.spotify.com/album/6LuBZMDUnsdkmyTYC3rF9M) | 3:20 | 2024-04-18 |  |
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 | 2024-01-19 |
+| [Le collectionneur](https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Le collectionneur](https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL) | 3:21 | 2024-08-29 |  |
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
 | [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 | 2024-07-06 |
 | [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 | 2024-03-14 | 2024-05-25 |
@@ -146,7 +148,7 @@
 | [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 | 2024-03-21 |  |
 | [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 | 2023-11-09 | 2023-12-22 |
 | [Nuits Cinématiques](https://open.spotify.com/track/74wu5CQHXvXcDCbxyVtunM) | [Louise Combier](https://open.spotify.com/artist/26795z7WfjgTuOCIXuwP5h) | [Nuits Cinématiques](https://open.spotify.com/album/237Uao1tp7SQNVmC9QeNg4) | 3:07 | 2024-03-21 | 2024-06-01 |
-| [Nulle](https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Nulle](https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe) | 3:14 | 2024-06-13 |  |
+| [Nulle](https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Nulle](https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe) | 3:14 | 2024-06-13 | 2024-08-30 |
 | [Oh ma vie](https://open.spotify.com/track/6SLMAJI9fGwK3oQC32pWNB) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Oh ma vie](https://open.spotify.com/album/2OvbOMc6jBk55fvhnJI42u) | 3:18 | 2023-07-27 | 2023-10-13 |
 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-08-31 | 2024-03-22 |
 | [on savait s’amuser](https://open.spotify.com/track/1gi9m5LUB3iNVk258TUnvv) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [on savait s'amuser](https://open.spotify.com/album/7Fw7PqOs3qm6tUDbHz1a5K) | 2:34 | 2024-05-16 |  |
@@ -161,7 +163,7 @@
 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2023-07-27 | 2023-11-17 |
 | [Pleurer de joie](https://open.spotify.com/track/4lZqzNfv2xx0DJSchmyci8) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Pleurer de joie](https://open.spotify.com/album/4oY57RnsySHT43Zvtf6Em2) | 2:45 | 2023-07-27 | 2023-09-15 |
 | [Pluie Violette](https://open.spotify.com/track/6lu9B5zAGzdwly5UfY7BFD) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [Bolides](https://open.spotify.com/artist/0r6RbR9z6jfCBC5phImfhi) | [Pluie Violette](https://open.spotify.com/album/1FvgPkOyVI2RPQYME5P1Ho) | 3:36 | 2023-09-14 | 2024-01-05 |
-| [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 | 2023-09-28 |  |
+| [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 | 2023-09-28 | 2024-08-30 |
 | [Plus de sens](https://open.spotify.com/track/7HEKgyGKb9oil5ZrW7cHH4) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:29 | 2023-07-27 | 2024-01-19 |
 | [Plus rien à perdre](https://open.spotify.com/track/1imBbvEq9JCGmpYe9S4e4D) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plus rien à perdre](https://open.spotify.com/album/6VVCYq9xfB0G5aiie7NBAN) | 2:48 | 2024-02-15 | 2024-06-21 |
 | [Poisson volant](https://open.spotify.com/track/3nKNGeSonqI7Y5pAQjcQxt) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [THEOPHILE](https://open.spotify.com/artist/6zkYFNl3FNXIdhQ5QOYpZm) | [Mammifère](https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD) | 3:27 | 2024-02-29 | 2024-06-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Autechre. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Autechre. The essential tracks, all in one playlist.",
   "name": "This Is Autechre",
   "tracks": [
     {
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 291394,
       "name": "Fleure",
       "url": "https://open.spotify.com/track/3iEtVelaEhosH9Dytd8Zju"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 457013,
       "name": "PIOBmx",
       "url": "https://open.spotify.com/track/6u3LT0WFk9Fq0WrnvUirWf"
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 351282,
       "name": "si00",
       "url": "https://open.spotify.com/track/4RwJVmTySlB2k9kXxlfoyy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,462 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,455 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 86 | [Once A Year](https://open.spotify.com/track/4iGbHh0ifUuLV9aOUr8CP3) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Once A Year](https://open.spotify.com/album/4dSmoSgjulNjv95j5UEF9J) | 3:33 |
 | 87 | [I Believe In Santa Claus](https://open.spotify.com/track/2Y7EQq65eOVeDBMix2miw3) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [I Believe In Santa Claus](https://open.spotify.com/album/7sk8b6PSKWPhCdWuMb6ZxU) | 3:30 |
 | 88 | [Grown\-Up Christmas List](https://open.spotify.com/track/7g79SswJha9rzR0or3VOcQ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | ['Tis The Season](https://open.spotify.com/album/2nzdzvxSAgnzYAvYaYcsI9) | 3:31 |
-| 89 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 |
+| 89 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \- Deluxe](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 |
 | 90 | [I’ll Be Home For Christmas](https://open.spotify.com/track/3gkDQzMSAsVcxGTCvTcl4B) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I’ll Be Home For Christmas](https://open.spotify.com/album/5q9IE9PlEsjq3jMxDLOfYp) | 2:45 |
 | 91 | [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/3KzxVvS1N3UhHWsytxURYF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/18Ev7MoYqGciQ2pfURU7B5) | 3:25 |
 | 92 | [This Time Of Year](https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [This Time Of Year](https://open.spotify.com/album/3639u6XvrxIh75KvLMllgP) | 3:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,165 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,252 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 55 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/5qriE8k5TQuWLXKKnyxjDF) | 2:46 |
 | 56 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
 | 57 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
-| 58 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
-| 59 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
+| 58 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
+| 59 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
 | 60 | [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 |
 | 61 | [Super Machi](https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Magizhini Manimaran](https://open.spotify.com/artist/1Q1vEBErkzeovtGx8kZXKD) | [Son Of Satyamurthy](https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d) | 4:38 |
 | 62 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 |

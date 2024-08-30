@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: gIANMARIA",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: STE, Shablo",
   "name": "Caleido",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 235897,
       "name": "AKEREKOR\u00c8",
       "url": "https://open.spotify.com/track/6iVfvR1NkJR4dWOABIwIAA"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160359,
       "name": "Capricci",
       "url": "https://open.spotify.com/track/7oWFuUgpzKmdYQUMdxPV23"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152000,
       "name": "ESTATE",
       "url": "https://open.spotify.com/track/6QLFAWuv3zaWkP0xIIyBmm"
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "hyperlacrime",
+        "url": "https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188372,
+      "name": "hyperlacrime",
+      "url": "https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA"
+    },
+    {
+      "album": {
         "name": "If I Let A White Man Cut My Hair",
         "url": "https://open.spotify.com/album/4sJ3xjwKXQbJerNRPxaMD5"
       },
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 150537,
       "name": "Karnevale di Rio",
       "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 180679,
       "name": "loop",
       "url": "https://open.spotify.com/track/73IP6x82Ew9PRuTO9zC9iT"
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153330,
       "name": "LOVESICK (feat. CARO WOW)",
       "url": "https://open.spotify.com/track/4wTJnESTXwENnqm4sTpd6F"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 201230,
       "name": "MAMAS\u00cc",
       "url": "https://open.spotify.com/track/6ZHumZjv7Fpy3PILmj9m7j"
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 192857,
       "name": "Maracaibo",
       "url": "https://open.spotify.com/track/0rL2TR2zVp958CFmIdDIqz"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 191345,
       "name": "MUSICA ESPECIAL",
       "url": "https://open.spotify.com/track/28mZlmVrofwqdZ3sVIFxJJ"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 144025,
       "name": "No Me Llames",
       "url": "https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 158769,
       "name": "No Stress (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/7tsElhgryjaCRhBYUBcgBs"
@@ -2131,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "NON SI SENTE",
+        "url": "https://open.spotify.com/album/3QvauRgBRj2n803UBuOEGq"
+      },
+      "artists": [
+        {
+          "name": "Goza",
+          "url": "https://open.spotify.com/artist/2kAd5sdqOUhnVjITFJE630"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "NON SI SENTE",
+      "url": "https://open.spotify.com/track/7bfDgo8dpXlknY1oY6qrEE"
+    },
+    {
+      "album": {
         "name": "NVAMR001",
         "url": "https://open.spotify.com/album/2JeNU4OxLSGmDt8IGBZP8n"
       },
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 210500,
       "name": "NULLA (non ci ho capito)",
       "url": "https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI"
@@ -2212,6 +2248,24 @@
       "duration_ms": 273956,
       "name": "O.G.",
       "url": "https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ"
+    },
+    {
+      "album": {
+        "name": "Ottovolanti",
+        "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
+      },
+      "artists": [
+        {
+          "name": "eyTrama",
+          "url": "https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213658,
+      "name": "Ottovolanti",
+      "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
     },
     {
       "album": {
@@ -2332,7 +2386,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203750,
       "name": "PICCOLO CHIKORITA - Prod. PLASTICA",
       "url": "https://open.spotify.com/track/4LBqBTqhaOwbdlgOSHEMRI"
@@ -2354,6 +2408,24 @@
       "duration_ms": 160809,
       "name": "Pioggia Col Sole",
       "url": "https://open.spotify.com/track/6qUCgUlybSFYCH8ZrhepoL"
+    },
+    {
+      "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     },
     {
       "album": {
@@ -2469,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Salire",
+        "url": "https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189285,
+      "name": "Salire",
+      "url": "https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2"
+    },
+    {
+      "album": {
         "name": "scarpe slacciate",
         "url": "https://open.spotify.com/album/4PE7391macqTVvca7wKqZY"
       },
@@ -2502,7 +2592,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 181391,
       "name": "Scatoletta<3",
       "url": "https://open.spotify.com/track/75JIX2DpXoU3kSH2fnlSEe"
@@ -2542,6 +2632,24 @@
       "duration_ms": 160950,
       "name": "Scriverci solo di notte",
       "url": "https://open.spotify.com/track/6w3zQHAECBgWwAjGuYz1jd"
+    },
+    {
+      "album": {
+        "name": "Se Rimani",
+        "url": "https://open.spotify.com/album/1OwooV03aWzunvDeerPExh"
+      },
+      "artists": [
+        {
+          "name": "Amore Audio",
+          "url": "https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186644,
+      "name": "Se Rimani",
+      "url": "https://open.spotify.com/track/5YZcqaB36XOX867kYP7sn8"
     },
     {
       "album": {
@@ -2614,7 +2722,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 171940,
       "name": "SLOWMO",
       "url": "https://open.spotify.com/track/529bB6UwVaHjMJpQNFljdp"
@@ -2828,7 +2936,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 184000,
       "name": "T'aggio fatto ved\u00e8",
       "url": "https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM"

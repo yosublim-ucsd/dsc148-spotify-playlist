@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Eko Eko",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Amir",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Compl\u00e9mentaires",
+        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "Compl\u00e9mentaires",
+      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+    },
+    {
+      "album": {
         "name": "Crash Dans Tes Bras",
         "url": "https://open.spotify.com/album/5JmoeCP9fG3PrBEcusvb2c"
       },
@@ -338,7 +356,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 179738,
       "name": "Fighter - Eurovision Version",
       "url": "https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh"
@@ -522,7 +540,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 155200,
       "name": "La couleur de la mer - Edit",
       "url": "https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE"
@@ -540,7 +558,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 217666,
       "name": "Le go\u00fbt des choses",
       "url": "https://open.spotify.com/track/3T1PwgzMpInMf8fR9AivZm"
@@ -959,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Tout de suite",
+        "url": "https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Parle-moi",
+      "url": "https://open.spotify.com/track/566J3qHuG8sSJv5gVf4S1K"
+    },
+    {
+      "album": {
         "name": "Pas d'apr\u00e8s",
         "url": "https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC"
       },
@@ -1094,6 +1130,24 @@
       "duration_ms": 236066,
       "name": "Sentiers de la brume",
       "url": "https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2"
+    },
+    {
+      "album": {
+        "name": "Si seulement...",
+        "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Si seulement...",
+      "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
     },
     {
       "album": {
@@ -1278,6 +1332,24 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "Vice Versa",
+        "url": "https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "Vice Versa",
+      "url": "https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F"
     },
     {
       "album": {

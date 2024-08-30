@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-224 songs - 11 hr 49 min
+225 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,12 +96,13 @@
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 |  |
 | [i remember this picture](https://open.spotify.com/track/1D6MrZJjz705F8MlE277Hh) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 3:33 | 2024-03-20 | 2024-04-19 |
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2023-08-22 | 2024-08-24 |
-| [Ice Cold Coolers](https://open.spotify.com/track/32YuJrtLLVAMjskLgAfZKg) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T) | [Good Vibes](https://open.spotify.com/album/6ow7Sf2iH1b8Q50hjBfSVo) | 2:05 | 2023-10-13 |  |
+| [Ice Cold Coolers](https://open.spotify.com/track/32YuJrtLLVAMjskLgAfZKg) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T) | [Good Vibes](https://open.spotify.com/album/6ow7Sf2iH1b8Q50hjBfSVo) | 2:05 | 2023-10-13 | 2024-08-30 |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2023-08-22 |  |
 | [In the Backseat](https://open.spotify.com/track/4vI1kjJ48bbpIf7ByHFzUu) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [In the Backseat](https://open.spotify.com/album/06C0oK1SNXafHXh9HqeNHo) | 2:33 | 2024-08-23 |  |
 | [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 |  |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-08-22 | 2023-08-26 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-08-22 | 2024-04-19 |
+| [Intervention](https://open.spotify.com/track/0WmSthVCkysVZMK3WoWS8J) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Intervention](https://open.spotify.com/album/4RYqE4sPXD161kM29SOdtd) | 2:38 | 2024-08-23 |  |
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-08-22 |  |
 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 | 2023-09-22 |  |
 | [Je Pense A Toi](https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reverie](https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy) | 2:38 | 2023-08-22 |  |

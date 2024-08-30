@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa ROBIN ja Sexmane.",
+  "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Yeboyah.",
   "name": "Ensisoitossa",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 129761,
       "name": "360 featuring robyn and yung lean",
       "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 149949,
       "name": "Aikuistuu",
       "url": "https://open.spotify.com/track/0YVDrQFgPkucJNvSCLqpV1"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 189966,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 161053,
       "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154639,
       "name": "Chase It (Mmm Da Da Da)",
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Chat",
+        "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139413,
+      "name": "Chat",
+      "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -752,10 +770,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/3cFnI28cSrO7RSJk6PZGjG"
+      },
+      "artists": [
+        {
+          "name": "Yeboyah",
+          "url": "https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147069,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/0TUDaiLA9lJXaysRuslRc6"
     },
     {
       "album": {
@@ -770,7 +806,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 225204,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt"
@@ -792,6 +828,24 @@
       "duration_ms": 166299,
       "name": "Dansa",
       "url": "https://open.spotify.com/track/4BMRAWN0jTtswCO2WEn8Ew"
+    },
+    {
+      "album": {
+        "name": "The Dichotomy",
+        "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157937,
+      "name": "Darkerside",
+      "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
     },
     {
       "album": {
@@ -842,7 +896,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166631,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH"
@@ -864,6 +918,24 @@
       "duration_ms": 195573,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/23rEMK4z3yVPLI0cg3tNzi"
+    },
+    {
+      "album": {
+        "name": "Dementia",
+        "url": "https://open.spotify.com/album/6ydNn48knmj2us7w0VE3Y2"
+      },
+      "artists": [
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187073,
+      "name": "Dementia",
+      "url": "https://open.spotify.com/track/4l6yk9CYDBXmPZLngUdPUW"
     },
     {
       "album": {
@@ -1103,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Erottaja",
+        "url": "https://open.spotify.com/album/7vBFyUien1AoCsfmBlDWWc"
+      },
+      "artists": [
+        {
+          "name": "Reettabitch",
+          "url": "https://open.spotify.com/artist/5XYFXTCJPZ9ZdvuJdEfUcQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178464,
+      "name": "Erottaja",
+      "url": "https://open.spotify.com/track/743aoKY7JQ1xSsKMX4PMwl"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/4C1nziXrqYsw8foNIvCsYZ"
       },
@@ -1295,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+    },
+    {
+      "album": {
         "name": "FIRE",
         "url": "https://open.spotify.com/album/5XKam0U5tpofSPMnH12aVM"
       },
@@ -1398,7 +1510,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 205130,
       "name": "For Your Patience",
       "url": "https://open.spotify.com/track/6MA6rs3BGTxcu1Vx37qeV4"
@@ -1482,6 +1594,28 @@
       "duration_ms": 208836,
       "name": "Genesis, pt. ii",
       "url": "https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y"
+    },
+    {
+      "album": {
+        "name": "GET UP BITCH! shake ya ass (with Anitta)",
+        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "GET UP BITCH! shake ya ass (with Anitta)",
+      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
     },
     {
       "album": {
@@ -1579,6 +1713,28 @@
     },
     {
       "album": {
+        "name": "HAPPENS",
+        "url": "https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj"
+      },
+      "artists": [
+        {
+          "name": "LUCIIA",
+          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "HAPPENS",
+      "url": "https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp"
+    },
+    {
+      "album": {
         "name": "HARLEY QUINN (feat. Sara Bee)",
         "url": "https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl"
       },
@@ -1594,7 +1750,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 141994,
       "name": "HARLEY QUINN (feat. Sara Bee)",
       "url": "https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe"
@@ -1616,7 +1772,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 150000,
       "name": "Heal My Heart",
       "url": "https://open.spotify.com/track/5RaIR7tKEdO3tf4gpSgQ7P"
@@ -1685,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Hei kuski (feat. Elias Gould)",
+        "url": "https://open.spotify.com/album/0GYxct8Pog06gIMvnS5PF4"
+      },
+      "artists": [
+        {
+          "name": "Pekka Nisu",
+          "url": "https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS"
+        },
+        {
+          "name": "Elias Gould",
+          "url": "https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Hei kuski (feat. Elias Gould)",
+      "url": "https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ"
+    },
+    {
+      "album": {
         "name": "Hello World (Song of the Olympics\u2122)",
         "url": "https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ"
       },
@@ -1736,7 +1914,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
@@ -2016,7 +2194,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 190703,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/5GhE7FhBZrlVx4Car9FEeW"
@@ -2148,7 +2326,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 170412,
       "name": "It Could Have Been Us (feat. Griff)",
       "url": "https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4"
@@ -2307,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "KES\u00c4Y\u00d6",
+        "url": "https://open.spotify.com/album/7HZSF2I6xv96pD1UvLuV18"
+      },
+      "artists": [
+        {
+          "name": "TEOS",
+          "url": "https://open.spotify.com/artist/1Px3SD1KMg3HPgxiH29w4l"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "KES\u00c4Y\u00d6",
+      "url": "https://open.spotify.com/track/4Abin3Jltg751thAWnNxm8"
+    },
+    {
+      "album": {
         "name": "Kielletty puheenaihe",
         "url": "https://open.spotify.com/album/5cahzQcSOQ5HYruF8LlkBQ"
       },
@@ -2318,7 +2514,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 206737,
       "name": "Kielletty puheenaihe",
       "url": "https://open.spotify.com/track/70xT1xflNvvsgkFFMcDyB9"
@@ -2358,7 +2554,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169250,
       "name": "Kolumbus (feat. Mikael Gabriel)",
       "url": "https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ"
@@ -2869,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "L\u00f6yt\u00e4\u00e4 mut",
+        "url": "https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169329,
+      "name": "L\u00f6yt\u00e4\u00e4 mut",
+      "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
+    },
+    {
+      "album": {
         "name": "Maailman ainoo",
         "url": "https://open.spotify.com/album/4fnhF8aDf8N70tSdJmHooq"
       },
@@ -2898,7 +3112,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 155038,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy"
@@ -3152,7 +3366,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169750,
       "name": "Mona Lisa On A Mattress",
       "url": "https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV"
@@ -3337,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "NO",
+        "url": "https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148946,
+      "name": "NO",
+      "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
+    },
+    {
+      "album": {
         "name": "Unaired",
         "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
       },
@@ -3468,6 +3700,24 @@
       "duration_ms": 162840,
       "name": "Olga",
       "url": "https://open.spotify.com/track/5Zm7wFXMkdPS7NQoGxmzWS"
+    },
+    {
+      "album": {
+        "name": "YUNO",
+        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "On / Off",
+      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
       "album": {
@@ -3631,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Perhosii",
+        "url": "https://open.spotify.com/album/2kPQrpvuXUbuyTnaCCvN3B"
+      },
+      "artists": [
+        {
+          "name": "JAVE",
+          "url": "https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "Perhosii",
+      "url": "https://open.spotify.com/track/5fYg0vJEYDWOyxwzNn9QnU"
+    },
+    {
+      "album": {
         "name": "Per\u00e4valot (feat. Ellinoora)",
         "url": "https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw"
       },
@@ -3646,7 +3914,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183749,
       "name": "Per\u00e4valot (feat. Ellinoora)",
       "url": "https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw"
@@ -3694,7 +3962,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
@@ -3858,6 +4126,24 @@
       "duration_ms": 199916,
       "name": "P\u00e4\u00e4st\u00e4 varpaisiin",
       "url": "https://open.spotify.com/track/4FbBHuCdza6S4WODZAvaDb"
+    },
+    {
+      "album": {
+        "name": "Quit You",
+        "url": "https://open.spotify.com/album/57VQXouu4qGH8PeTEs6CrU"
+      },
+      "artists": [
+        {
+          "name": "VIIO",
+          "url": "https://open.spotify.com/artist/7qPuL4RaYtQK8K5BOAOTgn"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/0K7EoELrRBNRHoSr9mKnzK"
     },
     {
       "album": {
@@ -4068,7 +4354,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 208439,
       "name": "Running",
       "url": "https://open.spotify.com/track/7AqZpf8ePwXbTjdDLkNCVn"
@@ -4176,7 +4462,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
@@ -4198,6 +4484,28 @@
       "duration_ms": 204962,
       "name": "Sinners",
       "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
+    },
+    {
+      "album": {
+        "name": "SOS (Sex on Sight) (feat. USHER)",
+        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265057,
+      "name": "SOS (Sex on Sight) (feat. USHER)",
+      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
       "album": {
@@ -4230,7 +4538,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
@@ -4310,6 +4618,54 @@
       "duration_ms": 174586,
       "name": "Stuff I Don't Need",
       "url": "https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq"
+    },
+    {
+      "album": {
+        "name": "Summer Drop (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168580,
+      "name": "Summer Drop (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
     },
     {
       "album": {
@@ -4512,7 +4868,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Tears For Fun",
       "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
@@ -4530,7 +4886,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
@@ -4602,7 +4958,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 205714,
       "name": "Tied\u00e4t kuka m\u00e4\u00e4r\u00e4\u00e4",
       "url": "https://open.spotify.com/track/4121KrCMMZXpfOGcqTgz96"
@@ -4795,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Turhan takii",
+        "url": "https://open.spotify.com/album/0cvDiAxwXefb4VBgwCYO48"
+      },
+      "artists": [
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "Turhan takii",
+      "url": "https://open.spotify.com/track/4I6lc6axVLRZwLmjcE81MO"
+    },
+    {
+      "album": {
         "name": "Tuuks mukaan?",
         "url": "https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w"
       },
@@ -4846,7 +5220,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 148546,
       "name": "T\u00e4ydellinen",
       "url": "https://open.spotify.com/track/19mKgvz3lPyUJBXvnXXuvv"
@@ -5034,7 +5408,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 222016,
       "name": "Viel yhen kerran",
       "url": "https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd"
@@ -5082,6 +5456,24 @@
       "duration_ms": 164415,
       "name": "Viimeinen pisara (feat. Etta)",
       "url": "https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH"
+    },
+    {
+      "album": {
+        "name": "Viimeist\u00e4 kertaa",
+        "url": "https://open.spotify.com/album/6Ee33AgIPiJGkj3FEK1JiN"
+      },
+      "artists": [
+        {
+          "name": "yaya",
+          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168068,
+      "name": "Viimeist\u00e4 kertaa",
+      "url": "https://open.spotify.com/track/2mmU5dsdQoV1DZ147tOKTw"
     },
     {
       "album": {
@@ -5370,6 +5762,28 @@
       "duration_ms": 153577,
       "name": "ymm\u00e4ll\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2Br3nupAXeAbp6E4aiw6su"
+    },
+    {
+      "album": {
+        "name": "YOTD",
+        "url": "https://open.spotify.com/album/3ZN6COAEs5uvMpf5ucpLmH"
+      },
+      "artists": [
+        {
+          "name": "Loki Wildin",
+          "url": "https://open.spotify.com/artist/06VuScuz37y1ILce5wM4pE"
+        },
+        {
+          "name": "Synsy",
+          "url": "https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153644,
+      "name": "YOTD",
+      "url": "https://open.spotify.com/track/2QNjWKQFFtSymTooVchMhO"
     },
     {
       "album": {

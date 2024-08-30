@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Smada & ODMODUBLVCK
 
-290 songs - 15 hr 17 min
+291 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-03-16 | 2024-04-19 |
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-03-16 | 2024-07-27 |
 | [Get It and Go](https://open.spotify.com/track/0X3A6lEN3e47GKrWFHjXvY) | [Priestdebeast](https://open.spotify.com/artist/5ePkwR8emD9thPqr9jFuvN), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Blikkyy2drill](https://open.spotify.com/artist/1DDjtdDkM8iJ1bFY5f5MCB) | [Get It and Go](https://open.spotify.com/album/4YPqA3ncCIgdTt53HG6pXp) | 2:20 | 2021-11-18 | 2022-03-25 |
-| [GHOST](https://open.spotify.com/track/0xCKxqaai05km1YorLdqqt) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [GHOST](https://open.spotify.com/album/1u8b0DTDnDGkki5W6CQr0U) | 1:49 | 2024-07-05 |  |
+| [GHOST](https://open.spotify.com/track/0xCKxqaai05km1YorLdqqt) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [GHOST](https://open.spotify.com/album/1u8b0DTDnDGkki5W6CQr0U) | 1:49 | 2024-07-05 | 2024-08-30 |
 | [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-10-28 | 2023-01-20 |
 | [Grandad](https://open.spotify.com/track/35Q5ldq74wOaAErCmL9OQZ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Roots](https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx) | 3:11 | 2021-10-14 | 2022-06-10 |
 | [Guestlist](https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Guestlist](https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4) | 3:54 | 2021-10-14 | 2022-10-21 |
@@ -139,6 +139,7 @@
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2021-10-14 | 2024-07-27 |
 | [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 | 2024-01-05 | 2024-05-09 |
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-01-12 |  |
+| [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 | 2024-08-29 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 | 2023-10-13 |
 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 | 2022-04-21 | 2023-09-15 |
 | [Jungle Music, Pt.1](https://open.spotify.com/track/3lHz5md9boT0yiIDRutanu) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Jungle Music, Pt.1](https://open.spotify.com/album/1u53HTtDzE94WWWoGFUCFy) | 3:05 | 2024-02-16 | 2024-02-22 |

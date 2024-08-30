@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Lamu
+> East Africa queens in their music bag\. Cover: Nadia Mukami
 
-146 songs - 7 hr 46 min
+148 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blue Print \- Official Audio](https://open.spotify.com/track/5LMs2FmgS1W7l3C5Wx824v) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Blue Print \(Official Audio\)](https://open.spotify.com/album/5HcuKyDldkZjAnOOUe4s4l) | 3:19 | 2022-07-18 | 2022-12-17 |
 | [Boom Party](https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Boom Party](https://open.spotify.com/album/2raBDiITs682lZEHzVaPiP) | 3:25 | 2022-07-18 | 2022-07-30 |
 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 | 2023-06-01 |  |
+| [Bye Bye](https://open.spotify.com/track/09yRCMD4zQW5oSPoCv3eku) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Queen of the East](https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN) | 3:41 | 2024-08-29 |  |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-07-18 | 2023-10-20 |
 | [Colours](https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Colours](https://open.spotify.com/album/4EoFzMW7gtpxK27BjkKoOd) | 3:44 | 2022-09-29 | 2024-02-16 |
 | [Conquer](https://open.spotify.com/track/0KJI0836GUL4JT258Y5v4z) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Conquer](https://open.spotify.com/album/5qoAudHr7rBpuEH7Z8wlQt) | 3:36 | 2024-07-12 |  |
@@ -66,7 +67,7 @@
 | [Love Commissioner](https://open.spotify.com/track/1TKPuXEo6va9g9GtY6YuOo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr), [David Lutalo](https://open.spotify.com/artist/6oSfZEWn2BRxv81M5JwKXl) | [Love Commissioner](https://open.spotify.com/album/3GwTRy50XVuhcsKiUh2Wad) | 3:55 | 2024-07-12 |  |
 | [Love So Hard](https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ) | [Neliah](https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5) | [Love So Hard](https://open.spotify.com/album/6ZeXSuv1si3Mobh4Z446Wz) | 3:40 | 2024-05-17 | 2024-06-01 |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2022-07-18 | 2023-10-27 |
-| [Maajab](https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab](https://open.spotify.com/album/5d1qznmP03spOwDdS60r57) | 3:18 | 2023-06-23 |  |
+| [Maajab](https://open.spotify.com/track/6UhQxlDPo4OqzwNyvH6xIQ) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab](https://open.spotify.com/album/5d1qznmP03spOwDdS60r57) | 3:18 | 2023-06-23 | 2024-08-30 |
 | [Maajab \(Deluxe Version\)](https://open.spotify.com/track/3vroJW3uILAcovFGkrMp3G) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Maajab \(Deluxe Version\)](https://open.spotify.com/album/5iYZH8RsTKQKQeJdt4Xaje) | 3:18 | 2023-06-30 | 2024-04-19 |
 | [Mad Man](https://open.spotify.com/track/5v8HPYHWaq4qC1OO3WPGQz) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Mad Man](https://open.spotify.com/album/6iV8YILfRjXdBhqH83gL2q) | 3:05 | 2022-10-27 | 2023-11-18 |
 | [Mahaba Rundo](https://open.spotify.com/track/7IQHfseN0kGCQuUrfpfPKn) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 2:46 | 2024-08-15 |  |
@@ -110,6 +111,7 @@
 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 | 2022-07-18 | 2024-04-19 |
 | [Pomoni](https://open.spotify.com/track/6XKvZYp4RFUynZf6XUXrEC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [Moonsoon](https://open.spotify.com/album/7LTHIDC5Ui2HzF50HTeOzD) | 3:16 | 2024-03-07 |  |
 | [Praises to Mama](https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX) | [Praises to Mama](https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH) | 4:10 | 2022-07-18 | 2023-08-18 |
+| [Pwita](https://open.spotify.com/track/6y1tOPuICUUq5f5yMUphnU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Pwita](https://open.spotify.com/album/6QsCgfgZ8Z53yNlq8oXMVU) | 3:24 | 2024-08-29 |  |
 | [Ra\(Mna\)fiki](https://open.spotify.com/track/3xjATULksJEFygp6yZHXmt) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 3:12 | 2024-05-30 |  |
 | [Raha](https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Raha](https://open.spotify.com/album/1wroced4483UjUHEPZXfzA) | 3:14 | 2023-06-01 |  |
 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 | 2022-07-18 | 2023-10-20 |
@@ -120,7 +122,7 @@
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2024-01-29 |  |
 | [Sita Sita](https://open.spotify.com/track/45Ii0U4wJk9YcIuPRYkLuJ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Flavour](https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H) | 3:33 | 2023-05-11 |  |
 | [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 | 2022-07-18 | 2024-04-19 |
-| [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 | 2022-07-18 |  |
+| [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 | 2022-07-18 | 2024-08-30 |
 | [Sitaki](https://open.spotify.com/track/3jLbPvmEX7niNIoFCQjY7I) | [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Tufanye?](https://open.spotify.com/album/6HbpDwNycYIw628UtTGiT0) | 3:48 | 2024-03-28 |  |
 | [Sitaki Mazoea](https://open.spotify.com/track/2dmwsNaaASKGnkZZJq7LAD) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sitaki Mazoea](https://open.spotify.com/album/7q5AQ6op2G8ETzjoykpK45) | 2:24 | 2022-07-18 | 2023-08-18 |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 | 2022-08-20 |

@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "La pluie" de Louane est le Grand Hit de la semaine.
+> "Résister \(What about Peace?\)" de Slimane est le Grand Hit de la semaine.
 
 170 songs - 8 hr 45 min
 

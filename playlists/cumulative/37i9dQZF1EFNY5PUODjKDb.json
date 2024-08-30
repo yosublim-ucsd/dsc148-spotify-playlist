@@ -871,6 +871,28 @@
     },
     {
       "album": {
+        "name": "Sarah Brightman Sings The Music Of Andrew Lloyd Webber",
+        "url": "https://open.spotify.com/album/50K8UfkBAs07AeowshVkWL"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Anything But Lonely - From \"Aspects Of Love\"",
+      "url": "https://open.spotify.com/track/366rFtCHaQHo0tzGr4GoKw"
+    },
+    {
+      "album": {
         "name": "Aspects Of Love (Original London Cast Recording / Remastered 2005)",
         "url": "https://open.spotify.com/album/3AhJavqwsQzTyp3PTeeF8l"
       },
@@ -894,7 +916,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 318160,
       "name": "Anything But Lonely - Version 2 / Live",
       "url": "https://open.spotify.com/track/1pjDGo6EucS0bEmgWVtVWX"
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 237106,
       "name": "Finale",
       "url": "https://open.spotify.com/track/3kfkGTugnZKFtwcjLTMJbX"
@@ -6650,6 +6672,40 @@
       "duration_ms": 144533,
       "name": "Outside The Bedroom - Live",
       "url": "https://open.spotify.com/track/7KAgwhoIIKJa2Mo811NUAO"
+    },
+    {
+      "album": {
+        "name": "Aspects Of Love (Original London Cast Recording / Remastered 2005)",
+        "url": "https://open.spotify.com/album/3AhJavqwsQzTyp3PTeeF8l"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Diana Morrison",
+          "url": "https://open.spotify.com/artist/0J6bhvX8y9dL9nihwHxwQo"
+        },
+        {
+          "name": "Michael Ball",
+          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
+        },
+        {
+          "name": "Kevin Colson",
+          "url": "https://open.spotify.com/artist/4iUtB3w5pCCnkqXn0sYyai"
+        },
+        {
+          "name": "Ann Crumb",
+          "url": "https://open.spotify.com/artist/3EGDTGoU2VeW0s3io8IbhC"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118546,
+      "name": "Outside The Circus: Falling - Live",
+      "url": "https://open.spotify.com/track/7H0K6nlR18vuch5nP0yZkb"
     },
     {
       "album": {
@@ -10500,7 +10556,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 84666,
       "name": "Third Letter Home",
       "url": "https://open.spotify.com/track/5jzMTV7XkGjNnfqUCG63Ic"
@@ -10916,7 +10972,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 140906,
       "name": "Variation 5 - Live",
       "url": "https://open.spotify.com/track/7oKx1P6gWeixVp4puqIC0n"

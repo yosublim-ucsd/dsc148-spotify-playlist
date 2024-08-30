@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Senya ja Sara Bee.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1422,10 +1422,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160536,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/0S2MNzOmR1QW2jAwR6KgLi"
+    },
+    {
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/3cFnI28cSrO7RSJk6PZGjG"
+      },
+      "artists": [
+        {
+          "name": "Yeboyah",
+          "url": "https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147069,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/0TUDaiLA9lJXaysRuslRc6"
     },
     {
       "album": {
@@ -5237,6 +5255,28 @@
     },
     {
       "album": {
+        "name": "Korttelipoikii",
+        "url": "https://open.spotify.com/album/0vptg2snCTebe5cOqSaiIH"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154484,
+      "name": "Korttelipoikii",
+      "url": "https://open.spotify.com/track/3kafWYTkrtS6vNXdmR7MWq"
+    },
+    {
+      "album": {
         "name": "Kot Kot",
         "url": "https://open.spotify.com/album/0pi6WhiLCzJydgmIYwyudY"
       },
@@ -6178,6 +6218,32 @@
       "duration_ms": 134069,
       "name": "Lopputulos",
       "url": "https://open.spotify.com/track/6AWKC64ZQBu4EqCem2d4YJ"
+    },
+    {
+      "album": {
+        "name": "Lotos",
+        "url": "https://open.spotify.com/album/62sn1QfUsrtFzR9A8KUO3F"
+      },
+      "artists": [
+        {
+          "name": "Chebaleba",
+          "url": "https://open.spotify.com/artist/7FXHLGDZv4fx2vg3LHLoGJ"
+        },
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        },
+        {
+          "name": "Jivefunk",
+          "url": "https://open.spotify.com/artist/5z8wjGd1fnvewcoj9XFCox"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Lotos",
+      "url": "https://open.spotify.com/track/1XVSWIxUHRfiG5kk5rsa2S"
     },
     {
       "album": {
@@ -7194,7 +7260,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 136969,
       "name": "Misfit (feat. Kube)",
       "url": "https://open.spotify.com/track/5TRm7QVtnVqcFrhfOvJoKd"
@@ -7470,7 +7536,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 136800,
       "name": "Mowgli",
       "url": "https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC"
@@ -8203,6 +8269,24 @@
     },
     {
       "album": {
+        "name": "YUNO",
+        "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "On / Off",
+      "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
+    },
+    {
+      "album": {
         "name": "Onks se kuollu? (feat. Pihlaja)",
         "url": "https://open.spotify.com/album/2IGkYJ4tZhFTyR5tPTl5Gj"
       },
@@ -8272,7 +8356,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 167941,
       "name": "Oot fine",
       "url": "https://open.spotify.com/track/6I9f8FOhPaCSugTuogvTPc"
@@ -9096,7 +9180,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 143857,
       "name": "PUM PUM",
       "url": "https://open.spotify.com/track/4ORilZ3pic1Ptw2xS9aQO5"

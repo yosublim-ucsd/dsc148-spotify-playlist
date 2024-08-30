@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,357 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,361 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 42 | [La Vida](https://open.spotify.com/track/4MUaHpY0xqJK4Kmw7o4XOQ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L) | [Seremos Tango](https://open.spotify.com/album/7m7svuLhtOj342FEDVOevp) | 3:39 |
 | 43 | [Toda Mi Vida](https://open.spotify.com/track/75gpWV9FUZ1SfndAECb5qv) | [María José Mentana](https://open.spotify.com/artist/2YbZKgdAtwTIpabYIfUJ5X), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Cien Troilos](https://open.spotify.com/album/3TvrHvdAHn3tLcDAI1CFxo) | 2:50 |
 | 44 | [Laura Va](https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:15 |
-| 45 | [Yira Yira](https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 3:01 |
+| 45 | [Yendo a la Casa de Damián](https://open.spotify.com/track/27JpiXdW4QmLwYQaQYymY2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6ZLNLqqFwnoyqrzRxtHEzt) | 4:16 |
 
 Snapshot ID: `ZIsSnQAAAAD69VDkU1zyOpRIHGgtKuAw`

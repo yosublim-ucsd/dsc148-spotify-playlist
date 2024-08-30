@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Holiday](https://open.spotify.com/playlist/37i9dQZF1DX1qPYE0fcNDF)
 
-> Hip\-Hop and Happy Holidays! Cover: Gucci Mane
+> Hip\-Hop and Happy Holidays!
 
 81 songs - 4 hr 34 min
 

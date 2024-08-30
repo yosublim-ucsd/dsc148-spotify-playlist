@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Sofi Tukker",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: WUKONG",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Angel Aura",
+        "url": "https://open.spotify.com/album/5uBdKqFDVVBWiUVHX3nS04"
+      },
+      "artists": [
+        {
+          "name": "WUKONG",
+          "url": "https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Angel Aura",
+      "url": "https://open.spotify.com/track/1n8HTuYxZ7h31ks4LCUvCN"
+    },
+    {
+      "album": {
         "name": "Animal (with Jason Derulo)",
         "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
       },
@@ -2357,6 +2375,28 @@
     },
     {
       "album": {
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "MarcLo",
+          "url": "https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139836,
+      "name": "Before I Let You Go (feat. MarcLo)",
+      "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
+    },
+    {
+      "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
       },
@@ -2430,7 +2470,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169846,
       "name": "Believe in Me",
       "url": "https://open.spotify.com/track/2LCnpwHCGR3RW5YmJWyLYH"
@@ -2496,7 +2536,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 215021,
       "name": "Berlin Nightmare (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/0ZZgJ88wX7vdRQSFEW04FM"
@@ -2610,7 +2650,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 224500,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/49zCOUoqcuahGv5LDYSPfC"
@@ -4650,7 +4690,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 224516,
       "name": "Conjunction",
       "url": "https://open.spotify.com/track/2bT2JT5s2pe6OCS7QDbFw1"
@@ -7061,6 +7101,28 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0kPrrEMt3ShdXXZxNBCvdy"
+      },
+      "artists": [
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        },
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Ethernal",
+      "url": "https://open.spotify.com/track/67UOBhv3Ak7FUCHLZ4nSeg"
+    },
+    {
+      "album": {
         "name": "Ethnica (Pasilda)",
         "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
       },
@@ -8188,6 +8250,28 @@
       "duration_ms": 188891,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
+    },
+    {
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "album": {
@@ -11196,7 +11280,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 177756,
       "name": "Home",
       "url": "https://open.spotify.com/track/76oZCBwQdihccib1CS6yiK"
@@ -13122,7 +13206,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 158666,
       "name": "Junction 3",
       "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
@@ -13504,7 +13588,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 235334,
       "name": "Lake Como",
       "url": "https://open.spotify.com/track/1YbCXXEyvRtp8GzJFSxEj2"
@@ -14377,6 +14461,24 @@
     },
     {
       "album": {
+        "name": "Live In It",
+        "url": "https://open.spotify.com/album/2MHIEphCgeL7ZqA7cNL4au"
+      },
+      "artists": [
+        {
+          "name": "Rizpect",
+          "url": "https://open.spotify.com/artist/4r034u9sTKzSM6XTfJbMol"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Live In It",
+      "url": "https://open.spotify.com/track/4EkUQ6nX6jXq8XcWwBf4CL"
+    },
+    {
+      "album": {
         "name": "Live It With You",
         "url": "https://open.spotify.com/album/4uZRZIJeSqDsbuAmhwRVXb"
       },
@@ -15154,7 +15256,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172727,
       "name": "Love You for the Summer",
       "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
@@ -19867,6 +19969,28 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw"
+    },
+    {
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -19926,7 +20050,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 148781,
       "name": "Perfect Pinterest Garden",
       "url": "https://open.spotify.com/track/1VD9irJC3S3cyKrYoq9ymL"
@@ -23058,7 +23182,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 260023,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/0wNJdtdAZ5BR0mzWKjAOuQ"
@@ -23124,7 +23248,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 190666,
       "name": "SOMETHING AIN'T RIGHT",
       "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
@@ -24511,6 +24635,32 @@
     },
     {
       "album": {
+        "name": "Teenage Crime",
+        "url": "https://open.spotify.com/album/3XKqy65bPnZ6Ic7FKuuaw7"
+      },
+      "artists": [
+        {
+          "name": "Infraction",
+          "url": "https://open.spotify.com/artist/7qlhXQA7QMXRwHtfTcQoyJ"
+        },
+        {
+          "name": "Alexi Action",
+          "url": "https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw"
+        },
+        {
+          "name": "Solina",
+          "url": "https://open.spotify.com/artist/30aS844d1Z9H1wjYvoPr9q"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Teenage Crime",
+      "url": "https://open.spotify.com/track/5fusHmFCPhaiGcEVigKGL4"
+    },
+    {
+      "album": {
         "name": "Teka (with Peso Pluma)",
         "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
       },
@@ -24989,6 +25139,28 @@
     },
     {
       "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "album": {
         "name": "Sekora in Retrospect 2023",
         "url": "https://open.spotify.com/album/30SXd2dFPvAQlhwegnoaTD"
       },
@@ -25082,7 +25254,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 151598,
       "name": "The Way You Are",
       "url": "https://open.spotify.com/track/13IWWry8odly0DrRbBGJjH"
@@ -28254,6 +28426,32 @@
       "duration_ms": 196899,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/2kSeHGOBmM7JnrBnnRmIZQ"
+    },
+    {
+      "album": {
+        "name": "Wondering Why",
+        "url": "https://open.spotify.com/album/2oVyJpTR45lLZP51xLuT5y"
+      },
+      "artists": [
+        {
+          "name": "L.A",
+          "url": "https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2"
+        },
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        },
+        {
+          "name": "Alia Faye",
+          "url": "https://open.spotify.com/artist/7q5hfeNEOcoVyIPA9TWt8V"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16"
     },
     {
       "album": {

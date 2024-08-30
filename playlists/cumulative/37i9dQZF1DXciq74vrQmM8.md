@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Cassyette
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Bambie Thug
 
-943 songs - 1 day 21 hr 32 min
+945 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Chained Into My Brain](https://open.spotify.com/track/3PL15g18dHsv9j2japWLeZ) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [SCUM](https://open.spotify.com/album/30Vekn7zrEIyTT0IKTrI93) | 2:55 | 2023-11-10 | 2024-02-02 |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-04-19 | 2022-04-29 |
 | [CHAOS](https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [CHAOS](https://open.spotify.com/album/7vNoEhF5nw6OltQxoeIgtE) | 2:56 | 2022-03-31 | 2022-08-05 |
-| [CHARD](https://open.spotify.com/track/1rP3OlKaeG6Ut6ln3Eho1u) | [BUBZ](https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p) | [CHARD](https://open.spotify.com/album/6uBADeHAYEhFUtzz2SfoJx) | 3:22 | 2024-08-08 |  |
+| [CHARD](https://open.spotify.com/track/1rP3OlKaeG6Ut6ln3Eho1u) | [BUBZ](https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p) | [CHARD](https://open.spotify.com/album/6uBADeHAYEhFUtzz2SfoJx) | 3:22 | 2024-08-08 | 2024-08-30 |
 | [Cheap Love](https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Cheap Love](https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9) | 3:05 | 2023-03-30 | 2023-05-20 |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-27 | 2024-03-08 |
 | [chicago](https://open.spotify.com/track/6SkptVZ2SEfSJRxV84TMsR) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [chicago](https://open.spotify.com/album/18wcMl1vO8YBg4Xrq0Dwm7) | 3:04 | 2024-01-12 | 2024-06-14 |
@@ -391,6 +391,7 @@
 | [Hello Kitty](https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 2:31 | 2021-12-27 | 2022-02-04 |
 | [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 | 2023-06-29 | 2023-07-28 |
 | [Here \(In Your Arms\)](https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Zombies! Aliens! Vampires! Dinosaurs!](https://open.spotify.com/album/6caG763FP5oUCdxklebHh6) | 4:00 | 2024-05-28 | 2024-06-07 |
+| [Hex So Heavy](https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Hex So Heavy](https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4) | 3:05 | 2024-08-29 |  |
 | [Hey Big Man](https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:42 | 2022-12-02 | 2023-02-17 |
 | [Hey Joe \(Relax\)](https://open.spotify.com/track/0ZZD2LaUgSslFrnn48Ftez) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:31 | 2022-10-13 | 2022-11-11 |
 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 | 2022-10-13 | 2022-12-01 |
@@ -642,6 +643,7 @@
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-09 | 2024-08-23 |
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-01 | 2023-06-30 |
+| [Overwhelming](https://open.spotify.com/track/3Mc0QasTpouabBFgz7L48c) | [Raven Numan](https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI) | [Overwhelming](https://open.spotify.com/album/2F4AFhVkQs4mgDH12dFru4) | 3:41 | 2024-08-29 |  |
 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 | 2021-12-27 | 2022-02-18 |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2022-04-19 | 2022-04-29 |
 | [pantychrist](https://open.spotify.com/track/27DeRdtJaFAm1GIwxyu49B) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [pantychrist](https://open.spotify.com/album/0Gji77UOi0Y8AD2x4aeCbi) | 2:47 | 2022-04-19 | 2023-02-24 |

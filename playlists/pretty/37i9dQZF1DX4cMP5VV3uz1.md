@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,655 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,677 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 30 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 |
 | 31 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
 | 32 | [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 |
-| 33 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 |
-| 34 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
+| 33 | [where's my head at \_](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [where's my head at \_](https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60) | 2:32 |
+| 34 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 |
 | 35 | [Spend The Night](https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Spend The Night](https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7) | 3:07 |
 | 36 | [Lies](https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Lies](https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs) | 3:04 |
 | 37 | [Say My Name](https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Say My Name](https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD) | 2:39 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 66 | [Relapse](https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Relapse EP](https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV) | 4:28 |
 | 67 | [Yoyo Bop](https://open.spotify.com/track/1jPUQm6P8XyTqYFEYnnTYT) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Yoyo Bop](https://open.spotify.com/album/4rzQ6jiV2sFzWMzahgAU3t) | 3:44 |
 | 68 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
-| 69 | [Killamanjaro](https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Killamanjaro](https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr) | 2:58 |
-| 70 | [Cuppa Tea](https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Cuppa Tea](https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU) | 3:26 |
+| 69 | [Cuppa Tea](https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Cuppa Tea](https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU) | 3:26 |
+| 70 | [Killamanjaro](https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Killamanjaro](https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr) | 2:58 |
 | 71 | [Ninja Bike](https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [CLSM](https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk) | [Ninja Bike](https://open.spotify.com/album/7lozbB05OVPex60QL9lVyr) | 2:57 |
 | 72 | [Sabertooth](https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Sabertooth](https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl) | 4:26 |
 | 73 | [Perfect Harmony \- Phibes VIP](https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Perfect Harmony \(Phibes VIP\)](https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6) | 2:43 |
 | 74 | [Outlaw](https://open.spotify.com/track/45g7ik10mOQ2YCv0lOULLP) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Outlaw](https://open.spotify.com/album/4qgo6AVeJsQOqVMYDSoV0U) | 3:29 |
 | 75 | [Rudeboy](https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Rudeboy](https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr) | 2:54 |
 
-Snapshot ID: `ZseSsgAAAABO/UfMqreHkQcZ9Z4jORun`
+Snapshot ID: `ZtD9cAAAAAC1U194KiOzZSTwgaDwypQX`

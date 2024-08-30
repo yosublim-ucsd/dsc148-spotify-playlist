@@ -11913,6 +11913,32 @@
     },
     {
       "album": {
+        "name": "Why So Serious",
+        "url": "https://open.spotify.com/album/2yrPY9ZmslJ8oz3n3DjAHZ"
+      },
+      "artists": [
+        {
+          "name": "Sync",
+          "url": "https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13"
+        },
+        {
+          "name": "Roby Fayer",
+          "url": "https://open.spotify.com/artist/4jGepMIeeVxeLrikEinXMs"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Why So Serious",
+      "url": "https://open.spotify.com/track/5DJlIx8QA0f8zVY4HxuyYt"
+    },
+    {
+      "album": {
         "name": "Why We Lose",
         "url": "https://open.spotify.com/album/4oDVpaNimKnYHNva9S7vMs"
       },

@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Greccia.
 
-387 songs - 21 hr 10 min
+388 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Balada Borracha](https://open.spotify.com/track/4NPgATaM6E5lmf9iCSfu2L) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Vuelve](https://open.spotify.com/album/5Etz4hHQKyjwMBNQ2A0G4i) | 4:03 | 2022-11-02 | 2022-11-13 |
 | [Bebo Por Ti](https://open.spotify.com/track/49j5UGqyYuhoiJR0tJrDRe) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [Luis Manuel](https://open.spotify.com/artist/7bRr5GgLDiOTJaPk811VIR), [Carlitos Quiroz](https://open.spotify.com/artist/27BHGTrsb2XuRZxegJOUQc) | [Bebo Por Ti](https://open.spotify.com/album/4CLJcKL5tDvW9F6ZJbrlK4) | 2:41 | 2024-05-01 | 2024-06-06 |
 | [Bellakita](https://open.spotify.com/track/7anoUUKKK3GQOpdR3BSGsE) | [Soley GJ](https://open.spotify.com/artist/6XwiSUANGc1xBWtSXeL1EY) | [Bellakita](https://open.spotify.com/album/2ODMDBV9TXCofogxYdP5oG) | 2:42 | 2023-02-01 | 2023-03-02 |
+| [Bendecida $ afortunada](https://open.spotify.com/track/1Kwo91GVpyrAFHCrByfFB1) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 2:39 | 2024-08-29 |  |
 | [Bendita](https://open.spotify.com/track/3m8AWXDWe8Voc71iww3a6D) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 3:19 | 2024-03-06 | 2024-04-04 |
 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-17 | 2023-11-22 |
 | [Bienvenidos al tren](https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Bienvenidos al tren](https://open.spotify.com/album/4XGsUek1AvzOy2oQYYeyrs) | 5:03 | 2023-01-04 | 2023-06-15 |
@@ -286,7 +287,7 @@
 | [Pa' Que Bailen](https://open.spotify.com/track/2WJkwdvKDAiCi8SL0Njq3M) | [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm), [ZooMusic](https://open.spotify.com/artist/0d6OtwqpMaXDLWo33AsNP4) | [Mundo Lila](https://open.spotify.com/album/0GJCg7JYfBjft9bskSQVc7) | 3:13 | 2024-06-05 | 2024-07-04 |
 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 | 2024-07-03 |  |
 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 | 2022-01-05 | 2022-03-10 |
-| [Para Que](https://open.spotify.com/track/66xcmIG3jt2YGekLctpH6e) | [Ana & Jaime](https://open.spotify.com/artist/5kG6asc4JG03E54SLVaapf) | [Los Años Inmensos](https://open.spotify.com/album/5nrncrDRqLLFmAGKtREqZg) | 2:44 | 2024-07-03 |  |
+| [Para Que](https://open.spotify.com/track/66xcmIG3jt2YGekLctpH6e) | [Ana & Jaime](https://open.spotify.com/artist/5kG6asc4JG03E54SLVaapf) | [Los Años Inmensos](https://open.spotify.com/album/5nrncrDRqLLFmAGKtREqZg) | 2:44 | 2024-07-03 | 2024-08-30 |
 | [Para Variar](https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para Variar](https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw) | 2:59 | 2024-03-08 |  |
 | [Para Verte](https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2024-05-01 | 2024-08-17 |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-01 | 2023-04-06 |

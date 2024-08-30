@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 334389,
+  "num_followers": 334442,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAADuHIMENwi1jxlFCi5/FBQQ",
+  "snapshot_id": "Zs5ogAAAAACMiuhWeLqNbldAvaoVJPtq",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
-      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 137480,
       "name": "A Hazy Shade of Winter",
       "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4Em5W5HgYEvhpc2elrpKES"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "For Emily, Whenever I May Find Her - Live in St. Louis, MO - November 1969",
+      "url": "https://open.spotify.com/track/0R0Ef3xXCpHLzwwhXX39kq"
     },
     {
       "added_at": null,

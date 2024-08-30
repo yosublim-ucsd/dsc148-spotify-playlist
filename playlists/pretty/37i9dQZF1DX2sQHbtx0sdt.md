@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Central Cee 🇬🇧 & JRK 19 🇫🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,976 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,937 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 18 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 |
 | 19 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 |
 | 20 | [Keep Up](https://open.spotify.com/track/0xHGM3o0Ns51ZPZKdnN3o0) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Keep Up / All Night](https://open.spotify.com/album/2RGLsqqp9TiFYMvZjcpcVW) | 2:04 |
-| 21 | [soak city \(do it arabic\) \(feat\. 310babii\)](https://open.spotify.com/track/319H7pNCSER5SrnrrovAip) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it arabic\) \[feat\. 310babii\]](https://open.spotify.com/album/3HaxhpuYLXnum0f41lY1SY) | 2:16 |
+| 21 | [soak city \(do it arabic\)](https://open.spotify.com/track/319H7pNCSER5SrnrrovAip) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [soak city \(do it arabic\)](https://open.spotify.com/album/3HaxhpuYLXnum0f41lY1SY) | 2:16 |
 | 22 | [Comprendo](https://open.spotify.com/track/1TTTXti79eGYmR1kE7VI9r) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Comprendo](https://open.spotify.com/album/67dHBx9SPvbc0fiz8KzgPv) | 3:33 |
 | 23 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 |
 | 24 | [Get This Money](https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money](https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3) | 2:34 |

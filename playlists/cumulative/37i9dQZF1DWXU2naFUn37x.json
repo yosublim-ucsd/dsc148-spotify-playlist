@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: ANNA",
+  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Shiva",
   "name": "Street Culto",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 128925,
       "name": "$OLDI DI TUO PADRE",
       "url": "https://open.spotify.com/track/1Fu0KIYfFUyVZrB2ESHldi"
@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Carne e ossa",
+      "url": "https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0"
+    },
+    {
+      "album": {
         "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
         "url": "https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6"
       },
@@ -2814,6 +2832,28 @@
       "duration_ms": 244363,
       "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
       "url": "https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2"
+    },
+    {
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235999,
+      "name": "Carnicero (feat. Marracash)",
+      "url": "https://open.spotify.com/track/09N44sKefn4X4D5M0rkpod"
     },
     {
       "album": {
@@ -7177,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "Mandante",
+        "url": "https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Mandante",
+      "url": "https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn"
+    },
+    {
+      "album": {
         "name": "MAR7ABA (feat. Nabi)",
         "url": "https://open.spotify.com/album/0EzPLBiSfAiOYD1q68c6ch"
       },
@@ -8510,6 +8568,24 @@
       "duration_ms": 162318,
       "name": "Notte in Caserma",
       "url": "https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw"
+    },
+    {
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Nu cuofn \u2018e sord",
+      "url": "https://open.spotify.com/track/4JkMzHPcaI9QJweua55aHf"
     },
     {
       "album": {

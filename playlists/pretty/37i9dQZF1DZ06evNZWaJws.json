@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 309727,
+  "num_followers": 309815,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAADh74UrKlGLZDG8BU7fyCDT",
+  "snapshot_id": "Zs5ogAAAAAD5bXmj0m9b20cmeKruVo6X",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdoname Mi Amor",
-        "url": "https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Suena La Banda",
-      "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tucanes De Plata ... Tucanazos Censurados",
         "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 164320,
       "name": "El Doctor Del Pueblo",
       "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Suena La Banda",
+      "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
     },
     {
       "added_at": null,

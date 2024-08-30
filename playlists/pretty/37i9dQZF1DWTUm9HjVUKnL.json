@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 220145,
+  "num_followers": 220155,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrIxTAAAAAAiocSWiH9aoY0RHPUT4S27",
+  "snapshot_id": "ZtByKQAAAAAQGFmmQDNi8uiNEzOS9xT3",
   "tracks": [
+    {
+      "added_at": "2024-08-29 13:05:45",
+      "album": {
+        "name": "Love Raider - Spotify Singles",
+        "url": "https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Love Raider - Spotify Singles",
+      "url": "https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk"
+    },
+    {
+      "added_at": "2024-08-29 12:59:33",
+      "album": {
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
+    },
     {
       "added_at": "2024-08-06 14:21:00",
       "album": {
@@ -7556,7 +7588,7 @@
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
+          "name": "Babasonicos",
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
@@ -7572,7 +7604,7 @@
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
+          "name": "Babasonicos",
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],

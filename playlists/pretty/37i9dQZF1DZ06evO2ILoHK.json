@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 10119,
+  "num_followers": 10127,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAACcadORbzpnR3XcWA7ehcWp",
+  "snapshot_id": "Zs5ogAAAAADQFeGjCIWbu9VcQWhO6NAA",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 215373,
-      "name": "Stigmata",
-      "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
+      "duration_ms": 177706,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
+      "duration_ms": 215373,
+      "name": "Stigmata",
+      "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
     },
     {
       "added_at": null,

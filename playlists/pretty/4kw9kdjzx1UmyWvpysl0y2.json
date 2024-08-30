@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS5xYqWC/rb+/uD/r++fLYYCk2qvBf",
+  "snapshot_id": "AAAS6Z0fftgOEKvK/EgbPPKcWp1LTNvc",
   "tracks": [
+    {
+      "added_at": "2024-08-29 14:47:45",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw"
+    },
     {
       "added_at": "2024-08-28 13:46:58",
       "album": {
@@ -1139,30 +1159,6 @@
       "duration_ms": 185379,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd"
-    },
-    {
-      "added_at": "2024-06-06 14:42:32",
-      "album": {
-        "name": "about you (Flava D Remix)",
-        "url": "https://open.spotify.com/album/1axmAwqa9T3PJ4yPBaMEdp"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Showjoe",
-          "url": "https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 184286,
-      "name": "about you - Flava D Remix",
-      "url": "https://open.spotify.com/track/4GQU46Vx4QVCH5tJqDsxYV"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

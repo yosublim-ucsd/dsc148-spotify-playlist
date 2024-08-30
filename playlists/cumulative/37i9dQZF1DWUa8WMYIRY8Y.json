@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Hozier",
+  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Nick Cave",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -580,6 +580,24 @@
       "duration_ms": 200261,
       "name": "Boy Scout",
       "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
+    },
+    {
+      "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3rw1GOrYg1HcyTUtioZ9c3"
+      },
+      "artists": [
+        {
+          "name": "Entropie",
+          "url": "https://open.spotify.com/artist/7203Lgw1JRJrINTJveF7Lm"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222494,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/06FgYdpoGD5W7yWAeIzRuW"
     },
     {
       "album": {
@@ -2213,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm"
+    },
+    {
+      "album": {
         "name": "Goodnight, God Bless, I Love U, Delete.",
         "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
       },
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 320946,
       "name": "Kid",
       "url": "https://open.spotify.com/track/0u0E9hMPj5BVf33BEN4HjR"
@@ -2480,7 +2516,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 213240,
       "name": "Long Dark Night",
       "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
@@ -3967,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Wild God",
+        "url": "https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216586,
+      "name": "Song Of The Lake",
+      "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
+    },
+    {
+      "album": {
         "name": "Space Invader",
         "url": "https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG"
       },
@@ -4014,7 +4068,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 172918,
+  "num_followers": 172957,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
-      },
-      "artists": [
-        {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "KIOX",
         "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 222642,
       "name": "Bei Dir",
       "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+      },
+      "artists": [
+        {
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Sag deinem Ex",
-        "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
-      },
-      "artists": [
-        {
-          "name": "JONA",
-          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Sag deinem Ex",
-      "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Diese Eine",
         "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 138924,
       "name": "Diese Eine",
       "url": "https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Sag deinem Ex",
+        "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Sag deinem Ex",
+      "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Herz",
         "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 210693,
       "name": "Liebe ist alles",
       "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2024-02-09 07:01:34",

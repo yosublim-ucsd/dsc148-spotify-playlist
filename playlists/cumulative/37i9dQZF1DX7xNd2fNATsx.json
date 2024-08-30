@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 165150,
       "name": "FRANK",
       "url": "https://open.spotify.com/track/5zHa6tYdr1k1pOBJPIv7Fw"
@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "I see you up tomorrow",
+        "url": "https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j"
+      },
+      "artists": [
+        {
+          "name": "Scratch Massive",
+          "url": "https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA"
+        },
+        {
+          "name": "Maud Geffray",
+          "url": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166972,
+      "name": "I see you up tomorrow",
+      "url": "https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN"
+    },
+    {
+      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -866,6 +888,28 @@
       "duration_ms": 212866,
       "name": "Late",
       "url": "https://open.spotify.com/track/0ny0lgetdxGbSsD8WnGXPp"
+    },
+    {
+      "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        },
+        {
+          "name": "LUCASV",
+          "url": "https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Let her go",
+      "url": "https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D"
     },
     {
       "album": {
@@ -1752,7 +1796,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"

@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154472,
       "name": "AWILOH",
       "url": "https://open.spotify.com/track/79aDBkQtJ7rb0nus3PlDX8"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 148225,
       "name": "AZAMAN",
       "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 130000,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 187499,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/1aDO0i7xGfyPXxzfBoOE4c"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159010,
       "name": "EGOWO",
       "url": "https://open.spotify.com/track/6gdDLIe1QvzRWccKs2CrJ9"
@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322209,
+      "name": "Fuji Vibe",
+      "url": "https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy"
+    },
+    {
+      "album": {
         "name": "Fun for Love",
         "url": "https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ"
       },
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 176413,
       "name": "HBP Remix (with Bella Shmurda)",
       "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 151172,
       "name": "High Fashion",
       "url": "https://open.spotify.com/track/7E16M5RsdOI7I5vz80qck0"
@@ -2824,6 +2842,32 @@
       "duration_ms": 135535,
       "name": "JOKORIKO (feat. Qdot)",
       "url": "https://open.spotify.com/track/4j8LBXFyTA0OetJEK877kf"
+    },
+    {
+      "album": {
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
       "album": {
@@ -4696,7 +4740,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160182,
       "name": "Shey'di Nla",
       "url": "https://open.spotify.com/track/0J0vjicC2PUVsm0c63O5AF"
@@ -5464,6 +5508,28 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "album": {
+        "name": "Timileyin 2.0",
+        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "Where I\u2019m from",
+      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
     },
     {
       "album": {

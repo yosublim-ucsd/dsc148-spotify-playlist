@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 
 > 
 
-[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 37 songs - 2 hr 36 min
+[abdelaziz](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 like - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,6 +44,5 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 | 34 | [The Sign \(feat\. Pase Rock\)](https://open.spotify.com/track/2g8vK3m0npTrzsADQAnbVO) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Pase Rock](https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:49 |
 | 35 | [Hold On to Love](https://open.spotify.com/track/4aaWZIJBGnsTdBbX6YuRx0) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u) | [In The City Of Angels](https://open.spotify.com/album/5gRUt3wH470P23aK37bqSj) | 4:46 |
 | 36 | [Age Ain't Nothing But a Number](https://open.spotify.com/track/3pJTQBXx4iT71L0iLaZhTT) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But a Number EP](https://open.spotify.com/album/7BxgeduIn0lu0x3r97RtjE) | 4:12 |
-| 37 | [Dreams, Fairytales, Fantasies \(feat\. Brent Faiyaz & Salaam Remi\)](https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 3:42 |
 
-Snapshot ID: `AAAAKHCMhyRGPALGiTIcfV4jMcKtYRbA`
+Snapshot ID: `AAAAKc9O/M2xvw2DVpT0N9oWWiNC7Bjb`

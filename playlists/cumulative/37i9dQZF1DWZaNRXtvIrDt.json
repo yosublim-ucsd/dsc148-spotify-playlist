@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: Joy Orbison",
+  "description": "A new world of alternative electronic music. \nCover: Caribou",
   "name": "Portal",
   "tracks": [
     {
@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Come Find Me",
+        "url": "https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236332,
+      "name": "Come Find Me",
+      "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
+    },
+    {
+      "album": {
         "name": "Coming On Strong",
         "url": "https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ"
       },
@@ -3094,6 +3112,36 @@
       "duration_ms": 133714,
       "name": "d(-_-)b dreaming of your latte art d(-_-)b",
       "url": "https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3"
+    },
+    {
+      "album": {
+        "name": "Dafodil",
+        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212339,
+      "name": "Dafodil",
+      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
     },
     {
       "album": {
@@ -3950,6 +3998,24 @@
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
+    },
+    {
+      "album": {
+        "name": "House Hues 2",
+        "url": "https://open.spotify.com/album/5r0FrjNaPDjfAuGujcJKBt"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ELECTRIC BLUE",
+      "url": "https://open.spotify.com/track/33lekkAv8vy5DIf2oRNdPU"
     },
     {
       "album": {
@@ -6231,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "I Like This One - Domba Remix",
+        "url": "https://open.spotify.com/album/4ZN4dGDbJeM8ldQl89sZeg"
+      },
+      "artists": [
+        {
+          "name": "Lil Spacely",
+          "url": "https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n"
+        },
+        {
+          "name": "Domba",
+          "url": "https://open.spotify.com/artist/3CeiqSedqQQ4lJ2wYmQywz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115541,
+      "name": "I Like This One - Domba Remix",
+      "url": "https://open.spotify.com/track/3pAtfCDEER2v32knzID7DI"
+    },
+    {
+      "album": {
         "name": "I Need For Speed",
         "url": "https://open.spotify.com/album/16lV4BfF8XLr3M3QQzBVmB"
       },
@@ -6246,6 +6334,24 @@
       "duration_ms": 216560,
       "name": "I Need For Speed",
       "url": "https://open.spotify.com/track/1ggx4wohd1La6vue2KyHK4"
+    },
+    {
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "album": {

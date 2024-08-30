@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Wendy Shay",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Amerado",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 165970,
       "name": "2Kidney - Remix",
       "url": "https://open.spotify.com/track/6bkAOavs4hlbtBKLyqMOZg"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 182862,
       "name": "COME INSIDE",
       "url": "https://open.spotify.com/track/4QVLG1VExEIihi86ezgkld"
@@ -3651,6 +3651,28 @@
     },
     {
       "album": {
+        "name": "Jesus Christ 2",
+        "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217399,
+      "name": "Jesus Christ 2",
+      "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
+    },
+    {
+      "album": {
         "name": "JJC",
         "url": "https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN"
       },
@@ -3814,7 +3836,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152659,
       "name": "Kasapa",
       "url": "https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8"
@@ -5603,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Ose Ompe",
+        "url": "https://open.spotify.com/album/1ddDZp7X19BdM39Gdw0TZl"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274188,
+      "name": "Ose Ompe",
+      "url": "https://open.spotify.com/track/0dRVnb21xOr4qlQ6XAieTG"
+    },
+    {
+      "album": {
         "name": "Our Day",
         "url": "https://open.spotify.com/album/6XWLKjabihhtUqkff8Ts9l"
       },
@@ -5962,6 +6002,28 @@
       "duration_ms": 217360,
       "name": "Picture",
       "url": "https://open.spotify.com/track/3A2w2RbkpNnJpYUohOcOEf"
+    },
+    {
+      "album": {
+        "name": "Playman",
+        "url": "https://open.spotify.com/album/45CPYCWCa66IajSsnjdHur"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194348,
+      "name": "Playman",
+      "url": "https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX"
     },
     {
       "album": {

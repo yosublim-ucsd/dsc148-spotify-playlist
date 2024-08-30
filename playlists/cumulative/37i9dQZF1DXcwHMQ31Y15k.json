@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Masdddho ",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 294545,
       "name": "Apik",
       "url": "https://open.spotify.com/track/0WYYAgNgtD4GzXfd0rfTiQ"
@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "HTS - Accoustic Version",
+        "url": "https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "HTS - Accoustic Version",
+      "url": "https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2"
+    },
+    {
+      "album": {
         "name": "Iki Uripku",
         "url": "https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp"
       },
@@ -2260,6 +2278,24 @@
       "duration_ms": 305426,
       "name": "Kebacut Nyaman",
       "url": "https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM"
+    },
+    {
+      "album": {
+        "name": "Kecelik",
+        "url": "https://open.spotify.com/album/2Ts1yFQxdRcpf1BD8OqG1I"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349016,
+      "name": "Kecelik",
+      "url": "https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ"
     },
     {
       "album": {
@@ -2828,7 +2864,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 370000,
       "name": "Lali Rasane Tresno",
       "url": "https://open.spotify.com/track/0xIPbN7eQjyZzBwAiheDJ9"
@@ -4997,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "PUJANINGSIH",
+        "url": "https://open.spotify.com/album/0omqUjODctC7iOr6ykcTLj"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346457,
+      "name": "PUJANINGSIH",
+      "url": "https://open.spotify.com/track/5HJ6EpywbFvVl7T8MaGjug"
+    },
+    {
+      "album": {
         "name": "Pungkas",
         "url": "https://open.spotify.com/album/2ZjIMz1UN6S7uQxMeX1pKi"
       },
@@ -5684,7 +5738,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 277416,
       "name": "Samar",
       "url": "https://open.spotify.com/track/73PrzEAs7xdpYF9dokBwX9"
@@ -5906,6 +5960,32 @@
       "duration_ms": 68598,
       "name": "Sauro Utangmu (Genjrengan)",
       "url": "https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5"
+    },
+    {
+      "album": {
+        "name": "Sauro Utangmu - Live Version At The Boston Coffee",
+        "url": "https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ"
+      },
+      "artists": [
+        {
+          "name": "Sela Good",
+          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        },
+        {
+          "name": "Syalala Orkes Milenial",
+          "url": "https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Sauro Utangmu - Live Version At The Boston Coffee",
+      "url": "https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW"
     },
     {
       "album": {
@@ -6668,6 +6748,24 @@
       "duration_ms": 266140,
       "name": "Top Topan",
       "url": "https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq"
+    },
+    {
+      "album": {
+        "name": "Tresna Opo Anane",
+        "url": "https://open.spotify.com/album/5HINLRDJDFocRS2UU9HY65"
+      },
+      "artists": [
+        {
+          "name": "Pulung Agustanto",
+          "url": "https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298013,
+      "name": "Tresna Opo Anane",
+      "url": "https://open.spotify.com/track/0DqDOsGc8J7aHZdtGAelTY"
     },
     {
       "album": {

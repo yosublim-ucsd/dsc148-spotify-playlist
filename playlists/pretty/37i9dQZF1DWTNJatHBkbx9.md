@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 24 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 |
 | 25 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 |
 | 26 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 |
-| 27 | [Prayer \- Live](https://open.spotify.com/track/7xosA2c0k6mBhqnghpA4au) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Nkyinkyim Band](https://open.spotify.com/artist/1qoUQEmRFGuO84lrxksaE1) | [Prayer \(Live\)](https://open.spotify.com/album/1eXgEtovqYHW2jbv3WXRqn) | 3:06 |
+| 27 | [Prayer \- Live](https://open.spotify.com/track/7xosA2c0k6mBhqnghpA4au) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Nkyinkyim Band](https://open.spotify.com/artist/1qoUQEmRFGuO84lrxksaE1) | [Prayer \- Live](https://open.spotify.com/album/1eXgEtovqYHW2jbv3WXRqn) | 3:06 |
 | 28 | [Bigger & Better Than](https://open.spotify.com/track/0ZtxPLtxfhhC774iqK3gB6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Bigger & Better Than](https://open.spotify.com/album/4aKJWlQ7JUoqYlMkBYUZl6) | 2:18 |
 | 29 | [Care for Me](https://open.spotify.com/track/05eSoMEib8nD2HLaMRi5Qx) | [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9), [Loise](https://open.spotify.com/artist/6S34Jo3KlPo37Sx49teOHG) | [Care for Me](https://open.spotify.com/album/7h4TcEGnVxb2LcnVsnLFwF) | 2:02 |
 | 30 | [Love Hard](https://open.spotify.com/track/0FdcLCbPJPvJRKpvCzkTvz) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Love Hard](https://open.spotify.com/album/6g7gnzgDhtzBde95DPS6Mv) | 2:32 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0lVl7MriET3XEU0PJyDBfw.md) - cumulative - [plain](/playlists/plain/0lVl7MriET3XEU0PJyDBfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0lVl7MriET3XEU0PJyDBfw)
 
-### [HOUSEIUM // BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
+### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> House music therapy for the dance floor \- Submit: houseiumpromo@gmail.com
+> House music therapy for the dance floor \| Tech House \| Submit: houseiumpromo@gmail.com
 
 299 songs - 15 hr 37 min
 

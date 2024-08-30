@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Intoxicated (Radio Edit)",
+        "url": "https://open.spotify.com/album/5rsZfetsSAaPFpEF0lhr3K"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158280,
+      "name": "Intoxicated - Radio Edit",
+      "url": "https://open.spotify.com/track/2RhKxrhti1jd1Krzh968Cb"
+    },
+    {
+      "album": {
         "name": "One Love",
         "url": "https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ"
       },
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"

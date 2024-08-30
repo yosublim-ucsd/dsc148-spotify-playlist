@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Another Lovesong",
+        "url": "https://open.spotify.com/album/5fphkf2DFgsEbtOx4sBCnL"
+      },
+      "artists": [
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157614,
+      "name": "Another Lovesong",
+      "url": "https://open.spotify.com/track/7ElcwcWng7HG0mM4S0CKfV"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm"
       },
@@ -114,6 +132,24 @@
       "duration_ms": 188286,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl"
+    },
+    {
+      "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
     },
     {
       "album": {
@@ -190,6 +226,28 @@
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "album": {
+        "name": "Be Ok",
+        "url": "https://open.spotify.com/album/5CW3XuEFKRKsrhQlSuplbk"
+      },
+      "artists": [
+        {
+          "name": "BELLMAN",
+          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
+        },
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157402,
+      "name": "Be Ok",
+      "url": "https://open.spotify.com/track/41ecFIQpBGUaixF3aUppor"
     },
     {
       "album": {
@@ -389,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Chat",
+        "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139413,
+      "name": "Chat",
+      "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
+    },
+    {
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91"
       },
@@ -462,7 +538,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 157503,
       "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
@@ -509,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Dancing On Dynamite",
+        "url": "https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162329,
+      "name": "Dancing On Dynamite",
+      "url": "https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj"
+    },
+    {
+      "album": {
         "name": "Dansa runt problemen",
         "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
       },
@@ -524,6 +618,24 @@
       "duration_ms": 170083,
       "name": "Dansa runt problemen",
       "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
+    },
+    {
+      "album": {
+        "name": "The Dichotomy",
+        "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157937,
+      "name": "Darkerside",
+      "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
     },
     {
       "album": {
@@ -682,7 +794,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 170629,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
@@ -1204,7 +1316,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 253935,
       "name": "F\u00f6rsent",
       "url": "https://open.spotify.com/track/3KbL6Ia5Fb8xO8IfZ6iC8U"
@@ -1520,6 +1632,28 @@
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "album": {
+        "name": "Hey Hello",
+        "url": "https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        },
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Hey Hello",
+      "url": "https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm"
     },
     {
       "album": {
@@ -2205,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Lyckligare",
+        "url": "https://open.spotify.com/album/76GeIVJrmA70LssidhFh0W"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Lyckligare",
+      "url": "https://open.spotify.com/track/2SDbJoXltdMXhbNJV6DLmj"
+    },
+    {
+      "album": {
         "name": "SAD ROMANCE PT.1",
         "url": "https://open.spotify.com/album/2GJqKh5nAW3FuRJouYilKU"
       },
@@ -2296,6 +2448,24 @@
       "duration_ms": 215976,
       "name": "Me Before You",
       "url": "https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72"
+    },
+    {
+      "album": {
+        "name": "Mer du mer allt",
+        "url": "https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv"
+      },
+      "artists": [
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Mer du mer allt",
+      "url": "https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL"
     },
     {
       "album": {
@@ -2420,7 +2590,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 181146,
       "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
@@ -2669,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Oslagbara",
+        "url": "https://open.spotify.com/album/1pOzHHBNWHFc7nMF1uzZ5N"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Oslagbara",
+      "url": "https://open.spotify.com/track/2v8OHqvx47n2YmfgAN9cF8"
+    },
+    {
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/7wrFawWVd9g2UeOuj0rOfU"
       },
@@ -2905,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "\u2026 men det g\u00f6r jag egentligen",
+        "url": "https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237088,
+      "name": "Senaste tiden",
+      "url": "https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh"
+    },
+    {
+      "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
       },
@@ -3046,7 +3252,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 174246,
       "name": "something bout april",
       "url": "https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1"
@@ -3068,10 +3274,32 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203656,
       "name": "Something Like This (feat. Dagny)",
       "url": "https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa"
+    },
+    {
+      "album": {
+        "name": "SOS (Sex on Sight) (feat. USHER)",
+        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265057,
+      "name": "SOS (Sex on Sight) (feat. USHER)",
+      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
       "album": {
@@ -3198,6 +3426,24 @@
       "duration_ms": 150190,
       "name": "S\u00e5 l\u00e6nge jeg er sexy.",
       "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
+    },
+    {
+      "album": {
+        "name": "S\u00e5nne Som Oss",
+        "url": "https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "S\u00e5nne Som Oss",
+      "url": "https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y"
     },
     {
       "album": {
@@ -3397,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "THOUGHT YOU WERE THE ONE",
+        "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178218,
+      "name": "THOUGHT YOU WERE THE ONE",
+      "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
+    },
+    {
+      "album": {
         "name": "TIED UP",
         "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
       },
@@ -3517,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "Toulouse",
+        "url": "https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc"
+      },
+      "artists": [
+        {
+          "name": "Thilda U",
+          "url": "https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180833,
+      "name": "Toulouse",
+      "url": "https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo"
+    },
+    {
+      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -3532,7 +3814,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 132888,
       "name": "TRAFIK!",
       "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
@@ -3691,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "\u2026 men det g\u00f6r jag egentligen",
+        "url": "https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197071,
+      "name": "Vem \u00e4r jag utan dig",
+      "url": "https://open.spotify.com/track/7AsJ01kktOQwx6Ud1281TC"
+    },
+    {
+      "album": {
         "name": "Verktygsl\u00e5dan",
         "url": "https://open.spotify.com/album/7GSZ8je5bbyUyja0HgZUCs"
       },
@@ -3706,6 +4006,24 @@
       "duration_ms": 167550,
       "name": "Verktygsl\u00e5dan",
       "url": "https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn"
+    },
+    {
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7obLFqKLmYBdXvtqQTxRWK"
+      },
+      "artists": [
+        {
+          "name": "Steph K",
+          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167034,
+      "name": "Vi",
+      "url": "https://open.spotify.com/track/6RiAMPOYq8cCAe4vG7T2D0"
     },
     {
       "album": {

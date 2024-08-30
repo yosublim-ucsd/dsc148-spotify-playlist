@@ -1,12 +1,12 @@
 {
   "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 68856,
+  "num_followers": 68869,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAAAdB0zaqhlWJwlxdGo6PJPG",
+  "snapshot_id": "Zs5ogAAAAABT5CTs1NpRQLj2Bx90ofwK",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
+        "name": "Un Minuto Con Vos",
+        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
       },
       "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 334378,
-      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
+      "duration_ms": 245467,
+      "name": "Un Minuto Con Vos",
+      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Minuto Con Vos",
-        "url": "https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH"
+        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
       "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 245467,
-      "name": "Un Minuto Con Vos",
-      "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
+      "duration_ms": 334378,
+      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
     },
     {
       "added_at": null,

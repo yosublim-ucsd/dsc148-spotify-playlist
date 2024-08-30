@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160840,
       "name": "Awesome City",
       "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 101650,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
@@ -2136,6 +2136,24 @@
       "duration_ms": 167926,
       "name": "Dedicate",
       "url": "https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0"
+    },
+    {
+      "album": {
+        "name": "2010 Mixtape - Instrumentals",
+        "url": "https://open.spotify.com/album/21jms5cANK6iBdNoGrbY71"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "Demons - Instrumental",
+      "url": "https://open.spotify.com/track/2Z4SmUaikRbDi5TLuVWzxx"
     },
     {
       "album": {
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2020-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Lofi Loyal Caf\u00e9 Customer",
       "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
@@ -8798,7 +8816,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 202663,
       "name": "still in ....",
       "url": "https://open.spotify.com/track/2D0y5FlafF47mqYaXiJGRu"
@@ -8928,7 +8946,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 102402,
       "name": "Summer Daze",
       "url": "https://open.spotify.com/track/3BSzWZRiWIHn0lRVk07II2"

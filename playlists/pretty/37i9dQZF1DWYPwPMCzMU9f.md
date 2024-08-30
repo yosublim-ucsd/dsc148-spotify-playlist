@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwPMCzMU9f.md) - [plain]
 
 > 💔 yo nací pa' querer a la que no me quiere y eso duele 💔 Foto: Yeison Jimenez
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,039 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,074 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

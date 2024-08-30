@@ -3635,7 +3635,7 @@
     },
     {
       "album": {
-        "name": "Rose du Ciel",
+        "name": "Rose du ciel (feat. Anson Jones)",
         "url": "https://open.spotify.com/album/3gB7wh7AKeWLDdH9TwWlHW"
       },
       "artists": [
@@ -3646,17 +3646,13 @@
         {
           "name": "Anson Jones",
           "url": "https://open.spotify.com/artist/3xT97ey0BVfOXbVwm17s0s"
-        },
-        {
-          "name": "Mads Jensen",
-          "url": "https://open.spotify.com/artist/1mda7ug3kKOrooSI5RyeBx"
         }
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220586,
-      "name": "Rose du ciel (feat. Anson Jones and Mads Jensen)",
+      "name": "Rose du ciel (feat. Anson Jones)",
       "url": "https://open.spotify.com/track/5Fu2e0wP2Uh9qEJHTPkPuh"
     },
     {

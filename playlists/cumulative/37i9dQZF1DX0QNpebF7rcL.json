@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272385,
+      "name": "Blame It On Eve",
+      "url": "https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX"
+    },
+    {
+      "album": {
         "name": "Bleed",
         "url": "https://open.spotify.com/album/29TtZtZzeVNxPsjRKdaelu"
       },
@@ -6782,7 +6800,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 254776,
       "name": "Tough Mother",
       "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"

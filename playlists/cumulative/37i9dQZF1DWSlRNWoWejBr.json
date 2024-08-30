@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "3 Am no Brasil",
+        "url": "https://open.spotify.com/album/2ZrDMBHlI3SD0ieCgDSGxh"
+      },
+      "artists": [
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "1...2...3 Intro (Funk)",
+      "url": "https://open.spotify.com/track/7eCsmRcWfsX98qkHhIiCCu"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Explos\u00e3o",
         "url": "https://open.spotify.com/album/3gfYd2A8jDzJCNOamNRJEm"
       },
@@ -936,7 +958,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 146208,
       "name": "CAF\u00c9 DA MANH\u00c3",
       "url": "https://open.spotify.com/track/1R85eEfjDiNYD2M04uqpik"
@@ -1302,6 +1324,40 @@
       "duration_ms": 111692,
       "name": "De Baixo Pra Cima",
       "url": "https://open.spotify.com/track/0DREUdw6H7SxQoaUBhvD2D"
+    },
+    {
+      "album": {
+        "name": "De Baixo Pra Cima",
+        "url": "https://open.spotify.com/album/0iHVSE9ym0MwCQ8aJWaD3l"
+      },
+      "artists": [
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        },
+        {
+          "name": "DJ WG DO SS",
+          "url": "https://open.spotify.com/artist/32qJz58OMpD1QBX1qVMGcL"
+        },
+        {
+          "name": "Dj Alan Melo",
+          "url": "https://open.spotify.com/artist/05kM6bfPvwG2DRwR8o5aGp"
+        },
+        {
+          "name": "MC FG",
+          "url": "https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "De Baixo Pra Cima",
+      "url": "https://open.spotify.com/track/64kKYenLqoB53EWmtHi4DP"
     },
     {
       "album": {
@@ -2849,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
+      },
+      "artists": [
+        {
+          "name": "DJ OLIVEIRA ORIGINAL",
+          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
+        },
+        {
+          "name": "Mc Koruja",
+          "url": "https://open.spotify.com/artist/44AXaX2aJKSQhMxVTtNb0s"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80754,
+      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
+    },
+    {
+      "album": {
         "name": "Montagem Coral",
         "url": "https://open.spotify.com/album/2VKY7nldcrex9oGUdr0ahM"
       },
@@ -3292,7 +3370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 80009,
       "name": "MTG - ELASTIC HEART",
       "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
@@ -3462,7 +3540,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"

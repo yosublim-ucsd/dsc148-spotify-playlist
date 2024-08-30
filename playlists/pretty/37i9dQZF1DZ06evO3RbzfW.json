@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1349455,
+  "num_followers": 1349694,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAAAe7CEtGKlItNjItpWw2GJL",
+  "snapshot_id": "Zs5ogAAAAADV8pDJldHyPQYr+YN/1UgG",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+        "name": "Rosenrot",
+        "url": "https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/3oWFQPp5lL5x907hCcCRa9"
+      "duration_ms": 230560,
+      "name": "Mann gegen Mann",
+      "url": "https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosenrot",
-        "url": "https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2"
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 230560,
-      "name": "Mann gegen Mann",
-      "url": "https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB"
+      "duration_ms": 244426,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/3oWFQPp5lL5x907hCcCRa9"
     },
     {
       "added_at": null,

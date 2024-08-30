@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,510 songs - 3 day 22 hr 24 min
+1,512 songs - 3 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Immortal](https://open.spotify.com/track/0OnBxDVmTg16bqklhVnRsJ) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [Immortal](https://open.spotify.com/album/19mWviXzRwoBHrJlcbR2la) | 3:18 | 2024-01-09 | 2024-04-11 |
 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 | 2022-11-08 | 2022-12-07 |
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-26 | 2023-10-25 |
+| [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 | 2024-08-29 |  |
 | [infinite Resonance](https://open.spotify.com/track/4CBD4tn1O6D7nGEGMBnSmX) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite Resonance](https://open.spotify.com/album/3SBliHSDqNktNFoTPQyQPO) | 4:02 | 2022-09-06 | 2022-10-19 |
 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 | 2023-04-01 | 2023-07-12 |
 | [Intaglio](https://open.spotify.com/track/5lQdtdz7hAYuvccRxGjMMu) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Intaglio](https://open.spotify.com/album/6PEuilXPcId94BGiIW8bYE) | 4:32 | 2023-10-03 | 2023-10-18 |
@@ -1215,7 +1216,7 @@
 | [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 | 2023-07-18 | 2023-09-25 |
 | [今を、生きる為に](https://open.spotify.com/track/578KbVViSYTjl713NHSYGx) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [今を、生きる為に](https://open.spotify.com/album/5LLoBEyJTODqQx81FWZLgR) | 4:46 | 2022-12-27 | 2023-01-18 |
 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 | 2024-04-10 | 2024-04-24 |
-| [会心ノ一撃](https://open.spotify.com/track/7cgxUDKToj4Y8m8AO64Xhz) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [会心ノ一撃](https://open.spotify.com/album/6NH9zmaXkzaew0ahAzxpwv) | 3:46 | 2024-07-30 |  |
+| [会心ノ一撃](https://open.spotify.com/track/7cgxUDKToj4Y8m8AO64Xhz) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [会心ノ一撃](https://open.spotify.com/album/6NH9zmaXkzaew0ahAzxpwv) | 3:46 | 2024-07-30 | 2024-08-30 |
 | [修羅日記](https://open.spotify.com/track/7f6lItK5vMWcgciBpZwrAi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「異世界失格」オープニングテーマ「修羅日記」](https://open.spotify.com/album/5EVbQZSSbZKkbzvt9RMbHr) | 3:50 | 2024-07-09 |  |
 | [僕の存在証明](https://open.spotify.com/track/78seZJUexoZXLXzGcDb0Fo) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [やくしまるえつこメトロオーケストラ \- 僕の存在証明](https://open.spotify.com/album/2zBxVave0oMTAW0myJctb9) | 6:03 | 2022-05-28 | 2022-07-08 |
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-05-28 | 2022-06-29 |
@@ -1379,7 +1380,8 @@
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-10-18 | 2022-12-24 |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-05-28 | 2022-07-15 |
 | [水槽のブランコ](https://open.spotify.com/track/5ZVYY5MzgZahUfbCkf5uEI) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [水槽のブランコ](https://open.spotify.com/album/0WNVjBvvOaChm671iGzMyD) | 4:27 | 2024-07-09 |  |
-| [水金地火木土天アーメン \- MV ver.](https://open.spotify.com/track/0vjntV1hjCS0PATrJfqCb0) | [しろねこ堂](https://open.spotify.com/artist/5B7n7JOXqyipnSfQomyyVE) | [水金地火木土天アーメン\(MV ver.\)](https://open.spotify.com/album/2rgjngG2zmG7QWw9XfJQLi) | 0:46 | 2024-07-16 |  |
+| [水金地火木土天アーメン](https://open.spotify.com/track/0t0CKBliuACCAYWZASwty0) | [しろねこ堂](https://open.spotify.com/artist/5B7n7JOXqyipnSfQomyyVE) | [映画「きみの色」オリジナル・サウンドトラック all is colour within](https://open.spotify.com/album/2y9JG6xtvqTwvxSUzDhXZI) | 3:53 | 2024-08-29 |  |
+| [水金地火木土天アーメン \- MV ver.](https://open.spotify.com/track/0vjntV1hjCS0PATrJfqCb0) | [しろねこ堂](https://open.spotify.com/artist/5B7n7JOXqyipnSfQomyyVE) | [水金地火木土天アーメン\(MV ver.\)](https://open.spotify.com/album/2rgjngG2zmG7QWw9XfJQLi) | 0:46 | 2024-07-16 | 2024-08-30 |
 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 | 2022-07-28 | 2022-09-28 |
 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2024-05-20 | 2024-07-13 |
 | [流れ星へ](https://open.spotify.com/track/4H7BFIbTKW66WcCbZZU9Hd) | [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe), [スリーライツ](https://open.spotify.com/artist/6RMcwW6VGECjqfKTPTRZSn), [星野光\(CV.井上麻里奈\)](https://open.spotify.com/artist/2JQNwbQUfwlZ39EHAysZDD), [大気光\(CV.早見沙織\)](https://open.spotify.com/artist/0ceOybSIg6DzdoT4jnZ6Ml), [夜天光\(CV.佐倉綾音\)](https://open.spotify.com/artist/6sgYkuPgjdV9fTgE5kCevR) | [ムーンライト伝説/流れ星へ](https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv) | 3:55 | 2023-06-08 | 2023-07-05 |

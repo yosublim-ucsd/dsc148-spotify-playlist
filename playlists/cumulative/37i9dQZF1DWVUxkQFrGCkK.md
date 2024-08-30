@@ -4,7 +4,7 @@
 
 > moooooooooove
 
-649 songs - 1 day 23 hr 24 min
+650 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Music is Better \- Maxi Meraki Remix](https://open.spotify.com/track/2QH3TD75UTjO60CK21fSDM) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Music is Better Remixed](https://open.spotify.com/album/0I1gMDng6EbZINOlPpd569) | 6:55 | 2024-07-12 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-09 |  |
 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 | 2024-01-11 | 2024-06-21 |
+| [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 | 2024-08-22 |  |
 | [My Love for You \(Yebba's Heartbreak\) \- Edit](https://open.spotify.com/track/4IC4M64imsv7BGowdrFEzH) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [My Love for You \(Yebba's Heartbreak\)](https://open.spotify.com/album/2du5nqdaDnYOu3k1yCXbBc) | 3:25 | 2023-10-19 |  |
 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 | 2023-10-26 |  |
 | [My Religion](https://open.spotify.com/track/1v3EATrKidfFy4DSyjgqmc) | [ALADAG](https://open.spotify.com/artist/1UxqOQnO1IPi07q5nB3src) | [Picture: Aladag](https://open.spotify.com/album/29q1GthD3SilqlghXInPcA) | 6:50 | 2024-02-01 | 2024-03-15 |

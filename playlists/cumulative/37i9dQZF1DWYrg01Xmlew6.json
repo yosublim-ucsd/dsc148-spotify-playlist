@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Carne e ossa",
+      "url": "https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0"
+    },
+    {
+      "album": {
         "name": "CASA",
         "url": "https://open.spotify.com/album/3VSRWQTsItHPbE6t1dmJVI"
       },
@@ -4576,7 +4594,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230399,
       "name": "O primm post",
       "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
@@ -5120,6 +5138,28 @@
       "duration_ms": 192000,
       "name": "Perdenn 'A Cap (feat. Armouann, O'Tsunami & Flaza)",
       "url": "https://open.spotify.com/track/4PPAVU1RIdKKiNE4UTIzQ7"
+    },
+    {
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Perdere \u2018a capa (feat. Geolier)",
+      "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
     },
     {
       "album": {

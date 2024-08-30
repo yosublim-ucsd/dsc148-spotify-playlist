@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: MEROL",
+  "description": "indie & indiepop in het Nederlands. Cover: Elmer",
   "name": "indiepuntnl",
   "tracks": [
+    {
+      "album": {
+        "name": "30 plusser in de discotheek",
+        "url": "https://open.spotify.com/album/4MCMVsqIXQ4G3R6Hu4QgZw"
+      },
+      "artists": [
+        {
+          "name": "Jordy Dijkshoorn",
+          "url": "https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159749,
+      "name": "30 plusser in de discotheek",
+      "url": "https://open.spotify.com/track/3sEFEJgKQCIA8ZyYWUSFa7"
+    },
     {
       "album": {
         "name": "Aardbei en Vanille",
@@ -99,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Blowen & Smoken",
+        "url": "https://open.spotify.com/album/1tPBRJVFhyPbV67BbfXrkk"
+      },
+      "artists": [
+        {
+          "name": "Terry Joint",
+          "url": "https://open.spotify.com/artist/1csNIQ2X2wlFiCJvBfJHAy"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188792,
+      "name": "Blowen & Smoken",
+      "url": "https://open.spotify.com/track/2R2DpPft8SiKSWXA7X0uXu"
+    },
+    {
+      "album": {
         "name": "Chocoladefontein",
         "url": "https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T"
       },
@@ -182,7 +218,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 179624,
       "name": "Femboy",
       "url": "https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152000,
       "name": "IJs",
       "url": "https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6"
@@ -384,6 +420,24 @@
       "duration_ms": 253227,
       "name": "Ik Ren",
       "url": "https://open.spotify.com/track/7ATLz1jdCZmwi6n6f3hqlA"
+    },
+    {
+      "album": {
+        "name": "Ik Weet Dat Hij Het Wil - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7460uSYYqdwNVMaDVRGU8a"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257527,
+      "name": "Ik Weet Dat Hij Het Wil - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/40jbyydhwwhJobOx2ySQrL"
     },
     {
       "album": {
@@ -528,10 +582,28 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 148340,
       "name": "KIJK NAAR M'N NAAM",
       "url": "https://open.spotify.com/track/6MyIwypcSrNwZYGPPRCUPO"
+    },
+    {
+      "album": {
+        "name": "Kinderboerderij (Keiblij)",
+        "url": "https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197596,
+      "name": "Kinderboerderij (Keiblij)",
+      "url": "https://open.spotify.com/track/3ZznsGB1HNDojZ00AlEQ1M"
     },
     {
       "album": {
@@ -546,7 +618,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169744,
       "name": "Koude Kermis",
       "url": "https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD"
@@ -608,6 +680,28 @@
       "duration_ms": 189473,
       "name": "masker",
       "url": "https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw"
+    },
+    {
+      "album": {
+        "name": "Masker van Glas (feat. Spinvis)",
+        "url": "https://open.spotify.com/album/3KI6JN7J0BR1IBUHw4WAT8"
+      },
+      "artists": [
+        {
+          "name": "Blue Flamingo",
+          "url": "https://open.spotify.com/artist/3jZ97YHIMgSBV09PRJjobi"
+        },
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245515,
+      "name": "Masker van Glas (feat. Spinvis)",
+      "url": "https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG"
     },
     {
       "album": {
@@ -799,6 +893,24 @@
     },
     {
       "album": {
+        "name": "platland",
+        "url": "https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206590,
+      "name": "platland",
+      "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
+    },
+    {
+      "album": {
         "name": "Rat Race",
         "url": "https://open.spotify.com/album/4JKpM1p2xwC6h9neD83b6I"
       },
@@ -879,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Sorry Lul",
+        "url": "https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167968,
+      "name": "Sorry Lul",
+      "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
+    },
+    {
+      "album": {
         "name": "Spijt",
         "url": "https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE"
       },
@@ -890,7 +1020,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 184024,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I"
@@ -930,7 +1060,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 212471,
       "name": "Troostzoekers (met Froukje)",
       "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
@@ -984,7 +1114,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 258015,
       "name": "Uit Het Oog",
       "url": "https://open.spotify.com/track/05ZXKrj4flHFpkXRhCNJQq"

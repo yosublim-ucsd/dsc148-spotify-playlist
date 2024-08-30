@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
+    },
+    {
+      "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
         "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
@@ -3484,6 +3502,24 @@
       "duration_ms": 176000,
       "name": "Asphalt (feat. pH-1)",
       "url": "https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0"
+    },
+    {
+      "album": {
+        "name": "Spliff & Magnum",
+        "url": "https://open.spotify.com/album/1wyxTLi6qpcRjciyOB0bnI"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157108,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp"
     },
     {
       "album": {
@@ -11532,7 +11568,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230297,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0VT6haaHdyQuoF2mOkAhmO"
@@ -11550,7 +11586,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 187118,
       "name": "DnD",
       "url": "https://open.spotify.com/track/7w1K0j4Rb96IPp8zWjnBVi"
@@ -13684,6 +13720,24 @@
       "duration_ms": 155544,
       "name": "Fadeaway",
       "url": "https://open.spotify.com/track/39nZkcvHydt4lxwwq7zq4a"
+    },
+    {
+      "album": {
+        "name": "FADED FREESTYLE",
+        "url": "https://open.spotify.com/album/05ljkEBbBtqAOpaRE5Hclm"
+      },
+      "artists": [
+        {
+          "name": "Zambug",
+          "url": "https://open.spotify.com/artist/698QM0vyNkViI1jrJlBQg5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "FADED FREESTYLE",
+      "url": "https://open.spotify.com/track/7oOltvxhAIgCO5SKXDdAjg"
     },
     {
       "album": {
@@ -15967,6 +16021,28 @@
     },
     {
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/7gr7I166J2KA25Mqi1ZmkI"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "M\u00d6SHI",
+          "url": "https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/2gItyRuHL238a2z9rXwKqG"
+    },
+    {
+      "album": {
         "name": "Wolf In Sheep Clothing",
         "url": "https://open.spotify.com/album/0WFnBchbxuyBUapx46FBF8"
       },
@@ -16008,7 +16084,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 156000,
       "name": "get with u feat. Zeke Abella",
       "url": "https://open.spotify.com/track/1f5M4c6EjswUWBAmWf3thL"
@@ -16694,6 +16770,24 @@
       "duration_ms": 155585,
       "name": "Gone",
       "url": "https://open.spotify.com/track/37Deh2p4aLdEtQHXtm7AOE"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
+      },
+      "artists": [
+        {
+          "name": "Jerome Farah",
+          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232978,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
     },
     {
       "album": {
@@ -20370,7 +20464,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172251,
       "name": "Illusion - Creepy Nuts Remix",
       "url": "https://open.spotify.com/track/1uumWSWbeUt1tS7q2zR4MO"
@@ -23470,7 +23564,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 125843,
       "name": "Like a Mack",
       "url": "https://open.spotify.com/track/3qoB1rLHEwLqZ08LGYVC1L"
@@ -26278,7 +26372,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203385,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/3pTkdLD4QUjRczPRvBuurD"
@@ -26304,7 +26398,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 212181,
       "name": "Mononoke Kyoto",
       "url": "https://open.spotify.com/track/3Dk8ohiUlXbMLmZAM8uP1E"
@@ -28402,7 +28496,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 142148,
       "name": "No Question",
       "url": "https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u"
@@ -30180,6 +30274,24 @@
       "duration_ms": 128810,
       "name": "Options (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6"
+    },
+    {
+      "album": {
+        "name": "ordinary people",
+        "url": "https://open.spotify.com/album/3cXTZpsCb9ur0ThUESDGcy"
+      },
+      "artists": [
+        {
+          "name": "Limix",
+          "url": "https://open.spotify.com/artist/3j8Mcd2URdfUERL1Ar4VRs"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234193,
+      "name": "ordinary people",
+      "url": "https://open.spotify.com/track/5cvaqoyRpE7prWsyzQiPfk"
     },
     {
       "album": {
@@ -32298,7 +32410,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 218783,
       "name": "Pretty Brown (feat. Lil Baby & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/3jg4uGyooh4Moi0V3rzyWw"
@@ -32686,7 +32798,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 248252,
       "name": "PROVE 'EM WRONG",
       "url": "https://open.spotify.com/track/4Xu0UEjeBxVYPAlauEriqb"
@@ -34896,7 +35008,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 175791,
       "name": "Rubberband Man",
       "url": "https://open.spotify.com/track/4ZXRPxWHGLZUPHoUd8A9E2"
@@ -35014,6 +35126,32 @@
       "duration_ms": 214807,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/6ESrmKdVVA03lWp0vuP93X"
+    },
+    {
+      "album": {
+        "name": "RUN! (feat. Lay Bankz)",
+        "url": "https://open.spotify.com/album/0PCrbkucfBvthsAJtAFawI"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148244,
+      "name": "RUN! (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/5TuIVd6zQpH5BPBq21ALpQ"
     },
     {
       "album": {
@@ -35362,6 +35500,24 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/2KDS12Ed8ISiajiZ09XtCS"
+      },
+      "artists": [
+        {
+          "name": "Stt Laurentt",
+          "url": "https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130076,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/1zW1Zjf8qNSc0Kv6zFOv62"
     },
     {
       "album": {
@@ -36254,6 +36410,24 @@
       "duration_ms": 219617,
       "name": "SHAQ & KOBE",
       "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
+    },
+    {
+      "album": {
+        "name": "shared",
+        "url": "https://open.spotify.com/album/5Xl38KLPjCZWu7ZD2NnW2T"
+      },
+      "artists": [
+        {
+          "name": "St. Humain",
+          "url": "https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "shared",
+      "url": "https://open.spotify.com/track/5YoEvI2NvWxfrk0bTbgJLI"
     },
     {
       "album": {
@@ -39381,6 +39555,28 @@
     },
     {
       "album": {
+        "name": "Summer Drop (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168580,
+      "name": "Summer Drop (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "album": {
         "name": "Summer Night Rock",
         "url": "https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu"
       },
@@ -40276,6 +40472,24 @@
       "duration_ms": 170936,
       "name": "TAHUN DEPAN HARGA NAIK",
       "url": "https://open.spotify.com/track/6TiTkOVtXRF8Xx7iTGsIqN"
+    },
+    {
+      "album": {
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
     },
     {
       "album": {
@@ -44849,6 +45063,24 @@
     },
     {
       "album": {
+        "name": "wake up! look alive!",
+        "url": "https://open.spotify.com/album/5pvRGt0rzomFYJpq5XALGE"
+      },
+      "artists": [
+        {
+          "name": "BAP.",
+          "url": "https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236453,
+      "name": "wake up! look alive!",
+      "url": "https://open.spotify.com/track/0GJfpUgrNYOawFYpTRAqeG"
+    },
+    {
+      "album": {
         "name": "WAKENBAKE (feat. Juicy J)",
         "url": "https://open.spotify.com/album/2ScZv3sNTDwqUKxuwcbzCU"
       },
@@ -46916,7 +47148,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204704,
       "name": "WORK OF ART (feat. Jaden)",
       "url": "https://open.spotify.com/track/1c2qoYVi2LBQWDN2tp9v5S"
@@ -47476,7 +47708,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 210931,
       "name": "Yes",
       "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"

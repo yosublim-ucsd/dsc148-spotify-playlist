@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Tan Bionica & Airbag",
-  "num_followers": 114300,
+  "num_followers": 114340,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
+        "name": "Arruinarse (feat. Airbag) - En Vivo En River Plate",
         "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
       },
       "artists": [
@@ -131,7 +131,7 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
+        "name": "Obsesionario En La Mayor (feat. Abel Pintos) - En Vivo En River Plate",
         "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
       },
       "artists": [
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Ritual Piojoso (En Vivo en River Plate)",
-        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 284048,
-      "name": "Pac\u00edfico",
-      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+      "duration_ms": 237946,
+      "name": "11 y 6",
+      "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+        "name": "Ritual Piojoso (En Vivo en River Plate)",
+        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 237946,
-      "name": "11 y 6",
-      "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
+      "duration_ms": 284048,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Apocalipsis Confort - En Vivo",
-        "url": "https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 261456,
-      "name": "Apocalipsis Confort - En Vivo",
-      "url": "https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "En Vivo en el Estadio \u00danico",
         "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 341626,
       "name": "Traicionero - En Vivo en el Estadio \u00danico",
       "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "Apocalipsis Confort - En Vivo",
+        "url": "https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 261456,
+      "name": "Apocalipsis Confort - En Vivo",
+      "url": "https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
+        "name": "Pepsi Music 2005",
+        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "El Viejo (En Vivo)",
+      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
         "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 266824,
       "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
-        "name": "Pepsi Music 2005",
-        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "El Viejo (En Vivo)",
-      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -760,7 +760,7 @@
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
+          "name": "Babasonicos",
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
         "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 334320,
       "name": "Avanti Morocha (En Vivo Provincia Emergente)",
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
         "name": "14 de Julio (En Vivo)",
         "url": "https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1323,22 +1339,6 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Dif\u00edcil De Entender (En Vivo)",
-        "url": "https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 338500,
-      "name": "Dif\u00edcil De Entender - En Vivo",
-      "url": "https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 243253,
       "name": "Barek - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "Dif\u00edcil De Entender (En Vivo)",
+        "url": "https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 338500,
+      "name": "Dif\u00edcil De Entender - En Vivo",
+      "url": "https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 280810,
       "name": "Hasta Estallar (En Vivo)",
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
-        "name": "Carretera Perdida (En Vivo)",
-        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
-      },
-      "artists": [
-        {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
-        }
-      ],
-      "duration_ms": 290496,
-      "name": "Carretera Perdida - En Vivo",
-      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "El T\u00edo Valen y El Sindicato de la Locura (En Vivo en el Teatro Bar La Plata)",
-        "url": "https://open.spotify.com/album/2AfRfXEJvS3m4RfA3wBzYw"
+        "name": "Ni Mierda (Vivo En Obras)",
+        "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
       },
       "artists": [
         {
-          "name": "El Tio Valen",
-          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
-        },
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
         }
       ],
-      "duration_ms": 282118,
-      "name": "Trasnoche - En Vivo en el Teatro Bar La Plata",
-      "url": "https://open.spotify.com/track/6xve3kRT3BJpXaTe0S1zYa"
+      "duration_ms": 311014,
+      "name": "Ni Mierda - Vivo En Obras",
+      "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
     }
   ],
   "unique_name": "Vivo de Rock",

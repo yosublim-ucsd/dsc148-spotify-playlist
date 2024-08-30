@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-199 songs - 8 hr 55 min
+200 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Drinks e Safiras](https://open.spotify.com/track/56uwvZ7zUko1jBrD14nAOz) | [Mestra](https://open.spotify.com/artist/0DzMVY6htcmrpdC3f3J3Jm), [Yanna Mc](https://open.spotify.com/artist/3luf43YaYclVRwVfYLRKnF), [Rualogia Lab](https://open.spotify.com/artist/0CnQ6hl5qaXYfrYAy50u6k) | [Drinks e Safiras](https://open.spotify.com/album/7pwGE901unwGsjW8b728eh) | 1:57 | 2022-03-18 | 2023-08-26 |
 | [Embrazando](https://open.spotify.com/track/5CfabusnRCoAHPYUheMg3u) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Embrazando](https://open.spotify.com/album/1ne6MMagaIhU433qxJOwts) | 2:41 | 2022-05-27 | 2022-10-15 |
 | [Emocionada](https://open.spotify.com/track/0JLjOHuitxMQXVnx993aMH) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [AP Produz](https://open.spotify.com/artist/6msFXawZ8ldq71zil5adUw) | [Eu Sou Td Isso](https://open.spotify.com/album/3IvAvywtd0OJLI68jfnJAe) | 2:25 | 2023-11-10 | 2024-05-25 |
+| [Energia de Gostosa](https://open.spotify.com/track/39pdYVSE9jeCEPnZkLuLv1) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Energia de Gostosa](https://open.spotify.com/album/4QmhkbUfmeukm58RQd6xtI) | 2:04 | 2024-08-30 |  |
 | [Então Senta](https://open.spotify.com/track/7enMVhTKpt0cIrkZpZ1Qlo) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [AninhaMc](https://open.spotify.com/artist/40d9fryIizWS435RsqdRQ5) | [Então Senta](https://open.spotify.com/album/6xDqfzWWeGXPRdGm7OtHB5) | 2:26 | 2022-03-18 | 2022-07-30 |
 | [Era Final](https://open.spotify.com/track/74i1NNwzsVYNwqXraf5s1N) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Era Final](https://open.spotify.com/album/5CSLeYNdPXUCBBBUzRoDpy) | 2:58 | 2022-09-23 | 2024-03-09 |
 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 | 2023-12-01 |  |
@@ -166,7 +167,7 @@
 | [Quatro Paredes](https://open.spotify.com/track/21ASd2aAIQClF0qoOGX7KX) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Quatro Paredes](https://open.spotify.com/album/0NN1rT8qJ500FoBN7xV9Aw) | 3:44 | 2022-03-18 | 2023-05-06 |
 | [Que Se Vá](https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:24 | 2023-08-04 |  |
 | [QUEEN](https://open.spotify.com/track/6jAKucqBZTsUImOlZQvBnS) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [QUEEN](https://open.spotify.com/album/7qeWEAZSxFvAkW2IaMOrQV) | 3:10 | 2023-11-10 | 2024-02-17 |
-| [Querem nos calar](https://open.spotify.com/track/47VkD7Z1MgtrlzfUCUWkHA) | [Mel Duarte](https://open.spotify.com/artist/5wOU7lOA5Iyeamfae4bgSZ), [Felipe Parra](https://open.spotify.com/artist/1OREQar1cKwQAYjW7HQhW5) | [Querem nos calar](https://open.spotify.com/album/51dmrBA60wqRIb0wBPS5uT) | 3:20 | 2024-05-31 |  |
+| [Querem nos calar](https://open.spotify.com/track/47VkD7Z1MgtrlzfUCUWkHA) | [Mel Duarte](https://open.spotify.com/artist/5wOU7lOA5Iyeamfae4bgSZ), [Felipe Parra](https://open.spotify.com/artist/1OREQar1cKwQAYjW7HQhW5) | [Querem nos calar](https://open.spotify.com/album/51dmrBA60wqRIb0wBPS5uT) | 3:20 | 2024-05-31 | 2024-08-30 |
 | [Quero Ver Pegar](https://open.spotify.com/track/4lwzCs6SGC97ha4OvW4TU1) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Quero Ver Pegar](https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY) | 2:10 | 2022-09-30 | 2023-03-11 |
 | [quero ver tu me parar](https://open.spotify.com/track/6VtFkGRtUpYey0aPGn3qYO) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f) | [quero ver tu me parar](https://open.spotify.com/album/5itZBBrRvXtgX0IrRBcLS3) | 2:05 | 2023-01-13 | 2023-03-25 |
 | [queviagem](https://open.spotify.com/track/05HQd9j0Dz2Cnn4HHKZDQ0) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [queviagem](https://open.spotify.com/album/4YAGa94QIPXFlQBByJvxa0) | 2:36 | 2024-02-16 | 2024-05-04 |

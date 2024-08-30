@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Berq
 
-333 songs - 17 hr 31 min
+335 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-05-26 | 2023-02-03 |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2024-06-07 |
 | [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
+| [Boyfriend](https://open.spotify.com/track/19PyeLis1yiy48lDeGK4rq) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Boyfriend](https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra) | 2:25 | 2024-08-29 |  |
 | [Boys Will Be Girls](https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/7sSLzWKQYO44GfnqQF6PRX) | 3:16 | 2021-12-16 | 2022-04-29 |
 | [Breddaz](https://open.spotify.com/track/3eFK7YcmFd90Q0gozVo6q1) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/7rD5yTGXPn8LthwKhgKRG3) | 2:25 | 2022-06-09 | 2022-11-21 |
 | [Breddaz](https://open.spotify.com/track/2f3Mn7wQBLthtljAg3pNtj) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/5FT4AWmrf82orNUV9Y8EwD) | 2:26 | 2022-11-17 | 2023-03-18 |
@@ -156,6 +157,7 @@
 | [Ich wünschte, du wärst verloren](https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Ich wünschte, du wärst verloren](https://open.spotify.com/album/79H3xVO9RldV3NOFMHR3ui) | 2:40 | 2021-12-16 | 2022-02-04 |
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-16 | 2022-07-01 |
 | [IDGAF](https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [IDGAF](https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55) | 2:09 | 2023-09-07 | 2023-11-10 |
+| [IMMER \(MIT MAKKO\)](https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Wilmersdorfs Kind](https://open.spotify.com/album/7nXtCEr6XwIstTNFIsO9t4) | 2:35 | 2024-08-29 |  |
 | [Immer wenn du weinst](https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Immer wenn du weinst](https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB) | 2:30 | 2021-12-16 |  |
 | [In My Novaa](https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [In My Novaa](https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a) | 4:16 | 2023-09-28 |  |
 | [In The Business](https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [SUPER NOVAA](https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ) | 3:34 | 2023-10-12 |  |
@@ -200,7 +202,7 @@
 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-20 | 2023-09-01 |
 | [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 | 2022-04-29 |
 | [Mirror](https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Feel Alone These Days](https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia) | 4:08 | 2023-07-20 | 2024-07-19 |
-| [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-06 |  |
+| [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-06 | 2024-08-30 |
 | [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-08 |  |
 | [MONSTER](https://open.spotify.com/track/1Nrhmk93FjBG8zevcTDSH9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [MONSTER](https://open.spotify.com/album/3HlASdUxisoWlTgyZX5rKI) | 2:56 | 2024-01-25 | 2024-02-23 |
@@ -271,7 +273,7 @@
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-06-30 | 2023-02-10 |
 | [Stamina](https://open.spotify.com/track/4Xc2s9nE10G9kAGNQWneSp) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W), [Slimka](https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN) | [Stamina](https://open.spotify.com/album/2xSEFShNJW2V7g9nq5eSMp) | 3:33 | 2023-03-16 | 2023-04-07 |
 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 | 2023-07-27 | 2023-09-15 |
-| [Still](https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Still](https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25) | 2:16 | 2024-08-16 |  |
+| [STILL](https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [STILL](https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25) | 2:16 | 2024-08-16 |  |
 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 | 2024-06-27 |  |
 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 | 2023-08-31 |  |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 | 2023-06-16 |
@@ -332,7 +334,7 @@
 | [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 | 2023-06-29 | 2023-08-11 |
 | [WOW](https://open.spotify.com/track/1oMc6wSttdm9hUmovca5RJ) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [WOW / OBAMA FREESTYLE](https://open.spotify.com/album/4seApoijgdNaChd2Y2JrDx) | 1:55 | 2023-07-06 | 2023-09-22 |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-16 | 2023-10-13 |
-| [Z0RNIG \[2O24\]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Z0RNIG \[2O24\]](https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg) | 2:36 | 2024-01-25 |  |
+| [Z0RNIG \[2O24\]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Z0RNIG \[2O24\]](https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg) | 2:36 | 2024-01-25 | 2024-08-30 |
 | [Zeit](https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Zeit](https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI) | 2:15 | 2024-01-18 | 2024-06-28 |
 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 | 2023-04-20 | 2024-05-10 |
 | [Zimmer](https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen](https://open.spotify.com/album/4DnP7qkS1KlDKixC4jNf3L) | 2:57 | 2021-12-16 | 2022-05-13 |

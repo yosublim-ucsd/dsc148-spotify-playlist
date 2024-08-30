@@ -1,15 +1,15 @@
 {
-  "description": "Sommersola er her <3\n",
-  "num_followers": 89329,
-  "original_name": "Sommersol",
+  "description": "\ud83c\udf42\n",
+  "num_followers": 89334,
+  "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zse04AAAAADgOLmpX6Qd1n5l17R8O494",
+  "snapshot_id": "ZtDvYAAAAADxR2dRRVCWyVDIp514thHG",
   "tracks": [
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Lies Lies Lies",
         "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Every Dream I Ever Had - Deluxe Version",
+        "url": "https://open.spotify.com/album/2FdMzsq7drehPgraiLnvmT"
+      },
+      "artists": [
+        {
+          "name": "Louien",
+          "url": "https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/2ZrGI9V58ouXZ1Ns5qmLkE"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
@@ -73,27 +89,7 @@
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Healing (Shattered Heart)",
-      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
@@ -113,7 +109,27 @@
       "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Slutet av sommarn",
         "url": "https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Piya Piya Calling (feat. The Quick Style)",
         "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
@@ -157,7 +173,23 @@
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
@@ -177,23 +209,7 @@
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Lips",
         "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "What Happened To The Heart?",
         "url": "https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/67c7PNN05Co9royqUCthR7"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Beroendeframkallande",
         "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Mona Lisa, Mona Lisa",
         "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sommerfl\u00f8rt",
         "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "N\u00e5 har du meg",
         "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Tar Jeg Feil",
         "url": "https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/606olj3PDQBde7TTAop4tA"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Fr\u00f8ken Oslo V",
         "url": "https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "leilo brenner (Spotify Studio It's Hits Recording)",
         "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Kor e du?",
         "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
@@ -517,23 +533,7 @@
       "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Lyst p\u00e5 d\u00e6",
         "url": "https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i"
@@ -549,23 +549,7 @@
       "url": "https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "B\u00f8lger",
-        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
-      },
-      "artists": [
-        {
-          "name": "3TOS",
-          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
-        }
-      ],
-      "duration_ms": 133875,
-      "name": "B\u00f8lger",
-      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Lykke te",
         "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
@@ -581,7 +565,39 @@
       "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "B\u00f8lger",
+        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
+      },
+      "artists": [
+        {
+          "name": "3TOS",
+          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
+        }
+      ],
+      "duration_ms": 133875,
+      "name": "B\u00f8lger",
+      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Felt Cute Might Delete Later",
         "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
@@ -597,23 +613,7 @@
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Som sommaren",
         "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
@@ -629,7 +629,39 @@
       "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "HJERTET MITT ER HELT OK",
         "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
@@ -649,23 +681,7 @@
       "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Syrener (Akustisk)",
         "url": "https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
         "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Mad Women",
         "url": "https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Hvit sommer",
         "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Hellig",
         "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
@@ -781,23 +797,7 @@
       "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
-        "url": "https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 195607,
-      "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
-      "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
@@ -813,7 +813,23 @@
       "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
+        "url": "https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 195607,
+      "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
+      "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Alt jeg har dr\u00f8mt om",
         "url": "https://open.spotify.com/album/78baGAYAw809s68WP75BXX"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Glem meg, men jeg glemmer aldri",
         "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn"
@@ -865,23 +881,7 @@
       "url": "https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Synd synd synd",
-        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Synd synd synd",
-      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "tivoli",
         "url": "https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT"
@@ -897,7 +897,23 @@
       "url": "https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Synd synd synd",
+        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Synd synd synd",
+      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
@@ -917,7 +933,39 @@
       "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sommartid",
         "url": "https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs"
@@ -937,39 +985,7 @@
       "url": "https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Thunder in my heart (music from the series)",
-        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Thunder in my heart (music from the series)",
-      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "To Be Alright",
         "url": "https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Keeps Me Going",
         "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "D\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
@@ -1033,23 +1049,7 @@
       "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "December (honey, honey)",
         "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
@@ -1065,23 +1065,7 @@
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Langt av sted",
-        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Langt av sted",
-      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "S\u00e5nn som deg",
         "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
@@ -1097,7 +1081,39 @@
       "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Langt av sted",
+        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Langt av sted",
+      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
         "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
@@ -1129,7 +1145,7 @@
       "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Ti tusen",
         "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
@@ -1145,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Uten d\u00e6",
         "url": "https://open.spotify.com/album/23J8fC5yRfsBoIsiUfycQw"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Om hundre \u00e5r",
         "url": "https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9"
@@ -1181,7 +1197,55 @@
       "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Rekk opp h\u00e5nda",
+        "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 180126,
+      "name": "Rekk opp h\u00e5nda",
+      "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Bygda v\u00e5r",
+        "url": "https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 161418,
+      "name": "Bygda v\u00e5r",
+      "url": "https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Klisje",
         "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
@@ -1201,55 +1265,7 @@
       "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Rekk opp h\u00e5nda",
-        "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 180126,
-      "name": "Rekk opp h\u00e5nda",
-      "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 174014,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Bygda v\u00e5r",
-        "url": "https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 161418,
-      "name": "Bygda v\u00e5r",
-      "url": "https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "People Come And Go",
         "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
@@ -1265,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Some Type Of Skin (Acoustic)",
         "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
@@ -1281,39 +1297,7 @@
       "url": "https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Sommergl\u00f8d",
-        "url": "https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7"
-      },
-      "artists": [
-        {
-          "name": "06 Boys",
-          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Sommergl\u00f8d",
-      "url": "https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Sommerfugl",
-        "url": "https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Sommerfugl",
-      "url": "https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Tre sekunder",
         "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
@@ -1329,7 +1313,7 @@
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Vil ikke hjem",
         "url": "https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf"
@@ -1345,7 +1329,23 @@
       "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sommergl\u00f8d",
+        "url": "https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7"
+      },
+      "artists": [
+        {
+          "name": "06 Boys",
+          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Sommergl\u00f8d",
+      "url": "https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w"
@@ -1361,39 +1361,7 @@
       "url": "https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Synnes sumarvise",
-        "url": "https://open.spotify.com/album/3Ov9vdLXHJ8CWiiao8Yhnr"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "Synnes sumarvise",
-      "url": "https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Hvalfangerbyen",
-        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 200531,
-      "name": "Hvalfangerbyen",
-      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
@@ -1409,7 +1377,55 @@
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Hvalfangerbyen",
+        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Hvalfangerbyen",
+      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Synnes sumarvise",
+        "url": "https://open.spotify.com/album/3Ov9vdLXHJ8CWiiao8Yhnr"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "Synnes sumarvise",
+      "url": "https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sommerfugl",
+        "url": "https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 172162,
+      "name": "Sommerfugl",
+      "url": "https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm"
@@ -1425,7 +1441,7 @@
       "url": "https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "ELLE",
         "url": "https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0"
@@ -1439,24 +1455,8 @@
       "duration_ms": 185061,
       "name": "Hate Being Alone",
       "url": "https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym"
-      },
-      "artists": [
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 167673,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA"
     }
   ],
-  "unique_name": "Sommersol",
+  "unique_name": "H\u00f8st i lufta",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH"
 }

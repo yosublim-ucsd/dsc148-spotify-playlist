@@ -7729,6 +7729,40 @@
     },
     {
       "album": {
+        "name": "Ritmada Interestelar",
+        "url": "https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR"
+      },
+      "artists": [
+        {
+          "name": "DJ DUARTE",
+          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        },
+        {
+          "name": "DJ Kayo Original",
+          "url": "https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7"
+        },
+        {
+          "name": "MC Rondom",
+          "url": "https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc"
+        },
+        {
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Ritmada Interestelar",
+      "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
+    },
+    {
+      "album": {
         "name": "RITMO DE TREINO",
         "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
       },
@@ -8776,7 +8810,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 186994,
       "name": "Toque Carinhoso",
       "url": "https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea"

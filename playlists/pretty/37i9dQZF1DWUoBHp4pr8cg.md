@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Travis Scott, A$AP Rocky, Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,014 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,018 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 12 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 |
 | 13 | [Long Life](https://open.spotify.com/track/3WDmVEJaryu8LHeCQTGV0x) | [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x), [pH Raw X](https://open.spotify.com/artist/4WNN0ElS0Ob6WmiMhS8zBd), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Long Life](https://open.spotify.com/album/1NPn1i2VwhRgrAwu9FfS0j) | 3:17 |
 | 14 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
-| 15 | [Yes](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 |
+| 15 | [Yes \- vinyl version](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 |
 | 16 | [WAR](https://open.spotify.com/track/3V3hlZ0gWcYSGCwMW6EDOs) | [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [WAR](https://open.spotify.com/album/1mfotTCSRTniu8r6l0IvOM) | 3:05 |
 | 17 | [copy my drip](https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [copy my drip](https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6) | 2:18 |
 | 18 | [all faxx](https://open.spotify.com/track/432OxDuiDIxa0zPMxLAhrY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [all faxx](https://open.spotify.com/album/1WFEItK2dxMAUTKpNaoEBW) | 2:51 |

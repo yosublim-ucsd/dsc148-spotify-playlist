@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
+    },
+    {
+      "album": {
         "name": "44.SUMMER",
         "url": "https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76"
       },
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166216,
       "name": "U mari",
       "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"

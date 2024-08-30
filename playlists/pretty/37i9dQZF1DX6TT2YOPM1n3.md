@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > We don't gatekeep our Pakistani Hits list, very demure, very mindful\. 🇵🇰 Cover: Annural Khalid, Maanu
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,408 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,427 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

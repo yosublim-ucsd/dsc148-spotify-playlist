@@ -2,7 +2,7 @@
 
 ### [This Is Mariah Carey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2w0gZW)
 
-> This is Mariah Carey\. The essential tracks, all in one playlist.
+> This is Mariah Carey\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 82 songs - 5 hr 31 min
 

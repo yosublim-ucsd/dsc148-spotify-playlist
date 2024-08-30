@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-713 songs - 1 day 11 hr 44 min
+715 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Move](https://open.spotify.com/track/4fSdNe7SPTkjkKa58Szac7) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Move](https://open.spotify.com/album/0QzpAWffVTLUQHsEeNvtlv) | 3:05 | 2023-11-03 |  |
 | [Move Left Move Right](https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Move Left Move Right](https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp) | 3:36 | 2023-04-14 | 2023-05-02 |
 | [Move To The Beat \- Radio Edit](https://open.spotify.com/track/0nmOC0jAEWcuK8AI3i1fD9) | [HEYDIZ & ZEVS](https://open.spotify.com/artist/1628FkN8QFzeJ07WJtsXdz) | [Move To The Beat](https://open.spotify.com/album/32VNINAFBEp5bWtVPh96Sg) | 3:29 | 2024-07-08 |  |
+| [Moves](https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL) | [Taurus](https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K) | [Moves](https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG) | 3:01 | 2024-08-29 |  |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-21 | 2023-12-14 |
 | [Murder On The Dancefloor \- Rave Edit](https://open.spotify.com/track/1Nl3LaK2B5X2y3tHJThfSA) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Murder On The Dancefloor \(Rave Edit\)](https://open.spotify.com/album/6ypShOKsNsnWNXSLYo0Qnw) | 2:57 | 2023-02-12 | 2023-04-13 |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-11-24 |  |
@@ -682,6 +683,7 @@
 | [Watch Me](https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Watch Me \(Radio Edit\)](https://open.spotify.com/album/3wV3MUVnC6gvZwWPZRAQMa) | 2:46 | 2023-02-12 | 2023-08-02 |
 | [Watch Me Do My Thing](https://open.spotify.com/track/1YLMVtxJFuTkObwzvioeJ6) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [Watch Me Do My Thing](https://open.spotify.com/album/2EsXsflgBTQrTloJbXyAc9) | 2:20 | 2023-09-01 | 2023-12-14 |
 | [Way Too Good](https://open.spotify.com/track/0SXWJXZmF6mT6uOqQr8rPg) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Way Too Good](https://open.spotify.com/album/3q22v4Q0OmG0ukZVXqSuGZ) | 3:21 | 2023-07-20 | 2023-12-14 |
+| [We Don’t Need](https://open.spotify.com/track/7CMHF9xJYMXIHlOkD1NCGg) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:36 | 2024-08-29 |  |
 | [We Enter](https://open.spotify.com/track/7qIpx1KiZc6KBY6zeOJe3T) | [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [We Enter](https://open.spotify.com/album/43EyY47jMzKbeq1pHKaGx0) | 2:39 | 2024-01-26 |  |
 | [We House U](https://open.spotify.com/track/15sHpP61Dht32ezVKBrtPg) | [PØP CULTUR](https://open.spotify.com/artist/7lxjUMVAHwmzzPATtuEB9m) | [We House U](https://open.spotify.com/album/1XU0Z54SlEYhHtRv4lLacl) | 2:47 | 2024-02-29 |  |
 | [Weapon](https://open.spotify.com/track/2chLUwM4ofzZxhXIUcVl1P) | [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [Matheo Velez](https://open.spotify.com/artist/6MxFlTSSCQgopzNmiEsaxU) | [Weapon](https://open.spotify.com/album/41WivKU0HKTRVQt59MfTzq) | 2:30 | 2023-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-804 songs - 1 day 22 hr 2 min
+805 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [About U](https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About U](https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare) | 3:18 | 2023-05-15 | 2023-08-10 |
 | [about you](https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb) | [about you](https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP) | 2:43 | 2024-05-10 | 2024-08-02 |
-| [about you \- Flava D Remix](https://open.spotify.com/track/4GQU46Vx4QVCH5tJqDsxYV) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [about you \(Flava D Remix\)](https://open.spotify.com/album/1axmAwqa9T3PJ4yPBaMEdp) | 3:04 | 2024-06-06 |  |
+| [about you \- Flava D Remix](https://open.spotify.com/track/4GQU46Vx4QVCH5tJqDsxYV) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [about you \(Flava D Remix\)](https://open.spotify.com/album/1axmAwqa9T3PJ4yPBaMEdp) | 3:04 | 2024-06-06 | 2024-08-30 |
 | [Abyss](https://open.spotify.com/track/4rkXjSB8o4uXxAxG68Kj5z) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Eternal](https://open.spotify.com/album/4BWqMQAnfw2CH51bNPvmc0) | 3:58 | 2024-06-21 |  |
 | [Accelerate](https://open.spotify.com/track/61kmDZXjXGBWh8YnWjFCQY) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Accelerate](https://open.spotify.com/album/789y4j9o32eMfjaWAPsqyF) | 4:10 | 2023-06-08 | 2023-09-26 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 | 2023-02-08 |
@@ -531,6 +531,7 @@
 | [Overdrive](https://open.spotify.com/track/2tImUAHJJ57AlEqcONzWFQ) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Overdrive](https://open.spotify.com/album/2oxKfXeIbwKJLraAfZfRQS) | 2:55 | 2023-09-19 | 2024-01-11 |
 | [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
+| [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 | 2024-08-29 |  |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
 | [Perfect World](https://open.spotify.com/track/3osdj7cdZJyY7eCuTVV0C4) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Perfect World](https://open.spotify.com/album/6LkqmZzjJrOp2x7z1AS1Yk) | 2:55 | 2024-06-20 |  |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |

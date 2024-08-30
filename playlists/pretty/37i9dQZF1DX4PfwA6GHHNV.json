@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18502,
+  "num_followers": 18525,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-24 23:20:17",
       "album": {
-        "name": "TocToc",
-        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "TocToc",
-      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
-    },
-    {
-      "added_at": "2024-08-24 23:20:17",
-      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+    },
+    {
+      "added_at": "2024-08-24 23:20:17",
+      "album": {
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -571,22 +571,26 @@
     {
       "added_at": "2024-08-24 23:20:17",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Lifee",
+          "url": "https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Gabriel Mar\u00e9",
+          "url": "https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL"
         }
       ],
-      "duration_ms": 194862,
-      "name": "Luar",
-      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+      "duration_ms": 144444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -611,30 +615,6 @@
       "duration_ms": 138979,
       "name": "Cana de feira",
       "url": "https://open.spotify.com/track/0AIQdslJbh2J45SinWowSN"
-    },
-    {
-      "added_at": "2024-08-24 23:20:17",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
-      },
-      "artists": [
-        {
-          "name": "Lifee",
-          "url": "https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Gabriel Mar\u00e9",
-          "url": "https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL"
-        }
-      ],
-      "duration_ms": 144444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -671,6 +651,62 @@
       "duration_ms": 208000,
       "name": "MAIS VERDE",
       "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2024-08-24 23:20:17",
+      "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-08-24 23:20:17",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
+      },
+      "artists": [
+        {
+          "name": "Kota Manda",
+          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Erick Lobato",
+          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
+        },
+        {
+          "name": "Vittau",
+          "url": "https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8"
+        },
+        {
+          "name": "TOCS",
+          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
+        }
+      ],
+      "duration_ms": 217959,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -723,38 +759,22 @@
     {
       "added_at": "2024-08-24 23:20:17",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt"
+        "name": "Afasta",
+        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
       "artists": [
         {
-          "name": "Kota Manda",
-          "url": "https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        },
-        {
-          "name": "Erick Lobato",
-          "url": "https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64"
-        },
-        {
-          "name": "Vittau",
-          "url": "https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8"
-        },
-        {
-          "name": "TOCS",
-          "url": "https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 217959,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB"
+      "duration_ms": 175578,
+      "name": "Afasta",
+      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -783,22 +803,22 @@
     {
       "added_at": "2024-08-24 23:20:17",
       "album": {
-        "name": "Afasta",
-        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
+        "name": "Deixa Eu Te Contar",
+        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 175578,
-      "name": "Afasta",
-      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
+      "duration_ms": 193200,
+      "name": "Deixa Eu Te Contar",
+      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -819,26 +839,6 @@
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2024-08-24 23:20:17",
-      "album": {
-        "name": "Deixa Eu Te Contar",
-        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Deixa Eu Te Contar",
-      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-08-24 23:20:17",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        },
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
-    },
-    {
-      "added_at": "2024-08-24 23:20:17",
-      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2024-08-24 23:20:17",
+      "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
     },
     {
       "added_at": "2024-08-24 23:20:17",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-08-24 23:20:17",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-08-24 23:20:17",
-      "album": {
         "name": "Me Conta",
         "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 196374,
       "name": "Me Conta",
       "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "added_at": "2024-08-24 23:20:17",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-08-24 23:20:17",

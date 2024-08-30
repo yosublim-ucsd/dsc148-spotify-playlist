@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-84 songs - 4 hr 34 min
+85 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Jeena Chahun](https://open.spotify.com/track/01AwohzqShtjlhyjYoWKHM) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jeena Chahun](https://open.spotify.com/album/4OXmB2Q2LXeyWJV67dtfRw) | 3:30 | 2023-10-20 |  |
 | [Jogan](https://open.spotify.com/track/5eaTl8F4WUIzLKG3URlz8X) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo) | [Jogan](https://open.spotify.com/album/7DB6iy5YqwOMDcpMrw33wu) | 3:00 | 2024-02-05 |  |
 | [Jogan](https://open.spotify.com/track/71zyIZd2ICR7S5ymc6JYgi) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo) | [Jogan](https://open.spotify.com/album/54Pd2Eg7lW2GHtXWjSSoza) | 3:00 | 2023-10-20 | 2024-04-19 |
+| [Kesariya Balam \- Folktronica Remix](https://open.spotify.com/track/482zJTCsps0aNuSlIqGAB4) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Kesariya Balam \- Folktronica Remix](https://open.spotify.com/album/1zljyAoQx0tk02UW95NOm4) | 2:23 | 2024-08-29 |  |
 | [Khwahish Ke Boonden](https://open.spotify.com/track/7lWd9Sph8vMrqVdkvVC5xc) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Kai Gurung](https://open.spotify.com/artist/3G2rbJJhuy2uMagGeqIIk7) | [Khwahish Ke Boonden](https://open.spotify.com/album/4W2dLmOGEPtkGLXU3vhcBR) | 3:36 | 2023-10-20 |  |
 | [KMTN](https://open.spotify.com/track/0PGFtUkvDdvQx5CmqezI8t) | [babyface](https://open.spotify.com/artist/5MTT0dvjp1BmpEwF1xEZZi) | [KMTN](https://open.spotify.com/album/2lWLqWYZZBs4vr2ASJpdtc) | 2:42 | 2023-10-20 |  |
 | [Kya Hai Tu](https://open.spotify.com/track/37jRP4BxoLNvtYsTI1YFJv) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Ratri](https://open.spotify.com/artist/2uZIepJ8Gjj8CwSi42JClr) | [Kya Hai Tu](https://open.spotify.com/album/3dC0Lt4ypDURm45UQjRVVB) | 3:49 | 2023-10-20 |  |
@@ -56,7 +57,7 @@
 | [Lost Without You](https://open.spotify.com/track/57cRnwOnlIVsBKHOzrF7oZ) | [Mridul Kala](https://open.spotify.com/artist/1jhHH5kwbkL3Cr8GxWNTdY) | [Lost Without You](https://open.spotify.com/album/44y80LKSLF3D9F3UDlKoVY) | 2:20 | 2023-10-20 |  |
 | [Love For A Lifetime](https://open.spotify.com/track/4RoK4OX2L4HXqKXh1xa0LB) | [Progressive Brothers](https://open.spotify.com/artist/49ATHR1LB0svG40PcjjHPP) | [Love For A Lifetime](https://open.spotify.com/album/3KLFtWLDjwXvmoXWpuO5nr) | 3:44 | 2023-10-20 |  |
 | [Love Forever](https://open.spotify.com/track/4VCdLSfRMx5nX2TsarZxUs) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Chaitxnya](https://open.spotify.com/artist/1gcR7Ufcrolsr7zRn1bv1A) | [Love Forever](https://open.spotify.com/album/7bzpFypf96SjUDRKMok6gR) | 3:23 | 2023-10-20 |  |
-| [Mantrah](https://open.spotify.com/track/0aq7hOP81yTb9E9cXdlT63) | [Ishan Majee](https://open.spotify.com/artist/6ov51eeD29HZd2uA3wGk6S) | [Mantrah](https://open.spotify.com/album/1UfBit4VHYP1bSKdbmRQ3d) | 2:43 | 2023-10-20 |  |
+| [Mantrah](https://open.spotify.com/track/0aq7hOP81yTb9E9cXdlT63) | [Ishan Majee](https://open.spotify.com/artist/6ov51eeD29HZd2uA3wGk6S) | [Mantrah](https://open.spotify.com/album/1UfBit4VHYP1bSKdbmRQ3d) | 2:43 | 2023-10-20 | 2024-08-30 |
 | [Mera Dil](https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Adnan Ahmad](https://open.spotify.com/artist/7qFEucMhWHhPO9LftYsTcO) | [Mera Dil](https://open.spotify.com/album/3TPaXFvYWPk2F9WqGiGM0c) | 3:15 | 2023-10-20 |  |
 | [Moomjabi](https://open.spotify.com/track/29Zl6UiuCeGD3ohyo33nlv) | [Skeletron](https://open.spotify.com/artist/3fWeF8YvJ8MHEPppAbdWfj), [QRTX](https://open.spotify.com/artist/62mT0cVVkAocFeIKdlkj21), [Satyam](https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT) | [Moomjabi](https://open.spotify.com/album/6Gq9CmcLPhZfcr3xHOMWOk) | 3:07 | 2023-10-20 |  |
 | [Never Let You Go](https://open.spotify.com/track/7xyXsSD7ruRBvbeRqCcJzz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nina & Malika](https://open.spotify.com/artist/4PJCaRYDmLzu4kxHUeUAbq) | [Never Let You Go](https://open.spotify.com/album/6n7Kf2MbyZrkSyIIMMEx8K) | 3:06 | 2023-10-20 |  |

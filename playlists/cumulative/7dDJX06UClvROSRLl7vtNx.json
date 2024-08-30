@@ -1399,6 +1399,32 @@
     },
     {
       "album": {
+        "name": "Chase The Sun",
+        "url": "https://open.spotify.com/album/5MimC6f1DcUYxdwRssNkqe"
+      },
+      "artists": [
+        {
+          "name": "Xiam",
+          "url": "https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84"
+        },
+        {
+          "name": "Rukid",
+          "url": "https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a"
+        },
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147151,
+      "name": "Chase The Sun",
+      "url": "https://open.spotify.com/track/0iydBOqwHjGPOE2OWBgIFA"
+    },
+    {
+      "album": {
         "name": "Chasing The Sun",
         "url": "https://open.spotify.com/album/2WqS2ce78boIayErhwXdQW"
       },
@@ -1986,7 +2012,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 147187,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/6RuuQr0sJjVMe6FHabUxjT"
@@ -2200,7 +2226,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 145641,
       "name": "Die For Love",
       "url": "https://open.spotify.com/track/0gWjh743qLdbOiAYoetXZi"
@@ -4435,6 +4461,28 @@
     },
     {
       "album": {
+        "name": "Hung Up",
+        "url": "https://open.spotify.com/album/4Rr5tOtjoMJbmuPwrCfv4p"
+      },
+      "artists": [
+        {
+          "name": "Vogel",
+          "url": "https://open.spotify.com/artist/3E1WT25XSYZkSdw2FLEaCB"
+        },
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148014,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/75Ea1glfmbAfMAOJ7SlnBL"
+    },
+    {
+      "album": {
         "name": "Hurts So Good",
         "url": "https://open.spotify.com/album/3vzt9rAvpW3OIg3JupTJ2J"
       },
@@ -5042,7 +5090,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 129373,
       "name": "Indefinitely",
       "url": "https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn"
@@ -7854,7 +7902,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172000,
       "name": "Out Of Here",
       "url": "https://open.spotify.com/track/0nVuLmwrBRpwtZfYurYt9I"
@@ -8136,6 +8184,28 @@
       "duration_ms": 159203,
       "name": "Prayer In C",
       "url": "https://open.spotify.com/track/3y9GDhOJ8GUFIa3DOqLAPZ"
+    },
+    {
+      "album": {
+        "name": "Put It All On Me",
+        "url": "https://open.spotify.com/album/1nsB55xQPs25jrj2gFMZS0"
+      },
+      "artists": [
+        {
+          "name": "Electric Hearts",
+          "url": "https://open.spotify.com/artist/6SYYIEe80XyOdOE1wlQoQO"
+        },
+        {
+          "name": "Sergio Ochoa",
+          "url": "https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181456,
+      "name": "Put It All On Me",
+      "url": "https://open.spotify.com/track/3f3XwzwFgKpk2q3nlUmJeC"
     },
     {
       "album": {
@@ -10810,6 +10880,28 @@
       "duration_ms": 161311,
       "name": "Unbreak It",
       "url": "https://open.spotify.com/track/6l9watGB0N9k9sFOKKNb1T"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/0dnBeLR9f0oDAptNqPZQH5"
+      },
+      "artists": [
+        {
+          "name": "Summer Dusk",
+          "url": "https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3"
+        },
+        {
+          "name": "Ynnox",
+          "url": "https://open.spotify.com/artist/12Br190pgwwhEjMY1ResUN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/6Fy8K1TTQj7SPdsjYl0gLC"
     },
     {
       "album": {

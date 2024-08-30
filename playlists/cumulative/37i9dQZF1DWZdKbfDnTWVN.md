@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=b6B1ehSTSAygcrw\_hMd7Hw">BURUKLYN BOYZ</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=2wz5EaCuTGmoLDJ6\_gEFcg"> Octopizzo</a>
 
-261 songs - 13 hr 29 min
+262 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Joy Kendi](https://open.spotify.com/track/15ChBy7aLI3B4UWhW8pnWw) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Joy Kendi](https://open.spotify.com/album/3GuSzxFzt5mbNL53tX1Zd6) | 2:32 | 2024-05-30 |  |
 | [Judgment Day](https://open.spotify.com/track/7M358bpZKqYEf2kkvvo7n7) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Judgment Day](https://open.spotify.com/album/5kvLli7isTzsrWG5hNac8O) | 1:46 | 2023-10-11 | 2023-12-01 |
 | [Kalesa na Leather](https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Kalesa na Leather](https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM) | 2:42 | 2022-06-02 | 2023-04-14 |
+| [Kich Ka' Liech](https://open.spotify.com/track/4dGePfrfRnAlLx9m3xzcHP) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [KICH KA' LIECH](https://open.spotify.com/album/4dHyKlVS2q8quCPZFQ0uAJ) | 3:14 | 2024-08-29 |  |
 | [Kichele](https://open.spotify.com/track/1v0epiVeXJTtBPPGtkO356) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd), [Domani Munga](https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb), [Skillo](https://open.spotify.com/artist/6rh217APb8d1vsKePXAca1) | [Kichele](https://open.spotify.com/album/1FR8KcaTLzgP1TZUuVx8yj) | 3:09 | 2024-04-16 |  |
 | [Kichwa Mbaya](https://open.spotify.com/track/3XaOCbF3QzjcZwpmXNNmcX) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Kichwa Mbaya](https://open.spotify.com/album/3WYQ2LyDVgXphaqeHeXOx0) | 4:05 | 2024-04-05 |  |
 | [Kicks Kama Shoulin](https://open.spotify.com/track/7wdiLTYpTS5YrC57QViB3H) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [UGYN](https://open.spotify.com/artist/4ir54j2pLRmjVwseHuP79N) | [Kicks Kama Shoulin](https://open.spotify.com/album/4J8jb57i0dLdKYRikNLRhi) | 1:21 | 2024-06-27 |  |
@@ -148,7 +149,7 @@
 | [Money Talks](https://open.spotify.com/track/0laxguEK88Fn3sXUhuPF21) | [Sora ODG](https://open.spotify.com/artist/4DFcd0At4EozxRkWUxXHEx), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt), [Sxddar](https://open.spotify.com/artist/2pqUV4obCHNB70NpxBjk6E) | [Money Talks](https://open.spotify.com/album/0IxqwSpu9bhrCffTByK2dD) | 2:12 | 2024-07-25 |  |
 | [MONEYLONG MALONG](https://open.spotify.com/track/00y0lRuyrmT1oblzpF7L4r) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW), [Vintix Jr](https://open.spotify.com/artist/13XsdZHCvyYXkAYClwHzxA) | [UGANJA](https://open.spotify.com/album/5UbrwU28Y51I3WXThqODBB) | 4:30 | 2024-01-26 | 2024-03-01 |
 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-26 | 2023-08-18 |
-| [Mswaki](https://open.spotify.com/track/1ThrFG6ZfF73rSSh29O9Ww) | [Young Gideon](https://open.spotify.com/artist/6N3GhMFkwlfZoUGd60npKF), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR) | [Imani](https://open.spotify.com/album/7xaDoueVKrbnqUs76AlOzj) | 3:16 | 2024-03-15 |  |
+| [Mswaki](https://open.spotify.com/track/1ThrFG6ZfF73rSSh29O9Ww) | [Young Gideon](https://open.spotify.com/artist/6N3GhMFkwlfZoUGd60npKF), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR) | [Imani](https://open.spotify.com/album/7xaDoueVKrbnqUs76AlOzj) | 3:16 | 2024-03-15 | 2024-08-30 |
 | [MTUME](https://open.spotify.com/track/3afiqam2ssy59uYm0F0068) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [MTUME](https://open.spotify.com/album/5iUo5nirH7XvK0zdOGCmTX) | 3:25 | 2024-07-18 | 2024-07-24 |
 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 | 2024-01-11 |  |
 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 | 2022-09-08 | 2023-05-19 |

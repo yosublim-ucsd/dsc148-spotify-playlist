@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58561,
+  "num_followers": 58576,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
       "artists": [
         {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
         }
       ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+      "duration_ms": 188368,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -667,26 +675,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
         }
       ],
-      "duration_ms": 188368,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "LA RUTA X MEXICO, Vol. 1",
-        "url": "https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S"
-      },
-      "artists": [
-        {
-          "name": "FLAKO STIK",
-          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
-        }
-      ],
-      "duration_ms": 240794,
-      "name": "MARCIANO",
-      "url": "https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "LA RUTA X MEXICO, Vol. 1",
+        "url": "https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S"
+      },
+      "artists": [
+        {
+          "name": "FLAKO STIK",
+          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+        }
+      ],
+      "duration_ms": 240794,
+      "name": "MARCIANO",
+      "url": "https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
+      },
+      "artists": [
+        {
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Florida BB",
         "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 371000,
       "name": "Florida BB",
       "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
-      },
-      "artists": [
-        {
-          "name": "Brain Hunters",
-          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Body Movin",
-        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
-      },
-      "artists": [
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body Movin",
-      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199384,
       "name": "Vino Rosa",
       "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Body Movin",
+        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Body Movin",
+      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Yo No Soy Marinero",
         "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "La Diabla (Electro Remix)",
         "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
       },
@@ -1187,42 +1187,6 @@
       "duration_ms": 136477,
       "name": "La Diabla (Electro Remix)",
       "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1247,6 +1211,42 @@
       "duration_ms": 292880,
       "name": "SIN MIRAR - Midnight Generation Remix",
       "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1291,26 +1291,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Franca Barona",
-        "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
+        "name": "BOOM SHAKALAKA",
+        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
         },
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
         }
       ],
-      "duration_ms": 215294,
-      "name": "Franca Barona",
-      "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
+      "duration_ms": 155600,
+      "name": "BOOM SHAKALAKA",
+      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1355,46 +1355,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "BOOM SHAKALAKA",
-        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
+        "name": "Franca Barona",
+        "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
       "artists": [
         {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         },
         {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 155600,
-      "name": "BOOM SHAKALAKA",
-      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "El Trip",
-        "url": "https://open.spotify.com/album/3vHEsJrncp28EjfC4OoDHW"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "El Trip",
-      "url": "https://open.spotify.com/track/0aAH9fnlsBdcc61MZGHmLH"
+      "duration_ms": 215294,
+      "name": "Franca Barona",
+      "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1415,6 +1395,26 @@
       "duration_ms": 185000,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "El Trip",
+        "url": "https://open.spotify.com/album/3vHEsJrncp28EjfC4OoDHW"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "El Trip",
+      "url": "https://open.spotify.com/track/0aAH9fnlsBdcc61MZGHmLH"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/7LfAtfT3rsZSSV28Us4KRz"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 193955,
       "name": "Storm",
       "url": "https://open.spotify.com/track/4AkIdFbQ03lYvkj5MD61vH"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "Mr.Pig",
+        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Forever (Tonga Conga Remix)",
         "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 332000,
       "name": "Forever - Tonga Conga Remix",
       "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Mr.Pig",
-        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Asereje",
-      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
     },
     {
       "added_at": "2024-08-23 06:00:00",

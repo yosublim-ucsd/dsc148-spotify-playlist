@@ -4,7 +4,7 @@
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Kavinsky
 
-99 songs - 6 hr 50 min
+101 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2023-10-16 |  |
 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 | 2023-02-07 | 2024-04-19 |
 | [Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/5PkAUwhhB5YGgwnvhy4AC7) | 3:37 | 2024-03-08 |  |
-| [FRANK](https://open.spotify.com/track/5zHa6tYdr1k1pOBJPIv7Fw) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb) | [FRANK](https://open.spotify.com/album/5i8wOElEy6wOo1pyb4kb29) | 2:45 | 2024-02-16 |  |
+| [FRANK](https://open.spotify.com/track/5zHa6tYdr1k1pOBJPIv7Fw) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb) | [FRANK](https://open.spotify.com/album/5i8wOElEy6wOo1pyb4kb29) | 2:45 | 2024-02-16 | 2024-08-30 |
 | [Furia Electronica](https://open.spotify.com/track/5cHjMM0sX3nOME4JHIJfJq) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Furia Electronica](https://open.spotify.com/album/29AEcGabeudmQqN03ReQcs) | 4:50 | 2024-02-16 |  |
 | [Future](https://open.spotify.com/track/1L44XODDvPjK4Tl9airKLy) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Bright Like Neon Love](https://open.spotify.com/album/4AyAxuQiwiloLye3qxuXq4) | 5:12 | 2023-02-07 |  |
 | [Get Myself Into It](https://open.spotify.com/track/0ZbNQQtAbdQoTWxt4avi2w) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Pieces Of The People We Love](https://open.spotify.com/album/1IjCAQlroTjoaRMayE3Unf) | 4:39 | 2023-02-07 | 2024-02-17 |
@@ -46,6 +46,7 @@
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2023-02-07 | 2024-02-17 |
 | [I Come With Knives](https://open.spotify.com/track/2FnukbZsuLUY3BK6lWtx1K) | [IAMX](https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD) | [The Unified Field](https://open.spotify.com/album/0l86PJLl6c3BvzHSTRiBmf) | 4:22 | 2023-02-07 | 2024-04-19 |
 | [I Come With Knives](https://open.spotify.com/track/2KzYjp7bRcGlwgZRUmoSeZ) | [IAMX](https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD) | [The Unified Field](https://open.spotify.com/album/0tAUuBldpHmnguMysW4ycm) | 4:22 | 2024-03-08 | 2024-04-26 |
+| [I see you up tomorrow](https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [I see you up tomorrow](https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j) | 2:46 | 2024-08-29 |  |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-02-16 |  |
 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 | 2024-03-08 | 2024-04-26 |
 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 | 2023-10-19 |  |
@@ -54,6 +55,7 @@
 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 | 2023-02-07 |  |
 | [Ladyflash](https://open.spotify.com/track/6pVTFOItC56aBNhMVjoGje) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Thunder, Lightning, Strike](https://open.spotify.com/album/7k8fPk75tH4HPLy43neH0S) | 4:16 | 2023-02-07 | 2023-11-16 |
 | [Late](https://open.spotify.com/track/0ny0lgetdxGbSsD8WnGXPp) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Late](https://open.spotify.com/album/4rk0GJtHxDsQwAHFZ3T4hK) | 3:32 | 2023-11-15 |  |
+| [Let her go](https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:02 | 2024-08-29 |  |
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 | 2023-02-07 | 2024-04-19 |
 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/0VYEz3QEWELuILpeyzOF0A) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz) | 3:31 | 2024-03-08 |  |
 | [Lost And Found](https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 3:34 | 2024-02-16 | 2024-03-09 |
@@ -100,7 +102,7 @@
 | [Time To Dance](https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z) | [The Shoes](https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP), [ANTHONIN TERNANT](https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE) | [Crack My Bones](https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx) | 3:16 | 2023-02-07 |  |
 | [Toop Toop](https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [15 Again \(Deluxe Edition\)](https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB) | 2:47 | 2023-02-07 | 2023-11-16 |
 | [TRANSMISSION](https://open.spotify.com/track/74aCGPb3BPylVKgM3FXCWj) | [Canblaster](https://open.spotify.com/artist/0IUKzbO8Ak6iMVUae225Wk) | [LIBEROSIS \(ACT II\)](https://open.spotify.com/album/0uiCEFi6FM8LTWv6RsxnnC) | 4:26 | 2024-03-01 |  |
-| [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2023-02-07 |  |
+| [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2023-02-07 | 2024-08-30 |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2023-02-07 | 2023-12-23 |
 | [Vanished](https://open.spotify.com/track/3gGMsx3jxYKfhXq8LMj1tz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT) | 4:02 | 2024-03-08 |  |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-11-29 | 2024-04-19 |

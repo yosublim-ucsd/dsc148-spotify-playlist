@@ -4,7 +4,7 @@
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-134 songs - 8 hr 45 min
+135 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Twilight ∞ nighT](https://open.spotify.com/track/3QXRtqgt8rS70qA6j02HOM) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [EVER DREAM](https://open.spotify.com/album/46BJOovo6b2j3nFOGS0Nyj) | 3:44 | 2021-09-23 | 2022-08-08 |
 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 | 2021-09-23 |  |
 | [Who!? \(feat\. Hatsune Miku\) \[Album ver.\]](https://open.spotify.com/track/2jNvzals81lXRPBw89Y3tD) | [BIGHEAD](https://open.spotify.com/artist/2H1LiROfuxEO0EORx0hFD4) | [ONLY 1 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/5fmWYNx8CJF2VfDC7BnQlq) | 4:57 | 2021-09-23 | 2022-07-12 |
+| [World is Ours](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 | 2024-08-29 |  |
 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 | 2021-09-23 | 2022-07-28 |
 | [えれくとりっく・えんじぇぅ](https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D) | [ヤスオ](https://open.spotify.com/artist/2ZYswAbco1meCCWLz9ge87) | [電彩想歌](https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp) | 3:17 | 2021-09-23 |  |
 | [からくりピエロ \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 | 2021-09-23 |  |

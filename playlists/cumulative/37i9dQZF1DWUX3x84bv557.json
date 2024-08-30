@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Shary-An, Kenny B",
+  "description": "De nieuwste Nederlandse pop! Cover: Claude",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -354,6 +354,24 @@
       "duration_ms": 143520,
       "name": "Achterna",
       "url": "https://open.spotify.com/track/7uPCo7TJUYlMICfuCavnCf"
+    },
+    {
+      "album": {
+        "name": "Achterom",
+        "url": "https://open.spotify.com/album/3gp0RzfmWg56jN0ztJyv4Y"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Achterom",
+      "url": "https://open.spotify.com/track/5nQXli1o0ryNQL741hvnqt"
     },
     {
       "album": {
@@ -936,6 +954,24 @@
       "duration_ms": 179333,
       "name": "Als Thuis",
       "url": "https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV"
+    },
+    {
+      "album": {
+        "name": "Alsof",
+        "url": "https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175039,
+      "name": "Alsof",
+      "url": "https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv"
     },
     {
       "album": {
@@ -1977,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/7xl5IiIPrmWSLBk3NCO9zt"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Cosmo",
+      "url": "https://open.spotify.com/track/5afCDDxbZtG7iERMyuQVSa"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
       },
@@ -2574,6 +2628,28 @@
       "duration_ms": 211998,
       "name": "De Tijd Gaat Mooie Dingen Doen",
       "url": "https://open.spotify.com/track/3uMtq20Rh0Bb2rodXPNhzQ"
+    },
+    {
+      "album": {
+        "name": "De Tijd Leert",
+        "url": "https://open.spotify.com/album/4hyW9xPpBTqTQFuWK1ZQAE"
+      },
+      "artists": [
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        },
+        {
+          "name": "Rigt Perez De Groot",
+          "url": "https://open.spotify.com/artist/6cecTr6tcSNrtOZt6D4RBU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179421,
+      "name": "De Tijd Leert",
+      "url": "https://open.spotify.com/track/74OjEBp07dz5BRT3JuzeJk"
     },
     {
       "album": {
@@ -3768,7 +3844,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 195863,
       "name": "Geef Me Het Leven",
       "url": "https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx"
@@ -3786,7 +3862,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 206846,
       "name": "Geef Me Over",
       "url": "https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f"
@@ -4870,7 +4946,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 165595,
       "name": "Hoop Dat Jij Me Mist",
       "url": "https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv"
@@ -5297,6 +5373,28 @@
     },
     {
       "album": {
+        "name": "Ik Haat Hem Voor Jou",
+        "url": "https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Ik Haat Hem Voor Jou",
+      "url": "https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF"
+    },
+    {
+      "album": {
         "name": "Ik Heb Je Lief",
         "url": "https://open.spotify.com/album/6zpCLM4g3cf5sAV21QlXTG"
       },
@@ -5472,6 +5570,24 @@
       "duration_ms": 174953,
       "name": "Ik Wil Dat Je Liegt",
       "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
+    },
+    {
+      "album": {
+        "name": "Ik Zeg Niets",
+        "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Ik Zeg Niets",
+      "url": "https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw"
     },
     {
       "album": {
@@ -6114,7 +6230,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169744,
       "name": "Koude Kermis",
       "url": "https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD"
@@ -6172,6 +6288,24 @@
       "duration_ms": 171333,
       "name": "Kwijt",
       "url": "https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1"
+    },
+    {
+      "album": {
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
     },
     {
       "album": {
@@ -6699,6 +6833,24 @@
     },
     {
       "album": {
+        "name": "Los Van Angst",
+        "url": "https://open.spotify.com/album/5PizQPjxqmmDVn2m8w6Il0"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "Los Van Angst",
+      "url": "https://open.spotify.com/track/3HYnt1qY5NWg6SIOxlw0gJ"
+    },
+    {
+      "album": {
         "name": "Love Is Drugs",
         "url": "https://open.spotify.com/album/5XVnwPuRRsacFjh2kJldTH"
       },
@@ -7168,7 +7320,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 126666,
       "name": "Metronoom",
       "url": "https://open.spotify.com/track/3W5Oaik0KYTd4xc2VLxSO7"
@@ -7520,7 +7672,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 175111,
       "name": "My Energy",
       "url": "https://open.spotify.com/track/5pvyiofS9B2guLpka9wWeZ"
@@ -8424,7 +8576,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 155983,
       "name": "Op Mijn Naam",
       "url": "https://open.spotify.com/track/1CpxzjKRAftRzMKGUYovDR"
@@ -8576,7 +8728,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154400,
       "name": "Parler Fran\u00e7ais",
       "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
@@ -9389,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "Slaap Lekker",
+        "url": "https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ"
+      },
+      "artists": [
+        {
+          "name": "JASHA",
+          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134318,
+      "name": "Slaap Lekker",
+      "url": "https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1"
+    },
+    {
+      "album": {
         "name": "Slaaptekort",
         "url": "https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b"
       },
@@ -9538,6 +9708,24 @@
       "duration_ms": 172091,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT"
+    },
+    {
+      "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/1ZlRUw1jzPOwXXdsuM2BdX"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4Iwfv0IKKWo2tdxwmF4hdI"
     },
     {
       "album": {
@@ -9802,7 +9990,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
@@ -9964,7 +10152,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 184080,
       "name": "SULTAN",
       "url": "https://open.spotify.com/track/3rPZCGFa9DHIPppYZwiLXX"
@@ -10816,10 +11004,28 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 176166,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
+    },
+    {
+      "album": {
+        "name": "Vermomd Entree",
+        "url": "https://open.spotify.com/album/5LnXf4Aq2EqvFcTHTxu83y"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171239,
+      "name": "Vermomd Entree",
+      "url": "https://open.spotify.com/track/51e5V3nePEUAY1DEThZg42"
     },
     {
       "album": {
@@ -11348,7 +11554,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 168888,
       "name": "Waar Ben Jij",
       "url": "https://open.spotify.com/track/2oybR9LRXJ0ixXpNgNRXde"
@@ -11678,6 +11884,24 @@
       "duration_ms": 155643,
       "name": "Wat Is Er Gebeurd",
       "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
+    },
+    {
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192624,
+      "name": "Wat Moet Ik Dan Anders Doen",
+      "url": "https://open.spotify.com/track/0KIVZUfYnHCgxBZB9vTciX"
     },
     {
       "album": {

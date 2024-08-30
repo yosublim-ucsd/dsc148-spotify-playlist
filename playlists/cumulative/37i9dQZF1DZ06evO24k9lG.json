@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-17",
-  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
+  "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
   "name": "This Is Binomio de Oro de Am\u00e9rica",
   "tracks": [
     {
@@ -100,19 +100,27 @@
       },
       "artists": [
         {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
           "name": "Jorge Celed\u00f3n",
           "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
           "name": "Binomio de Oro de Am\u00e9rica",
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        },
+        {
+          "name": "Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/5Xze4GSrC0iPwUdulpUxSu"
         }
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 289746,
-      "name": "Como Hago",
+      "name": "Como Hago?",
       "url": "https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir"
     },
     {

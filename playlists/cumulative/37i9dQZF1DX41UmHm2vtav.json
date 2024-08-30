@@ -985,6 +985,32 @@
     },
     {
       "album": {
+        "name": "Carla (Remix)",
+        "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
+      },
+      "artists": [
+        {
+          "name": "GUDI",
+          "url": "https://open.spotify.com/artist/6IOnGfED9G9QWwZUTlUUH9"
+        },
+        {
+          "name": "Marcus Menna",
+          "url": "https://open.spotify.com/artist/2cPdLtSkPjN7QrMUuHOodV"
+        },
+        {
+          "name": "Ga Salvia",
+          "url": "https://open.spotify.com/artist/0wvWFvGrETy0NFbXLrWPMY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194905,
+      "name": "Carla - Remix",
+      "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
+    },
+    {
+      "album": {
         "name": "Certeza - Zabot Remix",
         "url": "https://open.spotify.com/album/53dgwj85VBXlIeb8UMLmtT"
       },
@@ -2522,7 +2548,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 138536,
       "name": "Mais um Dia",
       "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"

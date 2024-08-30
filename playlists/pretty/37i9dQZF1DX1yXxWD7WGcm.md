@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Slaï
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,589 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,623 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 22 | [Syé Bwa](https://open.spotify.com/track/6VRYU02zS0eTij6zUimVE4) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Vini Pou](https://open.spotify.com/album/4IbLTNdcAqDT2xyePb7Db2) | 4:38 |
 | 23 | [Sa pran mwen trop tan](https://open.spotify.com/track/1Ilkn5otcJsrf60DDEpuJ8) | [Cyrielle](https://open.spotify.com/artist/2RFrhCswhuz2J8ogmR180F) | [Et si c'était vrai](https://open.spotify.com/album/6PMElw849dIpW2LEAgUL5J) | 4:02 |
 | 24 | [Vini](https://open.spotify.com/track/5ClSFh5wvocS8bypi9nWNa) | [Nichols](https://open.spotify.com/artist/6rvJUax9W8BrBC6nL6Rl8W), [Marysa](https://open.spotify.com/artist/15g2YTZ5MPzw6mG5JMzMc5) | [Hot !](https://open.spotify.com/album/2c1DbufXlLIeakSnCjFD1I) | 3:48 |
-| 25 | [Simplement](https://open.spotify.com/track/2iM4L4kVzYo9spCkvuNJ0k) | [Milca](https://open.spotify.com/artist/5YE3riVoIML4fFnfqJzK3L) | [Simplement \(2020 Remastered Version\)](https://open.spotify.com/album/3q12MlWGq7YrXUnJK4YN33) | 4:35 |
+| 25 | [Simplement](https://open.spotify.com/track/2iM4L4kVzYo9spCkvuNJ0k) | [Milca](https://open.spotify.com/artist/5YE3riVoIML4fFnfqJzK3L) | [Simplement \- 2020 Remastered Version](https://open.spotify.com/album/3q12MlWGq7YrXUnJK4YN33) | 4:35 |
 | 26 | [Elles demandent](https://open.spotify.com/track/6SGLeYh7sH3auF3R40ISZw) | [Medhy Custos](https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd) | [Medhy Custos \(Bonus Elles demandent Feat\. Admiral T.\)](https://open.spotify.com/album/22XZ6XxUOPP89254uzlNQ3) | 3:03 |
 | 27 | [Ma vie sans toi](https://open.spotify.com/track/3vrjFilXfC0P53dOO15GIC) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Mes couleurs](https://open.spotify.com/album/7LE9C4LvYfBU6imab1TcMa) | 4:03 |
 | 28 | [A Fleur De Vous](https://open.spotify.com/track/4WQRqy7TUvQv9R2Mk5NAGR) | [Warren](https://open.spotify.com/artist/6pJdJSI3HsmjyL1wccGqxI) | [Snake Me](https://open.spotify.com/album/6vPq8K3BvGoFD1vN4Rqvaa) | 4:48 |

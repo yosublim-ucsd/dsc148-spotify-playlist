@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Jorge & Mateus, Henrique & Juliano e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Kaique e Felipe, Luan Pereira e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "CLONE - Ao Vivo",
+        "url": "https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164401,
+      "name": "CLONE - Ao Vivo",
+      "url": "https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g"
+    },
+    {
+      "album": {
         "name": "Coisas Que Eu Sei",
         "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
       },
@@ -3366,6 +3384,24 @@
       "duration_ms": 158769,
       "name": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
       "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Do Nada",
+        "url": "https://open.spotify.com/album/64p7CrFGlKyEFvAnv3P0D4"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157823,
+      "name": "Eu Fujo",
+      "url": "https://open.spotify.com/track/07ceTL2BIlnI5jWxceZz9d"
     },
     {
       "album": {
@@ -8072,10 +8108,44 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 184427,
       "name": "Reza do Milh\u00e3o",
       "url": "https://open.spotify.com/track/4oHVbU9l8Ja6g4q4ACf7M4"
+    },
+    {
+      "album": {
+        "name": "Ritmada Interestelar",
+        "url": "https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR"
+      },
+      "artists": [
+        {
+          "name": "DJ DUARTE",
+          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        },
+        {
+          "name": "DJ Kayo Original",
+          "url": "https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7"
+        },
+        {
+          "name": "MC Rondom",
+          "url": "https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc"
+        },
+        {
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Ritmada Interestelar",
+      "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Munyasya
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,187 likes - 85 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,194 likes - 85 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 53 | [Down to Me \- Davis B Remix](https://open.spotify.com/track/6qAlulFqO10Bn06eGpa9tB) | [KAMUSHEZ](https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS), [Dattie Capelli](https://open.spotify.com/artist/7n0IL4h59BSGNAwPjAI5E9), [Davis B](https://open.spotify.com/artist/2eE77mWsLL4m0d9w3OWVws) | [Down To Me \(Davis B Remix\)](https://open.spotify.com/album/5ycXRLiOjsA2g8NaeFHesJ) | 6:33 |
 | 54 | [Walking On Water](https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Fynite](https://open.spotify.com/artist/2ZuNcbGsaXWwd4BEejFXJD), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking on Water](https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7) | 3:45 |
 | 55 | [Umoya](https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [We Live 4 Our Music](https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai) | 7:16 |
-| 56 | [Your Love \- Antdot Remix](https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Your Love \(Antdot Remix\)](https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw) | 2:57 |
+| 56 | [Your Love \- Antdot Remix](https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Your Love \- Antdot Remix](https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw) | 2:57 |
 | 57 | [Last Summer](https://open.spotify.com/track/6F1oIKnT2vubFelcGsd1OF) | [Da Druma](https://open.spotify.com/artist/4PBDIbJLiIUeIpa16eUHl2), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Last Summer](https://open.spotify.com/album/2heXBgWJgIya6igxO0PeNJ) | 7:24 |
 | 58 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 |
 | 59 | [Lie To Me \- Hendrick Sam Remix](https://open.spotify.com/track/2qjEzU7pidm628Q0wHQq4H) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [Lie To Me \(Vol\. 2\)](https://open.spotify.com/album/5onZdz88WmAyml2xrIHg69) | 2:44 |

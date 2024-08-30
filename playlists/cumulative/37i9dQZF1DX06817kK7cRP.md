@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-202 songs - 8 hr 54 min
+203 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [sunday morning stroll](https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [sunday morning stroll](https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW) | 3:06 | 2023-08-31 |  |
 | [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 | 2023-01-12 |  |
 | [Sunrays](https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Sunrays](https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz) | 2:12 | 2023-01-12 | 2024-08-24 |
+| [Sway](https://open.spotify.com/track/7noufvXjTMaVfqvw5i39Nc) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Sway](https://open.spotify.com/album/7CdG5JQk2l80Aze9GFIXq3) | 2:01 | 2024-08-23 |  |
 | [Sweet Summer](https://open.spotify.com/track/02StEGitEzSYO4tHxIgJXp) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sweet Summer](https://open.spotify.com/album/0ATKgXkzT0pUU5TWCPnqxT) | 1:49 | 2023-01-12 | 2023-03-25 |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-01-12 |  |
 | [The Bookstore](https://open.spotify.com/track/5lxqmlmy757NrrYf9Pji64) | [Theedo](https://open.spotify.com/artist/5PNIRTzDP5BicAvRKX4wmM) | [Moonlight](https://open.spotify.com/album/0j9gNDJ4RDL7XEUW3mdlws) | 1:55 | 2023-01-12 | 2023-01-26 |
@@ -209,6 +210,6 @@
 | [Windless](https://open.spotify.com/track/0CiZ6qq5ntSvr9tNejgTp0) | [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Windless](https://open.spotify.com/album/16HOKv5OEH73eeo3ulWT76) | 2:39 | 2023-11-10 |  |
 | [Woodlander](https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Woodlander](https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG) | 2:29 | 2023-01-12 |  |
 | [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 | 2023-02-23 | 2024-05-25 |
-| [Yellow Rose](https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC) | [Digital Candle](https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi) | [Party Life](https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1) | 3:09 | 2023-11-26 |  |
+| [Yellow Rose](https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC) | [Digital Candle](https://open.spotify.com/artist/4c6b7cOrAun4kjZnQpJsSi) | [Party Life](https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1) | 3:09 | 2023-11-26 | 2024-08-30 |
 
 \*This playlist was first scraped on 2023-01-13. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Maija Vilkkumaa.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 226831,
       "name": "Aina sinulle",
       "url": "https://open.spotify.com/track/3OxJGAR04RUV1krR1usKTW"
+    },
+    {
+      "album": {
+        "name": "SUPERAURINKO",
+        "url": "https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A"
+      },
+      "artists": [
+        {
+          "name": "Jonna Tervomaa",
+          "url": "https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230599,
+      "name": "Aioin j\u00e4tt\u00e4\u00e4 sut t\u00e4n\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy"
     },
     {
       "album": {
@@ -517,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Jokaiselle jotakin",
+        "url": "https://open.spotify.com/album/1UyCAuD7IiNINPDC9crXQS"
+      },
+      "artists": [
+        {
+          "name": "Ilkka Alanko",
+          "url": "https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Jokaiselle jotakin",
+      "url": "https://open.spotify.com/track/3UXirsFIIcEtEJg1DlMMcy"
+    },
+    {
+      "album": {
         "name": "Joki",
         "url": "https://open.spotify.com/album/10wu7slwCyHBTFsXLS1c7e"
       },
@@ -720,6 +756,24 @@
       "duration_ms": 204151,
       "name": "Kaunis",
       "url": "https://open.spotify.com/track/6T6D0KAk4q6ujqWkTmQ0bL"
+    },
+    {
+      "album": {
+        "name": "Jokivarsien laulut",
+        "url": "https://open.spotify.com/album/2lTcH70XtPzLlOR9JBbbcg"
+      },
+      "artists": [
+        {
+          "name": "Jukka Takalo",
+          "url": "https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233773,
+      "name": "Kemin savut",
+      "url": "https://open.spotify.com/track/0R3DcHNuWvQucIRjZWY8E1"
     },
     {
       "album": {
@@ -1141,6 +1195,42 @@
     },
     {
       "album": {
+        "name": "Me ollaan niin pienii",
+        "url": "https://open.spotify.com/album/4YpveFiVXnqRxgAuw8DQdH"
+      },
+      "artists": [
+        {
+          "name": "Freesia",
+          "url": "https://open.spotify.com/artist/4st8ZRjH23jaPQrJ0gPSvh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Me ollaan niin pienii",
+      "url": "https://open.spotify.com/track/6vwccN8uniz3l1mNwVBdzl"
+    },
+    {
+      "album": {
+        "name": "Me ollaan siskot",
+        "url": "https://open.spotify.com/album/74gp6EnHAcwSQX6PW0l50u"
+      },
+      "artists": [
+        {
+          "name": "Maija Vilkkumaa",
+          "url": "https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176996,
+      "name": "Me ollaan siskot",
+      "url": "https://open.spotify.com/track/4oyeTpI7bkjkpldKOk4PU2"
+    },
+    {
+      "album": {
         "name": "Me ollaan t\u00e4hti\u00e4",
         "url": "https://open.spotify.com/album/0heEiD5Zi25gTEagJuul2H"
       },
@@ -1350,7 +1440,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 206026,
       "name": "On",
       "url": "https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB"
@@ -1480,7 +1570,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 257200,
       "name": "Piia ja Johnny",
       "url": "https://open.spotify.com/track/1yobGvkLw8tqxytTdz9FZA"
@@ -1628,6 +1718,24 @@
       "duration_ms": 155579,
       "name": "rakas",
       "url": "https://open.spotify.com/track/0l0n1g5YisTTgM3PrYIjmA"
+    },
+    {
+      "album": {
+        "name": "Rakkautta & anarkiaa",
+        "url": "https://open.spotify.com/album/4rfIZOi0exVOhOWxxyVc6U"
+      },
+      "artists": [
+        {
+          "name": "Annika Nord",
+          "url": "https://open.spotify.com/artist/38CUYNUjAo4KtM0aSp8rgs"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211161,
+      "name": "Rakkautta & anarkiaa",
+      "url": "https://open.spotify.com/track/154heblJv4md1puOCiEFWq"
     },
     {
       "album": {
@@ -2158,6 +2266,24 @@
       "duration_ms": 187062,
       "name": "T\u00e4n\u00e4\u00e4n lupaan - Radio Edit",
       "url": "https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3"
+    },
+    {
+      "album": {
+        "name": "T\u00e4s ja nyt",
+        "url": "https://open.spotify.com/album/7vFMReWTVm1OZnwDCsbAfh"
+      },
+      "artists": [
+        {
+          "name": "Salla Flinkman",
+          "url": "https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "T\u00e4s ja nyt",
+      "url": "https://open.spotify.com/track/1Shd74Ge7YhV90M2Ttx6Mw"
     },
     {
       "album": {

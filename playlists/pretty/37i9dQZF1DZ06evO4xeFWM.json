@@ -1,12 +1,12 @@
 {
-  "description": "This is Bastille. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 214656,
+  "description": "This is Bastille. The essential tracks, all in one playlist.",
+  "num_followers": 214665,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAADcKTMeMTn9ZL9s8pMHvQCo",
+  "snapshot_id": "Zs5ogAAAAACpDZt5eLBvKQO/9nRSvArx",
   "tracks": [
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basket Case (From \u2018The Tick\u2019 TV Series)",
-        "url": "https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw"
+        "name": "WHAT YOU GONNA DO???",
+        "url": "https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD"
       },
       "artists": [
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
         }
       ],
-      "duration_ms": 153548,
-      "name": "Basket Case - From \u2018The Tick\u2019 TV Series",
-      "url": "https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb"
+      "duration_ms": 131302,
+      "name": "WHAT YOU GONNA DO???",
+      "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
     },
     {
       "added_at": null,
@@ -795,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT YOU GONNA DO???",
-        "url": "https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD"
+        "name": "Basket Case (From \u2018The Tick\u2019 TV Series)",
+        "url": "https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw"
       },
       "artists": [
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Graham Coxon",
-          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
         }
       ],
-      "duration_ms": 131302,
-      "name": "WHAT YOU GONNA DO???",
-      "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
+      "duration_ms": 153548,
+      "name": "Basket Case - From \u2018The Tick\u2019 TV Series",
+      "url": "https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb"
     },
     {
       "added_at": null,

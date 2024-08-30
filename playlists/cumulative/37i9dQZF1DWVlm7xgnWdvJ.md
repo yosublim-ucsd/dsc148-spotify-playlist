@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-159 songs - 14 hr 37 min
+160 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\) \- Extended Mix](https://open.spotify.com/track/1QDTajtWBca20z4NQmACKy) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Mr.id](https://open.spotify.com/artist/6OEYeOGJNuHVhukFpLY49F) | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\)](https://open.spotify.com/album/47LbnqAz2CQ7fJ4NtBDvv7) | 7:21 | 2023-03-15 | 2023-07-01 |
 | [Time](https://open.spotify.com/track/6J3aUG1y0zSJXOnsLhx41h) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Girlcatcher](https://open.spotify.com/album/66q0q162WOFuidbucN1Jdp) | 15:13 | 2022-12-20 |  |
 | [Together Onetime](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Together Onetime](https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29) | 6:59 | 2022-12-20 |  |
+| [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 |  |
 | [Trainmann \- Tensnake Franceman Mix](https://open.spotify.com/track/0HpHGti6doPOUBz66MAduf) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Trainmann \(Tensnake Remixes\)](https://open.spotify.com/album/5AVC3IUtdRi3sYyD3pft2f) | 7:36 | 2022-12-20 |  |
 | [Underwater](https://open.spotify.com/track/5VkBNt0nUlQoPkg0APK5Ep) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Underwater](https://open.spotify.com/album/3tqxbagniKI9O28YVKUiKo) | 3:36 | 2022-12-20 | 2023-02-22 |
 | [Underwater \- Extended Mix](https://open.spotify.com/track/1AleARZA9JX0Makndi4eaB) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Best of 2022 \(Extended Mixes\)](https://open.spotify.com/album/3wqkCxTHSJXPSxqwiUesC5) | 6:51 | 2023-02-21 |  |

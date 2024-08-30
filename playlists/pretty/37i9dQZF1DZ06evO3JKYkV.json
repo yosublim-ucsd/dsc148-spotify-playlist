@@ -1,12 +1,12 @@
 {
-  "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 66557,
+  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
+  "num_followers": 66592,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAACpPqf/97MqsxH2Nqpf5rVV",
+  "snapshot_id": "Zs5ogAAAAABPnIGINFAva0iC1e4K4bnm",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+        "name": "Xylem Tube EP",
+        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 217133,
-      "name": "4",
-      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
+      "duration_ms": 286506,
+      "name": "Polynomial-C",
+      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xylem Tube EP",
-        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "Polynomial-C",
-      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Richard D. James Album",
         "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 122466,
-      "name": "Goon Gumpas",
-      "url": "https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 447800,
-      "name": "#1",
-      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+      "duration_ms": 217133,
+      "name": "4",
+      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
     },
     {
       "added_at": null,
@@ -471,6 +439,22 @@
       "duration_ms": 287586,
       "name": "minipops 67 [120.2][source field mix]",
       "url": "https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 447800,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
     },
     {
       "added_at": null,
@@ -500,25 +484,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
+      "duration_ms": 122466,
+      "name": "Goon Gumpas",
+      "url": "https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4"
     },
     {
       "added_at": null,
@@ -539,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come To Daddy",
         "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
@@ -551,22 +535,6 @@
       "duration_ms": 262533,
       "name": "Come To Daddy - Pappy Mix",
       "url": "https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Girl/Boy Song",
-      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
     },
     {
       "added_at": null,
@@ -587,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Girl/Boy Song",
+      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -599,38 +583,6 @@
       "duration_ms": 266558,
       "name": "Blackbox Life Recorder 21f",
       "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 631240,
-      "name": "XMAS_EVET10 [120][thanaton3 mix]",
-      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Yellow Calx",
-      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
     },
     {
       "added_at": null,
@@ -667,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 268813,
-      "name": "4 bit 9d api+e+6 [126.26]",
-      "url": "https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v"
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
     },
     {
       "added_at": null,
@@ -699,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digeridoo (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 432938,
-      "name": "Digeridoo - 2022 Remaster",
-      "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -727,6 +679,54 @@
       "duration_ms": 459280,
       "name": "Acrid Avid Jam Shred",
       "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 268813,
+      "name": "4 bit 9d api+e+6 [126.26]",
+      "url": "https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Digeridoo (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 432938,
+      "name": "Digeridoo - 2022 Remaster",
+      "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"
     },
     {
       "added_at": null,

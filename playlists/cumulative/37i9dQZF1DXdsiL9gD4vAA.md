@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-174 songs - 15 hr 41 min
+175 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 | 2023-04-17 |
 | [Ek Purana Mausam Lauta](https://open.spotify.com/track/1F3BM9e09myeUXSyj5czjr) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 6:16 | 2023-09-14 |  |
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 | 2023-04-19 |
-| [Gham Chhedta Hai](https://open.spotify.com/track/5BG5xBHUxHSPv1sFzHB3tF) | [Mousumi Roy](https://open.spotify.com/artist/0vlmWDuZJ7LXD3QfJyJik8) | [Gham Chhedta Hai](https://open.spotify.com/album/7qApiKJqDmDt2I5KpNXtOR) | 6:15 | 2024-04-18 |  |
+| [Gham Chhedta Hai](https://open.spotify.com/track/5BG5xBHUxHSPv1sFzHB3tF) | [Mousumi Roy](https://open.spotify.com/artist/0vlmWDuZJ7LXD3QfJyJik8) | [Gham Chhedta Hai](https://open.spotify.com/album/7qApiKJqDmDt2I5KpNXtOR) | 6:15 | 2024-04-18 | 2024-08-30 |
 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 | 2024-08-05 |  |
 | [Gulzar Speaks \- Khwab](https://open.spotify.com/track/33IlpTp09vVa3VSTm4A5ol) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 1:03 | 2023-09-14 |  |
 | [Gulzar Speaks \- Tarkieb](https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Marasim](https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz) | 0:46 | 2023-09-14 |  |
@@ -112,6 +112,7 @@
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/7b4T76KOVCaEG2HJNdm9fW) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 0:23 | 2024-04-18 |  |
 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-27 |  |
 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 | 2024-02-07 |  |
+| [Main Khayal Hoon](https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD) | [Main Khayal Hoon](https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2) | 5:25 | 2024-08-29 |  |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 |  |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 | 2024-04-19 |
 | [Mere Humraaz](https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Mere Humraaz](https://open.spotify.com/album/4rW8e3N8i7FTSVgQrBeFtF) | 6:27 | 2024-03-05 |  |
@@ -162,7 +163,7 @@
 | [Teri Yaad..\. Yaad..\. Yaad](https://open.spotify.com/track/744tf6znd3SFZf7y2emIL7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Kathin Hai Raah Guzar: Ghazals Hits By Ghulam Ali](https://open.spotify.com/album/5uPIBx7ElnjhQxKDQhgiVn) | 8:09 | 2021-12-01 |  |
 | [To Ne Dikha Hai Kabhi](https://open.spotify.com/track/69GrvktEn2ezemVh4OYrvq) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 5:16 | 2021-12-01 |  |
 | [Tose Lage Nain](https://open.spotify.com/track/2rLx3Y0yEjEGfO9ydhl7cw) | [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Tose Lage Nain](https://open.spotify.com/album/4zokBbgS5ZFgVjs3WFO6Pj) | 5:54 | 2024-02-14 |  |
-| [Tujhe Paake](https://open.spotify.com/track/7qzr9JjGm2jlTZbEeBv8D7) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Tujhe Paake](https://open.spotify.com/album/6peEDpmpRFAuu3u9noH7XR) | 6:41 | 2024-04-26 |  |
+| [Tujhe Paake](https://open.spotify.com/track/7qzr9JjGm2jlTZbEeBv8D7) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Tujhe Paake](https://open.spotify.com/album/6peEDpmpRFAuu3u9noH7XR) | 6:41 | 2024-04-26 | 2024-08-30 |
 | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5DG2W3WACSbK5yFA1WpUiN) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Tujhse Mohabbat \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/1KhfQKzO0BjpwDupugvOkr) | 5:04 | 2024-03-19 |  |
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-12-01 | 2023-05-16 |
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |

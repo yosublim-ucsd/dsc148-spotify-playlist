@@ -4,13 +4,13 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Nazz
 
-151 songs - 8 hr 5 min
+152 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/07qSl2sNpFNILaYyZ6yIS9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3UhZwBv1QvSLG1OFQXx930) | 0:00 | 2023-03-17 | 2023-04-25 |
 | [\#NoBakshis](https://open.spotify.com/track/0nFIjLWAyKA6D7T4Ju15hO) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 2:13 | 2023-12-13 | 2024-02-08 |
-| [307 \- Tadipaar](https://open.spotify.com/track/3ykJ0aV5PDv4ELluV4wJQX) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [307 \(Tadipaar\)](https://open.spotify.com/album/2eppHH9aIpflUcMLvWsj8V) | 2:32 | 2023-03-17 |  |
+| [307 \- Tadipaar](https://open.spotify.com/track/3ykJ0aV5PDv4ELluV4wJQX) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [307 \(Tadipaar\)](https://open.spotify.com/album/2eppHH9aIpflUcMLvWsj8V) | 2:32 | 2023-03-17 | 2024-08-30 |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-03-17 |  |
 | [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-19 | 2024-04-19 |
 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 | 2024-04-12 |  |
@@ -144,6 +144,7 @@
 | [Shy](https://open.spotify.com/track/4oIAC4u2X5yti76y62twzs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Shy](https://open.spotify.com/album/2DLeX2WeY7j5nQdJaRkAG6) | 2:49 | 2023-03-17 | 2024-01-20 |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-03-17 | 2023-04-25 |
 | [SOCH](https://open.spotify.com/track/6fexssu7i0gEbFcsm0U9ar) | [Dopeadelicz](https://open.spotify.com/artist/4HqaCsAhhMF8t4ExOwugpK), [Captain Fuse](https://open.spotify.com/artist/0k7mjIymx7jlsAvFziZk2W), [Dope Daddy](https://open.spotify.com/artist/6xuK3kfFTCwAzlKabusMfv) | [SOCH](https://open.spotify.com/album/748YA661UjhBabYijwUofu) | 3:10 | 2023-03-17 | 2023-04-25 |
+| [Taambdi Chaamdi](https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Taambdi Chaamdi](https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w) | 2:38 | 2024-08-29 |  |
 | [Talk Sick](https://open.spotify.com/track/5b0LdNlKEO11EfK2g23yeS) | [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Talk Sick](https://open.spotify.com/album/0AwaspSTBbiJKVcMZfPhjN) | 2:26 | 2024-06-07 | 2024-07-19 |
 | [Thanks To My Haters](https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Thanks To My Haters](https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX) | 2:46 | 2023-03-17 |  |
 | [That's How I Feel](https://open.spotify.com/track/6YO7q7qgFdDi4CtZq3vx5p) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [That's How I Feel](https://open.spotify.com/album/5pYcqsHfiXZYBeDv91WUZr) | 3:43 | 2023-03-17 | 2023-04-25 |

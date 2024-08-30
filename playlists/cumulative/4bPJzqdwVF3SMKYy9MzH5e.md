@@ -4,7 +4,7 @@
 
 > 
 
-1,959 songs - 4 day 9 hr 40 min
+1,962 songs - 4 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,6 +912,7 @@
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-04-03 |  |
 | [Insomniac](https://open.spotify.com/track/6heegweEX2UjB4JPacgc0V) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Selections from the Billy Hole, Part II](https://open.spotify.com/album/3k8iPtoOBzsr1I0DZmNJGH) | 3:32 | 2021-08-05 |  |
 | [Intimate](https://open.spotify.com/track/2zR85kwGgnHaWIL9hI0zXM) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 4:44 | 2021-11-14 |  |
+| [Intoxicated \(Slowed\)](https://open.spotify.com/track/5d2ND4hQ2zyeB3UI6fhn0I) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Intoxicated \(Slowed\)](https://open.spotify.com/album/6A2tENxlWLMOfJHhJ1F149) | 2:14 | 2024-08-29 |  |
 | [Introversion 2.0](https://open.spotify.com/track/21VhUQHJrRvcl8Bj6pYI2h) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIX: The Deep End Saga](https://open.spotify.com/album/6zFDOD1SXs27ERSlm1q7kY) | 1:49 | 2023-01-03 |  |
 | [Invitation](https://open.spotify.com/track/3L4suJQV84AAOAE4FRefti) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Invitation](https://open.spotify.com/album/4tvURFzWBbtEs50K8Q4u92) | 3:22 | 2021-08-05 |  |
 | [Iron Fist](https://open.spotify.com/track/10JxT3OyvJp2e14A7b8gYK) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Faris Badwan](https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 2:30 | 2022-08-02 |  |
@@ -1282,6 +1283,7 @@
 | [Painkiller](https://open.spotify.com/track/1abFkY2jm6KDFMZ7RD9YJh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Painkiller](https://open.spotify.com/album/68WyGdXBIZQZLezPVSDrxC) | 3:33 | 2021-08-05 |  |
 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 | 2021-08-05 |  |
 | [Paper](https://open.spotify.com/track/60sE6u77Uuwsf7w4GbPwgf) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Paper](https://open.spotify.com/album/2OuZduHr2CqQK6gvflPIKW) | 2:37 | 2021-08-05 |  |
+| [Paper Planes](https://open.spotify.com/track/64vv8CmBPaxya187jS6KhT) | [Voluptuöus](https://open.spotify.com/artist/0Op5CNaLTuYdXiB3rFesg8) | [Paper Planes](https://open.spotify.com/album/1aIaQoqhZhm7p4CNnPdXCQ) | 2:36 | 2024-08-29 |  |
 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 | 2021-08-05 |  |
 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 | 2021-08-24 |  |
 | [Parabola](https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:03 | 2021-08-05 |  |
@@ -1328,6 +1330,7 @@
 | [POCKET ROCKET](https://open.spotify.com/track/1FKG2wgJ75wS9MFNVZFiWd) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [POCKET ROCKET](https://open.spotify.com/album/2wq6cnNKGy6tP5c5ow5Uo8) | 2:11 | 2021-11-14 |  |
 | [Pocky Boy](https://open.spotify.com/track/6Ts2TyVBF6Osom4IV88JNr) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 4:01 | 2022-12-05 |  |
 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 | 2021-08-05 |  |
+| [POLSKA JUMPSTYLE](https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [POLSKA JUMPSTYLE](https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1) | 2:20 | 2024-08-29 |  |
 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 | 2021-08-05 |  |
 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 | 2024-08-13 |  |
 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 | 2024-06-17 |  |

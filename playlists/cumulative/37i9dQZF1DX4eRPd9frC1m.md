@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-367 songs - 20 hr 5 min
+368 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 |  |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |
+| [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 | 2024-08-23 |  |
 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 |  |
 | [STEREOPLEIN \- Yellow Claw Remix](https://open.spotify.com/track/00Dk3QJ4P8EfNxgZRa4eQZ) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [MX2](https://open.spotify.com/artist/7dZxYHTZtPPrExuIkf6IvJ), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [STEREOPLEIN \(Yellow Claw Remix\)](https://open.spotify.com/album/5Ef276bu8Pt9ZWeJT4nNS1) | 3:05 | 2021-11-19 | 2022-01-08 |
 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 | 2023-09-22 |  |
@@ -369,7 +370,7 @@
 | [Who Run Dis](https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Who Run Dis](https://open.spotify.com/album/63ANwKD831AL1Y6o57875Q) | 3:40 | 2022-05-06 | 2022-07-24 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-30 |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-11-19 | 2022-01-08 |
-| [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 | 2024-06-17 |  |
+| [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 | 2024-06-17 | 2024-08-30 |
 | [Work It Out](https://open.spotify.com/track/5qKVcFWolHOWPupR077TbN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Work It Out](https://open.spotify.com/album/7sRKw8p1KMkgshzawKTzVb) | 3:57 | 2021-11-19 | 2022-01-08 |
 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 | 2021-11-19 | 2024-05-26 |
 | [Wut](https://open.spotify.com/track/4hwwtwovfaxKZNXP0BAhvY) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Wut](https://open.spotify.com/album/1oE6EFbJyDVxCRwKVfaIBl) | 2:36 | 2021-11-19 | 2022-01-08 |

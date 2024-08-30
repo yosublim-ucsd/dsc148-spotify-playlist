@@ -2,7 +2,7 @@
 
 ### [This Is Kierra Sheard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EDOAw)
 
-> This Is Kierra Sheard\. Los temas esenciales, todos en una lista.
+> This is Kierra Sheard\. The essential tracks, all in one playlist.
 
 84 songs - 6 hr 50 min
 

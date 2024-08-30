@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Lainey Wilson",
+  "description": "The cream of today's Country crop. Cover: Dylan Scott",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 211573,
       "name": "Backbone (The Desert Child)",
       "url": "https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV"
@@ -3227,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Wanna Say Goodnight",
+        "url": "https://open.spotify.com/album/3C2YvDauBHcw2Tv0Tdlfjp"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204648,
+      "name": "Don't Wanna Say Goodnight",
+      "url": "https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB"
+    },
+    {
+      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7bHANBcNtY6NuvVVMDf8zc"
       },
@@ -4440,7 +4458,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 179876,
       "name": "Gone Fishin'",
       "url": "https://open.spotify.com/track/4H3baiaCkV30cIJ1aG4dA3"
@@ -4970,7 +4988,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 196097,
       "name": "Hearing The Birds Sing",
       "url": "https://open.spotify.com/track/77EhjW2eHZuaQ42I7DYipy"
@@ -7244,7 +7262,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 145460,
       "name": "Love Me Like A Cowboy",
       "url": "https://open.spotify.com/track/7euwjupUU7rGY7H1w7YtfH"
@@ -11839,6 +11857,24 @@
     },
     {
       "album": {
+        "name": "Thing For You",
+        "url": "https://open.spotify.com/album/0W9DvrlnXpLXV087stoBQD"
+      },
+      "artists": [
+        {
+          "name": "Amy Sheppard",
+          "url": "https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211698,
+      "name": "Thing For You",
+      "url": "https://open.spotify.com/track/75v4gJb44JGifUgQE34zcj"
+    },
+    {
+      "album": {
         "name": "Things I Take For Granted (Remix)",
         "url": "https://open.spotify.com/album/5aA5HrP6oaq8Omn9JW61w2"
       },
@@ -12251,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "Train of Thought",
+        "url": "https://open.spotify.com/album/4kFXUiQZPAjH7cXzvtVj1d"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182318,
+      "name": "Train of Thought",
+      "url": "https://open.spotify.com/track/5tIsdN7zL2cRjpujyTvlpy"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
@@ -12352,7 +12406,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 188039,
       "name": "truck on fire",
       "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
@@ -12522,6 +12576,28 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+    },
+    {
+      "album": {
+        "name": "WASTED (with LECADE)",
+        "url": "https://open.spotify.com/album/3MBu4QaiPfoEeUioVvyPt5"
+      },
+      "artists": [
+        {
+          "name": "Bella Mackenzie",
+          "url": "https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL"
+        },
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "WASTED (with LECADE)",
+      "url": "https://open.spotify.com/track/77qx5ktXohwk10nBVcTWLh"
     },
     {
       "album": {
@@ -13828,6 +13904,24 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "album": {
+        "name": "You'd Think I Was A Cowboy",
+        "url": "https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "You'd Think I Was A Cowboy",
+      "url": "https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5"
     },
     {
       "album": {

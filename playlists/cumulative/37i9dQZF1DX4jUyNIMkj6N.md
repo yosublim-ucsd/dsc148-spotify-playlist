@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-306 songs - 18 hr 39 min
+307 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [America](https://open.spotify.com/track/5l2JI0XPhFKWJwERHOIqkN) | [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [America](https://open.spotify.com/album/1sd88SXXNbNQijDo8ngbOq) | 5:28 | 2023-08-17 | 2023-10-04 |
 | [Angel \- Acoustic String Version](https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:40 | 2023-07-13 | 2024-02-02 |
 | [Animal](https://open.spotify.com/track/6XLsy0UvTwzfd3eS8Uqqc9) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Animal](https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C) | 2:56 | 2024-08-22 |  |
+| [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 | 2024-08-29 |  |
 | [Aprilgitar](https://open.spotify.com/track/3J7ZctjNMenFKXSkXbHGsN) | [Hanne Hukkelberg](https://open.spotify.com/artist/0pGsKU60aKi7MK8rQENGwZ) | [Sommerbarna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5EwLd11ZOFFaO0YLNgYHnn) | 2:39 | 2022-05-26 | 2022-07-29 |
 | [Astoria](https://open.spotify.com/track/4ZTOrqZ171TP9z7ubj2LEt) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [And Then the Sun Came Up](https://open.spotify.com/album/0ARbTN291oZy3KePCs36Uq) | 4:51 | 2022-09-29 | 2022-12-03 |
 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 | 2023-12-21 | 2024-08-23 |
@@ -103,7 +104,7 @@
 | [Freedom](https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 2:16 | 2022-07-14 | 2023-02-15 |
 | [Freedom](https://open.spotify.com/track/4zzvNcm9aUbVy1zugFYS7u) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Freedom](https://open.spotify.com/album/0EWv02vhy1bg3c00RtiDG7) | 2:16 | 2022-03-24 | 2022-07-29 |
 | [From the Heart](https://open.spotify.com/track/7Mnv2hYsy2ONDPtziGSWJm) | [Stina Kjelstad](https://open.spotify.com/artist/6KHaavR52bCOwF6QccieM7) | [From the Heart](https://open.spotify.com/album/4vV4W8qbp3Kk7lL8w5nKv5) | 2:55 | 2024-03-14 | 2024-04-19 |
-| [funeral](https://open.spotify.com/track/51jglJSZSF5lIK0akIf8kq) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [hiding mountains in the palm of my hand](https://open.spotify.com/album/6bmz99IOVuf9EuaISHm20Z) | 3:32 | 2024-03-14 |  |
+| [funeral](https://open.spotify.com/track/51jglJSZSF5lIK0akIf8kq) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [hiding mountains in the palm of my hand](https://open.spotify.com/album/6bmz99IOVuf9EuaISHm20Z) | 3:32 | 2024-03-14 | 2024-08-30 |
 | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP) | 3:55 | 2022-07-14 | 2022-09-26 |
 | [Gardening](https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening](https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW) | 4:43 | 2023-02-02 | 2023-04-15 |
 | [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 | 2023-08-24 | 2023-09-26 |

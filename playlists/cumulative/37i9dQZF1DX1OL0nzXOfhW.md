@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Wantamnam 我地希望
+> 2024 RADAR登場！持續發掘世一超新聲！Cover:  OJ Reambillo
 
 208 songs - 12 hr 1 min
 

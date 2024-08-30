@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 334746,
       "name": "Angola, Louisiana",
       "url": "https://open.spotify.com/track/4iqtrToCLSIMCbt8QtvbAn"
@@ -902,6 +902,24 @@
       "duration_ms": 185480,
       "name": "It'll All Be Over",
       "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
+    },
+    {
+      "album": {
+        "name": "Politics",
+        "url": "https://open.spotify.com/album/15668LZdvpFbxSGBFhoJ8K"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454480,
+      "name": "La ritournelle",
+      "url": "https://open.spotify.com/track/40at1IRgEDeq0Jun0VNsz2"
     },
     {
       "album": {

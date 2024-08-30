@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-195 songs - 13 hr 55 min
+198 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,8 @@
 | [Aftermath](https://open.spotify.com/track/3HRe9JK8aE9hRFcCowaS5Q) | [Chandar Pryce](https://open.spotify.com/artist/2QQ1ZERnEQtDhSz0CgNfZk) | [Aftermath](https://open.spotify.com/album/5KRVskxaCcKUrRJeEeEuSz) | 2:44 | 2023-02-24 |  |
 | [Ahir Bhairav](https://open.spotify.com/track/2YqGNsc93UuLNBrvHD00Jv) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 4:35 | 2022-04-04 | 2024-03-27 |
 | [Anarkali](https://open.spotify.com/track/6XjsTOdtCJqn50W7ouvXAq) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Temple Leaves](https://open.spotify.com/album/4FgFJmKNa2omZgJxpybnkP) | 5:00 | 2022-04-04 |  |
+| [Ancient Voices \(From Call of the Mystic\)](https://open.spotify.com/track/4VYZ5F1Efe5elXeGBPCbcG) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Enlightenment \- A Sacred Collection](https://open.spotify.com/album/4PPdwkiaWNXo2BEKCNr9SF) | 5:19 | 2024-08-29 |  |
+| [Annapurna](https://open.spotify.com/track/1inLtrwDbsbp9Xtxjkilj7) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Annapurna](https://open.spotify.com/album/0cSTPDKCX1W01APuHxUU7k) | 2:37 | 2024-08-29 |  |
 | [Anupam Rahasya](https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Anupam Rahasya](https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec) | 4:37 | 2023-08-24 |  |
 | [At Peace](https://open.spotify.com/track/5xvX5zpOI06cgupNFa9rXf) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [At Peace](https://open.spotify.com/album/6cXHYUCWRcIiP7hkSuhC4p) | 4:04 | 2023-02-24 |  |
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2022-04-04 |  |
@@ -24,6 +26,7 @@
 | [Bachpan Ki Rang](https://open.spotify.com/track/4goSbam8XSjNeZnUKG6xcP) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Shiva's Dance](https://open.spotify.com/album/16cRcww7yofJIljIAWbobS) | 3:36 | 2023-06-23 |  |
 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 | 2022-07-08 |  |
 | [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-04-04 | 2022-05-06 |
+| [Bansuri Bliss](https://open.spotify.com/track/32BdtHlfa8lUZrYk3iTvXL) | [Lumara](https://open.spotify.com/artist/1IFpiv3qvu1L2SDxCDhNsK) | [Bansuri Bliss](https://open.spotify.com/album/0cgkTaEA8Y827kJPjz0ulC) | 2:15 | 2024-08-29 |  |
 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-04-04 |  |
 | [Bhairavi](https://open.spotify.com/track/4zttb0FMlcA1PO9h8mQ8ub) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 6:47 | 2022-04-04 | 2024-03-27 |
 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 | 2022-04-04 |  |

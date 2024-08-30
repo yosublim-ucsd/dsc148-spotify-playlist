@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9808,
+  "num_followers": 9806,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-10 15:53:17",
       "album": {
+        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love me Again",
+      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
+    },
+    {
+      "added_at": "2024-08-10 15:53:17",
+      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
-    },
-    {
-      "added_at": "2024-08-10 15:53:17",
-      "album": {
-        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
-      },
-      "artists": [
-        {
-          "name": "KEN",
-          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Love me Again",
-      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
     },
     {
       "added_at": "2024-08-10 15:53:17",

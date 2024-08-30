@@ -6,8 +6,80 @@
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAa9nz1puLeHTVGzY+A0mwmd6NPi/30",
+  "snapshot_id": "AAAbAfoY1FQuaT7nIybD/saxB6HRj49s",
   "tracks": [
+    {
+      "added_at": "2024-08-29 18:03:30",
+      "album": {
+        "name": "There, There",
+        "url": "https://open.spotify.com/album/5LsmK8O9hIof0BulViXvU0"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "There, There",
+      "url": "https://open.spotify.com/track/2KtUs4SyTrHcmRt338fFFV"
+    },
+    {
+      "added_at": "2024-01-09 23:13:50",
+      "album": {
+        "name": "The Greatest Generation",
+        "url": "https://open.spotify.com/album/7q9crgUsEy4Clq2B77ijN9"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 146616,
+      "name": "There, There",
+      "url": "https://open.spotify.com/track/21EhWmp2yvVNPa0wCMnvd6"
+    },
+    {
+      "added_at": "2024-08-29 17:58:37",
+      "album": {
+        "name": "Aside",
+        "url": "https://open.spotify.com/album/4opsk1nTx5X1rKiHLTNLuG"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 194317,
+      "name": "Aside",
+      "url": "https://open.spotify.com/track/1bjzuQ0SHfrOVN0U2WqZdf"
+    },
+    {
+      "added_at": "2024-08-29 17:59:06",
+      "album": {
+        "name": "Left and Leaving",
+        "url": "https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe"
+      },
+      "artists": [
+        {
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Aside",
+      "url": "https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr"
+    },
     {
       "added_at": "2024-08-01 23:09:22",
       "album": {
@@ -43,6 +115,42 @@
       "duration_ms": 203382,
       "name": "Vicious Love",
       "url": "https://open.spotify.com/track/3GTapDdoEBfvla87bXolpq"
+    },
+    {
+      "added_at": "2024-08-29 17:59:21",
+      "album": {
+        "name": "The Best Thing (That Never Happened)",
+        "url": "https://open.spotify.com/album/7c4yJ40cEruVtTpwCi58ll"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 183061,
+      "name": "The Best Thing (That Never Happened)",
+      "url": "https://open.spotify.com/track/2iEEWfjzmI4W1xZb0grtER"
+    },
+    {
+      "added_at": "2024-08-29 17:59:36",
+      "album": {
+        "name": "Weird Kids",
+        "url": "https://open.spotify.com/album/3c7e5GQ2om1QZd0uuXqQeB"
+      },
+      "artists": [
+        {
+          "name": "We Are The In Crowd",
+          "url": "https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "The Best Thing (That Never Happened)",
+      "url": "https://open.spotify.com/track/5H4nCAMT63jW86e8s81VV4"
     },
     {
       "added_at": "2024-06-28 22:17:26",
@@ -1407,22 +1515,6 @@
       "duration_ms": 244744,
       "name": "Came Out Swinging",
       "url": "https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh"
-    },
-    {
-      "added_at": "2024-01-09 23:13:50",
-      "album": {
-        "name": "The Greatest Generation",
-        "url": "https://open.spotify.com/album/7q9crgUsEy4Clq2B77ijN9"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 146616,
-      "name": "There, There",
-      "url": "https://open.spotify.com/track/21EhWmp2yvVNPa0wCMnvd6"
     },
     {
       "added_at": "2024-01-09 23:14:08",

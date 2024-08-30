@@ -1,28 +1,28 @@
 {
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Ludwig",
-  "num_followers": 383853,
+  "num_followers": 383846,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs2TMQAAAADPqh7OojKvjosPSi4mvVfe",
+  "snapshot_id": "ZtBzKQAAAADzvrcrt13byMzAGiR8zKpG",
   "tracks": [
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/1P8HvVas5w5Df8pjYLVEq7"
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
       },
       "artists": [
         {
-          "name": "Ludwig",
-          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 144431,
-      "name": "Sentimento",
-      "url": "https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L"
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -51,50 +51,54 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/1P8HvVas5w5Df8pjYLVEq7"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
         }
       ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+      "duration_ms": 144431,
+      "name": "Sentimento",
+      "url": "https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L"
     },
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "SEXY MAGICA",
-        "url": "https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM"
+        "name": "Gira, il mondo gira",
+        "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
       },
       "artists": [
         {
-          "name": "Sarah",
-          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 159685,
-      "name": "SEXY MAGICA",
-      "url": "https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t"
+      "duration_ms": 173842,
+      "name": "Menomale che c'\u00e8 il mare",
+      "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
     },
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "Il Tempo Cura",
-        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
         }
       ],
-      "duration_ms": 152904,
-      "name": "Il Tempo Cura",
-      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+      "duration_ms": 147053,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -115,18 +119,34 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "melodrama",
-        "url": "https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd"
+        "name": "Il Tempo Cura",
+        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
       },
       "artists": [
         {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 147053,
-      "name": "melodrama",
-      "url": "https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C"
+      "duration_ms": 152904,
+      "name": "Il Tempo Cura",
+      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "SEXY MAGICA",
+        "url": "https://open.spotify.com/album/30Z0j6LCXcVKPtKtMb44RM"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "SEXY MAGICA",
+      "url": "https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -155,70 +175,6 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "Non so chi ha creato il mondo ma so che era innamorato",
-        "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 160268,
-      "name": "Vabb\u00e8 ciao",
-      "url": "https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "Torcida",
-        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Torcida",
-      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "Musica Animale",
-        "url": "https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 182081,
-      "name": "Musica Animale",
-      "url": "https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "44.SUMMER",
-        "url": "https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76"
-      },
-      "artists": [
-        {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
-        }
-      ],
-      "duration_ms": 167338,
-      "name": "ESTATE 80",
-      "url": "https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
         "name": "Mille Notti",
         "url": "https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd"
       },
@@ -239,42 +195,50 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "Gira, il mondo gira",
-        "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
+        "name": "Torcida",
+        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         }
       ],
-      "duration_ms": 173842,
-      "name": "Menomale che c'\u00e8 il mare",
-      "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
+      "duration_ms": 174628,
+      "name": "Torcida",
+      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
     },
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "IO X LEI",
-        "url": "https://open.spotify.com/album/1wFNbu08aXhGpJsJ8d845K"
+        "name": "Non so chi ha creato il mondo ma so che era innamorato",
+        "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
       },
       "artists": [
         {
-          "name": "MATILDE",
-          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
-        },
-        {
-          "name": "Germo67",
-          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
         }
       ],
-      "duration_ms": 134880,
-      "name": "IO X LEI",
-      "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
+      "duration_ms": 160268,
+      "name": "Vabb\u00e8 ciao",
+      "url": "https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "44.SUMMER",
+        "url": "https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 167338,
+      "name": "ESTATE 80",
+      "url": "https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -315,6 +279,22 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
+        "name": "Musica Animale",
+        "url": "https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 182081,
+      "name": "Musica Animale",
+      "url": "https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
         "name": "QUE PASA",
         "url": "https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio"
       },
@@ -327,6 +307,22 @@
       "duration_ms": 164733,
       "name": "QUE PASA",
       "url": "https://open.spotify.com/track/4IgE2EClVv3KJex9IXVraO"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "NERO MASCARA",
+        "url": "https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "NERO MASCARA",
+      "url": "https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -399,18 +395,138 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "NERO MASCARA",
-        "url": "https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0"
+        "name": "TEMPO (all the things she said)",
+        "url": "https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI"
       },
       "artists": [
         {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
         }
       ],
-      "duration_ms": 209128,
-      "name": "NERO MASCARA",
-      "url": "https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl"
+      "duration_ms": 169287,
+      "name": "TEMPO (all the things she said)",
+      "url": "https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "SARAH",
+        "url": "https://open.spotify.com/album/7a0r7dvhbalkCDZEo7lAvC"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "L'Ultima Volta",
+      "url": "https://open.spotify.com/track/1IiMRrtu025C19KonR7TJK"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "Non Siamo Broke",
+        "url": "https://open.spotify.com/album/2y5DKYtunEFjdN1JV9PypW"
+      },
+      "artists": [
+        {
+          "name": "Shori",
+          "url": "https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Non Siamo Broke",
+      "url": "https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "pok\u00e9 melodrama",
+        "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "diamoci una tregua (feat. Bresh)",
+      "url": "https://open.spotify.com/track/2QkbQPAVPxkek0BZYVW4LH"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "SLOWMO",
+        "url": "https://open.spotify.com/album/2epcYFPYHrcOcYZuiKMFSN"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        },
+        {
+          "name": "Cripo",
+          "url": "https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "SLOWMO",
+      "url": "https://open.spotify.com/track/529bB6UwVaHjMJpQNFljdp"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "Mi ami solo d\u2019estate",
+        "url": "https://open.spotify.com/album/1MJSYQ2ZUHDt5Pz7SbOoQC"
+      },
+      "artists": [
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
+        }
+      ],
+      "duration_ms": 158434,
+      "name": "Mi ami solo d\u2019estate",
+      "url": "https://open.spotify.com/track/6jlf3VpgGLuAGzoUtHFuso"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "LA VITA NON UCCIDE",
+        "url": "https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "LA VITA NON UCCIDE",
+      "url": "https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "ODISSEA",
+        "url": "https://open.spotify.com/album/1uqFZjEIJ0EJHZpENyAQgG"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "ODISSEA",
+      "url": "https://open.spotify.com/track/3Qqya54XiHvfRFcOz2LXVc"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -431,18 +547,22 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "MUSICA CUBANA",
-        "url": "https://open.spotify.com/album/408LOLgn21BkpGEvHu4HzJ"
+        "name": "IO X LEI",
+        "url": "https://open.spotify.com/album/1wFNbu08aXhGpJsJ8d845K"
       },
       "artists": [
         {
-          "name": "Federica_",
-          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
+          "name": "MATILDE",
+          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
+        },
+        {
+          "name": "Germo67",
+          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
         }
       ],
-      "duration_ms": 157800,
-      "name": "MUSICA CUBANA",
-      "url": "https://open.spotify.com/track/0eE6mgYwcz6IsAK7Az131Z"
+      "duration_ms": 134880,
+      "name": "IO X LEI",
+      "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -475,22 +595,6 @@
       "duration_ms": 175135,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "TEMPO (all the things she said)",
-        "url": "https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI"
-      },
-      "artists": [
-        {
-          "name": "Mara Sattei",
-          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
-        }
-      ],
-      "duration_ms": 169287,
-      "name": "TEMPO (all the things she said)",
-      "url": "https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -547,6 +651,22 @@
       "duration_ms": 191423,
       "name": "PERDONIAMOCI LO STESSO",
       "url": "https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF"
+    },
+    {
+      "added_at": "2024-08-27 08:49:53",
+      "album": {
+        "name": "MUSICA CUBANA",
+        "url": "https://open.spotify.com/album/408LOLgn21BkpGEvHu4HzJ"
+      },
+      "artists": [
+        {
+          "name": "Federica_",
+          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "MUSICA CUBANA",
+      "url": "https://open.spotify.com/track/0eE6mgYwcz6IsAK7Az131Z"
     },
     {
       "added_at": "2024-08-27 08:49:53",
@@ -799,22 +919,6 @@
     {
       "added_at": "2024-08-27 08:49:53",
       "album": {
-        "name": "ODISSEA",
-        "url": "https://open.spotify.com/album/1uqFZjEIJ0EJHZpENyAQgG"
-      },
-      "artists": [
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "ODISSEA",
-      "url": "https://open.spotify.com/track/3Qqya54XiHvfRFcOz2LXVc"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
         "name": "VITAMINE",
         "url": "https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9"
       },
@@ -843,110 +947,6 @@
       "duration_ms": 155560,
       "name": "zero drammi",
       "url": "https://open.spotify.com/track/1PqHtI7J2AqnxUCcLdOniv"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "SARAH",
-        "url": "https://open.spotify.com/album/7a0r7dvhbalkCDZEo7lAvC"
-      },
-      "artists": [
-        {
-          "name": "Sarah",
-          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "L'Ultima Volta",
-      "url": "https://open.spotify.com/track/1IiMRrtu025C19KonR7TJK"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "Non Siamo Broke",
-        "url": "https://open.spotify.com/album/2y5DKYtunEFjdN1JV9PypW"
-      },
-      "artists": [
-        {
-          "name": "Shori",
-          "url": "https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Non Siamo Broke",
-      "url": "https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "pok\u00e9 melodrama",
-        "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        },
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "diamoci una tregua (feat. Bresh)",
-      "url": "https://open.spotify.com/track/2QkbQPAVPxkek0BZYVW4LH"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "SLOWMO",
-        "url": "https://open.spotify.com/album/2epcYFPYHrcOcYZuiKMFSN"
-      },
-      "artists": [
-        {
-          "name": "Jacopo Sol",
-          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
-        },
-        {
-          "name": "Cripo",
-          "url": "https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "SLOWMO",
-      "url": "https://open.spotify.com/track/529bB6UwVaHjMJpQNFljdp"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "Mi ami solo d\u2019estate",
-        "url": "https://open.spotify.com/album/1MJSYQ2ZUHDt5Pz7SbOoQC"
-      },
-      "artists": [
-        {
-          "name": "NIVEO",
-          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
-        }
-      ],
-      "duration_ms": 158434,
-      "name": "Mi ami solo d\u2019estate",
-      "url": "https://open.spotify.com/track/6jlf3VpgGLuAGzoUtHFuso"
-    },
-    {
-      "added_at": "2024-08-27 08:49:53",
-      "album": {
-        "name": "LA VITA NON UCCIDE",
-        "url": "https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg"
-      },
-      "artists": [
-        {
-          "name": "Lil Jolie",
-          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "LA VITA NON UCCIDE",
-      "url": "https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC"
     }
   ],
   "unique_name": "GENERAZIONE Z",

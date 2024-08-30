@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De la CALLE a la CIMA con la Pantera Negra \ud83d\udc3e y la Doble P \ud83c\uddf2\ud83c\uddfd\n",
+  "description": "De la CALLE a la CIMA con Myke Towers.",
   "name": "MANSI\u00d3N REGGAET\u00d3N",
   "tracks": [
     {
@@ -650,6 +650,28 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "AUNQUE LLEGUE OTRO (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/4KGfuJfd0pDwyJz2tOPkGg"
     },
     {
       "album": {
@@ -2258,6 +2280,24 @@
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "DIABLITA (feat. YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/1cUQCjn7fGme2wZQrWKvhw"
     },
     {
       "album": {
@@ -7894,7 +7934,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 146000,
       "name": "Rapido (with Cris Mj)",
       "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
@@ -8790,7 +8830,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 188826,
       "name": "Solos (feat. Plan B)",
       "url": "https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv"

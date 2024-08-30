@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Stand Atlantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,788 likes - 78 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,765 likes - 78 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=ZJvb0rUMRDW0opM01RtMAg>Joyous Celebration</a>
 
-304 songs - 1 day 7 hr 33 min
+306 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Simbona Ngothando Lwakhe \- Medley 5](https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Simbona Ngothando Lwakhe \(Medley 5\)](https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji) | 5:42 | 2024-01-05 |  |
 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 | 2022-09-22 |  |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-16 | 2023-07-07 |
+| [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/track/4MJWtu8wNvCDZMcuyrDlpM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X) | 5:37 | 2024-08-30 |  |
 | [Song of Breakthrough \- Live](https://open.spotify.com/track/6SrbZuCMDscTp9aVwfNewN) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Word + Prayer + Worship, Vol\. 1](https://open.spotify.com/album/4O7nAl5WLCFh0eVm4DjgKr) | 10:50 | 2024-03-29 | 2024-04-05 |
 | [Surely Goodness](https://open.spotify.com/track/6EuTx7OqOebUZcEGZfE1d7) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Surely Goodness](https://open.spotify.com/album/2YThyI33V5DNVVYLOSQQqA) | 7:28 | 2022-04-14 | 2023-06-16 |
 | [Take Heart](https://open.spotify.com/track/3YANTnjzNjI2OHeVEDgiAf) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Take Heart](https://open.spotify.com/album/067GsZIoIEInbT7pI4j51P) | 3:37 | 2023-03-17 | 2023-06-09 |
@@ -243,6 +244,7 @@
 | [Ukuhlala Kuye](https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI) | [Kea Studios](https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU) | [Ukuhlala Kuye](https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE) | 4:01 | 2023-07-21 | 2023-09-15 |
 | [Ukuhlala Kuye \- Live](https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Calvary](https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO) | 5:09 | 2024-02-23 |  |
 | [Ukunxanela Komoya Wakho](https://open.spotify.com/track/0WeTsHx1DqIdPF51XGbAGa) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ukunxanela Komoya Wakho](https://open.spotify.com/album/566j14AsYwCWJW4GrjUVWi) | 3:50 | 2023-06-09 | 2023-09-15 |
+| [Ukwenzile \(Live\)](https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Ukwenzile \(Live\)](https://open.spotify.com/album/727KqRu1ClKY5blwbrMyFh) | 8:48 | 2024-08-30 |  |
 | [Uloyiko Lwami](https://open.spotify.com/track/0qH2ik4f9kEHSrDzKi6mUP) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz) | [Uloyiko Lwami](https://open.spotify.com/album/68mLFu1sQsSqLvrMOU2B4g) | 8:06 | 2024-04-26 | 2024-06-07 |
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2019-08-19 |  |
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2023-06-09 |  |

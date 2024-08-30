@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica da gridare 🗣️🖤 Cover: Zame, Mr.Ugo, Dari
+> musica da gridare 🗣️ Cover: centomilacarie 🖤👀
 
-1,047 songs - 2 day 0 hr 2 min
+1,052 songs - 2 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Basta](https://open.spotify.com/track/2A76lNgorxfhOnG0yLSOvu) | [Holy](https://open.spotify.com/artist/7rKhniAoTGdu1IFQFxEajZ) | [Basta](https://open.spotify.com/album/5kJUJ5naCgnRONx5ROtZkz) | 2:44 | 2022-05-26 | 2022-09-09 |
 | [Battle Scars](https://open.spotify.com/track/4l42ScC0z19ygzbpS4JzGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Battle Scars](https://open.spotify.com/album/0SnmtDqaj4eNcdraEEnJ9W) | 2:51 | 2022-08-18 | 2022-09-10 |
 | [BEIBE](https://open.spotify.com/track/6WRFAQug16ogOiOdEHINzO) | [Jellish](https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU), [FREESO](https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI) | [BEIBE](https://open.spotify.com/album/7a8hMNzBA2JF2KS3dQbu4H) | 2:39 | 2022-10-27 | 2022-11-25 |
+| [BELLA & CATTIVA](https://open.spotify.com/track/5g9sFq0V8okjekur83pFXr) | [SIDES](https://open.spotify.com/artist/5QTVatRbYiBodxRP4mTAWi), [Jemel](https://open.spotify.com/artist/52xT2TuMy5NKiKE5abawy4) | [BELLA & CATTIVA](https://open.spotify.com/album/1bCak2sAtT661NSOGZOmnN) | 2:28 | 2024-08-29 |  |
 | [BELLA E CATTIVA](https://open.spotify.com/track/0kcbXArgh2BA7jnl36m1Ra) | [LACRAY](https://open.spotify.com/artist/4xpU5TueW8UPyRCpwnXwbo), [demoncandy](https://open.spotify.com/artist/68SYpEb4cmSAjA4k3B8npz) | [BELLA E CATTIVA](https://open.spotify.com/album/2ZQk4UNmyL5ALrc8YcRMW7) | 2:29 | 2022-05-06 | 2022-05-27 |
 | [bellacomestai](https://open.spotify.com/track/6WdvLYIe0va2XQMKvdMe3U) | [Tear&Drugz](https://open.spotify.com/artist/1cuy7cysWDn6m3kaqazyjT) | [bellacomestai](https://open.spotify.com/album/0ow6qiSSTo9LKbtoRHfWOM) | 1:58 | 2022-12-08 | 2023-03-25 |
 | [BENE DA SOLA](https://open.spotify.com/track/1awWd0CV6H0cm5NnZ0FAI0) | [KONTI flowerchild](https://open.spotify.com/artist/1u1p8FFRExYGLeiu0JTnwh), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [BENE DA SOLA](https://open.spotify.com/album/4Fo2F1PyIvtB0E03gu0uAX) | 2:33 | 2022-11-10 | 2023-03-25 |
@@ -511,6 +512,7 @@
 | [La Cosa Giusta](https://open.spotify.com/track/01GbUvDBaDm6BAuaDA51Qz) | [YOUNG KALI](https://open.spotify.com/artist/32Mvw7JUOnNmQnogPgFtBj), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [La Cosa Giusta](https://open.spotify.com/album/68btQeJoJgzLAuSRivyz2M) | 2:57 | 2023-10-12 | 2023-11-17 |
 | [LA FIERA DEL CRINGE \(feat\. LA SAD\)](https://open.spotify.com/track/6Y2E7MBDwQUkPTlE7q4u6s) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:44 | 2024-05-09 | 2024-08-23 |
 | [La fine di un film](https://open.spotify.com/track/5hjp2BL6JVraQxDF4JR76p) | [Fløp](https://open.spotify.com/artist/5uZYeE6PTZA34eEK445waM) | [La fine di un film](https://open.spotify.com/album/0U5oeN6JsekXVWOLNKdyN4) | 2:54 | 2024-03-07 | 2024-03-22 |
+| [La mia ragazza è una bambola mezza morta](https://open.spotify.com/track/2vmuyZbr2MsBLHRz2XqSLs) | [BATTISTA](https://open.spotify.com/artist/1Z45pqD8yLSlSa3hvcLEO2) | [La mia ragazza è una bambola mezza morta](https://open.spotify.com/album/2Lhn3iMde6NCLR99gjFtEk) | 2:25 | 2024-08-29 |  |
 | [La Musica È Morta \(feat\. Loomy\)](https://open.spotify.com/track/4oHCHhPPm1odadJEAZQk2Z) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [La Musica È Morta \(feat\. Loomy\)](https://open.spotify.com/album/2nzcAuivdv4cYdUCVRffeg) | 2:18 | 2024-03-21 | 2024-04-05 |
 | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN) | 2:41 | 2024-01-04 | 2024-06-21 |
 | [la ragazza più bella del ballo](https://open.spotify.com/track/4CbiKaM69YfCuPODAPuUTO) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [micixsempre](https://open.spotify.com/album/3GAMeW5zplJuy0SiSrTooJ) | 2:37 | 2024-07-18 |  |
@@ -608,6 +610,7 @@
 | [Millennial](https://open.spotify.com/track/66Tti9hLmn4VBjl2EiyhP2) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Millennial](https://open.spotify.com/album/5L3rLbYNTdEdINAXJRYXj1) | 2:45 | 2023-06-08 | 2023-06-23 |
 | [Miyazaki](https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [SHOEFITI 2](https://open.spotify.com/album/4OCF3ssNCqCPaA7MyhZ0qu) | 3:02 | 2023-03-09 | 2023-04-14 |
 | [MK ULTRA](https://open.spotify.com/track/30e9jkqHO5hyoctpZeJom3) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [MK ULTRA](https://open.spotify.com/album/6QeQUmYtzMAIswiSdGUrV9) | 2:18 | 2023-10-19 | 2023-12-22 |
+| [MON AMOUR](https://open.spotify.com/track/7jwxC1TNotRa6URQk7COjN) | [FLUOSEXXX](https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u) | [FLUOSEXXX](https://open.spotify.com/album/4XbWGPeYmMNQOxgrauLhEb) | 2:25 | 2024-08-29 |  |
 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 | 2023-03-30 | 2023-05-26 |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-06 |  |
 | [monocromo](https://open.spotify.com/track/5YZfmc8O3lxWq6EqrONHHv) | [NXXSE](https://open.spotify.com/artist/7uO8L2XSELB1DBwiZjdBab) | [monocromo](https://open.spotify.com/album/73kJACGPaBorRo5F6oDEBu) | 2:19 | 2023-07-06 | 2023-08-04 |
@@ -764,6 +767,7 @@
 | [Punk 2003](https://open.spotify.com/track/7c68uZTnjSJx2LR932Xqsy) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Punk 2003](https://open.spotify.com/album/7h0WkJJTuQrERrl3zT1vMm) | 2:31 | 2024-07-11 |  |
 | [PUNKINA](https://open.spotify.com/track/1NgoHD5YN8rQ4AyPQ42FrC) | [HERESIA](https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf), [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [PUNKINA](https://open.spotify.com/album/7HMsTIP4wBzFa8GUy5OdYQ) | 3:09 | 2024-05-02 | 2024-07-12 |
 | [Puoi fare meglio](https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Puoi fare meglio](https://open.spotify.com/album/1j2XwuZzOBU5fXZjsnxcW3) | 2:57 | 2023-05-11 | 2023-12-15 |
+| [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 | 2024-08-29 |  |
 | [QUALCOSA](https://open.spotify.com/track/4q7CLDddqg6EuIMJ08c10d) | [SlumpthinIdle](https://open.spotify.com/artist/334vU7FVVjO5qblDXvcnfq), [KARASHΦ](https://open.spotify.com/artist/7aOvmNW1l4DQkk24hADBoi) | [SOPHIA](https://open.spotify.com/album/43wzg3Ss5A6Of5sMazlcL7) | 3:59 | 2024-07-18 |  |
 | [Quando casco di sotto](https://open.spotify.com/track/5B2gVpi7f6Tm7SXGnnjM3d) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [Sconforto](https://open.spotify.com/artist/39fZxJQG1MRejpGHq7r77Z) | [Quando casco di sotto](https://open.spotify.com/album/1dkuRF91vqzS9chbMjiUmU) | 3:10 | 2022-12-15 | 2023-01-06 |
 | [Quando non 6 con me](https://open.spotify.com/track/3p64u1dRDQPuRoWZQQlozC) | [Amsi](https://open.spotify.com/artist/1YTas8G2Maqo3Md0AcBgc7), [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Quando non 6 con me](https://open.spotify.com/album/4nlco0dP62n2pxukmW66rr) | 2:49 | 2022-08-11 | 2022-08-26 |
@@ -826,6 +830,7 @@
 | [se ne va](https://open.spotify.com/track/3zWXAQuZ2cgRb2p0xqAORS) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767) | 2:43 | 2024-03-29 |  |
 | [SE PIANGI TROPPO](https://open.spotify.com/track/0uWnenWV9nTaMxqTs8vDbw) | [3FECTA](https://open.spotify.com/artist/39hxE9XVuYREbhZuwoo4l4) | [SE PIANGI TROPPO](https://open.spotify.com/album/1SWbWNLMs8v0sJ0qrRQcif) | 2:53 | 2023-02-23 | 2023-04-14 |
 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 | 2023-09-28 | 2023-11-17 |
+| [Sei Fidanzata ?](https://open.spotify.com/track/5XeRpId3TEyhNICs6QVWxL) | [Sad Twins](https://open.spotify.com/artist/7IB0pjMcXuxaYe1QNSlO6P) | [Sei Fidanzata ?](https://open.spotify.com/album/03LPXcG9tktoTMbZ8dspE0) | 2:42 | 2024-08-29 |  |
 | [SEI UNA BAMBINA](https://open.spotify.com/track/6uatLMSzOTAV1FgI0xwvsf) | [NOCTA](https://open.spotify.com/artist/3bEJuQhX9UWutAXeOhojFE) | [SEI UNA BAMBINA](https://open.spotify.com/album/6jbws4e3lWW3yTolMwMrjG) | 2:38 | 2022-05-06 | 2022-05-13 |
 | [seiore](https://open.spotify.com/track/2OWZDqOr4NgKGAMItCUAt0) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [seiore](https://open.spotify.com/album/2tdMua2EqZN9Vf8889UNiX) | 2:35 | 2022-06-23 | 2022-07-14 |
 | [Sempre più buia](https://open.spotify.com/track/7oaIdLf33upBcb3GbvOJI0) | [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [Sempre più buia](https://open.spotify.com/album/3stovOuaEcI1LGuDibKyzP) | 2:37 | 2024-04-04 | 2024-07-12 |

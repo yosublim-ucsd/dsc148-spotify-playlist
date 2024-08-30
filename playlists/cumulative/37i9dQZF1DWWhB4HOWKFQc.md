@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Ella Langley, Riley Green
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Jordan Susanto
 
 704 songs - 1 day 18 hr 21 min
 

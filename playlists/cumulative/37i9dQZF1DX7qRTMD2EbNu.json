@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Kofi Mole",
+  "description": "Hottest bars coming live from the 233.  Cover: AratheJay",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 202501,
       "name": "Akokoa",
       "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 240001,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/3H85mB1a9OFV7DyVdbMklg"
@@ -1082,6 +1082,32 @@
       "duration_ms": 195957,
       "name": "Aso)den",
       "url": "https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky"
+    },
+    {
+      "album": {
+        "name": "ASOR",
+        "url": "https://open.spotify.com/album/1UabuKaGS9tZqFSlAZTTsF"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        },
+        {
+          "name": "Trig Triga",
+          "url": "https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203736,
+      "name": "ASOR",
+      "url": "https://open.spotify.com/track/50ZxuYLK3Ksexm6GoyqRom"
     },
     {
       "album": {
@@ -2780,7 +2806,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152500,
       "name": "DAT MODE.",
       "url": "https://open.spotify.com/track/5z2Hk6NV60WEEJ6euKbPeD"
@@ -3932,6 +3958,24 @@
       "duration_ms": 208144,
       "name": "Fire - Remix",
       "url": "https://open.spotify.com/track/27413RLXJwf8qnCuJynC66"
+    },
+    {
+      "album": {
+        "name": "Von O'clock",
+        "url": "https://open.spotify.com/album/1nrHtu2oirpP4R7InMzkkM"
+      },
+      "artists": [
+        {
+          "name": "VONDEE",
+          "url": "https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Fire On The Mountain (FOTM)",
+      "url": "https://open.spotify.com/track/6euaDOrmLdSMkMACb8aP3J"
     },
     {
       "album": {
@@ -5168,7 +5212,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 137372,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4"
@@ -5597,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "Jesus Christ 2",
+        "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217399,
+      "name": "Jesus Christ 2",
+      "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3MdaY6xLTAYBIlpfh61SM9"
       },
@@ -5883,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Killa Ji Mi",
+        "url": "https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163376,
+      "name": "Killa Ji Mi",
+      "url": "https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf"
+    },
+    {
+      "album": {
         "name": "Killer Man",
         "url": "https://open.spotify.com/album/6W8BAAC9TpUNT2zMJmm3ji"
       },
@@ -6086,6 +6170,36 @@
       "duration_ms": 206197,
       "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
       "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
+    },
+    {
+      "album": {
+        "name": "Kwabena Sarfo",
+        "url": "https://open.spotify.com/album/41OZRiQDcJNJOVQMAYKcXw"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        },
+        {
+          "name": "Dikoo",
+          "url": "https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw"
+        },
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        },
+        {
+          "name": "Trig Triga",
+          "url": "https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211281,
+      "name": "Kwabena Sarfo",
+      "url": "https://open.spotify.com/track/2c96uwE2sQqEQkcTPNIh7S"
     },
     {
       "album": {
@@ -6306,6 +6420,24 @@
       "duration_ms": 163224,
       "name": "Landlord",
       "url": "https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b"
+    },
+    {
+      "album": {
+        "name": "Invasion",
+        "url": "https://open.spotify.com/album/7hNngQE4m9WiGy9OIv7806"
+      },
+      "artists": [
+        {
+          "name": "Kojo Trap",
+          "url": "https://open.spotify.com/artist/3LKI86pr57MINaTNab74qI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Lane Switch",
+      "url": "https://open.spotify.com/track/0tHze05YnqthLu0XTmP3Hc"
     },
     {
       "album": {
@@ -7208,7 +7340,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172043,
       "name": "Money",
       "url": "https://open.spotify.com/track/08SYFOyvN14x8ETrKoZjTr"
@@ -7760,7 +7892,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204766,
       "name": "No Shiver",
       "url": "https://open.spotify.com/track/4jZ2dPpgMBEgcEJENkVKqE"
@@ -8458,6 +8590,28 @@
       "duration_ms": 200733,
       "name": "Oliver Khan",
       "url": "https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD"
+    },
+    {
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/4G7ZD0J3rDL6MH6PIzYJHq"
+      },
+      "artists": [
+        {
+          "name": "Eddie Khae",
+          "url": "https://open.spotify.com/artist/2pGCVrouJpjRXXfph7O2Lf"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183923,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/6fOO1B6FqtPa0HON1uQTyC"
     },
     {
       "album": {
@@ -9192,7 +9346,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154157,
       "name": "Problem",
       "url": "https://open.spotify.com/track/1ap13V0TDN8mn99eaaWEcd"

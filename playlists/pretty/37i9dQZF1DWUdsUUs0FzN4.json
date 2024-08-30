@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 19001,
+  "num_followers": 19002,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Y Yo Me Le Pego",
         "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 172806,
       "name": "Y Yo Me Le Pego",
       "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "A POKA LUZ",
-        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "A POKA LUZ",
-      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Piripituchy",
+        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Piripituchy",
+      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Hora de Salir",
         "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Piripituchy",
-        "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Piripituchy",
-      "url": "https://open.spotify.com/track/4aoqczwnJXT5g8PI4Nq7oF"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -995,26 +995,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "333 (Remix)",
-        "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
+        "name": "Gato \u00d1ero",
+        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
       },
       "artists": [
         {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         }
       ],
-      "duration_ms": 155930,
-      "name": "333 - Remix",
-      "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
+      "duration_ms": 175090,
+      "name": "Gato \u00d1ero",
+      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1039,22 +1035,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Gato \u00d1ero",
-        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+        "name": "333 (Remix)",
+        "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 175090,
-      "name": "Gato \u00d1ero",
-      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
+      "duration_ms": 155930,
+      "name": "333 - Remix",
+      "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1547,26 +1547,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "B de Bellako",
-        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+        "name": "Vergazo",
+        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
         },
         {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 188573,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+      "duration_ms": 178800,
+      "name": "Vergazo",
+      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1591,50 +1587,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Barby Bellaka",
-        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Barby Bellaka",
-      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Vergazo",
-        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Vergazo",
-      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Que Le Den",
         "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
       },
@@ -1655,6 +1607,54 @@
       "duration_ms": 193469,
       "name": "Que Le Den",
       "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Barby Bellaka",
+        "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Barby Bellaka",
+      "url": "https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Bellakita",
-        "url": "https://open.spotify.com/album/0oV153ZO9LCnIVzXNOh7CF"
-      },
-      "artists": [
-        {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
-        },
-        {
-          "name": "Ovi\u00f1a",
-          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
-        }
-      ],
-      "duration_ms": 175737,
-      "name": "Bellakita",
-      "url": "https://open.spotify.com/track/1W4KsFR7GDrLztA25T3eKT"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "L-GANTE | Mission 19",
         "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 170568,
       "name": "L-GANTE | Mission 19",
       "url": "https://open.spotify.com/track/0DI87pDl42R0tPsCrR1rYd"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/0oV153ZO9LCnIVzXNOh7CF"
+      },
+      "artists": [
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "duration_ms": 175737,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/1W4KsFR7GDrLztA25T3eKT"
     },
     {
       "added_at": "2024-07-26 06:00:00",

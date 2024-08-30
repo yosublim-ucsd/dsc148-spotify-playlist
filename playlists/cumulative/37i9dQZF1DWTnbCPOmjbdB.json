@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Smolasty, Sylwia Grzeszczak",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: EMO",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 173422,
       "name": "BFF",
       "url": "https://open.spotify.com/track/6gPRrFNHqDuCfbY14ib1dU"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 231160,
       "name": "BO\u017bE",
       "url": "https://open.spotify.com/track/4ybFdtL0pGWiWA0Wk46de5"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 180000,
       "name": "Chc\u0119 tu zosta\u0107",
       "url": "https://open.spotify.com/track/1rNAoVfBPV1wAeYZzCJfVm"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 142500,
       "name": "Daj \u017cy\u0107",
       "url": "https://open.spotify.com/track/0ulgIgptCrAx67A0tQppuW"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 163706,
       "name": "Fejk",
       "url": "https://open.spotify.com/track/6kOltQg127HZyszhQTAC9q"
@@ -1251,6 +1251,46 @@
     },
     {
       "album": {
+        "name": "Lek",
+        "url": "https://open.spotify.com/album/4VcfEJ9xTRDlb8Zf8o5HnD"
+      },
+      "artists": [
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154457,
+      "name": "Lek",
+      "url": "https://open.spotify.com/track/65RM2VsMuzgyUKLFNrzIaR"
+    },
+    {
+      "album": {
+        "name": "list do niej",
+        "url": "https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "list do niej",
+      "url": "https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL"
+    },
+    {
+      "album": {
         "name": "MAZZY STAR",
         "url": "https://open.spotify.com/album/3EXUZm3KoRRZBccd8kyuno"
       },
@@ -1287,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Mia\u0142 si\u0119 sko\u0144czy\u0107 \u015bwiat",
+        "url": "https://open.spotify.com/album/2WmsxnoReh20DQZfAB4uek"
+      },
+      "artists": [
+        {
+          "name": "EMO",
+          "url": "https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Mia\u0142 si\u0119 sko\u0144czy\u0107 \u015bwiat",
+      "url": "https://open.spotify.com/track/7mwYU7V6ALgmqBz7So9vKM"
+    },
+    {
+      "album": {
         "name": "milczysz",
         "url": "https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI"
       },
@@ -1298,10 +1356,28 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 137355,
       "name": "milczysz",
       "url": "https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1"
+    },
+    {
+      "album": {
+        "name": "o nim",
+        "url": "https://open.spotify.com/album/2O4KiVd5BApZSLcYvdYD08"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195001,
+      "name": "milcz\u0119",
+      "url": "https://open.spotify.com/track/4nCNsCZt14oI1GodbRKcRo"
     },
     {
       "album": {
@@ -1328,7 +1404,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
@@ -1436,7 +1512,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 124422,
       "name": "na nowo",
       "url": "https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM"
@@ -1879,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Pierwszy",
+        "url": "https://open.spotify.com/album/5HP3AjXihFNWmUZ9EeX9bg"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/49QDlDz0fV8TSrpSYs2nz2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Pierwszy",
+      "url": "https://open.spotify.com/track/4FkHnWNvDemKUWQzFx2rUB"
+    },
+    {
+      "album": {
         "name": "Wachlarz Wad EP",
         "url": "https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe"
       },
@@ -1988,6 +2082,28 @@
       "duration_ms": 144472,
       "name": "Prawie straci\u0142em g\u0142os",
       "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
+    },
+    {
+      "album": {
+        "name": "MINT",
+        "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164788,
+      "name": "Przy Tobie to...",
+      "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
     },
     {
       "album": {
@@ -2383,6 +2499,42 @@
     },
     {
       "album": {
+        "name": "To nie powt\u00f3rzy si\u0119",
+        "url": "https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf"
+      },
+      "artists": [
+        {
+          "name": "The Dumplings",
+          "url": "https://open.spotify.com/artist/1nEmAvnOKMBYCziZQNb5B4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "To nie powt\u00f3rzy si\u0119",
+      "url": "https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik"
+    },
+    {
+      "album": {
+        "name": "Twoja mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH"
+      },
+      "artists": [
+        {
+          "name": "Rubens",
+          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221860,
+      "name": "Twoja mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd"
+    },
+    {
+      "album": {
         "name": "Tyle mog\u0142em Ci da\u0107",
         "url": "https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR"
       },
@@ -2452,7 +2604,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 206484,
       "name": "Upa\u0142",
       "url": "https://open.spotify.com/track/6huJDMbSA3WpkzFLkE8sZm"
@@ -2474,10 +2626,32 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 178409,
       "name": "Va Banque",
       "url": "https://open.spotify.com/track/6Y9ji63BDB0OxG5K06xyNL"
+    },
+    {
+      "album": {
+        "name": "VIBE",
+        "url": "https://open.spotify.com/album/7oMDu4vRQOfWhru1Xrsk1P"
+      },
+      "artists": [
+        {
+          "name": "Olivka Majewska",
+          "url": "https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn"
+        },
+        {
+          "name": "Jakub Laszuk",
+          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "VIBE",
+      "url": "https://open.spotify.com/track/2t613OFX9O1VTcCJmFjMUN"
     },
     {
       "album": {
@@ -2654,6 +2828,24 @@
       "duration_ms": 171235,
       "name": "zabierz mnie nad morze",
       "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
+    },
+    {
+      "album": {
+        "name": "Zadzwo\u0144 do mnie",
+        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136595,
+      "name": "Zadzwo\u0144 do mnie",
+      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
     },
     {
       "album": {

@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 122181,
       "name": "Caramelldansen",
       "url": "https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH"
@@ -6090,7 +6090,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 158507,
       "name": "Farv\u00e4l",
       "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
@@ -8423,6 +8423,28 @@
     },
     {
       "album": {
+        "name": "Gnagaredalen (J.O.X Remix)",
+        "url": "https://open.spotify.com/album/6H9C7wXmC3hPz3UNaV0x74"
+      },
+      "artists": [
+        {
+          "name": "Tim Liljegren",
+          "url": "https://open.spotify.com/artist/0SKbilK5Qd2QgZWCI7qzVF"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150721,
+      "name": "Gnagaredalen (J.O.X Remix)",
+      "url": "https://open.spotify.com/track/5fW313jb2p9u3GMjzJpCSv"
+    },
+    {
+      "album": {
         "name": "God Jul",
         "url": "https://open.spotify.com/album/1vNWT0XCXNKatDfCPBItXw"
       },
@@ -9914,7 +9936,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 139116,
       "name": "Hon vill ha mig",
       "url": "https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD"
@@ -10834,7 +10856,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 130104,
       "name": "IN MED EN PRILLA",
       "url": "https://open.spotify.com/track/4HgBgnmaUUKxMoQIxrslHZ"
@@ -13085,6 +13107,32 @@
     },
     {
       "album": {
+        "name": "LIGGA HELA TIDEN",
+        "url": "https://open.spotify.com/album/2bJl3MmDfenDs3C61mV1S4"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Banditerna",
+          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142275,
+      "name": "LIGGA HELA TIDEN",
+      "url": "https://open.spotify.com/track/4yhz54d8lpL46KmrqS06oN"
+    },
+    {
+      "album": {
         "name": "Ligga med dig",
         "url": "https://open.spotify.com/album/2zDrJN6aJ13UIz99lrX3jg"
       },
@@ -14500,6 +14548,24 @@
       "duration_ms": 219000,
       "name": "My Feelings",
       "url": "https://open.spotify.com/track/7DIXoZRRwog4KbDTIN7fgN"
+    },
+    {
+      "album": {
+        "name": "Myggen tonight",
+        "url": "https://open.spotify.com/album/5vG01tKIDdokA5E41uhZPg"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "Myggen tonight",
+      "url": "https://open.spotify.com/track/38fpPUeN4ezdbPqq9pDN97"
     },
     {
       "album": {
@@ -18902,7 +18968,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 123176,
       "name": "SKITER I DIN DALAH\u00c4ST - Greta Tuborg Remix",
       "url": "https://open.spotify.com/track/1dEkcEWOANqUbwJYPUrhRt"
@@ -19052,6 +19118,24 @@
       "duration_ms": 134400,
       "name": "SKUFFEN",
       "url": "https://open.spotify.com/track/4Yh6pvPmo5gGNPDGVwEU9D"
+    },
+    {
+      "album": {
+        "name": "SK\u00c5L",
+        "url": "https://open.spotify.com/album/5QXRsdIYdWEscrz6wfkqF8"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "SK\u00c5L",
+      "url": "https://open.spotify.com/track/3yDORR5PhoKA4qiCQgj2pG"
     },
     {
       "album": {
@@ -22504,7 +22588,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203100,
       "name": "TRUCKER MOTHERFUCKER",
       "url": "https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE"
@@ -23120,6 +23204,32 @@
       "duration_ms": 158225,
       "name": "Vad h\u00e4nde ig\u00e5r?",
       "url": "https://open.spotify.com/track/7gtYaxoIaxJDNfops51TUo"
+    },
+    {
+      "album": {
+        "name": "VAKNAR",
+        "url": "https://open.spotify.com/album/0tmuWBdzlmOHvP5yAZ2WBE"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "VAKNAR",
+      "url": "https://open.spotify.com/track/3tCg3h03qAlnVBPysDuMW4"
     },
     {
       "album": {

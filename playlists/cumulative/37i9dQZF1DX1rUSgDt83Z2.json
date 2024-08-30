@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166564,
       "name": "Considering Myself",
       "url": "https://open.spotify.com/track/5NXMXPvpWKSPIyiFB5sAnK"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Geef Me Over",
+        "url": "https://open.spotify.com/album/0Qi68mTfZhoCeAyztugCD2"
+      },
+      "artists": [
+        {
+          "name": "Birgit Schuurman",
+          "url": "https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206846,
+      "name": "Geef Me Over",
+      "url": "https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f"
+    },
+    {
+      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/3tObTrR6FqKbPYJUHRKcbg"
       },
@@ -258,10 +276,32 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 200750,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/1xC7pXx7gNWuDT1cS72ndv"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        },
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
     },
     {
       "album": {
@@ -280,6 +320,24 @@
       "duration_ms": 169787,
       "name": "Hedonism",
       "url": "https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn"
+    },
+    {
+      "album": {
+        "name": "Geen Water Bij De Wijn",
+        "url": "https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213813,
+      "name": "Hier bij mij",
+      "url": "https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw"
     },
     {
       "album": {
@@ -352,10 +410,32 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 205120,
       "name": "I Will Go There",
       "url": "https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba"
+    },
+    {
+      "album": {
+        "name": "I Will Go There (feat. remme)",
+        "url": "https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        },
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "I Will Go There (feat. remme)",
+      "url": "https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM"
     },
     {
       "album": {
@@ -370,7 +450,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 199266,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
@@ -460,7 +540,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 229697,
       "name": "Louder",
       "url": "https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh"
@@ -590,6 +670,24 @@
       "duration_ms": 168395,
       "name": "Omdat Je Me Ziet",
       "url": "https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw"
+    },
+    {
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
     },
     {
       "album": {
@@ -763,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/6OGsIPlUpRU3qrujAMpoes"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202070,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/37AQpBD3OF7KqbPf8ljGCI"
+    },
+    {
+      "album": {
         "name": "Speed Of Light",
         "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
       },
@@ -853,6 +969,24 @@
     },
     {
       "album": {
+        "name": "The Ones We Seek",
+        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274955,
+      "name": "The Ones We Seek",
+      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
+    },
+    {
+      "album": {
         "name": "The Story Ain't Over Yet",
         "url": "https://open.spotify.com/album/5M65FcMQe2v0Ev5ZJltFKn"
       },
@@ -922,7 +1056,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 180571,
       "name": "Verbonden",
       "url": "https://open.spotify.com/track/6E8c8jeXEiGBosTfXuiq2H"
@@ -998,7 +1132,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 190645,
       "name": "What If I Want You Now",
       "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"

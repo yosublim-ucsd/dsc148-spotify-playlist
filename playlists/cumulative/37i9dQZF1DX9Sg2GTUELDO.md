@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover:   Sabrina Cheung 張蔓莎
+> 感受超級女聲力量。Cover:  Leah Doh \(竇靖童\)
 
-358 songs - 21 hr 34 min
+361 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Be with you](https://open.spotify.com/track/3oLmvdygvx8PCbbqUCt7Sl) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Be with you](https://open.spotify.com/album/4bC8Xd8IHkUfFkDf2jIbDQ) | 3:02 | 2024-08-08 |  |
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
+| [California Baby](https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [California Baby](https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY) | 3:28 | 2024-08-29 |  |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2024-06-27 |  |
 | [Calm Down 練功](https://open.spotify.com/track/2gUzkd6La9jsY4JKtVlzNh) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [HATCHING](https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR) | 3:26 | 2024-06-27 |  |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-06-27 |  |
@@ -37,6 +38,7 @@
 | [Crying in Bed \(feat\. 范曉萱\)](https://open.spotify.com/track/79jFaso7GwIbkTLhrd52rJ) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I) | [Crying in Bed](https://open.spotify.com/album/1aB0WWgeiKLkBzcuTwBK85) | 3:21 | 2024-06-27 |  |
 | [CYA](https://open.spotify.com/track/4V6sgL7rpAQp0tErZ7x8QU) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq), [Windy 詹天文](https://open.spotify.com/artist/1mF0zgwvohTvauSu3K8My4), [Yumi 鍾柔美](https://open.spotify.com/artist/0s9Jv5Tyi7qmUEPZcWHigA) | [CYA](https://open.spotify.com/album/687ce4Txbb7ZhgKsZGeH41) | 3:36 | 2024-07-18 |  |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 |  |
+| [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 | 2024-08-29 |  |
 | [Diff.](https://open.spotify.com/track/7tHj56Fzxz6L5I1S6ZYidK) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Diff.](https://open.spotify.com/album/0ZUtqYz3DP2fm3oFBUUUUq) | 2:18 | 2024-06-27 |  |
 | [Dizzy](https://open.spotify.com/track/7M79OcQyAjDlUp38qx7tgA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [Dizzy](https://open.spotify.com/album/6UARsSmrrQSex8qNvXYeBl) | 3:09 | 2024-06-27 |  |
 | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/album/6PA2ObDsGpLAHeKnbuFGTg) | 4:00 | 2024-06-27 |  |
@@ -122,6 +124,7 @@
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2024-06-27 |  |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 |  |
 | [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 | 2024-08-01 |  |
+| [一個人行街](https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [自游生物](https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy) | 3:17 | 2024-08-29 |  |
 | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 |  |
 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 |  |

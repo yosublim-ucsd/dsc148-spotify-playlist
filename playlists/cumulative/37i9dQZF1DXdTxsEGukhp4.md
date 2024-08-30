@@ -4,11 +4,11 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ぼっちぼろまる
 
-435 songs - 1 day 0 hr 55 min
+436 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#レーッツパーリー](https://open.spotify.com/track/3sAe6ItIImnNscdkHMMf3P) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [リルジャップ](https://open.spotify.com/artist/6iMwrsrienfQITGVUc8R5q) | [WORLD P 2](https://open.spotify.com/album/1gl1lkNglzTZ05fG7rvzAw) | 1:48 | 2024-05-01 |  |
+| [\#レーッツパーリー](https://open.spotify.com/track/3sAe6ItIImnNscdkHMMf3P) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [リルジャップ](https://open.spotify.com/artist/6iMwrsrienfQITGVUc8R5q) | [WORLD P 2](https://open.spotify.com/album/1gl1lkNglzTZ05fG7rvzAw) | 1:48 | 2024-05-01 | 2024-08-30 |
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 | 2023-07-06 |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-22 | 2024-03-22 |
 | [35°C](https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Rockdown](https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8) | 2:28 | 2023-11-16 | 2024-03-02 |
@@ -116,6 +116,7 @@
 | [Hoodstar +](https://open.spotify.com/track/1cAX2R2IHZapREX4esktMW) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Hoodstar +](https://open.spotify.com/album/5bw7lOzrONH3nG39JrSWwM) | 8:24 | 2023-01-26 | 2023-02-03 |
 | [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 | 2024-01-05 | 2024-02-02 |
 | [How Many Boogie](https://open.spotify.com/track/7ItiKu7nH1YYGBQZiwFq6M) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO) | [Something Forgotten](https://open.spotify.com/album/2DXyh7L0d6WMKueR9RF2Z8) | 2:39 | 2023-07-13 | 2024-02-09 |
+| [I am I](https://open.spotify.com/track/7q3Difw99kuKvSgu9eoYH1) | [Toua](https://open.spotify.com/artist/3eRkbO29ksmOBO8DBjO1Ke) | [I am I](https://open.spotify.com/album/2fmiCRhZF73BkExQub6Yq3) | 3:55 | 2024-08-29 |  |
 | [I Don't Wanna Dance In This Squall](https://open.spotify.com/track/4mDqiAffJp71GpC5WktLFC) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [I Don't Wanna Dance In This Squall](https://open.spotify.com/album/2sa0iSLjooxgcXj8zDho8J) | 3:36 | 2023-08-01 | 2023-09-02 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0Ts1lnK3lYa2dwE2orDJc5) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:08 | 2023-02-23 | 2023-11-11 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-05-16 |  |

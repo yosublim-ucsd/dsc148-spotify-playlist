@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Tam Sir
 
-195 songs - 11 hr 6 min
+196 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 | 2023-02-23 | 2024-07-12 |
 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 | 2024-01-05 |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
+| [La bonne place](https://open.spotify.com/track/2uWUY0oTHBvRlKij3Mv4rl) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [La bonne place](https://open.spotify.com/album/2PXGO3w6Kh9LqVZfyDZ1XI) | 3:28 | 2024-08-29 |  |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
 | [La danse du margouillat](https://open.spotify.com/track/682HQjRRQTRDAeXenihal6) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [La danse du margouillat](https://open.spotify.com/album/009GqMufyiPuZwwSzYiWA3) | 3:33 | 2023-11-30 | 2024-04-05 |
 | [La démarche](https://open.spotify.com/track/25SKpttgqUjWfw8MJDV66z) | [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [La démarche](https://open.spotify.com/album/5pmUbV0mjV7fB2mHNpjwRe) | 3:05 | 2023-11-30 | 2024-04-19 |
@@ -187,7 +188,7 @@
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-05-30 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
-| [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 |  |
+| [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 | 2024-08-30 |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [WA WA DÉ DÉ](https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [WA WA DÉ DÉ](https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e) | 2:44 | 2024-06-06 |  |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |

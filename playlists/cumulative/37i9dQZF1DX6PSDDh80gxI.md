@@ -4,7 +4,7 @@
 
 > Il meglio dell’indie italiano! Cover: Vasco Brondi, ARIETE
 
-77 songs - 3 hr 56 min
+78 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 |  |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 |  |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
+| [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
 | [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 |  |
 | [Puoi](https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM) | 2:46 | 2024-06-27 |  |
 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 | 2024-06-27 |  |
@@ -80,7 +81,7 @@
 | [Tutti](https://open.spotify.com/track/3G5VUAzCpvaaWEMk9NkHFT) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 4:10 | 2024-06-27 |  |
 | [Tutti contro tutti](https://open.spotify.com/track/3Qi2tRCAstmItgnf1qpq71) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Tutti contro tutti](https://open.spotify.com/album/0MKxiFxj7Palssg4NDjh5h) | 2:47 | 2024-06-27 | 2024-07-12 |
 | [Tutto Qui](https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Tutto Qui](https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN) | 3:31 | 2024-06-27 |  |
-| [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-08-15 |  |
+| [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-08-15 | 2024-08-30 |
 | [Un Altro Universo](https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Un Altro Universo](https://open.spotify.com/album/6jBiHku5XSMNvJpoJuTRLQ) | 3:20 | 2024-06-27 |  |
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 |  |

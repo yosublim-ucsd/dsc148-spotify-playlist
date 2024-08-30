@@ -1,15 +1,15 @@
 {
   "description": "Les hits zouk du moment. Photo : Fanny J",
-  "num_followers": 68490,
+  "num_followers": 68536,
   "original_name": "Zouk Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zse04AAAAABCSHwb9K+Y8nURLxlybC9H",
+  "snapshot_id": "ZtDvYAAAAACztRBnrMM3eVetUm7hLqgl",
   "tracks": [
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Ma partition",
         "url": "https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7"
@@ -25,47 +25,67 @@
       "url": "https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Succomber",
-        "url": "https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs"
+        "name": "La la land (Part. 2)",
+        "url": "https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2"
       },
       "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        },
+        {
+          "name": "BGRZ",
+          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
+        }
+      ],
+      "duration_ms": 238216,
+      "name": "La la land (Part. 2)",
+      "url": "https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Cadence",
+        "url": "https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4"
+      },
+      "artists": [
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        },
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Cadence",
+      "url": "https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Jusqu'au bout du monde",
+        "url": "https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc"
+      },
+      "artists": [
+        {
+          "name": "MARVIN",
+          "url": "https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq"
+        },
         {
           "name": "L\u00c9A CHURROS",
           "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
-        },
-        {
-          "name": "Magical Nrick",
-          "url": "https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig"
         }
       ],
-      "duration_ms": 247058,
-      "name": "Succomber",
-      "url": "https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z"
+      "duration_ms": 213274,
+      "name": "Jusqu'au bout du monde",
+      "url": "https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Serre-moi fort",
-        "url": "https://open.spotify.com/album/5su35ho6QuT12QzASVupHO"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Ga\u00eblle",
-          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
-        }
-      ],
-      "duration_ms": 216585,
-      "name": "Serre-moi fort",
-      "url": "https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Goumin",
         "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/5j7mEjt9YzWhE5hBQmKlkZ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Danje",
         "url": "https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24"
@@ -105,83 +125,27 @@
       "url": "https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Cadence",
-        "url": "https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4"
+        "name": "Troph\u00e9e",
+        "url": "https://open.spotify.com/album/1814HhtSuacyysbTwr79mO"
       },
       "artists": [
         {
-          "name": "lucas seb",
-          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
         },
         {
-          "name": "Senyss",
-          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Cadence",
-      "url": "https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj"
+      "duration_ms": 177882,
+      "name": "Troph\u00e9e",
+      "url": "https://open.spotify.com/track/4bMmiLEjHHhwqo8fKIRayx"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "La la land (Part. 2)",
-        "url": "https://open.spotify.com/album/5soRGu5jsD1Zlj2dHgIoQ2"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        },
-        {
-          "name": "BGRZ",
-          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
-        }
-      ],
-      "duration_ms": 238216,
-      "name": "La la land (Part. 2)",
-      "url": "https://open.spotify.com/track/1AN5RGfXPXqgZx7XFcNIZD"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Jusqu'au bout du monde",
-        "url": "https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc"
-      },
-      "artists": [
-        {
-          "name": "MARVIN",
-          "url": "https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq"
-        },
-        {
-          "name": "L\u00c9A CHURROS",
-          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
-        }
-      ],
-      "duration_ms": 213274,
-      "name": "Jusqu'au bout du monde",
-      "url": "https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Hyp\u00e9",
-        "url": "https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Hyp\u00e9",
-      "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Alchimie",
         "url": "https://open.spotify.com/album/0KUAKOJFUlocgmrwGwvV07"
@@ -201,39 +165,43 @@
       "url": "https://open.spotify.com/track/24LZjnwdJ7jn8aiW3Ym70D"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Pa Nowmal",
-        "url": "https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ"
+        "name": "POUR TOI",
+        "url": "https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu"
       },
       "artists": [
         {
-          "name": "Matieu White",
-          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
         }
       ],
-      "duration_ms": 227368,
-      "name": "Pa Nowmal",
-      "url": "https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu"
+      "duration_ms": 200347,
+      "name": "POUR TOI",
+      "url": "https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "POISON",
-        "url": "https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG"
+        "name": "Succomber",
+        "url": "https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs"
       },
       "artists": [
         {
-          "name": "Kalipsxau",
-          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        },
+        {
+          "name": "Magical Nrick",
+          "url": "https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig"
         }
       ],
-      "duration_ms": 189391,
-      "name": "Loin d'ici",
-      "url": "https://open.spotify.com/track/22nGLFY5Ak7DYjCoIAYl2V"
+      "duration_ms": 247058,
+      "name": "Succomber",
+      "url": "https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Oublie \u00e7a (Fendi) (feat. Lucas Seb) [Konpa Remix]",
         "url": "https://open.spotify.com/album/7zbITbF81j9E8OXfX1XeDJ"
@@ -253,47 +221,75 @@
       "url": "https://open.spotify.com/track/2LC2Rd6Oo8TDIyHbOfjfCy"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "S\u00e9 Vou (Remix)",
-        "url": "https://open.spotify.com/album/3d6oY68bIXsBSF8cNrzWVE"
+        "name": "CALAPA",
+        "url": "https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT"
       },
       "artists": [
         {
-          "name": "Laconi",
-          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
-        },
-        {
-          "name": "Elowdy.C",
-          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
         }
       ],
-      "duration_ms": 179949,
-      "name": "S\u00e9 Vou (Remix)",
-      "url": "https://open.spotify.com/track/2JY0yzqL7IFvNUTYusENR5"
+      "duration_ms": 151395,
+      "name": "CALAPA",
+      "url": "https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Amour Consum\u00e9 (version zouk)",
-        "url": "https://open.spotify.com/album/5PcNLMgAd1lK7ACg4oK4xK"
+        "name": "Coll\u00e9",
+        "url": "https://open.spotify.com/album/5zflFbhlZVYtE45gqAC5VF"
       },
       "artists": [
         {
-          "name": "Alg\u00e9ric",
-          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
-        },
-        {
-          "name": "L\u00c9A CHURROS",
-          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
         }
       ],
-      "duration_ms": 168593,
-      "name": "Amour Consum\u00e9 (version zouk)",
-      "url": "https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh"
+      "duration_ms": 161715,
+      "name": "Coll\u00e9",
+      "url": "https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Serre-moi fort",
+        "url": "https://open.spotify.com/album/5su35ho6QuT12QzASVupHO"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "Serre-moi fort",
+      "url": "https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG"
+      },
+      "artists": [
+        {
+          "name": "Kalipsxau",
+          "url": "https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Loin d'ici",
+      "url": "https://open.spotify.com/track/22nGLFY5Ak7DYjCoIAYl2V"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "CORDIALEMENT",
         "url": "https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD"
@@ -313,59 +309,23 @@
       "url": "https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "POUR TOI",
-        "url": "https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu"
+        "name": "Two m\u00e9fian",
+        "url": "https://open.spotify.com/album/4WJI63uMzZ8sKWu9lrTOZQ"
       },
       "artists": [
         {
-          "name": "Barth",
-          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
         }
       ],
-      "duration_ms": 200347,
-      "name": "POUR TOI",
-      "url": "https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr"
+      "duration_ms": 174000,
+      "name": "Two m\u00e9fian",
+      "url": "https://open.spotify.com/track/1rCtW0Td7JwoQOfTLoICUq"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Coll\u00e9",
-        "url": "https://open.spotify.com/album/5zflFbhlZVYtE45gqAC5VF"
-      },
-      "artists": [
-        {
-          "name": "Mik L",
-          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
-        }
-      ],
-      "duration_ms": 161715,
-      "name": "Coll\u00e9",
-      "url": "https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ganyen",
-        "url": "https://open.spotify.com/album/21zivLkJNcujMDSXbKCYO7"
-      },
-      "artists": [
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        },
-        {
-          "name": "R Dydy",
-          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
-        }
-      ],
-      "duration_ms": 216585,
-      "name": "Ganyen",
-      "url": "https://open.spotify.com/track/0SfSqwx6imDCy7a4mppykm"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Inkonpatible (feat. Lycina\u00efs Jean)",
         "url": "https://open.spotify.com/album/7gz1BW4xlM8NHMslH42IEv"
@@ -385,43 +345,23 @@
       "url": "https://open.spotify.com/track/6e5pkeDJe4kfJgKuqP3xQH"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Serment",
-        "url": "https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB"
+        "name": "Hyp\u00e9",
+        "url": "https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6"
       },
       "artists": [
         {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
-        },
-        {
-          "name": "L\u00c9A CHURROS",
-          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 177882,
-      "name": "Serment - Radio edit",
-      "url": "https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI"
+      "duration_ms": 157053,
+      "name": "Hyp\u00e9",
+      "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ma dose",
-        "url": "https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z"
-      },
-      "artists": [
-        {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
-        }
-      ],
-      "duration_ms": 175225,
-      "name": "Ma dose",
-      "url": "https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "TKT PAS",
         "url": "https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK"
@@ -441,7 +381,43 @@
       "url": "https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Pa Nowmal",
+        "url": "https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ"
+      },
+      "artists": [
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Pa Nowmal",
+      "url": "https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Amour Consum\u00e9 (version zouk)",
+        "url": "https://open.spotify.com/album/5PcNLMgAd1lK7ACg4oK4xK"
+      },
+      "artists": [
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "duration_ms": 168593,
+      "name": "Amour Consum\u00e9 (version zouk)",
+      "url": "https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "POU OU ENTANN'",
         "url": "https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt"
@@ -457,27 +433,7 @@
       "url": "https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "PLAN B",
-        "url": "https://open.spotify.com/album/0uoTpwgUk6TLiXLivtmpXG"
-      },
-      "artists": [
-        {
-          "name": "Dof'",
-          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
-        },
-        {
-          "name": "Nesly",
-          "url": "https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "PLAN B",
-      "url": "https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Dehors il fait froid",
         "url": "https://open.spotify.com/album/2WI9NoVkIVvyRikSin6Csx"
@@ -497,23 +453,27 @@
       "url": "https://open.spotify.com/track/4NBJ31Bu470TPVgu06Vgn2"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
+        "name": "Ganyen",
+        "url": "https://open.spotify.com/album/21zivLkJNcujMDSXbKCYO7"
       },
       "artists": [
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
         }
       ],
-      "duration_ms": 254706,
-      "name": "No love",
-      "url": "https://open.spotify.com/track/6ZmjgI33WcnLm5xOCFXQy7"
+      "duration_ms": 216585,
+      "name": "Ganyen",
+      "url": "https://open.spotify.com/track/0SfSqwx6imDCy7a4mppykm"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/1pddEeJwVOkuzP6ybsjlHz"
@@ -529,7 +489,23 @@
       "url": "https://open.spotify.com/track/5gm1YR7hZceqQybXUsYJTH"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/6ZmjgI33WcnLm5xOCFXQy7"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "BBW (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX"
@@ -549,7 +525,7 @@
       "url": "https://open.spotify.com/track/3HntoALO84z82ZIF3vJwHl"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Tout",
         "url": "https://open.spotify.com/album/3GqR0RsV6fNF45NtLh7GDT"
@@ -565,63 +541,7 @@
       "url": "https://open.spotify.com/track/2S0CMcdX1jUeMDZFxMsSfM"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "\u00c2me soeur",
-        "url": "https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom"
-      },
-      "artists": [
-        {
-          "name": "Elowdy.C",
-          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
-        },
-        {
-          "name": "Sodaade",
-          "url": "https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn"
-        }
-      ],
-      "duration_ms": 225071,
-      "name": "\u00c2me soeur",
-      "url": "https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Partons",
-        "url": "https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1"
-      },
-      "artists": [
-        {
-          "name": "Yoan",
-          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Partons",
-      "url": "https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG"
-      },
-      "artists": [
-        {
-          "name": "Lylah",
-          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
-        },
-        {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
-        }
-      ],
-      "duration_ms": 154312,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "On di Road",
         "url": "https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m"
@@ -641,7 +561,83 @@
       "url": "https://open.spotify.com/track/17lQCngPjOFEgHwprsVYif"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "S\u00e9 Vou (Remix)",
+        "url": "https://open.spotify.com/album/3d6oY68bIXsBSF8cNrzWVE"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        },
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "duration_ms": 179949,
+      "name": "S\u00e9 Vou (Remix)",
+      "url": "https://open.spotify.com/track/2JY0yzqL7IFvNUTYusENR5"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG"
+      },
+      "artists": [
+        {
+          "name": "Lylah",
+          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "duration_ms": 154312,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Serment",
+        "url": "https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "Serment - Radio edit",
+      "url": "https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Partons",
+        "url": "https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1"
+      },
+      "artists": [
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Partons",
+      "url": "https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Falling in love",
         "url": "https://open.spotify.com/album/0WY7AA39ZJhXcFyOdnZufk"
@@ -661,23 +657,27 @@
       "url": "https://open.spotify.com/track/4m7ePEyngbSrbIlS2M10hb"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Des Mots (Des Maux)",
-        "url": "https://open.spotify.com/album/5sM1241lvkbHg7FgZdoCPG"
+        "name": "\u00c2me soeur",
+        "url": "https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom"
       },
       "artists": [
         {
-          "name": "Rohane",
-          "url": "https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4"
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        },
+        {
+          "name": "Sodaade",
+          "url": "https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn"
         }
       ],
-      "duration_ms": 180206,
-      "name": "Des Mots - Des maux",
-      "url": "https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC"
+      "duration_ms": 225071,
+      "name": "\u00c2me soeur",
+      "url": "https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Elle a dit oui",
         "url": "https://open.spotify.com/album/7JHfYRMqgopUq7VA9qiRX7"
@@ -693,43 +693,23 @@
       "url": "https://open.spotify.com/track/2ze27cIt328xJ4GmbduLWD"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Oblije Blockem (Baby Gyal)",
-        "url": "https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9"
+        "name": "Des Mots (Des Maux)",
+        "url": "https://open.spotify.com/album/5sM1241lvkbHg7FgZdoCPG"
       },
       "artists": [
         {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+          "name": "Rohane",
+          "url": "https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Oblije Blockem - Baby Gyal",
-      "url": "https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy"
+      "duration_ms": 180206,
+      "name": "Des Mots - Des maux",
+      "url": "https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "DESTIN\u00c9E chapitre II in ut regium",
-        "url": "https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH"
-      },
-      "artists": [
-        {
-          "name": "Nk Divine",
-          "url": "https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD"
-        },
-        {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
-        }
-      ],
-      "duration_ms": 152170,
-      "name": "Ton amour",
-      "url": "https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Call me",
         "url": "https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP"
@@ -743,6 +723,22 @@
       "duration_ms": 157411,
       "name": "Call me",
       "url": "https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Ma dose",
+        "url": "https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "duration_ms": 175225,
+      "name": "Ma dose",
+      "url": "https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD"
     }
   ],
   "unique_name": "Zouk Station",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,659 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,660 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 83 | [Liquid Courage](https://open.spotify.com/track/5XQNBZX6rWFAakZlCZA9SJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Victoria Monet](https://open.spotify.com/artist/41bfRTTH5t8O5DcUxiBwr8) | [The Rebirth](https://open.spotify.com/album/1dmRT4o84KJpQlbaJF7vhY) | 3:46 |
 | 84 | [Rather Be](https://open.spotify.com/track/2zwBZoOiGNnytNmesLPboA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:50 |
 | 85 | [Lay Down Your Weapons](https://open.spotify.com/track/2w6I2yONriX6WzHib25zMk) | [K Koke](https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Lay Down Your Weapons](https://open.spotify.com/album/2W7HyCndYpIXMlz6DrywV2) | 3:44 |
-| 86 | [Made In China \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6K7tbjweliRGJ2rMT7Aesy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Made In China \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/51Yf18oHcwpvm77V4L0dWw) | 4:07 |
-| 87 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
+| 86 | [Cadillac Song](https://open.spotify.com/track/1sNw8GnBXbcpRE81JI9df4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything](https://open.spotify.com/album/3AJFL1V5nHtDvH50DJtxZ3) | 2:50 |
+| 87 | [Made In China \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6K7tbjweliRGJ2rMT7Aesy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Made In China \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/51Yf18oHcwpvm77V4L0dWw) | 4:07 |
 | 88 | [High Luv](https://open.spotify.com/track/0rPlZJImy6MEMdudJzRvYF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 3:31 |
 | 89 | [More Of You](https://open.spotify.com/track/5FrNXY2CHIlfJscobdKYMt) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 2:48 |
 | 90 | [Still Miss You](https://open.spotify.com/track/4dVbGJjN7yjcfabOVBbX8p) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 2:52 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 100 | [Déjà Vu](https://open.spotify.com/track/1cXStSHado9926qLHI2J61) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Made Of](https://open.spotify.com/album/42GK52roNA9gAe8aLvC5zt) | 2:57 |
 | 101 | [Juke Joint Love](https://open.spotify.com/track/2O7uT2VtjHhV0EvKYSxI5Y) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:03 |
 
-Snapshot ID: `AbaqQQAAAAAxrJUbOgm4v/uIpzM8TcPO`
+Snapshot ID: `Abav4QAAAABnXOD38zqMqWhMZdsakfdo`

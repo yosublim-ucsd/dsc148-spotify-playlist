@@ -4,7 +4,7 @@
 
 > Underneath their cool, unbothered exterior, this character is an enigma to be unraveled.
 
-40 songs - 2 hr 17 min
+41 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,13 +20,14 @@
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-08-19 |  |
 | [Hai Domo](https://open.spotify.com/track/7zxritDvIwIsJcnZMl0t0C) | [Cao White](https://open.spotify.com/artist/7Ifh6z0Ibeuqmtf6RnGt2w) | [Hai Domo](https://open.spotify.com/album/1YAhd4VXxOhJEptGqAE0JU) | 1:44 | 2024-08-19 |  |
 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 | 2024-08-19 |  |
+| [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-08-30 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2024-08-19 |  |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2024-08-19 |  |
 | [LAZY](https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [LAZY](https://open.spotify.com/album/0OCm5RpB0BYQhrYpH3unft) | 3:45 | 2024-08-19 |  |
 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-08-19 |  |
 | [Living Fool](https://open.spotify.com/track/0e1kW8RRrYyhyBmAaLzNaG) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Living Fool](https://open.spotify.com/album/0Vaq53yG0l4tjNP2AmIj7v) | 3:01 | 2024-08-19 |  |
 | [LOOK DON'T TOUCH \- Sped Up](https://open.spotify.com/track/3SIJtSQcIuJukZ2awP3EJq) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON'T TOUCH \(STARE STARE STARE\)](https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te) | 2:08 | 2024-08-19 |  |
-| [MOUNTAIN D](https://open.spotify.com/track/00qVXZrq0j1Gk6T3MvpOgH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [Dos Atomos](https://open.spotify.com/album/3VWzxswPZ8RBDuVCcHqBO2) | 3:57 | 2024-08-19 |  |
+| [MOUNTAIN D](https://open.spotify.com/track/00qVXZrq0j1Gk6T3MvpOgH) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [Dos Atomos](https://open.spotify.com/album/3VWzxswPZ8RBDuVCcHqBO2) | 3:57 | 2024-08-19 | 2024-08-30 |
 | [My Hero](https://open.spotify.com/track/366ABIopJkMbrEVoDsb9TM) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [My Hero](https://open.spotify.com/album/32PaGkKxg0d4AxaA8U7WMz) | 4:23 | 2024-08-19 |  |
 | [Otaku Hot Girl](https://open.spotify.com/track/6saYisCUAZXc505blie9kZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:38 | 2024-08-19 |  |
 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2024-08-19 |  |

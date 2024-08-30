@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Mahen",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: BIANCADIMAS",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Coba Waras",
+        "url": "https://open.spotify.com/album/3rdJ2teHAmYFJBb8HbgYGn"
+      },
+      "artists": [
+        {
+          "name": "Clara Riva",
+          "url": "https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222528,
+      "name": "Coba Waras",
+      "url": "https://open.spotify.com/track/344ViraxBQJZBYOmq8G0wt"
+    },
+    {
+      "album": {
         "name": "Dan...",
         "url": "https://open.spotify.com/album/1Gu0t5IsJYhU1c6MqphVNO"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 191388,
       "name": "Hatiku Telah Mati",
       "url": "https://open.spotify.com/track/3rXdtu0lKHpvodDbHVB4tc"
@@ -1374,10 +1392,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 242470,
       "name": "Kau Ada",
       "url": "https://open.spotify.com/track/1CQIzDAWvawFRHm6b13pc4"
+    },
+    {
+      "album": {
+        "name": "Ke Rumah",
+        "url": "https://open.spotify.com/album/1OLGRwOYlr9RPPIwXjDnox"
+      },
+      "artists": [
+        {
+          "name": "etto",
+          "url": "https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176164,
+      "name": "Ke Rumah",
+      "url": "https://open.spotify.com/track/7I8jG5NjWJWEczkYb6XfFl"
     },
     {
       "album": {
@@ -2385,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Rindu Merindu Serindu-Rindunya",
+        "url": "https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl"
+      },
+      "artists": [
+        {
+          "name": "BIANCADIMAS",
+          "url": "https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206881,
+      "name": "Rindu Merindu Serindu-Rindunya",
+      "url": "https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA"
+    },
+    {
+      "album": {
         "name": "Ruang Luka",
         "url": "https://open.spotify.com/album/1pB0U49YDHggstJn0FhWpl"
       },
@@ -2559,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Selesai",
+        "url": "https://open.spotify.com/album/1gwNHxgYWZLoPi2K9aWcaQ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Ivo",
+          "url": "https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259635,
+      "name": "Selesai",
+      "url": "https://open.spotify.com/track/3V7Br8sR2JdSXkLgGtPYDz"
+    },
+    {
+      "album": {
         "name": "Selimut Hati",
         "url": "https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16"
       },
@@ -2578,7 +2650,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 294398,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/40snO045rENfvlBFBqfONd"

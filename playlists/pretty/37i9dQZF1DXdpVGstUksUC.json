@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 541899,
+  "num_followers": 541923,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ilion",
-        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp"
+        "name": "Ilion",
+        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
       },
       "artists": [
         {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
         }
       ],
-      "duration_ms": 508306,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB"
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P"
     }
   ],
   "unique_name": "Stoner Rock",

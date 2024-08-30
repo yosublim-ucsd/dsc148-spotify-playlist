@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Seven Lions, Subtronics, and Skylar Grey",
-  "num_followers": 977258,
+  "num_followers": 977265,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
-      "added_at": "2024-07-05 04:16:33",
-      "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
       "added_at": "2024-02-23 05:00:30",
       "album": {
         "name": "Conquer",
@@ -1471,6 +1455,22 @@
       "duration_ms": 181621,
       "name": "Conquer",
       "url": "https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z"
+    },
+    {
+      "added_at": "2024-07-05 04:16:33",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1605,26 +1605,6 @@
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "MARAVILLOSA",
-        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "MARAVILLOSA",
-      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Better Off",
@@ -1659,6 +1639,26 @@
       "duration_ms": 239350,
       "name": "Big Bang (with Crankdat)",
       "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "MARAVILLOSA",
+        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "MARAVILLOSA",
+      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "EDGE (2024 Version)",
-        "url": "https://open.spotify.com/album/2c9M8aAcUN2hqs7lfNTThk"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "EDGE - 2024 Version",
-      "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Floot Loops",
@@ -1739,6 +1723,22 @@
       "duration_ms": 181655,
       "name": "Floot Loops",
       "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "EDGE (2024 Version)",
+        "url": "https://open.spotify.com/album/2c9M8aAcUN2hqs7lfNTThk"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "EDGE - 2024 Version",
+      "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1989,10 +1989,10 @@
       "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-06-07 04:01:30",
       "album": {
-        "name": "Elysian Fields",
-        "url": "https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1"
+        "name": "LSZEE",
+        "url": "https://open.spotify.com/album/6zvEWF6B5eSUpX1UTU5FqS"
       },
       "artists": [
         {
@@ -2000,13 +2000,13 @@
           "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
         },
         {
-          "name": "A Hundred Drums",
-          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
         }
       ],
-      "duration_ms": 207887,
-      "name": "Elysian Fields",
-      "url": "https://open.spotify.com/track/3MyUhaoPmjq0vNRP53qtNz"
+      "duration_ms": 248000,
+      "name": "FRENCH DREAM",
+      "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
     },
     {
       "added_at": "2024-05-03 04:00:00",

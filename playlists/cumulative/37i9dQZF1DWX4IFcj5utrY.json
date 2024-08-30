@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ\">Sio</a> & <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA\">Kid Fonque</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ\">Sio</a>, <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA\">Kid Fonque</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -1462,6 +1462,28 @@
       "duration_ms": 370862,
       "name": "Amandla",
       "url": "https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY"
+    },
+    {
+      "album": {
+        "name": "Indalo",
+        "url": "https://open.spotify.com/album/7kx9yTATM8wc4c1u4fmwQc"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452214,
+      "name": "Amanxeba",
+      "url": "https://open.spotify.com/track/0WGcw62a3tCniUTFP50lWt"
     },
     {
       "album": {
@@ -5889,6 +5911,40 @@
     },
     {
       "album": {
+        "name": "Ematshwaleni",
+        "url": "https://open.spotify.com/album/1Qniank0pnbJha15aWiIbB"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Noxolo Ngema",
+          "url": "https://open.spotify.com/artist/4gR20Zh7XB48xnwxZnKGgb"
+        },
+        {
+          "name": "King Deetoy",
+          "url": "https://open.spotify.com/artist/4gk96iqLwnvHkmwZ4vbcEx"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300778,
+      "name": "Ematshwaleni",
+      "url": "https://open.spotify.com/track/2ywtXblqZ2XNbbLTvCc1Cy"
+    },
+    {
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/0knYXe2AfWcjSpuhI6Ob3s"
       },
@@ -5926,7 +5982,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 202575,
       "name": "Emgodini",
       "url": "https://open.spotify.com/track/6LA0WilUciIHJWrBIVnmLP"
@@ -6797,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+    },
+    {
+      "album": {
         "name": "Finally Here",
         "url": "https://open.spotify.com/album/3STsbNcmWfVlvsBFDRhj3h"
       },
@@ -7268,7 +7346,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
@@ -10314,6 +10392,32 @@
       "duration_ms": 378500,
       "name": "iThemba",
       "url": "https://open.spotify.com/track/4Zb3pc30RA1QtXezj5heEr"
+    },
+    {
+      "album": {
+        "name": "Ithuba EP",
+        "url": "https://open.spotify.com/album/6rFVAJeo4itNlq20dFuABO"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243963,
+      "name": "Ithuba - Thakzin Perspective - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZyzaDX42CIIyxdJnArQZ1"
     },
     {
       "album": {
@@ -14753,6 +14857,32 @@
     },
     {
       "album": {
+        "name": "Sacred Steps",
+        "url": "https://open.spotify.com/album/5eThCbdRN6T8MulQgtwq73"
+      },
+      "artists": [
+        {
+          "name": "Mobi Dixon",
+          "url": "https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297949,
+      "name": "Ngixolele",
+      "url": "https://open.spotify.com/track/6HY5NwZ2Rli5kT8hwtdzWf"
+    },
+    {
+      "album": {
         "name": "Ngiyeke",
         "url": "https://open.spotify.com/album/40NXJBthv6lfaOVmNjYcOv"
       },
@@ -18582,6 +18712,24 @@
       "duration_ms": 453314,
       "name": "Siyabonga",
       "url": "https://open.spotify.com/track/7aD1gP83nhNeORZkh1nMqK"
+    },
+    {
+      "album": {
+        "name": "Skhaftin Saka Fonque",
+        "url": "https://open.spotify.com/album/01gtDEEZeWAdwiiTADaQTD"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374237,
+      "name": "Skhaftin Saka Fonque",
+      "url": "https://open.spotify.com/track/2PPPgDip0zSXqpt5vWk980"
     },
     {
       "album": {

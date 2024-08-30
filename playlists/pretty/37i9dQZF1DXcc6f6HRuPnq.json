@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 165645,
+  "num_followers": 165718,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
+        "name": "The Original Fleetwood Mac",
+        "url": "https://open.spotify.com/album/6tbQdb3SyIPzwOZDvsETk5"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/78WaOAO3xm45gOXqMhI09d"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
         "name": "The Delta Meets Detroit: Aretha's Blues",
         "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 338373,
       "name": "One Room Country Shack",
       "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
-        "name": "The Original Fleetwood Mac",
-        "url": "https://open.spotify.com/album/6tbQdb3SyIPzwOZDvsETk5"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/78WaOAO3xm45gOXqMhI09d"
     },
     {
       "added_at": "2024-05-28 18:36:09",

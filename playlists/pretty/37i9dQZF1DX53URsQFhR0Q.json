@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 7079,
+  "num_followers": 7082,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Akristofoo Adooso",
+        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Marfo",
+          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "Meda Wase",
+      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 977893,
       "name": "Ghana Local Worship",
       "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Akristofoo Adooso",
-        "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Marfo",
-          "url": "https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "Meda Wase",
-      "url": "https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 427226,
-      "name": "Wo Ntaban",
-      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 427226,
+      "name": "Wo Ntaban",
+      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 527640,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 301400,
       "name": "Aseda Nwom",
       "url": "https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 527640,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Asomdwoe Hene",
-        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 312058,
-      "name": "Twediampong Nyame",
-      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ghana Gospel Mix",
         "url": "https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 296752,
       "name": "Yesu Ne Me Last Stop",
       "url": "https://open.spotify.com/track/5dg3UDruST8ro3QGWpEDeu"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Asomdwoe Hene",
+        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 312058,
+      "name": "Twediampong Nyame",
+      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
     },
     {
       "added_at": "2024-05-22 11:00:00",

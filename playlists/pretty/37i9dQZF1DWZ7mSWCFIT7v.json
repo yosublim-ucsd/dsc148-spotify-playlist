@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 229056,
+  "num_followers": 229114,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
     },
     {
-      "added_at": "2022-09-27 23:17:09",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
-      },
-      "artists": [
-        {
-          "name": "OKRAA",
-          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
-        }
-      ],
-      "duration_ms": 645372,
-      "name": "Ola De Luz",
-      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
-    },
-    {
       "added_at": "2023-11-23 03:12:41",
       "album": {
         "name": "Candid",
@@ -407,6 +391,22 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
+    },
+    {
+      "added_at": "2022-09-27 23:17:09",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE"
+      },
+      "artists": [
+        {
+          "name": "OKRAA",
+          "url": "https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU"
+        }
+      ],
+      "duration_ms": 645372,
+      "name": "Ola De Luz",
+      "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
       "added_at": "2024-01-02 19:57:01",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Hodes",
-        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
-      },
-      "artists": [
-        {
-          "name": "Bengalfuel",
-          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "The Pier",
-      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
-    },
-    {
       "added_at": "2022-02-25 03:59:46",
       "album": {
         "name": "Diamond Beach",
@@ -1043,6 +1027,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Hodes",
+        "url": "https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP"
+      },
+      "artists": [
+        {
+          "name": "Bengalfuel",
+          "url": "https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "The Pier",
+      "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Suiseki",
-        "url": "https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN"
+        "name": "Dub Protection & The Sportswear Mystics",
+        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "The Diabolical Liberties",
+          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 210443,
-      "name": "Temple",
-      "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
+      "duration_ms": 311480,
+      "name": "Dub Protection",
+      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1149,6 +1153,22 @@
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Suiseki",
+        "url": "https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 210443,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
+    },
+    {
       "added_at": "2024-05-08 03:01:37",
       "album": {
         "name": "Derrwut",
@@ -1165,24 +1185,36 @@
       "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-08-31 03:57:27",
       "album": {
-        "name": "Dub Protection & The Sportswear Mystics",
-        "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
       },
       "artists": [
         {
-          "name": "The Diabolical Liberties",
-          "url": "https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
         }
       ],
-      "duration_ms": 311480,
-      "name": "Dub Protection",
-      "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
+      "duration_ms": 687536,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
+    },
+    {
+      "added_at": "2022-03-29 02:05:38",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2022-02-25 05:11:21",
@@ -1203,38 +1235,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-03-29 02:05:38",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
-      "added_at": "2022-08-31 03:57:27",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 687536,
-      "name": "A2",
-      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
     },
     {
       "added_at": "2023-03-31 19:28:25",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
-      "added_at": "2022-08-24 01:27:39",
-      "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
-      },
-      "artists": [
-        {
-          "name": "Floatleaf",
-          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Blooms",
@@ -1347,6 +1331,22 @@
       "duration_ms": 346479,
       "name": "Blooms",
       "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
+    },
+    {
+      "added_at": "2022-08-24 01:27:39",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+      },
+      "artists": [
+        {
+          "name": "Floatleaf",
+          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1405,38 +1405,6 @@
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Ardour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 131944,
-      "name": "Double Fifths",
-      "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Comma",
@@ -1455,6 +1423,38 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Ardour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 131944,
+      "name": "Double Fifths",
+      "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
+    },
+    {
+      "added_at": "2022-01-12 18:40:19",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Muckbirth",
         "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 197142,
       "name": "Muckbirth",
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "R\u00f6schen",
+        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "duration_ms": 199455,
+      "name": "R\u00f6schen - Edit",
+      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
     },
     {
       "added_at": "2024-03-21 23:28:58",
@@ -1485,22 +1501,6 @@
       "url": "https://open.spotify.com/track/20MH21qtuV9OFTf3sHXA9F"
     },
     {
-      "added_at": "2023-03-22 17:48:40",
-      "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
-      },
-      "artists": [
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
-    },
-    {
       "added_at": "2024-02-08 23:12:47",
       "album": {
         "name": "onomatopoeia",
@@ -1517,20 +1517,20 @@
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2023-03-22 17:48:40",
       "album": {
-        "name": "R\u00f6schen",
-        "url": "https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv"
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
       },
       "artists": [
         {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
         }
       ],
-      "duration_ms": 199455,
-      "name": "R\u00f6schen - Edit",
-      "url": "https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6"
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2022-08-03 02:50:08",
@@ -1633,6 +1633,22 @@
       "url": "https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm"
     },
     {
+      "added_at": "2023-10-28 00:12:45",
+      "album": {
+        "name": "Wiegenmusik / Constant Structure",
+        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
+      },
+      "artists": [
+        {
+          "name": "Simon Lovermann",
+          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
+        }
+      ],
+      "duration_ms": 152827,
+      "name": "Wiegenmusik",
+      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "On danse comme des fous",
@@ -1651,22 +1667,6 @@
       "duration_ms": 208375,
       "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0437\u043d\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
-    },
-    {
-      "added_at": "2023-10-28 00:12:45",
-      "album": {
-        "name": "Wiegenmusik / Constant Structure",
-        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
-      },
-      "artists": [
-        {
-          "name": "Simon Lovermann",
-          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
-        }
-      ],
-      "duration_ms": 152827,
-      "name": "Wiegenmusik",
-      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     },
     {
       "added_at": "2022-01-12 02:35:30",

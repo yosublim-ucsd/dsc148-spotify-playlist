@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Jennifer & Stephany, Luan Pereira",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Theo & Luan, Clayton & Rom\u00e1rio",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Curvas Da Ta\u00e7a",
+        "url": "https://open.spotify.com/album/1rst8QShG1RJT1BhDUGQUj"
+      },
+      "artists": [
+        {
+          "name": "J\u00falio Abreu",
+          "url": "https://open.spotify.com/artist/1q22gRgC69l5rz7FZDbqGr"
+        },
+        {
+          "name": "Moda Music",
+          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243813,
+      "name": "Curvas Da Ta\u00e7a",
+      "url": "https://open.spotify.com/track/3qzlO5b31Bj3BMhvN2KqQx"
+    },
+    {
+      "album": {
         "name": "C\u00ea Nunca Namorou Eu",
         "url": "https://open.spotify.com/album/3CfgXVVQFmYAPqBZwYJ0y7"
       },
@@ -756,7 +778,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 164315,
       "name": "Ex Que Se Preze - Ao Vivo",
       "url": "https://open.spotify.com/track/6qR6Zei7a6KjyLVefHIj44"
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 174506,
       "name": "Par Perfeito",
       "url": "https://open.spotify.com/track/2Bjhn4yh90lpdJmKfxkAJk"
@@ -1669,6 +1691,50 @@
     },
     {
       "album": {
+        "name": "Pra Ontem - Live",
+        "url": "https://open.spotify.com/album/3Jqygkb46HDCMQJMS9UPtF"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Melo",
+          "url": "https://open.spotify.com/artist/6fRFG2Qzw5C06WRjB5EcUV"
+        },
+        {
+          "name": "Z\u00e9 Henrique & Gabriel",
+          "url": "https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146496,
+      "name": "Pra Ontem",
+      "url": "https://open.spotify.com/track/2x9GEeBmvVLL9prgvVJXOe"
+    },
+    {
+      "album": {
+        "name": "Preso Por Um Cabel\u00e3o (Eu Sou da Rua)",
+        "url": "https://open.spotify.com/album/5bt9y9j7NsM7M8ZiAh6jxQ"
+      },
+      "artists": [
+        {
+          "name": "Lorran",
+          "url": "https://open.spotify.com/artist/4fBWHmsHIBq2rGRbDvGDLm"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149617,
+      "name": "Preso Por Um Cabel\u00e3o (Eu Sou da Rua)",
+      "url": "https://open.spotify.com/track/6iLwYBciCPett3NlZtPRfk"
+    },
+    {
+      "album": {
         "name": "Ot\u00e1vio Cillo Ao Vivo",
         "url": "https://open.spotify.com/album/3E84VzpVpWrPdL0lw14CRo"
       },
@@ -1738,6 +1804,28 @@
       "duration_ms": 173962,
       "name": "Que Se Dane o Mundo",
       "url": "https://open.spotify.com/track/6u9PQcl9LvNB1FvcKBT0jq"
+    },
+    {
+      "album": {
+        "name": "Questionamentos - Ao Vivo",
+        "url": "https://open.spotify.com/album/23hEZHmIbF21b5bwOOTl9a"
+      },
+      "artists": [
+        {
+          "name": "Theo & Luan",
+          "url": "https://open.spotify.com/artist/7E3ROnYOaeZZk20pxrvPLc"
+        },
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168229,
+      "name": "Questionamentos - Ao Vivo",
+      "url": "https://open.spotify.com/track/1zNKuNKoLUGiyxA7Ct1YqX"
     },
     {
       "album": {
@@ -2022,7 +2110,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159369,
       "name": "Supera\u00e7\u00e3o Atropelada",
       "url": "https://open.spotify.com/track/0tUdDr6JD7lV8TSfkgToBS"
@@ -2150,6 +2238,28 @@
       "duration_ms": 174226,
       "name": "Tercinho",
       "url": "https://open.spotify.com/track/09lpc8MwMNJoNKH8mvvnTM"
+    },
+    {
+      "album": {
+        "name": "Torre de Lata - Ao Vivo",
+        "url": "https://open.spotify.com/album/5AjTdeXWteao44qD37MfP2"
+      },
+      "artists": [
+        {
+          "name": "Larissa e Mariana",
+          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
+        },
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140486,
+      "name": "Torre de Lata - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Ju7RoU09KIcVLiTu99qAZ"
     },
     {
       "album": {
@@ -2340,7 +2450,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 161930,
       "name": "V\u00ea Se Pode - V\u00ea Se Pod, Ao Vivo",
       "url": "https://open.spotify.com/track/1Venap4M7bpaMWGQpSdak4"

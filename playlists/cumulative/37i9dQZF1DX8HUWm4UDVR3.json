@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Z\u00e9lie",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Zaoui",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 181447,
       "name": "Aseptis\u00e9",
       "url": "https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0"
+    },
+    {
+      "album": {
+        "name": "Avant la fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5IUukxrkXQzps5JU7AOqP0"
+      },
+      "artists": [
+        {
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Avant la fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1ZyraWusX0DqD6sW3tBI4d"
     },
     {
       "album": {
@@ -960,7 +978,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 185440,
       "name": "Dans mon coeur, tu reviens",
       "url": "https://open.spotify.com/track/7BNT3qsg230rBtAaZy0CC4"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
@@ -1960,6 +1978,24 @@
       "duration_ms": 192378,
       "name": "Le club des 27",
       "url": "https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe"
+    },
+    {
+      "album": {
+        "name": "Le collectionneur",
+        "url": "https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201261,
+      "name": "Le collectionneur",
+      "url": "https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM"
     },
     {
       "album": {
@@ -2592,7 +2628,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 194080,
       "name": "Nulle",
       "url": "https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw"
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 184274,
       "name": "Plus de probl\u00e8mes",
       "url": "https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL"

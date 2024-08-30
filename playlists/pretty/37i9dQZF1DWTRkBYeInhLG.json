@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 476350,
+  "num_followers": 476416,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "Musim Yang Baik",
-        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 216295,
-      "name": "Lapang Dada",
-      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
-    },
-    {
-      "added_at": "2024-08-28 04:09:57",
-      "album": {
         "name": "Taman Langit",
         "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
+    },
+    {
+      "added_at": "2024-08-28 04:09:57",
+      "album": {
+        "name": "Musim Yang Baik",
+        "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 216295,
+      "name": "Lapang Dada",
+      "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
     },
     {
       "added_at": "2024-08-28 04:09:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "Teman Bahagia",
-        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 208104,
-      "name": "Teman Bahagia",
-      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
-    },
-    {
-      "added_at": "2024-08-28 04:09:57",
-      "album": {
         "name": "Telisik",
         "url": "https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 198800,
       "name": "Ada Di Sana",
       "url": "https://open.spotify.com/track/7e3JeMmuteFbUJuUjH1RfS"
+    },
+    {
+      "added_at": "2024-08-28 04:09:57",
+      "album": {
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2024-08-28 04:09:57",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 231187,
-      "name": "Semua lagu cinta",
-      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
-    },
-    {
-      "added_at": "2024-08-28 04:09:57",
-      "album": {
         "name": "Keabadian",
         "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 247666,
       "name": "Keabadian",
       "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
+    },
+    {
+      "added_at": "2024-08-28 04:09:57",
+      "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
     },
     {
       "added_at": "2024-08-28 04:09:57",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "Find The Way",
-        "url": "https://open.spotify.com/album/3kOVbZ8Ccl83UB9cGTvvi5"
+        "name": "Tanpa Tergesa",
+        "url": "https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03"
       },
       "artists": [
         {
-          "name": "Sandhy Sondoro",
-          "url": "https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu"
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
         }
       ],
-      "duration_ms": 241106,
-      "name": "Tak Pernah Padam",
-      "url": "https://open.spotify.com/track/0heY4hxgRs6s1wrMtrS3YJ"
+      "duration_ms": 218405,
+      "name": "Tanpa Tergesa",
+      "url": "https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C"
     }
   ],
   "unique_name": "Santai Sejenak",

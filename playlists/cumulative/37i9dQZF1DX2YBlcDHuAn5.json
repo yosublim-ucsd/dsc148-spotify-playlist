@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 198666,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 294945,
       "name": "Babe I'm Gonna Leave You - Extended Version",
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/7HvwU0z0my31zUwSDCrD1x"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 259374,
       "name": "Big Grey Boxes",
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 238018,
       "name": "California",
       "url": "https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 178805,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ"
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Drowning in the Dark",
+        "url": "https://open.spotify.com/album/393liDotKoRriPUxGDsvb2"
+      },
+      "artists": [
+        {
+          "name": "Leanne Serena",
+          "url": "https://open.spotify.com/artist/2rYx1os7rYtwAHinxxtPuW"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215624,
+      "name": "Drowning in the Dark",
+      "url": "https://open.spotify.com/track/2AAm5EYrQt2i7VUNgkGFIl"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 200854,
       "name": "Factory",
       "url": "https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe"
@@ -822,7 +840,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 152590,
       "name": "Gravel Road",
       "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 205874,
       "name": "Harmony From Dissonance",
       "url": "https://open.spotify.com/track/4YVG7WaFjdLHIiy5dByavP"
@@ -1177,6 +1195,42 @@
     },
     {
       "album": {
+        "name": "Landscapes",
+        "url": "https://open.spotify.com/album/3yIiya62yX6iAwGrOYwHpT"
+      },
+      "artists": [
+        {
+          "name": "June Road",
+          "url": "https://open.spotify.com/artist/3SVB9qKuL59RmG34jrlfRJ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211633,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/1i2pcGWcErOOZKvanPg0Xw"
+    },
+    {
+      "album": {
+        "name": "Honey I Do",
+        "url": "https://open.spotify.com/album/3JT8wKpkMMfbhT3tJK84eK"
+      },
+      "artists": [
+        {
+          "name": "The Coo",
+          "url": "https://open.spotify.com/artist/2SE0r4tVfer1MovFCIb58g"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Honey I Do - Single Edit",
+      "url": "https://open.spotify.com/track/2uAtTi6zk3Kw8JKDreIbE6"
+    },
+    {
+      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 279138,
       "name": "How Did We Get To Goodbye",
       "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
@@ -1206,10 +1260,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 161033,
       "name": "Huddle by the Fire",
       "url": "https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz"
     },
     {
       "album": {
@@ -1228,6 +1300,24 @@
       "duration_ms": 183413,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
+    },
+    {
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "album": {
@@ -1282,10 +1372,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
+    },
+    {
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "I Wasn\u2019t Gonna",
+      "url": "https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp"
     },
     {
       "album": {
@@ -1358,7 +1466,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 165120,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/2Fu4lrs00YKBQ1sIHUT4Kl"
@@ -1394,7 +1502,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 193426,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
@@ -1412,7 +1520,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Kingdom Of Mine",
       "url": "https://open.spotify.com/track/4nbxAUtL0FDDIv4GWLk40H"
@@ -1460,7 +1568,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 172925,
       "name": "Life's More Beautiful Than Hard",
       "url": "https://open.spotify.com/track/5SsFZdvxDeNAN4QV45aSYS"
@@ -1496,7 +1604,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 244667,
       "name": "Little Miss Blue Eyes",
       "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
@@ -1550,7 +1658,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 158653,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
@@ -1568,7 +1676,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 247243,
       "name": "Love in the Dark",
       "url": "https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE"
@@ -1586,7 +1694,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
@@ -1622,7 +1730,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 262286,
       "name": "Love to See You Cry",
       "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
@@ -1640,7 +1748,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 194396,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK"
@@ -1842,7 +1950,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 215440,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
@@ -1860,7 +1968,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 200736,
       "name": "Our House",
       "url": "https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn"
@@ -1900,7 +2008,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 273400,
       "name": "Pagan Run",
       "url": "https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio"
@@ -1997,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Red White & Blue",
+        "url": "https://open.spotify.com/album/6lkiNl53gLrYdjGpqPPzDj"
+      },
+      "artists": [
+        {
+          "name": "The Martial",
+          "url": "https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167697,
+      "name": "Red White & Blue",
+      "url": "https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v"
+    },
+    {
+      "album": {
         "name": "Kingdom of Mine",
         "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
       },
@@ -2008,7 +2134,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "Ring Them Bells",
       "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
@@ -2026,7 +2152,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 253194,
       "name": "Rollin' with the Punches",
       "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
@@ -2124,7 +2250,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 249616,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS"
@@ -2232,7 +2358,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 202473,
       "name": "Sunday Mornin' Opry",
       "url": "https://open.spotify.com/track/6Jfb3uNm1yt6emEGQAewJI"
@@ -2250,7 +2376,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 207167,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04"
@@ -2456,7 +2582,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 249986,
       "name": "The Way I Love You Now - Bluefinger Version",
       "url": "https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo"
@@ -2536,7 +2662,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 224133,
       "name": "To The Darkness",
       "url": "https://open.spotify.com/track/1jFWYCpLlz6FqPOxSKIaZo"
@@ -2634,7 +2760,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 208350,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
@@ -2714,7 +2840,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 221905,
       "name": "Underneath This Skin",
       "url": "https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB"
@@ -2790,7 +2916,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
@@ -2826,7 +2952,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz"
@@ -2844,7 +2970,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153193,
       "name": "When It's Through",
       "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
@@ -2862,7 +2988,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 239029,
       "name": "When Lovers Become Friends",
       "url": "https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq"
@@ -2898,7 +3024,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 203487,
       "name": "When You Know You Know - Acoustic",
       "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"

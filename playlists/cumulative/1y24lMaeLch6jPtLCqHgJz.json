@@ -2191,6 +2191,28 @@
     },
     {
       "album": {
+        "name": "Dreamer (Just Like You)",
+        "url": "https://open.spotify.com/album/3iNrMPpEExas9tmsNwahEE"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236579,
+      "name": "Dreamer (Just Like You)",
+      "url": "https://open.spotify.com/track/4m9JS7f3BFRRrDm1z46OeV"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/0fXksf7oidpAA6o6evLU0f"
       },

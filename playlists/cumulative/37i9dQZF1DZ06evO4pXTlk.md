@@ -4,14 +4,16 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 13 min
+96 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aberdeen 1987](https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:52 | 2022-09-16 |  |
-| [Ache](https://open.spotify.com/track/3aNALjQJTUnlaLAWqpKD1V) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 1:40 | 2023-09-21 |  |
+| [Ache](https://open.spotify.com/track/3aNALjQJTUnlaLAWqpKD1V) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 1:40 | 2023-09-21 | 2024-08-30 |
 | [Ache](https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Ache](https://open.spotify.com/album/4c5GCTtE09FsMxnC2QKqYU) | 1:40 | 2023-03-09 | 2023-09-22 |
-| [Blame](https://open.spotify.com/track/0SFvQaQnPRYKc3K1EgoVgF) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:54 | 2023-08-30 |  |
+| [Ache](https://open.spotify.com/track/7CXTYpBFOD8ZD99At4G6jR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Afterthoughts On Letting Go](https://open.spotify.com/album/5K3J7hIZ5aHfV4tUAnbv7b) | 1:40 | 2024-08-30 |  |
+| [Blame](https://open.spotify.com/track/0SFvQaQnPRYKc3K1EgoVgF) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:54 | 2023-08-30 | 2024-08-30 |
+| [Blame](https://open.spotify.com/track/4wRqt53Z6CQamU6cXrnVvT) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2) | 2:54 | 2024-08-30 |  |
 | [Blame](https://open.spotify.com/track/5gqd2N6igMx397BpzS9jsi) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Blame](https://open.spotify.com/album/1WjBjv6eT79b9RNJzJU8ou) | 2:54 | 2023-06-15 | 2023-08-31 |
 | [Blame \- Afterthoughts Version](https://open.spotify.com/track/4u8KpBSwVw9MCysDYmRX1O) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Afterthoughts On Letting Go](https://open.spotify.com/album/4SRY0RmcuTYiuZZlbEIqxV) | 3:21 | 2024-06-28 | 2024-07-27 |
 | [Bored](https://open.spotify.com/track/21cE8fzpFkT96SvHV4dxdT) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Live Like This](https://open.spotify.com/album/0VttQpVxESGG6kV0yml1Xh) | 3:50 | 2022-09-16 | 2022-11-26 |
@@ -53,8 +55,9 @@
 | [I Wanna Be Sedated](https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:32 | 2022-10-12 | 2023-11-11 |
 | [Inbetween Days](https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [So No One Told You Life Was Gonna Be This Way](https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg) | 2:51 | 2022-10-12 | 2024-07-11 |
 | [Inhale \(her\)](https://open.spotify.com/track/668hsMtswySyHQqZAWMyDp) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 1:21 | 2023-08-19 | 2024-07-24 |
+| [Jealousy](https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2) | 2:02 | 2024-08-30 |  |
 | [Jealousy](https://open.spotify.com/track/1wahunrydhJWQxDOC3eMXa) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Jealousy](https://open.spotify.com/album/1Pe2tE0RKt8qYqtEvECanA) | 2:02 | 2023-04-27 | 2023-08-20 |
-| [Jealousy](https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:02 | 2023-08-19 |  |
+| [Jealousy](https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:02 | 2023-08-19 | 2024-08-30 |
 | [Just Go Home](https://open.spotify.com/track/1jbfcvWMZdVGY7P3xJzJbc) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 3:29 | 2023-05-15 | 2024-07-12 |
 | [Kevin Costner](https://open.spotify.com/track/4ygRXngoKVPpErJQnkfCbX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 4:05 | 2022-09-16 | 2022-10-12 |
 | [Kick It](https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:04 | 2022-11-21 |  |
@@ -67,6 +70,7 @@
 | [Live Like This](https://open.spotify.com/track/1llMTwvOhmSJt0uUZLpoXC) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:36 | 2022-09-16 | 2022-11-23 |
 | [Live Like This](https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:36 | 2022-11-22 |  |
 | [Lost but Not Alone](https://open.spotify.com/track/5GwRCe3UTH28eBBlD3Qjad) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 3:31 | 2022-10-17 | 2024-05-24 |
+| [Lovesick](https://open.spotify.com/track/023xxv7rjUWJexmw1RCQb4) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2) | 3:12 | 2024-08-30 |  |
 | [Lovesick](https://open.spotify.com/track/2jXervPgB2n6IWIPqnkLkg) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 3:12 | 2023-08-19 | 2024-08-27 |
 | [Lovesick \- Afterthoughts Version](https://open.spotify.com/track/6ZviTp09nCg4qrsIPr3E3e) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Afterthoughts On Letting Go](https://open.spotify.com/album/4SRY0RmcuTYiuZZlbEIqxV) | 3:10 | 2024-07-10 | 2024-07-27 |
 | [Lust In Translation](https://open.spotify.com/track/2CbaBYrPygEmLNIa4l9RPq) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:45 | 2023-08-19 | 2024-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Strat",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Kidd",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 155744,
       "name": "Do Money",
       "url": "https://open.spotify.com/track/1HgCFre9Kh8mrHPfOfu8hz"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 145920,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/0UraJ35Eb2OvSCxT9ydVyq"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203995,
       "name": "Enas Antras",
       "url": "https://open.spotify.com/track/6MSYgi5zfZYcdzJiMszwHK"
@@ -1048,6 +1048,54 @@
       "duration_ms": 181000,
       "name": "Errico's Freestyle",
       "url": "https://open.spotify.com/track/6yzT7RNCYEX3iUCaoTB4vV"
+    },
+    {
+      "album": {
+        "name": "EURO BOP",
+        "url": "https://open.spotify.com/album/29o0nGoAGZ6YfflvMB8VIh"
+      },
+      "artists": [
+        {
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Gola Gianni",
+          "url": "https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164242,
+      "name": "EURO BOP",
+      "url": "https://open.spotify.com/track/4CpRyPsmzydxkH9Bc4swfb"
+    },
+    {
+      "album": {
+        "name": "FANTA",
+        "url": "https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153560,
+      "name": "FANTA",
+      "url": "https://open.spotify.com/track/6wx0UEozv6e3X16awO0BCS"
     },
     {
       "album": {
@@ -1398,7 +1446,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 139226,
       "name": "Ijo",
       "url": "https://open.spotify.com/track/3mS1oUkI6MVNVFFp2gylwv"
@@ -1524,6 +1572,28 @@
       "duration_ms": 190336,
       "name": "Kamia San Esena",
       "url": "https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0"
+    },
+    {
+      "album": {
+        "name": "Ke Ti Den Tha Dina",
+        "url": "https://open.spotify.com/album/7fycmjm7HIc2ogDfX1aTx0"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188688,
+      "name": "Ke Ti Den Tha Dina",
+      "url": "https://open.spotify.com/track/63BVcYK5badAGfZoUJarvK"
     },
     {
       "album": {
@@ -2145,6 +2215,28 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143389,
+      "name": "ONE DANCE",
+      "url": "https://open.spotify.com/track/2moVjjYXKWy91ih9yh0oZH"
+    },
+    {
+      "album": {
         "name": "OTAN ME KOITAS",
         "url": "https://open.spotify.com/album/1NAolw9VjfAyQpfojmqW6I"
       },
@@ -2322,7 +2414,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153214,
       "name": "POLICIA",
       "url": "https://open.spotify.com/track/0uAPYmZsrCRxmDj7wPFaBG"
@@ -3049,6 +3141,28 @@
     },
     {
       "album": {
+        "name": "WOLT",
+        "url": "https://open.spotify.com/album/5Gl9KVT5vWLlpvBlfLoAco"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "WOLT",
+      "url": "https://open.spotify.com/track/2udzvMtNBuBYyWqY29LJod"
+    },
+    {
+      "album": {
         "name": "XADV",
         "url": "https://open.spotify.com/album/6gE7I2ZQyxIzCRqAlJM36i"
       },
@@ -3100,10 +3214,6 @@
         {
           "name": "Hawk",
           "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "X ORFEAS",
-          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
         }
       ],
       "date_added": "2024-08-08",

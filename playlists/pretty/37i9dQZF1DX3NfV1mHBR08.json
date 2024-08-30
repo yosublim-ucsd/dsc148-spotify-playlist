@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14473,
+  "num_followers": 14464,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
-    },
-    {
-      "added_at": "2024-08-10 15:58:49",
-      "album": {
         "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 297173,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
+      "added_at": "2024-08-10 15:58:49",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
     },
     {
       "added_at": "2024-08-10 15:58:49",

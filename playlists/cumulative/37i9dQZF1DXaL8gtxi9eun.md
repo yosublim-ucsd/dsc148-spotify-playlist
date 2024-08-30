@@ -2,9 +2,9 @@
 
 ### [بوب مصري](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: أنغام
+> أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: بهاء سلطان
 
-354 songs - 21 hr 6 min
+355 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 | 2023-07-17 | 2023-08-03 |
 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 | 2023-02-15 | 2023-05-18 |
 | [Elly Yemshy 3ady](https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Elly Yemshy 3ady](https://open.spotify.com/album/3dYZ5ljeUeYlADvkX5V6b8) | 4:40 | 2022-05-04 | 2023-01-01 |
+| [Elmzag 3enab](https://open.spotify.com/track/3CiTsvT60s9YoLX3LYSPF8) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Elmzag 3enab](https://open.spotify.com/album/5tjq8DYX6y73aIlP8x4MKM) | 3:04 | 2024-08-29 |  |
 | [ElNafkha ElKadabah](https://open.spotify.com/track/6VaT4hvY4DvVFNx0apik5F) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [ElNafkha ElKadabah](https://open.spotify.com/album/16LTHZWQIVx9ZJOxwcqHsC) | 3:46 | 2022-05-04 | 2023-01-11 |
 | [Ensan 2ali](https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Ensan 2ali](https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M) | 3:28 | 2023-07-11 | 2024-01-26 |
 | [Enta Al Saadah](https://open.spotify.com/track/2dN3NBI4cvTmexGsgDfbf7) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta Al Saadah](https://open.spotify.com/album/2qoGdlzf9IbzBzXIhWiQ9a) | 3:48 | 2022-05-04 | 2022-07-07 |

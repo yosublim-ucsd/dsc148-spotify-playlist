@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1385439,
+  "num_followers": 1386137,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Shootout (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "CUTE DEPRESSED (ALL VERSIONS)",
-        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "CUTE DEPRESSED - SLOWED VERSION",
-      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Only Love Can Hurt Like This (Slowed Down Version)",
         "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 257743,
       "name": "Only Love Can Hurt Like This - Slowed Down Version",
       "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "CUTE DEPRESSED (ALL VERSIONS)",
+        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "CUTE DEPRESSED - SLOWED VERSION",
+      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
     },
     {
       "added_at": "2024-05-24 04:38:40",

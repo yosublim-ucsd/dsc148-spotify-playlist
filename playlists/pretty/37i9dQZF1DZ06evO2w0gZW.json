@@ -1,12 +1,12 @@
 {
-  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 477542,
+  "description": "This is Mariah Carey. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "num_followers": 477641,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAAArp1wMhVWHF3fsHtkPhXpL",
+  "snapshot_id": "Zs5ogAAAAADyGxBwSAgzakC+gpoCYzz7",
   "tracks": [
     {
       "added_at": null,
@@ -268,17 +268,29 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         },
         {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        },
-        {
-          "name": "98\u00ba",
-          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 257359,
-      "name": "Thank God I Found You (feat. Joe & 98\u00b0)",
-      "url": "https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul"
+      "duration_ms": 285706,
+      "name": "Heartbreaker (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E=MC2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "I Stay In Love",
+      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
     },
     {
       "added_at": null,
@@ -299,22 +311,6 @@
       "duration_ms": 233746,
       "name": "Angels Cry Remix - Remix",
       "url": "https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E=MC2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I Stay In Love",
-      "url": "https://open.spotify.com/track/2rd22W7kQvr4I2D2JWhCJr"
     },
     {
       "added_at": null,
@@ -344,13 +340,17 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         },
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        },
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
         }
       ],
-      "duration_ms": 285706,
-      "name": "Heartbreaker (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+      "duration_ms": 257359,
+      "name": "Thank God I Found You (feat. Joe & 98\u00b0)",
+      "url": "https://open.spotify.com/track/1RS3LStQYhju50eBdD9Uul"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 266560,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I"
+      "duration_ms": 261596,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 261596,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c"
+      "duration_ms": 266560,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I"
     },
     {
       "added_at": null,

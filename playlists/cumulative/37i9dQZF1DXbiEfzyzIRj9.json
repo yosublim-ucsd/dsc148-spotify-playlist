@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Mura Masa",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Tycho",
   "name": "Altar JP",
   "tracks": [
     {
@@ -1737,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "Body Ache",
+        "url": "https://open.spotify.com/album/5FCtijJEhO888UhXnnYkgp"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290558,
+      "name": "Body Ache",
+      "url": "https://open.spotify.com/track/50K3QO1dPbxCIbTglbBtjJ"
+    },
+    {
+      "album": {
         "name": "Bonfire - Junya Kishino Remix",
         "url": "https://open.spotify.com/album/0yrsLxB9kwoszjtKsZcRFG"
       },
@@ -2352,7 +2374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 289054,
       "name": "CHROMA 004 ROLA",
       "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
@@ -2626,6 +2648,24 @@
       "duration_ms": 238062,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/3IpPQ5sXybfzGycTxDTe4d"
+    },
+    {
+      "album": {
+        "name": "Come Find Me",
+        "url": "https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236332,
+      "name": "Come Find Me",
+      "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
     },
     {
       "album": {
@@ -2937,6 +2977,36 @@
     },
     {
       "album": {
+        "name": "Dafodil",
+        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212339,
+      "name": "Dafodil",
+      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
+    },
+    {
+      "album": {
         "name": "So Sloppy Vol.1",
         "url": "https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41"
       },
@@ -3098,6 +3168,28 @@
       "duration_ms": 359981,
       "name": "Day After A Night With U",
       "url": "https://open.spotify.com/track/7y8pAk4nCXztVFlfX9bjXv"
+    },
+    {
+      "album": {
+        "name": "DAY AND NIGHT",
+        "url": "https://open.spotify.com/album/44zpTKNrVSUKKG12XX3gpC"
+      },
+      "artists": [
+        {
+          "name": "Jacotanu",
+          "url": "https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T"
+        },
+        {
+          "name": "ONJUICY",
+          "url": "https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "DAY AND NIGHT",
+      "url": "https://open.spotify.com/track/70okSTcCa41Nf0hOADlFsT"
     },
     {
       "album": {
@@ -8540,7 +8632,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 202648,
       "name": "Life",
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
@@ -9435,6 +9527,28 @@
     },
     {
       "album": {
+        "name": "MALAKA (Ramza Remix)",
+        "url": "https://open.spotify.com/album/2intkjBBY3dWcL4GM3yPt9"
+      },
+      "artists": [
+        {
+          "name": "Yuima Enya",
+          "url": "https://open.spotify.com/artist/0FTBzigvmh871BVIJzb5PZ"
+        },
+        {
+          "name": "Ramza",
+          "url": "https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306531,
+      "name": "MALAKA - Ramza Remix",
+      "url": "https://open.spotify.com/track/49wi1VyjG4pNm3qUuPRYQA"
+    },
+    {
+      "album": {
         "name": "Maldoror",
         "url": "https://open.spotify.com/album/36MGzpmB31aUlUTXC3cyhl"
       },
@@ -9482,7 +9596,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204000,
       "name": "MANSA MUSA",
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
@@ -10117,6 +10231,28 @@
     },
     {
       "album": {
+        "name": "Mother's Grace (Stones Taro Remix)",
+        "url": "https://open.spotify.com/album/2sFfVg9OJHnIvJbKPnXUq5"
+      },
+      "artists": [
+        {
+          "name": "Sis",
+          "url": "https://open.spotify.com/artist/64PJgAvLSx4nM57pFiCKx2"
+        },
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262248,
+      "name": "Mother's Grace - Stones Taro Remix",
+      "url": "https://open.spotify.com/track/5JnJvFGAUOu8dzrxiBjY8g"
+    },
+    {
+      "album": {
         "name": "Dream Team EP",
         "url": "https://open.spotify.com/album/3nrQTSUcDuTyQIos8Bos8I"
       },
@@ -10132,7 +10268,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 335841,
       "name": "Mountain Chicken",
       "url": "https://open.spotify.com/track/3hejS5tW4mOP4kLKfZjKBz"
@@ -11364,7 +11500,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 281106,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
@@ -13354,7 +13490,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
@@ -15511,6 +15647,24 @@
     },
     {
       "album": {
+        "name": "Infinite Health",
+        "url": "https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
+    },
+    {
+      "album": {
         "name": "Tough Times",
         "url": "https://open.spotify.com/album/12VKcKaJEMhdDqnKWXMqPb"
       },
@@ -15714,7 +15868,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 262734,
       "name": "TRISHA",
       "url": "https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l"
@@ -15732,7 +15886,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 197387,
       "name": "Tropical Island",
       "url": "https://open.spotify.com/track/0r3uoHwJv5tNzyKMl3I80B"
@@ -16254,6 +16408,24 @@
       "duration_ms": 330566,
       "name": "Variation - DJ SHIKISAI DUB MOTION REMIX",
       "url": "https://open.spotify.com/track/2t3cvAz2J2YMfZFe2719Tg"
+    },
+    {
+      "album": {
+        "name": "These Heavens",
+        "url": "https://open.spotify.com/album/4zXEdYqVPgKEkf3vSRAIVu"
+      },
+      "artists": [
+        {
+          "name": "gyrofield",
+          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334138,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/4MNnEEU2MIigf9LpzzjuU8"
     },
     {
       "album": {

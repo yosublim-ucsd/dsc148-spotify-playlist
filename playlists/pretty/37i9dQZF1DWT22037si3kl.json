@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Phl Notunrboy",
-  "num_followers": 143184,
+  "num_followers": 143255,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Dunk",
+        "url": "https://open.spotify.com/album/5OHd5Mysa6cYWL0xn2UAfh"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Dunk",
+      "url": "https://open.spotify.com/track/16koRM1qSIqiGpxocN6D0h"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Dunk",
-        "url": "https://open.spotify.com/album/5OHd5Mysa6cYWL0xn2UAfh"
-      },
-      "artists": [
-        {
-          "name": "Akashi Cruz",
-          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Dunk",
-      "url": "https://open.spotify.com/track/16koRM1qSIqiGpxocN6D0h"
     },
     {
       "added_at": "2024-08-23 03:01:00",

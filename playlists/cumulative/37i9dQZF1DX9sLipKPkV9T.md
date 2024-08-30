@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: סטטיק
 
-110 songs - 5 hr 37 min
+115 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [בבל](https://open.spotify.com/track/0Fgqrhbz50nUyFXuBsdGlr) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בבל](https://open.spotify.com/album/7oukNQCQmuODdke3lhPSxE) | 2:50 | 2024-06-27 | 2024-08-23 |
 | [בין הנהר לים](https://open.spotify.com/track/0uJAESYdcp6daIjEq4sl9Y) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [בין הנהר לים](https://open.spotify.com/album/2OKcOqijfAs4XfwZOqKs76) | 3:40 | 2024-06-27 | 2024-07-27 |
 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 | 2024-06-27 | 2024-07-12 |
+| [בינג' ודיכאון](https://open.spotify.com/track/05JWGYM8aOyRmGMXxLXSBK) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [בינג' ודיכאון](https://open.spotify.com/album/0egVawOthUK6wvMDtcoIOP) | 3:34 | 2024-08-29 |  |
 | [ביצ׳](https://open.spotify.com/track/41GqjUNazUde8OBgMXc05R) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [ביצ׳](https://open.spotify.com/album/73Z8X8mH13GKCUuQQqoBnS) | 2:46 | 2024-06-27 | 2024-07-12 |
 | [בנות כמוני לא בוכות](https://open.spotify.com/track/2gwiDHH38cpSXuMU6Iu53d) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנות כמוני לא בוכות](https://open.spotify.com/album/7xlUbVX3KggFMOiLFyCrSM) | 2:36 | 2024-06-27 | 2024-07-19 |
 | [בנים כמוני לא בוכים](https://open.spotify.com/track/6vR5BkZ3jBuCVbO2yDZuTo) | [Dudu Faruk](https://open.spotify.com/artist/0PWRQodP2EvmBFpgyKUNc6), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [בנים כמוני לא בוכים](https://open.spotify.com/album/1b3HyvEsjebccQf0XH6ynL) | 3:02 | 2024-06-27 | 2024-07-19 |
@@ -60,8 +61,10 @@
 | [ונאהב](https://open.spotify.com/track/1GmLUf2dEXKUA1PBjIeqjX) | [Mika Moshe](https://open.spotify.com/artist/2TbLxamjJeEArYTdwdpvC6), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מיקה משה](https://open.spotify.com/album/0lrNdjfc5hRNVeqwcSJ8Ak) | 4:00 | 2024-06-27 | 2024-08-02 |
 | [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [זה ככה כל הזמן](https://open.spotify.com/track/5J9kPVpxZEiRQzsWUx3COM) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [זה ככה כל הזמן](https://open.spotify.com/album/53Fz69cxmFTSpC6Bpm3dZP) | 3:29 | 2024-08-08 |  |
+| [חיילת של אושר](https://open.spotify.com/track/6Cp1HsYY2lWxO6wZviv7O0) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [חיילת של אושר](https://open.spotify.com/album/3HJxggybi3KKXQUvXi1lb9) | 2:30 | 2024-08-29 |  |
 | [חץ בלב](https://open.spotify.com/track/2YCkZcx69SlG17eCcLDq4O) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [חץ בלב](https://open.spotify.com/album/0zncV9LbzHWYtmoVxzEw8G) | 2:44 | 2024-08-22 |  |
 | [טוב טוב](https://open.spotify.com/track/0FmiEDdpHoLHjAmD4QoLFe) | [Natali Dashti](https://open.spotify.com/artist/7ikUpBIjAJ9bRpwwE81fR8) | [טוב טוב](https://open.spotify.com/album/4Xk3fTwiaDgLy7Vyob7169) | 2:21 | 2024-07-04 | 2024-07-19 |
+| [טיפה בלב ים](https://open.spotify.com/track/4X6Gr8yKuSRyKVEDIe7w5N) | [Nofar Salman](https://open.spotify.com/artist/3E6brPWNbeukI8w10ugzOx) | [טיפה בלב ים](https://open.spotify.com/album/47OvmR24EM6cEJtcCTJUKR) | 3:26 | 2024-08-29 |  |
 | [יוצאת מזה](https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יוצאת מזה](https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG) | 3:40 | 2024-06-27 | 2024-08-16 |
 | [ילדה קטנה כותבת מכתב](https://open.spotify.com/track/5fOZZC0Zn9hmqb92lbJlEx) | [Amir Dadon](https://open.spotify.com/artist/398u4UqbG8yzv4H08Mc1Eq) | [ילדה קטנה כותבת מכתב](https://open.spotify.com/album/5oy5X1o1SFsHYTzvhtG00G) | 2:51 | 2024-06-27 |  |
 | [כוכבים של אושר](https://open.spotify.com/track/2wvQYI212zCnC1pBWa1LPK) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [תישארי את](https://open.spotify.com/album/6t5HmO126LXHRKGgp6xbOM) | 3:32 | 2024-06-27 | 2024-07-05 |
@@ -74,6 +77,7 @@
 | [לא ראיתי את זה בא](https://open.spotify.com/track/1qHcRVxZxq4MyWE8MhSniY) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [לא ראיתי את זה בא](https://open.spotify.com/album/1ghtrFUbk1sQbi7SPyw8EQ) | 3:02 | 2024-06-27 |  |
 | [לאן שלא תלכי](https://open.spotify.com/track/3rPk1CDOkmiqK24bN6JqWy) | [Shiri Maimon](https://open.spotify.com/artist/3giniJpo19Md4V5Plataq2), [Israel Philharmonic Orchestra](https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4) | [אלבום הופעה חיה 2024](https://open.spotify.com/album/1DP2VvrYu0TSOyWnB50BB1) | 4:02 | 2024-06-27 | 2024-07-12 |
 | [לבד בריבוע שלי](https://open.spotify.com/track/5UKO1yIfMVkqHl9tyNkEYQ) | [Amit Ben David](https://open.spotify.com/artist/63Xvb8GwHgWBzX2f8rSQab) | [לבד בריבוע שלי](https://open.spotify.com/album/08oJUESbmNJ3kqMOEKRYuk) | 2:57 | 2024-06-27 | 2024-07-12 |
+| [לבשלי](https://open.spotify.com/track/5LCOEEEI4aDjNfBIrJhCNB) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [לבשלי](https://open.spotify.com/album/3lxcUjGi3Z99XPFYpESvha) | 3:26 | 2024-08-29 |  |
 | [להרים](https://open.spotify.com/track/38F5Qet7NykRGvr3C7KDJR) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [להרים](https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC) | 2:15 | 2024-06-27 | 2024-08-23 |
 | [לופ](https://open.spotify.com/track/0yKwwFduTIFlNOGBgovLfl) | [אור כהן](https://open.spotify.com/artist/34yY1pp0GMv8sXqsaAHsBy) | [לופ](https://open.spotify.com/album/7BJdpfmJwWVKB1e2BcrobL) | 3:00 | 2024-07-11 |  |
 | [ללמוד לעוף](https://open.spotify.com/track/2hmKpvdywJSBEqHjIilPrE) | [Akiva](https://open.spotify.com/artist/308QpS53hDcYGZseJlXtma) | [ללמוד לעוף](https://open.spotify.com/album/7DyjXvf8jINRWV5mhxa83d) | 3:27 | 2024-06-27 |  |
@@ -116,6 +120,7 @@
 | [שקיעה אחת](https://open.spotify.com/track/0MDUrgxaOA7IY09paA32GR) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [שקיעה אחת](https://open.spotify.com/album/0cgEOfp2T7EusYhxxzkzF6) | 3:47 | 2024-08-22 |  |
 | [שקרים לבנים](https://open.spotify.com/track/2KPcdrTVHHNMtD0H9w4pRZ) | [Cohen](https://open.spotify.com/artist/0ernW3wpm2OCZ3CxnSB1YA), [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [הביתה](https://open.spotify.com/album/7ArN9Ei13udCT9yFeCFM98) | 2:53 | 2024-06-27 | 2024-07-05 |
 | [תברחי](https://open.spotify.com/track/7ARddgsTrs9n9iZdEErvGV) | [אליאב זוהר](https://open.spotify.com/artist/5hwdfRqm0A7u9z3LoTazVa) | [תברחי](https://open.spotify.com/album/3bT1bagjfOzz09sPRhyr5o) | 3:07 | 2024-08-22 |  |
+| [‎⁨כשזה נגמר](https://open.spotify.com/track/6j8JqkDNLwuEJdsIaDf5D3) | [Ron Buhnik](https://open.spotify.com/artist/0mFHr7lwZmiRqsuy6JCS2K) | [‎⁨כשזה נגמר](https://open.spotify.com/album/0Yfq0AxKYL7ZdnQu4xXSkh) | 3:03 | 2024-08-29 |  |
 | [⁠הכל עליי](https://open.spotify.com/track/07avaGrhcpGlhr47OrYJPj) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הכל עליי](https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8) | 3:14 | 2024-06-27 |  |
 | [⁠לא כועסת](https://open.spotify.com/track/0YXUNdW6mAhIo5Bf8CA1ic) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הכל עליי](https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8) | 2:18 | 2024-06-27 |  |
 

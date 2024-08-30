@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Anxiety (Studio Version)",
+        "url": "https://open.spotify.com/album/2PScTk2oVhIcsesSR3GV6t"
+      },
+      "artists": [
+        {
+          "name": "Alexxxasha",
+          "url": "https://open.spotify.com/artist/2Hk4G5DIhjKwVQrepXRViW"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188998,
+      "name": "Anxiety - Studio Version",
+      "url": "https://open.spotify.com/track/1yrEw57QtDeuuSGsOYbDkg"
+    },
+    {
+      "album": {
         "name": "BALLOUT",
         "url": "https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB"
       },
@@ -596,7 +614,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 131612,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/46QIU54LJWMnBTJ01Ylhex"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 140800,
       "name": "\u0414\u0430\u0439 \u041c\u043d\u0435 \u0428\u0430\u043d\u0441",
       "url": "https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA"
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 162037,
       "name": "\u041a\u0438\u0441 \u041a\u0438\u0441 \u041a\u0438\u0441",
       "url": "https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz"
@@ -5022,7 +5040,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
@@ -5672,7 +5690,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 139459,
       "name": "\u042f \u043d\u0435 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/3KWM2xT2wb0J4lUEjYrfJH"

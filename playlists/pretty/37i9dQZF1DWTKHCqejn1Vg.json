@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32403,
+  "num_followers": 32404,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -803,30 +803,6 @@
     {
       "added_at": "2024-08-15 03:05:24",
       "album": {
-        "name": "Luxury Flow",
-        "url": "https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 189823,
-      "name": "Mercedes (Feat. Leellamarz, Gist)",
-      "url": "https://open.spotify.com/track/2re0LAL6HYNgOjpQCh28rb"
-    },
-    {
-      "added_at": "2024-08-15 03:05:24",
-      "album": {
         "name": "MY RIDE",
         "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
       },
@@ -875,6 +851,30 @@
     {
       "added_at": "2024-08-15 03:05:24",
       "album": {
+        "name": "Luxury Flow",
+        "url": "https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 189823,
+      "name": "Mercedes (Feat. Leellamarz, Gist)",
+      "url": "https://open.spotify.com/track/2re0LAL6HYNgOjpQCh28rb"
+    },
+    {
+      "added_at": "2024-08-15 03:05:24",
+      "album": {
         "name": "savage",
         "url": "https://open.spotify.com/album/6VmdIvbJsb9ScZHox6jzoW"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-15 03:05:24",
       "album": {
-        "name": "DEAR A.I",
-        "url": "https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy"
-      },
-      "artists": [
-        {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
-        }
-      ],
-      "duration_ms": 149308,
-      "name": "dear a.i",
-      "url": "https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe"
-    },
-    {
-      "added_at": "2024-08-15 03:05:24",
-      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 213000,
       "name": "I want to (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+    },
+    {
+      "added_at": "2024-08-15 03:05:24",
+      "album": {
+        "name": "DEAR A.I",
+        "url": "https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 149308,
+      "name": "dear a.i",
+      "url": "https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe"
     },
     {
       "added_at": "2024-08-15 03:05:24",

@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 135150,
+  "num_followers": 135181,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/3JeO8a3yK04LAQAnd4maQT"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        }
-      ],
-      "duration_ms": 260329,
-      "name": "Followers",
-      "url": "https://open.spotify.com/track/0Gv3ihO4EpSRwfDSbXEGEc"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/3JeO8a3yK04LAQAnd4maQT"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 260329,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/0Gv3ihO4EpSRwfDSbXEGEc"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Wind + Waves",
         "url": "https://open.spotify.com/album/3cbqGBcbTVqrRXiSgaNbAq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 248000,
       "name": "Wind + Waves",
       "url": "https://open.spotify.com/track/2VhspIZudDKIFjevS5tcWk"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
+      },
+      "artists": [
+        {
+          "name": "Rolling Hills Worship",
+          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
+        },
+        {
+          "name": "Jennifer Akers",
+          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
+        }
+      ],
+      "duration_ms": 235580,
+      "name": "Break Out - Studio Single",
+      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 211960,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4bWIOGHOtUP2RGFulZLFCo"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
-      },
-      "artists": [
-        {
-          "name": "Rolling Hills Worship",
-          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
-        },
-        {
-          "name": "Jennifer Akers",
-          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
-        }
-      ],
-      "duration_ms": 235580,
-      "name": "Break Out - Studio Single",
-      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -927,6 +927,30 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Father, Son and Holy Ghost",
+        "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
+      },
+      "artists": [
+        {
+          "name": "Ocean & The Ghost",
+          "url": "https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 245248,
+      "name": "Father, Son and Holy Ghost",
+      "url": "https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Surrounded (Fight My Battles)",
         "url": "https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 250360,
       "name": "Lay My Life Down",
       "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Father, Son and Holy Ghost",
-        "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
-      },
-      "artists": [
-        {
-          "name": "Ocean & The Ghost",
-          "url": "https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "duration_ms": 245248,
-      "name": "Father, Son and Holy Ghost",
-      "url": "https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "[welcome to the garden]",
-        "url": "https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu"
-      },
-      "artists": [
-        {
-          "name": "All Creatures",
-          "url": "https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "[welcome to the garden]",
-      "url": "https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Dancing Through The Fire",
         "url": "https://open.spotify.com/album/70mUNBqDVM7pQKhEeOAU3i"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 191071,
       "name": "Dancing Through The Fire",
       "url": "https://open.spotify.com/track/6lNqZ2EPOdrBqeM5zrFrpT"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "[welcome to the garden]",
+        "url": "https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu"
+      },
+      "artists": [
+        {
+          "name": "All Creatures",
+          "url": "https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "[welcome to the garden]",
+      "url": "https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK"
     },
     {
       "added_at": "2024-06-25 03:27:03",

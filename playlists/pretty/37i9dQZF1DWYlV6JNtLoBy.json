@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 5771,
+  "num_followers": 5773,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Jesus Music",
         "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 219879,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -839,6 +823,22 @@
       "duration_ms": 304757,
       "name": "Abandoned - Original",
       "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 219879,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "All Along",
-        "url": "https://open.spotify.com/album/77WsuRa6qXxutGWSW8RxT9"
+        "name": "Hopeful Hearts Club",
+        "url": "https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 189400,
-      "name": "All Along",
-      "url": "https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI"
+      "duration_ms": 400108,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
     }
   ],
   "unique_name": "Sunday Service",

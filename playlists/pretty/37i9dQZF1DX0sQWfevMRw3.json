@@ -1,15 +1,15 @@
 {
   "description": "VI DRICKER CAVA APER\u00c5\u00c5\u00c5L!!",
-  "num_followers": 168480,
+  "num_followers": 168485,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZswuQAAAAAD3xpqrwzTWTvzSO5yRXV9Z",
+  "snapshot_id": "ZtDvYAAAAAA+Vtglu0CSQH6nW09XGnrq",
   "tracks": [
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sunnanvind \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Salut - Sped Up Remix",
         "url": "https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "SK\u00c5L",
+        "url": "https://open.spotify.com/album/5QXRsdIYdWEscrz6wfkqF8"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "SK\u00c5L",
+      "url": "https://open.spotify.com/track/3yDORR5PhoKA4qiCQgj2pG"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sommaren i City (J.O.X Remix)",
         "url": "https://open.spotify.com/album/1ZyFzt5WRBP91HukhcpxYI"
@@ -65,7 +81,83 @@
       "url": "https://open.spotify.com/track/3mhObEHNGu5U3HbqhXbxJ1"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Viva La Vida",
+        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Myggen tonight",
+        "url": "https://open.spotify.com/album/5vG01tKIDdokA5E41uhZPg"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "duration_ms": 146062,
+      "name": "Myggen tonight",
+      "url": "https://open.spotify.com/track/38fpPUeN4ezdbPqq9pDN97"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "LOLLIPOP damp (Remix)",
+        "url": "https://open.spotify.com/album/7dIJJICp0lpLmbcmB97vdb"
+      },
+      "artists": [
+        {
+          "name": "STR\u00d6GPATRULLEN",
+          "url": "https://open.spotify.com/artist/1m78ax5pMX3SdETnUbWVTt"
+        },
+        {
+          "name": "DJ P\u00f8ssycat",
+          "url": "https://open.spotify.com/artist/66ntWKCgzPLbNgoZ5lTUmq"
+        }
+      ],
+      "duration_ms": 114857,
+      "name": "LOLLIPOP damp - Remix",
+      "url": "https://open.spotify.com/track/0kLRSE9ExKGOHrRXr9zBHj"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "VAKNAR",
+        "url": "https://open.spotify.com/album/0tmuWBdzlmOHvP5yAZ2WBE"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "VAKNAR",
+      "url": "https://open.spotify.com/track/3tCg3h03qAlnVBPysDuMW4"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "STAD I LJUS",
         "url": "https://open.spotify.com/album/46BMYtskic5x0EyIGb6uBW"
@@ -85,39 +177,7 @@
       "url": "https://open.spotify.com/track/4EHf5UbCLV32VDlOADJhhP"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Viva La Vida",
-        "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Tio Glas Tequila",
-        "url": "https://open.spotify.com/album/2O9FtOqgo32TO4akHbFGYu"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "Tio Glas Tequila",
-      "url": "https://open.spotify.com/track/2Y8pfuI8RhR1D5apJnskwG"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/4IGbqJswvaRqouCxEaUbN8"
@@ -137,23 +197,7 @@
       "url": "https://open.spotify.com/track/3IDdIoyc1qnojBGCVrDKfN"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "JAG KOMMER",
-        "url": "https://open.spotify.com/album/7MJZPjvqSlgS50w2Qe9Qnh"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        }
-      ],
-      "duration_ms": 174807,
-      "name": "JAG KOMMER",
-      "url": "https://open.spotify.com/track/0SIjGBXIKhJwB4f39SQMne"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "TEDDYBJ\u00d6RNEN FREDRIKSSON",
         "url": "https://open.spotify.com/album/3OHMELWbzX7s76wFO4hVzi"
@@ -173,7 +217,31 @@
       "url": "https://open.spotify.com/track/3SaKQVz2hchooci2K9Pff5"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "LIGGA HELA TIDEN",
+        "url": "https://open.spotify.com/album/2bJl3MmDfenDs3C61mV1S4"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Banditerna",
+          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
+        }
+      ],
+      "duration_ms": 142275,
+      "name": "LIGGA HELA TIDEN",
+      "url": "https://open.spotify.com/track/4yhz54d8lpL46KmrqS06oN"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sista best\u00e4llningen",
         "url": "https://open.spotify.com/album/2LVLwT0uUIHCwIpCsHWmRv"
@@ -193,7 +261,7 @@
       "url": "https://open.spotify.com/track/5Z5IFJeC9FAFHS36GI5B8q"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "KALSARIK\u00c4NNIT",
         "url": "https://open.spotify.com/album/2iswHxyt2jlkRokHWJMP1Z"
@@ -213,7 +281,7 @@
       "url": "https://open.spotify.com/track/2gjeqWOa16peVRSoAOtXxB"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "F.F.F.",
         "url": "https://open.spotify.com/album/1eoTeEVPkVMyJSBXU3tbsY"
@@ -237,7 +305,27 @@
       "url": "https://open.spotify.com/track/1P8daHkXA1EGdRoAPy6LCA"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Gnagaredalen (J.O.X Remix)",
+        "url": "https://open.spotify.com/album/6H9C7wXmC3hPz3UNaV0x74"
+      },
+      "artists": [
+        {
+          "name": "Tim Liljegren",
+          "url": "https://open.spotify.com/artist/0SKbilK5Qd2QgZWCI7qzVF"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "duration_ms": 150721,
+      "name": "Gnagaredalen (J.O.X Remix)",
+      "url": "https://open.spotify.com/track/5fW313jb2p9u3GMjzJpCSv"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Hot Hot Amore",
         "url": "https://open.spotify.com/album/7zHlaelgC24QiiV8o4uE3o"
@@ -253,7 +341,7 @@
       "url": "https://open.spotify.com/track/4tO8H2gRdR2R6faVm3i0gu"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "S\u00f6rb\u00e4ckenkartellen",
         "url": "https://open.spotify.com/album/6zAukiIRVPHgYhoM7rCOAT"
@@ -269,7 +357,43 @@
       "url": "https://open.spotify.com/track/6Z9wEtCQtq0XSUAUL80lyJ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "JAG KOMMER",
+        "url": "https://open.spotify.com/album/7MJZPjvqSlgS50w2Qe9Qnh"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "duration_ms": 174807,
+      "name": "JAG KOMMER",
+      "url": "https://open.spotify.com/track/0SIjGBXIKhJwB4f39SQMne"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "K\u00c4RA LILLA V\u00c4N (Dum Dum)",
+        "url": "https://open.spotify.com/album/5FCYQ9uM35tvADBobAwCd2"
+      },
+      "artists": [
+        {
+          "name": "nanobii",
+          "url": "https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3"
+        },
+        {
+          "name": "M\u00e5lbrottet",
+          "url": "https://open.spotify.com/artist/2na3kX3dxagN7riWLfStdI"
+        }
+      ],
+      "duration_ms": 119906,
+      "name": "K\u00c4RA LILLA V\u00c4N (Dum Dum)",
+      "url": "https://open.spotify.com/track/4Veagou2Ptsos60Vs27IxD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sk\u00e5l d\u00e5!",
         "url": "https://open.spotify.com/album/1YDXfZdajinZBNWtbeH6jq"
@@ -289,7 +413,7 @@
       "url": "https://open.spotify.com/track/4wkAs7z0MoWPfWcxo0e0PZ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "TUSEN N\u00c5LAR",
         "url": "https://open.spotify.com/album/3WBOF10HYehEySNURAQAVu"
@@ -309,27 +433,7 @@
       "url": "https://open.spotify.com/track/5z0UllNPT2swlvfxB3r5S5"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "LOLLIPOP damp (Remix)",
-        "url": "https://open.spotify.com/album/7dIJJICp0lpLmbcmB97vdb"
-      },
-      "artists": [
-        {
-          "name": "STR\u00d6GPATRULLEN",
-          "url": "https://open.spotify.com/artist/1m78ax5pMX3SdETnUbWVTt"
-        },
-        {
-          "name": "DJ P\u00f8ssycat",
-          "url": "https://open.spotify.com/artist/66ntWKCgzPLbNgoZ5lTUmq"
-        }
-      ],
-      "duration_ms": 114857,
-      "name": "LOLLIPOP damp - Remix",
-      "url": "https://open.spotify.com/track/0kLRSE9ExKGOHrRXr9zBHj"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "HELA HUSET (REMIX)",
         "url": "https://open.spotify.com/album/1S2bA7rY8Kk7S8lGKIGbnk"
@@ -353,7 +457,23 @@
       "url": "https://open.spotify.com/track/11tf269cUjx9F8qDY9QCY9"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Tio Glas Tequila",
+        "url": "https://open.spotify.com/album/2O9FtOqgo32TO4akHbFGYu"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Tio Glas Tequila",
+      "url": "https://open.spotify.com/track/2Y8pfuI8RhR1D5apJnskwG"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "SALUT",
         "url": "https://open.spotify.com/album/5THfAWozZCbmmp85YTw6Zg"
@@ -373,7 +493,7 @@
       "url": "https://open.spotify.com/track/0Jab14UOkQmoEI3TD3dLoT"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "VILD REMIX",
         "url": "https://open.spotify.com/album/15YiwnIqBppC4yVypPf9GV"
@@ -389,7 +509,7 @@
       "url": "https://open.spotify.com/track/1JqS278L4nNTut3zOTeZI4"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "S\u00c5NG OM INGENTING",
         "url": "https://open.spotify.com/album/16715YItb4f098HSzmjkmN"
@@ -405,7 +525,7 @@
       "url": "https://open.spotify.com/track/4e97L7ZuaBbOnhpTPo8RGU"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "B\u00e6rum Bitches (Mannschaft)",
         "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
@@ -421,7 +541,7 @@
       "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Kalle Teodor",
         "url": "https://open.spotify.com/album/5R9eRWwDxa9x34P5jjCawD"
@@ -441,7 +561,7 @@
       "url": "https://open.spotify.com/track/2gHJ9W1tnqD6W9KvqSGJg8"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "FYLLESLAG",
         "url": "https://open.spotify.com/album/12JaVrePbM8phxWttBdWaJ"
@@ -465,27 +585,7 @@
       "url": "https://open.spotify.com/track/5aO5ZP4ZdoDCSNreRUZp2d"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "K\u00c4RA LILLA V\u00c4N (Dum Dum)",
-        "url": "https://open.spotify.com/album/5FCYQ9uM35tvADBobAwCd2"
-      },
-      "artists": [
-        {
-          "name": "nanobii",
-          "url": "https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3"
-        },
-        {
-          "name": "M\u00e5lbrottet",
-          "url": "https://open.spotify.com/artist/2na3kX3dxagN7riWLfStdI"
-        }
-      ],
-      "duration_ms": 119906,
-      "name": "K\u00c4RA LILLA V\u00c4N (Dum Dum)",
-      "url": "https://open.spotify.com/track/4Veagou2Ptsos60Vs27IxD"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "EN \u00d6L TILL",
         "url": "https://open.spotify.com/album/2VApD9nDmnX4zGzMDGPsdI"
@@ -505,7 +605,7 @@
       "url": "https://open.spotify.com/track/6f9urmmHmYJaQDTRRW66tE"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "FULLA",
         "url": "https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n"
@@ -525,7 +625,7 @@
       "url": "https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "GOLARE",
         "url": "https://open.spotify.com/album/5Tskvi6aCZ8fvoVyBaBCYL"
@@ -541,7 +641,7 @@
       "url": "https://open.spotify.com/track/018zXdvIp62D7xH7ZI66Di"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "SUPA KN*LLA BR\u00c5KA",
         "url": "https://open.spotify.com/album/6pWqYrUauwEAYg5plGBbxi"
@@ -557,7 +657,7 @@
       "url": "https://open.spotify.com/track/6tUKpK3R4NqjguyA0YINAn"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "BARBIE",
         "url": "https://open.spotify.com/album/4Ckj9l8WWgfZGZztOhrP6u"
@@ -577,7 +677,7 @@
       "url": "https://open.spotify.com/track/10AgukgXnYLKe9bJaWhiXB"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Ta mig till Dalarna",
         "url": "https://open.spotify.com/album/1BuJyzfXo9GgWWM2ZK2pxQ"
@@ -593,7 +693,7 @@
       "url": "https://open.spotify.com/track/6Yw67maLVGfCBNAwGUAC3r"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Bella Festa",
         "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
@@ -609,7 +709,7 @@
       "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "KOMPLICERAD",
         "url": "https://open.spotify.com/album/3zdWPYriAEofO8dgqK1nMt"
@@ -629,7 +729,7 @@
       "url": "https://open.spotify.com/track/349aKbQCECEPrTbqIX6KY4"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "BARCELONA (demz & Kattastrof Remix)",
         "url": "https://open.spotify.com/album/4EaIQvbht2Wb71rRobi4Y8"
@@ -653,7 +753,7 @@
       "url": "https://open.spotify.com/track/6edwvp0RXv0sBkGd6Wd9gk"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "En gammal Amazon EPA-EP",
         "url": "https://open.spotify.com/album/34sd8bFA7u1yMxM92XQkzd"
@@ -673,7 +773,7 @@
       "url": "https://open.spotify.com/track/7DiLlhGaHdTs1lSUdd91A2"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Vart jag mig i v\u00e4rlden v\u00e4nder",
         "url": "https://open.spotify.com/album/4c8pS7kBvjdtFflSACSa8W"
@@ -689,7 +789,7 @@
       "url": "https://open.spotify.com/track/44fNP9LeE4wdLNA2QV3Ogg"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Inget stoppar oss nu",
         "url": "https://open.spotify.com/album/1la673tluSYEDoPNQ2Tv3S"
@@ -705,7 +805,7 @@
       "url": "https://open.spotify.com/track/3kPAb7PtWBL4nPcNZrjtdn"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "MIDSOMMARSOL",
         "url": "https://open.spotify.com/album/6477868XVzl7I7cIU6R3Zd"
@@ -729,7 +829,7 @@
       "url": "https://open.spotify.com/track/6gppqZzdAJHSjzCFsvYbjI"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "B\u00e4sta kebaben i hela stan",
         "url": "https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2"
@@ -745,7 +845,7 @@
       "url": "https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sommartider",
         "url": "https://open.spotify.com/album/4XQor9jR3Z8cEn2riwChCe"
@@ -761,7 +861,7 @@
       "url": "https://open.spotify.com/track/36CXEaKLZVm1IgLTCgvgwI"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Ska vi dricka idag? (DUNK EDIT)",
         "url": "https://open.spotify.com/album/7tmXnrWVA7DYLSiaLgmxZi"
@@ -785,7 +885,7 @@
       "url": "https://open.spotify.com/track/1fBWRiHYbOSZAuAxiFIISR"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "SHOTTAR",
         "url": "https://open.spotify.com/album/7pZZr4edcYlh8oELkMX29Z"
@@ -805,7 +905,7 @@
       "url": "https://open.spotify.com/track/5tkMKe0th7W3ePWBliRRpv"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "30 KM/H",
         "url": "https://open.spotify.com/album/3nFLg2pkAqrTrK9JbySHny"
@@ -821,7 +921,7 @@
       "url": "https://open.spotify.com/track/5877bQq4QOaIYvwo9LtmVB"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "UNGA & FRIA REMIX",
         "url": "https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX"
@@ -841,7 +941,7 @@
       "url": "https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "P\u00e4rlor",
         "url": "https://open.spotify.com/album/0rzS7oLIjTS7Tm8KJPumA0"
@@ -857,7 +957,7 @@
       "url": "https://open.spotify.com/track/1gMVQ7wPBapz5yybE4bfxG"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "\u00c4lskade \u00e4ngel",
         "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
@@ -873,7 +973,7 @@
       "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "DR\u00c4NG & DALATJEJ",
         "url": "https://open.spotify.com/album/0ZmFUnH0eKgMuqXVgc484a"
@@ -897,7 +997,7 @@
       "url": "https://open.spotify.com/track/7MbKcLFNbItMf9CwQo1mzN"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "F\u00d6R DIN SKULL",
         "url": "https://open.spotify.com/album/7rlpzjQW5MNSA0cv7IaRUI"
@@ -913,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6253fGfXqiqp4NKWgWmKOa"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Karusellen",
         "url": "https://open.spotify.com/album/0BTgGTWj3TXA9hTsU7OSvw"
@@ -933,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0DqtvcaSSNkvfTZbRtKMBO"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Bumbibj\u00f6rnarna - H\u00e4r kommer Bumbibj\u00f6rnarna - Fr\u00e5n \"Bumbibj\u00f6rnarna\"",
         "url": "https://open.spotify.com/album/0CLi3NBCGOF3VFdAhZC3ZD"
@@ -949,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5oTm685TWibdhPGLKgezPe"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "STUDENTEN (Hardstyle)",
         "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
@@ -969,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Funny Bunny",
         "url": "https://open.spotify.com/album/47MgVTqk5A46PCrF4TWacU"
@@ -993,7 +1093,7 @@
       "url": "https://open.spotify.com/track/17dij4IVZTlTOC0eHpBgOG"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Om du var min",
         "url": "https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp"
@@ -1013,7 +1113,7 @@
       "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Greta Thunberg",
         "url": "https://open.spotify.com/album/0gDJyg276NTvKVm1LR6Yqe"
@@ -1029,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4mskXDDAZA0C7p03mPZ5UD"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Ayia Napa 2024",
         "url": "https://open.spotify.com/album/6VjOZApRj8SshfhTx82HYQ"
@@ -1045,7 +1145,7 @@
       "url": "https://open.spotify.com/track/58vENLCxezWIAANBgyjEsG"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "N\u00c4R VI TV\u00c5 BLIR EN",
         "url": "https://open.spotify.com/album/29T2S1whLE35CYOtBsCfMy"
@@ -1061,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3ltrPjhN9HFbA3c1hKIF1E"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Jeg vil ha (Parlamentet)",
         "url": "https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG"
@@ -1081,7 +1181,7 @@
       "url": "https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Dunka dunka",
         "url": "https://open.spotify.com/album/1mmgbzT6PICTGNA115DW91"
@@ -1097,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5HycGZ1YHfUd8aLl7afEyv"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "R\u00f6dvin & Ros\u00e9",
         "url": "https://open.spotify.com/album/6qbjzSLFcxqdcC8ma77Hxt"
@@ -1117,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1VeSJ9PVCutdTMPn4sFpzo"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Vill du ligga med mig?",
         "url": "https://open.spotify.com/album/28Yx21lCggDG8zHqTowMN3"
@@ -1133,7 +1233,7 @@
       "url": "https://open.spotify.com/track/540Daxp4wDamokVFvU6qa2"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "LAVISH 2.0",
         "url": "https://open.spotify.com/album/3OJbjh0eUKgupup6Hsx8A0"
@@ -1149,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6HhMBB9ALXKnRn6ZsVdIFD"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Om du vill (J.O.X Remix)",
         "url": "https://open.spotify.com/album/19MHAGESlf6je7cc8PTOoc"
@@ -1169,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6pjS1WqmHn1vkF5ZseaDMj"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Bra vibrationer (Du ger mig bra vibrationer)",
         "url": "https://open.spotify.com/album/7MftN1s52kgvGJQpfeak53"
@@ -1185,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0NG4MkcDRdtq3YuttON5W7"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "VAR SKA VI SOVA INATT",
         "url": "https://open.spotify.com/album/4fBeuFglO5XC1HBz4DFaTX"
@@ -1209,7 +1309,7 @@
       "url": "https://open.spotify.com/track/7A69TKqddxlN2XmJcEFG76"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Do Wah Diddy Diddy",
         "url": "https://open.spotify.com/album/0ESlXyC5xb24wUoTRLhMCk"
@@ -1225,7 +1325,7 @@
       "url": "https://open.spotify.com/track/31FCjDzPxVgG9fxkq9kIIA"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "UNGA & FRIA",
         "url": "https://open.spotify.com/album/07w87eimESXFgxpCI191vp"
@@ -1241,7 +1341,7 @@
       "url": "https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "34:an",
         "url": "https://open.spotify.com/album/3vmZSW7ZfQB3UAPTOIW1od"
@@ -1257,31 +1357,7 @@
       "url": "https://open.spotify.com/track/3boRJTCXt9D0MVaDdMyD0r"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "TRUCKER MOTHERFUCKER",
-        "url": "https://open.spotify.com/album/12b3VQAefRu3rAFj0uZwdC"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        },
-        {
-          "name": "Sofie Svensson & Dom D\u00e4r",
-          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
-        },
-        {
-          "name": "K\u00e5ren",
-          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
-        }
-      ],
-      "duration_ms": 203100,
-      "name": "TRUCKER MOTHERFUCKER",
-      "url": "https://open.spotify.com/track/2a6NdKqYB9CaMT2yfiXZnE"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Ack & Ve",
         "url": "https://open.spotify.com/album/68Oeh95n0MYYZeh077nyrT"
@@ -1297,23 +1373,7 @@
       "url": "https://open.spotify.com/track/2SuiLdrioZx12G7lwCLRbX"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "IN MED EN PRILLA",
-        "url": "https://open.spotify.com/album/518DYZMBB8fLL3E8HKIMNR"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        }
-      ],
-      "duration_ms": 130104,
-      "name": "IN MED EN PRILLA",
-      "url": "https://open.spotify.com/track/4HgBgnmaUUKxMoQIxrslHZ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "En kv\u00e4ll i juni",
         "url": "https://open.spotify.com/album/0TUPgGfCErUTV02ZRtXlLl"
@@ -1333,7 +1393,7 @@
       "url": "https://open.spotify.com/track/60fffK6XCHdFBjOv8TFJiW"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "DUM I HUVET",
         "url": "https://open.spotify.com/album/5Q81CbNdICrpq0KMrNKCts"
@@ -1357,7 +1417,7 @@
       "url": "https://open.spotify.com/track/2JjQCaKmPM0oNkZdftKV8m"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "MIN ST\u00d6RSTA F\u00d6RSTA K\u00c4RLEK",
         "url": "https://open.spotify.com/album/6wIdqsXhdj8Oy4Welh6RIC"
@@ -1373,7 +1433,7 @@
       "url": "https://open.spotify.com/track/46O0UcUAkwwEGIT2rKL2IH"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "VEM FAN E DU?",
         "url": "https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT"
@@ -1393,7 +1453,7 @@
       "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Dunka",
         "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
@@ -1413,7 +1473,7 @@
       "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "ALLA F\u00c5R KOMMA",
         "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
@@ -1437,7 +1497,7 @@
       "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Sommarn\u00e4tter",
         "url": "https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu"
@@ -1457,7 +1517,7 @@
       "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Yodelay",
         "url": "https://open.spotify.com/album/5ijxe17pfiHSNYIAPW6rML"
@@ -1473,7 +1533,7 @@
       "url": "https://open.spotify.com/track/2mfhh3XZkKwoBGjQv2nAkX"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "I DON'T GIVE A FUCK",
         "url": "https://open.spotify.com/album/07FK5G4pfR88kf56brq5Ue"
@@ -1489,7 +1549,7 @@
       "url": "https://open.spotify.com/track/4woyNAxnzQdaZFvB8BZUpm"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Hatar mig",
         "url": "https://open.spotify.com/album/5lwn8lZwWRbm3iPcRACiRM"
@@ -1505,7 +1565,7 @@
       "url": "https://open.spotify.com/track/6LbRmYMXgUx5hI8bo3EIXj"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Vi ska aldrig hem",
         "url": "https://open.spotify.com/album/4gZQ6hiaNkLvS9TEJMUCHr"
@@ -1525,7 +1585,7 @@
       "url": "https://open.spotify.com/track/5rRP5f90sxhDnexjoT6HAb"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Dansa i neon (N!NE Remix)",
         "url": "https://open.spotify.com/album/5pJ4KqdvoYHSVCCb2pEiB2"
@@ -1545,47 +1605,7 @@
       "url": "https://open.spotify.com/track/08JMkiJUfrHbd0cKM63Vjd"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "SKITER I DIN DALAH\u00c4ST (Greta Tuborg Remix)",
-        "url": "https://open.spotify.com/album/4BuddnRvdrsOyD9o38MzgT"
-      },
-      "artists": [
-        {
-          "name": "Greta Tuborg",
-          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
-        },
-        {
-          "name": "FESTEN",
-          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
-        },
-        {
-          "name": "Pappa Paavo",
-          "url": "https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2"
-        }
-      ],
-      "duration_ms": 123176,
-      "name": "SKITER I DIN DALAH\u00c4ST - Greta Tuborg Remix",
-      "url": "https://open.spotify.com/track/1dEkcEWOANqUbwJYPUrhRt"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Farv\u00e4l",
-        "url": "https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 158507,
-      "name": "Farv\u00e4l",
-      "url": "https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "En birra har aldrig",
         "url": "https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r"
@@ -1601,7 +1621,7 @@
       "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Fakk dig \u00e4lskling",
         "url": "https://open.spotify.com/album/6LuncoRMdrLvDPAbzD5KW3"
@@ -1617,47 +1637,7 @@
       "url": "https://open.spotify.com/track/5aTc2p4FjhVpKcMDIIBtLN"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Caramelldansen",
-        "url": "https://open.spotify.com/album/1T0okEHDf6UivFaFTD4ciY"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        },
-        {
-          "name": "DJ BERIT",
-          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
-        }
-      ],
-      "duration_ms": 122181,
-      "name": "Caramelldansen",
-      "url": "https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Hon vill ha mig",
-        "url": "https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq"
-      },
-      "artists": [
-        {
-          "name": "TUAI",
-          "url": "https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR"
-        }
-      ],
-      "duration_ms": 139116,
-      "name": "Hon vill ha mig",
-      "url": "https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "VD",
         "url": "https://open.spotify.com/album/5UUhmLW0lDnqXGGUjt79TG"
@@ -1681,7 +1661,7 @@
       "url": "https://open.spotify.com/track/2n6diDbOJs2UGMYY4qKwV2"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "ALLA H\u00c4STAR HEMMA",
         "url": "https://open.spotify.com/album/4gfkoYcYMvei914AofHTQc"
@@ -1709,7 +1689,7 @@
       "url": "https://open.spotify.com/track/3D3GxH1lxyqHNvRXlqAuS4"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "LYSSNA P\u00c5 DANSBAND",
         "url": "https://open.spotify.com/album/0oaIlZp9PCHir7mnNyic3Q"
@@ -1729,7 +1709,7 @@
       "url": "https://open.spotify.com/track/7j3PRUN9gcgcRsxCDfseCU"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "KAOS",
         "url": "https://open.spotify.com/album/5j4dCqg9Wh5RZzkYJHWDGd"
@@ -1753,7 +1733,7 @@
       "url": "https://open.spotify.com/track/6Bkp5yMtYhN0qSSUP0pmxk"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "K\u00f6r Ba' K\u00f6r",
         "url": "https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK"
@@ -1773,7 +1753,7 @@
       "url": "https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "FREAKS (VIP MIX)",
         "url": "https://open.spotify.com/album/3xQRGoJZKVnbelaIY9llPg"
@@ -1789,7 +1769,7 @@
       "url": "https://open.spotify.com/track/22gcIJWHWYl06UG8J4bIqX"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "PSYKOPAT",
         "url": "https://open.spotify.com/album/3LrERkehZNXq8YsN2HowHo"
@@ -1805,7 +1785,7 @@
       "url": "https://open.spotify.com/track/513HKBUyCIwv1zXOLmEYCM"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz"
@@ -1821,7 +1801,7 @@
       "url": "https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "VIVA LA GUNILLA (MADNEZZ SPED UP REMIX)",
         "url": "https://open.spotify.com/album/28wCPnkNDu3xBwHTSy44iH"
@@ -1841,7 +1821,7 @@
       "url": "https://open.spotify.com/track/1lFbLg9oKO5F0XZ9zWqKJl"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Soffa fr\u00e5n IKEA",
         "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
@@ -1861,7 +1841,7 @@
       "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "V\u00e4lkommen ner",
         "url": "https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN"
@@ -1877,7 +1857,7 @@
       "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "GAMMAL I GEMET",
         "url": "https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz"
@@ -1893,7 +1873,7 @@
       "url": "https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "EN G\u00c5NG TILL",
         "url": "https://open.spotify.com/album/3yu6mnpWIbRyYmddifko1A"

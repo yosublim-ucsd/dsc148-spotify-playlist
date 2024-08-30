@@ -805,6 +805,28 @@
     },
     {
       "album": {
+        "name": "i WoRsHiP - Live",
+        "url": "https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV"
+      },
+      "artists": [
+        {
+          "name": "Promise Benson",
+          "url": "https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28"
+        },
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428760,
+      "name": "i WoRsHiP - Live",
+      "url": "https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf"
+    },
+    {
+      "album": {
         "name": "Izulu",
         "url": "https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0"
       },
@@ -1894,6 +1916,50 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "album": {
+        "name": "When We Praise - Live",
+        "url": "https://open.spotify.com/album/2FtpYQeSNgU8BA4MhgvkdZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        },
+        {
+          "name": "Revival Today Worship",
+          "url": "https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344946,
+      "name": "When We Praise - Live",
+      "url": "https://open.spotify.com/track/0ywYHxQ0Yq7ILuK0bxj9uW"
+    },
+    {
+      "album": {
+        "name": "WO NKYEN",
+        "url": "https://open.spotify.com/album/4uNt01HdxLnW29Ptqn6GtC"
+      },
+      "artists": [
+        {
+          "name": "DOXA WAVE GH",
+          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+        },
+        {
+          "name": "Felicia Sarfo",
+          "url": "https://open.spotify.com/artist/3P1uB9Vb9lBVnTHsXIB7eq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336502,
+      "name": "WO NKYEN",
+      "url": "https://open.spotify.com/track/5DLa96rKO72NOOMnTFk53N"
     },
     {
       "album": {

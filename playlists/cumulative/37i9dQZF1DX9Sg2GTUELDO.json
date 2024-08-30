@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover:   Sabrina Cheung \u5f35\u8513\u838e",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover:  Leah Doh (\u7ac7\u9756\u7ae5)",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "California Baby",
+        "url": "https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY"
+      },
+      "artists": [
+        {
+          "name": "Leah Dou",
+          "url": "https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208097,
+      "name": "California Baby",
+      "url": "https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv"
+    },
+    {
+      "album": {
         "name": "Call My Name! (COLLAR214 ver.)",
         "url": "https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao"
       },
@@ -536,6 +554,24 @@
       "duration_ms": 142800,
       "name": "devilsdisstrack",
       "url": "https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N"
+    },
+    {
+      "album": {
+        "name": "DiDiDiva",
+        "url": "https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u6b63",
+          "url": "https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "DiDiDiva",
+      "url": "https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm"
     },
     {
       "album": {
@@ -2098,6 +2134,24 @@
       "duration_ms": 274755,
       "name": "\u4e00\u4eba\u4e4b\u4e0b",
       "url": "https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u6e38\u751f\u7269",
+        "url": "https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy"
+      },
+      "artists": [
+        {
+          "name": "\u96f7\u540c\u4e8c\u53cb",
+          "url": "https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197232,
+      "name": "\u4e00\u500b\u4eba\u884c\u8857",
+      "url": "https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6"
     },
     {
       "album": {

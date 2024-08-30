@@ -832,7 +832,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 201000,
       "name": "Adapt",
       "url": "https://open.spotify.com/track/0T7rom3oHCZWb9Wnl7gZ66"
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 177680,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/0dlUi4CQU8Xb7SzKvWRhiG"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 163200,
       "name": "coco freestyle",
       "url": "https://open.spotify.com/track/0PRduxqXvtIlqGoFuQrJzQ"
@@ -5667,6 +5667,28 @@
     },
     {
       "album": {
+        "name": "EXPRESS",
+        "url": "https://open.spotify.com/album/7805X9EzHV0FNXaLQAkjaY"
+      },
+      "artists": [
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "EXPRESS",
+      "url": "https://open.spotify.com/track/3s66CjZ1flfIbIch29B8b4"
+    },
+    {
+      "album": {
         "name": "F*ck School",
         "url": "https://open.spotify.com/album/3Vjg3DZHH0feE6wliz2i9V"
       },
@@ -5744,6 +5766,24 @@
       "duration_ms": 207891,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7sqwJzIs9H5wPVPnqKur9J"
+    },
+    {
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/1nFW79FDopOgoD5kLDkWAH"
+      },
+      "artists": [
+        {
+          "name": "Bene Baby",
+          "url": "https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151615,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/79BQ3fqaZgZKaiJPOuQFzG"
     },
     {
       "album": {
@@ -10610,7 +10650,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 200571,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/6V50gW198R69Yi7N9ix5fc"
@@ -11538,7 +11578,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154650,
       "name": "More Better Life",
       "url": "https://open.spotify.com/track/0LBwVTc59vhCUdFhjK3IvF"
@@ -12258,6 +12298,24 @@
       "duration_ms": 283222,
       "name": "Neon - Fully Active Ver.",
       "url": "https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/7lPGICXH9HXAE45wrgPhIl"
+      },
+      "artists": [
+        {
+          "name": "Loota",
+          "url": "https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/3OIebIcy0cm6Xl5wMsYmnV"
     },
     {
       "album": {
@@ -16706,7 +16764,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 175015,
       "name": "Skywalk",
       "url": "https://open.spotify.com/track/4ljoxev9H7iaTvWaC6H5ys"
@@ -18284,6 +18342,24 @@
       "duration_ms": 130909,
       "name": "Tissue",
       "url": "https://open.spotify.com/track/5ckdzHXECs4ij5mYl0V4RJ"
+    },
+    {
+      "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/1q7UQDNZ54fUm9RylYYsOW"
+      },
+      "artists": [
+        {
+          "name": "ARuM",
+          "url": "https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176932,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/7uu9sitndlTCyWZ3ad9RhO"
     },
     {
       "album": {
@@ -20089,6 +20165,28 @@
     },
     {
       "album": {
+        "name": "World is Ours",
+        "url": "https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212168,
+      "name": "World is Ours",
+      "url": "https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv"
+    },
+    {
+      "album": {
         "name": "Revive",
         "url": "https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B"
       },
@@ -21410,6 +21508,32 @@
       "duration_ms": 161155,
       "name": "\u30d9\u30b9\u30c8\u30c6\u30f3",
       "url": "https://open.spotify.com/track/1gRSHbFFmceJLjIeXqnBG9"
+    },
+    {
+      "album": {
+        "name": "SEASON 1",
+        "url": "https://open.spotify.com/album/61aVWzgZCsNgFWGCRmO09C"
+      },
+      "artists": [
+        {
+          "name": "5278",
+          "url": "https://open.spotify.com/artist/4lobdaLMOWVqvGjhel5S9m"
+        },
+        {
+          "name": "Chouji",
+          "url": "https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u30db\u30b0\u30b7\u30fc\u30ce",
+      "url": "https://open.spotify.com/track/06mnIrCzmX1xBbEJ9GsfnN"
     },
     {
       "album": {

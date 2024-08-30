@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Silmarils",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : The Odds",
   "name": "Volume France",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 175304,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/4e3KUQvGL2RdTEtlhfHz8e"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166000,
       "name": "Big Sleep",
       "url": "https://open.spotify.com/track/1u5prQkmTzUuLGzeItIo1W"
@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Kiss Of Death",
+        "url": "https://open.spotify.com/album/2rkxdVv17cqa3IvfhdrbBd"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175084,
+      "name": "Kiss Of Death",
+      "url": "https://open.spotify.com/track/3OYp1OJFwgv3gNzqG2Dq7X"
+    },
+    {
+      "album": {
         "name": "Knife Edge",
         "url": "https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5"
       },
@@ -2127,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Danse Animale",
+        "url": "https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH"
+      },
+      "artists": [
+        {
+          "name": "The Odds",
+          "url": "https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158439,
+      "name": "Le D\u00e9tail - Radio Edit",
+      "url": "https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR"
+    },
+    {
+      "album": {
         "name": "Superspectives",
         "url": "https://open.spotify.com/album/6OFWJChBYs4oF6f8V2V5Ow"
       },
@@ -2196,6 +2232,24 @@
       "duration_ms": 213560,
       "name": "Liminal Status",
       "url": "https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk"
+    },
+    {
+      "album": {
+        "name": "Lona",
+        "url": "https://open.spotify.com/album/2K3PORwKw6TTEh3zQBkQRZ"
+      },
+      "artists": [
+        {
+          "name": "SEX SHOP MUSHROOMS",
+          "url": "https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256588,
+      "name": "Lona",
+      "url": "https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9"
     },
     {
       "album": {
@@ -2541,6 +2595,28 @@
     },
     {
       "album": {
+        "name": "No Pain No Gain feat. B-Real",
+        "url": "https://open.spotify.com/album/3o4pbNKZn4220UQ89KT6hA"
+      },
+      "artists": [
+        {
+          "name": "Silmarils",
+          "url": "https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165560,
+      "name": "No Pain No Gain feat. B-Real - Single Version",
+      "url": "https://open.spotify.com/track/7HISRKMsn555stFqyn0gxA"
+    },
+    {
+      "album": {
         "name": "No Way Back",
         "url": "https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi"
       },
@@ -2660,7 +2736,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204280,
       "name": "Oublie-Moi",
       "url": "https://open.spotify.com/track/0WGptJ1qOflBWrp4xO5vhX"
@@ -3474,7 +3550,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 157687,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/49CZ9ovDlZniGnEHybxJmz"

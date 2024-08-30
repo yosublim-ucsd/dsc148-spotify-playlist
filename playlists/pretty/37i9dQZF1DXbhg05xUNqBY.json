@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 349983,
+  "num_followers": 349958,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Morning / Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Psalm 42 (Loudest Praise)",
-        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+        "name": "Morning / Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
         }
       ],
-      "duration_ms": 355820,
-      "name": "Psalm 42 (Loudest Praise)",
-      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -411,6 +395,22 @@
       "duration_ms": 193558,
       "name": "No Hopeless Soul - Unplugged",
       "url": "https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Psalm 42 (Loudest Praise)",
+        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 355820,
+      "name": "Psalm 42 (Loudest Praise)",
+      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "You Are My Salvation",
         "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 247000,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "With My Lips",
+        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "With My Lips",
+      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -655,18 +671,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "With My Lips",
-        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 218920,
-      "name": "With My Lips",
-      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -687,22 +703,6 @@
       "duration_ms": 187124,
       "name": "Valley - CalledOut Music Remix",
       "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
-      },
-      "artists": [
-        {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Like A Kid",
-      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Feel Holy",
         "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Like A Kid",
+      "url": "https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Simple as That",
-        "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
-      },
-      "artists": [
-        {
-          "name": "Kevin Jones",
-          "url": "https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "The Thank You Song",
-      "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "I Don't Have Much (Acoustic)",
         "url": "https://open.spotify.com/album/1NWhJAP7xaX57Vu8LXIn3m"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 259875,
       "name": "I Don't Have Much - Acoustic",
       "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Simple as That",
+        "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jones",
+          "url": "https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "The Thank You Song",
+      "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "The Joy of Being Together (Live)",
         "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "For The Ones We Love",
         "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
       },
@@ -1283,54 +1283,6 @@
       "duration_ms": 209760,
       "name": "For The Ones We Love",
       "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Nothing but the Blood of Jesus",
-        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
-      },
-      "artists": [
-        {
-          "name": "Lou Fellingham",
-          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "JUBILATION",
-        "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
-      },
-      "artists": [
-        {
-          "name": "David & Nicole Binion",
-          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
-        }
-      ],
-      "duration_ms": 410365,
-      "name": "Eden Restored - Live",
-      "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Rushing",
-      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1355,18 +1307,50 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "All That's Within Me",
-        "url": "https://open.spotify.com/album/0G540OblZR8UExYceYVkJr"
+        "name": "Nothing but the Blood of Jesus",
+        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
       },
       "artists": [
         {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+          "name": "Lou Fellingham",
+          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
         }
       ],
-      "duration_ms": 255468,
-      "name": "All That's Within Me",
-      "url": "https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR"
+      "duration_ms": 313146,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "JUBILATION",
+        "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
+      },
+      "artists": [
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        }
+      ],
+      "duration_ms": 410365,
+      "name": "Eden Restored - Live",
+      "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1391,6 +1375,22 @@
       "duration_ms": 289230,
       "name": "It Is I",
       "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "All That's Within Me",
+        "url": "https://open.spotify.com/album/0G540OblZR8UExYceYVkJr"
+      },
+      "artists": [
+        {
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+        }
+      ],
+      "duration_ms": 255468,
+      "name": "All That's Within Me",
+      "url": "https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Say It to Me",
-        "url": "https://open.spotify.com/album/3L3ZunAuiUarewm4DaXpov"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Say It to Me",
-      "url": "https://open.spotify.com/track/2IOUikbbBG14PykQuM2iKy"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 246052,
       "name": "Breathe - breathe version",
       "url": "https://open.spotify.com/track/2rFrYi2PmyirWybLIrAM2m"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Say It to Me",
+        "url": "https://open.spotify.com/album/3L3ZunAuiUarewm4DaXpov"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Say It to Me",
+      "url": "https://open.spotify.com/track/2IOUikbbBG14PykQuM2iKy"
     },
     {
       "added_at": "2024-07-26 09:52:44",

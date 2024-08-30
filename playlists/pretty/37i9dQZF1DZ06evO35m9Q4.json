@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 154306,
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "num_followers": 154353,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAABkoSZ4+jk3ZnC1f9SvUffd",
+  "snapshot_id": "Zs5ogAAAAAC253rB+F2ZNUExWUc6gNWy",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Lookin' out the Window",
-      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 236173,
       "name": "Chitlins Con Carne",
       "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Lookin' out the Window",
+      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Montreux 1982 & 1985",
-        "url": "https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 384506,
-      "name": "Ain't Gone 'N' Give up on Love - Live at Montreux Casino, Montreux, Switzerland - July 1985",
-      "url": "https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 323560,
       "name": "Say What!",
       "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Montreux 1982 & 1985",
+        "url": "https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 384506,
+      "name": "Ain't Gone 'N' Give up on Love - Live at Montreux Casino, Montreux, Switzerland - July 1985",
+      "url": "https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born Under A Bad Sign - Remastered 2024",
+        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 490006,
+      "name": "Born Under A Bad Sign - Remastered 2024",
+      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -731,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Under A Bad Sign - Remastered 2024",
-        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 490006,
-      "name": "Born Under A Bad Sign - Remastered 2024",
-      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 302640,
       "name": "Ask Me No Questions",
       "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

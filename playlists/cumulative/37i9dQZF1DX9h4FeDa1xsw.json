@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : Gazo x Ad\u00e8le Castillon",
+  "description": "Photo : A2h",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -460,10 +460,32 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 200770,
       "name": "Les restes de mon pass\u00e9",
       "url": "https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm"
+    },
+    {
+      "album": {
+        "name": "Liverpool",
+        "url": "https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW"
+      },
+      "artists": [
+        {
+          "name": "Brav",
+          "url": "https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9"
+        },
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Liverpool",
+      "url": "https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2"
     },
     {
       "album": {

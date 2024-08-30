@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Aziz Harun
+> The best tracks from the world of music\. Cover: Lady Gaga, Bruno Mars
 
-112 songs - 6 hr 29 min
+113 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Jangan Biar](https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK) | [Ramayan](https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN), [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [Jangan Biar](https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz) | 4:18 | 2024-07-11 | 2024-08-01 |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2024-06-26 |  |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2024-06-26 |  |
+| [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-29 |  |
 | [Kejutkan Aku](https://open.spotify.com/track/7o5JPZnCRZnEozCrjCQxBk) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Kejutkan Aku](https://open.spotify.com/album/7dT5I0dgGYVA3znPhDO451) | 3:02 | 2024-06-26 | 2024-07-04 |
 | [Kenapa Kembali](https://open.spotify.com/track/47mBOcgbPcABWlskgMbvhn) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Kenapa Kembali](https://open.spotify.com/album/2hXGoUmZKcnbqSUH5z2GOc) | 3:34 | 2024-08-14 |  |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-06-26 | 2024-08-22 |

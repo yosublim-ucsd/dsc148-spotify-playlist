@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:0liXA3xwx6pncxYQA30ahT">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,945 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,024 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 47 | [Mistakes](https://open.spotify.com/track/41fkWLD3nIyHrjDo0zg2oJ) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Mistakes](https://open.spotify.com/album/04DmRiqLBiVq6HA93XS02p) | 9:36 |
 | 48 | [By Faith \- Live](https://open.spotify.com/track/7H4V5C60XWxsFccje1u5nC) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Michael Shannon](https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc) | [By Faith](https://open.spotify.com/album/4wA6COc1OTeH3va8hT3LfE) | 6:05 |
 | 49 | [Mirror](https://open.spotify.com/track/4MwrKy2fv48CkqbHvmddbb) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [Sadie Robertson Huff](https://open.spotify.com/artist/0nUAd06FDt2FuANL4m8LtI), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mirror](https://open.spotify.com/album/5JGAg34L5cYJO4NyHLnpj1) | 5:05 |
-| 50 | [Faithful and True \- Studio Version](https://open.spotify.com/track/2P3m5ooBnivIfceEfY0bOm) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Faithful and True \(Studio Version\)](https://open.spotify.com/album/5cY5zBNDBc8ol6RkgvCZrh) | 3:19 |
+| 50 | [Faithful and True \- Studio Version](https://open.spotify.com/track/2P3m5ooBnivIfceEfY0bOm) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [Faithful and True \- Studio Version](https://open.spotify.com/album/5cY5zBNDBc8ol6RkgvCZrh) | 3:19 |
 | 51 | [One Day \- Live](https://open.spotify.com/track/0v8weMqlIWquZKp8TknLxL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [One Day \- Live](https://open.spotify.com/album/5BBCFlQYG6rcvY8Kzs6P3s) | 4:22 |
 | 52 | [Give Thanks](https://open.spotify.com/track/0htJRr9dFJJqCH8d9ETLSJ) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [Give Thanks](https://open.spotify.com/album/5bVCjApVZfaMMYdoeojjaz) | 3:45 |
 | 53 | [Church Hurt \(Holy Ground\)](https://open.spotify.com/track/5Mv6vilSku4N7ZKdRKZPcI) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL) | [Church Hurt \(Holy Ground\)](https://open.spotify.com/album/2rgpVqZ8WVgI6i0F1RwlMu) | 4:23 |

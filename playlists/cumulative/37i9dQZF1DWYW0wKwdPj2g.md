@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-102 songs - 13 hr 20 min
+105 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [I Testify \- Live](https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [I Testify \(Live\)](https://open.spotify.com/album/7haaOtocoEP2jJlX5Q0gqX) | 14:27 | 2024-03-08 |  |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-02-23 | 2024-04-19 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2024-02-23 |  |
+| [i WoRsHiP \- Live](https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [i WoRsHiP \- Live](https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV) | 7:08 | 2024-08-30 |  |
 | [Izulu](https://open.spotify.com/track/0FwBYg7Ci059wnjpQJeC6c) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 5:05 | 2024-02-23 |  |
 | [Jehovah 'Meliwo \(feat\. 121 Selah\) \- Live](https://open.spotify.com/track/0WWIMPvI6lvaAVRUf2N2lO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(feat\. 121 Selah\) \[Live\]](https://open.spotify.com/album/7KTg30fPTIjgdlMlWPens6) | 4:59 | 2024-02-23 | 2024-04-19 |
 | [Jehovah 'Meliwo \- Live](https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Jehovah 'Meliwo \(Live\)](https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u) | 4:59 | 2024-02-23 |  |
@@ -100,6 +101,8 @@
 | [Victory Praise \- Live](https://open.spotify.com/track/46UBVMKVX2mYXS453PcvlJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Victory Praise \(Live\)](https://open.spotify.com/album/1o02xBcfIuhOt4MVTgr7Nn) | 12:44 | 2024-02-23 |  |
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2024-02-23 |  |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 |  |
+| [When We Praise \- Live](https://open.spotify.com/track/0ywYHxQ0Yq7ILuK0bxj9uW) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [When We Praise \- Live](https://open.spotify.com/album/2FtpYQeSNgU8BA4MhgvkdZ) | 5:44 | 2024-08-30 |  |
+| [WO NKYEN](https://open.spotify.com/track/5DLa96rKO72NOOMnTFk53N) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Felicia Sarfo](https://open.spotify.com/artist/3P1uB9Vb9lBVnTHsXIB7eq) | [WO NKYEN](https://open.spotify.com/album/4uNt01HdxLnW29Ptqn6GtC) | 5:36 | 2024-08-30 |  |
 | [Wo Ye \(Live\)](https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Wo Ye \(Live\)](https://open.spotify.com/album/1UQpttjQ3N0bzPONAeuN1Y) | 8:32 | 2024-02-23 |  |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 |  |
 | [YESHUA \(He's Here\)](https://open.spotify.com/track/3PffWaqQ97gxU14p11gEGQ) | [Femi Matthew](https://open.spotify.com/artist/7qbbVep7mQeoDhYGAx8XsM), [AJIRI](https://open.spotify.com/artist/5QmzNWdaaqL5m9DDRIko0y) | [YESHUA \(He's Here\)](https://open.spotify.com/album/3KkO7K3l4bZXOER18E9LLz) | 8:17 | 2024-05-17 |  |

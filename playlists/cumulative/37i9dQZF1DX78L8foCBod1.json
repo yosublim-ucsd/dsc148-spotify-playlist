@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "NOWVERSE - NV",
+        "url": "https://open.spotify.com/album/0jcJFTE1ecBdGZ77Al9PJr"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155700,
+      "name": "NOWVERSE - NV",
+      "url": "https://open.spotify.com/track/1MXKnVl0jh2BgwYyz91f41"
+    },
+    {
+      "album": {
         "name": "NAQT",
         "url": "https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO"
       },

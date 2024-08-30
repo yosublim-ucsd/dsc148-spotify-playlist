@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,336 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,355 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 2 | [ICH WILL NICHT MEHR FUNKTIONIEREN](https://open.spotify.com/track/6haEpILX93bOam4nbLiQe0) | [Die Nerven](https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc) | [ICH WILL NICHT MEHR FUNKTIONIEREN](https://open.spotify.com/album/6USSNaAFuVBJ7UfBs5NIyI) | 3:12 |
 | 3 | [22 Uhr](https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [22 Uhr](https://open.spotify.com/album/3IVfhWdEgtgUWZs9u5H7W8) | 2:18 |
 | 4 | [Unser Sommer](https://open.spotify.com/track/2NxnLeJcfY6qxNTjCtQMun) | [Miese Mau](https://open.spotify.com/artist/6urAY9z8x8QgoOCoN8hrJT) | [Unser Sommer](https://open.spotify.com/album/1NnaWsQaome9fjUiYykYh1) | 3:07 |
-| 5 | [Hot Maus Summer](https://open.spotify.com/track/6Wga3bfIC8lNvodrpxQpGn) | [Gigolo Tears](https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7), [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Hot Maus Summer](https://open.spotify.com/album/2pIjaSHNPU9DvCLX9R3bWq) | 3:13 |
+| 5 | [Universal Punks Fuck Off](https://open.spotify.com/track/4pTsMAjb2XWTPbpVfUddop) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Universal Punks Fuck Off](https://open.spotify.com/album/2XQ9wU3DnW0t6ZVgE7xzSp) | 2:26 |
 | 6 | [Benzin](https://open.spotify.com/track/0QTGYi9HA0ZesLVpDdk6jq) | [Jugo Ürdens](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [Benzin](https://open.spotify.com/album/1vwGVJDRyThtpq6HYpYjDv) | 2:54 |
-| 7 | [Durch den Monsun \(Elena Rud Cover\)](https://open.spotify.com/track/5bWU2SWXoFSU1TskXce1HA) | [Elena Rud](https://open.spotify.com/artist/7H55j50FUEqEhAVqJbIBuE) | [Durch den Monsun \(Elena Rud Cover\)](https://open.spotify.com/album/4WuCfKQG0hM0XCgFyTBBuC) | 2:37 |
-| 8 | [engelboy](https://open.spotify.com/track/2jWBGilGMh7CdrcvtDdU6t) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [engelboy](https://open.spotify.com/album/5e6nYJI0X3aVGywF0ZjDrL) | 2:52 |
+| 7 | [Partisanen](https://open.spotify.com/track/0rFqdzkjyeybcZ9NmVsXpL) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Nie wieder ist jetzt](https://open.spotify.com/album/4QX3K6sJ3vNvZNfkXoNCtw) | 3:04 |
+| 8 | [Die Sonne so rot](https://open.spotify.com/track/6U3YQb3ND36MsLicrwyl70) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Die Sonne so rot](https://open.spotify.com/album/16HTEGFyHA4ZfEBSFKMxsx) | 2:46 |
 | 9 | [Es kommt mit der Zeit zurück](https://open.spotify.com/track/4Oz2jIMQi261UITqrEc6ci) | [SIND](https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi) | [Es kommt mit der Zeit zurück](https://open.spotify.com/album/3o1y6m4MSTEx05vNJxKIlK) | 3:40 |
 | 10 | [Wenn ich träum](https://open.spotify.com/track/4DnghuXYWXjtZsyp02ddmw) | [Die Kerzen](https://open.spotify.com/artist/23taB3vAKvN6eOECKJyyNi) | [Wenn ich träum](https://open.spotify.com/album/43SHtDvvMBMjIdztIK0MpT) | 2:48 |
 | 11 | [Ich leg mein Geld in Käse an](https://open.spotify.com/track/3XauNjFjRs6NxTJdt6Ebw6) | [Die Mausis](https://open.spotify.com/artist/5L1xqF2WFjmYokIBVpnBPD), [Dirk von Lowtzow](https://open.spotify.com/artist/4iThdARg7lrGGuvBkWhVLm) | [Ich leg mein Geld in Käse an](https://open.spotify.com/album/6MLZWSu04u7iLHT7LHDVXk) | 3:12 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 34 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 35 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
 | 36 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
-| 37 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
+| 37 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 |
 | 38 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 39 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
-| 40 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 |
+| 40 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
 | 41 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
 | 42 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
 | 43 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 49 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 50 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
 
-Snapshot ID: `Zse04AAAAABXxrBBhixz6vKoF0qGIFjs`
+Snapshot ID: `ZtDvYAAAAABB4WmOdM4dMuKZRtk7HMPC`

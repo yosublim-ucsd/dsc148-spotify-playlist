@@ -1,13 +1,33 @@
 {
   "description": "Festival Music 2024 - Tomorrowland 2024 - Festival Songs - EDM Music - Electronic Music - Rave Music - EDM Songs - best festival music - best festival songs",
-  "num_followers": 84502,
+  "num_followers": 84488,
   "original_name": "Festival Songs 2024 \ud83c\udf87 Festival Music - Tomorrowland 2024",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAK46485nhfLvz7PzzwASu3k8P9vnyQ",
+  "snapshot_id": "AAAK5HmYTrITS3QagkfsuhgXCvLS6FBT",
   "tracks": [
+    {
+      "added_at": "2024-08-29 13:13:55",
+      "album": {
+        "name": "Dreamer (Just Like You)",
+        "url": "https://open.spotify.com/album/3iNrMPpEExas9tmsNwahEE"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 236579,
+      "name": "Dreamer (Just Like You)",
+      "url": "https://open.spotify.com/track/4m9JS7f3BFRRrDm1z46OeV"
+    },
     {
       "added_at": "2024-08-23 14:33:14",
       "album": {

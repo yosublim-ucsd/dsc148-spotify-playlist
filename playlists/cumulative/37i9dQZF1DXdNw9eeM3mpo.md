@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Tomo Como Rey en portada.
 
-350 songs - 21 hr 10 min
+351 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amnesia](https://open.spotify.com/track/4Uies5Apye1sR2TnH5pqhV) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Puro Rock \(CD3\)](https://open.spotify.com/album/6ILmoBtbVnAxn4U7ixVz3m) | 3:59 | 2021-12-21 | 2022-03-13 |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2021-12-21 |  |
 | [Amor Enfermo](https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Amor Enfermo](https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9) | 3:33 | 2021-12-21 | 2022-07-29 |
-| [Amor por el Ska](https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [Amor por el Ska](https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO) | 4:27 | 2024-05-31 |  |
+| [Amor por el Ska](https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [Amor por el Ska](https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO) | 4:27 | 2024-05-31 | 2024-08-30 |
 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 | 2021-12-21 |  |
 | [América](https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [ADN \(Capítulo N\)](https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX) | 3:02 | 2023-07-21 |  |
 | [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 | 2021-12-21 | 2022-12-17 |
@@ -308,6 +308,7 @@
 | [Sound System](https://open.spotify.com/track/14al8x5l2Xb2Z53vOo8RSd) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 1:45 | 2021-12-21 | 2022-03-07 |
 | [Soy Soledad](https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Soy Soledad](https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8) | 3:28 | 2022-03-25 | 2022-07-28 |
 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 | 2021-12-21 | 2023-04-22 |
+| [SPMF](https://open.spotify.com/track/23RuF9JJSsBACQDZueQomT) | [Kurado De Coco](https://open.spotify.com/artist/30tSyIeYeCqag7CdAHeryz), [U CAN'T SAY NO!](https://open.spotify.com/artist/5C27b71WVpyPrRbgNyOZJR) | [SPMF](https://open.spotify.com/album/7Kg3v4IT1NawAaURnUV301) | 3:17 | 2024-08-30 |  |
 | [Ste Ska](https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q), [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 2:23 | 2021-12-21 |  |
 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 | 2021-12-21 |  |
 | [Sueños](https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 3:07 | 2021-12-21 |  |

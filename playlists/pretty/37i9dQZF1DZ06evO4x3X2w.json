@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 690809,
+  "num_followers": 690908,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAACCRfdMssbVFGwgytbhhHKX",
+  "snapshot_id": "Zs5ogAAAAAAbttHE0CB6iCvjxlyZPhvj",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 249600,
-      "name": "F.I.N.E.",
-      "url": "https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I"
+      "duration_ms": 254686,
+      "name": "Lord Of The Thighs",
+      "url": "https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 254686,
-      "name": "Lord Of The Thighs",
-      "url": "https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ"
+      "duration_ms": 249600,
+      "name": "F.I.N.E.",
+      "url": "https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I"
     },
     {
       "added_at": null,

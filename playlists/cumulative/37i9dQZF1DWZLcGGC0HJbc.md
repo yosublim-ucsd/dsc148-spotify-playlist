@@ -4,7 +4,7 @@
 
 > Even alleen met de muziek zijn.
 
-56 songs - 3 hr 12 min
+57 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [How It's Supposed to Feel](https://open.spotify.com/track/0pTusotPxzJs5aJIvQHQ56) | [Malin Andersson](https://open.spotify.com/artist/5jsCO40QvQDijky97Z8AK5) | [How It's Supposed to Feel](https://open.spotify.com/album/5VgUyZeR1SC1aVVaKkILY7) | 2:31 | 2024-06-27 |  |
 | [I Don't Believe in Loss](https://open.spotify.com/track/2aoY4HdLifNtBstsyNt0Cg) | [Lucas Laufen](https://open.spotify.com/artist/19gboEzhj5N9maAsyg3TkW) | [I Don't Believe in Loss](https://open.spotify.com/album/0whqdcQ6pZ7v0pC713ZOqc) | 3:19 | 2024-06-27 | 2024-07-19 |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-06-27 |  |
+| [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 | 2024-08-29 |  |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2024-06-27 |  |
 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 | 2024-07-04 |  |
 | [It Isn't Me](https://open.spotify.com/track/1bLF11yYGWJ2dthC7kIXjC) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [It Isn't Me](https://open.spotify.com/album/2u8ZrvmRIfT9FzKgK66k95) | 2:44 | 2024-07-26 |  |
@@ -61,7 +62,7 @@
 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 | 2024-06-27 |  |
 | [Turn Right](https://open.spotify.com/track/3lnyM5SSjbnz3V7HzdULqy) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man: Expanded Edition](https://open.spotify.com/album/0OUK0k2WX8CceF5Bgd6oCH) | 2:31 | 2024-06-27 |  |
 | [Waving](https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Waving](https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs) | 4:13 | 2024-06-27 |  |
-| [Weathering](https://open.spotify.com/track/2vTRtqJiRpWulVrweTTPVs) | [Lucas Laufen](https://open.spotify.com/artist/19gboEzhj5N9maAsyg3TkW) | [Weathering](https://open.spotify.com/album/55kySmow7g8xhHkfB4jshH) | 4:11 | 2024-06-27 |  |
+| [Weathering](https://open.spotify.com/track/2vTRtqJiRpWulVrweTTPVs) | [Lucas Laufen](https://open.spotify.com/artist/19gboEzhj5N9maAsyg3TkW) | [Weathering](https://open.spotify.com/album/55kySmow7g8xhHkfB4jshH) | 4:11 | 2024-06-27 | 2024-08-30 |
 | [What's In It For](https://open.spotify.com/track/7Kp7JLBS8UUKCf8oPuaVfl) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [What's In It For](https://open.spotify.com/album/7C9Zj47ORyrhUGBs8i4MJO) | 4:00 | 2024-06-27 |  |
 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 | 2024-06-27 |  |
 

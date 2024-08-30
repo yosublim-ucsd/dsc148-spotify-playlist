@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain](/playlists/plain/0lVl7MriET3XEU0PJyDBfw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0lVl7MriET3XEU0PJyDBfw)
 
-### [HOUSEIUM // BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
+### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> House music therapy for the dance floor \- Submit: houseiumpromo@gmail.com
+> House music therapy for the dance floor \| Tech House \| Submit: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,026 likes - 65 songs - 3 hr 23 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,025 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 64 | [Stay Together \(Baby Baby\) \[feat\. Vula\] \- VIP](https://open.spotify.com/track/3Zwh9Y7RaAyVqfYL5Qt4wx) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Stay Together \(Baby Baby\) \[feat\. Vula\] \[VIP\]](https://open.spotify.com/album/5DNzzEZ3smCWR4Fmuy7BTY) | 2:46 |
 | 65 | [Shake It](https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Shake It](https://open.spotify.com/album/1O4lERAS7dRSaJkV3zN1mM) | 2:55 |
 
-Snapshot ID: `AAAY2DMTgYB8XsWaN0FbiPPe8oJpWy53`
+Snapshot ID: `AAAY3IeXq/8Y3rNkibpyGN3pvVoO2rZi`

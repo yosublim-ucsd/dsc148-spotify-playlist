@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=E3OklFS1T2Wm8TfQNDJPVw">Lwah Ndlunkulu</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6?si=iIOBxGZbSrqsa3qNN53uBg">Abafana Baka Mgqumeni</a>
 
-203 songs - 16 hr 16 min
+204 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Intencane](https://open.spotify.com/track/0BYurynEYtSmwyuAMX07KR) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 4:12 | 2022-09-01 | 2023-02-03 |
 | [Inzondo](https://open.spotify.com/track/3jmv4dhLatPanmC4lX7JaE) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [The Best Of Traditional South African Music](https://open.spotify.com/album/5r48JyMk448sZ5OGopjfcx) | 3:23 | 2018-09-25 | 2023-03-25 |
 | [Inzondo](https://open.spotify.com/track/66grkST08OIuorHMGsGwR6) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isidina Sikamahlalela](https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX) | 3:25 | 2022-09-01 | 2023-02-01 |
-| [Iphutha](https://open.spotify.com/track/3knGCYxFc2KracN0y36aN9) | [Umdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC) | [Iphutha](https://open.spotify.com/album/2dANv8PXfSJmiiHJtdXPKJ) | 4:55 | 2023-09-22 |  |
+| [Iphutha](https://open.spotify.com/track/3knGCYxFc2KracN0y36aN9) | [Umdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC) | [Iphutha](https://open.spotify.com/album/2dANv8PXfSJmiiHJtdXPKJ) | 4:55 | 2023-09-22 | 2024-08-30 |
 | [Ishende](https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo](https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry) | 4:29 | 2018-11-04 | 2023-06-16 |
 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 | 2022-09-01 |  |
 | [Isifebe Sendoda](https://open.spotify.com/track/6KHZvYCSRscmHSixg8cs26) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9) | 4:20 | 2022-09-01 | 2022-09-26 |
@@ -132,6 +132,7 @@
 | [Ngicel Uhambe](https://open.spotify.com/track/7kCvZYf9IEtJLlGctDBUAw) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/1OGokItW3Aj91vLK5oyv3g) | [Intombi Ayinikwa'imali](https://open.spotify.com/album/6chhFI9kCmwG7wBSoZmIWk) | 3:18 | 2023-08-31 |  |
 | [NGIJOLA NEBHINCA](https://open.spotify.com/track/5jPckUbvd78IYYd1bEJSwJ) | [Khuthuza](https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM), [MAFIKIZOLO](https://open.spotify.com/artist/4CGkafZ4aKS4BusYAgwS6q) | [NGIJOLA NEBHINCA](https://open.spotify.com/album/4MhctQYDrwFPnsv8Kg0P7k) | 4:28 | 2023-11-23 |  |
 | [NGITHANDANA NE OWNER](https://open.spotify.com/track/5twLen4btRsNxaiUVDfxiC) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Uber Driver](https://open.spotify.com/album/0lFkTDYIcsWwiqVPA9Xcip) | 4:56 | 2023-11-07 |  |
+| [Ngiyakudinga Dali](https://open.spotify.com/track/12qcoo84twXAMy3PT7AugZ) | [Abafana Baka Mgqumeni](https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6), [Imeya kazwelonke](https://open.spotify.com/artist/0ojBhV7ziED4jfg5gA4nPP), [Tessa Masoka](https://open.spotify.com/artist/1x9JwyRTkCrWXjYFctJtJR) | [I Love Bite](https://open.spotify.com/album/6rRJUzvNbQwy3r5MH0w5o1) | 4:15 | 2024-08-29 |  |
 | [Ngiyakudinga Dali](https://open.spotify.com/track/4QtN1mjfh4QathrMwco502) | [Abafana Baka Mgqumeni](https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6), [Imeya kazwelonke](https://open.spotify.com/artist/0ojBhV7ziED4jfg5gA4nPP), [Tessa Masoka](https://open.spotify.com/artist/1x9JwyRTkCrWXjYFctJtJR) | [Ngiyakudinga Dali](https://open.spotify.com/album/3NrXhL3TmsDReIIHlnjxkh) | 4:15 | 2024-04-22 |  |
 | [Ngiyashisa Bhe!](https://open.spotify.com/track/2Xrnw2pMpLhBJtFzoJCqBM) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:57 | 2018-09-25 | 2023-02-17 |
 | [Ngiyashisa Bhe!](https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:57 | 2018-09-25 | 2022-09-25 |

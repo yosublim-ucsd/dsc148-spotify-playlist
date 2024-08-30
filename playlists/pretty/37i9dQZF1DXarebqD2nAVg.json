@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 450485,
+  "num_followers": 450538,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "no reply",
-        "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
-      },
-      "artists": [
-        {
-          "name": "aUra Lu",
-          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "no reply",
-      "url": "https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Burnt Coffee",
         "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 126857,
       "name": "Burnt Coffee",
       "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "no reply",
+        "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
+      },
+      "artists": [
+        {
+          "name": "aUra Lu",
+          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "no reply",
+      "url": "https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Breakfast In Bed",
         "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 166491,
       "name": "Breakfast In Bed",
       "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "eventide",
-        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
-      },
-      "artists": [
-        {
-          "name": "sad notes",
-          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
-        }
-      ],
-      "duration_ms": 130287,
-      "name": "eventide",
-      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Free Trees",
         "url": "https://open.spotify.com/album/377keRBbyFcp49RdaFw90Z"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 150857,
       "name": "Free Trees",
       "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "eventide",
+        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "duration_ms": 130287,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
+        "name": "soulful",
+        "url": "https://open.spotify.com/album/0gq26hCOMzSFqTkuSOzAED"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "duration_ms": 143250,
+      "name": "soulful",
+      "url": "https://open.spotify.com/track/5GMk3k1qsvegqMcmgBd0Qm"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
         "name": "Gl\u00f6da",
         "url": "https://open.spotify.com/album/0LSM2tVfjpEJIu4Hwc37Cn"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 126000,
       "name": "Gl\u00f6da",
       "url": "https://open.spotify.com/track/7sTHZzmi1RgUD6TKDHQJJI"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
-        "name": "soulful",
-        "url": "https://open.spotify.com/album/0gq26hCOMzSFqTkuSOzAED"
-      },
-      "artists": [
-        {
-          "name": "Breezonic",
-          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
-        }
-      ],
-      "duration_ms": 143250,
-      "name": "soulful",
-      "url": "https://open.spotify.com/track/5GMk3k1qsvegqMcmgBd0Qm"
     },
     {
       "added_at": "2024-07-25 12:41:14",

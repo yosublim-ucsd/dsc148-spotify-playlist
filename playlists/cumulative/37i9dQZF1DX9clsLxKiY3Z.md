@@ -4,7 +4,7 @@
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-55 songs - 3 hr 44 min
+56 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [正しくなれない](https://open.spotify.com/track/2FHexlZenTsS3lsjUYHiDx) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:00 | 2023-06-06 |  |
 | [正義](https://open.spotify.com/track/5oACPbDeeL3fgWDyngag4p) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [正義](https://open.spotify.com/album/2oJcxSqGOaZhjUCMA1e6hg) | 4:31 | 2023-06-06 |  |
 | [残機](https://open.spotify.com/track/2fJbss5uUmmBqn7qFkmyWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 3:50 | 2023-06-06 |  |
+| [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2024-08-29 |  |
 | [消えてしまいそうです](https://open.spotify.com/track/65k4LHIBkkImqlDj6My8K7) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:18 | 2023-06-06 |  |
 | [猫リセット](https://open.spotify.com/track/5znJrB6cvS8lffgUFnNETf) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:06 | 2023-06-06 |  |
 | [眩しいDNAだけ](https://open.spotify.com/track/1LojHMUAEwkYewkIk9JPWD) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [眩しいDNAだけ](https://open.spotify.com/album/3ocw0YRpyIjoAnweAK7Dg1) | 3:47 | 2023-06-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=PVGMYwFwQz2Z89bO7ifIcw\">Danny Smoke</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu?si=MuUZtRrHQ7GKvStinF4ZsQ\">Leo Sonskyn</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 186428,
       "name": "= Liefde",
       "url": "https://open.spotify.com/track/3OfxPAFrmFkbc5ZceZLEyj"
@@ -428,6 +428,24 @@
       "duration_ms": 203341,
       "name": "Aarde Onbekend",
       "url": "https://open.spotify.com/track/2uTBYX6QXTGVnRTzB4g4U2"
+    },
+    {
+      "album": {
+        "name": "Adrenalien",
+        "url": "https://open.spotify.com/album/2q1PhrnKgBP10Rvx2CdPjh"
+      },
+      "artists": [
+        {
+          "name": "veervol",
+          "url": "https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Adrenalien",
+      "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
     },
     {
       "album": {
@@ -874,6 +892,24 @@
       "duration_ms": 218160,
       "name": "Amper Daar",
       "url": "https://open.spotify.com/track/2ftyiIC6MvSqIAn7JatorV"
+    },
+    {
+      "album": {
+        "name": "Amper Daar",
+        "url": "https://open.spotify.com/album/3QOwJNtqRlHf4pGZwwwexf"
+      },
+      "artists": [
+        {
+          "name": "Leo Sonskyn",
+          "url": "https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Amper Daar",
+      "url": "https://open.spotify.com/track/1NSfpqhCaUrGKSrKhPGImB"
     },
     {
       "album": {
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 138226,
       "name": "By Alle Skone Dinge",
       "url": "https://open.spotify.com/track/4dtVdnCJlKn3FvDgRePN30"
@@ -3477,6 +3513,24 @@
     },
     {
       "album": {
+        "name": "Dans Medisyne",
+        "url": "https://open.spotify.com/album/0Wh0dpXxbBpsIRcU6RYrFC"
+      },
+      "artists": [
+        {
+          "name": "Burger Le Roux",
+          "url": "https://open.spotify.com/artist/5ucYgZpfiVdnsyKqF4AUBK"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dans Medisyne",
+      "url": "https://open.spotify.com/track/1t0vQHzVDDAOTJolepnaW6"
+    },
+    {
+      "album": {
         "name": "Dans Met Gevaar",
         "url": "https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV"
       },
@@ -3506,7 +3560,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 215208,
       "name": "Dans Om Die Probleem",
       "url": "https://open.spotify.com/track/4DulWGYP4n1ZMcJ5icMAvw"
@@ -3965,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "DIe Hele Wereld Weet",
+        "url": "https://open.spotify.com/album/2FzmriYzOnt3ffDuK3ikxB"
+      },
+      "artists": [
+        {
+          "name": "Van Go",
+          "url": "https://open.spotify.com/artist/6wQjxCkedc2hYUDxFhT1u0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230770,
+      "name": "DIe Hele Wereld Weet",
+      "url": "https://open.spotify.com/track/1wGfZZxPie4xb2WfalrrAx"
+    },
+    {
+      "album": {
         "name": "Die Hemel Weet",
         "url": "https://open.spotify.com/album/2BmL8DhncGjlr6OME30KxP"
       },
@@ -3994,7 +4066,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172122,
       "name": "Die Herlewing Is Hier",
       "url": "https://open.spotify.com/track/2ILX3xAib7hxxzo1SevMpr"
@@ -6326,7 +6398,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 212617,
       "name": "Gee My Jou Alles",
       "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
@@ -7839,6 +7911,28 @@
     },
     {
       "album": {
+        "name": "Hou My Dop",
+        "url": "https://open.spotify.com/album/6XrCVpiWM9mkVOMiGYB7lT"
+      },
+      "artists": [
+        {
+          "name": "Deon Groot",
+          "url": "https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA"
+        },
+        {
+          "name": "Jakkie Louw",
+          "url": "https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Hou My Dop",
+      "url": "https://open.spotify.com/track/4YNtE9LRNwEW4EWmjWiNPa"
+    },
+    {
+      "album": {
         "name": "Hou My Jonk",
         "url": "https://open.spotify.com/album/7qUTSPudSuIZWoXmrprI1n"
       },
@@ -8312,6 +8406,24 @@
       "duration_ms": 221067,
       "name": "Inge 2",
       "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+    },
+    {
+      "album": {
+        "name": "Deuntjie",
+        "url": "https://open.spotify.com/album/6EswlBTjW5t6BV6LxHQpNC"
+      },
+      "artists": [
+        {
+          "name": "Wesley West",
+          "url": "https://open.spotify.com/artist/0Lsgt1lP2vsV5nbenqhahz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106291,
+      "name": "Inhaak Afhaak",
+      "url": "https://open.spotify.com/track/0Owjmn6YdNpIHEJseOlef9"
     },
     {
       "album": {
@@ -10152,7 +10264,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 201364,
       "name": "Koning van harte",
       "url": "https://open.spotify.com/track/7fwvKEAvGsy8LeBDi2XdkC"
@@ -11623,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "Maar Jy",
+        "url": "https://open.spotify.com/album/4eoYKnYmLLMSb9DXPfZcKc"
+      },
+      "artists": [
+        {
+          "name": "Luzelle",
+          "url": "https://open.spotify.com/artist/4uPi9ThPDv6AMst7MJmPmN"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Maar Jy",
+      "url": "https://open.spotify.com/track/2mNb83HvLa5U3LzJVvSKXL"
+    },
+    {
+      "album": {
         "name": "Omdat Jy Mag",
         "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
       },
@@ -12176,7 +12306,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183899,
       "name": "Middernag",
       "url": "https://open.spotify.com/track/7t08UE89cX0ErHlXdYD8hg"
@@ -15133,6 +15263,24 @@
     },
     {
       "album": {
+        "name": "Niemandsland",
+        "url": "https://open.spotify.com/album/79RWMYLdQGjK97CCNMY9pj"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224854,
+      "name": "Pretoria Se Maan",
+      "url": "https://open.spotify.com/track/3rrxQe3U2hgO4glLndde2j"
+    },
+    {
+      "album": {
         "name": "Probeer",
         "url": "https://open.spotify.com/album/2fFaVmvkKV0SocM9FhsdFe"
       },
@@ -15949,6 +16097,24 @@
     },
     {
       "album": {
+        "name": "Sawubona Tussen Sterre",
+        "url": "https://open.spotify.com/album/6Zh2rlUqLxeGH8i96zEJ9U"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Sawubona Tussen Sterre",
+      "url": "https://open.spotify.com/track/5MtoiBAwLtJ5zg2Sr7MqqS"
+    },
+    {
+      "album": {
         "name": "Estetika",
         "url": "https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS"
       },
@@ -16444,7 +16610,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 196354,
       "name": "Slaap Is So Finaal",
       "url": "https://open.spotify.com/track/2n3eDFkCjR591uS2meJDdZ"
@@ -17516,7 +17682,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 143098,
       "name": "Stofpad",
       "url": "https://open.spotify.com/track/21viTIS8qGc75SnMeD1ZKS"
@@ -18151,6 +18317,24 @@
     },
     {
       "album": {
+        "name": "Tenk Vol Diesel Liefling",
+        "url": "https://open.spotify.com/album/5tw5fHWnCjxNzAjrxkyofh"
+      },
+      "artists": [
+        {
+          "name": "Gerhard Steyn",
+          "url": "https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198979,
+      "name": "Tenk Vol Diesel Liefling",
+      "url": "https://open.spotify.com/track/0J1uf7jZ3voWGlSeOTvV9h"
+    },
+    {
+      "album": {
         "name": "Terapie Vir Nou",
         "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
       },
@@ -18568,7 +18752,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 242521,
       "name": "Troos My",
       "url": "https://open.spotify.com/track/6hZM6wu6nlgWnAMtZRkqvl"
@@ -20135,6 +20319,24 @@
     },
     {
       "album": {
+        "name": "Vroegoggend Koffie",
+        "url": "https://open.spotify.com/album/5JmUOWdYBJIs0qdiDpC5dy"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225834,
+      "name": "Vroegoggend Koffie",
+      "url": "https://open.spotify.com/track/39ayqFuZypxahqYKOMk9Pr"
+    },
+    {
+      "album": {
         "name": "Vry",
         "url": "https://open.spotify.com/album/3NGmGuSCmfNMR2c6I98tyu"
       },
@@ -20824,7 +21026,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 197647,
       "name": "Weet Jy Dan Nie",
       "url": "https://open.spotify.com/track/3RX8pOQ9imsEJh8JfH44Y7"
@@ -20940,7 +21142,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 146375,
       "name": "Who's Bang, Wies Bang?",
       "url": "https://open.spotify.com/track/33CZy695FpIeSmwFW2UA8T"

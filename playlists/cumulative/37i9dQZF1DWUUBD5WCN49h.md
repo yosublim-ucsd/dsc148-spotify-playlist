@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Anabel Rose
 
-1,012 songs - 2 day 0 hr 42 min
+1,013 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Authentic](https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Authentic](https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX) | 2:10 | 2023-06-22 | 2023-07-14 |
 | [AVANTE](https://open.spotify.com/track/29RwIvbQYfo2K0wJKfTtlE) | [QUIN2](https://open.spotify.com/artist/38bv049huVFKpzBb0Qk4gW) | [AVANTE](https://open.spotify.com/album/1lHQhdNkqZzgoaIsNhQX8a) | 2:23 | 2024-03-22 | 2024-06-21 |
 | [Avoid Things](https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:44 | 2022-06-30 | 2022-10-14 |
+| [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 | 2024-08-29 |  |
 | [Back To That](https://open.spotify.com/track/09tLbxR5YVdtYX9nokgurW) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc), [Lioness](https://open.spotify.com/artist/5uIAEOIMqhKuQyG4wSFlPC) | [Back To That](https://open.spotify.com/album/1MqB7zRXNItqVucbLYVKi9) | 2:57 | 2024-03-15 | 2024-06-21 |
 | [Bad](https://open.spotify.com/track/07NtuuBsiXyeUjMGceBKao) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:41 | 2022-08-25 | 2022-11-19 |
 | [Bad Bitch Love](https://open.spotify.com/track/0CjyIfQTj76LvV1VtwKJh9) | [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye), [Kasar](https://open.spotify.com/artist/0O8hazT3NSrzYAKGkWm38o) | [Bad Bitch Love](https://open.spotify.com/album/6kNkEJnnSTXPzcPpS11qWe) | 2:23 | 2023-09-14 | 2023-10-27 |
@@ -516,7 +517,7 @@
 | [lonely forever](https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [lonely forever](https://open.spotify.com/album/2mZewkfHwNjs54Yb9tomvv) | 3:45 | 2023-03-30 | 2023-04-15 |
 | [Loner](https://open.spotify.com/track/3RPgxXb9RopRs3OoQN6cN6) | [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Hargoi](https://open.spotify.com/artist/5EKMO9ebgUrSybptTbz4TD) | [Loner](https://open.spotify.com/album/6VIQgfoeJCFDQgsbeTaWPB) | 3:13 | 2024-04-19 | 2024-06-01 |
 | [Lost in Green](https://open.spotify.com/track/78rmpYUKEJBdqTGjuk5fOI) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Lost in Green](https://open.spotify.com/album/1sj5kA9fThHG41VuacQDEX) | 2:59 | 2023-06-15 | 2023-07-14 |
-| [Lost Love](https://open.spotify.com/track/42mgtZfLBQDVOlxewhvXfF) | [Akwasi Sage](https://open.spotify.com/artist/1ZLtiMNMicBULG1CNl25Je) | [Lost Love](https://open.spotify.com/album/6KqTfBjmJYeiJPapWjzmHd) | 2:43 | 2024-07-26 |  |
+| [Lost Love](https://open.spotify.com/track/42mgtZfLBQDVOlxewhvXfF) | [Akwasi Sage](https://open.spotify.com/artist/1ZLtiMNMicBULG1CNl25Je) | [Lost Love](https://open.spotify.com/album/6KqTfBjmJYeiJPapWjzmHd) | 2:43 | 2024-07-26 | 2024-08-30 |
 | [LOTDF](https://open.spotify.com/track/5lDAysaKeH4QWcjrsjHCrP) | [Joel Prodigee](https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd) | [LOTDF & TRUTH](https://open.spotify.com/album/55fXp59Q6qa9nAA2GqZ2wt) | 2:05 | 2024-08-02 |  |
 | [Loud](https://open.spotify.com/track/7ti7kLqyFSubl97L5jqKQi) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:27 | 2022-06-30 | 2023-02-04 |
 | [Louis Vitty](https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Louis Vitty](https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O) | 3:38 | 2023-09-14 | 2023-10-27 |

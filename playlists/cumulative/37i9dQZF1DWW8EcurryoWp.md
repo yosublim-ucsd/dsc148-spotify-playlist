@@ -2,14 +2,15 @@
 
 ### [Alternative Ireland](https://open.spotify.com/playlist/37i9dQZF1DWW8EcurryoWp)
 
-> The best new Irish alternative sounds\. Cover: Gurriers
+> The best new Irish alternative sounds\. Cover: Kynsy
 
-86 songs - 5 hr 7 min
+88 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [17 egg](https://open.spotify.com/track/0bVTeUkOUoAGGWEIKuQF23) | [banríon](https://open.spotify.com/artist/7uy6znaGEdCWo4Jnhb1rAX) | [17 egg](https://open.spotify.com/album/4IUA1QaC3uESjHSJhArNJm) | 3:46 | 2024-08-29 |  |
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-12 |  |
-| [a dream like that](https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6) | [p o n d 20mg](https://open.spotify.com/artist/6UTy96luHrnKamHNrE6Ecz) | [a dream like that](https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk) | 1:41 | 2024-06-20 | 2024-08-23 |
+| [a dream like that](https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6) | [p o n d 20mg](https://open.spotify.com/artist/6UTy96luHrnKamHNrE6Ecz) | [a dream like that](https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk) | 1:41 | 2024-06-20 |  |
 | [All The Days](https://open.spotify.com/track/63gKAsclXoMLXxG9rpqrfJ) | [The Devlins](https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv) | [All The Days](https://open.spotify.com/album/6eSA88rpIIc3P3hPDg7As1) | 4:34 | 2024-07-18 |  |
 | [all the sins I've forgotten](https://open.spotify.com/track/2I6JqYGttvjS6gOGC4xStN) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [all the sins I've forgotten](https://open.spotify.com/album/03pJIzukwnpneipgkqQizx) | 5:36 | 2024-06-20 |  |
 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 | 2024-06-20 |  |
@@ -35,7 +36,7 @@
 | [Fish](https://open.spotify.com/track/3hdW8qul3sErVreYQDy0hl) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Fish](https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2) | 3:45 | 2024-06-20 | 2024-07-05 |
 | [Following the Night](https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy) | [Telebox](https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s) | [When Night Turns Into Day](https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE) | 3:10 | 2024-07-12 |  |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-20 |  |
-| [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 |  |
+| [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 | 2024-08-30 |
 | [Haunted](https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Haunted](https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr) | 3:32 | 2024-06-20 |  |
 | [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2024-06-20 | 2024-08-16 |
 | [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 | 2024-07-18 |  |
@@ -48,11 +49,11 @@
 | [Kilanova Horizon](https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd) | [Luna Motif](https://open.spotify.com/artist/72RZQEW8b04412JotqI9Nx) | [Kilanova Horizon](https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI) | 2:59 | 2024-06-20 |  |
 | [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2024-06-20 |  |
 | [Lenny](https://open.spotify.com/track/1A3bEtK2wHeA3m0pANg42z) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [Lenny](https://open.spotify.com/album/76CakOhtSl2HgLKxX7Ek6B) | 3:54 | 2024-06-20 |  |
-| [Letdown](https://open.spotify.com/track/7sSabxVsemgRKm54oqJSn4) | [Robstar](https://open.spotify.com/artist/3H1ohSP5ALAJPLqwTYWZWz), [Scar$](https://open.spotify.com/artist/0u9B7tJYmF1en0xXivFIKv), [Kami](https://open.spotify.com/artist/2xNf3dmNPdle9Q7VWTQpcC) | [Letdown](https://open.spotify.com/album/6wGsUPdxsSE0gtuUopgQ0Y) | 3:24 | 2024-06-20 |  |
+| [Letdown](https://open.spotify.com/track/7sSabxVsemgRKm54oqJSn4) | [Robstar](https://open.spotify.com/artist/3H1ohSP5ALAJPLqwTYWZWz), [Scar$](https://open.spotify.com/artist/0u9B7tJYmF1en0xXivFIKv), [Kami](https://open.spotify.com/artist/2xNf3dmNPdle9Q7VWTQpcC) | [Letdown](https://open.spotify.com/album/6wGsUPdxsSE0gtuUopgQ0Y) | 3:24 | 2024-06-20 | 2024-08-30 |
 | [Lucy](https://open.spotify.com/track/0cTIMuTfgEHWfyb3ZDNv0P) | [Famille Rose](https://open.spotify.com/artist/09nB31lj0UTU6yxn9HoxwI) | [Lucy](https://open.spotify.com/album/5XFeaOYkQiSUetAccVt7mb) | 4:21 | 2024-06-20 |  |
 | [Mango](https://open.spotify.com/track/60WMnp10PEgJifKRHZ5NUb) | [Amphigory](https://open.spotify.com/artist/07i7WBXmO96RPjcPqtxG0D) | [I Sobbingly Beg For Somebody To Know Me](https://open.spotify.com/album/5kmiFZ6mqTJXzCvD9HwR59) | 3:54 | 2024-07-12 |  |
 | [Melty Brains](https://open.spotify.com/track/7fMLJ0Dg5jH0s4gSIg98vm) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Melty Brains](https://open.spotify.com/album/3o4mCtZvXRIs7xsliNPOBz) | 3:33 | 2024-06-20 |  |
-| [MENACE \- bonus track](https://open.spotify.com/track/0LJjpaO98U0wGBLIxp5DDD) | [Filmore!](https://open.spotify.com/artist/2EVDuvjKJECGVAFvRN55s3), [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU) | [Filmore!](https://open.spotify.com/album/1fHlgTVnnjMOntcxLJy08l) | 2:35 | 2024-06-20 |  |
+| [MENACE \- bonus track](https://open.spotify.com/track/0LJjpaO98U0wGBLIxp5DDD) | [Filmore!](https://open.spotify.com/artist/2EVDuvjKJECGVAFvRN55s3), [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU) | [Filmore!](https://open.spotify.com/album/1fHlgTVnnjMOntcxLJy08l) | 2:35 | 2024-06-20 | 2024-08-30 |
 | [mercury](https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc) | [kleio](https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT) | [mercury](https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5) | 3:17 | 2024-07-25 |  |
 | [Naked](https://open.spotify.com/track/0TP5IWKzHOYTn1X0FxwA2f) | [Still Blue](https://open.spotify.com/artist/0ARihSioho8nfcbicw1tXl) | [Naked](https://open.spotify.com/album/3G42XIfhlSjYR61Cg8pb6u) | 4:01 | 2024-06-20 |  |
 | [Nutmeg](https://open.spotify.com/track/7B9rphwBsfbS9h9fLOVsMz) | [RECO](https://open.spotify.com/artist/7fvakEX3otLoQittQY57d0) | [Nutmeg](https://open.spotify.com/album/1FtqwJqSYAzBgXxrezQlwO) | 3:04 | 2024-06-20 |  |
@@ -62,6 +63,7 @@
 | [Part Of You](https://open.spotify.com/track/2PFF992BZV08mBUmBjXwZ2) | [Four Faces](https://open.spotify.com/artist/3pEp0EpInOqtjpm9O03n0H) | [Part Of You](https://open.spotify.com/album/5guvor0zF8XSjPPvdEwIRM) | 3:41 | 2024-07-25 |  |
 | [Patchwork](https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy) | [Oisín](https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB) | [Patchwork](https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM) | 2:53 | 2024-06-20 |  |
 | [patrick](https://open.spotify.com/track/1nC4M0b5jJZLTisNET5LWo) | [drifting.](https://open.spotify.com/artist/4VEAvjBB04pvTuBP06UeAV) | [73 dame st.](https://open.spotify.com/album/2wA80Wc7ur8nRWx2bSfkQM) | 3:47 | 2024-08-15 |  |
+| [Pocket \(montreal\)](https://open.spotify.com/track/3TJWODxkUUPtC28fGZUNCZ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Pocket \(montreal\)](https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG) | 1:58 | 2024-08-29 |  |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-06-20 |  |
 | [Prospect](https://open.spotify.com/track/0DcWjXflMeyVYxZtqWIfj5) | [Blue Slate](https://open.spotify.com/artist/5zExcYSTt7HvimLkiRk0Cp) | [Prospect](https://open.spotify.com/album/5h8CK1D14urflOzCftKBXn) | 3:26 | 2024-06-20 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-06-20 |  |

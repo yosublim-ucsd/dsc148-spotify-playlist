@@ -2,9 +2,9 @@
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is Joe Bonamassa\. The essential tracks, all in one playlist.
+> This is: Joe Bonamassa\. Alle wichtigen Tracks in einer Playlist.
 
-154 songs - 13 hr 50 min
+155 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-08-05 |  |
 | [Boogie With Stu \- Live](https://open.spotify.com/track/168hcGYzhikucSpy8LLTiV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 4:17 | 2022-08-06 | 2022-10-13 |
 | [Born Under A Bad Sign \- Live](https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:03 | 2022-08-30 | 2022-09-01 |
+| [Broken & Blue](https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 4:22 | 2024-08-30 |  |
 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 | 2023-09-15 | 2024-04-03 |
 | [Burning Hell](https://open.spotify.com/track/48sF2RpuNbsHok1EEBucuv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 6:49 | 2022-08-10 | 2022-10-08 |
 | [Chocolate Jesus](https://open.spotify.com/track/2EGzr81qumpLxgL8pFzJxZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 2:39 | 2022-09-08 | 2022-09-16 |
@@ -72,7 +73,7 @@
 | [I've Got Some Mind Over What Matters](https://open.spotify.com/track/3YmTA9alkAY8Y5qL18OIPq) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:50 | 2022-10-05 | 2022-10-07 |
 | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/2EYDcErn35IoQ756IiAUiz) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 9:22 | 2024-07-21 |  |
 | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/73ceTXNtWGpy6FDhVJi7C1) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [If Heartaches Were Nickels \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/4b3bP1yKzANH1bVFpgCF7S) | 9:22 | 2024-05-19 | 2024-07-21 |
-| [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 | 2023-10-10 |  |
+| [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 | 2023-10-10 | 2024-08-30 |
 | [It's Hard But It's Fair](https://open.spotify.com/track/0nXc4KXgMDAtRsQXwulH9t) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:15 | 2023-10-10 | 2024-06-01 |
 | [Just 'Cos You Can Don't Mean You Should](https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:40 | 2022-08-06 | 2023-03-08 |
 | [Just 'Cos You Can Don’t Mean You Should \(Live\)](https://open.spotify.com/track/2ZYO00AxBjv8jeaPahRyhk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 7:58 | 2023-04-23 | 2023-05-13 |

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-391 songs - 22 hr 9 min
+392 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Meri Jaan](https://open.spotify.com/track/0VlepsCPuzUblC3ogHFnct) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Meri Jaan](https://open.spotify.com/album/4R9zeNJdQ5HIUeacMzTC42) | 5:33 | 2023-09-21 | 2023-12-14 |
 | [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 | 2024-01-05 |
 | [Milke Jana](https://open.spotify.com/track/7wAwgWLLMxigAvV6paLAUN) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Milke Jana](https://open.spotify.com/album/6nqK1OgKuhp2I2fMTqOlz6) | 3:10 | 2024-01-04 | 2024-01-20 |
-| [Mithi Mithi](https://open.spotify.com/track/2tcmfCESqAU2DiPikoeflT) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb) | [By My Side](https://open.spotify.com/album/3bdrwdgCQJFtWL15U3IqXQ) | 2:33 | 2024-06-21 |  |
+| [Mithi Mithi](https://open.spotify.com/track/2tcmfCESqAU2DiPikoeflT) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb) | [By My Side](https://open.spotify.com/album/3bdrwdgCQJFtWL15U3IqXQ) | 2:33 | 2024-06-21 | 2024-08-30 |
 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 | 2023-05-17 | 2024-08-02 |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-17 | 2023-09-26 |
 | [Muntazir](https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Debasish Mishra](https://open.spotify.com/artist/6py2MHhbiiwkAtcyAZmFAO), [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj) | [Muntazir](https://open.spotify.com/album/1VxmU9VcPqLGyoZl3GbLhp) | 3:45 | 2023-05-22 | 2024-02-14 |
@@ -314,6 +314,7 @@
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-06-14 |  |
 | [Secrets](https://open.spotify.com/track/5HENJVFTpwo7n8RvXhex2g) | [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Secrets](https://open.spotify.com/album/0Edq37EUIlXNqtfniAWYOa) | 1:58 | 2024-08-01 |  |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 | 2024-06-01 |
+| [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [Qaaz](https://open.spotify.com/artist/2ekPx6udAuwSYk5Prd404H) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 | 2024-08-29 |  |
 | [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
 | [Shikayatein](https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr) | [Abhimanyu Sharma](https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo) | [Shikayatein](https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg) | 4:43 | 2024-05-13 |  |

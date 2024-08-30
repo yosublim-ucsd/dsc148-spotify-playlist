@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Wallace Cleaver
+> Les plus belles plumes rap français du moment\. Photo : BEN plg
 
-49 songs - 2 hr 47 min
+51 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,13 @@
 | [Avec des mots](https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Avec des mots](https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu) | 3:12 | 2024-06-27 |  |
 | [BÂTEAU DANS LE CIEL](https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV) | [Skary](https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP), [Wysko](https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [LE HORLA](https://open.spotify.com/album/0zzkrEonDjv3ZVSSek36I4) | 3:13 | 2024-06-27 | 2024-07-19 |
 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-06-27 |  |
+| [CAMP D'ENTRAÎNEMENT](https://open.spotify.com/track/5vTB5o92ygTGye1MaTOhWs) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg) | [JUNGLE DES ILLUSIONS VOL 2](https://open.spotify.com/album/3tFfZvWj3GYjONfRlTkMzc) | 3:56 | 2024-08-29 |  |
 | [CERCLE FERMÉ \- SOS FREESTYLE](https://open.spotify.com/track/5rhwgQSglUardhzznwgHTw) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [CERCLE FERMÉ \- SOS FREESTYLE](https://open.spotify.com/album/2RdrOCuQna46cYGiKntWFP) | 1:54 | 2024-06-27 |  |
 | [Cohiba](https://open.spotify.com/track/7e5vYAwLS9rNuPnUHDXgSJ) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:12 | 2024-06-27 |  |
 | [Freestyle 5min \#13](https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Freestyle 5min \#13](https://open.spotify.com/album/5udVZsakxGZH3H2q3di9bw) | 5:42 | 2024-06-27 | 2024-08-23 |
 | [Go 2](https://open.spotify.com/track/0Hean3R0bokh8MFJyelfUC) | [LE RISQUE](https://open.spotify.com/artist/6vYIofTPb6utQIovHOFyG3) | [Go 2](https://open.spotify.com/album/14GK1DuuNYOBJoSqNswsO0) | 2:58 | 2024-06-27 |  |
 | [Générique de Fin \- Nouvelle École](https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:05 | 2024-07-25 |  |
-| [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 |  |
+| [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 | 2024-08-30 |
 | [IN PARIS](https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [IN PARIS](https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ) | 1:58 | 2024-06-27 | 2024-07-12 |
 | [J'irai pas voir un psy](https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [Merci la vie pour les douleurs](https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW) | 2:57 | 2024-07-18 |  |
 | [Kayano](https://open.spotify.com/track/7vcZ68Arxw5xcnWOTRVj6t) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq) | 3:19 | 2024-06-27 |  |
@@ -40,6 +41,7 @@
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 | 2024-07-27 |
 | [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 |  |
 | [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 | 2024-07-11 |  |
+| [Plaine des Asphodèles](https://open.spotify.com/track/4feZ8pmKWjttSJnq2hYxjc) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7) | [Plaine des Asphodèles](https://open.spotify.com/album/4KgrJ6VLq2xYsY7OF3wTRB) | 2:36 | 2024-08-29 |  |
 | [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 | 2024-07-27 |
 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 |  |
 | [Psychose](https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [BLACK CODE TOME 4](https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji) | 2:40 | 2024-06-27 |  |
@@ -52,7 +54,7 @@
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-06-27 |  |
 | [Une fois ou deux](https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd) | [Civil](https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm) | [Une fois ou deux](https://open.spotify.com/album/0TkgjvxCimgBWYE8vEHtBA) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [UNIVERS SONS](https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV) | [Deemax](https://open.spotify.com/artist/3mnPgDAZ5fsnyeq6EMpGGt) | [À MA PLACE](https://open.spotify.com/album/5yMmEs0xyfSN6AqgFPxEl5) | 3:42 | 2024-08-22 |  |
-| [Vernissage](https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 3:12 | 2024-06-27 |  |
+| [Vernissage](https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 3:12 | 2024-06-27 | 2024-08-30 |
 | [Vérité 7](https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité 7](https://open.spotify.com/album/0LlqvuC4mIyal7gFaqifH1) | 5:54 | 2024-06-27 | 2024-07-19 |
 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2024-06-27 |  |
 | [À long terme](https://open.spotify.com/track/0fPHcL6jj7A1xiL6ylPi42) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Hannibal Part.1](https://open.spotify.com/album/5JZSMkDce7VAR6Lkq8w4IW) | 3:00 | 2024-07-18 |  |

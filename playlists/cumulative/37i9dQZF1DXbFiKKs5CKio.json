@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "amor n\u00e3o \u00e9 suficiente",
+        "url": "https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "amor n\u00e3o \u00e9 suficiente",
+      "url": "https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW"
+    },
+    {
+      "album": {
         "name": "O Amor e Suas Vari\u00e1veis",
         "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 145352,
       "name": "EU S\u00d3 PENSO EM VOC\u00ca",
       "url": "https://open.spotify.com/track/5XB072lywUk1v9SafrUVIH"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 146769,
       "name": "Noite em Febre",
       "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
@@ -1786,6 +1804,24 @@
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
     },
     {
       "album": {

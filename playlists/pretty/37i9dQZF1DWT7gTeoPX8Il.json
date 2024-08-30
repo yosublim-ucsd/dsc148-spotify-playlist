@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 123762,
+  "num_followers": 123817,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 233351,
+      "name": "Bawalah Cintaku",
+      "url": "https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 233351,
-      "name": "Bawalah Cintaku",
-      "url": "https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Bersamamu",
-        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Bersamamu",
-      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Naluri Lelaki (Special Edition)",
         "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Bersamamu",
+        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Bersamamu",
+      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
     },
     {
       "added_at": "2024-07-25 17:00:00",

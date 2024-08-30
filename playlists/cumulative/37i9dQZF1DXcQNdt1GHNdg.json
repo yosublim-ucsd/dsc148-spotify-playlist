@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "Patola",
+        "url": "https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "DJ Jesta",
+          "url": "https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Patola",
+      "url": "https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne"
+    },
+    {
+      "album": {
         "name": "Keep It Gangsta",
         "url": "https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW"
       },
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 188181,
       "name": "Pind Da Riwaaz",
       "url": "https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO"

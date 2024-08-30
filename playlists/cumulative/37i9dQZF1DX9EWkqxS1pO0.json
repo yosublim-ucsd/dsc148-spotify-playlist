@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: BKE x Rakin",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Umur Doma",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "bi kere \u00f6pse b\u00fck\u00fcl\u00fcr uzay",
+        "url": "https://open.spotify.com/album/5iJ0xqmjayLLOWKace2Tbq"
+      },
+      "artists": [
+        {
+          "name": "TUANA",
+          "url": "https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128640,
+      "name": "bi kere \u00f6pse b\u00fck\u00fcl\u00fcr uzay",
+      "url": "https://open.spotify.com/track/3a61r0HCZxxiKW86NwORDb"
+    },
+    {
+      "album": {
         "name": "Bir Bir",
         "url": "https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY"
       },
@@ -492,7 +510,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 126896,
       "name": "DURMA",
       "url": "https://open.spotify.com/track/4NJGNIZXwTI9DAT6iwxcgR"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 158117,
       "name": "Hala Niye Burday\u0131m",
       "url": "https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 234887,
       "name": "Sorma",
       "url": "https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N"
@@ -1366,6 +1384,24 @@
       "duration_ms": 161525,
       "name": "Sosyopat G\u00fcl\u00fcmseme",
       "url": "https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS"
+    },
+    {
+      "album": {
+        "name": "S\u00f6yle",
+        "url": "https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S"
+      },
+      "artists": [
+        {
+          "name": "Umur Doma",
+          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152699,
+      "name": "S\u00f6yle",
+      "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
     },
     {
       "album": {
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 147705,
       "name": "YABANCI",
       "url": "https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 205696,
       "name": "Yanar",
       "url": "https://open.spotify.com/track/5bsYpOr87XJVXeuFL4paDn"
@@ -1622,6 +1658,24 @@
       "duration_ms": 147529,
       "name": "Yar\u0131n\u0131 Yok Ac\u0131s\u0131 Var",
       "url": "https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI"
+    },
+    {
+      "album": {
+        "name": "Yar\u0131n\u0131m\u0131z Yokmu\u015f Gibi",
+        "url": "https://open.spotify.com/album/18uf6YzS3aeGqNv1363ruD"
+      },
+      "artists": [
+        {
+          "name": "\u015eah\u0131s",
+          "url": "https://open.spotify.com/artist/2XTyBo4eOUdoKzNugEwVEc"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148148,
+      "name": "Yar\u0131n\u0131m\u0131z Yokmu\u015f Gibi",
+      "url": "https://open.spotify.com/track/599bwrbqRY3VazJJ943iNV"
     },
     {
       "album": {

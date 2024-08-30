@@ -1,6 +1,6 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Ishaan Ghosh",
-  "num_followers": 7273,
+  "num_followers": 7277,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,30 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/3MmALvzReDtQbeX9EEE3rn"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcdi Siebert",
+          "url": "https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da"
+        },
+        {
+          "name": "Suman Sarkar",
+          "url": "https://open.spotify.com/artist/0YKkpqAbai806ElUCqVpc0"
+        },
+        {
+          "name": "Helmut Weber",
+          "url": "https://open.spotify.com/artist/3OyyuzAEaz2ZXWEjlBxlXL"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Wander",
         "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 116122,
       "name": "Ananta (Tabla & Sitar)",
       "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/3MmALvzReDtQbeX9EEE3rn"
-      },
-      "artists": [
-        {
-          "name": "B\u00fcdi Siebert",
-          "url": "https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da"
-        },
-        {
-          "name": "Suman Sarkar",
-          "url": "https://open.spotify.com/artist/0YKkpqAbai806ElUCqVpc0"
-        },
-        {
-          "name": "Helmut Weber",
-          "url": "https://open.spotify.com/artist/3OyyuzAEaz2ZXWEjlBxlXL"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Lagrima",
-        "url": "https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J"
+        "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
+        "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
       },
       "artists": [
         {
-          "name": "Fausto Palma",
-          "url": "https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q"
+          "name": "Jnan Prakash Ghosh",
+          "url": "https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg"
         }
       ],
-      "duration_ms": 159582,
-      "name": "Delirio de Ale",
-      "url": "https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3"
+      "duration_ms": 771373,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
     }
   ],
   "unique_name": "ECHO : Tabla Rhythms",

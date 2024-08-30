@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Hariel com Gilberto Gil, Luan Santana, Liniker  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,734 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,782 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 33 | [Se Essa Boca Fosse Minha](https://open.spotify.com/track/4f2qsqYoQbIU9GOJwXu9eT) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Furacão Thauane](https://open.spotify.com/album/1b3ELKNrEC92AnvM8kMKoW) | 2:30 |
 | 34 | [Perfil \#98 \- Essa Eu Fiz Pra Mim](https://open.spotify.com/track/7BMqk07d8RWDWW8m7wlD3q) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Perfil \#98 \- Essa Eu Fiz Pra Mim](https://open.spotify.com/album/0WM75RTuRBMIKTGTcakJ4b) | 3:07 |
 | 35 | [Passei na Quebrada](https://open.spotify.com/track/7fzghhLFbtFjQm1nAuED6K) | [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Passei na Quebrada](https://open.spotify.com/album/6sDfPn4lPM9CtdjRaegLJc) | 2:43 |
-| 36 | [AUMENTA O SOM](https://open.spotify.com/track/57pGakmWqT8JVjWt2AyjQr) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe) | [AUMENTA O SOM](https://open.spotify.com/album/3J03W6k27KpecTEWqcSXd9) | 2:35 |
+| 36 | [AUMENTA O SOM](https://open.spotify.com/track/57pGakmWqT8JVjWt2AyjQr) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [byCaiiro](https://open.spotify.com/artist/6QCmOKqxbN1wl5Y4KJYW89) | [AUMENTA O SOM](https://open.spotify.com/album/3J03W6k27KpecTEWqcSXd9) | 2:35 |
 | 37 | [Louca Vida](https://open.spotify.com/track/7McJ9ImpLqtau2O5yF5N4T) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [GUzi](https://open.spotify.com/artist/5R5RChI1w2cHSHUmbpckon), [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Louca Vida](https://open.spotify.com/album/4Pp275U16GNo1k2qGBxfIn) | 4:28 |
 | 38 | [Rave e Paredão](https://open.spotify.com/track/5kQv21GwaA7BclhjNL1V6E) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Rave e Paredão](https://open.spotify.com/album/6DIFj6EuZvyDY7e13RLeBu) | 2:40 |
 | 39 | [Tenho Medo](https://open.spotify.com/track/3k2NujB1XYhiFRpYHybdsK) | [Netto Brito](https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU) | [Tenho Medo](https://open.spotify.com/album/6hRbC14IziUJrPwKgLkxpX) | 2:29 |

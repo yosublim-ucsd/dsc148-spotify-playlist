@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
+    },
+    {
+      "album": {
         "name": "Arena",
         "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
       },
@@ -590,7 +608,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159963,
       "name": "Ditt hj\u00e4rta bor",
       "url": "https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 231351,
       "name": "D\u00e4r Jag Fann Dig Sist",
       "url": "https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153559,
       "name": "Empty the Bags",
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
@@ -702,6 +720,24 @@
       "duration_ms": 173000,
       "name": "Fight",
       "url": "https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
+      },
+      "artists": [
+        {
+          "name": "Tingsek",
+          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
     },
     {
       "album": {
@@ -864,7 +900,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 219612,
       "name": "Go Fast Go Slow",
       "url": "https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz"
@@ -904,7 +940,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 227739,
       "name": "Hayaku",
       "url": "https://open.spotify.com/track/4RAKxRPufWs8zWDsjslNBP"
@@ -962,7 +998,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 158181,
       "name": "Hey Little Love",
       "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 236228,
       "name": "Inget halleluja",
       "url": "https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV"
@@ -1428,7 +1464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 183750,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159530,
       "name": "Mayflowers",
       "url": "https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr"
@@ -1662,7 +1698,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 218666,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
@@ -1770,7 +1806,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 395240,
       "name": "Ord som l\u00e4mnats kvar",
       "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 202776,
       "name": "Pl\u00e5stret",
       "url": "https://open.spotify.com/track/6Byvrc6ct2PIIQKEhmcVhF"
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 235172,
       "name": "Pretty girl",
       "url": "https://open.spotify.com/track/0codJQJF4W3cTeaTntsqGp"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 188433,
       "name": "Spacer (Reimagined)",
       "url": "https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK"
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 212373,
       "name": "The First Train Home",
       "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
@@ -2510,7 +2546,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 244600,
       "name": "Varf\u00f6r slutar allt i t\u00e5rar",
       "url": "https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI"
@@ -2550,6 +2586,24 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
     },
     {
       "album": {

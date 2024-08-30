@@ -5520,7 +5520,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 154343,
       "name": "PARADIS",
       "url": "https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx"
@@ -6984,6 +6984,24 @@
       "duration_ms": 197400,
       "name": "SKYLER",
       "url": "https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V"
+    },
+    {
+      "album": {
+        "name": "SLIZZY SLANG",
+        "url": "https://open.spotify.com/album/7IPWRcnMDV8n1if7g000gk"
+      },
+      "artists": [
+        {
+          "name": "JaySoCold",
+          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151776,
+      "name": "SLIZZY SLANG",
+      "url": "https://open.spotify.com/track/06CHWwFuSe5eTLK4CK4QIb"
     },
     {
       "album": {

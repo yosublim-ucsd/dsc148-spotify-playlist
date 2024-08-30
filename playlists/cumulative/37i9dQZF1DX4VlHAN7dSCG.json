@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Boom\uff01\u602a\u7269\u661f\u4eba",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: I Mean Us",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 350000,
       "name": "Blue Collar \u5b50\u887f",
       "url": "https://open.spotify.com/track/64bvPFDCOx3w5eKWuhTk8O"
@@ -110,6 +110,24 @@
       "duration_ms": 221408,
       "name": "Boy You Better Run",
       "url": "https://open.spotify.com/track/74ioqFQmA0U0GhtNNkX24v"
+    },
+    {
+      "album": {
+        "name": "Call Ken",
+        "url": "https://open.spotify.com/album/6fU5eY87ieKS6lmDyWmyzR"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Call Ken",
+      "url": "https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct"
     },
     {
       "album": {
@@ -326,7 +344,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 248902,
       "name": "I Wake Up to Love You - Motion Graphics Remix",
       "url": "https://open.spotify.com/track/0vAAyMznMZI8W5YdU3AgqB"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 197798,
       "name": "Stray",
       "url": "https://open.spotify.com/track/5ZwLCFNnqQNVbyiJMsmHrR"
@@ -588,6 +606,42 @@
       "duration_ms": 272000,
       "name": "Sugar Cover",
       "url": "https://open.spotify.com/track/4HabjE8SrUgJUF5YIgppMK"
+    },
+    {
+      "album": {
+        "name": "Take Me To Beijing (\u4e00\u8d77\u56de\u5317\u4eac)",
+        "url": "https://open.spotify.com/album/3JFhMbGDRnTcupzeyZz0iQ"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208951,
+      "name": "Take Me To Beijing (\u4e00\u8d77\u56de\u5317\u4eac)",
+      "url": "https://open.spotify.com/track/1tUkBgIuQcMvRnM0cYcYtp"
+    },
+    {
+      "album": {
+        "name": "Topic 5: \u53ec\u559a Calling",
+        "url": "https://open.spotify.com/album/0qY1egiSaBShJJML3IgGwP"
+      },
+      "artists": [
+        {
+          "name": "Major in Body Bear \u9ad4\u718a\u5c08\u79d1",
+          "url": "https://open.spotify.com/artist/6XJMXBBFw2cpcFhytyv5Q4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257031,
+      "name": "The Callings Rise from Every Suffering",
+      "url": "https://open.spotify.com/track/5KjpQKlwMHicfH58hI9oX7"
     },
     {
       "album": {
@@ -797,6 +851,24 @@
     },
     {
       "album": {
+        "name": "\u4eca\u5929\u4e0d\u592a\u60f3\u51fa\u9580",
+        "url": "https://open.spotify.com/album/2GCABgoBqwMeYCWaCQ3DEY"
+      },
+      "artists": [
+        {
+          "name": "\u7d55\u547d\u9752\u5e74",
+          "url": "https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "\u4eca\u5929\u4e0d\u592a\u60f3\u51fa\u9580",
+      "url": "https://open.spotify.com/track/2CENvC8h8mLmGu6F4A4XJA"
+    },
+    {
+      "album": {
         "name": "\u79c1\u5fc3\u601d",
         "url": "https://open.spotify.com/album/4FyloTXbXZewzcTincL1ZP"
       },
@@ -924,7 +996,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 270792,
       "name": "\u4f60\u8981\u7d50\u5a5a\u600e\u9ebc\u6c92\u627e\u6211you forget me;( (always)",
       "url": "https://open.spotify.com/track/0nDPOKjplHsErigvEnqpFu"
@@ -960,7 +1032,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 423826,
       "name": "\u505a\u904b\u52d5",
       "url": "https://open.spotify.com/track/5pdOw0j7Ov5g4LBsLcKjMz"
@@ -1022,6 +1094,24 @@
       "duration_ms": 256454,
       "name": "\u51b0",
       "url": "https://open.spotify.com/track/4GscOaZhEC5iZNb3BdcIts"
+    },
+    {
+      "album": {
+        "name": "\u5225\u60f3",
+        "url": "https://open.spotify.com/album/6cZpaZlvtBNvLNC8Ef8wIe"
+      },
+      "artists": [
+        {
+          "name": "Sun Day Night.",
+          "url": "https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327750,
+      "name": "\u5225\u60f3",
+      "url": "https://open.spotify.com/track/3OK3O6ix9jmj7ioDwtPW8r"
     },
     {
       "album": {
@@ -1210,7 +1300,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 228857,
       "name": "\u57cb\uff08\u300aRecall\uff1aEmpty Wishes \u7a7a\u9858\u300b\u904a\u6232\u4e3b\u984c\u66f2\uff09",
       "url": "https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj"
@@ -1416,7 +1506,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 270000,
       "name": "\u5ee2\u589f\u904a\u6a02",
       "url": "https://open.spotify.com/track/617l613d22sYabyT47vp23"
@@ -1438,6 +1528,42 @@
       "duration_ms": 224898,
       "name": "\u5fae\u7b11\u53bb\u9762\u5c0d",
       "url": "https://open.spotify.com/track/13VNQgdtjNUQLVapM2QPfZ"
+    },
+    {
+      "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/0muWBZ150MGEh7YUqEN03q"
+      },
+      "artists": [
+        {
+          "name": "Endless",
+          "url": "https://open.spotify.com/artist/21JpKdhWfLuiv359q5iuw0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220494,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/1uhrzbgxXLf8m2AKiWHFF1"
+    },
+    {
+      "album": {
+        "name": "\u7121\u5922\u5c11\u5e74\u5bb6",
+        "url": "https://open.spotify.com/album/0ktLLIyhP08UcjoaKq5os2"
+      },
+      "artists": [
+        {
+          "name": "\u7f8a\u7c73\u4ebaYummy Man",
+          "url": "https://open.spotify.com/artist/5OmWkLnsbfJMTgKY21S9Co"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238165,
+      "name": "\u611b\u60c5\u90a3\u9846\u661f",
+      "url": "https://open.spotify.com/track/4z0SyVy1dNUfgwwHQyTgNW"
     },
     {
       "album": {
@@ -2201,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "\u767d\u9be8",
+        "url": "https://open.spotify.com/album/4ibqic2LkcinoCY1TaLtA2"
+      },
+      "artists": [
+        {
+          "name": "\u96c6\u5922\u6240Dreamoresoul",
+          "url": "https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343551,
+      "name": "\u767d\u9be8",
+      "url": "https://open.spotify.com/track/6w9CAbbOnJcCHS6s7ETM6o"
+    },
+    {
+      "album": {
         "name": "\u76f2\u9ede",
         "url": "https://open.spotify.com/album/4dJPNBRgIqZbhwNDhnGR2W"
       },
@@ -2230,7 +2374,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 259411,
       "name": "\u76f8\u4fe1\u81ea\u5df1\u662f\u53ef\u4ee5\u7684 (\"\u7b2c\u56db\u5341\u4e00\u5c46\u653f\u5927\u91d1\u65cb\u734e\" \u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/2ACnrZKCCgJu3P6c6HQdFt"
@@ -2458,6 +2602,24 @@
       "duration_ms": 285000,
       "name": "\u8a02\u95b1\u51a5\u60f3 - Live Session",
       "url": "https://open.spotify.com/track/4xQqbDjI2eDtvxw8jJUm0F"
+    },
+    {
+      "album": {
+        "name": "\u8ff7\u822a",
+        "url": "https://open.spotify.com/album/7o2B2HxBicwMsKygzPVuGb"
+      },
+      "artists": [
+        {
+          "name": "EVENFALL",
+          "url": "https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "\u8ff7\u822a",
+      "url": "https://open.spotify.com/track/4FNwRlpFSus5yPM3dYUWLb"
     },
     {
       "album": {

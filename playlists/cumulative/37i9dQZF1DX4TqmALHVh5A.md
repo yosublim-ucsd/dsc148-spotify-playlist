@@ -2,7 +2,7 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Hervé
+> La scène française branchée sur courant alternatif\. Photo : Zed Yun Pavarotti
 
 189 songs - 10 hr 7 min
 

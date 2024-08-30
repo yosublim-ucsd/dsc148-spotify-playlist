@@ -1,13 +1,41 @@
 {
-  "description": "A new world of alternative electronic music. \nCover: Joy Orbison",
-  "num_followers": 129767,
+  "description": "A new world of alternative electronic music. \nCover: Caribou",
+  "num_followers": 129771,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfazQAAAADiJmifLqRH6hV6E0UOrCHE",
+  "snapshot_id": "ZtD9cAAAAAAiGjPMQO5gaPP8jYtiCB3q",
   "tracks": [
+    {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
+        "name": "Dafodil",
+        "url": "https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Kelsey Lu",
+          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 212339,
+      "name": "Dafodil",
+      "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
+    },
     {
       "added_at": "2024-08-23 00:41:49",
       "album": {
@@ -37,6 +65,70 @@
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
     },
     {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
+        "name": "Come Find Me",
+        "url": "https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236332,
+      "name": "Come Find Me",
+      "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "Numerical Deviant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Selectors)",
+        "url": "https://open.spotify.com/album/1NAQDiilBVtIuAsJGn1UEQ"
+      },
+      "artists": [
+        {
+          "name": "Roza Terenzi",
+          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
+        }
+      ],
+      "duration_ms": 305562,
+      "name": "Numerical Deviant",
+      "url": "https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/71cFJJ15zMyKYaS6NlwZMM"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 316615,
+      "name": "Casi O",
+      "url": "https://open.spotify.com/track/3LgC5z3d6IEpS7ACGZJhsA"
+    },
+    {
       "added_at": "2024-08-23 00:41:49",
       "album": {
         "name": "All You Children",
@@ -55,6 +147,42 @@
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "Hey (Shut Up)",
+        "url": "https://open.spotify.com/album/5lO7A8BggmR1eaUNtSoehK"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Hey (Shut Up)",
+      "url": "https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO"
+    },
+    {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
+        "name": "I Like This One - Domba Remix",
+        "url": "https://open.spotify.com/album/4ZN4dGDbJeM8ldQl89sZeg"
+      },
+      "artists": [
+        {
+          "name": "Lil Spacely",
+          "url": "https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n"
+        },
+        {
+          "name": "Domba",
+          "url": "https://open.spotify.com/artist/3CeiqSedqQQ4lJ2wYmQywz"
+        }
+      ],
+      "duration_ms": 115541,
+      "name": "I Like This One - Domba Remix",
+      "url": "https://open.spotify.com/track/3pAtfCDEER2v32knzID7DI"
     },
     {
       "added_at": "2024-08-23 00:41:49",
@@ -79,34 +207,114 @@
     {
       "added_at": "2024-08-23 00:41:49",
       "album": {
-        "name": "Expander",
-        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+        "name": "Junction 3",
+        "url": "https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Expander",
-      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+      "duration_ms": 158666,
+      "name": "Junction 3",
+      "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
     },
     {
       "added_at": "2024-08-23 00:41:49",
       "album": {
-        "name": "UP",
-        "url": "https://open.spotify.com/album/71cFJJ15zMyKYaS6NlwZMM"
+        "name": "Deep Scene - Axel Boman Remix",
+        "url": "https://open.spotify.com/album/64804QOVNU0ujDLYjA0d5G"
       },
       "artists": [
         {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        },
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
         }
       ],
-      "duration_ms": 316615,
-      "name": "Casi O",
-      "url": "https://open.spotify.com/track/3LgC5z3d6IEpS7ACGZJhsA"
+      "duration_ms": 320500,
+      "name": "Deep Scene - Axel Boman Remix",
+      "url": "https://open.spotify.com/track/7t2NkRNUYwejiDd1nOBnEV"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "Foam (Sam Alfred Remix)",
+        "url": "https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        },
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Foam - Sam Alfred Remix",
+      "url": "https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag"
+    },
+    {
+      "added_at": "2024-08-23 00:41:49",
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2024-08-23 00:41:49",
@@ -159,22 +367,6 @@
     {
       "added_at": "2024-08-23 00:41:49",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 169668,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
         "name": "The Cosmik Connection: Lost Tape",
         "url": "https://open.spotify.com/album/6hSLmWLvPhFi6nsn5jc4AX"
       },
@@ -187,50 +379,6 @@
       "duration_ms": 415000,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/7cp7Ej2npnDebtc0XKlhrm"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
-        "name": "Foam (Sam Alfred Remix)",
-        "url": "https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        },
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Foam - Sam Alfred Remix",
-      "url": "https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
-        "name": "places to be",
-        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 226677,
-      "name": "places to be",
-      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
       "added_at": "2024-08-23 00:41:49",
@@ -311,26 +459,6 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
-        "name": "Deep Scene - Axel Boman Remix",
-        "url": "https://open.spotify.com/album/64804QOVNU0ujDLYjA0d5G"
-      },
-      "artists": [
-        {
-          "name": "Skeleten",
-          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
-        },
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        }
-      ],
-      "duration_ms": 320500,
-      "name": "Deep Scene - Axel Boman Remix",
-      "url": "https://open.spotify.com/track/7t2NkRNUYwejiDd1nOBnEV"
     },
     {
       "added_at": "2024-08-23 00:41:49",
@@ -425,6 +553,22 @@
       "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
     },
     {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
+        "name": "House Hues 2",
+        "url": "https://open.spotify.com/album/5r0FrjNaPDjfAuGujcJKBt"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ELECTRIC BLUE",
+      "url": "https://open.spotify.com/track/33lekkAv8vy5DIf2oRNdPU"
+    },
+    {
       "added_at": "2024-08-23 00:41:49",
       "album": {
         "name": "OUTSPOKEN",
@@ -491,22 +635,6 @@
       "duration_ms": 176728,
       "name": "The City Never Felt So Good",
       "url": "https://open.spotify.com/track/5EPLkWx3SqtK5fS9hbiHWL"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
-        "name": "Hey (Shut Up)",
-        "url": "https://open.spotify.com/album/5lO7A8BggmR1eaUNtSoehK"
-      },
-      "artists": [
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Hey (Shut Up)",
-      "url": "https://open.spotify.com/track/6Sy8VJKsFhvWab130OFLjO"
     },
     {
       "added_at": "2024-08-23 00:41:49",
@@ -619,22 +747,6 @@
     {
       "added_at": "2024-08-23 00:41:49",
       "album": {
-        "name": "Numerical Deviant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Selectors)",
-        "url": "https://open.spotify.com/album/1NAQDiilBVtIuAsJGn1UEQ"
-      },
-      "artists": [
-        {
-          "name": "Roza Terenzi",
-          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
-        }
-      ],
-      "duration_ms": 305562,
-      "name": "Numerical Deviant",
-      "url": "https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
         "name": "Fight Or Flight",
         "url": "https://open.spotify.com/album/2NUAVm5hnaZN42fPjQcin8"
       },
@@ -667,22 +779,6 @@
       "duration_ms": 190624,
       "name": "Tell Me What's In Your Head - Charlie Shell Remix",
       "url": "https://open.spotify.com/track/51JUabNeL65vI6HiarXsQ5"
-    },
-    {
-      "added_at": "2024-08-23 00:41:49",
-      "album": {
-        "name": "Junction 3",
-        "url": "https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Junction 3",
-      "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
     },
     {
       "added_at": "2024-08-23 00:41:49",

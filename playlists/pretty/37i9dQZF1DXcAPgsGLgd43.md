@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,211 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,259 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 85 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 86 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 |
 | 87 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
-| 88 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
-| 89 | [Satisfied](https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Satisfied](https://open.spotify.com/album/5Ao966nL5V38v8652399lo) | 3:06 |
-| 90 | [Barcelona](https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x) | [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [Wrex](https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY), [Javier Moreno](https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq) | [Barcelona](https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH) | 2:52 |
+| 88 | [Barcelona](https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x) | [Azooland](https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ), [Wrex](https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY), [Javier Moreno](https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq) | [Barcelona](https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH) | 2:52 |
+| 89 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
+| 90 | [Satisfied](https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Satisfied](https://open.spotify.com/album/5Ao966nL5V38v8652399lo) | 3:06 |
 | 91 | [Viper](https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [4 ON DA FLOOR](https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu) | 2:37 |
 | 92 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
 | 93 | [Atardecer](https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [NIINE](https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8) | [Atardecer](https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF) | 2:11 |

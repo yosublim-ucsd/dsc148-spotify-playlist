@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Berq",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: SOFFIE",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 147202,
       "name": "Banger",
       "url": "https://open.spotify.com/track/1HqWJ5O1q9IG4OtYiaQbuT"
@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Berliner Luft",
+        "url": "https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i"
+      },
+      "artists": [
+        {
+          "name": "Lara Hulo",
+          "url": "https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "Berliner Luft",
+      "url": "https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g"
+    },
+    {
+      "album": {
         "name": "besser als ich",
         "url": "https://open.spotify.com/album/0P0FfMob4BZwUtSZZC5AyT"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 164715,
       "name": "besser als ich",
       "url": "https://open.spotify.com/track/5u86bpikvcqjO0bjOk1Y8T"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 144773,
       "name": "dein lieblingstrack",
       "url": "https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL"
@@ -6234,7 +6252,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153409,
       "name": "immer wenn du sagst",
       "url": "https://open.spotify.com/track/5RxTlUb8MOvIGlJsd4D8Vq"
@@ -7713,6 +7731,28 @@
     },
     {
       "album": {
+        "name": "letzter sommer",
+        "url": "https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158517,
+      "name": "letzter sommer",
+      "url": "https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4"
+    },
+    {
+      "album": {
         "name": "Lichtblick",
         "url": "https://open.spotify.com/album/0xCORZARvmRRlbRbHCJeii"
       },
@@ -7786,6 +7826,24 @@
       "duration_ms": 92773,
       "name": "Liebe ist Krieg",
       "url": "https://open.spotify.com/track/2NgAtQbDrlBvrgnqylUwQa"
+    },
+    {
+      "album": {
+        "name": "Liebe programmiert",
+        "url": "https://open.spotify.com/album/5z6OKBlejzEUrWnvs5QSuJ"
+      },
+      "artists": [
+        {
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134366,
+      "name": "Liebe programmiert",
+      "url": "https://open.spotify.com/track/1EbXYNG3UegZ7KmQRTkvba"
     },
     {
       "album": {
@@ -8008,7 +8066,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 141190,
       "name": "Lisa Hahn",
       "url": "https://open.spotify.com/track/0H1C9bRnRCsd5DH0FuxBGj"
@@ -8308,6 +8366,24 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/6lDGrMh75TwqSJyygAMmfB"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155205,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/3dNjDMod4qSZ1kM0QGhRc3"
     },
     {
       "album": {
@@ -9281,6 +9357,24 @@
     },
     {
       "album": {
+        "name": "Nordpol",
+        "url": "https://open.spotify.com/album/5ro4t98GjwISxZcRhsmqYm"
+      },
+      "artists": [
+        {
+          "name": "skuth",
+          "url": "https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137351,
+      "name": "Nordpol",
+      "url": "https://open.spotify.com/track/1F74goBtiQEgPZ2kKzVTQV"
+    },
+    {
+      "album": {
         "name": "Nur 3 Sekunden",
         "url": "https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP"
       },
@@ -9350,6 +9444,24 @@
       "duration_ms": 168926,
       "name": "Nur f\u00fcr eine Nacht",
       "url": "https://open.spotify.com/track/6KJZ2dTHNUzm4rAdcR41tD"
+    },
+    {
+      "album": {
+        "name": "Wovon tr\u00e4umst du eigentlich",
+        "url": "https://open.spotify.com/album/0PiUQ1iRS2aVfLETOzw8cz"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175237,
+      "name": "Nur Nachts",
+      "url": "https://open.spotify.com/track/0WwPwsSDyIDU4C1WYxIKjl"
     },
     {
       "album": {
@@ -10080,7 +10192,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 143043,
       "name": "Randali",
       "url": "https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw"
@@ -11184,7 +11296,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160012,
       "name": "so allein",
       "url": "https://open.spotify.com/track/16Jm7I1i6ubm5mGhLInqCr"
@@ -11809,7 +11921,7 @@
     },
     {
       "album": {
-        "name": "Still",
+        "name": "STILL",
         "url": "https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25"
       },
       "artists": [
@@ -11822,7 +11934,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136482,
-      "name": "Still",
+      "name": "STILL",
       "url": "https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3"
     },
     {
@@ -12034,6 +12146,24 @@
       "duration_ms": 184985,
       "name": "Tanz In Deiner Wohnung",
       "url": "https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB"
+    },
+    {
+      "album": {
+        "name": "Gr\u00fcnlich",
+        "url": "https://open.spotify.com/album/5laaRsOTkJsyn7uJBofZey"
+      },
+      "artists": [
+        {
+          "name": "STANOVSKY",
+          "url": "https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161425,
+      "name": "Tatendrang",
+      "url": "https://open.spotify.com/track/5JB7I9oC1BWK2FEgsL68km"
     },
     {
       "album": {
@@ -12606,7 +12736,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 217189,
       "name": "Unser Outro",
       "url": "https://open.spotify.com/track/2vNejHEBVOZZgWlpSGvney"
@@ -12810,7 +12940,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 160720,
       "name": "Verlieren in der Nacht",
       "url": "https://open.spotify.com/track/0yXDlX0HomKLejRtKlW1wQ"
@@ -13240,6 +13370,24 @@
       "duration_ms": 138249,
       "name": "Was kickt",
       "url": "https://open.spotify.com/track/2mVWiASJLQrGmcJSsQ13fW"
+    },
+    {
+      "album": {
+        "name": "was passiert wenn die stra\u00dfe kommt ?",
+        "url": "https://open.spotify.com/album/1tPeUs7NBElneokQ4kAc6L"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200339,
+      "name": "was passiert wenn die stra\u00dfe kommt ?",
+      "url": "https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm"
     },
     {
       "album": {
@@ -14254,6 +14402,24 @@
       "duration_ms": 138504,
       "name": "zu stolz",
       "url": "https://open.spotify.com/track/5LPwh4tYFRmwAzNCIYrnbZ"
+    },
+    {
+      "album": {
+        "name": "Zu viel / nicht genug",
+        "url": "https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156441,
+      "name": "Zu viel / nicht genug",
+      "url": "https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5"
     },
     {
       "album": {

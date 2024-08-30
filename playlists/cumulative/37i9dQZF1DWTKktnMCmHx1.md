@@ -4,11 +4,11 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-233 songs - 11 hr 56 min
+234 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0ffline \(feat\. bbno$\)](https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [23 6451](https://open.spotify.com/album/2zBib5x7l1D5KPXPEePOab) | 3:21 | 2022-05-03 |  |
+| [0ffline \(feat\. bbno$\)](https://open.spotify.com/track/6ZWsKJdmoYu1oFJbzCmtK9) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [23 6451](https://open.spotify.com/album/2zBib5x7l1D5KPXPEePOab) | 3:21 | 2022-05-03 | 2024-08-30 |
 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 | 2022-10-10 | 2023-01-03 |
 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/4rstEjIOddR5CuzzLv2bhS) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:54 | 2022-05-03 | 2022-07-29 |
 | [2 TIRI \(feat\. thasup\)](https://open.spotify.com/track/3TwMhXQ6O1KGPfiYV5mxGN) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 2:42 | 2022-05-03 | 2022-07-29 |
@@ -211,6 +211,7 @@
 | [Storia Infinita \(feat\. Baby Gang\)](https://open.spotify.com/track/72bIXnrUaQ0zg66EeaPZ4a) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 2:52 | 2023-12-14 | 2024-03-18 |
 | [Street](https://open.spotify.com/track/1AA3XZWWaLTcOgVdeSWg3S) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 2:58 | 2022-05-03 | 2022-07-29 |
 | [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 | 2023-09-15 |  |
+| [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 | 2024-08-29 |  |
 | [Te lo prometto](https://open.spotify.com/track/72aqCNAdOo6H4nrPyAivSV) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Te lo prometto](https://open.spotify.com/album/34JRWtz7K8iDla9b2ZouOq) | 3:04 | 2022-05-03 | 2022-07-27 |
 | [TELEPHONE \(feat\. Capo Plaza & Sick Luke\)](https://open.spotify.com/track/0ejf33zIXZlhUnCKRMWx6q) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [BV3](https://open.spotify.com/album/6qAapBZqjiATXktzwBzzLC) | 2:48 | 2022-05-03 | 2022-07-29 |
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-05-24 | 2022-08-11 |

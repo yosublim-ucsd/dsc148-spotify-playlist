@@ -1,12 +1,12 @@
 {
-  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 71937,
+  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
+  "num_followers": 71954,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAADY7fiqZfFXyB59GmBdpwZA",
+  "snapshot_id": "Zs5ogAAAAADCeLoKx4DYHclB23k6OzPf",
   "tracks": [
     {
       "added_at": null,
@@ -251,42 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 139668,
-      "name": "Cuando Andaba Recio (El Cholo)",
-      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Gente del General",
-      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Que Te Olvido",
         "url": "https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO"
       },
@@ -307,8 +271,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Olvidarme de tus Besos",
-        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Gente del General",
+      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
       "artists": [
         {
@@ -316,13 +296,33 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 187448,
-      "name": "Pa' Olvidarme de tus Besos",
-      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Aquiles el de Tijuana (En Vivo)",
+      "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
+        "name": "Pa' Olvidarme de tus Besos",
+        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
       "artists": [
         {
@@ -372,13 +372,13 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Aquiles el de Tijuana (En Vivo)",
-      "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
+      "duration_ms": 187448,
+      "name": "Pa' Olvidarme de tus Besos",
+      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Rosita",
-        "url": "https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Polvo Rosita",
-      "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Polvo Rosita",
+        "url": "https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+      "duration_ms": 159786,
+      "name": "Polvo Rosita",
+      "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Estas Ganas de Tomar",
+      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Estas Ganas de Tomar",
-      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella Sali\u00f3 A Bailar",
-        "url": "https://open.spotify.com/album/1pHE2T5VIuje6yrT3p9vvJ"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Ella Sali\u00f3 A Bailar",
-      "url": "https://open.spotify.com/track/2hF1YOQ1H0je4kP6S6Skhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Lo Que Sigue",
         "url": "https://open.spotify.com/album/6yntzdnPB5ZYQQUp8OJnoE"
       },
@@ -895,22 +879,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuanto hay que invertir",
-        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
       "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Cuanto Hay Que Invertir",
-      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
+      "duration_ms": 163392,
+      "name": "Moneda",
+      "url": "https://open.spotify.com/track/6MvsTGagRDZG2ylhdfh8Jx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella Sali\u00f3 A Bailar",
+        "url": "https://open.spotify.com/album/1pHE2T5VIuje6yrT3p9vvJ"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Ella Sali\u00f3 A Bailar",
+      "url": "https://open.spotify.com/track/2hF1YOQ1H0je4kP6S6Skhc"
     },
     {
       "added_at": null,
@@ -935,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "Cuanto hay que invertir",
+        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
       },
       "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 163392,
-      "name": "Moneda",
-      "url": "https://open.spotify.com/track/6MvsTGagRDZG2ylhdfh8Jx"
+      "duration_ms": 147000,
+      "name": "Cuanto Hay Que Invertir",
+      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
     },
     {
       "added_at": null,

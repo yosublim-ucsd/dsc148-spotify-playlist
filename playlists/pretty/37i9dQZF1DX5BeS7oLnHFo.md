@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > Djmubarak: حزييين الوقت في غيااابك، حلوة دنيتك فيني\. الغلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,976 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,989 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

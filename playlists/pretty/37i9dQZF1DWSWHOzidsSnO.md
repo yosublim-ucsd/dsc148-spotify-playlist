@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Greccia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,694 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,664 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 20 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
 | 21 | [Pero Frágil](https://open.spotify.com/track/5VhKKkNdzFCeijhApJWnis) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [Pero Frágil](https://open.spotify.com/album/4Ru87PmTzlRJxwh0zgptXc) | 4:15 |
 | 22 | [Dead To Me](https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:19 |
-| 23 | [Para Que](https://open.spotify.com/track/66xcmIG3jt2YGekLctpH6e) | [Ana & Jaime](https://open.spotify.com/artist/5kG6asc4JG03E54SLVaapf) | [Los Años Inmensos](https://open.spotify.com/album/5nrncrDRqLLFmAGKtREqZg) | 2:44 |
-| 24 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 |
-| 25 | [entre las piernas](https://open.spotify.com/track/4f2r4lwi75qoFAPFNAhOE9) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 3:31 |
-| 26 | [TNSQ](https://open.spotify.com/track/7yJjsQsCbiHf1N3n6MKbk5) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [TNSQ](https://open.spotify.com/album/3Qsimzjgd58kC21qu1LFDV) | 2:30 |
-| 27 | [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 |
-| 28 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
-| 29 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
-| 30 | [Afterparty](https://open.spotify.com/track/1Z4AaDqWYtvrXQIYiDrpzC) | [Flavia Laos](https://open.spotify.com/artist/203iZ5SoM2K2vMnlqwJTnt), [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Afterparty](https://open.spotify.com/album/5PjxyxtoA9kUHKbNZcDZK0) | 3:25 |
+| 23 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 |
+| 24 | [entre las piernas](https://open.spotify.com/track/4f2r4lwi75qoFAPFNAhOE9) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 3:31 |
+| 25 | [TNSQ](https://open.spotify.com/track/7yJjsQsCbiHf1N3n6MKbk5) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [TNSQ](https://open.spotify.com/album/3Qsimzjgd58kC21qu1LFDV) | 2:30 |
+| 26 | [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 |
+| 27 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
+| 28 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
+| 29 | [Afterparty](https://open.spotify.com/track/1Z4AaDqWYtvrXQIYiDrpzC) | [Flavia Laos](https://open.spotify.com/artist/203iZ5SoM2K2vMnlqwJTnt), [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Afterparty](https://open.spotify.com/album/5PjxyxtoA9kUHKbNZcDZK0) | 3:25 |
+| 30 | [Bendecida $ afortunada](https://open.spotify.com/track/1Kwo91GVpyrAFHCrByfFB1) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 2:39 |
 | 31 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 |
 | 32 | [Pretender \(Carta No\. 5\)](https://open.spotify.com/track/3ekSP3ityIWAUXaEDOX63y) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ) | [Pretender \(Carta No\. 5\)](https://open.spotify.com/album/7JdmOw84KFC5cqCcU6INIr) | 2:23 |
 | 33 | [Solterona](https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Solterona](https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 99 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 100 | [Habitación](https://open.spotify.com/track/6Za9ddL9Q4Azhh1PKm2rXE) | [rulolo](https://open.spotify.com/artist/0wUnZqPe3TfKVj7Fbbgfqt), [Maya Endo](https://open.spotify.com/artist/05swzPCeWZMjApcUBYLyyi) | [Habitación](https://open.spotify.com/album/5ziLtNjrl2ZeyF4ZwauFQm) | 3:00 |
 
-Snapshot ID: `ZsgXFAAAAADQqYotLHtCZY+j7Q/Hx+ma`
+Snapshot ID: `ZtCpOQAAAAALdkl5XFg0/PzPFZmmUcVP`

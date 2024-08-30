@@ -2015,6 +2015,28 @@
     },
     {
       "album": {
+        "name": "Crec\u00ed con Poco",
+        "url": "https://open.spotify.com/album/1BY4bX242DtDmXDvFym4lv"
+      },
+      "artists": [
+        {
+          "name": "Jarfaiter",
+          "url": "https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk"
+        },
+        {
+          "name": "Geckodelarue",
+          "url": "https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Crec\u00ed con Poco",
+      "url": "https://open.spotify.com/track/6o59j2R8t95HtAlUtOgdmY"
+    },
+    {
+      "album": {
         "name": "CREDO",
         "url": "https://open.spotify.com/album/3fPhpbcTYBI3RrpjkW1SVD"
       },
@@ -2412,7 +2434,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 150582,
       "name": "do it 4 th\u20ac gram",
       "url": "https://open.spotify.com/track/6YGjrujqK1xUsvk0z89nr2"
@@ -5231,6 +5253,28 @@
     },
     {
       "album": {
+        "name": "Mirar a la cara",
+        "url": "https://open.spotify.com/album/4n6REehVyybXIG1R0LOOs7"
+      },
+      "artists": [
+        {
+          "name": "Luisaker",
+          "url": "https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9"
+        },
+        {
+          "name": "Vnder",
+          "url": "https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203187,
+      "name": "Mirar a la cara",
+      "url": "https://open.spotify.com/track/3X7yS0k9ZBVpjuwY5CiJ17"
+    },
+    {
+      "album": {
         "name": "Mizeria",
         "url": "https://open.spotify.com/album/5p8VxQ343DXSUcYwjQVd9J"
       },
@@ -5890,7 +5934,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203104,
       "name": "No Volver",
       "url": "https://open.spotify.com/track/2N9lZ8JLYk0H5qwfV50vPw"

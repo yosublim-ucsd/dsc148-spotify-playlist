@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Dr. John",
+  "description": "The best jazz new releases. Cover: Samara Joy",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 255746,
       "name": "Album of the Year #1 Funkateer",
       "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
@@ -1818,10 +1818,44 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 333881,
       "name": "Celestial Hands",
       "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/2HnoWqPijqF74BSAB3PeE7"
+      },
+      "artists": [
+        {
+          "name": "PianoForte",
+          "url": "https://open.spotify.com/artist/3tgHmbdlI0Aqg9ni2Tjekg"
+        },
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Eric Legnini",
+          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
+        },
+        {
+          "name": "Bojan Z",
+          "url": "https://open.spotify.com/artist/6kmJq6IbNvXqGBEjS61hdh"
+        },
+        {
+          "name": "Pierre De Bethmann",
+          "url": "https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281266,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/2xce6kP4q1FLWzOBs2NAJN"
     },
     {
       "album": {
@@ -2959,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4gJ3TVZ6N5VZH41PXAHxMs"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230094,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7akGwptM8F18yYMpWedA1d"
+    },
+    {
+      "album": {
         "name": "Brexit Music",
         "url": "https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB"
       },
@@ -3502,7 +3554,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 239299,
       "name": "Feeling Good - triple j Like A Version",
       "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
@@ -3590,6 +3642,24 @@
       "duration_ms": 225240,
       "name": "First Shot",
       "url": "https://open.spotify.com/track/0vnArNTn5aLJmqrnZnK4Li"
+    },
+    {
+      "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
     },
     {
       "album": {
@@ -5048,7 +5118,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 307099,
       "name": "I Owe You",
       "url": "https://open.spotify.com/track/1jRbYNxjo2B2wwqRY9ypLt"
@@ -5600,10 +5670,36 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 189863,
       "name": "I\u2019m on a Roll",
       "url": "https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv"
+    },
+    {
+      "album": {
+        "name": "J.T.",
+        "url": "https://open.spotify.com/album/6OVzFyTiT2RLo27OJALYt1"
+      },
+      "artists": [
+        {
+          "name": "Airelle Besson",
+          "url": "https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT"
+        },
+        {
+          "name": "Jonas Burgwinkel",
+          "url": "https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR"
+        },
+        {
+          "name": "Sebastian Sternal",
+          "url": "https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298614,
+      "name": "J.T.",
+      "url": "https://open.spotify.com/track/2f8F9sQWO0HJMBCWtaCq5Q"
     },
     {
       "album": {
@@ -5666,7 +5762,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 381585,
       "name": "Jonathan Livingston Seagull",
       "url": "https://open.spotify.com/track/69QHGsphyHQRqGjczGMnEt"
@@ -7345,6 +7441,24 @@
     },
     {
       "album": {
+        "name": "Stella Cole",
+        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
+    },
+    {
+      "album": {
         "name": "My One and Only",
         "url": "https://open.spotify.com/album/3gqvvLZSkrGFl1gtomQrs0"
       },
@@ -8066,7 +8180,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 168218,
       "name": "Orange-coloured day",
       "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
@@ -8202,7 +8316,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 211818,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
@@ -9185,6 +9299,32 @@
     },
     {
       "album": {
+        "name": "Sen\u00e9",
+        "url": "https://open.spotify.com/album/4CdJPdAgjzwMnx4L0bOhBV"
+      },
+      "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Lorenzo Bianchi Hoesch",
+          "url": "https://open.spotify.com/artist/5vA57rzePpd4a6mejMCKvQ"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394000,
+      "name": "Sen\u00e9",
+      "url": "https://open.spotify.com/track/2CkKvzu4AmiZipQGRqxWy6"
+    },
+    {
+      "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
       },
@@ -9234,6 +9374,24 @@
       "duration_ms": 217586,
       "name": "Shadow Love",
       "url": "https://open.spotify.com/track/7hZks381Vo5vIhzZCn08sC"
+    },
+    {
+      "album": {
+        "name": "Shaped By Water",
+        "url": "https://open.spotify.com/album/0mPOzgJWbnvAKEgs2aKPTG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Shaped By Water",
+      "url": "https://open.spotify.com/track/3r4IwIKPzgCTqo3nhoRHXq"
     },
     {
       "album": {
@@ -10526,10 +10684,46 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 388160,
       "name": "The Otter Creek Incident",
       "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
+    },
+    {
+      "album": {
+        "name": "The Bird Of A Thousand Voices",
+        "url": "https://open.spotify.com/album/4UnelVCThASbUfwNKPFqCa"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271911,
+      "name": "The Quest Begins",
+      "url": "https://open.spotify.com/track/3pbRUWgefMDCVY0DBFoNkK"
+    },
+    {
+      "album": {
+        "name": "The Smile of Rita",
+        "url": "https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "The Smile of Rita",
+      "url": "https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20"
     },
     {
       "album": {
@@ -12313,6 +12507,24 @@
     },
     {
       "album": {
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275080,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
+    },
+    {
+      "album": {
         "name": "You're the Top",
         "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
       },
@@ -12364,7 +12576,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 158177,
       "name": "You\u2019re Everything",
       "url": "https://open.spotify.com/track/7yLCRcvLBrQkRUAngyuBft"

@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Blossoms
 
-307 songs - 17 hr 23 min
+309 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-09 | 2024-04-19 |
 | [Heavy](https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Heavy](https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl) | 3:27 | 2024-01-09 | 2024-01-11 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2023-01-10 | 2023-02-24 |
-| [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 | 2024-04-15 |  |
+| [Hello](https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ) | [The Kites](https://open.spotify.com/artist/3ozhwCsC7L5vosnIQrX1jy) | [Hello](https://open.spotify.com/album/4q41CEqg6BbETmU5N7Cp8S) | 2:39 | 2024-04-15 | 2024-08-30 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-21 |  |
 | [HEY WHAT'S HAPPENIN?](https://open.spotify.com/track/1JoGT0DC76LoABejDyTpz2) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [HEY WHAT'S HAPPENIN?](https://open.spotify.com/album/4kyZfTFL1yQG8A4BiOSuHL) | 1:48 | 2024-01-26 | 2024-07-13 |
 | [Hiding & Reading](https://open.spotify.com/track/07LMjoua9eEWxfLxqZ7PUQ) | [The Hubbards](https://open.spotify.com/artist/5qU07JDAP3mSTpsbRcEbYD) | [Hiding & Reading](https://open.spotify.com/album/1kGZ5GfyjsH1v4ZiGVWjj6) | 2:58 | 2024-01-26 | 2024-02-24 |
@@ -189,6 +189,7 @@
 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 | 2023-02-24 | 2024-02-09 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2023-01-10 |  |
 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 | 2023-01-10 | 2024-06-01 |
+| [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 | 2024-08-29 |  |
 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 | 2023-01-10 | 2024-01-27 |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-02-02 | 2024-04-19 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-22 | 2024-05-11 |
@@ -209,7 +210,7 @@
 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 | 2023-12-22 | 2024-02-28 |
 | [Not Fake](https://open.spotify.com/track/7IT1QaeFe7vtilKLWpM2Lr) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [1 2 3 4](https://open.spotify.com/album/1z1Esz1o2xb8NPccIJP8yp) | 3:54 | 2024-02-23 | 2024-04-14 |
 | [Not Like The Rest](https://open.spotify.com/track/4KwYHGWMQelyzc6a5RXP4a) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Not Like The Rest](https://open.spotify.com/album/311IWRJeyNHUwqV3bk3Grb) | 3:14 | 2024-07-12 | 2024-08-22 |
-| [Oh Emily](https://open.spotify.com/track/5zb1wjPWBN0l8336yYjD9d) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Oh Emily](https://open.spotify.com/album/6XiF1c1A2HjpQ6Lx0qvCIJ) | 3:56 | 2024-04-15 |  |
+| [Oh Emily](https://open.spotify.com/track/5zb1wjPWBN0l8336yYjD9d) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Oh Emily](https://open.spotify.com/album/6XiF1c1A2HjpQ6Lx0qvCIJ) | 3:56 | 2024-04-15 | 2024-08-30 |
 | [Oh Shit](https://open.spotify.com/track/6RrAa9EThfrXsM3Yi6CJ3J) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Oh Shit](https://open.spotify.com/album/7ukfGmbgZaDTljhTnx3ydi) | 3:01 | 2024-07-12 |  |
 | [On the Back Burner](https://open.spotify.com/track/6eczJiyXPukaEhiA6OPPtk) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Alcopops & Charity Shops](https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB) | 2:06 | 2023-01-10 |  |
 | [One Man Band](https://open.spotify.com/track/2D4CxBVX7N2ob0IHZKMm0e) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [One Man Band](https://open.spotify.com/album/4sAnhPJ2iRrbxesJeIuLAW) | 3:38 | 2023-08-04 | 2023-12-22 |
@@ -249,6 +250,7 @@
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-05-31 |  |
 | [Skint Eastwood](https://open.spotify.com/track/7gMCx5OAvXAN6Mtr5nvyiV) | [The Rills](https://open.spotify.com/artist/2xOzJ4KDhvZrBLCvorstRR) | [Do It Differently](https://open.spotify.com/album/5mi8hQT8Y4RbfSu8l6zaws) | 3:09 | 2023-01-10 | 2023-04-19 |
 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 | 2023-02-24 |  |
+| [Slide Away \- Remastered](https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:32 | 2024-08-29 |  |
 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 | 2023-03-31 | 2023-10-20 |
 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 | 2023-02-24 | 2024-01-30 |
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-12 |  |

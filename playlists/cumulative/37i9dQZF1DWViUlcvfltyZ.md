@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Cover: Vanarin
 
-1,041 songs - 2 day 9 hr 30 min
+1,045 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [AIP](https://open.spotify.com/track/1VLxvPzn2q95NsDQaqOwCM) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [AIP](https://open.spotify.com/album/0SLgtOJQyz2PiqMYGqPONw) | 2:57 | 2022-05-09 | 2022-06-03 |
 | [AIR 909](https://open.spotify.com/track/4AVqvJLUnVuZlAVFUyxt7T) | [Human Colonies](https://open.spotify.com/artist/0ovQRMWn970TPuWTw08lGk) | [AIR 909](https://open.spotify.com/album/52PialnUd1hFfa1DHIAiMG) | 1:57 | 2023-06-08 | 2023-06-23 |
 | [Albanera](https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Albanera](https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX) | 4:01 | 2023-09-21 | 2023-10-24 |
+| [Alfabeto Morse](https://open.spotify.com/track/7hgbQAeDkakYnio3JsUblh) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Alfabeto Morse](https://open.spotify.com/album/4OXZQWrQrY0XhPjp8XQ8kW) | 3:26 | 2024-08-29 |  |
 | [All'Apice](https://open.spotify.com/track/5Mvf9Jkq7jfOO51phvVkub) | [Tancredi Bin](https://open.spotify.com/artist/4dAoe0NJbubYAyzhiWCuyX) | [All'Apice](https://open.spotify.com/album/4EC0q8dyQKs3bo5F3RmScg) | 2:53 | 2024-05-16 | 2024-07-05 |
 | [ALL'INFERNO C'È IL SOLE](https://open.spotify.com/track/2CtHbDq3Xx45lU8lnRhiE6) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [CARNE OSSA](https://open.spotify.com/album/5iIkvPvQvxoYFSoaId1YCX) | 4:20 | 2023-02-16 | 2023-05-12 |
 | [All'Ombra Dei Palazzi](https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Via Briantea](https://open.spotify.com/album/6to4L28zGrellDt1u8HEt2) | 3:36 | 2024-03-14 | 2024-06-21 |
@@ -379,6 +380,7 @@
 | [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIME DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 | 2023-07-18 | 2023-10-06 |
 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 | 2023-06-29 | 2023-12-06 |
 | [Giurami](https://open.spotify.com/track/4NGDpOt89PQ3Xqm5IXX3Qp) | [Frisàri](https://open.spotify.com/artist/2f6mtYy1MV0l5jYGGdCYTN) | [Giurami](https://open.spotify.com/album/7w6StKgRMwZWDjquLSMr6Q) | 3:32 | 2024-04-18 | 2024-05-17 |
+| [Globuli Rossi](https://open.spotify.com/track/03qG1nmLmKUrgY1ZnTpECZ) | [Giannutri](https://open.spotify.com/artist/4xFxwnTLVJZ5JIWKVK6RPy) | [Globuli Rossi](https://open.spotify.com/album/3ilEmPD8QwtxzxDZo2Ehnw) | 2:41 | 2024-08-29 |  |
 | [Go catch 'em](https://open.spotify.com/track/2HkT6v7XVIdYizYyJ6jy8e) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Go catch 'em](https://open.spotify.com/album/2KT9S4I1YuF7AxLC2EnQFg) | 2:35 | 2024-02-29 | 2024-06-14 |
 | [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |
 | [God Don't Leave Me Alone](https://open.spotify.com/track/4hY0zYNaCIYvCm6f3QB6xQ) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Resurrection \(Act I\)](https://open.spotify.com/album/4rWi4MBcMopY0uK91ctO5x) | 3:37 | 2024-04-18 | 2024-06-07 |
@@ -686,6 +688,7 @@
 | [orso](https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7) | [SANTATERESA](https://open.spotify.com/artist/2PTv9Z4F73QVUNS8IWJGDz) | [orso](https://open.spotify.com/album/7ii0v1oYLS4CmGzNOcQR62) | 3:30 | 2023-07-06 | 2023-11-10 |
 | [Our Atoms](https://open.spotify.com/track/0GSQQqvJWQQUSoPkRD0oUt) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Our Atoms](https://open.spotify.com/album/3Bf3eD4nYH4G3KaHVnjtbO) | 4:04 | 2023-11-30 | 2024-01-26 |
 | [Our Fault](https://open.spotify.com/track/3vhIkibnn6c7RIoYwYCTvh) | [Trust The Mask](https://open.spotify.com/artist/4QzZ1csaFZmC5N2tOvtQR6) | [Our Fault](https://open.spotify.com/album/6ZmALkxIf4hVWPQR7LYSa9) | 3:56 | 2023-05-11 | 2023-06-15 |
+| [Oxygen](https://open.spotify.com/track/1huV0ZHHl6swbFdvj8lG0y) | [Marta Vega](https://open.spotify.com/artist/7KtHuw3e8j6LnA4PIHyhAr) | [Oxygen](https://open.spotify.com/album/2x8GoLkMrQZ9dgVS41fRK2) | 2:30 | 2024-08-29 |  |
 | [Palle piene](https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Palle piene](https://open.spotify.com/album/6uWUi8vGKSQmx9z9zKSZEG) | 3:20 | 2023-03-16 | 2023-04-07 |
 | [Palpitazioni](https://open.spotify.com/track/6NyMBMLgfgjxIHM574xC89) | [Elisa Benetti](https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil) | [Palpitazioni](https://open.spotify.com/album/2gQ6MZ7AinKvE0uzXuao5X) | 2:40 | 2024-08-08 |  |
 | [panfilo](https://open.spotify.com/track/7mblNJ7YP0qY9qRvcJX4ql) | [giovanni pedersini](https://open.spotify.com/artist/7st4Lxa5DqYksukGujvxpr) | [ti ho dato tutto non cerco che questo](https://open.spotify.com/album/4P8GyV9bd6XB0e04BWBu05) | 3:08 | 2024-05-02 | 2024-06-07 |
@@ -862,6 +865,7 @@
 | [Something Is Not Right](https://open.spotify.com/track/3hivAsteiv2WRxrKYftutV) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Something Is Not Right](https://open.spotify.com/album/5btnTuoNpS1zzeEKegid1g) | 3:14 | 2023-05-04 | 2023-07-28 |
 | [SOS](https://open.spotify.com/track/5WOpY1zsEVZHJMHTftuIzw) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [SOS](https://open.spotify.com/album/28KZcEMzj3R0f0jSmuO6Bc) | 2:27 | 2022-11-24 | 2023-01-20 |
 | [Sospeso](https://open.spotify.com/track/1PJQQEslp4XOtqG1OEVqn9) | [Cuperose](https://open.spotify.com/artist/4fwS0Qmj1ibopE0B3BTYQb) | [Cuperose](https://open.spotify.com/album/6sKlg0IkO7HayYvz3Fsd7q) | 3:36 | 2024-01-25 | 2024-03-01 |
+| [Sotto trema](https://open.spotify.com/track/7AU3zEGJHwEmLyzxTQ9Zst) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Sotto trema](https://open.spotify.com/album/0mglKXdoqnHJsrwyoHXVJu) | 2:45 | 2024-08-29 |  |
 | [SOUTH MANICOMIO](https://open.spotify.com/track/1hsWanzRenfDfghS93SG2D) | [FANTASMA DI ME](https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l) | [SOUTH MANICOMIO](https://open.spotify.com/album/3Uw4AL4TVQFF8zl8jAlA8T) | 2:57 | 2024-05-30 | 2024-07-19 |
 | [Soybeans](https://open.spotify.com/track/06VZlXREvuS3hTJYsvCOnG) | [The Gluts](https://open.spotify.com/artist/13WOru4Cg1ZdszgnB1AU17) | [Soybeans](https://open.spotify.com/album/0yH7ntXH0dHFkzokZ1Ak5P) | 2:29 | 2024-05-09 | 2024-06-01 |
 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 | 2022-12-15 | 2023-06-30 |

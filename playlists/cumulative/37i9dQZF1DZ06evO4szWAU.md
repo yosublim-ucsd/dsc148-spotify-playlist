@@ -2,7 +2,7 @@
 
 ### [This Is Willie Colón](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4szWAU)
 
-> This is Willie Colón\. The essential tracks, all in one playlist.
+> This is: Willie Colón\. Alle wichtigen Tracks in einer Playlist.
 
 71 songs - 6 hr 27 min
 

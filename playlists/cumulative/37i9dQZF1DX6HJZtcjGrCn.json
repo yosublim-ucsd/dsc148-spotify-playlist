@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Brank, Juniper, Mul\u00fa",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Branko, Juniper, Mul\u00fa",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 205718,
       "name": "At Your Feet",
       "url": "https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 213240,
       "name": "Long Dark Night",
       "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 209640,
       "name": "Seasons & Narcissus",
       "url": "https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv"
@@ -2190,6 +2190,24 @@
       "duration_ms": 245933,
       "name": "XTC",
       "url": "https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi"
+    },
+    {
+      "album": {
+        "name": "\u00c9 da Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/3guaxLXnYqUupZCgdDlvSS"
+      },
+      "artists": [
+        {
+          "name": "Zarco",
+          "url": "https://open.spotify.com/artist/4HRBWg3xfeRpTQoA8QzUcZ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198073,
+      "name": "\u00c9 da Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5o5vDEl7aCOQcwB9ZqBn0s"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn"

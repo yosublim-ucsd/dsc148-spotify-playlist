@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 24269,
+  "num_followers": 24280,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Let's Buzz",
+        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
+      },
+      "artists": [
+        {
+          "name": "The Paladins",
+          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Keep On Lovin' Me Baby",
+      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "The Son Seals Blues Band",
         "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Let's Buzz",
-        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
-      },
-      "artists": [
-        {
-          "name": "The Paladins",
-          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Keep On Lovin' Me Baby",
-      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
     },
     {
       "added_at": "2023-05-17 15:52:13",

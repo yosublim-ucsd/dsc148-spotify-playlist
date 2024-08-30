@@ -4,7 +4,7 @@
 
 > Afro diaspora cuts from around the globe\. Cover: Omah Lay
 
-539 songs - 1 day 3 hr 41 min
+541 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-01-12 | 2023-06-02 |
 | [Babyana](https://open.spotify.com/track/5dy9lQPfPsYgx8JNhguqgM) | [TheWesternGuide](https://open.spotify.com/artist/3Ps1KUmU2DZIpboms9Bozn) | [Babyana](https://open.spotify.com/album/3J4gCEIsspF9BppDLjZyGK) | 2:52 | 2022-07-18 | 2022-12-02 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-06 | 2023-07-14 |
+| [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-29 |  |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-12-08 | 2023-01-20 |
 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 | 2022-07-18 | 2022-08-19 |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-05-09 |  |
@@ -212,6 +213,7 @@
 | [Jolie bébé](https://open.spotify.com/track/5rsBs4jsJRkpNMziVn4xw0) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [De l'autre côté](https://open.spotify.com/album/4BDpKPjs4tVrdIYiUX0KEt) | 2:25 | 2024-07-11 |  |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2023-12-14 |
 | [Joro](https://open.spotify.com/track/2Ieg17N2qwNJAlocVDObdz) | [Lowkey](https://open.spotify.com/artist/1QFlILbai7c5GQMibs7jhl), [Joe Prince](https://open.spotify.com/artist/7rBbP4OvjNjiSHoHtXUpyk) | [Joro](https://open.spotify.com/album/2WdJAWM5snSYOAxBwQoYnB) | 3:08 | 2022-09-05 | 2022-09-09 |
+| [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-08-29 |  |
 | [JOY](https://open.spotify.com/track/1FhSj4rHDBZyiQ1CFTtAM0) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Pheelz Good \(Triibe Tape\)](https://open.spotify.com/album/4eHCM8MZ7kRmG7Fy9WMBEM) | 2:45 | 2024-04-13 | 2024-06-07 |
 | [JOY \(feat\. Olamide\)](https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Pheelz Good \(Triibe Tape\)](https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ) | 2:45 | 2023-12-07 | 2024-04-19 |
 | [JULIE](https://open.spotify.com/track/6oCG7ogQjq210CwMmcpvLk) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP), [Sachiv](https://open.spotify.com/artist/6G8uW9edDMcviIzs0AH3Ri) | [JULIE](https://open.spotify.com/album/06ZSuNmm8YWEoZLAKkW93V) | 2:57 | 2023-04-13 | 2023-07-14 |

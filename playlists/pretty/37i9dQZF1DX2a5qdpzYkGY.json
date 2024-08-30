@@ -1,28 +1,32 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12345,
+  "num_followers": 12346,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsOxQAAAAAByTqhMZIJD3njZPt7ulqM6",
+  "snapshot_id": "Zs/4WwAAAABvN9YcbX6lPALKLFqH4Eg8",
   "tracks": [
     {
-      "added_at": "2022-11-17 23:02:33",
+      "added_at": "2024-08-29 04:26:03",
       "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/1cUaUc1ZjGRAgu1rltpeN8"
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK"
       },
       "artists": [
         {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
         }
       ],
-      "duration_ms": 119053,
-      "name": "String Feelings",
-      "url": "https://open.spotify.com/track/0nWOYmDaMsM7uJChu8zspP"
+      "duration_ms": 519603,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
     },
     {
       "added_at": "2024-08-19 20:55:28",
@@ -85,60 +89,56 @@
       "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
     },
     {
-      "added_at": "2023-01-03 03:48:53",
+      "added_at": "2024-08-29 04:26:03",
       "album": {
-        "name": "Journey in Satchidananda",
-        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
       },
       "artists": [
         {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+          "name": "Ezra Feinberg",
+          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
         },
         {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+          "name": "David Lackner",
+          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
         }
       ],
-      "duration_ms": 396066,
-      "name": "Journey In Satchidananda",
-      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
+      "duration_ms": 358826,
+      "name": "Soft Power",
+      "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
     },
     {
-      "added_at": "2024-05-31 06:00:00",
+      "added_at": "2024-08-29 04:26:03",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 120453,
-      "name": "Moonlight Rendez-vous",
-      "url": "https://open.spotify.com/track/48cyBWVdq8n5sZ6G8qghOJ"
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
-      "added_at": "2024-04-23 00:31:13",
+      "added_at": "2022-11-17 23:02:33",
       "album": {
-        "name": "Hell To The Liars (feat. NATURE)",
-        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/1cUaUc1ZjGRAgu1rltpeN8"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
         }
       ],
-      "duration_ms": 571168,
-      "name": "Hell To The Liars (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
+      "duration_ms": 119053,
+      "name": "String Feelings",
+      "url": "https://open.spotify.com/track/0nWOYmDaMsM7uJChu8zspP"
     },
     {
       "added_at": "2024-06-27 20:04:51",
@@ -195,6 +195,62 @@
       "duration_ms": 357705,
       "name": "Onda tropical, I. Rebajado",
       "url": "https://open.spotify.com/track/1eZkkqimRQ4rZx1TqRsYsl"
+    },
+    {
+      "added_at": "2023-01-03 03:48:53",
+      "album": {
+        "name": "Journey in Satchidananda",
+        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
+      },
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 396066,
+      "name": "Journey In Satchidananda",
+      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 120453,
+      "name": "Moonlight Rendez-vous",
+      "url": "https://open.spotify.com/track/48cyBWVdq8n5sZ6G8qghOJ"
+    },
+    {
+      "added_at": "2024-04-23 00:31:13",
+      "album": {
+        "name": "Hell To The Liars (feat. NATURE)",
+        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 571168,
+      "name": "Hell To The Liars (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -269,6 +325,46 @@
       "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
     },
     {
+      "added_at": "2024-06-19 16:43:41",
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
+      },
+      "artists": [
+        {
+          "name": "Black Decelerant",
+          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
+        },
+        {
+          "name": "Contour",
+          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+        },
+        {
+          "name": "Omari Jazz",
+          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "five",
+      "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Don't Shy Away",
@@ -317,30 +413,6 @@
       "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
-      "added_at": "2024-06-19 16:43:41",
-      "album": {
-        "name": "three",
-        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
-      },
-      "artists": [
-        {
-          "name": "Black Decelerant",
-          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
-        },
-        {
-          "name": "Contour",
-          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
-        },
-        {
-          "name": "Omari Jazz",
-          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "five",
-      "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
-    },
-    {
       "added_at": "2022-05-18 00:18:47",
       "album": {
         "name": "Machinarium Soundtrack",
@@ -373,70 +445,6 @@
       "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Birds, Pt. I",
-      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
-    },
-    {
       "added_at": "2024-06-19 16:43:41",
       "album": {
         "name": "three",
@@ -461,20 +469,20 @@
       "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"
     },
     {
-      "added_at": "2024-05-23 23:19:14",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Mid Spiral: Order",
-        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
         }
       ],
-      "duration_ms": 415372,
-      "name": "Playgroup",
-      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-07-02 21:27:22",
@@ -493,6 +501,22 @@
       "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Birds, Pt. I",
+      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
+    },
+    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Sunset Mission",
@@ -509,22 +533,6 @@
       "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "The Dream of Delphi",
-        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 120840,
-      "name": "Breaking Up",
-      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
-    },
-    {
       "added_at": "2024-07-05 03:19:52",
       "album": {
         "name": "Fight / Flight",
@@ -539,6 +547,54 @@
       "duration_ms": 68853,
       "name": "Flight",
       "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
+      "added_at": "2024-05-23 23:19:14",
+      "album": {
+        "name": "Mid Spiral: Order",
+        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 415372,
+      "name": "Playgroup",
+      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "The Dream of Delphi",
+        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "duration_ms": 120840,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -829,22 +885,6 @@
       "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Kissing Rosy in the Rain",
-        "url": "https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz"
-      },
-      "artists": [
-        {
-          "name": "Mason Lindahl",
-          "url": "https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Sky Breaking, Clouds Falling",
-      "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Mysteries",
@@ -859,6 +899,22 @@
       "duration_ms": 183851,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Kissing Rosy in the Rain",
+        "url": "https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz"
+      },
+      "artists": [
+        {
+          "name": "Mason Lindahl",
+          "url": "https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Sky Breaking, Clouds Falling",
+      "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -925,22 +981,6 @@
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
     },
     {
-      "added_at": "2022-02-18 04:38:12",
-      "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
-      },
-      "artists": [
-        {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
-    },
-    {
       "added_at": "2024-04-12 00:43:48",
       "album": {
         "name": "Sharko III",
@@ -955,6 +995,22 @@
       "duration_ms": 76013,
       "name": "Stuck T",
       "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
+    },
+    {
+      "added_at": "2022-02-18 04:38:12",
+      "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1283,58 +1339,6 @@
       "duration_ms": 205205,
       "name": "For You, Please",
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 234292,
-      "name": "Jinja Encounters",
-      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
-    },
-    {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Bucolic Architecture (Flug 8 Remix)",
-        "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
-      },
-      "artists": [
-        {
-          "name": "Yoann Pisterman",
-          "url": "https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A"
-        },
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
-        }
-      ],
-      "duration_ms": 386754,
-      "name": "Bucolic Architecture - Flug 8 Remix",
-      "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
-    },
-    {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC"
-      },
-      "artists": [
-        {
-          "name": "Eternell",
-          "url": "https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9"
-        }
-      ],
-      "duration_ms": 1088375,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
     }
   ],
   "unique_name": "transience",

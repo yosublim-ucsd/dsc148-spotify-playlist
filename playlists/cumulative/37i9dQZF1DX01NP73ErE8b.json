@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: JVLI, Emma, Olly",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Fasma",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "pupille",
+        "url": "https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169328,
+      "name": "pupille",
+      "url": "https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3"
+    },
+    {
+      "album": {
         "name": "QUE PASA",
         "url": "https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio"
       },
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159685,
       "name": "SEXY MAGICA",
       "url": "https://open.spotify.com/track/7CLlCROEnQiqEDTt2zjn2t"

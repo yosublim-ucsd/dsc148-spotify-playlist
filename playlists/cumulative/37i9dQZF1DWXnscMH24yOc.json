@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
@@ -4356,6 +4356,28 @@
       "duration_ms": 292013,
       "name": "The Tourist",
       "url": "https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7"
+    },
+    {
+      "album": {
+        "name": "These Days / Velocity! What About The Inertia!?",
+        "url": "https://open.spotify.com/album/4rAM0kgT7oNRzFfnJWd8nE"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        },
+        {
+          "name": "Laugh Cry Laugh",
+          "url": "https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2kJYJikUAu0l8DwGMMzS8t"
     },
     {
       "album": {

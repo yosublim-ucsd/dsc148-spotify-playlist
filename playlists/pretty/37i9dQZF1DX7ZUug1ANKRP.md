@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,829,399 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,265 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 |
 | 50 | [City Lights](https://open.spotify.com/track/01p4kZ0CMpG3uetamwG1uV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [City Lights](https://open.spotify.com/album/4UOFyqgpAxwkHhpM5Evg6L) | 2:59 |
 
-Snapshot ID: `ZsxhaQAAAABLY7DOJq5gvWm6g1t8Uw9l`
+Snapshot ID: `ZtAn2gAAAACX7iSnNb5pWGmLMYpC2hXl`

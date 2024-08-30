@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > La dolce playlist! Listen to all the music from The White Lotus, <br/>now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,929 likes - 94 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,940 likes - 94 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 21 | [Piccolo piccolo](https://open.spotify.com/track/74zSpmg9Y4kRYcX3vxKRLd) | [Robertino](https://open.spotify.com/artist/1zB6QrCTm5gvZG5ZsYgSfy) | [Robertino Top Songs](https://open.spotify.com/album/5sE9AgCpcXyzPxzi7F4Sm3) | 2:33 |
 | 22 | [Un anno d'amore](https://open.spotify.com/track/2rn48d6ACa5rpLLnnowNQ0) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Studio Uno](https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C) | 3:13 |
 | 23 | [Ti ruberò](https://open.spotify.com/track/7JqnMhkypXhaFUqD74U6kO) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [Le più belle canzoni di Bruno Lauzi](https://open.spotify.com/album/7yDrycDjqxK5mMTRcSbUez) | 2:55 |
-| 24 | [Amore Che Vieni, Amore Che Vai \- Remastered 2019](https://open.spotify.com/track/2sJFA0rQpuZW6wGbFT73Ss) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Fleurs \(Remastered\)](https://open.spotify.com/album/6AUIAGxee5KOCQeiZSZDrg) | 2:27 |
+| 24 | [Amore Che Vieni, Amore Che Vai \- Remastered 2019](https://open.spotify.com/track/2sJFA0rQpuZW6wGbFT73Ss) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Fleurs \- Remastered 2019](https://open.spotify.com/album/6AUIAGxee5KOCQeiZSZDrg) | 2:27 |
 | 25 | [Tu si' 'na cosa grande](https://open.spotify.com/track/3RYdPO4886So44fooKMfp2) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 3:17 |
 | 26 | [Via del campo](https://open.spotify.com/track/732hl1bSexhqKxC3B0T3IU) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Volume 1](https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth) | 2:29 |
 | 27 | [Ogni Uno](https://open.spotify.com/track/6ZDj96ofnAPxyfA9YqCfgY) | [Eugenio Bennato](https://open.spotify.com/artist/5EQMO0g2Ley9i4VlOwYQt5) | [Sponda Sud](https://open.spotify.com/album/02SUXXP7UNJc2UnLul6GNo) | 3:54 |

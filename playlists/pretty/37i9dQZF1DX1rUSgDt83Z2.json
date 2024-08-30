@@ -1,15 +1,31 @@
 {
   "description": "Mooi van eigen bodem, nationaal in elke taal.",
-  "num_followers": 33768,
+  "num_followers": 33812,
   "original_name": "Made in NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqtTYAAAAADVJnKQ+6u21/yeCUOZM0Wz",
+  "snapshot_id": "ZtDvYAAAAAC25Xlek8st13S1TpjXZ1z3",
   "tracks": [
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Geen Water Bij De Wijn",
+        "url": "https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "Hier bij mij",
+      "url": "https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
@@ -29,23 +45,27 @@
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Speed Of Light",
-        "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
+        "name": "I Will Go There (feat. remme)",
+        "url": "https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55"
       },
       "artists": [
         {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        },
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
         }
       ],
-      "duration_ms": 187832,
-      "name": "Speed Of Light",
-      "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
+      "duration_ms": 200960,
+      "name": "I Will Go There (feat. remme)",
+      "url": "https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Zie Ik Jou Weer Morgen?",
         "url": "https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo"
@@ -65,7 +85,55 @@
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Speed Of Light",
+        "url": "https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 187832,
+      "name": "Speed Of Light",
+      "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "The Ones We Seek",
+        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 274955,
+      "name": "The Ones We Seek",
+      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja"
@@ -81,23 +149,27 @@
       "url": "https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Kom Met Me Dansen",
-        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
       },
       "artists": [
         {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        },
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
         }
       ],
-      "duration_ms": 240249,
-      "name": "Kom Met Me Dansen",
-      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
+      "duration_ms": 214186,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Somebody New",
         "url": "https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO"
@@ -113,55 +185,23 @@
       "url": "https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Maar Niet Met Jou Erbij",
-        "url": "https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/6OGsIPlUpRU3qrujAMpoes"
       },
       "artists": [
         {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
         }
       ],
-      "duration_ms": 181951,
-      "name": "Maar Niet Met Jou Erbij",
-      "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
+      "duration_ms": 202070,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/37AQpBD3OF7KqbPf8ljGCI"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Wat Ik Ook Ga Doen",
-        "url": "https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 158694,
-      "name": "Wat Ik Ook Ga Doen",
-      "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Zomaar Zomer",
         "url": "https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO"
@@ -177,7 +217,55 @@
       "url": "https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Wat Ik Ook Ga Doen",
+        "url": "https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 158694,
+      "name": "Wat Ik Ook Ga Doen",
+      "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0gFigDIR4qSnx14w9ULbER"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3dRdUT6NFmQMgW71bj3AAY"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Dansen Om Het Vuur",
         "url": "https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF"
@@ -197,7 +285,7 @@
       "url": "https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "diesel",
         "url": "https://open.spotify.com/album/2TSmOypnsga9cVJVtiHQHg"
@@ -213,71 +301,7 @@
       "url": "https://open.spotify.com/track/3HNux7xnWN8BwV7Tr2zkml"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0gFigDIR4qSnx14w9ULbER"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3dRdUT6NFmQMgW71bj3AAY"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "It's You Or Me",
-        "url": "https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 234129,
-      "name": "It's You Or Me",
-      "url": "https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Regenhart",
-        "url": "https://open.spotify.com/album/1IPe5pTccIVX5WBxFYbm1C"
-      },
-      "artists": [
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
-        }
-      ],
-      "duration_ms": 209752,
-      "name": "Regenhart",
-      "url": "https://open.spotify.com/track/2MIpqsKokjAnNbJKgdKC0e"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Jarryd",
-          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
-        }
-      ],
-      "duration_ms": 177233,
-      "name": "Still Love",
-      "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Als Nu Nu Is",
         "url": "https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9"
@@ -293,7 +317,39 @@
       "url": "https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        }
+      ],
+      "duration_ms": 177233,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Maar Niet Met Jou Erbij",
+        "url": "https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Maar Niet Met Jou Erbij",
+      "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Belangrijk",
         "url": "https://open.spotify.com/album/0KpvKRZa46wgvsDtXlVCTt"
@@ -309,7 +365,7 @@
       "url": "https://open.spotify.com/track/6QJFBH8HpTzTVVNE7Crbh2"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Omdat Je Me Ziet",
         "url": "https://open.spotify.com/album/0nCjIQmD4gmIZrXSTcJ46x"
@@ -325,23 +381,7 @@
       "url": "https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Considering Myself",
-        "url": "https://open.spotify.com/album/6Sr5mQNt6qpREYf34okrA7"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 166564,
-      "name": "Considering Myself",
-      "url": "https://open.spotify.com/track/5NXMXPvpWKSPIyiFB5sAnK"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Thuis & Vliegen",
         "url": "https://open.spotify.com/album/4qLWvDi7OaLGMpkfQdxIzw"
@@ -357,7 +397,7 @@
       "url": "https://open.spotify.com/track/4QU7b7cffYGrzVk0jayBeA"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Hedonism",
         "url": "https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Schijnbaar Niet Waar",
         "url": "https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS"
@@ -389,7 +429,7 @@
       "url": "https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/7LWtW6KBmbvFd9V6EVuvjq"
@@ -405,7 +445,23 @@
       "url": "https://open.spotify.com/track/2u109kLlyAdp5Kidcwi8HP"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Kom Met Me Dansen",
+        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 240249,
+      "name": "Kom Met Me Dansen",
+      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Brandende Zee",
         "url": "https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Horizon (ft. Julia Zahra)",
         "url": "https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B"
@@ -441,23 +497,7 @@
       "url": "https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "What If I Want You Now",
-        "url": "https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq"
-      },
-      "artists": [
-        {
-          "name": "KANE",
-          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
-        }
-      ],
-      "duration_ms": 190645,
-      "name": "What If I Want You Now",
-      "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Slaapwandelaar",
         "url": "https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R"
@@ -477,23 +517,7 @@
       "url": "https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW"
-      },
-      "artists": [
-        {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
@@ -513,7 +537,23 @@
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Geef Me Over",
+        "url": "https://open.spotify.com/album/0Qi68mTfZhoCeAyztugCD2"
+      },
+      "artists": [
+        {
+          "name": "Birgit Schuurman",
+          "url": "https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba"
+        }
+      ],
+      "duration_ms": 206846,
+      "name": "Geef Me Over",
+      "url": "https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Queen of my Castle",
         "url": "https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "The Indien",
         "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Alle sterke mensen",
         "url": "https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ"
@@ -561,7 +601,39 @@
       "url": "https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Regenhart",
+        "url": "https://open.spotify.com/album/1IPe5pTccIVX5WBxFYbm1C"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
+        }
+      ],
+      "duration_ms": 209752,
+      "name": "Regenhart",
+      "url": "https://open.spotify.com/track/2MIpqsKokjAnNbJKgdKC0e"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Los",
         "url": "https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f"
@@ -577,7 +649,7 @@
       "url": "https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Huil Maar Niet Om Mij",
         "url": "https://open.spotify.com/album/17myds3ynEuOM29OFacYpD"
@@ -593,23 +665,7 @@
       "url": "https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Heart On Fire",
-        "url": "https://open.spotify.com/album/3EfNgX7JOf2C4PnENLgjNX"
-      },
-      "artists": [
-        {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/1xC7pXx7gNWuDT1cS72ndv"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "YOUNGER ME",
         "url": "https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX"
@@ -625,7 +681,7 @@
       "url": "https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Samen \u00c9\u00e9n",
         "url": "https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc"
@@ -641,7 +697,7 @@
       "url": "https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Stukje Van Mij",
         "url": "https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL"
@@ -657,7 +713,7 @@
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Tikkie Voor De Tranen",
         "url": "https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm"
@@ -677,7 +733,7 @@
       "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Not a game",
         "url": "https://open.spotify.com/album/0DOY7ZM2S1noAk20375tt8"
@@ -693,23 +749,7 @@
       "url": "https://open.spotify.com/track/1c81DfdPrL41JzciAU3FeX"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 229697,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Hurt Me",
         "url": "https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "My Blood",
         "url": "https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Zeg Niks",
         "url": "https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3"
@@ -757,39 +797,7 @@
       "url": "https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Verbonden",
-        "url": "https://open.spotify.com/album/0WXUWk23Vy0tMhP7v0I3a9"
-      },
-      "artists": [
-        {
-          "name": "Mus Dam\u00e9",
-          "url": "https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "Verbonden",
-      "url": "https://open.spotify.com/track/6E8c8jeXEiGBosTfXuiq2H"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "I Will Go There",
-        "url": "https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt"
-      },
-      "artists": [
-        {
-          "name": "Krezip",
-          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "I Will Go There",
-      "url": "https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "All We Need",
         "url": "https://open.spotify.com/album/1cxwHJeUhCpJP7MLDY1Pw3"
@@ -805,7 +813,23 @@
       "url": "https://open.spotify.com/track/6M7IyHyAWnRIVIjqcnjhAO"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "It's You Or Me",
+        "url": "https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 234129,
+      "name": "It's You Or Me",
+      "url": "https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Tankstation",
         "url": "https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3"
@@ -819,22 +843,6 @@
       "duration_ms": 202200,
       "name": "Tankstation",
       "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "I Won't Back Down",
-        "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ploeger",
-          "url": "https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF"
     }
   ],
   "unique_name": "Made in NL",

@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 226546,
       "name": "9:45 (feat. Lasmid & Ladipoe)",
       "url": "https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 237949,
       "name": "Adaadaa",
       "url": "https://open.spotify.com/track/7d2i8FNVijZutESaJ4n4Ob"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 168960,
       "name": "BOA ME",
       "url": "https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2"
@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 241567,
       "name": "CHAKIDO",
       "url": "https://open.spotify.com/track/42UMrOmFMabE0zT2lSvtuF"
@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 208141,
       "name": "Date Rush",
       "url": "https://open.spotify.com/track/7wmkSBEDuDuvKuefJ6JNoq"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 180406,
       "name": "DELILAH",
       "url": "https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 106290,
       "name": "Eye Clear",
       "url": "https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 224369,
       "name": "Free My Mind (Remix)",
       "url": "https://open.spotify.com/track/7rFvHbi9PX9Ty17sIr4jR4"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 233383,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp"
@@ -4986,7 +4986,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 141428,
       "name": "Kelewele (feat. Joeboy)",
       "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
@@ -5038,6 +5038,24 @@
       "duration_ms": 202352,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR"
+    },
+    {
+      "album": {
+        "name": "Killa Ji Mi",
+        "url": "https://open.spotify.com/album/3AB58hkHnLuIYGmF9fpu3q"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163376,
+      "name": "Killa Ji Mi",
+      "url": "https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf"
     },
     {
       "album": {
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 185257,
       "name": "Life & Money",
       "url": "https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8"
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 172941,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
@@ -6996,7 +7014,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 155532,
       "name": "Obi Tan Wo",
       "url": "https://open.spotify.com/track/6UFei2sXl9dHbOzmCQJOD3"
@@ -7124,7 +7142,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Odo Bi Ye Bad",
       "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
@@ -7734,7 +7752,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
@@ -8596,7 +8614,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 137038,
       "name": "Savage Flow",
       "url": "https://open.spotify.com/track/5Z5Bl3hHAM3N0rpN8QqxAP"
@@ -9176,7 +9194,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166153,
       "name": "Special Love",
       "url": "https://open.spotify.com/track/3tDxbwxI0ekIlubIuqvH97"
@@ -9524,7 +9542,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
@@ -9816,7 +9834,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 155880,
       "name": "Thy Grace",
       "url": "https://open.spotify.com/track/5mr9USRpDKJdryweH8mBFy"
@@ -10094,7 +10112,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
@@ -11186,7 +11204,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ"
@@ -11260,6 +11278,24 @@
       "duration_ms": 176692,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
+    },
+    {
+      "album": {
+        "name": "Zormizor (Asabone)",
+        "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Zormizor (Asabone)",
+      "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8tCg29z8GX8"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Jack White au top des meilleurs morceaux rock du moment.",
+  "description": "Dead Poet Society au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -438,6 +438,24 @@
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW"
+    },
+    {
+      "album": {
+        "name": "believe the hype",
+        "url": "https://open.spotify.com/album/5sZDwRqDaOOdplyfSc2w3I"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215908,
+      "name": "believe the hype",
+      "url": "https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD"
     },
     {
       "album": {
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 186258,
       "name": "Iconic (feat. Jax)",
       "url": "https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8"
@@ -1924,10 +1942,28 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203845,
       "name": "Le D\u00e9tail",
       "url": "https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6"
+    },
+    {
+      "album": {
+        "name": "Danse Animale",
+        "url": "https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH"
+      },
+      "artists": [
+        {
+          "name": "The Odds",
+          "url": "https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158439,
+      "name": "Le D\u00e9tail - Radio Edit",
+      "url": "https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR"
     },
     {
       "album": {
@@ -2360,6 +2396,28 @@
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
     },
     {
       "album": {

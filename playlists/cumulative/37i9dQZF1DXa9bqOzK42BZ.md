@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=bNiHIB34TMaspnYDyfPLug">Phina</a>
 
-189 songs - 16 hr 34 min
+190 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Jina La Yesu](https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp) | 4:55 | 2022-06-24 | 2023-06-09 |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 |  |
 | [Kama Si Wewe](https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Kama Si Wewe](https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf) | 4:57 | 2022-06-24 |  |
+| [Kama Sio Wema Wako](https://open.spotify.com/track/10xrjaeyDwMoouws5bj7FQ) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Kama Sio Wema Wako](https://open.spotify.com/album/2RVTt6R82caHUCa6Z0hb7O) | 5:17 | 2024-08-30 |  |
 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 | 2022-06-24 | 2024-07-12 |
 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 | 2022-06-24 | 2023-04-21 |
 | [Kiriro Drill \- Remix](https://open.spotify.com/track/7qeMkJOTE1yEgJjkuBHfUJ) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Kiriro Drill \(Remix\)](https://open.spotify.com/album/4f5Aubguh5ezrvP8lFeuVq) | 1:53 | 2024-04-19 |  |

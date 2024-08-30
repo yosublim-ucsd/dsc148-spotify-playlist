@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 13340,
+  "num_followers": 13344,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "A Certain Distance",
-        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Two Dots",
-      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Fahrenheit Fair Enough",
@@ -623,6 +607,22 @@
       "duration_ms": 400293,
       "name": "Fahrenheit Fair Enough",
       "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "A Certain Distance",
+        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Two Dots",
+      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/6VVeCK61NH0eXUYjwYy0MP"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
-        "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
-      },
-      "artists": [
-        {
-          "name": "\u25b3\u2583\u25b3\u2593",
-          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
-      "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Moog Indigo",
@@ -707,6 +691,22 @@
       "duration_ms": 191000,
       "name": "E.V.A.",
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
+        "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
+      },
+      "artists": [
+        {
+          "name": "\u25b3\u2583\u25b3\u2593",
+          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
+      "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
-      "added_at": "2023-12-12 18:05:18",
-      "album": {
-        "name": "Extended Play No 1",
-        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
-      },
-      "artists": [
-        {
-          "name": "Twin Color",
-          "url": "https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0"
-        }
-      ],
-      "duration_ms": 389625,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Iaora Tahiti",
@@ -1119,6 +1103,22 @@
       "duration_ms": 250400,
       "name": "Kompod",
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+    },
+    {
+      "added_at": "2023-12-12 18:05:18",
+      "album": {
+        "name": "Extended Play No 1",
+        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
+      },
+      "artists": [
+        {
+          "name": "Twin Color",
+          "url": "https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0"
+        }
+      ],
+      "duration_ms": 389625,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1433,20 +1433,20 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
       },
       "artists": [
         {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 150289,
-      "name": "Years and Elements",
-      "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+      "duration_ms": 346586,
+      "name": "For Marmish",
+      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1465,20 +1465,20 @@
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
         }
       ],
-      "duration_ms": 346586,
-      "name": "For Marmish",
-      "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
+      "duration_ms": 150289,
+      "name": "Years and Elements",
+      "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1729,38 +1729,6 @@
       "url": "https://open.spotify.com/track/1pu33Nx594XUgHoAa0sj2a"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "Sui Shop",
-      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
-    },
-    {
-      "added_at": "2023-12-22 15:58:35",
-      "album": {
-        "name": "Ciutat de sorra",
-        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 704651,
-      "name": "Ciutat de sorra - Instrumental",
-      "url": "https://open.spotify.com/track/43mIM61mitnuRzxRgttpek"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Run",
@@ -1785,6 +1753,22 @@
       "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "Sui Shop",
+      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
+    },
+    {
       "added_at": "2023-07-28 21:27:55",
       "album": {
         "name": "Zero to Sixty",
@@ -1803,6 +1787,22 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
+    },
+    {
+      "added_at": "2023-12-22 15:58:35",
+      "album": {
+        "name": "Ciutat de sorra",
+        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 704651,
+      "name": "Ciutat de sorra - Instrumental",
+      "url": "https://open.spotify.com/track/43mIM61mitnuRzxRgttpek"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1853,22 +1853,6 @@
       "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
-    },
-    {
       "added_at": "2024-02-02 05:56:54",
       "album": {
         "name": "Scorpion Deathlock",
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
       },
       "artists": [
         {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
         }
       ],
-      "duration_ms": 208983,
-      "name": "Red Kite",
-      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -1931,6 +1915,22 @@
       "duration_ms": 339480,
       "name": "Together",
       "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "duration_ms": 208983,
+      "name": "Red Kite",
+      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1981,22 +1981,6 @@
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Empty Space",
@@ -2029,20 +2013,36 @@
       "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "SPECTRA x Instrumentals",
-        "url": "https://open.spotify.com/album/3mwWHFJN7BT5lYioD42Mi9"
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
       },
       "artists": [
         {
-          "name": "Pink Skies",
-          "url": "https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV"
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
         }
       ],
-      "duration_ms": 256570,
-      "name": "St. Tropez - Instrumental",
-      "url": "https://open.spotify.com/track/2gvfkfi3BvbFcDiW6c4Wos"
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Vaganten",
+        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
+      },
+      "artists": [
+        {
+          "name": "ToiToiToi",
+          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Never a Dull Moment",
+      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
     },
     {
       "added_at": "2023-03-29 03:24:26",
@@ -2059,6 +2059,38 @@
       "duration_ms": 266284,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "SPECTRA x Instrumentals",
+        "url": "https://open.spotify.com/album/3mwWHFJN7BT5lYioD42Mi9"
+      },
+      "artists": [
+        {
+          "name": "Pink Skies",
+          "url": "https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV"
+        }
+      ],
+      "duration_ms": 256570,
+      "name": "St. Tropez - Instrumental",
+      "url": "https://open.spotify.com/track/2gvfkfi3BvbFcDiW6c4Wos"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "\u307f\u305e\u3046\u3075\u304f",
+        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u6751\u771f\u4e00",
+          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
+        }
+      ],
+      "duration_ms": 388373,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2079,38 +2111,6 @@
       "duration_ms": 247380,
       "name": "Krautzig",
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Vaganten",
-        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
-      },
-      "artists": [
-        {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Never a Dull Moment",
-      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
-      },
-      "artists": [
-        {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
-        }
-      ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Tropic Air",
+        "url": "https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tropic Air",
+      "url": "https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "High Maintenance: Original Music (Season 1)",
         "url": "https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag"
       },
@@ -2327,22 +2343,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth - Venezuelan Experimental Rock In The 1970s",
-        "url": "https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1"
-      },
-      "artists": [
-        {
-          "name": "Angel Rada",
-          "url": "https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "Basheeba",
-      "url": "https://open.spotify.com/track/5P823piDVg0rvwrWFPoHAv"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "People On Sunday",
         "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
       },
@@ -2371,6 +2371,22 @@
       "duration_ms": 358080,
       "name": "Aquarius",
       "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth - Venezuelan Experimental Rock In The 1970s",
+        "url": "https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1"
+      },
+      "artists": [
+        {
+          "name": "Angel Rada",
+          "url": "https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "Basheeba",
+      "url": "https://open.spotify.com/track/5P823piDVg0rvwrWFPoHAv"
     },
     {
       "added_at": "2023-03-03 04:31:38",
@@ -2475,22 +2491,6 @@
       "duration_ms": 260133,
       "name": "Eyen",
       "url": "https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak"
-      },
-      "artists": [
-        {
-          "name": "Datach'i",
-          "url": "https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Rockledge 3A",
-      "url": "https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F"
     }
   ],
   "unique_name": "Quirktronica",

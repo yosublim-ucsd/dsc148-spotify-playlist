@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Yo Yo Honey Singh
 
-192 songs - 10 hr 46 min
+193 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Sunn Na](https://open.spotify.com/track/7b8BHkjW0vfgT54yXp0Lvn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Sunn Na](https://open.spotify.com/album/7ghJOs6RjHWSl4nuqYi1v8) | 2:51 | 2023-03-27 | 2023-08-18 |
 | [SUPREME LEADER](https://open.spotify.com/track/6xrlfwtDlgVN8M3aox9215) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:30 | 2024-08-02 |  |
 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 | 2023-10-27 |
+| [Taambdi Chaamdi](https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Taambdi Chaamdi](https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w) | 2:38 | 2024-08-29 |  |
 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 | 2024-07-19 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 | 2024-07-06 |
 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 | 2024-03-22 | 2024-04-09 |
@@ -195,7 +196,7 @@
 | [Warning](https://open.spotify.com/track/5FwpiBGOwbqO8tFyC8Sjtu) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 4:59 | 2023-12-09 | 2024-01-19 |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/0VBdCcaY6ERYKF7fZXQ8YX) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/7zvmmYySo3FPuwEiKv7xSF) | 2:47 | 2023-10-18 | 2023-12-09 |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 | 2023-12-05 | 2024-01-10 |
-| [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-27 |  |
+| [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-27 | 2024-08-30 |
 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2023-11-20 |  |
 | [Yadav Brand 2](https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2) | 2:54 | 2023-11-20 | 2024-04-19 |
 | [Yadav Brand 2](https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c) | 2:54 | 2023-10-03 |  |

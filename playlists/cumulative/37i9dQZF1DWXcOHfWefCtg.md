@@ -2,7 +2,7 @@
 
 ### [Soulful Christmas](https://open.spotify.com/playlist/37i9dQZF1DWXcOHfWefCtg)
 
-> Soulful takes on all your Holiday favorites\. Cover: James Brown
+> Soulful takes on all your Holiday favorites\. Cover: John Legend
 
 79 songs - 4 hr 25 min
 

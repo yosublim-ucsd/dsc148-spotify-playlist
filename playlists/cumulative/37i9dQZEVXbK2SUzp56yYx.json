@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 114421,
       "name": "DEFEATED",
       "url": "https://open.spotify.com/track/1LmPBj4I34kQZLDtL67VY1"
@@ -5959,6 +5959,32 @@
     },
     {
       "album": {
+        "name": "VALORANT Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/5kDohAcW2lWTidVekIJQZp"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148244,
+      "name": "RUN! (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/1ZNrPyeyKs8YleAwY4vpKj"
+    },
+    {
+      "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
       },
@@ -5988,7 +6014,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
@@ -6353,6 +6379,32 @@
     },
     {
       "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264760,
+      "name": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "url": "https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE"
+    },
+    {
+      "album": {
         "name": "lottery pick",
         "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
       },
@@ -6542,7 +6594,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 221335,
       "name": "Soul - Remix",
       "url": "https://open.spotify.com/track/3rdxoi68brw6r7sbxusy9R"
@@ -7476,7 +7528,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"
@@ -7783,6 +7835,24 @@
     },
     {
       "album": {
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/62xmRhxXLBPipouUML4ElU"
+      },
+      "artists": [
+        {
+          "name": "Bountyhunter",
+          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256822,
+      "name": "Woops - Original Remastered Mix",
+      "url": "https://open.spotify.com/track/5WWiWCsCZ0PSsMnYrdcBYY"
+    },
+    {
+      "album": {
         "name": "GOLDEN HOUR : Part.1",
         "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
       },
@@ -7874,7 +7944,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 193515,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"
@@ -10380,7 +10450,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 208000,
       "name": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0428\u0430\u043f\u043e\u0447\u043a\u0430",
       "url": "https://open.spotify.com/track/3c6gco1k6kdntI3EZoiS7Y"
@@ -10503,6 +10573,24 @@
     },
     {
       "album": {
+        "name": "\u0415\u0431\u0438 \u043c\u0435\u043d\u044f, \u043c\u0430\u043b\u044b\u0448\u043a\u0430",
+        "url": "https://open.spotify.com/album/5RVPHbOi70uxrgvpzJkc1D"
+      },
+      "artists": [
+        {
+          "name": "CUPSIZE",
+          "url": "https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97033,
+      "name": "\u043b\u044e\u0431\u0438 \u043c\u0435\u043d\u044f, \u0430\u043b\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/2w0VyjxphvyEPY9qYIFstk"
+    },
+    {
+      "album": {
         "name": "\u0413\u043b\u0443\u0431\u0438\u043d\u0430 \u0440\u0435\u0437\u043a\u043e\u0441\u0442\u0438",
         "url": "https://open.spotify.com/album/70GQe37gMb2QhVLfkzdCHt"
       },
@@ -10594,6 +10682,32 @@
       "duration_ms": 136981,
       "name": "\u041c\u0430\u043c\u0430",
       "url": "https://open.spotify.com/track/1EHK9VXiqTS637LZSYLRXR"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
+        "url": "https://open.spotify.com/album/3J1buMFXG0M27cEeqaY121"
+      },
+      "artists": [
+        {
+          "name": "Lemaier",
+          "url": "https://open.spotify.com/artist/1hqPoQ4ygIEttexOevD5xv"
+        },
+        {
+          "name": "Gulyashik",
+          "url": "https://open.spotify.com/artist/70ahHabCiRxt2261B7W7p3"
+        },
+        {
+          "name": "Qurorr",
+          "url": "https://open.spotify.com/artist/2C0kEcT9mb6KMhJR3Z9IqG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
+      "url": "https://open.spotify.com/track/51NbxnUumMIZPZKKMU6owu"
     },
     {
       "album": {
@@ -12062,7 +12176,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 173500,
       "name": "\u0421\u0430\u043c\u043e\u043b\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/4gkQh8gUuxTpzQeJYRIpvb"
@@ -13544,7 +13658,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 139459,
       "name": "\u042f \u043d\u0435 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u044e",
       "url": "https://open.spotify.com/track/3KWM2xT2wb0J4lUEjYrfJH"

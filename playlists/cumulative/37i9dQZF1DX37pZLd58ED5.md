@@ -2,7 +2,7 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Sfera Ebbasta
+> Solo beat e rime avvolgenti\. Cover: Tony Boy
 
 168 songs - 9 hr 6 min
 

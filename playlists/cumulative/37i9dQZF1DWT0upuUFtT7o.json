@@ -46521,6 +46521,24 @@
     },
     {
       "album": {
+        "name": "Waste My Wishes",
+        "url": "https://open.spotify.com/album/7iEZGLZPz0nSTsU5DLbghK"
+      },
+      "artists": [
+        {
+          "name": "Sophie Truax",
+          "url": "https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "Waste My Wishes",
+      "url": "https://open.spotify.com/track/5fM3SwSsFvg7vzs5yAUyfZ"
+    },
+    {
+      "album": {
         "name": "Waste Your Time",
         "url": "https://open.spotify.com/album/128amSWTlex39AOupLETx0"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 205438,
+  "num_followers": 205429,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Mi Navidad - Edici\u00f3n Especial En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        }
-      ],
-      "duration_ms": 195743,
-      "name": "Dios nos bendecir\u00e1",
-      "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Memorias de Navidad",
         "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 274786,
       "name": "Ya Se Ven las Bombillitas",
       "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Mi Navidad - Edici\u00f3n Especial En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "duration_ms": 195743,
+      "name": "Dios nos bendecir\u00e1",
+      "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
-          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Se Va Diciembre",
-      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Tarjeta De Navidad, VOL. II",
         "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
@@ -587,18 +571,34 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Jos\u00e9 Alfredo Jimenez Con Mariachi Vargas De Tecalitlan",
+          "url": "https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
+      "duration_ms": 156600,
+      "name": "Se Va Diciembre",
+      "url": "https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
+      "duration_ms": 191333,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Posada",
-        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Laura Xmas (Deluxe)",
         "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
+        "name": "Posada",
+        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
         "name": "Los 3 Reyes Magos",
         "url": "https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Navidad en America",
-        "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
-        }
-      ],
-      "duration_ms": 478333,
-      "name": "Navidad en Am\u00e9rica",
-      "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 217024,
       "name": "Viva La Navidad",
       "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Navidad en America",
+        "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
+        }
+      ],
+      "duration_ms": 478333,
+      "name": "Navidad en Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
     },
     {
       "added_at": "2023-12-20 18:10:37",

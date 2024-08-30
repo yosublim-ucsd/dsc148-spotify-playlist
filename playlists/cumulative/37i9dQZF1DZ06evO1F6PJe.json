@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
+  "description": "This is: Joe Bonamassa. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Joe Bonamassa",
   "tracks": [
     {
@@ -336,6 +336,28 @@
       "duration_ms": 303168,
       "name": "Born Under A Bad Sign - Live",
       "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
+    },
+    {
+      "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262869,
+      "name": "Broken & Blue",
+      "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
     },
     {
       "album": {
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 382040,
       "name": "Is It Safe To Go Home",
       "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"

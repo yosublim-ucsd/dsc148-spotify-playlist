@@ -2,7 +2,7 @@
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This is Hyperanhas\. Todos os maiores hits em uma só playlist.
+> This is Hyperanhas\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 56 min
 
@@ -29,8 +29,8 @@
 | [Flash](https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM) | [Mc Vittin PV](https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Flash](https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD) | 3:58 | 2023-12-30 |  |
 | [Gelo No Copo](https://open.spotify.com/track/3M2GmNwZ3VLr8zFTjKJJnO) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX) | [Gelo No Copo](https://open.spotify.com/album/6HuGJQeZsgM8d7rho2MBEO) | 4:59 | 2023-12-30 | 2024-07-25 |
 | [Gelo No Copo](https://open.spotify.com/track/3saUWpM9m8eYHZWGj0ksZM) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX) | [Gelo No Copo](https://open.spotify.com/album/18PPKlwvLuUTvo92inqDfK) | 4:59 | 2024-07-25 |  |
-| [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 | 2023-12-30 |  |
-| [Jóia Rara](https://open.spotify.com/track/2KI0w6U0gDGBkrupnrOq0e) | [Sens3](https://open.spotify.com/artist/5wbiD1mhvhzwK51KDPfxiY), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Jóia Rara](https://open.spotify.com/album/2zWl5MHsVYIyttVflAGnRF) | 2:50 | 2024-07-19 | 2024-07-21 |
+| [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 | 2023-12-30 | 2024-08-30 |
+| [Jóia Rara](https://open.spotify.com/track/2KI0w6U0gDGBkrupnrOq0e) | [Sens3](https://open.spotify.com/artist/5wbiD1mhvhzwK51KDPfxiY), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Jóia Rara](https://open.spotify.com/album/2zWl5MHsVYIyttVflAGnRF) | 2:50 | 2024-07-19 |  |
 | [Lambo](https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Lambo](https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj) | 3:32 | 2023-12-30 |  |
 | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \- Acústico](https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Casluh](https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI) | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \[Acústico\]](https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA) | 8:17 | 2023-12-30 |  |
 | [MELHOR DE MIM](https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [MINAS DE OURO](https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN) | 2:52 | 2023-12-30 |  |

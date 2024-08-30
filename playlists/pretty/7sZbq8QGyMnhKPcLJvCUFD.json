@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 732982,
+  "num_followers": 732974,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NoCopyrightSounds",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAXLe1lw6IpDTpRkY0KKjjCRpUwTCvu",
+  "snapshot_id": "AAAXMG1J9sRS9ZCY0Q0yvdEak+9ocIkp",
   "tracks": [
     {
       "added_at": "2024-08-27 08:59:12",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-27 08:59:12",
       "album": {
+        "name": "Win & Lose",
+        "url": "https://open.spotify.com/album/6xWqbd1U2eVV5boRWVTLv5"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 243900,
+      "name": "Win & Lose",
+      "url": "https://open.spotify.com/track/2u01NcdpNIPPcupWia5vuZ"
+    },
+    {
+      "added_at": "2024-08-27 08:59:12",
+      "album": {
         "name": "Puzzle (2024 Edit)",
         "url": "https://open.spotify.com/album/65PUjwgG91udnF5gpXroOn"
       },
@@ -373,6 +389,30 @@
       "url": "https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46"
     },
     {
+      "added_at": "2024-08-29 20:35:43",
+      "album": {
+        "name": "Why So Serious",
+        "url": "https://open.spotify.com/album/2yrPY9ZmslJ8oz3n3DjAHZ"
+      },
+      "artists": [
+        {
+          "name": "Sync",
+          "url": "https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13"
+        },
+        {
+          "name": "Roby Fayer",
+          "url": "https://open.spotify.com/artist/4jGepMIeeVxeLrikEinXMs"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Why So Serious",
+      "url": "https://open.spotify.com/track/5DJlIx8QA0f8zVY4HxuyYt"
+    },
+    {
       "added_at": "2024-08-27 08:59:12",
       "album": {
         "name": "Pushing On",
@@ -387,22 +427,6 @@
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
-    },
-    {
-      "added_at": "2024-08-27 08:59:12",
-      "album": {
-        "name": "Win & Lose",
-        "url": "https://open.spotify.com/album/6xWqbd1U2eVV5boRWVTLv5"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 243900,
-      "name": "Win & Lose",
-      "url": "https://open.spotify.com/track/2u01NcdpNIPPcupWia5vuZ"
     },
     {
       "added_at": "2024-08-27 08:59:12",

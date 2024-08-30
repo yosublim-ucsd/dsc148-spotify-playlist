@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69662,
+  "num_followers": 69668,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live 2012",
-        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "Viva La Vida - Live",
-      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 319226,
       "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Live 2012",
+        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "Viva La Vida - Live",
+      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "How Deep Is Your Love - Live At The MGM Grand",
-      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify, London)",
         "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "How Deep Is Your Love - Live At The MGM Grand",
+      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Alicia Keys - VH1 Storytellers",
-        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
-      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 267066,
       "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
       "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Alicia Keys - VH1 Storytellers",
+        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
+      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "New Rules (Live)",
-        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 275101,
-      "name": "New Rules - Live",
-      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Spiceworld (25th Anniversary)",
         "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 204413,
       "name": "Stop - Live In Madrid, Spain / 1998",
       "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "New Rules (Live)",
+        "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 275101,
+      "name": "New Rules - Live",
+      "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 413776,
-      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Spiceworld (25th Anniversary)",
         "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 357760,
       "name": "Viva Forever - Live In Manchester, UK / 1998",
       "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 413776,
+      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Viva Forever",
-        "url": "https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 266418,
-      "name": "Say You'll Be There - Live From Abdi \u0130pek\u00e7i Arena, Istanbul, Turkey/1997",
-      "url": "https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId"
+      "duration_ms": 232200,
+      "name": "Make You Feel My Love (Live at Hotel Cafe)",
+      "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
     }
   ],
   "unique_name": "Pop Live",

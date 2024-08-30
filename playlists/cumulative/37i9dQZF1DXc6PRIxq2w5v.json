@@ -490,7 +490,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 189662,
       "name": "Ainda d\u00e1 Tempo",
       "url": "https://open.spotify.com/track/5VZH0tuDtFivjEX1mdTXkL"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 133727,
       "name": "Bom Samaritano",
       "url": "https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL"
@@ -2783,6 +2783,28 @@
     },
     {
       "album": {
+        "name": "R&V - Prel\u00fadio",
+        "url": "https://open.spotify.com/album/0JPVBsKAA00j2gnCBQhDT8"
+      },
+      "artists": [
+        {
+          "name": "Moskitto",
+          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
+        },
+        {
+          "name": "N\u00f3izProd",
+          "url": "https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153706,
+      "name": "Essas Ruas",
+      "url": "https://open.spotify.com/track/45q0aUHFCg0kn1hieW2nGN"
+    },
+    {
+      "album": {
         "name": "Estou de P\u00e9 (feat. Wesley Camilo, Cl\u00e9ber Ao Cubo, Biorki, J\u00e9ssica Augusto & Andr\u00e9 Mota)",
         "url": "https://open.spotify.com/album/4adVexlX4XXVgGa7Yglio8"
       },
@@ -3811,6 +3833,32 @@
     },
     {
       "album": {
+        "name": "Hard Rock",
+        "url": "https://open.spotify.com/album/4Z2syJVMikkl5lvT3Q5UJB"
+      },
+      "artists": [
+        {
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        },
+        {
+          "name": "Vitiim",
+          "url": "https://open.spotify.com/artist/3XVYRFVQxx2RGQEgLTTWIt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "HARD ROCK",
+      "url": "https://open.spotify.com/track/3bS9A48v94gHwNhdejVjLH"
+    },
+    {
+      "album": {
         "name": "Here I Am",
         "url": "https://open.spotify.com/album/4tFASOeOfMRKLmd82eQepK"
       },
@@ -4062,7 +4110,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 186857,
       "name": "Jesus Fake",
       "url": "https://open.spotify.com/track/04efWvvvjC26BGe6GmoaAh"
@@ -4870,6 +4918,24 @@
       "duration_ms": 140000,
       "name": "Menino Sonhador",
       "url": "https://open.spotify.com/track/5px1RdpmuxLZ3ysoR81k7W"
+    },
+    {
+      "album": {
+        "name": "Mesma Miss\u00e3o",
+        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
+      },
+      "artists": [
+        {
+          "name": "RAMON EL BRABO",
+          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163245,
+      "name": "Mesma Miss\u00e3o",
+      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
     },
     {
       "album": {
@@ -6641,6 +6707,28 @@
     },
     {
       "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
+      },
+      "artists": [
+        {
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
+    },
+    {
+      "album": {
         "name": "Problem\u00e3o",
         "url": "https://open.spotify.com/album/699L4DVaaNNso1lpspNbCg"
       },
@@ -7672,7 +7760,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 447552,
       "name": "Semeadores 3",
       "url": "https://open.spotify.com/track/72kAFAuVMztoDYhcO8nPCB"
@@ -7808,7 +7896,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169173,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/2jpK1jHZpKNgemDB38gMuA"
@@ -7932,7 +8020,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 181134,
       "name": "Sonhei um Dia",
       "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
@@ -8319,6 +8407,24 @@
     },
     {
       "album": {
+        "name": "Trabalho Duro - Deluxe",
+        "url": "https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206786,
+      "name": "Trabalho Duro - Deluxe",
+      "url": "https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7"
+    },
+    {
+      "album": {
         "name": "Trajado de F\u00e9",
         "url": "https://open.spotify.com/album/3qe7Lt80iwtrD7ytNziA2d"
       },
@@ -8334,6 +8440,28 @@
       "duration_ms": 151337,
       "name": "Trajado de F\u00e9",
       "url": "https://open.spotify.com/track/3FV68T0HE2v3pgs1QeBeGC"
+    },
+    {
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199115,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
     },
     {
       "album": {

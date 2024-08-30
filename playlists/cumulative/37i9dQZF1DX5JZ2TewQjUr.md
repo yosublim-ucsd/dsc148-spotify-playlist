@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 阿正
 
-1,137 songs - 2 day 16 hr 27 min
+1,144 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 |  |
 | [Diary](https://open.spotify.com/track/3wgo4Y2wUJrBqFW26KjAcD) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Diary](https://open.spotify.com/album/59clnR7qJSWyNQbvAOB7c5) | 1:21 | 2023-01-12 | 2023-02-03 |
+| [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 | 2024-08-29 |  |
 | [dirty af1s](https://open.spotify.com/track/5QtkOcCpbMfcVjDkzlx9al) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [dirty af1s](https://open.spotify.com/album/1MR4kqZbbAYSojdJpqeyAb) | 3:27 | 2022-10-13 | 2023-02-03 |
 | [Dive Into](https://open.spotify.com/track/5duQk4TjziGGXduPwBC7f4) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Anagreta](https://open.spotify.com/artist/1SipH088atGLTvgOSYagbm) | [Dive Into](https://open.spotify.com/album/1KZaiyn4EbSFEOdXFsWC7Z) | 4:03 | 2022-05-26 | 2022-07-29 |
 | [DO I KNOW](https://open.spotify.com/track/5x1Fb3fvsnWtDZktnWjuF5) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SKETCHTAPE VOL.1](https://open.spotify.com/album/2zGzxtcjTe8WaOgA6ky2vN) | 2:35 | 2023-06-01 | 2023-11-03 |
@@ -166,6 +167,7 @@
 | [don't say goodbye](https://open.spotify.com/track/4Nqe1ni0pivZHckLme9NNW) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [don't say goodbye](https://open.spotify.com/album/0YWF5JJsgAoxoRvhgSUjUg) | 3:07 | 2023-01-05 | 2023-05-26 |
 | [don't want love if it's not you](https://open.spotify.com/track/1DLyIzunDJlxA7tvvs0XFH) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [don't want love if it's not you](https://open.spotify.com/album/1TglOeefn7JZLC1Q10Nc3D) | 4:08 | 2022-12-15 | 2023-03-18 |
 | [Don’t Say Goodnight](https://open.spotify.com/track/387ZUKmGoVVahky9sfjzQe) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [Don’t Say Goodnight](https://open.spotify.com/album/6gTPwxBc5uM0WbVH063fQv) | 4:21 | 2023-10-12 | 2024-01-05 |
+| [doot doot](https://open.spotify.com/track/3uJm6I6vpUSnjhRLkOJagc) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [doot doot](https://open.spotify.com/album/4xqMWeMmFEu8N4vUsqOUID) | 2:53 | 2024-08-29 |  |
 | [Double Express](https://open.spotify.com/track/7nhilqQeh8qPeeUAzVzZNW) | [Drag.C](https://open.spotify.com/artist/55WhiLQ34OpR3TBexpudGZ), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [Double Express](https://open.spotify.com/album/6gaL3MA4UGdlLbEloZTvCx) | 3:40 | 2024-05-02 |  |
 | [Dream On](https://open.spotify.com/track/0rKi0fBy4sAM29TBKTAhr5) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [Sky is the Limit](https://open.spotify.com/album/4uxs4OV71XqfDFct1eUfug) | 3:07 | 2023-03-09 | 2023-07-14 |
 | [dreamgirl\(s\).](https://open.spotify.com/track/3GhZ9ngx41rpxnjVwkaFH0) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [dreamgirl\(s\).](https://open.spotify.com/album/1wOEx9F3prCwdDXRxUrxdC) | 2:34 | 2023-03-09 | 2023-07-14 |
@@ -370,6 +372,7 @@
 | [Last Letter](https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Last Letter](https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr) | 3:17 | 2023-07-06 | 2023-09-15 |
 | [Last Summer](https://open.spotify.com/track/3X9pggRCXEN57mhhbQj0Tt) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj), [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa) | [Last Summer](https://open.spotify.com/album/1sRtwQC7tPZAmyRvVB0cFq) | 4:18 | 2023-06-01 | 2023-11-03 |
 | [Last Time](https://open.spotify.com/track/5vunKOrutjeSDDg73dRFSB) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Last Time](https://open.spotify.com/album/4vkW7m6NzG6ybuesQUwpKi) | 1:50 | 2023-08-31 | 2023-12-01 |
+| [LATE AGAIN](https://open.spotify.com/track/1LHyUumtrLPQfQsk4MoAVK) | [FRANAZ](https://open.spotify.com/artist/64lIUR44fRnTJsw2v7Zdru) | [LATE AGAIN](https://open.spotify.com/album/5eLDM2RmNvJZGG2Xxf0Xwt) | 3:51 | 2024-08-29 |  |
 | [lately](https://open.spotify.com/track/2V7Jvf0o9dhCoZ5QswlUoR) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV) | [lately](https://open.spotify.com/album/7obFsECkREJyGc90vojKZ5) | 4:23 | 2023-03-24 | 2023-07-14 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2022-07-29 |
 | [Laura Says Distortion](https://open.spotify.com/track/0lLh6qhc9dBavA8rQF3oa8) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Laura Says Distortion](https://open.spotify.com/album/1K9fowNgyuHW4xfx848sCP) | 5:22 | 2023-04-06 | 2023-07-14 |
@@ -672,6 +675,7 @@
 | [The Worst Way I've Thought](https://open.spotify.com/track/3GEBroZMGDagry9kJz9U9F) | [WARM HOUSE.](https://open.spotify.com/artist/6FkLFvKugd9UPs1bSawnQR) | [The Worst Way I've Thought](https://open.spotify.com/album/4sNymzpUHbjKYoozeI7Kml) | 2:49 | 2023-11-30 | 2024-02-16 |
 | [Then I Could](https://open.spotify.com/track/6FdsXnn50FWR5rH9ihHYI1) | [Pabylon](https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E) | [Then I Could](https://open.spotify.com/album/2F2HNz8zLPbDVQZSrgQpLv) | 2:41 | 2024-06-13 |  |
 | [They don’t sleep on the beach anymore](https://open.spotify.com/track/2grM6jBlcCvZVmd79NAfXU) | [Olivier Cong](https://open.spotify.com/artist/2nhcHKPRMgQm4Z9wkz6GVn) | [they don't sleep on the beach anymore](https://open.spotify.com/album/72t5QaDuhVbAUJ7TzJKQpV) | 5:07 | 2024-05-30 |  |
+| [Things Unsaid](https://open.spotify.com/track/304ESYskFpIQ8rdMsMu7WV) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Things Unsaid](https://open.spotify.com/album/471kPnkksxhX5FdLkXFmXb) | 2:17 | 2024-08-29 |  |
 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2023-02-23 | 2023-07-14 |
 | [This Is a Music](https://open.spotify.com/track/0hoEXO5qBf6gTL5Q1bKwYm) | [NOTQUITEHALF](https://open.spotify.com/artist/0GO1AcEsccDCalBmnmJ8nk) | [This Is a Music](https://open.spotify.com/album/4Fkbk14yYHXP78xLSGaDHh) | 3:20 | 2024-06-27 |  |
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2022-09-08 | 2023-03-18 |
@@ -804,6 +808,7 @@
 | [今晚](https://open.spotify.com/track/0qN15f6cdC8fCY8tPkFCE8) | [老尷工作室](https://open.spotify.com/artist/262xGvvV3B1o5LeiexnPDp) | [今晚](https://open.spotify.com/album/51G1anUupDtWHAGIfT8MVc) | 4:19 | 2023-01-19 | 2023-05-26 |
 | [今晚好想好想打俾你 \- Band Version](https://open.spotify.com/track/77FKiP4vL0u00kzmmoZvIn) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [今晚好想好想打俾你 \- Band Version](https://open.spotify.com/album/39haq2Mw9apQ1qaPMDdQuy) | 3:49 | 2022-11-03 | 2023-02-03 |
 | [今次動真格](https://open.spotify.com/track/43TAdcNSQwqX5kfXiwvbzG) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [今次動真格](https://open.spotify.com/album/0EAiKz8T1MvS8G6EcV5bxF) | 3:19 | 2024-03-28 | 2024-06-07 |
+| [仍在你的夢不醒](https://open.spotify.com/track/04UxeVD8jCvGX7EYF0v06m) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Then I Met You](https://open.spotify.com/album/4aGIraPDXO9Xu1lzVehNnw) | 3:20 | 2024-08-29 |  |
 | [以後我哋雲上見。](https://open.spotify.com/track/0RPpegE2YhCM0MZxQF8uG7) | [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [以後我哋雲上見。](https://open.spotify.com/album/73DFH6KerjLm8D2Anh7xYM) | 2:13 | 2023-02-09 | 2023-07-14 |
 | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/track/3jfn6a5nJ1Arc0xWuvsYmi) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [低調系 \(feat\. Novel Fergus\)](https://open.spotify.com/album/2QL7B3R6G4TWXHWOyHHOLd) | 3:38 | 2022-05-26 | 2022-07-29 |
 | [佛道說](https://open.spotify.com/track/5tFw3RidRO4E35LEjdUYgM) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [佛道說](https://open.spotify.com/album/23bUb8IAQi2bj9Z3wbvFID) | 3:48 | 2024-06-20 |  |
@@ -903,6 +908,7 @@
 | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/track/2t5nL7RagGw1jJGy0Bve76) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Teriver Cheung](https://open.spotify.com/artist/4vPd1Ln6Xn65TCTvhT6ARy) | [小鹿亂撞\(feat\. Teriver Cheung\)](https://open.spotify.com/album/65MVSKnupszlQDM48dTzqr) | 4:06 | 2022-05-26 | 2022-07-29 |
 | [尖沙咀P出口](https://open.spotify.com/track/30nrLOtULxN9OoqMtDcFdg) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [尖沙咀P出口](https://open.spotify.com/album/1f49qUyAIJtSb4Zli6Dg0Q) | 3:10 | 2024-03-21 |  |
 | [就係自己友](https://open.spotify.com/track/32CIyZTHJmgqwKaXzKOXQm) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [就係自己友](https://open.spotify.com/album/2Wi9QmjhuLLnpphJvV88us) | 3:16 | 2024-08-01 |  |
+| [尾班機](https://open.spotify.com/track/3vRIimxnT6mDObIRzsaWrB) | [MATCH](https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa) | [尾班機](https://open.spotify.com/album/3KnSzDopyBIVdyXm5iMKOl) | 3:56 | 2024-08-29 |  |
 | [尾班車](https://open.spotify.com/track/6chHZLZN0yVQ6jPgvwmQio) | [JMS Cube](https://open.spotify.com/artist/3dm28ebF4Oyve1SHynG8Y2) | [尾班車](https://open.spotify.com/album/2Myq0QkN84MxRqqTxin0yR) | 4:22 | 2023-01-12 | 2023-02-03 |
 | [屌, MOVE!](https://open.spotify.com/track/0hXs51pV3bN5U9naB6WbEA) | [Jayj](https://open.spotify.com/artist/3kH3cdvEQ8E33l3eOQC2N9), [G.I.N](https://open.spotify.com/artist/66a8AfgfuZUBboOEP8kPT4) | [屌, MOVE!](https://open.spotify.com/album/4nSXZ44hMfzfoJYeuwcO1I) | 2:49 | 2023-01-12 | 2023-02-03 |
 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 | 2023-04-20 | 2023-07-14 |
@@ -985,6 +991,7 @@
 | [有邊個想做廢青](https://open.spotify.com/track/34dGK3a62hFVge22O19gUW) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl), [Kmicgor@Ragpickers](https://open.spotify.com/artist/2NgXoMxmFivqsMVGVny2KK) | [有邊個想做廢青](https://open.spotify.com/album/5oRZfgSR9mnt0ojjiI86Q9) | 4:42 | 2023-01-19 | 2023-05-26 |
 | [有邊個清楚我。](https://open.spotify.com/track/3maqosSuSnOu478FqXFOfQ) | [NTopic](https://open.spotify.com/artist/3MUbd9Eo7TQznhqjzxSVuQ) | [有邊個清楚我。](https://open.spotify.com/album/2B6pEEuilt4nSwALRHBqkI) | 2:59 | 2023-12-14 | 2024-02-16 |
 | [望咩望 \(俾車撞\) Look Both Ways](https://open.spotify.com/track/0gaQMMJGAMulQdtiKFMehq) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [人生贏家3: 酒火入魔 Life Winners 3: Highway to Hell](https://open.spotify.com/album/27I1EgdNUg5eMD6pXASUec) | 2:54 | 2024-07-11 |  |
+| [望月\(2024\)](https://open.spotify.com/track/0uhSlVCO4nTz9EWL3aYrZB) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [The Bosin](https://open.spotify.com/artist/2EKEnoO0vNDO69tyT7PDEo) | [望月\(2024\)](https://open.spotify.com/album/4KDIyGFLzwN6zComZpZNOS) | 3:32 | 2024-08-29 |  |
 | [木馬 Mukma](https://open.spotify.com/track/1jTtxuW6sDdTu6WmHj8Ve8) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [木馬 Mukma](https://open.spotify.com/album/1BDtDJ7u6mxBwJNESPB8a0) | 6:42 | 2024-03-14 |  |
 | [末世情書](https://open.spotify.com/track/5aEzkY4D0HdU0CyUoJWnmm) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [末世情書](https://open.spotify.com/album/0TMwkt9ibpPMNW3EWWhV6j) | 4:40 | 2022-10-13 | 2023-03-18 |
 | [末世智慧 Apocalypse](https://open.spotify.com/track/6KmbJH5XuXhL3w6OAmyR2A) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [末世智慧 Apocalypse](https://open.spotify.com/album/1AhIKPjhIYzQwbafMB8OqD) | 4:44 | 2023-10-05 | 2023-12-01 |

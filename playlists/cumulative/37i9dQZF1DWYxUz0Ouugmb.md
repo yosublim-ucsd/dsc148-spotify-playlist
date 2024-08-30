@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Masdddho
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Putu Maydea
 
 227 songs - 14 hr 38 min
 

@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/7KynKKoRnC19KaLuQVKt4U"
+      },
+      "artists": [
+        {
+          "name": "Juicy Jamz",
+          "url": "https://open.spotify.com/artist/5YwLWCeArN7CECv7CLfz9f"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214035,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2uAn59bUH20FLJzHXnl5zi"
+    },
+    {
+      "album": {
         "name": "Wobble Out (feat. Kings)",
         "url": "https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS"
       },
@@ -2994,6 +3012,24 @@
       "duration_ms": 180978,
       "name": "Wobble Out (feat. Kings)",
       "url": "https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP"
+    },
+    {
+      "album": {
+        "name": "YOYOTTA",
+        "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "You're On Your Own This Time, Again",
+      "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc78A1OIheFs"

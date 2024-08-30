@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60871,
+  "num_followers": 60882,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiccYAAAAACMb9eAOCwlki7mhZpNRZpZ",
+  "snapshot_id": "Zs/mYwAAAABRVYlrzYOkCAYgQ07tXihr",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf"
-      },
-      "artists": [
-        {
-          "name": "Julia Vari",
-          "url": "https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky"
-        }
-      ],
-      "duration_ms": 327653,
-      "name": "Voy a Apagar la Luz",
-      "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Tino Contreras",
         "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 168198,
       "name": "Orfeo en los Tambores",
       "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf"
+      },
+      "artists": [
+        {
+          "name": "Julia Vari",
+          "url": "https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky"
+        }
+      ],
+      "duration_ms": 327653,
+      "name": "Voy a Apagar la Luz",
+      "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
     },
     {
       "added_at": "2023-01-07 01:43:47",
@@ -151,6 +151,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 399740,
+      "name": "Liberen A Los Changos",
+      "url": "https://open.spotify.com/track/1nvgi76oESzmuaLUto6eqp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -239,6 +255,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Guidum",
+        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
+      },
+      "artists": [
+        {
+          "name": "Abraham Laboriel",
+          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "As\u00ed Era Entonces, Ahora...",
         "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
       },
@@ -255,38 +287,6 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Guidum",
-        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
-      },
-      "artists": [
-        {
-          "name": "Abraham Laboriel",
-          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
-    },
-    {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -319,6 +319,38 @@
       "duration_ms": 370613,
       "name": "Al son de la marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 366283,
+      "name": "Activo De Guayaba",
+      "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -387,22 +419,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Para Ser Libre",
         "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
       },
@@ -417,20 +433,20 @@
       "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
-      "added_at": "2023-10-25 13:56:48",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Trementina",
-        "url": "https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN"
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
       "artists": [
         {
-          "name": "Torso Corso",
-          "url": "https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8"
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
         }
       ],
-      "duration_ms": 127652,
-      "name": "Trementina",
-      "url": "https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o"
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -451,6 +467,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Pavel Loaria Big Band, Vol. 1",
         "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
       },
@@ -465,20 +497,20 @@
       "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2024-08-29 03:09:23",
       "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+      "duration_ms": 390306,
+      "name": "De All\u00ed Pa'll\u00e1",
+      "url": "https://open.spotify.com/track/7xRDAQFUvtSW4YIGFXS3Hz"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -499,22 +531,6 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2023-11-23 03:14:06",
-      "album": {
-        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 323800,
-      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -611,26 +627,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Clare Fischer",
-          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Mijo",
-      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz",
         "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
@@ -643,6 +639,54 @@
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Chucho en Chipp's",
+        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Su Piano y su Conjunto",
+          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Bula",
+      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+      },
+      "artists": [
+        {
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+        }
+      ],
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 198083,
+      "name": "La Franca",
+      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -663,34 +707,42 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
+        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
       "artists": [
         {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+          "name": "Dannah Garay",
+          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
+        },
+        {
+          "name": "Oscar Stagnaro",
+          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
         }
       ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+      "duration_ms": 217840,
+      "name": "Deb\u00ed Llorar",
+      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Chucho en Chipp's",
-        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
       },
       "artists": [
         {
-          "name": "Chucho Zarzosa Su Piano y su Conjunto",
-          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+          "name": "Clare Fischer",
+          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
         }
       ],
-      "duration_ms": 155120,
-      "name": "Bula",
-      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
+      "duration_ms": 380800,
+      "name": "Mijo",
+      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -725,24 +777,20 @@
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2023-11-23 03:14:06",
       "album": {
-        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
-        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
       },
       "artists": [
         {
-          "name": "Dannah Garay",
-          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
-        },
-        {
-          "name": "Oscar Stagnaro",
-          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Deb\u00ed Llorar",
-      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+      "duration_ms": 323800,
+      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
     },
     {
       "added_at": "2022-03-30 03:01:09",
@@ -805,76 +853,20 @@
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2024-08-29 03:09:23",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
         }
       ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
-      },
-      "artists": [
-        {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
-        }
-      ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bienvenidos",
-        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
-      },
-      "artists": [
-        {
-          "name": "Palapa",
-          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
-        },
-        {
-          "name": "Francisco Lelo de Larrea",
-          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
-        }
-      ],
-      "duration_ms": 343187,
-      "name": "5:PM",
-      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Andamos Huyendo",
-        "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Tovalin",
-          "url": "https://open.spotify.com/artist/5KxINF9FVTlXn05DJB6WBK"
-        }
-      ],
-      "duration_ms": 291647,
-      "name": "Andamos Huyendo",
-      "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+      "duration_ms": 421328,
+      "name": "F\u00edeme una Coca, No?",
+      "url": "https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

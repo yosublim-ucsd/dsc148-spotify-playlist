@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,371 songs - 3 day 2 hr 9 min
+1,372 songs - 3 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2020-09-15 | 2022-07-26 |
 | [Apollo](https://open.spotify.com/track/0kxDYqZ4gWijaLJDrTNsLU) | [Malik Bash](https://open.spotify.com/artist/7D3Q08a4fPvlfImxhKCtUw) | [Apollo](https://open.spotify.com/album/34eLsHSDfiNcQ7YNAVlIjw) | 3:41 | 2019-12-30 | 2020-10-15 |
 | [Apologize](https://open.spotify.com/track/1JG8pJ7G8qJiy98DzCBL2E) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Apologize](https://open.spotify.com/album/68APloiqzQpJvNubiILIpw) | 3:18 | 2019-05-26\* | 2020-10-09 |
+| [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-08-29 |  |
 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ) | 2:30 | 2024-04-19 | 2024-07-13 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-12 |  |
 | [As Long As I Got](https://open.spotify.com/track/6BYgj5vMITYe2x6umcvPQP) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [As Long As I Got](https://open.spotify.com/album/4fQVUAJBglMr3usz0g4Sh8) | 2:03 | 2019-11-23 | 2020-05-30 |
@@ -108,7 +109,7 @@
 | [BED](https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX) | 2:58 | 2021-04-01 | 2022-07-29 |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-03-30 | 2023-08-12 |
 | [Behind Barz \- Bonus](https://open.spotify.com/track/5r7WvQtyPfy1xch5zMgGRp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Top Boy \(A Selection of Music Inspired by the Series\)](https://open.spotify.com/album/334X6XoNKUzpAQbm5FPsMh) | 2:43 | 2019-09-15 | 2020-10-13 |
-| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-01-06 |  |
+| [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2023-01-06 | 2024-08-30 |
 | [Believe](https://open.spotify.com/track/7fVJd9myQrUR2aLzgV7Zhv) | [KAZZANOVA](https://open.spotify.com/artist/0bJQRizd49g3PX9RDEPWQu), [Miss Tia](https://open.spotify.com/artist/0mZH4ny3IUIBOOsz02XUHk) | [Believe](https://open.spotify.com/album/5absNtnHCtqb7EvDGMtlz2) | 2:40 | 2019-06-11 | 2019-10-19 |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2021-10-12 | 2023-03-09 |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2019-06-23 | 2020-10-09 |

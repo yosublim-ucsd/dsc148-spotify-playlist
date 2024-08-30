@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con ALMAS en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79535,
+  "num_followers": 79533,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+        "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
+        "url": "https://open.spotify.com/album/02Kb0jYPDw2TsBNEyvDH7F"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+      "duration_ms": 168648,
+      "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
+      "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
-        "url": "https://open.spotify.com/album/02Kb0jYPDw2TsBNEyvDH7F"
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
       },
       "artists": [
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         }
       ],
-      "duration_ms": 168648,
-      "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
-      "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
         "name": "rangerover",
         "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+        "name": "Obra de arte",
+        "url": "https://open.spotify.com/album/11L1nxjSwv6Xp5bEuafW7F"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Planeta Tres",
+          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+      "duration_ms": 182142,
+      "name": "Obra de arte",
+      "url": "https://open.spotify.com/track/7r8Hm0HknnPEcZVdwME1Fq"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1123,22 +1139,6 @@
       "duration_ms": 243780,
       "name": "El Cine",
       "url": "https://open.spotify.com/track/13CSEQrnkUEHazIs8Khlgu"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
-        "name": "Obra de arte",
-        "url": "https://open.spotify.com/album/11L1nxjSwv6Xp5bEuafW7F"
-      },
-      "artists": [
-        {
-          "name": "Planeta Tres",
-          "url": "https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Obra de arte",
-      "url": "https://open.spotify.com/track/7r8Hm0HknnPEcZVdwME1Fq"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
         "name": "Fortuna y Maldici\u00f3n",
         "url": "https://open.spotify.com/album/5pevKZr0dFpIxFGmUwXoKx"
       },
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "AHORA O NUNCA",
-        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 156448,
-      "name": "AHORA O NUNCA",
-      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1259,6 +1239,26 @@
       "duration_ms": 157440,
       "name": "sobrenatural",
       "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
+        "name": "AHORA O NUNCA",
+        "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 156448,
+      "name": "AHORA O NUNCA",
+      "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "Desorden",
-        "url": "https://open.spotify.com/album/1y0EaKqovoRvT9316GaP9u"
+        "name": "Felicidad y Otros Mitos",
+        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        },
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Desorden",
-      "url": "https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT"
+      "duration_ms": 201182,
+      "name": "Palabras De Papel (Veneno)",
+      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
     }
   ],
   "unique_name": "la pop~wave",

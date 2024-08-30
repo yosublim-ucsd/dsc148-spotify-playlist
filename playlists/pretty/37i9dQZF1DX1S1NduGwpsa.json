@@ -1,95 +1,31 @@
 {
-  "description": "The best jazz new releases. Cover: Dr. John",
-  "num_followers": 142667,
+  "description": "The best jazz new releases. Cover: Samara Joy",
+  "num_followers": 142699,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zse04AAAAAA3fJeWsTclqoijedcNw3jp",
+  "snapshot_id": "ZtDvYAAAAAC+9POuBHF9J6ZkpFcT8jjp",
   "tracks": [
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Frankie & Johnny",
-        "url": "https://open.spotify.com/album/7esD05FOaDgDHro3auSsBU"
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
       },
       "artists": [
         {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 210106,
-      "name": "Frankie & Johnny",
-      "url": "https://open.spotify.com/track/2vlcJff1ZToSqL1BiOF5k5"
+      "duration_ms": 275080,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 322223,
-      "name": "Butterflies (feat. Tim Bernardes)",
-      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Le Jazz et la Java",
-        "url": "https://open.spotify.com/album/30SX0VDxCKARSh45mN4rMX"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ceccarelli",
-          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
-        },
-        {
-          "name": "Pierre-Alain Goualch",
-          "url": "https://open.spotify.com/artist/5SOxLSx8nY4EpTpof9WpxP"
-        },
-        {
-          "name": "Diego Imbert",
-          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Chanson pour Maryline",
-      "url": "https://open.spotify.com/track/7h3V1pJ0a1JbgTZ1Z6gxO4"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Tatomania",
-        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        },
-        {
-          "name": "Royal Quartet",
-          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
-        }
-      ],
-      "duration_ms": 258281,
-      "name": "Tatomania",
-      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Dumplings For Dinner",
         "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
@@ -109,7 +45,71 @@
       "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Nothing Sweeter",
+        "url": "https://open.spotify.com/album/0WhE3o3yfAJ1OzIM1TFWUR"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Lautaro",
+          "url": "https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M"
+        }
+      ],
+      "duration_ms": 157417,
+      "name": "Nothing Sweeter",
+      "url": "https://open.spotify.com/track/1FladVQrgLnoiL8hVVLp8i"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/2HnoWqPijqF74BSAB3PeE7"
+      },
+      "artists": [
+        {
+          "name": "PianoForte",
+          "url": "https://open.spotify.com/artist/3tgHmbdlI0Aqg9ni2Tjekg"
+        },
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Eric Legnini",
+          "url": "https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi"
+        },
+        {
+          "name": "Bojan Z",
+          "url": "https://open.spotify.com/artist/6kmJq6IbNvXqGBEjS61hdh"
+        },
+        {
+          "name": "Pierre De Bethmann",
+          "url": "https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/2xce6kP4q1FLWzOBs2NAJN"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "We Are The Millennials",
+        "url": "https://open.spotify.com/album/6Wn31whzxsWuLGotQUv0sP"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "We Are The Millennials",
+      "url": "https://open.spotify.com/track/0dxhXG1wmLHp59Z0gLmabC"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Lover + Tattoo",
         "url": "https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV"
@@ -129,114 +129,10 @@
       "url": "https://open.spotify.com/track/7pYL98wrOlPg9rElkNTn5t"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Nothing Sweeter",
-        "url": "https://open.spotify.com/album/0WhE3o3yfAJ1OzIM1TFWUR"
-      },
-      "artists": [
-        {
-          "name": "Cosmo Lautaro",
-          "url": "https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M"
-        }
-      ],
-      "duration_ms": 157417,
-      "name": "Nothing Sweeter",
-      "url": "https://open.spotify.com/track/1FladVQrgLnoiL8hVVLp8i"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "We Are The Millennials",
-        "url": "https://open.spotify.com/album/6Wn31whzxsWuLGotQUv0sP"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "We Are The Millennials",
-      "url": "https://open.spotify.com/track/0dxhXG1wmLHp59Z0gLmabC"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/5UDBGR5wr2Bf5xVDFDGFVA"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 258045,
-      "name": "Let the Creek Rise",
-      "url": "https://open.spotify.com/track/6fL9DVn4aYglOZBUkoguzi"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Zulu Coconuts",
-        "url": "https://open.spotify.com/album/33urWPWjTlYBzGmKPASk8S"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 252378,
-      "name": "Zulu Coconuts",
-      "url": "https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Delusions",
-        "url": "https://open.spotify.com/album/5BWlMrfoZrYFwGugVUO85k"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Delusions",
-      "url": "https://open.spotify.com/track/3Oa2mEs79hevoyO8z2taA3"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Love Anthem",
-        "url": "https://open.spotify.com/album/1bHbEieWlnDRsghM58cmvd"
+        "name": "The Smile of Rita",
+        "url": "https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ"
       },
       "artists": [
         {
@@ -244,12 +140,52 @@
           "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Love Anthem",
-      "url": "https://open.spotify.com/track/7CFEsAjOQdDHjHWzgyDEz1"
+      "duration_ms": 301000,
+      "name": "The Smile of Rita",
+      "url": "https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Gates to the Land of Wonders",
+        "url": "https://open.spotify.com/album/29LNN44mvwJChF92hrWymc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garc\u00eda Trio",
+          "url": "https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP"
+        }
+      ],
+      "duration_ms": 220599,
+      "name": "Gates to the Land of Wonders",
+      "url": "https://open.spotify.com/track/7tFWJoE326MkctMlRHHzvT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "J.T.",
+        "url": "https://open.spotify.com/album/6OVzFyTiT2RLo27OJALYt1"
+      },
+      "artists": [
+        {
+          "name": "Airelle Besson",
+          "url": "https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT"
+        },
+        {
+          "name": "Jonas Burgwinkel",
+          "url": "https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR"
+        },
+        {
+          "name": "Sebastian Sternal",
+          "url": "https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK"
+        }
+      ],
+      "duration_ms": 298614,
+      "name": "J.T.",
+      "url": "https://open.spotify.com/track/2f8F9sQWO0HJMBCWtaCq5Q"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I"
@@ -273,7 +209,55 @@
       "url": "https://open.spotify.com/track/5t9OXfSNOOc8F5JdO1OI6g"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Stella Cole",
+        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Bamako Stomp",
+        "url": "https://open.spotify.com/album/4mca0dH8i0w6S93bGpFdNg"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Sanz",
+          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Bamako Stomp",
+      "url": "https://open.spotify.com/track/2J5TeUYjGB3bixMN9V804f"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
         "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
@@ -293,175 +277,47 @@
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Gates to the Land of Wonders",
-        "url": "https://open.spotify.com/album/29LNN44mvwJChF92hrWymc"
+        "name": "Sen\u00e9",
+        "url": "https://open.spotify.com/album/4CdJPdAgjzwMnx4L0bOhBV"
       },
       "artists": [
         {
-          "name": "Daniel Garc\u00eda Trio",
-          "url": "https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP"
-        }
-      ],
-      "duration_ms": 220599,
-      "name": "Gates to the Land of Wonders",
-      "url": "https://open.spotify.com/track/7tFWJoE326MkctMlRHHzvT"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Live Apart",
-        "url": "https://open.spotify.com/album/1U82CHlzsOh8YPoW4eEH26"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 135569,
-      "name": "Live Apart",
-      "url": "https://open.spotify.com/track/69ijCnLmC5LIefYwgjGRj8"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Before You Walk",
-        "url": "https://open.spotify.com/album/4zGYF379zSkcvLSsvCqpiX"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
         },
         {
-          "name": "Jason LaPierre",
-          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+          "name": "Lorenzo Bianchi Hoesch",
+          "url": "https://open.spotify.com/artist/5vA57rzePpd4a6mejMCKvQ"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Before You Walk",
-      "url": "https://open.spotify.com/track/2ekSaRSd5y7tVl1FKdWy6K"
+      "duration_ms": 394000,
+      "name": "Sen\u00e9",
+      "url": "https://open.spotify.com/track/2CkKvzu4AmiZipQGRqxWy6"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "AO VIVO NA OP\u00c9RA (Live)",
-        "url": "https://open.spotify.com/album/6TaO5kJTXEu31H53HSUPWz"
+        "name": "Delusions",
+        "url": "https://open.spotify.com/album/5BWlMrfoZrYFwGugVUO85k"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Selva",
-          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
-        },
-        {
-          "name": "Quatuor Una Corda",
-          "url": "https://open.spotify.com/artist/60IEYqtZ36mUwb5b9jrV93"
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
         }
       ],
-      "duration_ms": 329093,
-      "name": "Navegar - Live",
-      "url": "https://open.spotify.com/track/5nbwpFBPfTVoZnEcSvTGpm"
+      "duration_ms": 281200,
+      "name": "Delusions",
+      "url": "https://open.spotify.com/track/3Oa2mEs79hevoyO8z2taA3"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
-        "url": "https://open.spotify.com/album/7onoQMuGPow8Myxwhn23SJ"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Andr\u00e9 Ceccarelli",
-          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
-        },
-        {
-          "name": "Diego Imbert",
-          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
-      "url": "https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "open this wall",
-        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 156688,
-      "name": "open this wall",
-      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Life in a Wind",
-        "url": "https://open.spotify.com/album/2amy1cZe4XX0etenWNRe3L"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Phal",
-          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "Wolfgang Valbrun",
-          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Life in a Wind",
-      "url": "https://open.spotify.com/track/1ot4TEgXBIcdPpoGmbNpmx"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Theuykhong",
         "url": "https://open.spotify.com/album/65BI7WfPWAx3N9S8xHDqad"
@@ -489,7 +345,319 @@
       "url": "https://open.spotify.com/track/4dKb4pmzItfPe3ESCI1YYg"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/6l6abRNWxxpDHHZZQjR8H6"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Frankie & Johnny",
+        "url": "https://open.spotify.com/album/7esD05FOaDgDHro3auSsBU"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Frankie & Johnny",
+      "url": "https://open.spotify.com/track/2vlcJff1ZToSqL1BiOF5k5"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Live Apart",
+        "url": "https://open.spotify.com/album/1U82CHlzsOh8YPoW4eEH26"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "duration_ms": 135569,
+      "name": "Live Apart",
+      "url": "https://open.spotify.com/track/69ijCnLmC5LIefYwgjGRj8"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Shaped By Water",
+        "url": "https://open.spotify.com/album/0mPOzgJWbnvAKEgs2aKPTG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Shaped By Water",
+      "url": "https://open.spotify.com/track/3r4IwIKPzgCTqo3nhoRHXq"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Tatomania",
+        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        },
+        {
+          "name": "Royal Quartet",
+          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
+        }
+      ],
+      "duration_ms": 258281,
+      "name": "Tatomania",
+      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Zulu Coconuts",
+        "url": "https://open.spotify.com/album/33urWPWjTlYBzGmKPASk8S"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 252378,
+      "name": "Zulu Coconuts",
+      "url": "https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Le Jazz et la Java",
+        "url": "https://open.spotify.com/album/30SX0VDxCKARSh45mN4rMX"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Pierre-Alain Goualch",
+          "url": "https://open.spotify.com/artist/5SOxLSx8nY4EpTpof9WpxP"
+        },
+        {
+          "name": "Diego Imbert",
+          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Chanson pour Maryline",
+      "url": "https://open.spotify.com/track/7h3V1pJ0a1JbgTZ1Z6gxO4"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5UDBGR5wr2Bf5xVDFDGFVA"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 258045,
+      "name": "Let the Creek Rise",
+      "url": "https://open.spotify.com/track/6fL9DVn4aYglOZBUkoguzi"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Love Anthem",
+        "url": "https://open.spotify.com/album/1bHbEieWlnDRsghM58cmvd"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Love Anthem",
+      "url": "https://open.spotify.com/track/7CFEsAjOQdDHjHWzgyDEz1"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Before You Walk",
+        "url": "https://open.spotify.com/album/4zGYF379zSkcvLSsvCqpiX"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Before You Walk",
+      "url": "https://open.spotify.com/track/2ekSaRSd5y7tVl1FKdWy6K"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
+        "url": "https://open.spotify.com/album/7onoQMuGPow8Myxwhn23SJ"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Diego Imbert",
+          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
+      "url": "https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 156688,
+      "name": "open this wall",
+      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "AO VIVO NA OP\u00c9RA (Live)",
+        "url": "https://open.spotify.com/album/6TaO5kJTXEu31H53HSUPWz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Selva",
+          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
+        },
+        {
+          "name": "Quatuor Una Corda",
+          "url": "https://open.spotify.com/artist/60IEYqtZ36mUwb5b9jrV93"
+        }
+      ],
+      "duration_ms": 329093,
+      "name": "Navegar - Live",
+      "url": "https://open.spotify.com/track/5nbwpFBPfTVoZnEcSvTGpm"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "The Bird Of A Thousand Voices",
+        "url": "https://open.spotify.com/album/4UnelVCThASbUfwNKPFqCa"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "duration_ms": 271911,
+      "name": "The Quest Begins",
+      "url": "https://open.spotify.com/track/3pbRUWgefMDCVY0DBFoNkK"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
@@ -505,7 +673,7 @@
       "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Fly Baby",
         "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
@@ -521,7 +689,79 @@
       "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "The Mojo",
+        "url": "https://open.spotify.com/album/2GJ9XmrXCyEas9lZmocCAl"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "The Mojo",
+      "url": "https://open.spotify.com/track/43ZH66bpYjA7xWQgryH0KQ"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Life in a Wind",
+        "url": "https://open.spotify.com/album/2amy1cZe4XX0etenWNRe3L"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Life in a Wind",
+      "url": "https://open.spotify.com/track/1ot4TEgXBIcdPpoGmbNpmx"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Secret House",
         "url": "https://open.spotify.com/album/0aGXNuZWFskg5cHKOU2etG"
@@ -541,39 +781,23 @@
       "url": "https://open.spotify.com/track/4aVUPEHIzzXsidRgdAf4RW"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "The Mojo",
-        "url": "https://open.spotify.com/album/2GJ9XmrXCyEas9lZmocCAl"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4gJ3TVZ6N5VZH41PXAHxMs"
       },
       "artists": [
         {
-          "name": "Sylvain Rifflet",
-          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
         }
       ],
-      "duration_ms": 197586,
-      "name": "The Mojo",
-      "url": "https://open.spotify.com/track/43ZH66bpYjA7xWQgryH0KQ"
+      "duration_ms": 230094,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7akGwptM8F18yYMpWedA1d"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Piano joyeux",
-        "url": "https://open.spotify.com/album/7oBYbHwOIbAVv5fICbHaW3"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        }
-      ],
-      "duration_ms": 195505,
-      "name": "Piano joyeux",
-      "url": "https://open.spotify.com/track/63CQJBqsGstpaRu43lBkQY"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Three Roses",
         "url": "https://open.spotify.com/album/35AAL1fg3jjtMyBJ2LToUn"
@@ -593,143 +817,7 @@
       "url": "https://open.spotify.com/track/0456iEt4RKO3bmhJbTixcf"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "I Owe You",
-        "url": "https://open.spotify.com/album/329wWrRcWSv5qPtiG1DGF5"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
-        },
-        {
-          "name": "Max Mutzke",
-          "url": "https://open.spotify.com/artist/2XTN4g2qnzFw0TG2NHuQxl"
-        }
-      ],
-      "duration_ms": 307099,
-      "name": "I Owe You",
-      "url": "https://open.spotify.com/track/1jRbYNxjo2B2wwqRY9ypLt"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Bamako Stomp",
-        "url": "https://open.spotify.com/album/4mca0dH8i0w6S93bGpFdNg"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Sanz",
-          "url": "https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Bamako Stomp",
-      "url": "https://open.spotify.com/track/2J5TeUYjGB3bixMN9V804f"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "ode to rahsaan",
-        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 210447,
-      "name": "ode to rahsaan",
-      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "If Everything Is Written",
-        "url": "https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk"
-      },
-      "artists": [
-        {
-          "name": "Ludovic Louis",
-          "url": "https://open.spotify.com/artist/7dzml0MudQRS956whBQ455"
-        }
-      ],
-      "duration_ms": 177833,
-      "name": "A Beautiful Story",
-      "url": "https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Triptych Phase II",
-        "url": "https://open.spotify.com/album/51MLo86B4wPX40715BiCB7"
-      },
-      "artists": [
-        {
-          "name": "Stephane Wrembel",
-          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
-        },
-        {
-          "name": "Jean-Michel Pilc",
-          "url": "https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM"
-        }
-      ],
-      "duration_ms": 381585,
-      "name": "Jonathan Livingston Seagull",
-      "url": "https://open.spotify.com/track/69QHGsphyHQRqGjczGMnEt"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/7gEO5D21947OD8DPjh9UK2"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/6GyIAOPiPEXO7gZ2ageJp4"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Roni's Swing",
         "url": "https://open.spotify.com/album/76bbZNv3akzKWbMxGbVcXO"
@@ -773,7 +861,39 @@
       "url": "https://open.spotify.com/track/7o1D6of9CprXWZEYJlyneL"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "ode to rahsaan",
+        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 210447,
+      "name": "ode to rahsaan",
+      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Piano joyeux",
+        "url": "https://open.spotify.com/album/7oBYbHwOIbAVv5fICbHaW3"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Piano joyeux",
+      "url": "https://open.spotify.com/track/63CQJBqsGstpaRu43lBkQY"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Wait A While",
         "url": "https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu"
@@ -797,115 +917,7 @@
       "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "You\u2019re Everything",
-        "url": "https://open.spotify.com/album/1xmaHopZWgN98S8Hp5Eq5y"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 158177,
-      "name": "You\u2019re Everything",
-      "url": "https://open.spotify.com/track/7yLCRcvLBrQkRUAngyuBft"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Orange-coloured day",
-        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 168218,
-      "name": "Orange-coloured day",
-      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Album of the Year #1 Funkateer",
-        "url": "https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Bootdullivan",
-          "url": "https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW"
-        },
-        {
-          "name": "Myra Washington",
-          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
-        }
-      ],
-      "duration_ms": 255746,
-      "name": "Album of the Year #1 Funkateer",
-      "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "I'm on a Roll",
-        "url": "https://open.spotify.com/album/58yG3zRmsrOWHKUVp6bCR6"
-      },
-      "artists": [
-        {
-          "name": "Kimberose",
-          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
-        }
-      ],
-      "duration_ms": 189863,
-      "name": "I\u2019m on a Roll",
-      "url": "https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 388160,
-      "name": "The Otter Creek Incident",
-      "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Feelin' Groovy (Live at Orange Lounge)",
         "url": "https://open.spotify.com/album/6fpOW4T0Ik4pbNqmhUvsJM"
@@ -921,20 +933,20 @@
       "url": "https://open.spotify.com/track/5sktNvNCghzLvPUvLVyV7m"
     },
     {
-      "added_at": "2024-08-22 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Mid Spiral: Growth",
-        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
+        "name": "If Everything Is Written",
+        "url": "https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Ludovic Louis",
+          "url": "https://open.spotify.com/artist/7dzml0MudQRS956whBQ455"
         }
       ],
-      "duration_ms": 333881,
-      "name": "Celestial Hands",
-      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
+      "duration_ms": 177833,
+      "name": "A Beautiful Story",
+      "url": "https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo"
     }
   ],
   "unique_name": "Jazz Club",

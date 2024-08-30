@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 150816,
       "name": "CREDENTIALS",
       "url": "https://open.spotify.com/track/5Iv2d84UF1HkkkPGmI1Dvf"
@@ -2992,6 +2992,28 @@
       "duration_ms": 164543,
       "name": "Face Off",
       "url": "https://open.spotify.com/track/6F4IkQArLX0RLBtkdVozdw"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/21Gstty5YfiD673TAy3xc7"
+      },
+      "artists": [
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5Hnl7vagze1xTLyybaltfs"
     },
     {
       "album": {
@@ -7808,6 +7830,10 @@
         {
           "name": "Diamond",
           "url": "https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC"
+        },
+        {
+          "name": "Mehraj Deep",
+          "url": "https://open.spotify.com/artist/7nbT7stif3z27aRr8gSv35"
         }
       ],
       "date_added": "2024-08-28",

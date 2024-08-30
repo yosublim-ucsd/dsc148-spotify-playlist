@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Marlin's Dreaming
 
-156 songs - 8 hr 45 min
+158 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,8 @@
 | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 | 2024-05-20 |  |
 | [Wild For Change](https://open.spotify.com/track/1x7MgVfK7MP3aZkAuae3t8) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Wild For Change](https://open.spotify.com/album/0Y85muQmXgj15Os6GkC9Th) | 3:52 | 2024-05-20 | 2024-08-16 |
 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 | 2024-05-20 |  |
+| [With You](https://open.spotify.com/track/2uAn59bUH20FLJzHXnl5zi) | [Juicy Jamz](https://open.spotify.com/artist/5YwLWCeArN7CECv7CLfz9f) | [With You](https://open.spotify.com/album/7KynKKoRnC19KaLuQVKt4U) | 3:34 | 2024-08-30 |  |
 | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS) | 3:00 | 2024-08-15 |  |
+| [You're On Your Own This Time, Again](https://open.spotify.com/track/6refloGDPQzdncMkazz7ED) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [YOYOTTA](https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp) | 3:36 | 2024-08-30 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

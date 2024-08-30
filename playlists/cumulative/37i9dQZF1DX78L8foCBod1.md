@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-168 songs - 11 hr 47 min
+169 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [NOD](https://open.spotify.com/track/2t5BsR1Q9xP3O7RSs5NNLe) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [NOD](https://open.spotify.com/album/11D4LDyI4T1EjVqrZP9wL0) | 2:43 | 2024-01-23 |  |
 | [NOWVERSE](https://open.spotify.com/track/7A8cVuQuISEoYxbOQOm5yO) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/7v9JeC4whlA96o6N19hxZI) | 2:35 | 2023-12-19 |  |
 | [NOWVERSE](https://open.spotify.com/track/7B8T7CdOphQGeplXQf4w3c) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 2:35 | 2024-01-09 | 2024-04-19 |
+| [NOWVERSE \- NV](https://open.spotify.com/track/1MXKnVl0jh2BgwYyz91f41) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NOWVERSE \- NV](https://open.spotify.com/album/0jcJFTE1ecBdGZ77Al9PJr) | 2:35 | 2024-08-29 |  |
 | [Odd One Out](https://open.spotify.com/track/6o6jwULGrWIZkn5Uvs4dg2) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:43 | 2023-05-12 |  |
 | [odd:I](https://open.spotify.com/track/1MnJPiY2LT0noxGco8UsRC) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [odd:I](https://open.spotify.com/album/0QoFTpJ94Rz6PaHsdPj5zl) | 2:57 | 2023-08-08 |  |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-06-07 |  |

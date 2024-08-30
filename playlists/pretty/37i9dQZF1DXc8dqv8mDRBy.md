@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,147 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,207 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 | 41 | [Ser Amigos](https://open.spotify.com/track/1JbwzCItfaWEaCWkgUfrSw) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Estilo Libre](https://open.spotify.com/album/66dvunbgSWOguy0ZJV653Z) | 3:26 |
 | 42 | [Si Tú Existieras](https://open.spotify.com/track/2MIuZxR2C5DvQhNWdcc3ob) | [Cepeda](https://open.spotify.com/artist/5AMBCoLbNgVCbA3XYMRlks) | [Si Tú Existieras](https://open.spotify.com/album/2RANXNE4W5tRDF90Pn1w22) | 3:57 |
 | 43 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
-| 44 | [Vas A Llorar \(No Sé Querer\)](https://open.spotify.com/track/3zoNRv5ubTcJwdVAk9OFYj) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Vas A Llorar \(No Sé Querer\)](https://open.spotify.com/album/14aQVrB8ix2lPWcmBBfo4O) | 3:45 |
+| 44 | [Vas A Llorar \(No Sé Querer\)](https://open.spotify.com/track/3zoNRv5ubTcJwdVAk9OFYj) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Vas A Llorar \(No Sé Querer\)](https://open.spotify.com/album/14aQVrB8ix2lPWcmBBfo4O) | 3:45 |
 | 45 | [No Me Doy Por Vencido](https://open.spotify.com/track/1eLRga2SlL8WNMe3IbwP3q) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Romances](https://open.spotify.com/album/6cFUspXBAwzoLZfMLrQPlc) | 3:57 |
 | 46 | [Jueves](https://open.spotify.com/track/1P6Hp9P2IejrmC8ssAQNPQ) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Nuestra Casa a la Izquierda del Tiempo](https://open.spotify.com/album/7kkgWcMLYlOJXWudVS66Wp) | 4:23 |
 | 47 | [Aqui Estoy Yo](https://open.spotify.com/track/5tDTXWV3B3ixz9YCr3MxNY) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Palabras Del Silencio](https://open.spotify.com/album/2UZXXyZAZwgIZkauNRiUkx) | 4:10 |

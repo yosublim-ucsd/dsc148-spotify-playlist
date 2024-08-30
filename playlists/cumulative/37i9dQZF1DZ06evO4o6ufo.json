@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
+  "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
   "name": "This Is Panter B\u00e9lico",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 118656,
       "name": "El 50 (En Vivo)",
       "url": "https://open.spotify.com/track/5bTY4jYz6tqdGyPIID96ke"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 496138,
       "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
       "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"

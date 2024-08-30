@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069 (Ben)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: Majin",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 100027,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7BsxnZQIlqEUL7h2haDK9z"
@@ -5292,6 +5292,28 @@
       "duration_ms": 166500,
       "name": "\u507d\u88dd",
       "url": "https://open.spotify.com/track/4ys0CGJFqvaTONcGaOUST3"
+    },
+    {
+      "album": {
+        "name": "\u50bb\u82b1",
+        "url": "https://open.spotify.com/album/5PblPFKq7INaXf0PYgYSvr"
+      },
+      "artists": [
+        {
+          "name": "God \u00d8ne",
+          "url": "https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL"
+        },
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "\u50bb\u82b1",
+      "url": "https://open.spotify.com/track/2V4EQ0vaMDChsyxXjRpSGq"
     },
     {
       "album": {
@@ -8600,7 +8622,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 231500,
       "name": "\u6c99\u9f8d (feat.\u5433\u737b Osean)",
       "url": "https://open.spotify.com/track/2F8GUP7I5NEz2nxRr8OFlH"
@@ -9332,7 +9354,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 215902,
       "name": "\u773c\u9f3b\u53e3",
       "url": "https://open.spotify.com/track/4RcCaSEMEShZX8XRb0g5eL"
@@ -9466,7 +9488,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 136320,
       "name": "\u7aa9\u56ca\u5ee2",
       "url": "https://open.spotify.com/track/2wZQ7X4Rj2WuaE248NltPf"
@@ -9632,7 +9654,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 234857,
       "name": "\u7de9\u7de9",
       "url": "https://open.spotify.com/track/3aQwzPFgzLgjoPfguQWNFJ"
@@ -9704,7 +9726,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 167344,
       "name": "\u7ffc",
       "url": "https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH"
@@ -10358,7 +10380,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 219919,
       "name": "\u8d95\u8d95\u6642\u9593",
       "url": "https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg"
@@ -11028,6 +11050,24 @@
       "duration_ms": 195000,
       "name": "\u99ac\u5152",
       "url": "https://open.spotify.com/track/1tfxHCZ0Z98B3Zx577OJjH"
+    },
+    {
+      "album": {
+        "name": "\u5496\u5561\u6c24",
+        "url": "https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "\u9ad8\u6795\u7121\u6182",
+      "url": "https://open.spotify.com/track/3NnCQmlaSF40uU3jdv2YHn"
     },
     {
       "album": {

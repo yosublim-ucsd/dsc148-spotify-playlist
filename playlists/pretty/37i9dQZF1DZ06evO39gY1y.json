@@ -1,12 +1,12 @@
 {
-  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 228756,
+  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
+  "num_followers": 228839,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAADhIBsZ68HzWYJHAI9qVNHS",
+  "snapshot_id": "Zs5ogAAAAAAZtwp8RkQvPqzFeYWQ/5Ms",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LQRA Session #9",
-        "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
+        "name": "Mis Ojos No Pod\u00edan Ver",
+        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
       },
       "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 188387,
-      "name": "LQRA Session #9",
-      "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
+      "duration_ms": 163000,
+      "name": "Mis Ojos No Pod\u00edan Ver",
+      "url": "https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso"
     },
     {
       "added_at": null,
@@ -183,22 +179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Ojos No Pod\u00edan Ver",
-        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
+        "name": "LQRA Session #9",
+        "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
       },
       "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Mis Ojos No Pod\u00edan Ver",
-      "url": "https://open.spotify.com/track/3Vu0DaVs8y02I9mqm4NJso"
+      "duration_ms": 188387,
+      "name": "LQRA Session #9",
+      "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
     },
     {
       "added_at": null,
@@ -335,30 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Vato Como Yo",
-        "url": "https://open.spotify.com/album/58PUsfoBVRGgDyTo4Xympi"
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
       "artists": [
         {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Jay Romero",
-          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
         }
       ],
-      "duration_ms": 225200,
-      "name": "Un Vato Como Yo",
-      "url": "https://open.spotify.com/track/33rsnrH0JDKiKBQ2SUxcmz"
+      "duration_ms": 164597,
+      "name": "Legendarios",
+      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
     },
     {
       "added_at": null,
@@ -387,22 +379,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+        "name": "Un Vato Como Yo",
+        "url": "https://open.spotify.com/album/58PUsfoBVRGgDyTo4Xympi"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
         }
       ],
-      "duration_ms": 164597,
-      "name": "Legendarios",
-      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
+      "duration_ms": 225200,
+      "name": "Un Vato Como Yo",
+      "url": "https://open.spotify.com/track/33rsnrH0JDKiKBQ2SUxcmz"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Que Te Bese",
-        "url": "https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 182127,
-      "name": "Desde Que Te Bese",
-      "url": "https://open.spotify.com/track/3LUp0DjkJlxhVVhSWgNETZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 200626,
       "name": "No Hay Palabras Bonitas",
       "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Que Te Bese",
+        "url": "https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 182127,
+      "name": "Desde Que Te Bese",
+      "url": "https://open.spotify.com/track/3LUp0DjkJlxhVVhSWgNETZ"
     },
     {
       "added_at": null,
@@ -911,6 +911,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Toca Perder",
+        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "Me Toca Perder",
+      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 214500,
       "name": "Suave",
       "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Toca Perder",
-        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
     },
     {
       "added_at": null,
@@ -1079,22 +1079,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Villana",
-        "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
+        "name": "Mis Ojos No Pod\u00edan Ver",
+        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 198787,
-      "name": "Villana",
-      "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
+      "duration_ms": 134500,
+      "name": "La Parada del Bus",
+      "url": "https://open.spotify.com/track/06A0LWFYMgQ6PCkmn5pE9K"
     }
   ],
   "unique_name": "This Is Charles Ans",

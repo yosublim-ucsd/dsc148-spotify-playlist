@@ -4,7 +4,7 @@
 
 > Força Suprema entram na zona.
 
-605 songs - 1 day 8 hr 22 min
+606 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bon Appétit](https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Olho de Tigre](https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb) | 2:45 | 2022-07-16 | 2023-11-11 |
 | [Braille](https://open.spotify.com/track/3uxr1S4rg8EqMLFH4mgqTT) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Braille](https://open.spotify.com/album/2CjnQzni6YzaX7XbdLnHqj) | 2:40 | 2023-11-10 | 2024-01-12 |
 | [Bram Bram](https://open.spotify.com/track/521wrQjzG1znX4e8caN2LG) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Loreta Kba](https://open.spotify.com/artist/3BgAxhLchLBb8Y6h7mVbyk) | [Bram Bram](https://open.spotify.com/album/3yXviYzjm4OfflqOcl3MVj) | 3:39 | 2024-06-27 |  |
+| [BRIX](https://open.spotify.com/track/2ESbGbEmwTgeLGlrnuwVoI) | [Gersoncdc](https://open.spotify.com/artist/1i2hDT55ljHDD5ltZvyeEZ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [BRIX](https://open.spotify.com/album/1BUxNy6zFXmn5zmfHjAvY7) | 1:17 | 2024-08-29 |  |
 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 | 2024-03-01 |  |
 | [Ca Bu Spera \(feat\. Guettoroots\)](https://open.spotify.com/track/5cCuBrjJY23SZXM1RcNJRY) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O), [Guettoroots](https://open.spotify.com/artist/7IJTr5gQ3AhhVbzP4nDZMF) | [Ca Bu Spera \(feat\. Guettoroots\)](https://open.spotify.com/album/4fYKI2VZ66HUbEZIY2P8dV) | 3:09 | 2024-05-16 | 2024-06-07 |
 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 | 2022-12-09 | 2023-11-11 |
@@ -340,7 +341,7 @@
 | [Marcas De Bikini](https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Marcas De Bikini](https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3) | 3:23 | 2022-08-11 | 2022-10-01 |
 | [Maria](https://open.spotify.com/track/2YFwHixO0VL3V0iNNeXUac) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Maria](https://open.spotify.com/album/1lcl25OluaFNjHbWPlTux5) | 2:42 | 2023-05-08 | 2023-06-02 |
 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 | 2023-11-10 | 2024-02-23 |
-| [Mau Rapaz](https://open.spotify.com/track/3uEhYK6XoStf5kHf90NVy3) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Mau Rapaz](https://open.spotify.com/album/0eV8dtnA4p42zPpXcR5m8d) | 4:09 | 2024-06-06 |  |
+| [Mau Rapaz](https://open.spotify.com/track/3uEhYK6XoStf5kHf90NVy3) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Mau Rapaz](https://open.spotify.com/album/0eV8dtnA4p42zPpXcR5m8d) | 4:09 | 2024-06-06 | 2024-08-30 |
 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 | 2022-07-16 | 2024-01-19 |
 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2022-07-21 | 2023-02-24 |
 | [Mensagem](https://open.spotify.com/track/45iFUQKNVkSFXah35yvZaz) | [Satiro Mc](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Mensagem](https://open.spotify.com/album/31NvTWLmlVBfnrwu1OzV1H) | 2:48 | 2024-05-02 | 2024-06-21 |
@@ -407,7 +408,7 @@
 | [Não Posso Agora](https://open.spotify.com/track/5UaD8d3304kcnBtlOpxPL8) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Não Posso Agora](https://open.spotify.com/album/15G7TOQBrQD0huFgZMIXKQ) | 2:37 | 2023-02-10 | 2023-03-31 |
 | [Não Quero](https://open.spotify.com/track/3XXNZKXK7Pc3nw7eDNYeUI) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Não Quero](https://open.spotify.com/album/5NWfMcJDXVpfHWJrIPt3u5) | 4:00 | 2023-02-17 | 2023-03-25 |
 | [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 | 2022-08-01 | 2022-08-26 |
-| [NÃO TINHA NADA](https://open.spotify.com/track/5ubAmROD80LMc6zQFEsA2S) | [\-Mind7\-](https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb) | [NÃO TINHA NADA](https://open.spotify.com/album/3EgNEDUUTUuuOsYrLyCcGO) | 3:41 | 2024-07-04 |  |
+| [NÃO TINHA NADA](https://open.spotify.com/track/5ubAmROD80LMc6zQFEsA2S) | [\-Mind7\-](https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb) | [NÃO TINHA NADA](https://open.spotify.com/album/3EgNEDUUTUuuOsYrLyCcGO) | 3:41 | 2024-07-04 | 2024-08-30 |
 | [Não Volto](https://open.spotify.com/track/3IcPYN25mmE28nA1qXphgi) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [100 Segredos](https://open.spotify.com/album/66GmwuRmnCeJAKGkZC2gMf) | 2:51 | 2023-12-08 | 2024-01-19 |
 | [O Outro Lado Do Muro](https://open.spotify.com/track/6qfviK9gdL6uG4OvhBMzut) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Os Distúrbios Mentais De Um Monstro](https://open.spotify.com/album/4i7M7g1rfuaMOE7BxRp2Ye) | 3:38 | 2022-11-25 | 2023-01-06 |
 | [O Peixe Morre Pela Boca](https://open.spotify.com/track/3OxBtfWT4rEGBmVvSNybAP) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1) | [O Peixe Morre Pela Boca](https://open.spotify.com/album/4e4U4mk7rUxVkaRMpHtenJ) | 2:33 | 2024-03-08 | 2024-04-05 |

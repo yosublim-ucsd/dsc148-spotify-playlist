@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 68755,
+  "num_followers": 68763,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
-      },
-      "artists": [
-        {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 230000,
       "name": "Say You Wont Let Go",
       "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Soft Piano Tunes",
-        "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
-      },
-      "artists": [
-        {
-          "name": "Piano Pianissimo",
-          "url": "https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x"
-        }
-      ],
-      "duration_ms": 248350,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
         "name": "Knowing Myself",
         "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
+        "name": "Soft Piano Tunes",
+        "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
+      },
+      "artists": [
+        {
+          "name": "Piano Pianissimo",
+          "url": "https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x"
+        }
+      ],
+      "duration_ms": 248350,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "They Keep Asking",
-        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber",
-          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
-        }
-      ],
-      "duration_ms": 151557,
-      "name": "They Keep Asking",
-      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
         "name": "Star Eyes",
         "url": "https://open.spotify.com/album/3jGRLCp4Ix9ZCICt5Aey6I"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+        "name": "They Keep Asking",
+        "url": "https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0"
       },
       "artists": [
         {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
         }
       ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+      "duration_ms": 151557,
+      "name": "They Keep Asking",
+      "url": "https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -871,6 +855,22 @@
       "duration_ms": 189923,
       "name": "I'll Take Romance",
       "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -987,6 +987,42 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
+      },
+      "artists": [
+        {
+          "name": "Lisa Livalli",
+          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
+        }
+      ],
+      "duration_ms": 216978,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "duration_ms": 125133,
+      "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
+      "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -1011,18 +1047,18 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
       "artists": [
         {
-          "name": "Lisa Livalli",
-          "url": "https://open.spotify.com/artist/5qRGl1Cpcwz5uR17bGfOLR"
+          "name": "Brandon Mills",
+          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
         }
       ],
-      "duration_ms": 216978,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
+      "duration_ms": 179810,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -1055,42 +1091,6 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
-        "name": "Sibelius: Piano Music, Vol. 4",
-        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
-        }
-      ],
-      "duration_ms": 125133,
-      "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
-      "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mills",
-          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
-        }
-      ],
-      "duration_ms": 179810,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
         "name": "When We First Met",
         "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -1335,6 +1335,22 @@
       "duration_ms": 143240,
       "name": "Children Will Listen",
       "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
+        "name": "I See the Light - From \"Tangled\"",
+        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
+      },
+      "artists": [
+        {
+          "name": "Gregory Bevill",
+          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
+        }
+      ],
+      "duration_ms": 200812,
+      "name": "I See the Light - From \"Tangled\"",
+      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -1371,34 +1387,18 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Lullaby Moods",
-        "url": "https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9"
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
       "artists": [
         {
-          "name": "Arlen Ness",
-          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Rasung Consciousness",
-      "url": "https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
-        "name": "I See the Light - From \"Tangled\"",
-        "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
-      },
-      "artists": [
-        {
-          "name": "Gregory Bevill",
-          "url": "https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY"
-        }
-      ],
-      "duration_ms": 200812,
-      "name": "I See the Light - From \"Tangled\"",
-      "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "See you in the morning",
-        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
+        "name": "Lullaby Moods",
+        "url": "https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9"
       },
       "artists": [
         {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+          "name": "Arlen Ness",
+          "url": "https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0"
         }
       ],
-      "duration_ms": 160000,
-      "name": "See you in the morning",
-      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+      "duration_ms": 140000,
+      "name": "Rasung Consciousness",
+      "url": "https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k"
     },
     {
       "added_at": "2024-08-26 03:16:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-26 03:16:14",
       "album": {
-        "name": "Raindrops in my heart",
-        "url": "https://open.spotify.com/album/7sAMmRYHvQ6LtaDXyLKBjc"
-      },
-      "artists": [
-        {
-          "name": "Stephan Berg",
-          "url": "https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G"
-        }
-      ],
-      "duration_ms": 165944,
-      "name": "Raindrops in my heart",
-      "url": "https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW"
-    },
-    {
-      "added_at": "2024-08-26 03:16:14",
-      "album": {
         "name": "fading memories",
         "url": "https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 196250,
       "name": "follow me home",
       "url": "https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf"
+    },
+    {
+      "added_at": "2024-08-26 03:16:14",
+      "album": {
+        "name": "Raindrops in my heart",
+        "url": "https://open.spotify.com/album/7sAMmRYHvQ6LtaDXyLKBjc"
+      },
+      "artists": [
+        {
+          "name": "Stephan Berg",
+          "url": "https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G"
+        }
+      ],
+      "duration_ms": 165944,
+      "name": "Raindrops in my heart",
+      "url": "https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW"
     },
     {
       "added_at": "2024-08-26 03:16:14",

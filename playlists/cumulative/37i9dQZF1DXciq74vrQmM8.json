@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Cassyette",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Bambie Thug",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 202013,
       "name": "CHARD",
       "url": "https://open.spotify.com/track/1rP3OlKaeG6Ut6ln3Eho1u"
@@ -7232,6 +7232,24 @@
       "duration_ms": 240546,
       "name": "Here (In Your Arms)",
       "url": "https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw"
+    },
+    {
+      "album": {
+        "name": "Hex So Heavy",
+        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Hex So Heavy",
+      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
     },
     {
       "album": {
@@ -12014,6 +12032,24 @@
       "duration_ms": 177000,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx"
+    },
+    {
+      "album": {
+        "name": "Overwhelming",
+        "url": "https://open.spotify.com/album/2F4AFhVkQs4mgDH12dFru4"
+      },
+      "artists": [
+        {
+          "name": "Raven Numan",
+          "url": "https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221208,
+      "name": "Overwhelming",
+      "url": "https://open.spotify.com/track/3Mc0QasTpouabBFgz7L48c"
     },
     {
       "album": {

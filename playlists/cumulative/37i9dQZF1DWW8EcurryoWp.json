@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new Irish alternative sounds. Cover: Gurriers",
+  "description": "The best new Irish alternative sounds. Cover: Kynsy",
   "name": "Alternative Ireland",
   "tracks": [
+    {
+      "album": {
+        "name": "17 egg",
+        "url": "https://open.spotify.com/album/4IUA1QaC3uESjHSJhArNJm"
+      },
+      "artists": [
+        {
+          "name": "banr\u00edon",
+          "url": "https://open.spotify.com/artist/7uy6znaGEdCWo4Jnhb1rAX"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226182,
+      "name": "17 egg",
+      "url": "https://open.spotify.com/track/0bVTeUkOUoAGGWEIKuQF23"
+    },
     {
       "album": {
         "name": "2000SEVEN",
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 101200,
       "name": "a dream like that",
       "url": "https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 146409,
       "name": "guilt2001",
       "url": "https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204631,
       "name": "Letdown",
       "url": "https://open.spotify.com/track/7sSabxVsemgRKm54oqJSn4"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 155744,
       "name": "MENACE - bonus track",
       "url": "https://open.spotify.com/track/0LJjpaO98U0wGBLIxp5DDD"
@@ -994,6 +1012,24 @@
       "duration_ms": 227000,
       "name": "patrick",
       "url": "https://open.spotify.com/track/1nC4M0b5jJZLTisNET5LWo"
+    },
+    {
+      "album": {
+        "name": "Pocket (montreal)",
+        "url": "https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118703,
+      "name": "Pocket (montreal)",
+      "url": "https://open.spotify.com/track/3TJWODxkUUPtC28fGZUNCZ"
     },
     {
       "album": {

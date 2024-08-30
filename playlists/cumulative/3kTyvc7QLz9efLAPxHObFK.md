@@ -4,7 +4,7 @@
 
 > 
 
-1,658 songs - 3 day 17 hr 21 min
+1,660 songs - 3 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Basilisk Gaze](https://open.spotify.com/track/4VQ6plc1MZ6DHug5X9aRrf) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr), [Ark\-Z](https://open.spotify.com/artist/5ht1JEBxZ5APJiyCzbcONJ) | [ZODIAX 3+](https://open.spotify.com/album/17nmOpiUO6CTJxiFUUzGO7) | 4:10 | 2022-08-13 |  |
 | [Bass cannon](https://open.spotify.com/track/4fsP1AG3jDms48EqK85mG6) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Astral Orbit](https://open.spotify.com/album/1JU2LDC06jwWcqgUTda1lp) | 3:36 | 2022-04-05 |  |
 | [Bass Down Low](https://open.spotify.com/track/4cfdqtIu3JMIvkBRanf9oh) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu), [Synapze](https://open.spotify.com/artist/1jW6LuIyqoqeVThJeuG8QK) | [Bass Down Low](https://open.spotify.com/album/1hoTrVzG2I3DCwjv81qrJx) | 2:09 | 2023-12-30 |  |
+| [Bass Drop](https://open.spotify.com/track/64HXLr9Hs2R9puLICPza5w) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Bass Drop](https://open.spotify.com/album/2Fs1bIKbO91EemirA1y9lk) | 2:48 | 2024-08-29 |  |
 | [Bass Drop](https://open.spotify.com/track/2rpzC0UoZ8rSHJmDBNzmi3) | [Omar Santana](https://open.spotify.com/artist/4jlINwGiH4WGCv6OCRNdpT), [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Wild Mothafukaz](https://open.spotify.com/album/0uMeoGjdc7dJaJ13FGBAsc) | 4:44 | 2023-03-31 |  |
 | [Bass Drop](https://open.spotify.com/track/3YyjBlDBtR3OCrmMnMsNNo) | [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [Sandy Warez](https://open.spotify.com/artist/1oZ7OpE1SHjyUjXgYKaLpM), [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [Bass Drop](https://open.spotify.com/album/6GaQdhwjCFOt0IV8KiCXCj) | 2:51 | 2024-08-13 |  |
 | [Bass Drop \- Extended Mix](https://open.spotify.com/track/1p8FEmTX8QPXmVUGVs4ZK9) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Bass Drop](https://open.spotify.com/album/2Fs1bIKbO91EemirA1y9lk) | 3:14 | 2024-08-28 |  |
@@ -467,6 +468,7 @@
 | [Evolve Rerise](https://open.spotify.com/track/1OTdjQoSOX78UBKpkk4eIQ) | [nora2r](https://open.spotify.com/artist/2w6fOiIppkVrA659vJN89h) | [Evolve Rerise](https://open.spotify.com/album/4f6wwMWCfRhmIRBFgZSAH2) | 2:03 | 2024-04-09 |  |
 | [Execute](https://open.spotify.com/track/3ibmBtsJoIDbiNY0ibsS4O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Execute](https://open.spotify.com/album/2jioYBhDvVDq6m9uKwUDbI) | 2:26 | 2023-05-20 |  |
 | [Execute \- INVADE Remix](https://open.spotify.com/track/4L2fzotymdHZ2QadB8bge4) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Execute \(INVADE Remix\)](https://open.spotify.com/album/6gwA2eaGVUBwguLb7i4m60) | 4:20 | 2023-06-02 |  |
+| [Eyes Closed](https://open.spotify.com/track/0rJmohoEvjdcbSRPoyThbP) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G) | [Eyes Closed](https://open.spotify.com/album/1MIOLNy83zZBZGylJvpofm) | 2:18 | 2024-08-29 |  |
 | [F THE SYSTEM](https://open.spotify.com/track/6sumgDtmDdwxwbN9ZBZ5hm) | [Project Core](https://open.spotify.com/artist/16cCEbmSAybTJMb5epEDoL), [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [F THE SYSTEM](https://open.spotify.com/album/4fdZUpz17Mz9OY4gVFdAbX) | 3:07 | 2023-03-02 |  |
 | [F.R.N.](https://open.spotify.com/track/29WXMR8m8zj3VQPOzR2h1j) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [BREVKIN](https://open.spotify.com/album/3Elsd1dMiZfACBTZieeJXJ) | 3:19 | 2023-05-20 |  |
 | [Face Of Chaos \- Luminite Remix](https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Face Of Chaos \(Luminite Remix\)](https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY) | 2:18 | 2023-06-24 |  |

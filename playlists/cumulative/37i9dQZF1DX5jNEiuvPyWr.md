@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : Zamdane
 
-417 songs - 20 hr 26 min
+418 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Ourania](https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [Ourania](https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW) | 2:53 | 2024-06-06 |  |
 | [Para](https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l) | [VERSIONBETA7](https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR) | [Erreurs](https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc) | 2:39 | 2024-02-08 | 2024-04-26 |
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 | 2022-12-24 |
-| [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 | 2024-07-18 |  |
+| [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 | 2024-07-18 | 2024-08-30 |
 | [Paradis Bleu](https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Paradis Bleu](https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ) | 3:17 | 2022-12-08 | 2023-04-07 |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 | 2022-12-16 |
 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 | 2023-05-19 |
@@ -373,6 +373,7 @@
 | [SINCÈREMENT](https://open.spotify.com/track/13hCmkcW61DsnePHeXRbhg) | [PHLP](https://open.spotify.com/artist/14UW64obRS8GNXHzbRK9DL) | [SINCÈREMENT](https://open.spotify.com/album/3XkUXrkXr9nx6WrUSfbvBx) | 2:02 | 2024-06-20 |  |
 | [SITCOM](https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL) | [S4Y](https://open.spotify.com/artist/730brklpRJyEsMwAd4mQRp) | [SITCOM](https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY) | 2:13 | 2023-11-16 | 2024-01-12 |
 | [SKYLER](https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [SKYLER](https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u) | 3:17 | 2022-12-01 | 2023-03-25 |
+| [SLIZZY SLANG](https://open.spotify.com/track/06CHWwFuSe5eTLK4CK4QIb) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [SLIZZY SLANG](https://open.spotify.com/album/7IPWRcnMDV8n1if7g000gk) | 2:31 | 2024-08-29 |  |
 | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Smile:\( \(feat\. So La Lune\)](https://open.spotify.com/album/4fSVefoyfmjASBGew0QzjL) | 3:07 | 2022-12-08 | 2023-03-18 |
 | [SOLIDE](https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2) | [PUSH & GIO](https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7), [LETS GO](https://open.spotify.com/artist/0slvOa2y1TVxMkb7H1iasz) | [LETS GO](https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP) | 3:09 | 2023-05-18 | 2023-10-20 |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-08-11 | 2023-08-11 |

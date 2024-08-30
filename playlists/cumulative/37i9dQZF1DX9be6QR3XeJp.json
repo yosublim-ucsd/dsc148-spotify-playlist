@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Ruthven",
+  "description": "Discover your new favourite artists from UK&IE. Cover: JD. REID",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -4790,6 +4790,24 @@
       "duration_ms": 187906,
       "name": "Tinko Tinko (Don't Play Me for a Fool)",
       "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
+    },
+    {
+      "album": {
+        "name": "too much tv",
+        "url": "https://open.spotify.com/album/3to4TxLLUr4iQ3uOyW6XLW"
+      },
+      "artists": [
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "too much tv",
+      "url": "https://open.spotify.com/track/5ZhW39tJKPDZRphsTknUHR"
     },
     {
       "album": {

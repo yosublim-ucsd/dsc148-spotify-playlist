@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292538,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh"
+    },
+    {
+      "album": {
         "name": "Suburbiales",
         "url": "https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A"
       },
@@ -855,6 +873,24 @@
     },
     {
       "album": {
+        "name": "El Caso del Hombre Serio y Formal",
+        "url": "https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq"
+      },
+      "artists": [
+        {
+          "name": "Generador",
+          "url": "https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190028,
+      "name": "El Caso del Hombre Serio y Formal",
+      "url": "https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe"
+    },
+    {
+      "album": {
         "name": "El Dolor",
         "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
       },
@@ -1326,7 +1362,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 149647,
       "name": "Esto no es para ti",
       "url": "https://open.spotify.com/track/6M0qdPIx3DbnbXV3IsfTWZ"
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 276058,
       "name": "Ka\u00f1a",
       "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
@@ -2781,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Pudredumbre",
+        "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
+      },
+      "artists": [
+        {
+          "name": "Opus Pain",
+          "url": "https://open.spotify.com/artist/011c1z4h5qXlPlhpQ6NKj8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125727,
+      "name": "Pudredumbre",
+      "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
+    },
+    {
+      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -3092,7 +3146,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 165739,
       "name": "Su Acierto",
       "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"

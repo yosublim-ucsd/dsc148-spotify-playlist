@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66431,
+  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
+  "num_followers": 66437,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAACYknaaLMb0jIg/OQf2msby",
+  "snapshot_id": "Zs5ogAAAAACJJYxVUifYWZ1gI8pCAr8u",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu No Eres un Angel",
-        "url": "https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H"
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
       "artists": [
         {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 191727,
-      "name": "Tu No Eres un Angel",
-      "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
+      "duration_ms": 133000,
+      "name": "Att: Amor",
+      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
     },
     {
       "added_at": null,
@@ -159,22 +155,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+        "name": "Tu No Eres un Angel",
+        "url": "https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Att: Amor",
-      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+      "duration_ms": 191727,
+      "name": "Tu No Eres un Angel",
+      "url": "https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DIEZ",
+        "url": "https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 201370,
+      "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
         "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
       },
@@ -672,17 +692,17 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         },
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         },
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 192207,
-      "name": "A D\u00f3nde Te Me Fuiste",
-      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
+      "duration_ms": 221444,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
     },
     {
       "added_at": null,
@@ -699,6 +719,26 @@
       "duration_ms": 189679,
       "name": "D\u00e9jame",
       "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magdalena",
+        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
     },
     {
       "added_at": null,
@@ -731,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magdalena",
-        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -760,17 +780,17 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         },
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         },
         {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
         }
       ],
-      "duration_ms": 221444,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
+      "duration_ms": 192207,
+      "name": "A D\u00f3nde Te Me Fuiste",
+      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
     },
     {
       "added_at": null,
@@ -795,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
-        "url": "https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 201370,
-      "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
-      "url": "https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mu\u00f1eca",
         "url": "https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ"
       },
@@ -827,6 +827,26 @@
       "duration_ms": 198750,
       "name": "La Mu\u00f1eca",
       "url": "https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) [Remix]",
+        "url": "https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 184828,
+      "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) - Remix",
+      "url": "https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) [Remix]",
-        "url": "https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 184828,
-      "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) - Remix",
-      "url": "https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Siente Bien",
         "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 237880,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Punjabi superstar’s biggest hits.
 
-117 songs - 6 hr 3 min
+118 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cry Later](https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:28 | 2023-10-03 | 2024-01-31 |
 | [Da Crew](https://open.spotify.com/track/07qkw7UX06KaqyiMdX8klW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:01 | 2021-12-02 | 2023-10-04 |
 | [Daytona](https://open.spotify.com/track/6wQwiLPsLuWWwBEcErIxSi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 3:00 | 2023-10-09 | 2023-11-18 |
-| [Daytona](https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 | 2023-10-03 |  |
+| [Daytona](https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 | 2023-10-03 | 2024-08-30 |
 | [Dhan Guru Nanak](https://open.spotify.com/track/2ANLVRKX1yKrYODxZH5EBX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Dhan Guru Nanak](https://open.spotify.com/album/04HkWmXIM1ZorFIs3BucsR) | 3:32 | 2021-12-02 | 2023-10-04 |
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 | 2021-12-02 |  |
 | [Do You Know](https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [In Love With Diljit Dosanjh](https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD) | 3:32 | 2023-08-07 | 2023-08-31 |
@@ -81,6 +81,7 @@
 | [Midnight Desires](https://open.spotify.com/track/35imBoVE05swGqEdb17COU) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Hrmnn](https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:52 | 2023-10-03 | 2024-01-01 |
 | [Mitran da Junction](https://open.spotify.com/track/45ZvGm4spSjkkCuuIIDWmx) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Sardaarji 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz) | 3:03 | 2021-12-02 | 2023-07-12 |
 | [Mitran Da Junction](https://open.spotify.com/track/5SSRu1tQ4eYdoZErEOAMY2) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Sardaarji 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e7y177qkxcSDE0fjKLLOt) | 3:03 | 2023-03-18 | 2023-08-30 |
+| [Mombattiye](https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Mombattiye](https://open.spotify.com/album/590RLFrfBBcRJyZyeqvt5R) | 3:05 | 2024-08-29 |  |
 | [Muchh](https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Muchh](https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS) | 3:25 | 2021-12-02 |  |
 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 | 2024-04-12 |  |
 | [Navi Navi Yaari](https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:35 | 2021-12-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,801 likes - 48 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,839 likes - 48 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 16 | [Music Of The Spheres](https://open.spotify.com/track/5lW1aLs1hpggoLJDdA94G1) | [Johanna M\. Beyer](https://open.spotify.com/artist/66BM967JJOmv1gne6F72DA) | [An Anthology Of Noise And Electronic Music Vol.2](https://open.spotify.com/album/2P8UMtdO8F1uHUgHaNu6Kb) | 6:00 |
 | 17 | [Three Sonic Spaces II](https://open.spotify.com/track/1zGMczyPZKj0Pk7SB411qG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/3T0AgJ1gHqepeDICKQGkDE) | 3:22 |
 | 18 | [Kolyosa](https://open.spotify.com/track/01rBrGS9EhnXlqedf2O0Yk) | [Pril Smiley](https://open.spotify.com/artist/7z3zG5dWWjAgDd5NMDh3Sy) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 6:43 |
-| 19 | [Main Titles \(Overture\)](https://open.spotify.com/track/2nstbfcFnz7gr4FTnMRA4L) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:21 |
-| 20 | [Faust Suite: Prolog i Himlen](https://open.spotify.com/track/20Kk9bFBUARPaXBSOOJXjn) | [Else Marie Pade](https://open.spotify.com/artist/1F085NZpCugoNzi6u5gw3t) | [Electronic Works 1958\-1995](https://open.spotify.com/album/2r0haaiihOEdGbsT4WK6Hj) | 4:17 |
-| 21 | [Four Aspects](https://open.spotify.com/track/5ebdtIkr1vyKjjX18xKtUW) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Landscapes](https://open.spotify.com/album/7qCtGhsF1CWXgK9xkfefGA) | 8:14 |
-| 22 | [Pauline Oliveros \- I of IV](https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [New Sounds In Electronic Music](https://open.spotify.com/album/3BYafbZd7fagfbsd10HItL) | 20:32 |
-| 23 | [Remainder \[excerpt\]](https://open.spotify.com/track/6pEWYqw2IKbz9ciU19ErqA) | [Maryanne Amacher](https://open.spotify.com/artist/1xjZbUHqwdtYlK0Tc8rAag) | [Music for Merce, Vol\. 4](https://open.spotify.com/album/0i58dXPFKRX34ZhtSjUHtu) | 14:55 |
-| 24 | [Echoes From Bali](https://open.spotify.com/track/2RSadiQSC87YeeQAHy0O9Q) | [Janet Beat](https://open.spotify.com/artist/1IQI6f8qnG9neMplw9Cs78) | [Pioneering Knob Twiddler](https://open.spotify.com/album/3zNaGrh7gOVmtuSwoEBlxs) | 7:31 |
-| 25 | [Norton Computer for Peace](https://open.spotify.com/track/5mTiuOPAp47dwfdLmDA2GP) | [Doris Norton](https://open.spotify.com/artist/7MrgEI0WTL3jjrHkQqpMCW) | [Nortoncomputerforpeace](https://open.spotify.com/album/1yec29YqhaDa3WF0dw2wZI) | 3:24 |
-| 26 | [Atari Video Game Logo](https://open.spotify.com/track/683B0aZgqaNzTIyErVSVR7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Lixiviation](https://open.spotify.com/album/5MoK224rgWrUtFY1gtJ44A) | 0:07 |
-| 27 | [Pop & Pour' Coca\-Cola Logo](https://open.spotify.com/track/2iVN27xHh6Z6jVKC2ZSNq1) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Lixiviation](https://open.spotify.com/album/5MoK224rgWrUtFY1gtJ44A) | 0:07 |
+| 19 | [Atari Video Game Logo](https://open.spotify.com/track/683B0aZgqaNzTIyErVSVR7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Lixiviation](https://open.spotify.com/album/5MoK224rgWrUtFY1gtJ44A) | 0:07 |
+| 20 | [Pop & Pour' Coca\-Cola Logo](https://open.spotify.com/track/2iVN27xHh6Z6jVKC2ZSNq1) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Lixiviation](https://open.spotify.com/album/5MoK224rgWrUtFY1gtJ44A) | 0:07 |
+| 21 | [Main Titles \(Overture\)](https://open.spotify.com/track/2nstbfcFnz7gr4FTnMRA4L) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:21 |
+| 22 | [Faust Suite: Prolog i Himlen](https://open.spotify.com/track/20Kk9bFBUARPaXBSOOJXjn) | [Else Marie Pade](https://open.spotify.com/artist/1F085NZpCugoNzi6u5gw3t) | [Electronic Works 1958\-1995](https://open.spotify.com/album/2r0haaiihOEdGbsT4WK6Hj) | 4:17 |
+| 23 | [Four Aspects](https://open.spotify.com/track/5ebdtIkr1vyKjjX18xKtUW) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Landscapes](https://open.spotify.com/album/7qCtGhsF1CWXgK9xkfefGA) | 8:14 |
+| 24 | [Pauline Oliveros \- I of IV](https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [New Sounds In Electronic Music](https://open.spotify.com/album/3BYafbZd7fagfbsd10HItL) | 20:32 |
+| 25 | [Remainder \[excerpt\]](https://open.spotify.com/track/6pEWYqw2IKbz9ciU19ErqA) | [Maryanne Amacher](https://open.spotify.com/artist/1xjZbUHqwdtYlK0Tc8rAag) | [Music for Merce, Vol\. 4](https://open.spotify.com/album/0i58dXPFKRX34ZhtSjUHtu) | 14:55 |
+| 26 | [Echoes From Bali](https://open.spotify.com/track/2RSadiQSC87YeeQAHy0O9Q) | [Janet Beat](https://open.spotify.com/artist/1IQI6f8qnG9neMplw9Cs78) | [Pioneering Knob Twiddler](https://open.spotify.com/album/3zNaGrh7gOVmtuSwoEBlxs) | 7:31 |
+| 27 | [Norton Computer for Peace](https://open.spotify.com/track/5mTiuOPAp47dwfdLmDA2GP) | [Doris Norton](https://open.spotify.com/artist/7MrgEI0WTL3jjrHkQqpMCW) | [Nortoncomputerforpeace](https://open.spotify.com/album/1yec29YqhaDa3WF0dw2wZI) | 3:24 |
 | 28 | [Scared Trip](https://open.spotify.com/track/5jpaEx8IAmMjxKBLkkbiSz) | [Doris Hays](https://open.spotify.com/artist/30aJbd0SvZblg2ndyT5aty) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 2:14 |
 | 29 | [Souffle d'un petit Dieu distrait](https://open.spotify.com/track/5sA8u6ktVldrgmgnikx4zj) | [Beatriz Ferreyra](https://open.spotify.com/artist/0OPtaxS6whUvvhElm7AMLL) | [Sonic Circuits V](https://open.spotify.com/album/6LFMcZAHDGQqyRHRp0j6BO) | 13:23 |
 | 30 | [Electronic Composition, No\. 1](https://open.spotify.com/track/2msaD9a3T4feV8cAvkvCZ6) | [Daria Semegen](https://open.spotify.com/artist/3GKuAvMlAw4BchtCa3vidB) | [Electronic Music Winners](https://open.spotify.com/album/1wtbwKwFucQuO72HuJ0MbZ) | 5:46 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 47 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
 | 48 | [The Transformation Of Ani](https://open.spotify.com/track/7phdkG6fxDpjY4h874I2j1) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 9:04 |
 
-Snapshot ID: `ZIxVwgAAAAAr6KSAZ/yTWtwwBjU1VpUs`
+Snapshot ID: `ZtBidgAAAAB3LOFlbQeDoDSj7Kr9QIRt`

@@ -1,13 +1,45 @@
 {
-  "description": "The cream of today's Country crop. Cover: Lainey Wilson",
-  "num_followers": 404173,
+  "description": "The cream of today's Country crop. Cover: Dylan Scott",
+  "num_followers": 404320,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsdEYAAAAADi410gqOT6UKzOSoPVFLVm",
+  "snapshot_id": "ZtB+4AAAAADYvwkoe8SFLFZ5G+YqMHVd",
   "tracks": [
+    {
+      "added_at": "2024-08-22 14:00:00",
+      "album": {
+        "name": "Fix What You Didn't Break",
+        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 201555,
+      "name": "Fix What You Didn't Break",
+      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+    },
+    {
+      "added_at": "2024-08-22 14:00:00",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
+    },
     {
       "added_at": "2024-08-15 14:00:00",
       "album": {
@@ -29,36 +61,20 @@
       "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
     },
     {
-      "added_at": "2024-08-22 14:00:00",
+      "added_at": "2024-08-29 14:00:00",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+        "name": "You'd Think I Was A Cowboy",
+        "url": "https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 240120,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
-    },
-    {
-      "added_at": "2024-08-22 14:00:00",
-      "album": {
-        "name": "Fix What You Didn't Break",
-        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 201555,
-      "name": "Fix What You Didn't Break",
-      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+      "duration_ms": 179266,
+      "name": "You'd Think I Was A Cowboy",
+      "url": "https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5"
     },
     {
       "added_at": "2024-08-22 14:00:00",
@@ -129,6 +145,42 @@
       "url": "https://open.spotify.com/track/30hbE8nm0VBt1W5F0U1Dr1"
     },
     {
+      "added_at": "2024-08-29 14:00:00",
+      "album": {
+        "name": "WASTED (with LECADE)",
+        "url": "https://open.spotify.com/album/3MBu4QaiPfoEeUioVvyPt5"
+      },
+      "artists": [
+        {
+          "name": "Bella Mackenzie",
+          "url": "https://open.spotify.com/artist/19RYEYplXisan3jUoqtBZL"
+        },
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "WASTED (with LECADE)",
+      "url": "https://open.spotify.com/track/77qx5ktXohwk10nBVcTWLh"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
+    },
+    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "I Ain't Sayin'",
@@ -161,6 +213,22 @@
       "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
     },
     {
+      "added_at": "2024-08-29 14:00:00",
+      "album": {
+        "name": "Don\u2019t Wanna Say Goodnight",
+        "url": "https://open.spotify.com/album/3C2YvDauBHcw2Tv0Tdlfjp"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 204648,
+      "name": "Don't Wanna Say Goodnight",
+      "url": "https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB"
+    },
+    {
       "added_at": "2024-08-22 14:00:00",
       "album": {
         "name": "Hang Tight Honey",
@@ -175,22 +243,6 @@
       "duration_ms": 189786,
       "name": "Hang Tight Honey",
       "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
-    },
-    {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
     },
     {
       "added_at": "2024-08-15 14:00:00",
@@ -223,6 +275,22 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2024-08-29 14:00:00",
+      "album": {
+        "name": "Train of Thought",
+        "url": "https://open.spotify.com/album/4kFXUiQZPAjH7cXzvtVj1d"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Train of Thought",
+      "url": "https://open.spotify.com/track/5tIsdN7zL2cRjpujyTvlpy"
     },
     {
       "added_at": "2024-08-15 14:00:00",
@@ -339,6 +407,22 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "added_at": "2024-08-29 14:00:00",
+      "album": {
+        "name": "Thing For You",
+        "url": "https://open.spotify.com/album/0W9DvrlnXpLXV087stoBQD"
+      },
+      "artists": [
+        {
+          "name": "Amy Sheppard",
+          "url": "https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl"
+        }
+      ],
+      "duration_ms": 211698,
+      "name": "Thing For You",
+      "url": "https://open.spotify.com/track/75v4gJb44JGifUgQE34zcj"
     },
     {
       "added_at": "2024-08-01 14:00:00",
@@ -803,22 +887,6 @@
       "duration_ms": 199706,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/77Zn8B0KVtj5yXHbw0gwq6"
-    },
-    {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "Backbone (The Desert Child)",
-        "url": "https://open.spotify.com/album/2Rq8kjXYYa8XE9RWp7AnaM"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Backbone (The Desert Child)",
-      "url": "https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -1311,22 +1379,6 @@
     {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "hummingbird",
-        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 188039,
-      "name": "truck on fire",
-      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
         "name": "Never Left Me (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
       },
@@ -1391,22 +1443,6 @@
     {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "Gone Fishin'",
-        "url": "https://open.spotify.com/album/2lG03uBAzEfZaQ1Ms8MAS2"
-      },
-      "artists": [
-        {
-          "name": "Taylor Moss",
-          "url": "https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Gone Fishin'",
-      "url": "https://open.spotify.com/track/4H3baiaCkV30cIJ1aG4dA3"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
       },
@@ -1451,22 +1487,6 @@
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Love Me Like A Cowboy",
-        "url": "https://open.spotify.com/album/7BQQEecCG3IELvz9wnypW1"
-      },
-      "artists": [
-        {
-          "name": "Emmagen Rain",
-          "url": "https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg"
-        }
-      ],
-      "duration_ms": 145460,
-      "name": "Love Me Like A Cowboy",
-      "url": "https://open.spotify.com/track/7euwjupUU7rGY7H1w7YtfH"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -1663,22 +1683,6 @@
       "duration_ms": 222800,
       "name": "Think I'm In Love With You",
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Hearing The Birds Sing",
-        "url": "https://open.spotify.com/album/36HcRfnZ6YNGWA3V0rPTfa"
-      },
-      "artists": [
-        {
-          "name": "Zac & George",
-          "url": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
-        }
-      ],
-      "duration_ms": 196097,
-      "name": "Hearing The Birds Sing",
-      "url": "https://open.spotify.com/track/77EhjW2eHZuaQ42I7DYipy"
     }
   ],
   "unique_name": "Fresh Country",

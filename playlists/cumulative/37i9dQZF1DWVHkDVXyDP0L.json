@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Stand Atlantic & Sueco",
+  "description": "New and local indie noise. Cover: Molly Payton",
   "name": "Local Noise",
   "tracks": [
     {
@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Britney Spears b/w \"In The Valley\"",
+        "url": "https://open.spotify.com/album/2pg2AVApznVv72qKuyB1WA"
+      },
+      "artists": [
+        {
+          "name": "Ceres",
+          "url": "https://open.spotify.com/artist/6ignu1FESsoUapE3EnbCFL"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247136,
+      "name": "Britney Spears",
+      "url": "https://open.spotify.com/track/2nkWAT1M3xE0dkT6KTQSK2"
+    },
+    {
+      "album": {
         "name": "Burn My Scars",
         "url": "https://open.spotify.com/album/2mT2E4FnB94bKNrZLweSJt"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 196889,
       "name": "Check Mate",
       "url": "https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1"
@@ -841,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Dead, Rich or In Jail",
+        "url": "https://open.spotify.com/album/5nnnTs3fkNKK9UM7bahMSE"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        },
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95117,
+      "name": "Dead, Rich or In Jail",
+      "url": "https://open.spotify.com/track/7CGIuV8NJYU4XxwzcBIPeV"
+    },
+    {
+      "album": {
         "name": "Disembodiment",
         "url": "https://open.spotify.com/album/4iDRrsU3FdNJ9tsa1kWeJ7"
       },
@@ -888,7 +928,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 207093,
       "name": "Digging The Hole",
       "url": "https://open.spotify.com/track/7ae8QazzhjvSC6spposca2"
@@ -1295,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/2bXyAHWPGgGzSKgI7W8a9o"
+      },
+      "artists": [
+        {
+          "name": "smol fish",
+          "url": "https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/2xCZ5XGZypH7rIlrvf4UCz"
+    },
+    {
+      "album": {
         "name": "Gimme the Wrench",
         "url": "https://open.spotify.com/album/5eIWOlKHdKO9s6gMV8QZxd"
       },
@@ -1306,10 +1364,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 178964,
       "name": "Gimme the Wrench",
       "url": "https://open.spotify.com/track/5d1pnn3ktUv89jgK9mSM2M"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/1e4NlOAKP1BVVDfrVDFq6J"
+      },
+      "artists": [
+        {
+          "name": "Mac The Knife",
+          "url": "https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216448,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/07G5tvQwGol3XuRzL78VXp"
     },
     {
       "album": {
@@ -1468,7 +1544,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 190081,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn"
@@ -1767,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/5B50COyPfSTlnVomPVwtBY"
+      },
+      "artists": [
+        {
+          "name": "Noah Dillon",
+          "url": "https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173829,
+      "name": "It Takes Courage To Be Soft",
+      "url": "https://open.spotify.com/track/3UsuEAV0x0fJ1kxjtKqFSj"
+    },
+    {
+      "album": {
         "name": "I\u2019m Sure You\u2019ve Heard",
         "url": "https://open.spotify.com/album/6AINfbHDogwU6vqaHe1NCf"
       },
@@ -1832,7 +1926,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 173447,
       "name": "Just So Ya Know",
       "url": "https://open.spotify.com/track/36O2TfjIhbFNt2FFwSG5GP"
@@ -2132,7 +2226,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 203041,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/1c8gPPGfvL3gKtNzZ2x66t"
@@ -2280,6 +2374,24 @@
       "duration_ms": 182039,
       "name": "NIGHTCHILLS",
       "url": "https://open.spotify.com/track/0ol9nUJwdlPfuZebW4Hjbx"
+    },
+    {
+      "album": {
+        "name": "ninezero",
+        "url": "https://open.spotify.com/album/1AwW3NwX8d3REYfLA9R3fl"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175010,
+      "name": "ninezero",
+      "url": "https://open.spotify.com/track/1TzuF0wtfTOLRjSc7mhN8w"
     },
     {
       "album": {
@@ -3040,7 +3152,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 229735,
       "name": "Simply Disappear",
       "url": "https://open.spotify.com/track/4xB1qJcGJyNmjwlKuloCGF"
@@ -3094,7 +3206,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 267692,
       "name": "Social Nightmare",
       "url": "https://open.spotify.com/track/40paoObiYMx0aKj7V2w5fU"
@@ -3112,7 +3224,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 178786,
       "name": "Softness",
       "url": "https://open.spotify.com/track/7rwmhP8cWi0lPLvxcGcaN1"
@@ -3192,6 +3304,24 @@
       "duration_ms": 241917,
       "name": "STFAFM",
       "url": "https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd"
+    },
+    {
+      "album": {
+        "name": "Stiletto",
+        "url": "https://open.spotify.com/album/0Tqg0XmIsN2kcWLWGKHI0M"
+      },
+      "artists": [
+        {
+          "name": "Gut Health",
+          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441450,
+      "name": "Stiletto",
+      "url": "https://open.spotify.com/track/4NVUat14Xk5CiaCzR41ijf"
     },
     {
       "album": {
@@ -3350,10 +3480,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 153766,
       "name": "Take Another Lap",
       "url": "https://open.spotify.com/track/5AIzVo1aeyqQLu3auFTzpg"
+    },
+    {
+      "album": {
+        "name": "Tappin Into Magic",
+        "url": "https://open.spotify.com/album/7FIB4UHbH1X3ICrMDgKfeK"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Tappin Into Magic",
+      "url": "https://open.spotify.com/track/6JauEacOM5Y1ojqaR7ELEr"
     },
     {
       "album": {
@@ -3368,10 +3516,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 159272,
       "name": "Tell Me When to Break",
       "url": "https://open.spotify.com/track/0JDUGqbBatvwwJ3k48vfHG"
+    },
+    {
+      "album": {
+        "name": "Tell You All The Time",
+        "url": "https://open.spotify.com/album/4ESaKzPJqvif9b7dS6zTS0"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "Tell You All The Time",
+      "url": "https://open.spotify.com/track/7G712DgSQCRPs4wVVwB7ZF"
     },
     {
       "album": {
@@ -3552,6 +3718,24 @@
       "duration_ms": 258133,
       "name": "Tied In A Knot",
       "url": "https://open.spotify.com/track/1EWfN12IwVV93t8aaNZybQ"
+    },
+    {
+      "album": {
+        "name": "Time Will Try",
+        "url": "https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258600,
+      "name": "Time Will Try",
+      "url": "https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A"
     },
     {
       "album": {
@@ -3822,6 +4006,24 @@
       "duration_ms": 197564,
       "name": "You Must Be Right",
       "url": "https://open.spotify.com/track/5yej0ovcxvhArIg36lgsBf"
+    },
+    {
+      "album": {
+        "name": "YOYOTTA",
+        "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "You're On Your Own This Time, Again",
+      "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
     },
     {
       "album": {

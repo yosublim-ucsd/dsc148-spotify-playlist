@@ -455,6 +455,46 @@
     },
     {
       "album": {
+        "name": "Aside",
+        "url": "https://open.spotify.com/album/4opsk1nTx5X1rKiHLTNLuG"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194317,
+      "name": "Aside",
+      "url": "https://open.spotify.com/track/1bjzuQ0SHfrOVN0U2WqZdf"
+    },
+    {
+      "album": {
+        "name": "Left and Leaving",
+        "url": "https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe"
+      },
+      "artists": [
+        {
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Aside",
+      "url": "https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr"
+    },
+    {
+      "album": {
         "name": "Almost Here",
         "url": "https://open.spotify.com/album/1UFqUhgdLfxuV3AzVGlbOR"
       },
@@ -3965,6 +4005,46 @@
     },
     {
       "album": {
+        "name": "The Best Thing (That Never Happened)",
+        "url": "https://open.spotify.com/album/7c4yJ40cEruVtTpwCi58ll"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183061,
+      "name": "The Best Thing (That Never Happened)",
+      "url": "https://open.spotify.com/track/2iEEWfjzmI4W1xZb0grtER"
+    },
+    {
+      "album": {
+        "name": "Weird Kids",
+        "url": "https://open.spotify.com/album/3c7e5GQ2om1QZd0uuXqQeB"
+      },
+      "artists": [
+        {
+          "name": "We Are The In Crowd",
+          "url": "https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "The Best Thing (That Never Happened)",
+      "url": "https://open.spotify.com/track/5H4nCAMT63jW86e8s81VV4"
+    },
+    {
+      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -4214,6 +4294,28 @@
       "duration_ms": 208693,
       "name": "The Taste of Ink",
       "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
+    },
+    {
+      "album": {
+        "name": "There, There",
+        "url": "https://open.spotify.com/album/5LsmK8O9hIof0BulViXvU0"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220212,
+      "name": "There, There",
+      "url": "https://open.spotify.com/track/2KtUs4SyTrHcmRt338fFFV"
     },
     {
       "album": {

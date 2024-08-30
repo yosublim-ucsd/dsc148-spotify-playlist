@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-196 songs - 9 hr 34 min
+197 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 | 2023-11-10 |  |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2023-04-28 | 2023-07-29 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 |  |
+| [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 |  |
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Overflow](https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Overflow](https://open.spotify.com/album/5G6pitaST2lwtrcmYxXrst) | 2:36 | 2024-05-01 |  |
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2023-04-28 |  |
@@ -159,7 +160,7 @@
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2023-04-28 |  |
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 |  |
-| [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 |  |
+| [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 | 2024-08-30 |
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |

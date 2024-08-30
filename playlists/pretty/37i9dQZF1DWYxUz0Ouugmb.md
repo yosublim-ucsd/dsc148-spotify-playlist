@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Masdddho
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Putu Maydea
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,982 likes - 38 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,984 likes - 38 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BUBAR](https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [BUBAR](https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk) | 5:11 |
-| 2 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 |
-| 3 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 |
-| 4 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 |
-| 5 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 |
-| 6 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
-| 7 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 |
-| 8 | [Rusuk \(Timur\)](https://open.spotify.com/track/1TvPO9D5gvudxC8PUJGM6s) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk \(Timur\)](https://open.spotify.com/album/5VR7PcZByG7x0AaljFd1mm) | 4:31 |
-| 9 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 |
-| 10 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 |
-| 11 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 |
-| 12 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 |
-| 13 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
-| 14 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 |
-| 15 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 |
-| 16 | [TENANAN](https://open.spotify.com/track/4A30eRqU99sXPfJ0viyqw6) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [TENANAN](https://open.spotify.com/album/20asTdtZ82wb7tpNVyCOHi) | 3:24 |
-| 17 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
-| 18 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 |
-| 19 | [Tak Cukup Satu Kata](https://open.spotify.com/track/3PWN56ZibrUfhmnhTUu7yU) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tak Cukup Satu Kata](https://open.spotify.com/album/3GhRgCloNnZVVQDWpLQB5f) | 4:02 |
-| 20 | [Tak Cukup Baik](https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Tak Cukup Baik](https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe) | 4:14 |
+| 1 | [Tak Cukup Baik](https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Tak Cukup Baik](https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe) | 4:14 |
+| 2 | [BUBAR](https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [BUBAR](https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk) | 5:11 |
+| 3 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 |
+| 4 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 |
+| 5 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 |
+| 6 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 |
+| 7 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
+| 8 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 |
+| 9 | [Rusuk \(Timur\)](https://open.spotify.com/track/1TvPO9D5gvudxC8PUJGM6s) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk \(Timur\)](https://open.spotify.com/album/5VR7PcZByG7x0AaljFd1mm) | 4:31 |
+| 10 | [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 |
+| 11 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 |
+| 12 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 |
+| 13 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 |
+| 14 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
+| 15 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 |
+| 16 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 |
+| 17 | [TENANAN](https://open.spotify.com/track/4A30eRqU99sXPfJ0viyqw6) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [TENANAN](https://open.spotify.com/album/20asTdtZ82wb7tpNVyCOHi) | 3:24 |
+| 18 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 |
+| 19 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 |
+| 20 | [Tak Cukup Satu Kata](https://open.spotify.com/track/3PWN56ZibrUfhmnhTUu7yU) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tak Cukup Satu Kata](https://open.spotify.com/album/3GhRgCloNnZVVQDWpLQB5f) | 4:02 |
 | 21 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 |
 | 22 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 | 23 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 37 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 |
 | 38 | [CAN I](https://open.spotify.com/track/7CX5DuU2TbX3eA0PFGysr7) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [CAN I](https://open.spotify.com/album/3yRgWoSiDOQQZmieXeXL75) | 3:46 |
 
-Snapshot ID: `Zr43EgAAAABTAbpY9Y2EzqdiTNfC/m6a`
+Snapshot ID: `ZtDk7AAAAABbvciYEvx9PNTtdPdDu9AM`

@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "EXCESSIVE GUILT",
+        "url": "https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114480,
+      "name": "bitter friend",
+      "url": "https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d"
+    },
+    {
+      "album": {
         "name": "Blood Of The Kings",
         "url": "https://open.spotify.com/album/5nnEguab5n5fWUIjlzK8HJ"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 204913,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa"
@@ -432,6 +450,24 @@
       "duration_ms": 296131,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR"
+    },
+    {
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.O.",
+          "url": "https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250573,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH"
     },
     {
       "album": {
@@ -727,6 +763,28 @@
     },
     {
       "album": {
+        "name": "Fire & Ore",
+        "url": "https://open.spotify.com/album/7IDyJDMxw4cA2ELxpwKhHV"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        },
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "Fire & Ore",
+      "url": "https://open.spotify.com/track/48xpPhCtkauqitPNiDzLb4"
+    },
+    {
+      "album": {
         "name": "Evil Eye / Get a Grip",
         "url": "https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF"
       },
@@ -1016,7 +1074,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 145973,
       "name": "International Hide and Seek Champions",
       "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
@@ -1196,7 +1254,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 90036,
       "name": "look at me",
       "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
@@ -1272,6 +1330,32 @@
       "duration_ms": 183000,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/3f90dK4nMplILHk6x8N0ln"
+    },
+    {
+      "album": {
+        "name": "Mea Culpa (Ah! \u00c7a ira!)",
+        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Mea Culpa (Ah! \u00c7a ira!)",
+      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
     },
     {
       "album": {
@@ -1738,7 +1822,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 235204,
       "name": "Summerlovin",
       "url": "https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho"
@@ -1918,7 +2002,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 264435,
       "name": "The Grief That Does Not Speak",
       "url": "https://open.spotify.com/track/0Ju36HeDEkonACgrxNmYtk"
@@ -2138,6 +2222,24 @@
       "duration_ms": 255706,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
+    },
+    {
+      "album": {
+        "name": "When Are You Coming My Way",
+        "url": "https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj"
+      },
+      "artists": [
+        {
+          "name": "Ella Hoff",
+          "url": "https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139588,
+      "name": "When Are You Coming My Way",
+      "url": "https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc"
     },
     {
       "album": {

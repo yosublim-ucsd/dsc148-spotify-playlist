@@ -1075,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Lubber Pandhu - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3LBvPx4DFCDyRUbfdlu9xk"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "K. Sivaangi",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247448,
+      "name": "Chillanjirukkiye",
+      "url": "https://open.spotify.com/track/2g9aiiRu6dteue5VD4DoOF"
+    },
+    {
+      "album": {
         "name": "Chillanjirukkiye (From \"Lubber Pandhu\")",
         "url": "https://open.spotify.com/album/7eucanSNGPAuKBJCzXO8Pq"
       },

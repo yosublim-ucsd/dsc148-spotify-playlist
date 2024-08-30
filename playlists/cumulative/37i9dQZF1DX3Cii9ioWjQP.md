@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Hookuo\(후쿠오\)\)
+> All about Korean Jazz hits & new \(Cover: YUNSEOKCHEOL TRIO\(윤석철트리오\)\)
 
-198 songs - 14 hr 21 min
+204 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2024-08-11 |
 | [gray hair](https://open.spotify.com/track/65mCrA8bRPqvmlhdFBRzHC) | [U\-jin](https://open.spotify.com/artist/3ho6nC4QjX2r8PyaVyHlCS) | [Gray hair](https://open.spotify.com/album/6yHmPMWk2l1hBxVg3i3snm) | 2:16 | 2023-02-07 |  |
+| [gut](https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [Research Daily 2](https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh) | 3:48 | 2024-08-29 |  |
 | [Hedgehog's Dilemma](https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf) | [토끼풀](https://open.spotify.com/artist/2FOo1mUgBvVxST0MSO6zwu) | [Solitaire](https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G) | 4:30 | 2022-05-18 | 2024-08-11 |
 | [Here I am](https://open.spotify.com/track/1ly3Lsq7Kn8Pj14ldHeNSE) | [김혜지](https://open.spotify.com/artist/6z0DShdQxwbWSmB3FLHTE7) | [김혜지의 15번째 싱글앨범](https://open.spotify.com/album/7I1R6zEVfYmWuOzjPN8ATO) | 5:03 | 2022-11-11 | 2023-02-08 |
 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 | 2022-05-18 |  |
@@ -98,6 +99,7 @@
 | [Little Prince](https://open.spotify.com/track/0pLPPAKpFImzbAwvsSSjhU) | [Slowtea](https://open.spotify.com/artist/2yr3o06a0BFPfZxAqF4beo) | [Little Prince](https://open.spotify.com/album/0bwHRCiwhnjPoxpQtAe6KT) | 3:28 | 2022-05-03 | 2023-02-08 |
 | [Look To The Sky](https://open.spotify.com/track/16Ij8FOcMTVN5XbMjziPpS) | [Minseok Choi](https://open.spotify.com/artist/66DjCgQhjF05QqsFAK4JcQ) | [Look To The Sky](https://open.spotify.com/album/0nBvF6j1EIdvKGqb5UGYYu) | 6:09 | 2022-05-03 | 2023-10-05 |
 | [Lost in My Heart](https://open.spotify.com/track/5UPNxRMr8YQWhfpPJtsoQH) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Lost in My Heart](https://open.spotify.com/album/49kE2DER1Ohvkiku0Iue1O) | 5:41 | 2022-05-03 | 2023-02-08 |
+| [love nwantiti](https://open.spotify.com/track/0T1FS6I7kikhJvGUj2IsfV) | [SMOOTH LOUNGE](https://open.spotify.com/artist/4RWr6GHcHIUFnG9eZ1EOXn) | [love nwantiti](https://open.spotify.com/album/1uWWEYIJdIencEhnfQiEXt) | 2:16 | 2024-08-29 |  |
 | [Love Poem \(戀歌\)](https://open.spotify.com/track/7l8I3o4QZaMCJ228JNheqj) | [Nery Kim](https://open.spotify.com/artist/3mP01gXSZGuCxIyX9nF9cf) | [PURPLE REFLECTION](https://open.spotify.com/album/4x9TtrUlUK9u6OnKF28OXr) | 5:45 | 2022-05-03 | 2023-02-08 |
 | [Lover’s Holiday](https://open.spotify.com/track/7CEG3d5Q0FSw24xuTyyvWP) | [Coaster](https://open.spotify.com/artist/5qH8jabn25esntIuVdu8DP) | [Lover’s Holiday](https://open.spotify.com/album/4aXYpgvp5eJ7quCRqmGlf5) | 4:51 | 2022-05-03 | 2022-05-19 |
 | [Lullaby](https://open.spotify.com/track/3c3budMk8QIYmmEM1YOcbl) | [Jung\-hee Cho](https://open.spotify.com/artist/2R4PolkYfSHK9KezOzR7aa) | [Jazz Children's Song 'Moon Pieces'](https://open.spotify.com/album/2zUaajNADVR2FC1aL2VDiy) | 3:46 | 2023-03-31 | 2024-08-11 |
@@ -117,6 +119,7 @@
 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 | 2023-07-19 |  |
 | [Oh Rosy](https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 3:44 | 2024-03-21 |  |
 | [One Last Try](https://open.spotify.com/track/7frTGx6QXM3hIqYeDle3JH) | [Jae Hong Park](https://open.spotify.com/artist/0zfE74CTrrvYONTaDAocIY) | [One Last Try](https://open.spotify.com/album/7eX5eD0bp4qMCsBopmgwXU) | 4:27 | 2023-03-31 |  |
+| [One Way](https://open.spotify.com/track/5bBR2EJlhWg8yS4egKu7mW) | [한석규](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [One Way](https://open.spotify.com/album/2Yf93imyiTFQajsE5BYvux) | 2:59 | 2024-08-29 |  |
 | [Only One](https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG) | [Kiik](https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v), [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Only One](https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp) | 1:43 | 2023-07-07 |  |
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 |  |
@@ -133,6 +136,7 @@
 | [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 | 2023-04-10 |  |
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 |  |
 | [Pronounce the Benediction + Messengers](https://open.spotify.com/track/45kvtggm9KeRXjovIvDLbS) | [Kim Seong Hwa Quartet](https://open.spotify.com/artist/5UvwNchXt1PcNIK7nKSe0Y) | [Individual Space Vol.4](https://open.spotify.com/album/3E5HGHHIDP8MC2oBDZrgft) | 14:01 | 2022-05-03 | 2022-05-19 |
+| [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 | 2024-08-29 |  |
 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [1LEEY](https://open.spotify.com/artist/4Csb024B5ugIYGJViz9oOF) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 | 2022-05-03 | 2024-08-11 |
 | [Regent's Park](https://open.spotify.com/track/0KH7NarCQrouOez7FRG9FJ) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Regent's Park](https://open.spotify.com/album/7jQEp2fOLeZlusxnLqQnfA) | 4:30 | 2022-05-03 | 2023-02-08 |
 | [Remember](https://open.spotify.com/track/76jnvd7nJdAfJfMLryTcGw) | [Music Destroyers](https://open.spotify.com/artist/5flL1TPdeAyGc5fb6Y8F6Y) | [Remember](https://open.spotify.com/album/421jqaV4XhjtV0X2qTcdes) | 3:19 | 2022-05-03 | 2022-05-19 |
@@ -144,6 +148,7 @@
 | [Sail Away \(feat\. HAESONG\)](https://open.spotify.com/track/1m8JMmV16TrgGeBNrt1SC1) | [Kang Hyunho](https://open.spotify.com/artist/50oIUfjtvBKSSGO611Dqzi), [HAESONG](https://open.spotify.com/artist/6wdqKs5SjeknFU3YC1icr8) | [Sail Away](https://open.spotify.com/album/2OF34mOai76B9OjsBIuSaf) | 4:32 | 2022-05-03 | 2023-10-12 |
 | [Saturday Rain](https://open.spotify.com/track/0fa7YZZdlqXtgUXoFP4z7P) | [Evenrain](https://open.spotify.com/artist/0rsCdUANsCVdMIsE2JcF6k) | [Saturday Rain](https://open.spotify.com/album/5N01UsVMq2ZV51fWnaybzw) | 5:57 | 2022-05-03 | 2022-05-19 |
 | [Sebaet\-noli](https://open.spotify.com/track/3RA5FtWW7iYcxbhpA3fjq7) | [XIIDO](https://open.spotify.com/artist/0Rehu23IN36yNREIHyLRMy) | [leap](https://open.spotify.com/album/1zbvwDTqquGyfJwztj7EWx) | 3:36 | 2023-03-31 | 2023-12-13 |
+| [Second Date](https://open.spotify.com/track/1Ar2JFer87W0658x32Bwvu) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Romantic Slow Jazz Piano](https://open.spotify.com/album/4ns5qsQplj2MR9Dv2dsAmN) | 2:31 | 2024-08-29 |  |
 | [Seoul](https://open.spotify.com/track/0Dp0Mciad7UREjCQ5qMss2) | [Song Jong Bin](https://open.spotify.com/artist/5gI6HMyq1LTLexdeEj8K3w) | [Story Around Us](https://open.spotify.com/album/6cO9OFuDs842hXSwTkD61R) | 6:52 | 2022-05-03 | 2023-02-08 |
 | [Shining](https://open.spotify.com/track/3Sg4sRL1ng6zcDnidYlYR0) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl), [Daewon Lee](https://open.spotify.com/artist/4UeorDtRRqdtpAcfhFFv3e), [Jumi Lee](https://open.spotify.com/artist/2n9DanObvlDaaN7wF86dgz) | [Shining](https://open.spotify.com/album/2Bt7cKZLbBQig4co3MvSsF) | 3:41 | 2023-03-31 |  |
 | [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 |  |
@@ -193,6 +198,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [2022 Christmas VIBE \-YUNSEOKCHEOL TRIO](https://open.spotify.com/album/7k7BizMxs5mnIhtfghbS04) | 5:11 | 2023-02-07 | 2023-12-13 |
 | [Worry doll](https://open.spotify.com/track/3fOjYZhN8qN2k599u56tNl) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:52 | 2024-03-21 |  |
 | [Yes, It's You](https://open.spotify.com/track/0weLc1Dv24xWH4LvRB6W3p) | [Jeong Hayoung](https://open.spotify.com/artist/2Ce9TyC16AGqOzUYdXSVXC) | [Yes, It's You](https://open.spotify.com/album/23fQNAfEWOTjCrXMtQIQME) | 3:19 | 2023-02-07 | 2023-12-13 |
+| [You and I had seen the same thing](https://open.spotify.com/track/6Pc1wSqKW7uuSXYN54PTjV) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [My summer's not over yet](https://open.spotify.com/album/1bEhI89GMah1UU96sfAQFb) | 5:08 | 2024-08-29 |  |
 | [가족 \(feat\. Okubo Shigekki\)](https://open.spotify.com/track/6G0l99yhfsuigC9k8OFFnP) | [박완신](https://open.spotify.com/artist/5y3J29n3QOnbhB7PR40Gnn), [Okubo Shigekki](https://open.spotify.com/artist/7FAZmomF00H34HOWm1Pr3z) | [가족](https://open.spotify.com/album/0DN8oEGOT6KWbJyqH5W7LR) | 4:50 | 2023-03-31 |  |
 | [간다](https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc) | [민송](https://open.spotify.com/artist/2ujuh580tpdUNreJnVuzPU) | [간다](https://open.spotify.com/album/7szuSdGlR05heXZGGGOgCH) | 4:28 | 2022-05-03 | 2022-05-19 |
 | [몬순 \(Monsoon\)](https://open.spotify.com/track/1CvFuxdYZT3bmM5F5MMmyZ) | [Time & Place](https://open.spotify.com/artist/4jBZhMOklXll4vFL5QZxho) | [범람 \(The Surge\)](https://open.spotify.com/album/33DcogyZUE6ATX0rEGMGM1) | 3:56 | 2023-07-19 |  |

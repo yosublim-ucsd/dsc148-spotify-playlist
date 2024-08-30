@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-82 songs - 9 hr 25 min
+85 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2024-05-09 |  |
 | [All the Glory](https://open.spotify.com/track/1IKW8otsHgan6kLcd8I2he) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 5:27 | 2024-05-09 |  |
 | [All to You](https://open.spotify.com/track/32naTG3cDf7G72CB7CgCHC) | [Fredrock](https://open.spotify.com/artist/7lGQM4ChTijSo7u4dKP5Jy) | [All to You](https://open.spotify.com/album/3sEcky04bBERIf8So7cqKV) | 3:48 | 2024-06-14 | 2024-08-16 |
+| [Alpha And Omega \(feat\. Labisi\)](https://open.spotify.com/track/2Jnd6Dh738gaUcRzSAbzNu) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Lifted](https://open.spotify.com/album/4hB1B4x6hL6c9cwGA54LJe) | 3:22 | 2024-08-30 |  |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 |  |
 | [Arojinle](https://open.spotify.com/track/6IAkCy6DH4eZTomOlQ5nSU) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/0jfLu0yOlJBXzpBCHE4msv) | 14:43 | 2024-05-09 | 2024-05-24 |
 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 | 2024-05-09 |  |
@@ -47,10 +48,12 @@
 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 | 2024-08-02 |  |
 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 | 2024-05-09 |  |
 | [I Worship](https://open.spotify.com/track/2LLUDLGzrX9366WZOHiTNc) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Worship](https://open.spotify.com/album/5GRITao3nx7gyaAEn0tgYa) | 3:51 | 2024-06-07 |  |
+| [i WoRsHiP \- Live](https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [i WoRsHiP \- Live](https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV) | 7:08 | 2024-08-30 |  |
 | [Imela](https://open.spotify.com/track/48t4nNLGMs6UQcnn6cSCmK) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Mercy Peter](https://open.spotify.com/artist/6th52hnATS4dveuzJJZr04) | [Imela](https://open.spotify.com/album/1t9RvjiXTXN79Fp1gPHenK) | 5:07 | 2024-06-21 |  |
 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 | 2024-05-17 | 2024-06-07 |
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-05-09 |  |
+| [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 | 2024-08-30 |  |
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 |  |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |

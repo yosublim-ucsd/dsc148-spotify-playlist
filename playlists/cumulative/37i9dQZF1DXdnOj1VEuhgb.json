@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex x Ali471\n",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel\n",
   "name": "NKVT",
   "tracks": [
     {
@@ -2293,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "FaceTime",
+        "url": "https://open.spotify.com/album/5qMUWVPjDCt6kr3pTOiYLr"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180680,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/74DINrGM1LeuauHZYELfDg"
+    },
+    {
+      "album": {
         "name": "FALLEN",
         "url": "https://open.spotify.com/album/0V3uA2HJdt0h5SjLQ1PUeS"
       },
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 114626,
       "name": "HAYIRLI CUMALAR",
       "url": "https://open.spotify.com/track/6QPgWBQwUuR6gStACo9LQS"
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 199124,
       "name": "Kan Kayb\u0131",
       "url": "https://open.spotify.com/track/1m5pdgxphP7rhrpHMTRJHe"
@@ -4110,6 +4128,24 @@
       "duration_ms": 151624,
       "name": "Kara \u00dcz\u00fcm Habbesi",
       "url": "https://open.spotify.com/track/0ZJQK22q4A3Q1YkpvenzfR"
+    },
+    {
+      "album": {
+        "name": "Karard\u0131 Bulutlar",
+        "url": "https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Karard\u0131 Bulutlar",
+      "url": "https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD"
     },
     {
       "album": {
@@ -4234,7 +4270,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 169598,
       "name": "Kimim Ben",
       "url": "https://open.spotify.com/track/4bcIyLtCts3Vv5Z8GXgRyc"
@@ -4730,6 +4766,24 @@
       "duration_ms": 129966,
       "name": "LANNISTER",
       "url": "https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx"
+    },
+    {
+      "album": {
+        "name": "Lavinia 2",
+        "url": "https://open.spotify.com/album/5FcI3lAxQADc8exNbk1syn"
+      },
+      "artists": [
+        {
+          "name": "Chef Bi",
+          "url": "https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Lavinia 2",
+      "url": "https://open.spotify.com/track/4LZQ6ErsWXmZAJZCfi4l68"
     },
     {
       "album": {
@@ -5358,6 +5412,24 @@
       "duration_ms": 196285,
       "name": "M\u00fcmk\u00fcnse",
       "url": "https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa"
+    },
+    {
+      "album": {
+        "name": "M\u00fc\u015fk\u00fcl",
+        "url": "https://open.spotify.com/album/0HYzOGKPaiMSVvwesU9tkz"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110232,
+      "name": "M\u00fc\u015fk\u00fcl",
+      "url": "https://open.spotify.com/track/6OZoesRPfDRImpsKSH3jJP"
     },
     {
       "album": {
@@ -7840,7 +7912,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 184651,
       "name": "Varsan Var\u0131m",
       "url": "https://open.spotify.com/track/5kgwIvCuGTUnSTyDt5GNkQ"

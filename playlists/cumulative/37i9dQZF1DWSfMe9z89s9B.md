@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Fousheé
 
-1,275 songs - 2 day 19 hr 24 min
+1,276 songs - 2 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [FML](https://open.spotify.com/track/7qPTGnMtJoUMNJzDPxA74k) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Pseudo](https://open.spotify.com/album/0wUIVK2RgEzIWgxmihbaiz) | 2:38 | 2023-04-28 | 2023-08-27 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 | 2022-12-03 |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-07-29 | 2023-08-12 |
-| [For One Last Time](https://open.spotify.com/track/7y2odCmGElDDfYzB7a3RCT) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [For One Last Time](https://open.spotify.com/album/1KPzQnxSY1KRHp2Qr3Q6HR) | 2:18 | 2024-02-09 |  |
+| [For One Last Time](https://open.spotify.com/track/7y2odCmGElDDfYzB7a3RCT) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [For One Last Time](https://open.spotify.com/album/1KPzQnxSY1KRHp2Qr3Q6HR) | 2:18 | 2024-02-09 | 2024-08-30 |
 | [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 | 2023-07-28 |  |
 | [For You](https://open.spotify.com/track/1FF6Bb7hgRQWDEmn9iWQix) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You](https://open.spotify.com/album/0KcVrNao4EAsglSr9EZOLz) | 2:39 | 2022-04-01 | 2022-10-08 |
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-01 | 2022-10-15 |
@@ -997,6 +997,7 @@
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-03-19 | 2022-01-23 |
 | [Solo Dolo](https://open.spotify.com/track/15wIFzox6G1pDNIk1SKGP9) | [Amen](https://open.spotify.com/artist/59XyIoBpA5iKQ8KmjJj554) | [Solo Dolo](https://open.spotify.com/album/1mCzUg46aUlZuJfNvsM6XI) | 3:01 | 2021-06-18 | 2021-12-29 |
 | [SOMEDAY](https://open.spotify.com/track/2bQzlvneMWu99bGWvmARw4) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [SOMEDAY](https://open.spotify.com/album/3eoARb60JoP1Z6GsD4HqLE) | 3:29 | 2024-06-07 |  |
+| [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 | 2024-08-23 |  |
 | [SONIC BOOM](https://open.spotify.com/track/6VZd1Xv8BR4sZYubjLOIhR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [SONIC BOOM](https://open.spotify.com/album/6UDg27sesCLOc8fB6I9nBy) | 2:43 | 2022-07-15 | 2022-07-23 |
 | [Sore Throat](https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 2](https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG) | 2:55 | 2024-03-08 | 2024-06-08 |
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-04-01 | 2022-11-05 |

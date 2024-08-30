@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,801 likes - 188 songs - 17 hr 51 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,809 likes - 188 songs - 17 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 68 | [More of You](https://open.spotify.com/track/0OGx8ZX5ywCn6mAjxNEjA0) | [Mainstream Worship](https://open.spotify.com/artist/2flJ9VtcAFRHlUWdjES6D3), [Josh Daughtry](https://open.spotify.com/artist/4IjRMGL8gJC2zUAoF5rU0F) | [More of You](https://open.spotify.com/album/1D5tjzgOej5XuInzAfzCGB) | 5:16 |
 | 69 | [Yahweh \- Live](https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Elizabeth Rosa](https://open.spotify.com/artist/1sLBX1uGnt9JW6MRAvHAXF) | [Yahweh \(Live\)](https://open.spotify.com/album/1PXUV7TQp3eROEU5H1glKh) | 12:13 |
 | 70 | [Revelation Song \- Live](https://open.spotify.com/track/64Vcux99vOGYkJ6u9KY2A4) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1) | [Revelation Song \(Live\)](https://open.spotify.com/album/47IkERc7mxJxVlktq4bY3b) | 8:41 |
-| 71 | [Outpouring \- Live](https://open.spotify.com/track/2eBT6XdhCLtDXoRDv4Uh7j) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [Outpouring \(Live\)](https://open.spotify.com/album/0DsMRDZv65PZq1NCIvTfV1) | 6:04 |
+| 71 | [Outpouring \- Live](https://open.spotify.com/track/2eBT6XdhCLtDXoRDv4Uh7j) | [Open Heaven](https://open.spotify.com/artist/5mCCAerun72aycTarMpOYw) | [Outpouring \- Live](https://open.spotify.com/album/0DsMRDZv65PZq1NCIvTfV1) | 6:04 |
 | 72 | [Revelation Song](https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Just As I Am \(A Legacy Of Hymns And Worship\)](https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv) | 5:56 |
 | 73 | [Joy Of The Lord \- Live](https://open.spotify.com/track/0zInQgPtJbNqznwPtyvliJ) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Avery Chisenski](https://open.spotify.com/artist/5q7zA45p1JBVegMjnKIAUc) | [Joy Of The Lord \(Live\)](https://open.spotify.com/album/580aLsN0oEckC2G4yfbHSQ) | 6:01 |
 | 74 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 |

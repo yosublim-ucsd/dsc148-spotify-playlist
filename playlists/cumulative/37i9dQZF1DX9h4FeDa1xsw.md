@@ -2,9 +2,9 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Gazo x Adèle Castillon
+> Photo : A2h
 
-47 songs - 2 hr 18 min
+48 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 | 2024-07-18 |  |
 | [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 | 2024-06-20 |  |
 | [La tempête approche](https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [La tempête approche](https://open.spotify.com/album/2O79oOmN6J7uaRjx8V2Ux9) | 2:22 | 2024-06-20 |  |
-| [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 |  |
+| [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 | 2024-08-30 |
+| [Liverpool](https://open.spotify.com/track/6yrzksrL60ODFAPUe6Wdo2) | [Brav](https://open.spotify.com/artist/7xYWMh4bNPk1VEChEwuJW9), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Liverpool](https://open.spotify.com/album/4Ssw5w7d24FJiZDOZW0KuW) | 3:52 | 2024-08-29 |  |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2024-06-20 |  |
 | [Mazel](https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [KHEDMA 2](https://open.spotify.com/album/1S3jVlJByB4CzqwoVpaUAI) | 2:29 | 2024-06-20 |  |
 | [MES RAISONS](https://open.spotify.com/track/4LU7DDq0gPHkQF1ORKji9Q) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOUT CE QUI BRILLE](https://open.spotify.com/album/1xLmdzwAhBEiWPkotbGcRZ) | 3:00 | 2024-06-20 |  |

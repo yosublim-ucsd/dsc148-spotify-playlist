@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,277 likes - 45 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,299 likes - 45 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 17 | [Kaugummi ist mega!](https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr) | [Heavysaurus](https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw) | [Das Album \- Rock'n'Rarrr Music](https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu) | 4:12 |
 | 18 | [Der Gorilla mit der Sonnenbrille](https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:51 |
 | 19 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 |
-| 20 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
-| 21 | [Der schönste Tag vom Sommer / En güzel Yaz Günüm](https://open.spotify.com/track/0S6MWrgRd8U3qCTe7j16I9) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN) | [Der schönste Tag vom Sommer / En güzel Yaz Günüm](https://open.spotify.com/album/3jubUXU6mpuiPl02V1egGB) | 2:44 |
+| 20 | [Der schönste Tag vom Sommer / En güzel Yaz Günüm](https://open.spotify.com/track/0S6MWrgRd8U3qCTe7j16I9) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN) | [Der schönste Tag vom Sommer / En güzel Yaz Günüm](https://open.spotify.com/album/3jubUXU6mpuiPl02V1egGB) | 2:44 |
+| 21 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
 | 22 | [Hakuna Matata](https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t) | [voXXclub](https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 3:34 |
 | 23 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 |
 | 24 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 64257,
+  "num_followers": 64332,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
+        "url": "https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ"
+      },
+      "artists": [
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 3850792,
+      "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
+      "url": "https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "Reputation",
         "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 330730,
       "name": "Another Day (feat. Ziyon)",
       "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
-        "url": "https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ"
-      },
-      "artists": [
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 3850792,
-      "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
-      "url": "https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff"
     },
     {
       "added_at": "2024-08-02 00:28:01",

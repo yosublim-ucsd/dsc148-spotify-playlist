@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,525 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,979 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que linda](https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Que Linda](https://open.spotify.com/album/7fSkYkkdeHXK5xZXCgd1I4) | 2:17 |
 | 2 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
-| 3 | [Ni un Ki Ki](https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Ni un Ki Ki](https://open.spotify.com/album/1EqiiTULbIdDFSnTk8QWxS) | 1:45 |
-| 4 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
-| 5 | [No Me Importa](https://open.spotify.com/track/0qklyeTyK2bs4T3wkPZPsE) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [No Me Importa](https://open.spotify.com/album/4Tw419YEniAI4evTfFglIm) | 2:27 |
-| 6 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
-| 7 | [Vivela](https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Vivela](https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK) | 2:11 |
-| 8 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 |
-| 9 | [Sobalo](https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Negrette Game Over](https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Sobalo](https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm) | 1:56 |
-| 10 | [Bo Bo Bo](https://open.spotify.com/track/3YD3fzaeUAG60fb1x8yDaq) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Bo Bo Bo](https://open.spotify.com/album/3dZBu4c9LUhSYTtqCdgVHN) | 1:34 |
+| 3 | [No Me Importa](https://open.spotify.com/track/0qklyeTyK2bs4T3wkPZPsE) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [No Me Importa](https://open.spotify.com/album/4Tw419YEniAI4evTfFglIm) | 2:27 |
+| 4 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
+| 5 | [Vivela](https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Vivela](https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK) | 2:11 |
+| 6 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
+| 7 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 |
+| 8 | [Sobalo](https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Negrette Game Over](https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Sobalo](https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm) | 1:56 |
+| 9 | [Bo Bo Bo](https://open.spotify.com/track/3YD3fzaeUAG60fb1x8yDaq) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Bo Bo Bo](https://open.spotify.com/album/3dZBu4c9LUhSYTtqCdgVHN) | 1:34 |
+| 10 | [Ni un Ki Ki](https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Ni un Ki Ki](https://open.spotify.com/album/1EqiiTULbIdDFSnTk8QWxS) | 1:45 |
 | 11 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
 | 12 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
 | 13 | [Frename En El Party Sin Panty](https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Frename En El Party Sin Panty](https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY) | 1:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 |
 | 50 | [Rulay & Pica Pollo](https://open.spotify.com/track/0RocDM4foAy5mxEKuegGnu) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd) | [Rulay & Pica Pollo](https://open.spotify.com/album/7jNzI4iV6TXfg5ERQbgUyu) | 4:23 |
 
-Snapshot ID: `Zs3mzgAAAACU0CmCoqcVQpJFeb2VO2B1`
+Snapshot ID: `ZtCo1AAAAAA+NITn5PtG/d3/BWi6kSZ6`

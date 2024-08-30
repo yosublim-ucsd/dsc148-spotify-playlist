@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 123919,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1oowes175FemTnoVNOlOEd"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 125614,
       "name": "bulb",
       "url": "https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 152608,
       "name": "Curly",
       "url": "https://open.spotify.com/track/1yl48iI08qY3QfmR2W5q5j"
@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Dear Old Procrastination",
+        "url": "https://open.spotify.com/album/19PcK0HDCOyxzbyLPT4ntX"
+      },
+      "artists": [
+        {
+          "name": "kdj_77",
+          "url": "https://open.spotify.com/artist/0gOMLuuQAYeuZZxFsS6AcO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116082,
+      "name": "Dear Old Procrastination",
+      "url": "https://open.spotify.com/track/1OJO5LXK8B2V6CLrs0eFAP"
+    },
+    {
+      "album": {
         "name": "Decisions",
         "url": "https://open.spotify.com/album/0nxDJ2GdRlKgOdGYMBlxmO"
       },
@@ -3144,6 +3162,28 @@
       "duration_ms": 147621,
       "name": "Dinner is Ready",
       "url": "https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX"
+    },
+    {
+      "album": {
+        "name": "Diomedea",
+        "url": "https://open.spotify.com/album/6OyBlZjABc9JspVgWEkskN"
+      },
+      "artists": [
+        {
+          "name": "Claptu",
+          "url": "https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7"
+        },
+        {
+          "name": "bert cussion",
+          "url": "https://open.spotify.com/artist/4jgHx3dVfzsmVZDt1JQ1wf"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146553,
+      "name": "Diomedea",
+      "url": "https://open.spotify.com/track/42LxahbHJ9B6YpOOwLmXgy"
     },
     {
       "album": {
@@ -4168,6 +4208,24 @@
       "duration_ms": 118591,
       "name": "Find a Moment",
       "url": "https://open.spotify.com/track/2jILrbAedZ20ZcCNHb2vk3"
+    },
+    {
+      "album": {
+        "name": "find a way",
+        "url": "https://open.spotify.com/album/6UgG0uoEyMK5ZjGaTKrtOc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kadinsky",
+          "url": "https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "find a way",
+      "url": "https://open.spotify.com/track/5WYNjLzaEi7QFgNqPYgW0N"
     },
     {
       "album": {
@@ -5196,7 +5254,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 166274,
       "name": "Hatching a Dragon",
       "url": "https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL"
@@ -5214,7 +5272,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 136700,
       "name": "have-a-cup",
       "url": "https://open.spotify.com/track/5kZHGyQEh8qj9H282Y5vkh"
@@ -6316,6 +6374,32 @@
       "duration_ms": 159216,
       "name": "Lay back and Groove",
       "url": "https://open.spotify.com/track/5VPyMhao8bpy9aqPWpORk2"
+    },
+    {
+      "album": {
+        "name": "Le Lac",
+        "url": "https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu"
+      },
+      "artists": [
+        {
+          "name": "Underground Canopy",
+          "url": "https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134318,
+      "name": "Le Lac - FloFilz Reprise",
+      "url": "https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS"
     },
     {
       "album": {
@@ -8625,6 +8709,28 @@
     },
     {
       "album": {
+        "name": "Creatures",
+        "url": "https://open.spotify.com/album/7is1yhc1sYcErnWlorQQZW"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107937,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/5FiHMZ3DKmraaWPWsfsr4g"
+    },
+    {
+      "album": {
         "name": "Papa Knows Best",
         "url": "https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w"
       },
@@ -10420,7 +10526,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 140963,
       "name": "Shapes",
       "url": "https://open.spotify.com/track/21MsNjTGZ0b2tbVa0m7nNi"
@@ -11522,6 +11628,32 @@
       "duration_ms": 146666,
       "name": "Stuck At The Office",
       "url": "https://open.spotify.com/track/30cEw6hfS5KHcdSSPF9goH"
+    },
+    {
+      "album": {
+        "name": "Stuntin",
+        "url": "https://open.spotify.com/album/5CMN6lCBhH85DPqHtRPtUL"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Waywell",
+          "url": "https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj"
+        },
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Stuntin",
+      "url": "https://open.spotify.com/track/6UK5UFLbPcuD5fR5coYJDc"
     },
     {
       "album": {

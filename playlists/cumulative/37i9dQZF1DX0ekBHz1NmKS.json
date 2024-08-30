@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Ellen Krauss",
+  "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
   "name": "Made in Sweden",
   "tracks": [
     {
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 146086,
       "name": "Andas",
       "url": "https://open.spotify.com/track/3o8K9mCPWGKQMRYqbV8QFT"
@@ -1472,6 +1472,24 @@
       "duration_ms": 175535,
       "name": "Ansvar (feat. Eye N'I)",
       "url": "https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu"
+    },
+    {
+      "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
     },
     {
       "album": {
@@ -3091,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "Br\u00e4nt varenda rad",
+        "url": "https://open.spotify.com/album/34oxmdHNs46Wp4YgSfsFnY"
+      },
+      "artists": [
+        {
+          "name": "Sebbe Hauta",
+          "url": "https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Br\u00e4nt varenda rad",
+      "url": "https://open.spotify.com/track/4MB6EdeMVGtoSdNW0UyEJ9"
+    },
+    {
+      "album": {
         "name": "Bug Eye",
         "url": "https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG"
       },
@@ -4366,6 +4402,24 @@
       "duration_ms": 237312,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk"
+    },
+    {
+      "album": {
+        "name": "Dancing On Dynamite",
+        "url": "https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162329,
+      "name": "Dancing On Dynamite",
+      "url": "https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj"
     },
     {
       "album": {
@@ -6423,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn"
+      },
+      "artists": [
+        {
+          "name": "SIV",
+          "url": "https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157041,
+      "name": "Eddie",
+      "url": "https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct"
+    },
+    {
+      "album": {
         "name": "Edelweiss",
         "url": "https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh"
       },
@@ -7001,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "Eran L\u00e5t",
+        "url": "https://open.spotify.com/album/3kgvErBkHvTjWzLB4TfeSJ"
+      },
+      "artists": [
+        {
+          "name": "Aleks",
+          "url": "https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Eran L\u00e5t",
+      "url": "https://open.spotify.com/track/7dRQWMN3UVvmy8lRa5suGr"
+    },
+    {
+      "album": {
         "name": "Eremiten",
         "url": "https://open.spotify.com/album/5SID8oaQLDedeSkEpnW7od"
       },
@@ -7038,6 +7128,24 @@
       "duration_ms": 219046,
       "name": "Ett silverhj\u00e4rtas sista slag",
       "url": "https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6"
+    },
+    {
+      "album": {
+        "name": "Innan tystnaden tar vid",
+        "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
+      },
+      "artists": [
+        {
+          "name": "David Ritschard",
+          "url": "https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394696,
+      "name": "Europa",
+      "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
     },
     {
       "album": {
@@ -8108,7 +8216,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 177200,
       "name": "Flyttat d\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
@@ -9822,6 +9930,28 @@
       "duration_ms": 147428,
       "name": "Hand i hand",
       "url": "https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM"
+    },
+    {
+      "album": {
+        "name": "HAPPENS",
+        "url": "https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj"
+      },
+      "artists": [
+        {
+          "name": "LUCIIA",
+          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "HAPPENS",
+      "url": "https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp"
     },
     {
       "album": {
@@ -14331,6 +14461,24 @@
     },
     {
       "album": {
+        "name": "Leave the Light On",
+        "url": "https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2"
+      },
+      "artists": [
+        {
+          "name": "Mattias Tell",
+          "url": "https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "Leave the Light On",
+      "url": "https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu"
+    },
+    {
+      "album": {
         "name": "Ledsen och apatisk",
         "url": "https://open.spotify.com/album/1R3iq6yTqEYKvY5w1DSIvg"
       },
@@ -14736,7 +14884,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 189583,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
@@ -15869,6 +16017,24 @@
     },
     {
       "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/64GQS6Mk0WTvW1L9y61vnI"
+      },
+      "artists": [
+        {
+          "name": "Ellen Benediktson",
+          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163505,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/2rB2h2gK6jbnVHwRhxdUKi"
+    },
+    {
+      "album": {
         "name": "MANIC",
         "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
       },
@@ -16026,6 +16192,24 @@
       "duration_ms": 333874,
       "name": "Maria Magdalena",
       "url": "https://open.spotify.com/track/3SzkjtUKRbFwtCW6Hv1IWH"
+    },
+    {
+      "album": {
+        "name": "Masken Av",
+        "url": "https://open.spotify.com/album/5zxtkIde8OHqOfBmlqEQoH"
+      },
+      "artists": [
+        {
+          "name": "Nano",
+          "url": "https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "Masken av",
+      "url": "https://open.spotify.com/track/58ATiWksUkCYPVqgFCX6TX"
     },
     {
       "album": {
@@ -16188,6 +16372,24 @@
       "duration_ms": 153987,
       "name": "MER",
       "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
+    },
+    {
+      "album": {
+        "name": "Mer du mer allt",
+        "url": "https://open.spotify.com/album/61f3yuHLlsso1BG9jANJgv"
+      },
+      "artists": [
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Mer du mer allt",
+      "url": "https://open.spotify.com/track/3Fat9Q5RPkoIham2BZE6SL"
     },
     {
       "album": {
@@ -18853,6 +19055,24 @@
     },
     {
       "album": {
+        "name": "Oslagbara",
+        "url": "https://open.spotify.com/album/1pOzHHBNWHFc7nMF1uzZ5N"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Oslagbara",
+      "url": "https://open.spotify.com/track/2v8OHqvx47n2YmfgAN9cF8"
+    },
+    {
+      "album": {
         "name": "Oslo",
         "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
       },
@@ -19190,6 +19410,24 @@
       "duration_ms": 181062,
       "name": "Pappa",
       "url": "https://open.spotify.com/track/1ao8aqJXSqXCGDihRbhxVH"
+    },
+    {
+      "album": {
+        "name": "Parasit",
+        "url": "https://open.spotify.com/album/6T9R4UAy9sUIwWh1pW4H5O"
+      },
+      "artists": [
+        {
+          "name": "Ella Rammelt",
+          "url": "https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "Parasit",
+      "url": "https://open.spotify.com/track/3u4CzpzjbIRRGOxC7DfpQQ"
     },
     {
       "album": {
@@ -19580,7 +19818,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 195187,
       "name": "Presence",
       "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
@@ -22849,6 +23087,24 @@
     },
     {
       "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie South",
+          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA"
+    },
+    {
+      "album": {
         "name": "Springer",
         "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
       },
@@ -24439,6 +24695,24 @@
     },
     {
       "album": {
+        "name": "Tappat Sina Blad",
+        "url": "https://open.spotify.com/album/6HmQDEmDgdQDOYCLDNM5FZ"
+      },
+      "artists": [
+        {
+          "name": "Aron Milton",
+          "url": "https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Tappat Sina Blad",
+      "url": "https://open.spotify.com/track/4Kuu57ri5Bw9RkypofKili"
+    },
+    {
+      "album": {
         "name": "Tar det som det kommer",
         "url": "https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU"
       },
@@ -25515,6 +25789,24 @@
     },
     {
       "album": {
+        "name": "Toulouse",
+        "url": "https://open.spotify.com/album/2cD3yzeftcX0qY2YV2NbHc"
+      },
+      "artists": [
+        {
+          "name": "Thilda U",
+          "url": "https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180833,
+      "name": "Toulouse",
+      "url": "https://open.spotify.com/track/01E1aVRPZ4qx7cGw5pE4Eo"
+    },
+    {
+      "album": {
         "name": "Toxic Som Mig",
         "url": "https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX"
       },
@@ -25656,7 +25948,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 196363,
       "name": "Tripp f\u00f6r saj",
       "url": "https://open.spotify.com/track/0hEPqXtQDQyAJgKxpBnTbf"
@@ -26021,6 +26313,24 @@
     },
     {
       "album": {
+        "name": "T\u00e4nk om jag gjorde fel",
+        "url": "https://open.spotify.com/album/7f6k1WcaWSa5tqsfgDufXW"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "T\u00e4nk om jag gjorde fel",
+      "url": "https://open.spotify.com/track/3i6SXxxJgHz0eyzIkceclt"
+    },
+    {
+      "album": {
         "name": "T\u00e4nker du p\u00e5 oss",
         "url": "https://open.spotify.com/album/5BhDEgVNymHAmtllFnl0mY"
       },
@@ -26224,7 +26534,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 138666,
       "name": "Underbart \u00e4r kort",
       "url": "https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ"
@@ -26380,7 +26690,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-30",
       "duration_ms": 157031,
       "name": "Utan Dig (oh nej)",
       "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
@@ -26893,6 +27203,24 @@
     },
     {
       "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7obLFqKLmYBdXvtqQTxRWK"
+      },
+      "artists": [
+        {
+          "name": "Steph K",
+          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167034,
+      "name": "Vi",
+      "url": "https://open.spotify.com/track/6RiAMPOYq8cCAe4vG7T2D0"
+    },
+    {
+      "album": {
         "name": "Vi har iallafall inte tr\u00e5kigt",
         "url": "https://open.spotify.com/album/3Fxsxgafsz6WFyUTyHHtlY"
       },
@@ -27262,6 +27590,24 @@
       "duration_ms": 185106,
       "name": "VinterNoll2",
       "url": "https://open.spotify.com/track/0Hi1VOMriBzaCRarkRBDso"
+    },
+    {
+      "album": {
+        "name": "Vita Boots",
+        "url": "https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4"
+      },
+      "artists": [
+        {
+          "name": "Mia Elfqvist",
+          "url": "https://open.spotify.com/artist/3fBR86TB3VE259lsDTjvoC"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136161,
+      "name": "Vita Boots",
+      "url": "https://open.spotify.com/track/5iV8CK3jqcaYKFqaOXcNij"
     },
     {
       "album": {
@@ -27807,6 +28153,42 @@
     },
     {
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh"
+      },
+      "artists": [
+        {
+          "name": "NEA EINI",
+          "url": "https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228292,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC"
+    },
+    {
+      "album": {
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
+      },
+      "artists": [
+        {
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI"
       },
@@ -27876,6 +28258,24 @@
       "duration_ms": 177784,
       "name": "What's On Your Mind",
       "url": "https://open.spotify.com/track/3JHgXCFXvwmhF87cpPzwxz"
+    },
+    {
+      "album": {
+        "name": "When Are You Coming My Way",
+        "url": "https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj"
+      },
+      "artists": [
+        {
+          "name": "Ella Hoff",
+          "url": "https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139588,
+      "name": "When Are You Coming My Way",
+      "url": "https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc"
     },
     {
       "album": {

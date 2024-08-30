@@ -1,12 +1,12 @@
 {
-  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 17285,
+  "description": "This is Taio Cruz. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 17290,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsvFgAAAAABzfUqmzFhRZWQXEGohi65D",
+  "snapshot_id": "Zs5ogAAAAABHNxkENH3kPaRK85sK0Vwq",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher (International)",
+        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Little Lion Man - BBC Live version",
+      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Annual Compilation 2012 - Deluxe Edition",
         "url": "https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 280312,
       "name": "Dynamite - David May Rmx Edit",
       "url": "https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher (International)",
-        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Little Lion Man - BBC Live version",
-      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
     },
     {
       "added_at": null,
