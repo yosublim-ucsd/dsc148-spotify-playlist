@@ -1,4 +1,4 @@
-## Playlists \(8173\)
+## Playlists \(8174\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5578,6 +5578,7 @@
 - [The GRAMMYs Official Playlist](/playlists/pretty/37i9dQZF1DX5FyxM4IcLn6.md)
 - [The Game & Skrillex: El Chapo](/playlists/pretty/7ulZWTONHeL8OXp7E0iCPe.md)
 - [The Gentlemen Official Playlist](/playlists/pretty/37i9dQZF1DX3MxOdIC5upm.md)
+- [The Gift of the Mythical Fire Bird](/playlists/pretty/22LeP174pTKLlGkpgznIXg.md)
 - [The Glow Up](/playlists/pretty/37i9dQZF1DWZ0Y50OtuhLO.md)
 - [The Gold List](/playlists/pretty/37i9dQZF1DX0yr14c1UH4B.md)
 - [The Golden Spoon \(금수저\)](/playlists/pretty/37i9dQZF1DWY7srJwuLUWi.md)
