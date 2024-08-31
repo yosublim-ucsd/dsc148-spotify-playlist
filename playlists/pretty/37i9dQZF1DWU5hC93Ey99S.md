@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,029 likes - 326 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,209 likes - 326 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 16 | [Lonely \- AVAION Remix](https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Lonely \(AVAION Remix\)](https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308) | 3:55 |
 | 17 | [Can It Be Easy](https://open.spotify.com/track/22GJxi8BjnUyoML2YW9YDv) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Can It Be Easy](https://open.spotify.com/album/6ZJxF14bXfhrSLHwX8qNhk) | 2:41 |
 | 18 | [Otherside](https://open.spotify.com/track/3HyURWisoeSVE0PZC1wm3u) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Joe Farwick](https://open.spotify.com/artist/7xQHg9QFtZpvcsFyLW9z0s) | [Otherside](https://open.spotify.com/album/5tbAQ3wQQDynD1lGivPoxf) | 2:57 |
-| 19 | [Hold On \- MANIL Remix](https://open.spotify.com/track/3pEGiJxeiFGXiNE3eS4VOS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [MANIL](https://open.spotify.com/artist/2itU8XavdL9oSnOR6sZzmW) | [Hold On \(The Remixes\)](https://open.spotify.com/album/2W0UoSzk6vWqxyLEtPMXfw) | 2:56 |
+| 19 | [Hold On \- Manil Remix](https://open.spotify.com/track/3pEGiJxeiFGXiNE3eS4VOS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Hold On \(The Remixes\)](https://open.spotify.com/album/2W0UoSzk6vWqxyLEtPMXfw) | 2:56 |
 | 20 | [Favorite Sound](https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Favorite Sound](https://open.spotify.com/album/2RbAX9xPMDbBukM2YYAJh3) | 2:47 |
 | 21 | [Falling for You](https://open.spotify.com/track/06QGDM31PNF0MBD2WOBfef) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [Falling for You](https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh) | 2:44 |
 | 22 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 |

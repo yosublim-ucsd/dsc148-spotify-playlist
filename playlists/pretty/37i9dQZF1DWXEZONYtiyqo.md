@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,432 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,464 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 44 | [Bug a Boo](https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Bug a Boo](https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx) | 3:24 |
 | 45 | [Roșu nuclear](https://open.spotify.com/track/2AMOK3ZRupIVD0NNKd8fLg) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Roșu nuclear](https://open.spotify.com/album/6wHZ8Mkj52kWsMWV0cJ6XT) | 2:35 |
 | 46 | [Nu Știi](https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb), [Blacklist](https://open.spotify.com/artist/3QvMYjA3Hfu62w8XUkRR4P) | [Nu Știi](https://open.spotify.com/album/6UJtTFwqorh9xVUjsagaFc) | 3:02 |
-| 47 | [Să mai petrecem](https://open.spotify.com/track/3t4OzNLm3ZVgCE7W9cMUKk) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să mai petrecem](https://open.spotify.com/album/1AS1ubdKWWlVhOSxBwB89F) | 3:03 |
-| 48 | [ADN](https://open.spotify.com/track/4UNukwAdvGdJOtoyW9wPOI) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [David Ciente](https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2) | [ADN](https://open.spotify.com/album/5nR1jSr6mb7egmjowppcHb) | 3:02 |
-| 49 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
+| 47 | [Scena vieții](https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Scena vieții](https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH) | 2:51 |
+| 48 | [Să mai petrecem](https://open.spotify.com/track/3t4OzNLm3ZVgCE7W9cMUKk) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să mai petrecem](https://open.spotify.com/album/1AS1ubdKWWlVhOSxBwB89F) | 3:03 |
+| 49 | [ADN](https://open.spotify.com/track/4UNukwAdvGdJOtoyW9wPOI) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [David Ciente](https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2) | [ADN](https://open.spotify.com/album/5nR1jSr6mb7egmjowppcHb) | 3:02 |
+| 50 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 
-Snapshot ID: `ZtDhUAAAAADcnZpUv1fT6vCbqu9hcgfC`
+Snapshot ID: `ZtGBpAAAAAB91hXwX2aBMKkdtTnPVAzI`

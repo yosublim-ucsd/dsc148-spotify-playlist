@@ -2,9 +2,9 @@
 
 ### [Indian IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Prateek Kuhad
+> English songs from Indian artists<br/>Cover: Farhan
 
-313 songs - 18 hr 0 min
+314 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-05-19 | 2024-06-22 |
 | [Bloom](https://open.spotify.com/track/39lOHITmszIVH9WF4Jpbum) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:39 | 2022-05-27 | 2024-08-23 |
 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 | 2023-05-19 |  |
-| [Blue Sweatshirt](https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Blue Sweatshirt](https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU) | 3:10 | 2023-02-07 |  |
+| [Blue Sweatshirt](https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Blue Sweatshirt](https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU) | 3:10 | 2023-02-07 | 2024-08-31 |
 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol\. 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 | 2023-08-25 | 2024-06-22 |
 | [Breathe](https://open.spotify.com/track/2mNolLedgnG8ys1bDlpjTJ) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Breathe](https://open.spotify.com/album/5aZDNvlGX9pOKoG09jvYNH) | 4:55 | 2023-12-15 | 2024-03-06 |
 | [Breathe](https://open.spotify.com/track/3tc1QVfc8kTEKbJF4Zu9HG) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Breathe](https://open.spotify.com/album/0m76qirwn1jI9Y0u9qQvwl) | 4:55 | 2023-01-20 | 2023-04-20 |
@@ -235,6 +235,7 @@
 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 | 2023-08-25 | 2024-06-22 |
 | [Quietly](https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Quietly](https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn) | 2:16 | 2022-03-25 | 2023-05-24 |
 | [Rain](https://open.spotify.com/track/7smZOvVtWfWZv0sDvSsArS) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu), [Loud Silence](https://open.spotify.com/artist/7rpgKYrHf6PqwG0ancMOVl) | [Rain](https://open.spotify.com/album/4MGpm1VDPSPqpma5wauPOn) | 3:42 | 2022-03-25 | 2023-01-13 |
+| [Reach For The Stars](https://open.spotify.com/track/3ml9rrqEJ0YZQdzAXu5kUB) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t) | [Reach For The Stars](https://open.spotify.com/album/2oygGmU37Zr7mVTuqB4up3) | 4:29 | 2024-08-30 |  |
 | [Red Flag](https://open.spotify.com/track/2or2AibuoQJ9aJF0Ae9k6a) | [Priyanka Nath](https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE) | [Red Flag](https://open.spotify.com/album/5iHnV0iLx5Psj2k0m2rgXr) | 2:34 | 2024-04-26 | 2024-05-11 |
 | [Remember](https://open.spotify.com/track/3cqeFHqx2y05J7skmbc743) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 4:11 | 2022-03-25 | 2023-12-16 |
 | [Remember](https://open.spotify.com/track/7KkKCRrs1BaeA9aug5OKLX) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 4:11 | 2023-12-15 | 2024-04-11 |

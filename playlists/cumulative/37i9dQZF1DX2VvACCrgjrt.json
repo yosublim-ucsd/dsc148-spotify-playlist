@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
+  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Dillon Francis & Julian Jordan",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -140,6 +140,32 @@
       "duration_ms": 159200,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
+    },
+    {
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
     },
     {
       "album": {
@@ -3027,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "CAN'T GET ENOUGH",
+        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "CANT GET ENOUGH",
+      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+    },
+    {
+      "album": {
         "name": "CASH",
         "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
       },
@@ -4398,7 +4442,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147157,
       "name": "Don't Need U",
       "url": "https://open.spotify.com/track/0M334leIc51SErTtCd7SG0"
@@ -5880,7 +5924,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 210400,
       "name": "Full Speed (feat. Aviella)",
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
@@ -6258,7 +6302,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169400,
       "name": "Get on the Floor",
       "url": "https://open.spotify.com/track/2a3izLYRkbQ2XyacnA4bNt"
@@ -6849,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "Gotta Be You",
+        "url": "https://open.spotify.com/album/0kDxqbvm6kzuh74FFwU2V4"
+      },
+      "artists": [
+        {
+          "name": "Moody Jones",
+          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172025,
+      "name": "Gotta Be You",
+      "url": "https://open.spotify.com/track/5zH6f163eZM7Iwm9I5L5Si"
+    },
+    {
+      "album": {
         "name": "Grimestar",
         "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
@@ -6882,6 +6944,28 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
+    },
+    {
+      "album": {
+        "name": "Gua Gua",
+        "url": "https://open.spotify.com/album/05hCvePiexeRJkSKVBNb59"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Gua Gua",
+      "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
     },
     {
       "album": {
@@ -7462,7 +7546,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 227343,
       "name": "HOT SHOT",
       "url": "https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2"
@@ -8456,7 +8540,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 143148,
       "name": "Kiss Like This",
       "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
@@ -11816,7 +11900,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165468,
       "name": "PIKKO",
       "url": "https://open.spotify.com/track/76ZeYQ8R0eKT4SwDGnJ6Ha"
@@ -12666,6 +12750,28 @@
       "duration_ms": 259687,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/25izyWirNjcy6QQSjKP8G1"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/5LOHrHgyBbiu0JNAFCUYYK"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        },
+        {
+          "name": "Shockz",
+          "url": "https://open.spotify.com/artist/2MPHwCi6dWYhq00yEiOuI2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136757,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/6cjMyf6WCA5nymOc5yh0vt"
     },
     {
       "album": {
@@ -15290,6 +15396,28 @@
       "duration_ms": 189523,
       "name": "The Sequel",
       "url": "https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW"
+    },
+    {
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "album": {

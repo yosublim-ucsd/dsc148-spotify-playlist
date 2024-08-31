@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Transmissor
 
-673 songs - 1 day 14 hr 15 min
+675 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Plano Certo](https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Plano Certo](https://open.spotify.com/album/16DJ6WF6ULJMuMaxEm7W2R) | 2:21 | 2022-03-11 | 2022-04-23 |
 | [Poca](https://open.spotify.com/track/3QV57sbqvd8ekL3qhvuUkp) | [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Poca](https://open.spotify.com/album/2NpkzNY0YGGoVxClxtphQu) | 3:58 | 2023-09-29 | 2023-10-28 |
 | [Pode Chegar](https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Parte do Que Vem](https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS) | 4:15 | 2022-07-01 | 2022-08-20 |
+| [pode ligar \(foi bom com vc\)](https://open.spotify.com/track/0A6jb2HNvw8YnOqUQJdOOD) | [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA), [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [pode ligar \(foi bom com vc\)](https://open.spotify.com/album/7u4m0mKa11WW7qkdbCzplx) | 3:09 | 2024-08-30 |  |
 | [pois bem \- PP sessions \- Ao Vivo](https://open.spotify.com/track/4jAgdIeBtsTFXApCOqKxUH) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [Capim\-Limão \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/11wK1LoU9LToldMOGky4dZ) | 3:02 | 2024-05-03 |  |
 | [Polaroids](https://open.spotify.com/track/3D454eHAU28YfY74uwyI9b) | [Betina](https://open.spotify.com/artist/60xTz0cmopLyYBnQg9QGoK), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Polaroids](https://open.spotify.com/album/4BA0EFWHNxlc1q7ubXMMon) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [por dentro e por fora](https://open.spotify.com/track/46TyMi8Q6gQ3X78R1cRRT3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [por dentro e por fora](https://open.spotify.com/album/1UA3U1qJqZDxNj8sJLS48G) | 2:30 | 2023-10-20 | 2024-02-24 |
@@ -569,6 +570,7 @@
 | [Tanto](https://open.spotify.com/track/1uoOXeZ1KGdtYshGvLhIOF) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:33 | 2023-04-28 | 2023-07-22 |
 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 | 2022-09-23 | 2023-04-30 |
 | [Tarde](https://open.spotify.com/track/7pySQ7DJISRKepvNV8YxFN) | [clara bicho](https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK) | [Tarde](https://open.spotify.com/album/2BxpdeCcDeJgl8l47ZoZgI) | 2:44 | 2023-11-10 | 2024-02-24 |
+| [Tatuagem](https://open.spotify.com/track/76zObbgCpNkONNVieHQIa1) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [27](https://open.spotify.com/album/203t976XBYkGGqxz4zAIau) | 2:00 | 2024-08-30 |  |
 | [Tema Para Marisa Monte](https://open.spotify.com/track/0rpqWmRWBswnIHUG0pYWMC) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Lolólove](https://open.spotify.com/album/6ZVrzdqpAEOsoWA2w4HZK3) | 2:27 | 2023-10-06 | 2023-10-28 |
 | [Tempo de Mistério](https://open.spotify.com/track/6Tca1NDEg2WAItq6KtVNSd) | [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Tempo de Mistério](https://open.spotify.com/album/46Fix62G5d3qkhQjSnnYdr) | 3:21 | 2024-05-17 |  |
 | [Tempo Presente](https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Tempo Presente](https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi) | 3:44 | 2022-05-20 | 2022-06-04 |

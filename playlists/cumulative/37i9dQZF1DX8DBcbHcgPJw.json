@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Flor Alvarez & Yami Safdie.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero, Migrantes & j mena.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -1652,6 +1652,36 @@
       "duration_ms": 154749,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/23TjftFdV49zwLnj0GSGVK"
+    },
+    {
+      "album": {
+        "name": "Como si no nos am\u00e1ramos",
+        "url": "https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/7LJCRpVGQi5ttBb8WEa1RE"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Como si no nos am\u00e1ramos",
+      "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
     },
     {
       "album": {
@@ -8250,7 +8280,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"

@@ -4139,6 +4139,28 @@
     },
     {
       "album": {
+        "name": "The weight of the world",
+        "url": "https://open.spotify.com/album/0DyQE2u4e8p9G6721QcdnW"
+      },
+      "artists": [
+        {
+          "name": "Syzy",
+          "url": "https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL"
+        },
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301095,
+      "name": "HEART123",
+      "url": "https://open.spotify.com/track/6SRDN6AyatafwXnJh6KI1n"
+    },
+    {
+      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/4IOsvVbAF9s2moKSORe6XK"
       },
@@ -5342,6 +5364,36 @@
       "duration_ms": 154887,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7"
+    },
+    {
+      "album": {
+        "name": "KNOCKOUT",
+        "url": "https://open.spotify.com/album/7kkfLCGdFVrDwgadSRSHL0"
+      },
+      "artists": [
+        {
+          "name": "Azide",
+          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
+        },
+        {
+          "name": "M.I.M.E",
+          "url": "https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X"
+        },
+        {
+          "name": "XAUCE",
+          "url": "https://open.spotify.com/artist/4ZB2CXTdB5aCbmgoKZngCd"
+        },
+        {
+          "name": "Heuse",
+          "url": "https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "KNOCKOUT",
+      "url": "https://open.spotify.com/track/1Ujzwp62aSFOUVJFL9m0v9"
     },
     {
       "album": {
@@ -7697,6 +7749,24 @@
     },
     {
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/2NLKHjRkgQCIfDRqxJ0qBG"
+      },
+      "artists": [
+        {
+          "name": "Alexandar Smash",
+          "url": "https://open.spotify.com/artist/2eheBZ3uhxzH8eBRvV0xtv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/6P1SudHQxqsLclgSE9Mpwn"
+    },
+    {
+      "album": {
         "name": "Rollin' Up",
         "url": "https://open.spotify.com/album/3aNJdQrhI3gtiFilRJc7FQ"
       },
@@ -9454,7 +9524,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 185730,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/0JjE5TJKHr72H69nUYFP8B"
@@ -10442,7 +10512,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 141000,
       "name": "Watch Me Take It",
       "url": "https://open.spotify.com/track/3di8gtp6wVCk6qbfhlwA4l"
@@ -10482,7 +10552,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 141333,
       "name": "Whip It Up",
       "url": "https://open.spotify.com/track/6u9plBOCtznp7bGnxNZt5S"

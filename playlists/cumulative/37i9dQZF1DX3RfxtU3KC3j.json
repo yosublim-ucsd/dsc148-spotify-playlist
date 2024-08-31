@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Benim Annem Cumartesi",
+        "url": "https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz"
+      },
+      "artists": [
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310597,
+      "name": "Benim Annem Cumartesi",
+      "url": "https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM"
+    },
+    {
+      "album": {
         "name": "cihan",
         "url": "https://open.spotify.com/album/1ttwKkQZEoZy7cDRQXpp4F"
       },

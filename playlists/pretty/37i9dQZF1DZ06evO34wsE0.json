@@ -1,12 +1,12 @@
 {
-  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 244372,
+  "description": "This is Shania Twain. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 244405,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADUIqOX8StI9Mb3JT7px73F",
+  "snapshot_id": "Zs+6AAAAAADxVorGCgcH4sfXtlndlYvT",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Ka-Ching!",
-      "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shania: The Queen Of Country Pop",
         "url": "https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J"
       },
@@ -471,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
       "artists": [
         {
@@ -480,9 +464,25 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+      "duration_ms": 200466,
+      "name": "Ka-Ching!",
+      "url": "https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Life's About To Get Good",
+      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waking Up Dreaming",
+        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198802,
+      "name": "Waking Up Dreaming",
+      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "White Claw",
         "url": "https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 206321,
       "name": "White Claw",
       "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Life's About To Get Good",
-      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 206773,
-      "name": "I'm Holdin' On To Love (To Save My Life)",
-      "url": "https://open.spotify.com/track/48zaiZ8s43CYWwpd8iHyGU"
+      "duration_ms": 262400,
+      "name": "Rock This Country!",
+      "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 262400,
-      "name": "Rock This Country!",
-      "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
+      "duration_ms": 206773,
+      "name": "I'm Holdin' On To Love (To Save My Life)",
+      "url": "https://open.spotify.com/track/48zaiZ8s43CYWwpd8iHyGU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,777 likes - 104 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,814 likes - 104 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 32 | [Ngemis](https://open.spotify.com/track/71934imn8hIKn96P7sWELA) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Ngemis](https://open.spotify.com/album/16e2jR9gWRsCZjfe7TIfKJ) | 5:01 |
 | 33 | [Ra Nalar](https://open.spotify.com/track/1w0tTUCXWSyaFSWGZKavzg) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Ra Nalar](https://open.spotify.com/album/0QzMOzJfQpr0aK2Jsf5dew) | 4:51 |
 | 34 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 |
-| 35 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \(Live\)](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 |
+| 35 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 |
 | 36 | [Kisinan](https://open.spotify.com/track/5qcoVIjY77n3TGcvFCBuq7) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Kisinan](https://open.spotify.com/album/0Cya8IGdWAAqfogpm4lukg) | 5:18 |
 | 37 | [SENENG](https://open.spotify.com/track/1drRDlIBhcYUOaeMssBpEr) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [SENENG](https://open.spotify.com/album/37HenmohqDXnQzohspijBA) | 4:43 |
 | 38 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 |

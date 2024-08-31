@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Aaron, Esther Graf
 
-1,679 songs - 3 day 10 hr 26 min
+1,683 songs - 3 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 | 2024-08-08 | 2024-08-16 |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-28 | 2024-07-05 |
 | [Bigger Picture](https://open.spotify.com/track/4qXG6u2HbqRpEtA9apQLDi) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Bigger Picture](https://open.spotify.com/album/12QYAmIZvrAPB9Njyem32A) | 2:48 | 2024-05-09 | 2024-05-17 |
+| [Bigger Plans \(with Hunxho\)](https://open.spotify.com/track/7tMmOWzQT8YaI4xck2gNVi) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Bigger Plans \(with Hunxho\)](https://open.spotify.com/album/0qGBsgeY3MNPDBWZdJlNdD) | 2:51 | 2024-08-30 |  |
 | [Biggie Boom Boom](https://open.spotify.com/track/4oW4aeRU5W6uixbb8UYxK7) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Biggie Boom Boom](https://open.spotify.com/album/2eNVJRXDDgRyyLxE4w1i0R) | 2:36 | 2024-08-29 |  |
 | [bin noch wach...wo bist du?](https://open.spotify.com/track/4PlrK6tuwiJS4GZG3faqAk) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Auszeit](https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1) | 3:08 | 2024-08-01 | 2024-08-09 |
 | [Bind mir die Augen zu](https://open.spotify.com/track/7MttHOtzYKvCCdRvdjVcUb) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bind mir die Augen zu](https://open.spotify.com/album/5nQfnVTFYE6747J03J8pxC) | 3:59 | 2024-07-18 | 2024-07-27 |
@@ -320,6 +321,7 @@
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-05-16 | 2024-05-24 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-07-05 |
 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 | 2024-06-28 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-27 | 2024-07-05 |
 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 | 2024-08-29 |  |
 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-07-04 | 2024-07-12 |
@@ -662,7 +664,7 @@
 | [heimweg](https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [rückwärts auf dem heimweg](https://open.spotify.com/album/4TGlBCsqYM6RP4u1KFdkOB) | 2:20 | 2024-08-22 | 2024-08-30 |
 | [HELIKOPTER](https://open.spotify.com/track/2OnRAIXiSAiw3ACAvPRi8d) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [HELIKOPTER](https://open.spotify.com/album/64Q64qTN2jDr4MpfzvpedB) | 3:23 | 2024-08-01 | 2024-08-09 |
 | [Hello World \- Song of the Olympics™](https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Hello World \(Song of the Olympics™\)](https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ) | 2:31 | 2024-07-26 | 2024-08-02 |
-| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:52 | 2024-08-29 |  |
+| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-29 |  |
 | [HERE WE GO! \- from the Netflix film "Beverly Hills Cop: Axel F"](https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HERE WE GO! \(from the Netflix film "Beverly Hills Cop: Axel F"\)](https://open.spotify.com/album/0g097m0P0zZhYnImicon1n) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-23 | 2024-06-01 |
 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-05-09 | 2024-05-17 |
@@ -1045,6 +1047,7 @@
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 | 2024-05-24 |
 | [Nar](https://open.spotify.com/track/4oGzyFoVEvaP7sbUA7HPLB) | [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Nar](https://open.spotify.com/album/4T8p7DRt5FYFDtfYa5GHfL) | 2:26 | 2024-07-11 | 2024-07-19 |
 | [NARCO NARCO](https://open.spotify.com/track/1POeceAm1gI57WBqC7xEEu) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [NARCO NARCO](https://open.spotify.com/album/1cvsO8QqONwc7RMGBVLUFk) | 3:07 | 2024-08-15 | 2024-08-23 |
+| [Nasty](https://open.spotify.com/track/29FBmRrebixRofs0flcm4O) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Nasty](https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj) | 2:36 | 2024-08-30 |  |
 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 | 2024-06-13 | 2024-06-21 |
 | [NEED U](https://open.spotify.com/track/4V3cTkfjWuwtLWHTq6K79J) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [NEED U](https://open.spotify.com/album/2ERfUSgZd469wDg8QDeJZu) | 2:43 | 2024-05-16 | 2024-05-24 |
 | [NEIN NEIN NEIN](https://open.spotify.com/track/0FqxL0BPdwjmJsqjUTDCGi) | [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [NEIN NEIN NEIN](https://open.spotify.com/album/6ZsdGMgJzxdQb6Z3GP6OHI) | 2:29 | 2024-07-18 | 2024-07-27 |
@@ -1373,6 +1376,7 @@
 | [Starboy](https://open.spotify.com/track/0Rgdhptwk0A3Clbu5RpYI1) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Starboy](https://open.spotify.com/album/1NiBNFqgyaSatkYqDZqTtG) | 2:50 | 2024-07-18 | 2024-07-27 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-05-16 | 2024-05-24 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-09 | 2024-05-17 |
+| [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-30 |  |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [statements](https://open.spotify.com/track/5tUnrkWOdpwX1xPvAjfym8) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [statements](https://open.spotify.com/album/0M3s64wfThZodB6MB4jfnn) | 1:47 | 2024-05-09 | 2024-05-17 |
 | [Steiniger Weg](https://open.spotify.com/track/5P11Hq2LZ2ArnetsepGTqT) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Steiniger Weg](https://open.spotify.com/album/3hYJ5FNeNJR1e7POvZIaXT) | 2:34 | 2024-05-10 | 2024-05-17 |

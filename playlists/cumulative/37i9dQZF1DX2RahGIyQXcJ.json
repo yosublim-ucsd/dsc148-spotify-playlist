@@ -709,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Attach",
+        "url": "https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "Attach",
+      "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
+    },
+    {
+      "album": {
         "name": "Auqaat",
         "url": "https://open.spotify.com/album/2GypgjkQA80a9g4fyI2t3Z"
       },
@@ -3110,6 +3136,24 @@
       "duration_ms": 172213,
       "name": "JASHAN-E-HIP-HOP",
       "url": "https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195115,
+      "name": "Jatt Mehkma",
+      "url": "https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ"
     },
     {
       "album": {

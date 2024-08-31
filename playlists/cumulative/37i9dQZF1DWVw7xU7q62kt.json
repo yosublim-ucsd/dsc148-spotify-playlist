@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 250539,
       "name": "Haven - An NPR Tiny Desk Concert",
       "url": "https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg"
@@ -2655,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "mira la noche",
+        "url": "https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "mira la noche",
+      "url": "https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq"
+    },
+    {
+      "album": {
         "name": "Galerie",
         "url": "https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ"
       },
@@ -3560,8 +3578,8 @@
           "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
         },
         {
-          "name": "Chaerin",
-          "url": "https://open.spotify.com/artist/4NOc6VcAK0HNUDG63BmB49"
+          "name": "CHAERIN",
+          "url": "https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc"
         }
       ],
       "date_added": "2024-08-23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Tijs Vanneste & Metejoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,854 likes - 84 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,905 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 15 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 |
 | 16 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 |
 | 17 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 |
-| 18 | [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 |
+| 18 | [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 |
 | 19 | [Easy Distraction](https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Easy Distraction](https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF) | 3:50 |
 | 20 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 21 | [EGWU EJI](https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EGWU EJI](https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p) | 2:52 |
@@ -92,5 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 82 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 83 | [Arizona](https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Arizona](https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU) | 3:24 |
 | 84 | [Bending My Rules](https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Bending My Rules](https://open.spotify.com/album/5g2IcWk7Deec3sOrtDiwk9) | 3:44 |
+| 85 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
 
 Snapshot ID: `ZtDvYAAAAABD6Yl6qUYPQS0zY3ib+sHW`

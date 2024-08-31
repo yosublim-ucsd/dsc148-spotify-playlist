@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Rekha Bhardwaj
 
-358 songs - 21 hr 1 min
+359 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Karmawali](https://open.spotify.com/track/6mfdRFpZTTOGwzRCHQlnDW) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Karmawali](https://open.spotify.com/album/7sh3XAVFEufhE6NVyiRDV4) | 4:20 | 2023-11-17 | 2023-11-30 |
 | [Kashmir](https://open.spotify.com/track/0FDlo7Rz1GQXjYz3y0UxPb) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:36 | 2023-11-25 | 2023-11-30 |
 | [Kashmiri Apple](https://open.spotify.com/track/3BOCJTidTQjcF1Wtx23FEG) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kashmiri Apple](https://open.spotify.com/album/4uv4ayUNwsS959kshlPpxi) | 3:24 | 2022-03-07 | 2022-04-06 |
+| [Keh Bhi Do Na](https://open.spotify.com/track/3rBLnjB91z4KDGqIFIG3lB) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:07 | 2024-08-30 |  |
 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 | 2023-12-09 |
 | [Khaali Botal](https://open.spotify.com/track/5TWA9jc24sOjhO3Xlx1ZlG) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Khaali Botal](https://open.spotify.com/album/6YatkhZz9GNPjrh6Zyrdye) | 4:16 | 2024-04-16 | 2024-05-22 |
@@ -172,7 +173,7 @@
 | [Lagan Lagi](https://open.spotify.com/track/4cDQsIPjnQAHhUjLCN7rrr) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Lagan Lagi](https://open.spotify.com/album/2S0LmcQ8W7moq1KKFcDVgB) | 2:52 | 2023-11-29 | 2024-01-13 |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2021-12-10 | 2022-01-05 |
 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-02-13 | 2024-07-27 |
-| [Lehere Hai \(From "Saatho Saagar – Side B \- Hindi"\)](https://open.spotify.com/track/5EKK6TEGld16Bq4j6Xxuoh) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Shiny Das](https://open.spotify.com/artist/5VcrbyCZvtzeIRzJwTQz62), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Lehere Hai \(From "Saatho Saagar – Side B \- Hindi"\)](https://open.spotify.com/album/2FMXCxTyUu580iquf7Uh4K) | 5:23 | 2024-08-18 |  |
+| [Lehere Hai \(From "Saatho Saagar – Side B \- Hindi"\)](https://open.spotify.com/track/5EKK6TEGld16Bq4j6Xxuoh) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Shiny Das](https://open.spotify.com/artist/5VcrbyCZvtzeIRzJwTQz62), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Lehere Hai \(From "Saatho Saagar – Side B \- Hindi"\)](https://open.spotify.com/album/2FMXCxTyUu580iquf7Uh4K) | 5:23 | 2024-08-18 | 2024-08-31 |
 | [Let's Talk](https://open.spotify.com/track/0SF1PYDHRXxN8oCuYHraps) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Let's Talk](https://open.spotify.com/album/52pzhhnKRFK4ZaeKw84TRa) | 2:19 | 2023-07-14 | 2023-07-26 |
 | [Leta Jaijo Re \| Coke Studio Bharat](https://open.spotify.com/track/16yMLqQledh43yQ788cGzc) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Chotu Khan](https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p), [Jaipur Kawa Brass Band](https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Leta Jaijo Re \| Coke Studio Bharat](https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF) | 3:54 | 2024-06-25 |  |
 | [Lonely](https://open.spotify.com/track/0ikNx5sUNCl3yxIolX3On7) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Sorry, I'm Late](https://open.spotify.com/album/23wKdXfLP77QJSM18JOVUJ) | 3:16 | 2024-05-02 | 2024-06-08 |

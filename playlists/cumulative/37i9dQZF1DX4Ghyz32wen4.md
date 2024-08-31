@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Tiago PZK en portada.
 
-182 songs - 9 hr 38 min
+183 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-04-25 |  |
 | [Chica del Verano](https://open.spotify.com/track/415SDloEFOgfjFMgMhEOIY) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Chica del Verano](https://open.spotify.com/album/2BIYUpu5FC2ajpBJqpCEX9) | 3:38 | 2022-04-25 | 2023-12-16 |
 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 | 2022-04-25 | 2024-03-02 |
-| [Como Antes](https://open.spotify.com/track/6MAB4oCZtECXRj7vybPb40) | [Thega Diaz](https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Como Antes](https://open.spotify.com/album/6UPdsEVKadhjafllM5p2rc) | 3:00 | 2024-08-23 |  |
+| [Como Antes](https://open.spotify.com/track/6MAB4oCZtECXRj7vybPb40) | [Thega Diaz](https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Como Antes](https://open.spotify.com/album/6UPdsEVKadhjafllM5p2rc) | 3:00 | 2024-08-23 | 2024-08-31 |
 | [Conexión](https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 | 2023-04-07 |  |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-21 |  |
 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 | 2023-02-24 | 2023-07-22 |
@@ -180,6 +180,7 @@
 | [Tuuu](https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 3:55 | 2024-06-07 |  |
 | [Ténis Nuevos](https://open.spotify.com/track/1ZP97vG2hQ3sCw6z2fEOJx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Ténis Nuevos](https://open.spotify.com/album/3JGQ7wVltDcYjVyQqTqIFV) | 3:07 | 2022-04-25 | 2024-04-06 |
 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 | 2022-04-25 | 2024-06-01 |
+| [túnosabes](https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [túnosabes](https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq) | 3:02 | 2024-08-30 |  |
 | [Un Beso Más](https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ) | [Laranda](https://open.spotify.com/artist/7bE5OUC0Qr3LgqXBjvZPLO) | [Un Beso Más](https://open.spotify.com/album/79aNv7GinziKqhd89hgsQz) | 2:52 | 2022-04-25 | 2024-04-13 |
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-04-25 | 2024-06-01 |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2022-04-25 |  |

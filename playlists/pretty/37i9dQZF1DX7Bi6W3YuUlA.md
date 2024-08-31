@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover:  <a href="spotify:artist:7sP4SQ0WY6jfps1I19Ot7i">Fridayy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,562 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,587 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 7 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 |
 | 8 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
 | 9 | [Spirit Lead Me](https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Circle of Life](https://open.spotify.com/album/5rpuUYlJs7QuyER1ZZ75WO) | 2:04 |
-| 10 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
-| 11 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
+| 10 | [CAN YOU IMAGINE](https://open.spotify.com/track/57EFL5ZmeG4CS9wz1IqPLj) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Sage Nwigwe](https://open.spotify.com/artist/3qm4zbEVasOXRdiqZ7sLqF) | [HOOD HYMNS](https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA) | 4:18 |
+| 11 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 |
 | 12 | [Altar \(Remix\)](https://open.spotify.com/track/6NWAaoBVr2HS4gSg7Aj6i5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Altar \(Remix\)](https://open.spotify.com/album/7bv2SZNlD9fLlc0oaExzra) | 3:23 |
 | 13 | [The World](https://open.spotify.com/track/5MuCSfKyMqYXFHOUOZamYQ) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [The World](https://open.spotify.com/album/2Kv8p3JE1kS6H0znOkFwqS) | 2:05 |
 | 14 | [True Religion](https://open.spotify.com/track/0hw0pt9irKkXj3qmML0Vbe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [True Religion](https://open.spotify.com/album/6gIjCOKVtLmcFYQvr3sWjg) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Overflow](https://open.spotify.com/track/46D2mvIxmuEL5YhdBHsQ4L) | [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Overflow](https://open.spotify.com/album/2ce9aI6qj6mOQOKT1cHs3P) | 3:25 |
 | 80 | [Holy](https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO) | [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Holy](https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP) | 2:29 |
 
-Snapshot ID: `ZszPHwAAAAADgx0J5dNCPHwJ8m6hxnDv`
+Snapshot ID: `ZtGUxgAAAADpCoFtYU+ASmnEJkCWcyzu`

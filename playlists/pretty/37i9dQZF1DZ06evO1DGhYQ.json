@@ -1,12 +1,12 @@
 {
-  "description": "This Is ALI. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 7718,
+  "description": "This Is ALI. Los temas esenciales, todos en una lista.",
+  "num_followers": 7723,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAAg5+R1msi+WydFnLNytViE",
+  "snapshot_id": "Zs+6AAAAAADfGHvFKVwNx0SkWUYff8wr",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh"
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "\u92ed\u5150",
-          "url": "https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS"
         }
       ],
-      "duration_ms": 386933,
-      "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
-      "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "\u92ed\u5150",
+          "url": "https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS"
         }
       ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+      "duration_ms": 386933,
+      "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
+      "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
     },
     {
       "added_at": null,

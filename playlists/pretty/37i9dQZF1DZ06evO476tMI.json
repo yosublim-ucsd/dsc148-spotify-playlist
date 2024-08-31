@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 611821,
+  "num_followers": 611899,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAD6cX+MZDkS122bYpmKZ29d",
+  "snapshot_id": "Zs+6AAAAAAC/grFFnQdzRUP+/P6Bzluf",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Dream Duets",
-        "url": "https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "I Believe In You And Me",
-      "url": "https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 248266,
       "name": "Call You Tonight",
       "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Dream Duets",
+        "url": "https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "I Believe In You And Me",
+      "url": "https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 301573,
       "name": "The Prince Of Egypt (When You Believe)",
       "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
     }
   ],
   "unique_name": "This Is Whitney Houston",

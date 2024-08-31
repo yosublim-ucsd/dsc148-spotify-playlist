@@ -1,12 +1,12 @@
 {
   "description": "For\u00e7a Suprema entram na zona. ",
-  "num_followers": 180234,
+  "num_followers": 180258,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtD9cAAAAAAD5Ej3G2+yTvSefLuEX4d0",
+  "snapshot_id": "ZtGbDQAAAABlhQSAAqoqDmaU83GSLjq2",
   "tracks": [
     {
       "added_at": "2024-08-29 23:00:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2024-08-29 23:00:00",
       "album": {
+        "name": "BOOM BAP",
+        "url": "https://open.spotify.com/album/2QP8jmHaVOCePjwpN9JYvA"
+      },
+      "artists": [
+        {
+          "name": "Ravi Sardinha",
+          "url": "https://open.spotify.com/artist/5MKDNLnVYIjpSFLcoxNrm2"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 172840,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/5zOyqbibtAD5ZKAikhmpJG"
+    },
+    {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
         "name": "ANTI$$OCIAL",
         "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
       },
@@ -435,6 +455,26 @@
       "duration_ms": 185210,
       "name": "Equil\u00edbrio",
       "url": "https://open.spotify.com/track/3UHFYeLV41C0WjN6nn7sKd"
+    },
+    {
+      "added_at": "2024-08-29 23:00:00",
+      "album": {
+        "name": "BRIX",
+        "url": "https://open.spotify.com/album/1BUxNy6zFXmn5zmfHjAvY7"
+      },
+      "artists": [
+        {
+          "name": "Gersoncdc",
+          "url": "https://open.spotify.com/artist/1i2hDT55ljHDD5ltZvyeEZ"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "duration_ms": 77204,
+      "name": "BRIX",
+      "url": "https://open.spotify.com/track/2ESbGbEmwTgeLGlrnuwVoI"
     },
     {
       "added_at": "2024-08-29 23:00:00",
@@ -1451,26 +1491,6 @@
       "duration_ms": 237428,
       "name": "Gipsy Side",
       "url": "https://open.spotify.com/track/4jAoJGGgeFECTv5Yo1xqo5"
-    },
-    {
-      "added_at": "2024-08-29 23:00:00",
-      "album": {
-        "name": "BRIX",
-        "url": "https://open.spotify.com/album/1BUxNy6zFXmn5zmfHjAvY7"
-      },
-      "artists": [
-        {
-          "name": "Gersoncdc",
-          "url": "https://open.spotify.com/artist/1i2hDT55ljHDD5ltZvyeEZ"
-        },
-        {
-          "name": "AET",
-          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
-        }
-      ],
-      "duration_ms": 77204,
-      "name": "BRIX",
-      "url": "https://open.spotify.com/track/2ESbGbEmwTgeLGlrnuwVoI"
     }
   ],
   "unique_name": "Na Zona",

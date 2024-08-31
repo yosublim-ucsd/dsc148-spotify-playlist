@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/7e5yAIEwr3t3FIPXyrJJc6"
       },
@@ -1199,6 +1221,28 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/1vcJSetHNsAkpy4Cku1NYV"
+      },
+      "artists": [
+        {
+          "name": "Txmy",
+          "url": "https://open.spotify.com/artist/5sHlUJiG0VTOGG6g9u3TFF"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/3HjEyDg3hNuBWmAJwdhMA2"
+    },
+    {
+      "album": {
         "name": "Clark",
         "url": "https://open.spotify.com/album/13944rqffz0QLBUe04vY0r"
       },
@@ -1448,7 +1492,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 269078,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/3KYC7CK4Itjy7UXn1BaW67"
@@ -1632,7 +1676,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168263,
       "name": "Hills Have Eyes",
       "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
@@ -2226,6 +2270,24 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "album": {
@@ -3328,7 +3390,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 217090,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"

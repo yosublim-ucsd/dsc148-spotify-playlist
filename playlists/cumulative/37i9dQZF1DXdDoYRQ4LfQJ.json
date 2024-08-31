@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Bien al tiro con Herencia de Patrones and the hottest corridos in the U.S.!",
+  "description": "Bien al tiro con LEGADO. 7 and the hottest corridos in the U.S.!",
   "name": "Al Tiro",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 225416,
       "name": "ALFOMBRA ROJA",
       "url": "https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86"
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170794,
+      "name": "CLN",
+      "url": "https://open.spotify.com/track/1wvvxrdu8PyBkImXKvFzg2"
+    },
+    {
+      "album": {
         "name": "Comenc\u00e9 Sin Nada",
         "url": "https://open.spotify.com/album/2xMDIIkw7rSbZa5lP1oCdx"
       },
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173105,
       "name": "Dicen Y Dicen",
       "url": "https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp"
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 216110,
       "name": "El Tiempo es CARO",
       "url": "https://open.spotify.com/track/7CFKN6UFQ3iiHeRrW5UdfK"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147781,
       "name": "Gente Corriente - En Vivo",
       "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
@@ -3470,6 +3488,28 @@
       "duration_ms": 137991,
       "name": "Gente de Joaqu\u00edn",
       "url": "https://open.spotify.com/track/0QPRKsEBLRDGLYKWII9Kp5"
+    },
+    {
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5VkepErVQUGrabLNsUPQZz"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Gente De Trabajo",
+      "url": "https://open.spotify.com/track/2mEKAonomU58PwavJwYSlc"
     },
     {
       "album": {
@@ -3852,6 +3892,24 @@
       "duration_ms": 166821,
       "name": "Igualito a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
+    },
+    {
+      "album": {
+        "name": "Iniciales SV",
+        "url": "https://open.spotify.com/album/66T32PrE8X6ZHLLn9YgP0e"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152392,
+      "name": "Iniciales SV",
+      "url": "https://open.spotify.com/track/3cVI9zik0Se9ursMgFBw6R"
     },
     {
       "album": {
@@ -4452,6 +4510,24 @@
       "duration_ms": 205692,
       "name": "LA PERRIE",
       "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
+    },
+    {
+      "album": {
+        "name": "Ah Y Que?",
+        "url": "https://open.spotify.com/album/6CH5CWXWN2X09u7iNuMGN0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134933,
+      "name": "La Pluma de Wax",
+      "url": "https://open.spotify.com/track/15gJuTkHBa9Xri3FJckfnV"
     },
     {
       "album": {
@@ -5665,6 +5741,28 @@
     },
     {
       "album": {
+        "name": "No Son Doritos",
+        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "No Son Doritos",
+      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
+    },
+    {
+      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -5706,6 +5804,28 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201322,
+      "name": "On D Gas",
+      "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
     },
     {
       "album": {
@@ -6326,7 +6446,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156072,
       "name": "Que Sigan Llegando Las Pacas",
       "url": "https://open.spotify.com/track/75jkAn2RtEOwaPy3MFxJB4"
@@ -6472,7 +6592,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 238447,
       "name": "RUBICON",
       "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
@@ -7564,7 +7684,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 218794,
       "name": "Van y Vienen",
       "url": "https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN"
@@ -7678,6 +7798,28 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "album": {
+        "name": "Vivo a Mi Modo",
+        "url": "https://open.spotify.com/album/7xYLrO5jFTLofRjpRgG3vl"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144062,
+      "name": "Vivo a Mi Modo",
+      "url": "https://open.spotify.com/track/7aEy3Bm9PCsH9obDPkCGaN"
     },
     {
       "album": {

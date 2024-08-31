@@ -1,13 +1,29 @@
 {
   "description": "every day soul with a funky groove for a laid back day.",
-  "num_followers": 909398,
+  "num_followers": 909441,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAAlBkhCZujwqS0mp0BpEIVM",
+  "snapshot_id": "ZtFUigAAAAA4KLGG9pl+GgcbMqRgd3O3",
   "tracks": [
+    {
+      "added_at": "2024-08-30 05:11:38",
+      "album": {
+        "name": "Oh I",
+        "url": "https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 237289,
+      "name": "Oh I",
+      "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {

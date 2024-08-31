@@ -4,7 +4,7 @@
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-251 songs - 13 hr 41 min
+252 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Sexo Virtual](https://open.spotify.com/track/0giiXonRhODYy4J1iy4Lb3) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:28 | 2022-01-04 | 2022-07-29 |
 | [Sexo Virtual](https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:28 | 2022-07-23 | 2024-04-19 |
 | [Señorita](https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Señorita](https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC) | 3:11 | 2023-12-15 |  |
+| [Shampoo de Coco](https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Shampoo de Coco](https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ) | 4:00 | 2024-08-30 |  |
 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 | 2022-01-04 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 |  |
 | [Sin Cara](https://open.spotify.com/track/3Nv8Mje384DgxNqdME7oS8) | [Ochy](https://open.spotify.com/artist/1Ca0XeiVvKBPIhhWNq1Tp7), [Lil Willy 666](https://open.spotify.com/artist/4IJtotrZDp8wBzmfinar49) | [Sin Cara](https://open.spotify.com/album/3YP2r8HgW5q7zTOV5EsOkD) | 2:25 | 2023-04-21 | 2023-04-29 |
@@ -246,7 +247,7 @@
 | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa) | 3:47 | 2022-01-04 | 2022-07-28 |
 | [Tussi](https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Tussi](https://open.spotify.com/album/4PCoivnY82jomNXqvOkEhC) | 3:09 | 2022-03-26 | 2024-01-19 |
 | [Tírame](https://open.spotify.com/track/5s02iWgBdqnf75q0xTdvj4) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Astros](https://open.spotify.com/album/0ABNkRjooiKfK9ZNgWrCK0) | 3:56 | 2023-04-21 | 2023-08-26 |
-| [Tú Me Mientes](https://open.spotify.com/track/6cjXpb4vraCUSSZA7tHtWb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Tú Me Mientes](https://open.spotify.com/album/4VOFDUp6KaKOe1r68ko701) | 2:58 | 2023-03-24 |  |
+| [Tú Me Mientes](https://open.spotify.com/track/6cjXpb4vraCUSSZA7tHtWb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Tú Me Mientes](https://open.spotify.com/album/4VOFDUp6KaKOe1r68ko701) | 2:58 | 2023-03-24 | 2024-08-31 |
 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 | 2024-05-31 |  |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-29 |  |
 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 | 2022-01-04 | 2024-06-01 |

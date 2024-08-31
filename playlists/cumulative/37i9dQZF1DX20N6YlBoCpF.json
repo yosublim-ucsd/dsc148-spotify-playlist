@@ -7033,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "Hande Op My Lyf",
+        "url": "https://open.spotify.com/album/3VVDXEWmrvsKJNXi8ItmsK"
+      },
+      "artists": [
+        {
+          "name": "Armand Joubert",
+          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152800,
+      "name": "Hande Op My Lyf",
+      "url": "https://open.spotify.com/track/5L5vGltByF0uGTPUImcTh4"
+    },
+    {
+      "album": {
         "name": "Hanrie Visagie",
         "url": "https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc"
       },

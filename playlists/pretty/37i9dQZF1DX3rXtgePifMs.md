@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,199 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,316 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 89 | [EAZI](https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil) | [Young Eman](https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL) | [EAZI](https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM) | 2:30 |
 | 90 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
 | 91 | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU) | 4:27 |
-| 92 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 |
-| 93 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
+| 92 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
+| 93 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 |
 | 94 | [Pemmican](https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh) | [La Fine Equipe](https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Pemmican](https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV) | 3:32 |
 | 95 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
 | 96 | [EYELIDS](https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2), [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [EYELIDS](https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp) | 2:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: L.O.S.T
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,385 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,389 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 63 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
 | 64 | [KWK Freestyle](https://open.spotify.com/track/0xVQzDzjvUG50iqzB5zvnZ) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [KWK Freestyle](https://open.spotify.com/album/77ubz4IumpReGRB237fLkm) | 1:39 |
 | 65 | [nova](https://open.spotify.com/track/0RYnLHPWOZvhOTUtCPRzyQ) | [MK woop](https://open.spotify.com/artist/3AUCOiwJCLQmRotHBdCW7j) | [nova](https://open.spotify.com/album/1ZjYdNWYL3PSeK9spX5vhI) | 1:35 |
-| 66 | [Conclusion](https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE) | [Conclusion](https://open.spotify.com/album/7oEhBHRIGkwc4QOBFB1iBP) | 3:14 |
+| 66 | [Conclusion](https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Daz](https://open.spotify.com/artist/1ql319AT3aoeWvPJwpl7M8) | [Conclusion](https://open.spotify.com/album/7oEhBHRIGkwc4QOBFB1iBP) | 3:14 |
 | 67 | [Show me more](https://open.spotify.com/track/5qsOUdWNzsexD6vxR3hz46) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [Show me more](https://open.spotify.com/album/3mS0jTaqNqhn69RaOM8UU4) | 3:48 |
 | 68 | [hotori](https://open.spotify.com/track/1DqXABInhcOmj1UDq9yman) | [daiju](https://open.spotify.com/artist/2DwtlKDOdPzRd7zabvi71h) | [hotori](https://open.spotify.com/album/6BJOYesM1tzRhUd59rxcKA) | 2:14 |
 | 69 | [Motion](https://open.spotify.com/track/187nA3OPZ0PQz2Z1b8NbJU) | [BFN TOKYOTRILL](https://open.spotify.com/artist/1VuOxzoNAxcI7c2QROGWM2), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Maple.Maple.Maple](https://open.spotify.com/artist/63KWo0zGBDnDivb9LirzTA) | [Motion](https://open.spotify.com/album/71qr6MJGkwMw9RmNV63kte) | 4:21 |

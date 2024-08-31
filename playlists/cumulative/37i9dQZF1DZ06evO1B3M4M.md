@@ -4,7 +4,7 @@
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 42 min
+87 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Molossus](https://open.spotify.com/track/1N7LRc9YuyMjWKEkrmlogM) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:49 | 2023-11-10 |  |
 | [Newt and Leta](https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:32 | 2023-11-10 |  |
 | [Newt Says Goodbye to Tina / Jacob's Bakery](https://open.spotify.com/track/20LsXSYrH1M3mk1COyPVrg) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 3:26 | 2023-11-10 |  |
+| [Noah Visits \- Score](https://open.spotify.com/track/7zKkGdLK3y77xvOksoUdrT) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 2:35 | 2024-08-31 |  |
 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 | 2023-11-10 |  |
 | [Primrose \- From "The Hunger Games: Mockingjay, Part 2" Soundtrack](https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay, Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK) | 3:16 | 2023-11-10 |  |
 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 | 2023-11-10 |  |
@@ -74,7 +75,7 @@
 | [Snow Lands on Top](https://open.spotify.com/track/6tNOpqQtBGUDlgXKpptZke) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 3:29 | 2023-12-13 | 2024-02-01 |
 | [Solomon Vandy](https://open.spotify.com/track/2bx0bDhlf5i70c2NYjtahs) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 2:11 | 2023-11-10 |  |
 | [Tenuous Winners/Returning Home](https://open.spotify.com/track/3j0anhPHIuTukHhyGlkwvp) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 3:25 | 2023-11-10 | 2024-02-10 |
-| [The Cave \- From "Dinosaur"/Score](https://open.spotify.com/track/3reXATR4HeUlN4Y0Ba967f) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur](https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi) | 3:40 | 2024-07-30 |  |
+| [The Cave \- From "Dinosaur"/Score](https://open.spotify.com/track/3reXATR4HeUlN4Y0Ba967f) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur](https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi) | 3:40 | 2024-07-30 | 2024-08-31 |
 | [The Crystal Chamber \- From "Atlantis: The Lost Empire"/Score](https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Atlantis: The Lost Empire](https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq) | 3:45 | 2023-11-10 |  |
 | [The Gravel Road \- Score](https://open.spotify.com/track/5ynPIIbdGo2OBoX9vcnUo5) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 4:31 | 2023-11-10 |  |
 | [The Hanging Tree](https://open.spotify.com/track/416MsJxvxSKY96DCmbJIRs) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Jennifer Lawrence](https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 3:38 | 2023-11-10 |  |

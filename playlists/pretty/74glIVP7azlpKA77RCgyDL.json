@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gore.",
-  "num_followers": 8685,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gojira.",
+  "num_followers": 8686,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMkhRGauRN0X2B5Z91ZWtv8gUaopkn",
+  "snapshot_id": "AAAMmyRb4PduZgk4HvsQ/t/MNmg0ikJa",
   "tracks": [
+    {
+      "added_at": "2024-08-30 20:14:53",
+      "album": {
+        "name": "Mea Culpa (Ah! \u00c7a ira!)",
+        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Mea Culpa (Ah! \u00c7a ira!)",
+      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
+    },
+    {
+      "added_at": "2024-08-30 20:15:07",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F"
+      },
+      "artists": [
+        {
+          "name": "PUREST FORM",
+          "url": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI"
+    },
+    {
+      "added_at": "2024-08-30 20:15:23",
+      "album": {
+        "name": "The Crow (In Memory of B.L.)",
+        "url": "https://open.spotify.com/album/7sLddcx0B1EQv5n4h5u5XC"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "The Crow (In Memory of B.L.)",
+      "url": "https://open.spotify.com/track/4LtCHGqnwgHNQ6wNKd7R1N"
+    },
+    {
+      "added_at": "2024-08-30 20:15:37",
+      "album": {
+        "name": "RAINDROP",
+        "url": "https://open.spotify.com/album/1refX4mkVGNWliJFd5I54A"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "duration_ms": 170988,
+      "name": "RAINDROP",
+      "url": "https://open.spotify.com/track/64BmfG10Xh0L3CG1B1UgVP"
+    },
+    {
+      "added_at": "2024-08-30 20:15:53",
+      "album": {
+        "name": "Permanence in Sleep",
+        "url": "https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 216505,
+      "name": "Permanence in Sleep",
+      "url": "https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf"
+    },
+    {
+      "added_at": "2024-08-30 20:16:07",
+      "album": {
+        "name": "Every Bridge Burning",
+        "url": "https://open.spotify.com/album/269SQRalfaebSVSDnIQe1g"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 63180,
+      "name": "Punishment Map",
+      "url": "https://open.spotify.com/track/19oktfFwUibGPjfr27grUk"
+    },
     {
       "added_at": "2024-08-23 20:07:37",
       "album": {

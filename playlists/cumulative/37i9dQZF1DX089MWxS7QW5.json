@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Gyeong Ree(\uacbd\ub9ac))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: merrymerryseoul(\uba54\ub9ac\uba54\ub9ac\uc11c\uc6b8))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -576,6 +576,24 @@
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/6EcuIThgkeOxxtjmf4lHSf"
+      },
+      "artists": [
+        {
+          "name": "Eric Minz",
+          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/69zoAcTmHBiBlum588OmzB"
     },
     {
       "album": {
@@ -1955,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "To you who has never been hurt",
+        "url": "https://open.spotify.com/album/69lTEKAvPqfMKqahRoATWQ"
+      },
+      "artists": [
+        {
+          "name": "merrymerryseoul",
+          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
+        },
+        {
+          "name": "BlankOnSpeaker",
+          "url": "https://open.spotify.com/artist/3zuKF08k13AmLcJtujyYNa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "delivery (feat. BlankOnSpeaker)",
+      "url": "https://open.spotify.com/track/4jFEhJRxub8e7IzWMEP6K9"
+    },
+    {
+      "album": {
         "name": "Deserve",
         "url": "https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs"
       },
@@ -2862,6 +2902,28 @@
       "duration_ms": 211146,
       "name": "Good Night (feat. Claire Young)",
       "url": "https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2"
+    },
+    {
+      "album": {
+        "name": "Good Night Good Morning (GNGM)",
+        "url": "https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG"
+      },
+      "artists": [
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        },
+        {
+          "name": "Richboy Hardy",
+          "url": "https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Good Night Good Morning (GNGM)",
+      "url": "https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30"
     },
     {
       "album": {
@@ -6268,6 +6330,28 @@
       "duration_ms": 200853,
       "name": "Summer",
       "url": "https://open.spotify.com/track/7AWXUa5Sjpm9mcd38SMT6S"
+    },
+    {
+      "album": {
+        "name": "Summer Night",
+        "url": "https://open.spotify.com/album/1qedG8sbfkuESe0OtH9M76"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Pat Kiloran",
+          "url": "https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "Summer Night (feat. Pat Kiloran)",
+      "url": "https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3"
     },
     {
       "album": {

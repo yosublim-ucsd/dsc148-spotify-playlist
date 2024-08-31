@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Blood Money",
+        "url": "https://open.spotify.com/album/4A0CeSpGWbvGQ57rBnTHj4"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203640,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/3OPlxnryZhFUM67URhtbMX"
+    },
+    {
+      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 239843,
       "name": "If You're Hurting",
       "url": "https://open.spotify.com/track/7ej8bwgrr3mW61UMgddjb5"

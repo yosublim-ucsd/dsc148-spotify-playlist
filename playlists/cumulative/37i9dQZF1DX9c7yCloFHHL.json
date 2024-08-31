@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Jon Hopkins on cover.",
   "name": "Ambient X",
   "tracks": [
     {
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 295394,
       "name": "After the Flood",
       "url": "https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 344493,
       "name": "Au couchant",
       "url": "https://open.spotify.com/track/7DozGDrYgAFPULqQNU7RMM"
@@ -4083,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "cognition",
+        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
+      },
+      "artists": [
+        {
+          "name": "theta.wav",
+          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
+        },
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "cognition",
+      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
+    },
+    {
+      "album": {
         "name": "cold summer // hazy memories",
         "url": "https://open.spotify.com/album/0eEqJd1VqXFNGTjGCd7IK5"
       },
@@ -4901,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Delirium Hums",
+        "url": "https://open.spotify.com/album/6hbIu6PkEyPMs3NDJ4NVxy"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Delirium Hums",
+      "url": "https://open.spotify.com/track/3HUbt3IU8OmoQNDmGjNlGF"
+    },
+    {
+      "album": {
         "name": "Lifeglow",
         "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
       },
@@ -5318,7 +5358,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208000,
       "name": "Drift Through the Need",
       "url": "https://open.spotify.com/track/15mfP42t0kKFtxbWVakQWa"
@@ -5387,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/5wyKMFx6OaRYRqN1NidyVa"
       },
@@ -5424,6 +5482,24 @@
       "duration_ms": 311000,
       "name": "Du repos",
       "url": "https://open.spotify.com/track/1HTyYBqbbyKH8zHRgUru2q"
+    },
+    {
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB"
     },
     {
       "album": {
@@ -6084,7 +6160,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 249081,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
@@ -11536,7 +11612,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213559,
       "name": "Movement IV",
       "url": "https://open.spotify.com/track/53oPqccucQQQ4QljRwVIhD"
@@ -11656,6 +11732,24 @@
       "duration_ms": 182400,
       "name": "Mugen",
       "url": "https://open.spotify.com/track/4RYclrCAAA1jUtLCjKjHJr"
+    },
+    {
+      "album": {
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "album": {
@@ -12209,6 +12303,24 @@
     },
     {
       "album": {
+        "name": "Night Horns (edit)",
+        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503313,
+      "name": "Night Horns (edit)",
+      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
+    },
+    {
+      "album": {
         "name": "Night Sky / Sheldon's Weight",
         "url": "https://open.spotify.com/album/5ulXP3zXjIZciwpN1JkxhU"
       },
@@ -12362,7 +12474,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 124615,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl"
@@ -13461,6 +13573,28 @@
     },
     {
       "album": {
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283302,
+      "name": "part i - altar",
+      "url": "https://open.spotify.com/track/7GnKvXEuN9XSdRhZR3MAI8"
+    },
+    {
+      "album": {
         "name": "Particle Stream",
         "url": "https://open.spotify.com/album/4pFIhgaL41EboFu90I9hwd"
       },
@@ -14416,7 +14550,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186368,
       "name": "Quietus",
       "url": "https://open.spotify.com/track/462xPwNdnOLE0yEAmbcgrO"
@@ -14874,7 +15008,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136363,
       "name": "rescue",
       "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
@@ -16272,7 +16406,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 138818,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/4PJ6Zk5sxmk2oO3Yo0zS6V"
@@ -17379,6 +17513,24 @@
     },
     {
       "album": {
+        "name": "sync",
+        "url": "https://open.spotify.com/album/3E1xKyTp6qvfGkfG4jT7aL"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "sync",
+      "url": "https://open.spotify.com/track/3bmq3UVpNIuIVSgJFOGtl1"
+    },
+    {
+      "album": {
         "name": "taiyla",
         "url": "https://open.spotify.com/album/6dfLLisBaTEaAGPm41pQBz"
       },
@@ -18276,6 +18428,24 @@
       "duration_ms": 129231,
       "name": "The Statics of Void",
       "url": "https://open.spotify.com/track/5pqVG5icSVQHkRV67Mg3RK"
+    },
+    {
+      "album": {
+        "name": "The Third Mind Movements",
+        "url": "https://open.spotify.com/album/2ESwib8RTeqYR6JuLIhp5b"
+      },
+      "artists": [
+        {
+          "name": "Throbbing Gristle",
+          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480880,
+      "name": "The Third Mind: First Movement",
+      "url": "https://open.spotify.com/track/7cJrSGtHSkOKGuRL2Vx3XZ"
     },
     {
       "album": {
@@ -19828,7 +19998,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151276,
       "name": "ur my safe place",
       "url": "https://open.spotify.com/track/58RZwI0FcNW7pvyEf4Fxhu"
@@ -20582,6 +20752,28 @@
       "duration_ms": 382773,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+    },
+    {
+      "album": {
+        "name": "West Coast Sky Forever",
+        "url": "https://open.spotify.com/album/2cm8wj00slKNVHVohHWYbY"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343387,
+      "name": "West Coast Sky Forever",
+      "url": "https://open.spotify.com/track/4V3gIhT4zqKCXHVkAeuUj1"
     },
     {
       "album": {

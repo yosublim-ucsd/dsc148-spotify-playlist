@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 17342,
+  "num_followers": 17364,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Overflow (Live)",
-        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 372736,
-      "name": "Overflow - Live",
-      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -819,6 +799,26 @@
       "duration_ms": 172035,
       "name": "Altar (Hosanna)",
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 372736,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
     },
     {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "En Toi",
+        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
+      },
+      "artists": [
+        {
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+        }
+      ],
+      "duration_ms": 193417,
+      "name": "En Toi",
+      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Ghetto Gospel",
@@ -975,22 +991,6 @@
       "duration_ms": 180404,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "En Toi",
-        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
-      },
-      "artists": [
-        {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
-        }
-      ],
-      "duration_ms": 193417,
-      "name": "En Toi",
-      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
     },
     {
       "added_at": "2024-03-29 00:01:00",

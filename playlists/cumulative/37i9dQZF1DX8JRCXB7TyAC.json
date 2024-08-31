@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 150583,
       "name": "Badmash Bateu",
       "url": "https://open.spotify.com/track/2jnwvcGoSIxuY4xLAnJuzT"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169740,
       "name": "Banda 2 Numbri",
       "url": "https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k"
@@ -598,6 +598,24 @@
       "duration_ms": 207750,
       "name": "Chore Haryane Aale",
       "url": "https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS"
+    },
+    {
+      "album": {
+        "name": "Choudhar",
+        "url": "https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C"
+      },
+      "artists": [
+        {
+          "name": "Raj Mawer",
+          "url": "https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173392,
+      "name": "Choudhar",
+      "url": "https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK"
     },
     {
       "album": {
@@ -1721,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Original Gangster",
+        "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181907,
+      "name": "Original Gangster",
+      "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"
+    },
+    {
+      "album": {
         "name": "Pahalwani",
         "url": "https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl"
       },
@@ -1794,7 +1830,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204000,
       "name": "Pataka",
       "url": "https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE"
@@ -2102,6 +2138,28 @@
       "duration_ms": 128796,
       "name": "Samjhota (feat. Kay D)",
       "url": "https://open.spotify.com/track/2oHMFQHewclqxeNP8zt7yZ"
+    },
+    {
+      "album": {
+        "name": "Street Fighter",
+        "url": "https://open.spotify.com/album/6w1kw9aXKpC3tJri75Nxyp"
+      },
+      "artists": [
+        {
+          "name": "Parv Dahiya",
+          "url": "https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2"
+        },
+        {
+          "name": "Tarun Haritas",
+          "url": "https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Street Fighter",
+      "url": "https://open.spotify.com/track/6ezpV5Ed5K3pxbgSp0aNti"
     },
     {
       "album": {

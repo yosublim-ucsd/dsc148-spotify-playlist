@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: ROA, J Abdiel & Slayter ",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Jory Boy ",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180705,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4qTUbEQBrQOuw8fyTj4ZcX"
@@ -3138,6 +3138,24 @@
       "duration_ms": 156000,
       "name": "Be Con Be",
       "url": "https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR"
+    },
+    {
+      "album": {
+        "name": "Bebesota",
+        "url": "https://open.spotify.com/album/5eWcJIYaBeNTKD3aQNNxbz"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173478,
+      "name": "Bebesota",
+      "url": "https://open.spotify.com/track/5hvy6htkXtQ4VV6ST1dUFr"
     },
     {
       "album": {
@@ -5904,7 +5922,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166523,
       "name": "Cuando Te Lo Meto",
       "url": "https://open.spotify.com/track/1aGkg1d9Yg7KfjK6XPw2Zr"
@@ -7634,7 +7652,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 158000,
       "name": "D\u00eda 1",
       "url": "https://open.spotify.com/track/42XTcUI03QpH6f8lwnF1Yp"
@@ -10619,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/6e8pv6FfghnBltcOz0cg0C"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223280,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/4QAnf806tToaBuvbiv69X5"
+    },
+    {
+      "album": {
         "name": "Groser\u00edas",
         "url": "https://open.spotify.com/album/7Hamo1AB1RJBrRcSFGgQrT"
       },
@@ -10902,7 +10938,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 114871,
       "name": "Hannah Montana II",
       "url": "https://open.spotify.com/track/5WU9zJ2jJD4BR1yUBByMkh"
@@ -15253,6 +15289,24 @@
     },
     {
       "album": {
+        "name": "Media Hora",
+        "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123157,
+      "name": "Media Hora",
+      "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
+    },
+    {
+      "album": {
         "name": "Medio Crazy Remix",
         "url": "https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV"
       },
@@ -16738,6 +16792,24 @@
       "duration_ms": 240325,
       "name": "Na Oficial",
       "url": "https://open.spotify.com/track/5bWqWZMZQanGyoUvCwAUEA"
+    },
+    {
+      "album": {
+        "name": "Nada Bueno",
+        "url": "https://open.spotify.com/album/78e7uv3jaTl9M5RogtWwWQ"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218320,
+      "name": "Nada Bueno",
+      "url": "https://open.spotify.com/track/5HQfQAVopbv3mWJu0zzNG4"
     },
     {
       "album": {
@@ -18306,6 +18378,28 @@
       "duration_ms": 188571,
       "name": "Ojos Azules",
       "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
+    },
+    {
+      "album": {
+        "name": "BRILLAR",
+        "url": "https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "OJOS CHINOS",
+      "url": "https://open.spotify.com/track/7MxI3DF0HXlRhGDwrJOg7r"
     },
     {
       "album": {
@@ -20076,7 +20170,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 179612,
       "name": "PERROS&GATA$",
       "url": "https://open.spotify.com/track/3hptpaHCmAuuGGmOZu1pQM"
@@ -22279,6 +22373,28 @@
     },
     {
       "album": {
+        "name": "Rookie Veterana",
+        "url": "https://open.spotify.com/album/7FKlxmUeEZWObtKIZrdLPN"
+      },
+      "artists": [
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        },
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Rookie Veterana",
+      "url": "https://open.spotify.com/track/1lAM165PFtxG4PwGFQjrML"
+    },
+    {
+      "album": {
         "name": "Ros\u00e9",
         "url": "https://open.spotify.com/album/1QaqNUdxLTMsGOK8ev19If"
       },
@@ -22945,6 +23061,24 @@
     },
     {
       "album": {
+        "name": "Shampoo de Coco",
+        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "Shampoo de Coco",
+      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "album": {
         "name": "She Got It",
         "url": "https://open.spotify.com/album/27brOanVNqEz6FDkwsdOU4"
       },
@@ -22956,7 +23090,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142813,
       "name": "She Got It",
       "url": "https://open.spotify.com/track/1aXhmqE6PL3qTOlBHTdH6O"
@@ -23876,7 +24010,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182091,
       "name": "SOMOS 3",
       "url": "https://open.spotify.com/track/66YbCQfo2jDuvcaOSk74FR"
@@ -24284,7 +24418,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 176322,
       "name": "SUNDAY",
       "url": "https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh"
@@ -24732,7 +24866,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215872,
       "name": "TE AM\u00c9",
       "url": "https://open.spotify.com/track/4YBdUCMPLvyrKZ6P6PXTcn"
@@ -24981,6 +25115,28 @@
     },
     {
       "album": {
+        "name": "Te Morite",
+        "url": "https://open.spotify.com/album/1iqx5G6AfECGiuI2gfC9Kx"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121071,
+      "name": "Te Morite",
+      "url": "https://open.spotify.com/track/520zY3iBFbIpJ5FJNoVt3i"
+    },
+    {
+      "album": {
         "name": "Te Perdi\u00f3",
         "url": "https://open.spotify.com/album/3pU19EqyURDFDKwX37XC6R"
       },
@@ -24996,6 +25152,24 @@
       "duration_ms": 197333,
       "name": "Te Perdi\u00f3",
       "url": "https://open.spotify.com/track/3kJcccOmysUkWWyOQvxKIw"
+    },
+    {
+      "album": {
+        "name": "Te Pregunto",
+        "url": "https://open.spotify.com/album/6XDLgNKVXh7EEQCoDo8acg"
+      },
+      "artists": [
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163652,
+      "name": "Te Pregunto",
+      "url": "https://open.spotify.com/track/7t8mCx8GXayFA4FstW6ny2"
     },
     {
       "album": {
@@ -26052,7 +26226,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169973,
       "name": "Tu Cuerpo Me Llama",
       "url": "https://open.spotify.com/track/6eBuArYi54c57MGtiHvEPH"
@@ -26082,6 +26256,28 @@
       "duration_ms": 249463,
       "name": "TU DIABLO",
       "url": "https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL"
+    },
+    {
+      "album": {
+        "name": "Tu Foto",
+        "url": "https://open.spotify.com/album/2f6NVmG7zzBbY1CXssSroV"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165603,
+      "name": "Tu Foto",
+      "url": "https://open.spotify.com/track/2rFEHX1rvX0Qp4xxJDYIgm"
     },
     {
       "album": {
@@ -26192,6 +26388,40 @@
       "duration_ms": 308252,
       "name": "TU ME QUIERES? REMIXXX (feat. Lucky Brown)",
       "url": "https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37"
+    },
+    {
+      "album": {
+        "name": "TU NO ENTIENDE",
+        "url": "https://open.spotify.com/album/0Uqpi5vgn3s19xMRhKdBET"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        },
+        {
+          "name": "Tito Flow",
+          "url": "https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253124,
+      "name": "TU NO ENTIENDE",
+      "url": "https://open.spotify.com/track/4OOwxGbZguIXiuRyfoPfc4"
     },
     {
       "album": {
@@ -28430,7 +28660,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 89334,
+  "num_followers": 89416,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sommer i Norge",
-        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
+        "name": "N\u00e5 har du meg",
+        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
       },
       "artists": [
         {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
         }
       ],
-      "duration_ms": 169248,
-      "name": "Sommer i Norge",
-      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
+      "duration_ms": 221427,
+      "name": "N\u00e5 har du meg",
+      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -399,22 +395,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "N\u00e5 har du meg",
-        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "N\u00e5 har du meg",
-      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 218306,
       "name": "Catalonia",
       "url": "https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sommer i Norge",
+        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 169248,
+      "name": "Sommer i Norge",
+      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
         "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 135480,
       "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
       "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Som sommaren",
+        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 228624,
+      "name": "Som sommaren",
+      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+        "name": "Klisje",
+        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
       },
       "artists": [
         {
           "name": "Vidar Villa",
           "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Celine Madelen",
+          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
         }
       ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
+      "duration_ms": 138632,
+      "name": "Klisje",
+      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1147,22 +1151,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Ti tusen",
-        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
-      },
-      "artists": [
-        {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Ti tusen",
-      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Uten d\u00e6",
         "url": "https://open.spotify.com/album/23J8fC5yRfsBoIsiUfycQw"
       },
@@ -1179,6 +1167,22 @@
       "duration_ms": 194693,
       "name": "Uten d\u00e6",
       "url": "https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Ti tusen",
+        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
+      },
+      "artists": [
+        {
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Ti tusen",
+      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Klisje",
-        "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
       },
       "artists": [
         {
           "name": "Vidar Villa",
           "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Celine Madelen",
-          "url": "https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE"
         }
       ],
-      "duration_ms": 138632,
-      "name": "Klisje",
-      "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Nostalgi",
-        "url": "https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w"
-      },
-      "artists": [
-        {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
-        }
-      ],
-      "duration_ms": 157086,
-      "name": "Nostalgi",
-      "url": "https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Hvalfangerbyen",
-        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+        "name": "Nostalgi",
+        "url": "https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w"
       },
       "artists": [
         {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
         }
       ],
-      "duration_ms": 200531,
-      "name": "Hvalfangerbyen",
-      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+      "duration_ms": 157086,
+      "name": "Nostalgi",
+      "url": "https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 134920,
       "name": "Synnes sumarvise",
       "url": "https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Hvalfangerbyen",
+        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Hvalfangerbyen",
+      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "ELLE",
-        "url": "https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0"
+        "name": "Nakna",
+        "url": "https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B"
       },
       "artists": [
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        },
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 185061,
-      "name": "Hate Being Alone",
-      "url": "https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa"
+      "duration_ms": 192080,
+      "name": "Nakna",
+      "url": "https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

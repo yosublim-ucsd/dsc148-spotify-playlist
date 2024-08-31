@@ -1,107 +1,115 @@
 {
-  "description": "\u30c7\u30a3\u30ba\u30cb\u30fc\u306e\u4eba\u6c17\u66f2\u3092\u96c6\u3081\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u266a\u30c7\u30a3\u30ba\u30cb\u30fc\u6620\u753b\u6700\u65b0\u4f5c\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f\u306e\u6700\u65b0\u697d\u66f2\u304b\u3089\u3001\u300e\u30ea\u30c8\u30eb\u30fb\u30de\u30fc\u30e1\u30a4\u30c9\u300f\u300e\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\u300f\u300e\u30a2\u30e9\u30b8\u30f3\u300f\u7b49\u306e\u540d\u66f2\u3001\u30d1\u30fc\u30af\u306e\u5927\u4eba\u6c17\u697d\u66f2\u307e\u3067\u30bb\u30ec\u30af\u30c8\uff01",
-  "num_followers": 136930,
+  "description": "\u30c7\u30a3\u30ba\u30cb\u30fc\u306e\u4eba\u6c17\u66f2\u3092\u96c6\u3081\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u266a\u3000\u30c7\u30a3\u30ba\u30cb\u30fc\u6700\u65b0\u697d\u66f2\u304b\u3089\u3001\u300e\u30e2\u30a2\u30ca\u3068\u4f1d\u8aac\u306e\u6d77\u300f\u3001\u300e\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\u300f\u3001\u300e\u30a2\u30e9\u30b8\u30f3\u300f\u3001\u300e\u30e9\u30a4\u30aa\u30f3\u30fb\u30ad\u30f3\u30b0\u300f\u7b49\u306e\u540d\u66f2\u3001\u30d1\u30fc\u30af\u306e\u5927\u4eba\u6c17\u66f2\u307e\u3067\u30bb\u30ec\u30af\u30c8\uff01",
+  "num_followers": 136938,
   "original_name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30d2\u30c3\u30c4\u30fb\u30b8\u30e3\u30d1\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiC24AAAAAAMSDrpWhFvX8LtGgfsYVHh",
+  "snapshot_id": "ZtGArwAAAAABZg+vZi4wIxUifP/Ux6Nu",
   "tracks": [
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "\u6620\u753b\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f \u30a2\u30fc\u30b7\u30e3\u5f79\uff08\u65e5\u672c\u7248\u58f0\u512a\uff09\u751f\u7530\u7d75\u68a8\u82b1 \u30b3\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/5xNHDQYEiG51CQ23P0nXr7"
+        "name": "Journey to Fantasy Springs",
+        "url": "https://open.spotify.com/album/77KinH50KVf3go6a9lcsqM"
       },
       "artists": [
         {
-          "name": "\u6620\u753b\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f",
-          "url": "https://open.spotify.com/artist/3k7F0Acqg8IeqpZvlQlrHX"
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
         }
       ],
-      "duration_ms": 49849,
-      "name": "\u6620\u753b\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f \u30a2\u30fc\u30b7\u30e3\u5f79\uff08\u65e5\u672c\u7248\u58f0\u512a\uff09\u751f\u7530\u7d75\u68a8\u82b1 \u30b3\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/2yp1HUTF9fcv3ReIWr2KmP"
+      "duration_ms": 213000,
+      "name": "Journey to Fantasy Springs",
+      "url": "https://open.spotify.com/track/6QgiiWKJbWgBm924zCCakc"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Wish (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
+        "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
       },
       "artists": [
         {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+          "name": "Hiroshi Hatanaka",
+          "url": "https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529"
         },
         {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+          "name": "Mari Okonogi",
+          "url": "https://open.spotify.com/artist/1U4dK2EVPtKAZJzP7xw4vF"
         }
       ],
-      "duration_ms": 147946,
-      "name": "Welcome To Rosas",
-      "url": "https://open.spotify.com/track/5c3bvB7zb0Oasv0djPgkWm"
+      "duration_ms": 223693,
+      "name": "I See the Light - Japanese Version",
+      "url": "https://open.spotify.com/track/4g345xmbPGGHDSv5sMLEsS"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Wish (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
+        "name": "Fantasy Springs Music Album",
+        "url": "https://open.spotify.com/album/2naNMAL7tAQgqRRGeR3o2j"
       },
       "artists": [
         {
-          "name": "Masaharu Fukuyama",
-          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
-        },
-        {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
         }
       ],
-      "duration_ms": 198920,
-      "name": "At All Costs",
-      "url": "https://open.spotify.com/track/3yt7qLa3QDQouNYVJ0qwaz"
+      "duration_ms": 488720,
+      "name": "Peter Pan's Never Land Adventure - Ride-Through Mix",
+      "url": "https://open.spotify.com/track/2RLlKRhrQTZ5ezvwV1NhSQ"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
+        "name": "Moana (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/6EG3aBo1p7mVAgZSiMZbL0"
       },
       "artists": [
         {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+          "name": "Tomona Yabiku",
+          "url": "https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz"
         }
       ],
-      "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
+      "duration_ms": 163400,
+      "name": "How Far I'll Go - Japanese Version",
+      "url": "https://open.spotify.com/track/4zNqKUl8mBixSJ9JgTanfS"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "I'm A Star (From \"Wish\")",
-        "url": "https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8"
+        "name": "Fantasy Springs Music Album",
+        "url": "https://open.spotify.com/album/2naNMAL7tAQgqRRGeR3o2j"
       },
       "artists": [
         {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
         }
       ],
-      "duration_ms": 174786,
-      "name": "I'm A Star - From \"Wish\"",
-      "url": "https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re"
+      "duration_ms": 430026,
+      "name": "Anna and Elsa's Frozen Journey - Ride-Through Mix",
+      "url": "https://open.spotify.com/track/5IMF63bR30k6Nob1YknQAx"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
+      },
+      "artists": [
+        {
+          "name": "Mari Okonogi",
+          "url": "https://open.spotify.com/artist/1U4dK2EVPtKAZJzP7xw4vF"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "When Will My Life Begin - Japanese Version",
+      "url": "https://open.spotify.com/track/5FImOHLCkXcgj0uWiGrRQD"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Wish (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
@@ -117,279 +125,7 @@
       "url": "https://open.spotify.com/track/0lZWIQdXP7XJo9Ct2mwc3D"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Wish (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
-      },
-      "artists": [
-        {
-          "name": "Erika Ikuta",
-          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
-        },
-        {
-          "name": "\u6a80 \u308c\u3044",
-          "url": "https://open.spotify.com/artist/7CdDbVRJCuANR86sTQQtPR"
-        },
-        {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "Knowing What I Know Now",
-      "url": "https://open.spotify.com/track/6KgiQiAyJpe9mSN0GKcUed"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "This Is The Thanks I Get?! (From \"Wish\")",
-        "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
-      },
-      "artists": [
-        {
-          "name": "Chris Pine",
-          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "This Is The Thanks I Get?! - From \"Wish\"",
-      "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disney Resort 40th Anniversary \"Dream-Go-Round\" Music Album (Deluxe)",
-        "url": "https://open.spotify.com/album/6NZqx8IFL0XJPv9B5zizEE"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disney Resort",
-          "url": "https://open.spotify.com/artist/5zmxF4kcObibicbzJs4ExJ"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Living in Color - Tokyo Disney Resort 40th \"Dream-Go-Round\" Theme Song",
-      "url": "https://open.spotify.com/track/5j5IDFD5Cjude7ln4OJv7a"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
-      },
-      "artists": [
-        {
-          "name": "Erika Toyohara",
-          "url": "https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/12kYjSO1K9XXM8z3w9KesN"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Yasashii Kimochide (Elemental ver.)",
-        "url": "https://open.spotify.com/album/4KOXgc6qhvbZaTAnLVzHmC"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Yasashii Kimochide - Elemental ver.",
-      "url": "https://open.spotify.com/track/3tiRhzgwHs7fQFdXegTFdU"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Every Wish Deserves a Dream",
-        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 231231,
-      "name": "Every Wish Deserves a Dream",
-      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Jamboree Mickey!",
-        "url": "https://open.spotify.com/album/6U9HfvlKv9jEcLF7xf3shY"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Jamboree Mickey!",
-      "url": "https://open.spotify.com/track/2O70g7QJJRskIbAF596CHm"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Steal The Show (From \"Elemental\")",
-        "url": "https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 191779,
-      "name": "Steal The Show - From \"Elemental\"",
-      "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Under the Sea (From \"The Little Mermaid\"/Soundtrack Version)",
-        "url": "https://open.spotify.com/album/5XksKAiSaaDbTg9wcLja1o"
-      },
-      "artists": [
-        {
-          "name": "Subaru Kimura",
-          "url": "https://open.spotify.com/artist/6y2G1GveVx6UR9Mk6esFD6"
-        },
-        {
-          "name": "Cast - The Little Mermaid",
-          "url": "https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Under the Sea - From \"The Little Mermaid\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3hsTuFLSfcD3Mt4tIdtqrY"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Part of Your World (From \"The Little Mermaid\")",
-        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
-      },
-      "artists": [
-        {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
-      },
-      "artists": [
-        {
-          "name": "Subaru Kimura",
-          "url": "https://open.spotify.com/artist/6y2G1GveVx6UR9Mk6esFD6"
-        },
-        {
-          "name": "Urara Takano",
-          "url": "https://open.spotify.com/artist/47JSzOrAysonBH3v0HzWRq"
-        },
-        {
-          "name": "Yuto Noji",
-          "url": "https://open.spotify.com/artist/3XhZtpTBE1MTnkKGu9Vj80"
-        },
-        {
-          "name": "Ensemble - The Little Mermaid",
-          "url": "https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Kiss the Girl",
-      "url": "https://open.spotify.com/track/6FcOrtofHwhXq6MgsYZjBp"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disney Resort 40th Anniversary \"Dream-Go-Round\" Music Album",
-        "url": "https://open.spotify.com/album/2kBLwCMQhd7NmONNK360K7"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "It's Very Minnie! - Opening",
-      "url": "https://open.spotify.com/track/6BewURGQdbQd7aqjQKFnOI"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo DisneySea Big Band Beat",
-        "url": "https://open.spotify.com/album/5b1e4ViGjcJvq0gMsnIPVm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo DisneySea",
-          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Sing Sing Sing",
-      "url": "https://open.spotify.com/track/638Kb3wa7e81jAqoYC0Kwr"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
-      },
-      "artists": [
-        {
-          "name": "Erika Toyohara",
-          "url": "https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "For The First Time",
-      "url": "https://open.spotify.com/track/6Bu4CzinfeuiUTEpAejj6Z"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
         "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
@@ -405,26 +141,26 @@
       "url": "https://open.spotify.com/track/2MNE8IJCTzSTtlLslu55om"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Pinocchio (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI"
+        "name": "Baymax's Mission: Cool Down",
+        "url": "https://open.spotify.com/album/0v6Iti3OtE6whwRTU5C2Z8"
       },
       "artists": [
         {
-          "name": "Fu Hinami",
-          "url": "https://open.spotify.com/artist/7uYithHbmsTY57vmt8oPWP"
+          "name": "Tokyo Disneyland",
+          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
         }
       ],
-      "duration_ms": 118000,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/5Td2fdjAbtf6QRUxezycDu"
+      "duration_ms": 607000,
+      "name": "Baymax's Mission: Cool Down - Edited Version",
+      "url": "https://open.spotify.com/track/2Lk9fPgT5ZWuepbW6FGsjz"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Tokyo Disney Resort Summer Fun!",
-        "url": "https://open.spotify.com/album/1jg6m5TvY95Qpu6M8ceN2g"
+        "name": "Fantasy Springs Music Album",
+        "url": "https://open.spotify.com/album/2naNMAL7tAQgqRRGeR3o2j"
       },
       "artists": [
         {
@@ -432,28 +168,60 @@
           "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Bon Fire Dance - Edited Version",
-      "url": "https://open.spotify.com/track/19eUx0mqauCxsPjUfxJEMo"
+      "duration_ms": 372373,
+      "name": "Rapunzel's Lantern Festival - Ride-Through Mix",
+      "url": "https://open.spotify.com/track/7jzVbTwuj7wVCxeNyaNryk"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "The Little Mermaid (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv"
       },
       "artists": [
         {
-          "name": "DANIELLE",
-          "url": "https://open.spotify.com/artist/3BNhPTiKBExlE45mYeC9YY"
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
         }
       ],
-      "duration_ms": 214373,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/4oJ3tZEYTw1Cf8KfGnTV50"
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
+        "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
+      },
+      "artists": [
+        {
+          "name": "Hiiro Ishibashi",
+          "url": "https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN"
+        }
+      ],
+      "duration_ms": 123880,
+      "name": "Proud Coraz\u00f3n - Japanese Version",
+      "url": "https://open.spotify.com/track/5fRJx95yalySCOXhYLI0A6"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Tokyo Disney Resort 40th Anniversary \"Dream-Go-Round\" Music Album (Deluxe)",
+        "url": "https://open.spotify.com/album/6NZqx8IFL0XJPv9B5zizEE"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disney Resort",
+          "url": "https://open.spotify.com/artist/5zmxF4kcObibicbzJs4ExJ"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Living in Color - Tokyo Disney Resort 40th \"Dream-Go-Round\" Theme Song",
+      "url": "https://open.spotify.com/track/5j5IDFD5Cjude7ln4OJv7a"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Aladdin - Original Motion Picture Soundtrack/Japanese Version",
         "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
@@ -473,7 +241,107 @@
       "url": "https://open.spotify.com/track/5Vzko6BJyB4M3xKpoK5uHf"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Frozen - Original Motion Picture Soundtrack/Deluxe Edition",
+        "url": "https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu"
+      },
+      "artists": [
+        {
+          "name": "Takako Matsu",
+          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Let It Go - Japanese Version",
+      "url": "https://open.spotify.com/track/4QnBRJaUqw1iopIT39mcZY"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Every Wish Deserves a Dream",
+        "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "duration_ms": 231231,
+      "name": "Every Wish Deserves a Dream",
+      "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Jamboree Mickey!",
+        "url": "https://open.spotify.com/album/6U9HfvlKv9jEcLF7xf3shY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disneyland",
+          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Jamboree Mickey!",
+      "url": "https://open.spotify.com/track/2O70g7QJJRskIbAF596CHm"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Yasashii Kimochide (Elemental ver.)",
+        "url": "https://open.spotify.com/album/4KOXgc6qhvbZaTAnLVzHmC"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Yasashii Kimochide - Elemental ver.",
+      "url": "https://open.spotify.com/track/3tiRhzgwHs7fQFdXegTFdU"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
+      },
+      "artists": [
+        {
+          "name": "Takako Matsu",
+          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/4QE3csw0rsqxoIQNoMUgsU"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Little Mermaid (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
+      },
+      "artists": [
+        {
+          "name": "Erika Toyohara",
+          "url": "https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/12kYjSO1K9XXM8z3w9KesN"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -513,7 +381,79 @@
       "url": "https://open.spotify.com/track/0uiVxFsZ6FVItALcJ3wntd"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
+        "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
+      },
+      "artists": [
+        {
+          "name": "Hiiro Ishibashi",
+          "url": "https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN"
+        },
+        {
+          "name": "Satoshi Hashimoto",
+          "url": "https://open.spotify.com/artist/6QTnKGyxStQwm9QvF7GgBN"
+        }
+      ],
+      "duration_ms": 50760,
+      "name": "The World Es Mi Familia - Japanese Version",
+      "url": "https://open.spotify.com/track/6uQQ3EUc2PYVlRBIHSCxDg"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Aladdin - Original Motion Picture Soundtrack/Japanese Version",
+        "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
+      },
+      "artists": [
+        {
+          "name": "Haruka Kinoshita",
+          "url": "https://open.spotify.com/artist/1wI6Uih35T0D1OfRAph3kJ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Speechless (Full) - Japanese Version",
+      "url": "https://open.spotify.com/track/21BMip8RqunPokzxnkNe3A"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack / Japanese version)",
+        "url": "https://open.spotify.com/album/0gj5STwLy0dZ0cGFJb8Fht"
+      },
+      "artists": [
+        {
+          "name": "Dream Ami",
+          "url": "https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Try Everything - Japan Version",
+      "url": "https://open.spotify.com/track/5xxnw2k7QLSwL0mrGV1TaX"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/32x9w2bUVLDS6myP2PQvI0"
@@ -541,23 +481,27 @@
       "url": "https://open.spotify.com/track/5d2PBbuy9LmBNb98HdrNGp"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Zootopia (Original Motion Picture Soundtrack / Japanese version)",
-        "url": "https://open.spotify.com/album/0gj5STwLy0dZ0cGFJb8Fht"
+        "name": "Wish (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
       },
       "artists": [
         {
-          "name": "Dream Ami",
-          "url": "https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX"
+          "name": "Masaharu Fukuyama",
+          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
+        },
+        {
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Try Everything - Japan Version",
-      "url": "https://open.spotify.com/track/5xxnw2k7QLSwL0mrGV1TaX"
+      "duration_ms": 198920,
+      "name": "At All Costs",
+      "url": "https://open.spotify.com/track/3yt7qLa3QDQouNYVJ0qwaz"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
@@ -581,43 +525,27 @@
       "url": "https://open.spotify.com/track/6doU37X8TTlex36JvqTQkT"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
+        "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
+        "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
       },
       "artists": [
         {
-          "name": "Hiroshi Hatanaka",
-          "url": "https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529"
+          "name": "Hiiro Ishibashi",
+          "url": "https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN"
         },
         {
-          "name": "Mari Okonogi",
-          "url": "https://open.spotify.com/artist/1U4dK2EVPtKAZJzP7xw4vF"
+          "name": "Naohito Fujiki",
+          "url": "https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI"
         }
       ],
-      "duration_ms": 223693,
-      "name": "I See the Light - Japanese Version",
-      "url": "https://open.spotify.com/track/4g345xmbPGGHDSv5sMLEsS"
+      "duration_ms": 112213,
+      "name": "Un Poco Loco - Japanese Version",
+      "url": "https://open.spotify.com/track/03F37JsyH3JNgBrRjAFEkT"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid (Japanese Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
-      },
-      "artists": [
-        {
-          "name": "Rinko Urashima",
-          "url": "https://open.spotify.com/artist/4PRnqvKVZBdZpa5uG3MZD5"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "Poor Unfortunate Souls",
-      "url": "https://open.spotify.com/track/32yfH50Xx7HN5kwHCOzDoc"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/32x9w2bUVLDS6myP2PQvI0"
@@ -645,23 +573,7 @@
       "url": "https://open.spotify.com/track/3MdZPVLXTCihz6fJlxzM9a"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
-      },
-      "artists": [
-        {
-          "name": "Yumecchi",
-          "url": "https://open.spotify.com/artist/6HLzRhvpM3NpPFV4VrYStU"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Surface Pressure",
-      "url": "https://open.spotify.com/track/7MdcxLxlzq6h0bQf9NGaaL"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/32x9w2bUVLDS6myP2PQvI0"
@@ -681,39 +593,55 @@
       "url": "https://open.spotify.com/track/2Ruhwfj9YXjbKOnthkbMRD"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/6EG3aBo1p7mVAgZSiMZbL0"
-      },
-      "artists": [
-        {
-          "name": "Tomona Yabiku",
-          "url": "https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "How Far I'll Go - Japanese Version",
-      "url": "https://open.spotify.com/track/4zNqKUl8mBixSJ9JgTanfS"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Aladdin - Original Motion Picture Soundtrack/Japanese Version",
         "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
       },
       "artists": [
         {
-          "name": "Haruka Kinoshita",
-          "url": "https://open.spotify.com/artist/1wI6Uih35T0D1OfRAph3kJ"
+          "name": "Koichi Yamadera",
+          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Speechless (Full) - Japanese Version",
-      "url": "https://open.spotify.com/track/21BMip8RqunPokzxnkNe3A"
+      "duration_ms": 155533,
+      "name": "Friend Like Me - Japanese Version",
+      "url": "https://open.spotify.com/track/3wBhDAYr5vNS4gHAT0ffnL"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Toy Story (Original Motion Picture Soundtrack/Japan Release Version)",
+        "url": "https://open.spotify.com/album/6Ow9UAuMC3nNdftY4JsZX4"
+      },
+      "artists": [
+        {
+          "name": "Diamond Yukai",
+          "url": "https://open.spotify.com/artist/2Xgqw0qSxzLPXOgPg1NEUL"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "You've Got a Friend in Me - Japanese Version",
+      "url": "https://open.spotify.com/track/1tpTMUY3JtRUhAwK3h4I2O"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
+      },
+      "artists": [
+        {
+          "name": "Yumecchi",
+          "url": "https://open.spotify.com/artist/6HLzRhvpM3NpPFV4VrYStU"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/7MdcxLxlzq6h0bQf9NGaaL"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Nobody Like U (From \"Turning Red\")",
         "url": "https://open.spotify.com/album/2U90TlDd7K8I7Jgi3f4vwa"
@@ -729,23 +657,27 @@
       "url": "https://open.spotify.com/track/7EDAJplf3AW5a4I7MaHs5N"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Tokyo DisneySea 20th Anniversary \"Time to Shine!\" Music Album",
-        "url": "https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp"
+        "name": "Part of Your World - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/4rArDFN5s3R7Odlp0usxSg"
       },
       "artists": [
         {
-          "name": "Tokyo DisneySea",
-          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 214386,
-      "name": "Usapiyo: Spring Into My Heart - From \u201cTip-Top Easter\u201d",
-      "url": "https://open.spotify.com/track/5vG1zUswz5HSkylwmzEEdK"
+      "duration_ms": 178823,
+      "name": "Part of Your World - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/6XxEDKmaB3gukOlM5jNWCs"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Frozen - Original Motion Picture Soundtrack/Deluxe Edition",
         "url": "https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu"
@@ -765,7 +697,27 @@
       "url": "https://open.spotify.com/track/6mSOku4O3R91Am6eedxCeZ"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
+      },
+      "artists": [
+        {
+          "name": "Takako Matsu",
+          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
+        },
+        {
+          "name": "Yoh Yoshida",
+          "url": "https://open.spotify.com/artist/1t4Bf899C1tDiQUVWnHzXL"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/1SboZIzf7KlyTvqqtIzrs3"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Frozen - Original Motion Picture Soundtrack/Deluxe Edition",
         "url": "https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu"
@@ -789,23 +741,7 @@
       "url": "https://open.spotify.com/track/0uySrxahH3ZTIDTFi66LC0"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Toy Story (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/6Ow9UAuMC3nNdftY4JsZX4"
-      },
-      "artists": [
-        {
-          "name": "Diamond Yukai",
-          "url": "https://open.spotify.com/artist/2Xgqw0qSxzLPXOgPg1NEUL"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "You've Got a Friend in Me - Japanese Version",
-      "url": "https://open.spotify.com/track/1tpTMUY3JtRUhAwK3h4I2O"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
@@ -837,39 +773,7 @@
       "url": "https://open.spotify.com/track/2SBxx3R8xGPZmkgBMjRfm9"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
-      },
-      "artists": [
-        {
-          "name": "Ruki Saito",
-          "url": "https://open.spotify.com/artist/6WUO2cCM13rJEraBTo3lUL"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Waiting On A Miracle",
-      "url": "https://open.spotify.com/track/7ubnxt2Uz6bjgokIMinvkA"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
-      },
-      "artists": [
-        {
-          "name": "Mari Okonogi",
-          "url": "https://open.spotify.com/artist/1U4dK2EVPtKAZJzP7xw4vF"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "When Will My Life Begin - Japanese Version",
-      "url": "https://open.spotify.com/track/5FImOHLCkXcgj0uWiGrRQD"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Shounen Jidai (LUCA ver.)",
         "url": "https://open.spotify.com/album/6x9n5GEHgSrlMhomHbQdej"
@@ -885,43 +789,23 @@
       "url": "https://open.spotify.com/track/5ypjnnmHo6AyLX0JjFkd9X"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
+        "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
       },
       "artists": [
         {
-          "name": "Takako Matsu",
-          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Ruki Saito",
+          "url": "https://open.spotify.com/artist/6WUO2cCM13rJEraBTo3lUL"
         }
       ],
-      "duration_ms": 194906,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/4QE3csw0rsqxoIQNoMUgsU"
+      "duration_ms": 161840,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/7ubnxt2Uz6bjgokIMinvkA"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
-        "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
-      },
-      "artists": [
-        {
-          "name": "Hiiro Ishibashi",
-          "url": "https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN"
-        }
-      ],
-      "duration_ms": 123880,
-      "name": "Proud Coraz\u00f3n - Japanese Version",
-      "url": "https://open.spotify.com/track/5fRJx95yalySCOXhYLI0A6"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Zettai Disney Love Song Best",
         "url": "https://open.spotify.com/album/67lYZtRVuMOPx0NmpsaJao"
@@ -941,27 +825,391 @@
       "url": "https://open.spotify.com/track/3aapjfHO3gx4roXwsNLG9W"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Little Mermaid (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
+      },
+      "artists": [
+        {
+          "name": "Rinko Urashima",
+          "url": "https://open.spotify.com/artist/4PRnqvKVZBdZpa5uG3MZD5"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/32yfH50Xx7HN5kwHCOzDoc"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt"
+      },
+      "artists": [
+        {
+          "name": "Miisha Shimizu",
+          "url": "https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Frozen - Original Motion Picture Soundtrack/Deluxe Edition",
+        "url": "https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu"
+      },
+      "artists": [
+        {
+          "name": "Sayaka Kanda",
+          "url": "https://open.spotify.com/artist/0FYmss7VDzi6m3UATQMyab"
+        },
+        {
+          "name": "Eisuke Tsuda",
+          "url": "https://open.spotify.com/artist/3bhT5ERbR7oHoZ6apz81cr"
+        }
+      ],
+      "duration_ms": 124733,
+      "name": "Love Is an Open Door - Japanese Version",
+      "url": "https://open.spotify.com/track/0L4hRnJisBHDuaYpH92Cnt"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Lion King (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG"
+      },
+      "artists": [
+        {
+          "name": "Miwa Sugai",
+          "url": "https://open.spotify.com/artist/7ccZnn7DoOewHZQNaiwZMJ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Circle of Life/Nants' Ingonyama",
+      "url": "https://open.spotify.com/track/1vC9PjJBJzir6VoPwt8fCd"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/6EG3aBo1p7mVAgZSiMZbL0"
+      },
+      "artists": [
+        {
+          "name": "Matsuya Onoe",
+          "url": "https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "You're Welcome - Japanese Version",
+      "url": "https://open.spotify.com/track/1XP4NqQvnGcuAR3iZ2SiiI"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Raya e l'Ultimo Drago (Colonna Sonora Originale)",
+        "url": "https://open.spotify.com/album/2GIC4pgqzQyphQbWXvP6mt"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 223835,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/6TI7gSItoNapzom0hhuoOM"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/3J6ZqwIQXQs925Omn0hrXC"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Elemental (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI"
+      },
+      "artists": [
+        {
+          "name": "Fu Hinami",
+          "url": "https://open.spotify.com/artist/7uYithHbmsTY57vmt8oPWP"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/5Td2fdjAbtf6QRUxezycDu"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Tokyo Disneyland Mickey's Magical Music World",
+        "url": "https://open.spotify.com/album/0USSw01d6Y44HVowPhrAcD"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disneyland",
+          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "It's Your Song - from \u201cMickey\u2019s Magical Music World\u201d",
+      "url": "https://open.spotify.com/track/4MTm9d6gbIlTCksLC9WE8e"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
       },
       "artists": [
         {
-          "name": "Takako Matsu",
-          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
-        },
-        {
-          "name": "Yoh Yoshida",
-          "url": "https://open.spotify.com/artist/1t4Bf899C1tDiQUVWnHzXL"
+          "name": "Shinichiro Hara",
+          "url": "https://open.spotify.com/artist/3PSbRPCWzdxwJciy0M0Z4Y"
         }
       ],
-      "duration_ms": 260906,
-      "name": "Show Yourself",
-      "url": "https://open.spotify.com/track/1SboZIzf7KlyTvqqtIzrs3"
+      "duration_ms": 180760,
+      "name": "Lost in the Woods",
+      "url": "https://open.spotify.com/track/4InaqdMLtGw9yDiSSHkRrI"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japan Release Version)",
+        "url": "https://open.spotify.com/album/6ayDpPz0S3uKz0bc6Igyvo"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6gIQmIB8nqL2KtVrmx93VH"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
+      },
+      "artists": [
+        {
+          "name": "Naoto Inti Raymi",
+          "url": "https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Two Oruguitas",
+      "url": "https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Little Mermaid (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
+      },
+      "artists": [
+        {
+          "name": "Erika Toyohara",
+          "url": "https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "For The First Time",
+      "url": "https://open.spotify.com/track/6Bu4CzinfeuiUTEpAejj6Z"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Wish (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
+      },
+      "artists": [
+        {
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        }
+      ],
+      "duration_ms": 147946,
+      "name": "Welcome To Rosas",
+      "url": "https://open.spotify.com/track/5c3bvB7zb0Oasv0djPgkWm"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "I'm A Star (From \"Wish\")",
+        "url": "https://open.spotify.com/album/5d9Zsbx6BAiZcVgy2TWVG8"
+      },
+      "artists": [
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "I'm A Star - From \"Wish\"",
+      "url": "https://open.spotify.com/track/7HphtEcMxf0ViBb8wtU8Re"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Kiseki Wo Nozomunara ... (soulful world ver.)",
+        "url": "https://open.spotify.com/album/6MealZ6klqANxYw4Xg7p7n"
+      },
+      "artists": [
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "Kiseki Wo Nozomunara ... - soulful world ver.",
+      "url": "https://open.spotify.com/track/6FF8QOdmmscdC6lkU1On4m"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
+        "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "MAYUMI SUZUKI",
+          "url": "https://open.spotify.com/artist/2A898Bz1BlL0RbbRL1n0RJ"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Part of Your World - Japanese Version",
+      "url": "https://open.spotify.com/track/24s18dNsVfEZsrPfo0QkHJ"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Monsters, Inc. (Original Motion Picture Soundtrack/Japan Release Version)",
+        "url": "https://open.spotify.com/album/14nVZESM3oqW12L2l4ToBW"
+      },
+      "artists": [
+        {
+          "name": "Hidehiko Ishizuka",
+          "url": "https://open.spotify.com/artist/4q4bgkGzmIHifIbeBLtpQO"
+        },
+        {
+          "name": "Yuji Tanaka",
+          "url": "https://open.spotify.com/artist/4Q3kgRzt8ZQILwjU76CgGg"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "If I Didn't Have You - Japanese Version",
+      "url": "https://open.spotify.com/track/2g7RfbrjDwkeFao5tk4iHv"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
+      },
+      "artists": [
+        {
+          "name": "Atsuko Takezawa",
+          "url": "https://open.spotify.com/artist/2KVTrDvZkFSOl6M1oYrKQk"
+        },
+        {
+          "name": "Erika Shiraishi",
+          "url": "https://open.spotify.com/artist/1euCVeKI4NelbAlR8b3OFY"
+        },
+        {
+          "name": "Hozumi Shibata",
+          "url": "https://open.spotify.com/artist/06vefHJeIRX6MyiSAN1HRI"
+        },
+        {
+          "name": "Mayumi Makino",
+          "url": "https://open.spotify.com/artist/1zBroaNdRSeOVZSsVFFO2K"
+        },
+        {
+          "name": "Yukari Fujii",
+          "url": "https://open.spotify.com/artist/6B3McgP0XC4PItUSOnMbuJ"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Zero to Hero - Japanese Version",
+      "url": "https://open.spotify.com/track/1pIynPOpqprpV4WguxHFIy"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Little Mermaid: The Songs",
+        "url": "https://open.spotify.com/album/2eRXMpeBx62eR6KC3gBJi8"
+      },
+      "artists": [
+        {
+          "name": "Tsunehiko Kamijyou",
+          "url": "https://open.spotify.com/artist/0MTwHcQjpWkqYdHPkA1Ncd"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Under the Sea - Japanese Version",
+      "url": "https://open.spotify.com/track/2e6G0uwHzmwPGECweIFxOT"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS"
@@ -989,59 +1237,363 @@
       "url": "https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt"
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
+        "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
       },
       "artists": [
         {
-          "name": "Miisha Shimizu",
-          "url": "https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Frozen - Original Motion Picture Soundtrack/Deluxe Edition",
-        "url": "https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu"
-      },
-      "artists": [
-        {
-          "name": "Takako Matsu",
-          "url": "https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Let It Go - Japanese Version",
-      "url": "https://open.spotify.com/track/4QnBRJaUqw1iopIT39mcZY"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
-        "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
-      },
-      "artists": [
-        {
-          "name": "Hiiro Ishibashi",
-          "url": "https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN"
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
         },
         {
-          "name": "Naohito Fujiki",
-          "url": "https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI"
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Tsunehiko Kamijyou",
+          "url": "https://open.spotify.com/artist/0MTwHcQjpWkqYdHPkA1Ncd"
         }
       ],
-      "duration_ms": 112213,
-      "name": "Un Poco Loco - Japanese Version",
-      "url": "https://open.spotify.com/track/03F37JsyH3JNgBrRjAFEkT"
+      "duration_ms": 161773,
+      "name": "Kiss the Girl - Japanese Version",
+      "url": "https://open.spotify.com/track/5sN2QKdhiOKaZX9HV5P4si"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Little Mermaid (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
+      },
+      "artists": [
+        {
+          "name": "DANIELLE",
+          "url": "https://open.spotify.com/artist/3BNhPTiKBExlE45mYeC9YY"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/4oJ3tZEYTw1Cf8KfGnTV50"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "My First Disney Original Soundtrack Best Japanese Version",
+        "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
+      },
+      "artists": [
+        {
+          "name": "Shin Fujishima",
+          "url": "https://open.spotify.com/artist/1HNEsdQ7hbcIQpTTF47Go1"
+        },
+        {
+          "name": "Tokyo Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/51jSfzDJjZXOwfPaVc35Gi"
+        },
+        {
+          "name": "Natural Notes",
+          "url": "https://open.spotify.com/artist/0IKotvQocRLaLRkxROzX9U"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/03sKaMN0mq5p3ok6z2xYVQ"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
+      },
+      "artists": [
+        {
+          "name": "Fumiya Fujii",
+          "url": "https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS"
+        }
+      ],
+      "duration_ms": 249200,
+      "name": "Go The Distance",
+      "url": "https://open.spotify.com/track/08BRdD3nHhV1we2G4YkfLP"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Enchanted (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n"
+      },
+      "artists": [
+        {
+          "name": "MC Kids",
+          "url": "https://open.spotify.com/artist/6qZx6jUsXqawxvqDYcBBU8"
+        },
+        {
+          "name": "Music Creation",
+          "url": "https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2"
+        },
+        {
+          "name": "Satoko Kimura",
+          "url": "https://open.spotify.com/artist/0ZdqCr4L1IqAH7Oys3QfpN"
+        },
+        {
+          "name": "Sohsuke Komori",
+          "url": "https://open.spotify.com/artist/6jIkSbDsaa2JdgPVaV448F"
+        },
+        {
+          "name": "Hiroshi Hatanaka",
+          "url": "https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529"
+        },
+        {
+          "name": "Froebel Shonen Gasshoudan",
+          "url": "https://open.spotify.com/artist/1nxN9k9fQjgkRi68q3t1yS"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "True Love's Kiss - Japanese Version",
+      "url": "https://open.spotify.com/track/2bgG6ty4aQPvYkEI1ss6G2"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
+        "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
+      },
+      "artists": [
+        {
+          "name": "Honoka Suzuki",
+          "url": "https://open.spotify.com/artist/21dcXRiXjtW1CCVn5ju3Qv"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Yume Made Ato Sukoshi - Japanese Version",
+      "url": "https://open.spotify.com/track/3zESmhpwKepaSFsQ3jJRQY"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Toy Story 4 (Japanese Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD"
+      },
+      "artists": [
+        {
+          "name": "Diamond Yukai",
+          "url": "https://open.spotify.com/artist/2Xgqw0qSxzLPXOgPg1NEUL"
+        }
+      ],
+      "duration_ms": 129213,
+      "name": "I Can't Let You Throw Yourself Away - Japanese Version",
+      "url": "https://open.spotify.com/track/562r9e6J91tP6cDptGDImn"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Wish (Japanese Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36JMEsObAQpmiRUsZBhSKR"
+      },
+      "artists": [
+        {
+          "name": "Erika Ikuta",
+          "url": "https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR"
+        },
+        {
+          "name": "\u6a80 \u308c\u3044",
+          "url": "https://open.spotify.com/artist/7CdDbVRJCuANR86sTQQtPR"
+        },
+        {
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+        }
+      ],
+      "duration_ms": 200586,
+      "name": "Knowing What I Know Now",
+      "url": "https://open.spotify.com/track/6KgiQiAyJpe9mSN0GKcUed"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
+      },
+      "artists": [
+        {
+          "name": "Eri Ito",
+          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Reflection - From \"Mulan\"",
+      "url": "https://open.spotify.com/track/6HozDOA1E0OV6pMqKtxNeK"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kudo",
+          "url": "https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W"
+        }
+      ],
+      "duration_ms": 139066,
+      "name": "I Won't Say (I'm in Love) / Shizuka Kudo",
+      "url": "https://open.spotify.com/track/47uXVw03YKVTUI2uQa14i5"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "My First Disney Original Soundtrack Best Japanese Version",
+        "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
+      },
+      "artists": [
+        {
+          "name": "Marsa Sakamoto",
+          "url": "https://open.spotify.com/artist/4T481uMcsXEnEqvNS5CzG6"
+        },
+        {
+          "name": "Toshiko Fujita",
+          "url": "https://open.spotify.com/artist/5y8t6BevHZCuKXVwnqAbYa"
+        }
+      ],
+      "duration_ms": 98080,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/4y4VNLL6EuZp1fEy5S8t7O"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Pocahontas (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/2lV7tZKzKc3ZJTuFkwTjjk"
+      },
+      "artists": [
+        {
+          "name": "Yuko Doi",
+          "url": "https://open.spotify.com/artist/3pvSzmwej4hkNWulxt2L1c"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Colors Of The Wind - From \"Pocahontas\"",
+      "url": "https://open.spotify.com/track/6GUa2PovmLzPOycGsSFx7m"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/7zDGaKFf29c032M3TBUfiV"
+      },
+      "artists": [
+        {
+          "name": "Eri Ito",
+          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
+        },
+        {
+          "name": "Koichi Yamadera",
+          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "Something There - Japanese Version",
+      "url": "https://open.spotify.com/track/4WCgGeH512Q9aXUSqpZ0iS"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
+      },
+      "artists": [
+        {
+          "name": "Koichi Yamadera",
+          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
+        },
+        {
+          "name": "Eri Ito",
+          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
+        },
+        {
+          "name": "Shintaro Sonooka",
+          "url": "https://open.spotify.com/artist/2wMZWtMZaw1jCYkL9evMCZ"
+        },
+        {
+          "name": "Ryusei Nakao",
+          "url": "https://open.spotify.com/artist/2RcS47TgXS4sQM2r0QfIBh"
+        },
+        {
+          "name": "Yutaka Oda",
+          "url": "https://open.spotify.com/artist/4txzpEXMlLubRkm52dpMFe"
+        },
+        {
+          "name": "Kozo Shioya",
+          "url": "https://open.spotify.com/artist/10D4tBG5mUPnF3ThELDaxp"
+        }
+      ],
+      "duration_ms": 199373,
+      "name": "I'll Make a Man Out Of You",
+      "url": "https://open.spotify.com/track/2kNZ0qkNtOLSdBMgbzNPLj"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/6UukgujkH5uU8VFMmoUnfK"
+      },
+      "artists": [
+        {
+          "name": "Natsumi Kon",
+          "url": "https://open.spotify.com/artist/4BAbHdOUnCdzrUyq8H9EhP"
+        },
+        {
+          "name": "Mitsuo Yoshihara",
+          "url": "https://open.spotify.com/artist/3zwcdmzcjO5SbqOrJjfIpY"
+        },
+        {
+          "name": "Ensemble - Beauty and the Beast",
+          "url": "https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR"
+        }
+      ],
+      "duration_ms": 333253,
+      "name": "Belle",
+      "url": "https://open.spotify.com/track/6uQsgT4W0Ml0SwByuXjgxY"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Disney Best Japanese",
+        "url": "https://open.spotify.com/album/6usBI43leSZFRQktMQcUv4"
+      },
+      "artists": [
+        {
+          "name": "Ryuta Yamamoto",
+          "url": "https://open.spotify.com/artist/3riv8ZTBmroQGrncwF029G"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Bokura Ha Hitotsu - Japanese Version",
+      "url": "https://open.spotify.com/track/4L3ILkdcOEqCuWa9sH6FTd"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Stitch Best",
+        "url": "https://open.spotify.com/album/6EDAwPF3FYiTEuy7rc7ox8"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"",
+      "url": "https://open.spotify.com/track/15cB9UbSZphJUSp6c8HlzY"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -1081,919 +1633,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3! (\u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc20\u5468\u5e74:\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3!\u30c6\u30fc\u30de\u30bd\u30f3\u30b0)",
-        "url": "https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl"
-      },
-      "artists": [
-        {
-          "name": "Tokyo DisneySea",
-          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3! - \u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc20\u5468\u5e74:\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3!\u30c6\u30fc\u30de\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Disney Happy Piano Tunes",
-        "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
-      },
-      "artists": [
-        {
-          "name": "HARAMIchan",
-          "url": "https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "When Will My Life Begin?",
-      "url": "https://open.spotify.com/track/5rL3JDnpLXp3DdkdkQsUW1"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Aladdin - Original Motion Picture Soundtrack/Japanese Version",
-        "url": "https://open.spotify.com/album/6N5otzqYgkhNWVpjvezbBK"
-      },
-      "artists": [
-        {
-          "name": "Koichi Yamadera",
-          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Friend Like Me - Japanese Version",
-      "url": "https://open.spotify.com/track/3wBhDAYr5vNS4gHAT0ffnL"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Raya e l'Ultimo Drago (Colonna Sonora Originale)",
-        "url": "https://open.spotify.com/album/2GIC4pgqzQyphQbWXvP6mt"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 223835,
-      "name": "Lead the Way",
-      "url": "https://open.spotify.com/track/6TI7gSItoNapzom0hhuoOM"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Disney Happy Piano Tunes",
-        "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
-      },
-      "artists": [
-        {
-          "name": "HARAMIchan",
-          "url": "https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Mickey Mouse March",
-      "url": "https://open.spotify.com/track/0ShNjMCOJjqpQ0xESaeeXy"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The MousePack \u2013 Mickey and Friends Singing Classic Standards",
-        "url": "https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw"
-      },
-      "artists": [
-        {
-          "name": "Goofy",
-          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
-        },
-        {
-          "name": "Minnie Mouse",
-          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
-        },
-        {
-          "name": "Daisy Duck",
-          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
-        },
-        {
-          "name": "Donald Duck",
-          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Think of Mickey Mouse",
-      "url": "https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo DisneySea 20th Anniversary \"Time to Shine!\" Music Album",
-        "url": "https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp"
-      },
-      "artists": [
-        {
-          "name": "Tokyo DisneySea",
-          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
-        }
-      ],
-      "duration_ms": 442040,
-      "name": "Sindbad Storybook Voyage - Ride-Through mix",
-      "url": "https://open.spotify.com/track/0lCTJLYyYP3GgwivygFk5m"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Pinocchio (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2brEMZ0YlBCWGAU3ucYjlI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 117693,
-      "name": "When You Wish Upon A Star",
-      "url": "https://open.spotify.com/track/3J6ZqwIQXQs925Omn0hrXC"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo DisneySea 20th Anniversary \"Time to Shine!\" Music Album",
-        "url": "https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp"
-      },
-      "artists": [
-        {
-          "name": "Tokyo DisneySea",
-          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Soaring: Fantastic Flight - Ride-Through Mix",
-      "url": "https://open.spotify.com/track/7LcHJfJ5BhiO4w7LWPc2uM"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "BE BRAVE",
-        "url": "https://open.spotify.com/album/0MWFaihYS8wtvFTe6B7ReV"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "Compass of Your Heart",
-      "url": "https://open.spotify.com/track/59LmCrnhtWgWwKQvno6yAe"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland Mickey's Magical Music World",
-        "url": "https://open.spotify.com/album/0USSw01d6Y44HVowPhrAcD"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "It's Your Song - from \u201cMickey\u2019s Magical Music World\u201d",
-      "url": "https://open.spotify.com/track/4MTm9d6gbIlTCksLC9WE8e"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/1OPAOaZk9VXEh6oYGYmw3q"
-      },
-      "artists": [
-        {
-          "name": "Shinichiro Hara",
-          "url": "https://open.spotify.com/artist/3PSbRPCWzdxwJciy0M0Z4Y"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Lost in the Woods",
-      "url": "https://open.spotify.com/track/4InaqdMLtGw9yDiSSHkRrI"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/6ayDpPz0S3uKz0bc6Igyvo"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/6gIQmIB8nqL2KtVrmx93VH"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Encanto (Japanese Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT"
-      },
-      "artists": [
-        {
-          "name": "Naoto Inti Raymi",
-          "url": "https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Two Oruguitas",
-      "url": "https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland The Happy Ride with Baymax",
-        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 95986,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Kiseki Wo Nozomunara ... (soulful world ver.)",
-        "url": "https://open.spotify.com/album/6MealZ6klqANxYw4Xg7p7n"
-      },
-      "artists": [
-        {
-          "name": "JUJU",
-          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "Kiseki Wo Nozomunara ... - soulful world ver.",
-      "url": "https://open.spotify.com/track/6FF8QOdmmscdC6lkU1On4m"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
-        "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
-      },
-      "artists": [
-        {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
-        },
-        {
-          "name": "Howard Ashman",
-          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
-        },
-        {
-          "name": "MAYUMI SUZUKI",
-          "url": "https://open.spotify.com/artist/2A898Bz1BlL0RbbRL1n0RJ"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Part of Your World - Japanese Version",
-      "url": "https://open.spotify.com/track/24s18dNsVfEZsrPfo0QkHJ"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Monsters, Inc. (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/14nVZESM3oqW12L2l4ToBW"
-      },
-      "artists": [
-        {
-          "name": "Hidehiko Ishizuka",
-          "url": "https://open.spotify.com/artist/4q4bgkGzmIHifIbeBLtpQO"
-        },
-        {
-          "name": "Yuji Tanaka",
-          "url": "https://open.spotify.com/artist/4Q3kgRzt8ZQILwjU76CgGg"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "If I Didn't Have You - Japanese Version",
-      "url": "https://open.spotify.com/track/2g7RfbrjDwkeFao5tk4iHv"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Disney Happy Piano Tunes",
-        "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
-      },
-      "artists": [
-        {
-          "name": "HARAMIchan",
-          "url": "https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/3VkiOh8cWGTfo77zq8UuhZ"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland The Happy Ride with Baymax",
-        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 89320,
-      "name": "B-A-Y-M-A-X",
-      "url": "https://open.spotify.com/track/2UQDkNbv8wSQvvzyhAUSyC"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Frozen - Original Motion Picture Soundtrack/Deluxe Edition",
-        "url": "https://open.spotify.com/album/48in9vaug9c3N6s1xdb0Uu"
-      },
-      "artists": [
-        {
-          "name": "Sayaka Kanda",
-          "url": "https://open.spotify.com/artist/0FYmss7VDzi6m3UATQMyab"
-        },
-        {
-          "name": "Eisuke Tsuda",
-          "url": "https://open.spotify.com/artist/3bhT5ERbR7oHoZ6apz81cr"
-        }
-      ],
-      "duration_ms": 124733,
-      "name": "Love Is an Open Door - Japanese Version",
-      "url": "https://open.spotify.com/track/0L4hRnJisBHDuaYpH92Cnt"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid: The Songs",
-        "url": "https://open.spotify.com/album/2eRXMpeBx62eR6KC3gBJi8"
-      },
-      "artists": [
-        {
-          "name": "Jodi Benson",
-          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "url": "https://open.spotify.com/track/0zxe1EjG5ML2drWpPPr9x7"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Disney Music Parade \u2013 Game Theme Song",
-        "url": "https://open.spotify.com/album/7IxudvLkUfdwzkwgs4c0u0"
-      },
-      "artists": [
-        {
-          "name": "Disney Music Parade Project",
-          "url": "https://open.spotify.com/artist/7KaG3zTKbGuTRMGQotywD5"
-        }
-      ],
-      "duration_ms": 184923,
-      "name": "Disney Music Parade \u2013 Game Theme Song",
-      "url": "https://open.spotify.com/track/5n7jaiw5Ru54z8lA2s4Sx1"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "BE BRAVE",
-        "url": "https://open.spotify.com/album/0MWFaihYS8wtvFTe6B7ReV"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/7cntX2d6eIlOcSCuuHG56O"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
-      },
-      "artists": [
-        {
-          "name": "Atsuko Takezawa",
-          "url": "https://open.spotify.com/artist/2KVTrDvZkFSOl6M1oYrKQk"
-        },
-        {
-          "name": "Erika Shiraishi",
-          "url": "https://open.spotify.com/artist/1euCVeKI4NelbAlR8b3OFY"
-        },
-        {
-          "name": "Hozumi Shibata",
-          "url": "https://open.spotify.com/artist/06vefHJeIRX6MyiSAN1HRI"
-        },
-        {
-          "name": "Mayumi Makino",
-          "url": "https://open.spotify.com/artist/1zBroaNdRSeOVZSsVFFO2K"
-        },
-        {
-          "name": "Yukari Fujii",
-          "url": "https://open.spotify.com/artist/6B3McgP0XC4PItUSOnMbuJ"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Zero to Hero - Japanese Version",
-      "url": "https://open.spotify.com/track/1pIynPOpqprpV4WguxHFIy"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid: The Songs",
-        "url": "https://open.spotify.com/album/2eRXMpeBx62eR6KC3gBJi8"
-      },
-      "artists": [
-        {
-          "name": "Tsunehiko Kamijyou",
-          "url": "https://open.spotify.com/artist/0MTwHcQjpWkqYdHPkA1Ncd"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Under the Sea - Japanese Version",
-      "url": "https://open.spotify.com/track/2e6G0uwHzmwPGECweIFxOT"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
-        "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
-      },
-      "artists": [
-        {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
-        },
-        {
-          "name": "Howard Ashman",
-          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
-        },
-        {
-          "name": "Tsunehiko Kamijyou",
-          "url": "https://open.spotify.com/artist/0MTwHcQjpWkqYdHPkA1Ncd"
-        }
-      ],
-      "duration_ms": 161773,
-      "name": "Kiss the Girl - Japanese Version",
-      "url": "https://open.spotify.com/track/5sN2QKdhiOKaZX9HV5P4si"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Coco - Original Motion Picture Soundtrack/Deluxe Edition",
-        "url": "https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ"
-      },
-      "artists": [
-        {
-          "name": "Hiiro Ishibashi",
-          "url": "https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN"
-        },
-        {
-          "name": "Satoshi Hashimoto",
-          "url": "https://open.spotify.com/artist/6QTnKGyxStQwm9QvF7GgBN"
-        }
-      ],
-      "duration_ms": 50760,
-      "name": "The World Es Mi Familia - Japanese Version",
-      "url": "https://open.spotify.com/track/6uQQ3EUc2PYVlRBIHSCxDg"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "My First Disney Original Soundtrack Best Japanese Version",
-        "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
-      },
-      "artists": [
-        {
-          "name": "Shin Fujishima",
-          "url": "https://open.spotify.com/artist/1HNEsdQ7hbcIQpTTF47Go1"
-        },
-        {
-          "name": "Tokyo Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/51jSfzDJjZXOwfPaVc35Gi"
-        },
-        {
-          "name": "Natural Notes",
-          "url": "https://open.spotify.com/artist/0IKotvQocRLaLRkxROzX9U"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "When You Wish Upon A Star",
-      "url": "https://open.spotify.com/track/03sKaMN0mq5p3ok6z2xYVQ"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/2kn84J3BO4wj96uMaWKAnN"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/6N6Y1AdoGqw5H3lzli5DgL"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
-      },
-      "artists": [
-        {
-          "name": "Fumiya Fujii",
-          "url": "https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS"
-        }
-      ],
-      "duration_ms": 249200,
-      "name": "Go The Distance",
-      "url": "https://open.spotify.com/track/08BRdD3nHhV1we2G4YkfLP"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Enchanted (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n"
-      },
-      "artists": [
-        {
-          "name": "MC Kids",
-          "url": "https://open.spotify.com/artist/6qZx6jUsXqawxvqDYcBBU8"
-        },
-        {
-          "name": "Music Creation",
-          "url": "https://open.spotify.com/artist/26KfNrVfEweHZlOwHzKGq2"
-        },
-        {
-          "name": "Satoko Kimura",
-          "url": "https://open.spotify.com/artist/0ZdqCr4L1IqAH7Oys3QfpN"
-        },
-        {
-          "name": "Sohsuke Komori",
-          "url": "https://open.spotify.com/artist/6jIkSbDsaa2JdgPVaV448F"
-        },
-        {
-          "name": "Hiroshi Hatanaka",
-          "url": "https://open.spotify.com/artist/2lsQq6qbk4eh3WyteNu529"
-        },
-        {
-          "name": "Froebel Shonen Gasshoudan",
-          "url": "https://open.spotify.com/artist/1nxN9k9fQjgkRi68q3t1yS"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "True Love's Kiss - Japanese Version",
-      "url": "https://open.spotify.com/track/2bgG6ty4aQPvYkEI1ss6G2"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo DisneySea Music Album (Tokyo Disney Resort 25th Anniversary Version)",
-        "url": "https://open.spotify.com/album/54fbYaUvCzELWHUK1pyNSf"
-      },
-      "artists": [
-        {
-          "name": "Tokyo DisneySea",
-          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
-        }
-      ],
-      "duration_ms": 826066,
-      "name": "Aquasphere Plaza~Day",
-      "url": "https://open.spotify.com/track/6nfiFW63WyrRp07xrBJN0s"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
-      },
-      "artists": [
-        {
-          "name": "Honoka Suzuki",
-          "url": "https://open.spotify.com/artist/21dcXRiXjtW1CCVn5ju3Qv"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Yume Made Ato Sukoshi - Japanese Version",
-      "url": "https://open.spotify.com/track/3zESmhpwKepaSFsQ3jJRQY"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Toy Story 4 (Japanese Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD"
-      },
-      "artists": [
-        {
-          "name": "Diamond Yukai",
-          "url": "https://open.spotify.com/artist/2Xgqw0qSxzLPXOgPg1NEUL"
-        }
-      ],
-      "duration_ms": 129213,
-      "name": "I Can't Let You Throw Yourself Away - Japanese Version",
-      "url": "https://open.spotify.com/track/562r9e6J91tP6cDptGDImn"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Disney Best Japanese",
-        "url": "https://open.spotify.com/album/6usBI43leSZFRQktMQcUv4"
-      },
-      "artists": [
-        {
-          "name": "Ryuta Yamamoto",
-          "url": "https://open.spotify.com/artist/3riv8ZTBmroQGrncwF029G"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Bokura Ha Hitotsu - Japanese Version",
-      "url": "https://open.spotify.com/track/4L3ILkdcOEqCuWa9sH6FTd"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland Enchanted Tale of Beauty and the Beast",
-        "url": "https://open.spotify.com/album/35PXCDVXWeN5UOIxYxRDu7"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 437560,
-      "name": "Enchanted Tale of Beauty and the Beast - Ride-Through Mix",
-      "url": "https://open.spotify.com/track/557f6dpF16fKrcE3TptXTx"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6jjmiHPt4RoGkmDTmH4dnk"
-      },
-      "artists": [
-        {
-          "name": "Minami Kizuki",
-          "url": "https://open.spotify.com/artist/3iklqyLETq25WsazEFbL29"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Reflection - Japanese",
-      "url": "https://open.spotify.com/track/6XSSeiWfwiyRhAq2SzeeUb"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ"
-      },
-      "artists": [
-        {
-          "name": "Kazutaka Ishii",
-          "url": "https://open.spotify.com/artist/2E3u3DFA1rwICiHqlXJ05L"
-        },
-        {
-          "name": "Kaori Asoh",
-          "url": "https://open.spotify.com/artist/2sp5IWEoWjGdIVAUXZk7mn"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "A Whole New World - Japanese Version",
-      "url": "https://open.spotify.com/track/25W9H9MwBZ3Ju0nELdgTeS"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Hercules (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/7EmZAi08IILcveityNOOg7"
-      },
-      "artists": [
-        {
-          "name": "Shizuka Kudo",
-          "url": "https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W"
-        }
-      ],
-      "duration_ms": 139066,
-      "name": "I Won't Say (I'm in Love) / Shizuka Kudo",
-      "url": "https://open.spotify.com/track/47uXVw03YKVTUI2uQa14i5"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "My First Disney Original Soundtrack Best Japanese Version",
-        "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
-      },
-      "artists": [
-        {
-          "name": "Marsa Sakamoto",
-          "url": "https://open.spotify.com/artist/4T481uMcsXEnEqvNS5CzG6"
-        },
-        {
-          "name": "Toshiko Fujita",
-          "url": "https://open.spotify.com/artist/5y8t6BevHZCuKXVwnqAbYa"
-        }
-      ],
-      "duration_ms": 98080,
-      "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/4y4VNLL6EuZp1fEy5S8t7O"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
-      },
-      "artists": [
-        {
-          "name": "Koichi Yamadera",
-          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
-        },
-        {
-          "name": "Eri Ito",
-          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
-        },
-        {
-          "name": "Shintaro Sonooka",
-          "url": "https://open.spotify.com/artist/2wMZWtMZaw1jCYkL9evMCZ"
-        },
-        {
-          "name": "Ryusei Nakao",
-          "url": "https://open.spotify.com/artist/2RcS47TgXS4sQM2r0QfIBh"
-        },
-        {
-          "name": "Yutaka Oda",
-          "url": "https://open.spotify.com/artist/4txzpEXMlLubRkm52dpMFe"
-        },
-        {
-          "name": "Kozo Shioya",
-          "url": "https://open.spotify.com/artist/10D4tBG5mUPnF3ThELDaxp"
-        }
-      ],
-      "duration_ms": 199373,
-      "name": "I'll Make a Man Out Of You",
-      "url": "https://open.spotify.com/track/2kNZ0qkNtOLSdBMgbzNPLj"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Pocahontas (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/2lV7tZKzKc3ZJTuFkwTjjk"
-      },
-      "artists": [
-        {
-          "name": "Yuko Doi",
-          "url": "https://open.spotify.com/artist/3pvSzmwej4hkNWulxt2L1c"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Colors Of The Wind - From \"Pocahontas\"",
-      "url": "https://open.spotify.com/track/6GUa2PovmLzPOycGsSFx7m"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6jjmiHPt4RoGkmDTmH4dnk"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 166199,
-      "name": "Loyal Brave True",
-      "url": "https://open.spotify.com/track/0w0KKAb5KWnLmByZeeYuBC"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Lion King (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/3pkboIyEctoZm4KkfJUbKG"
-      },
-      "artists": [
-        {
-          "name": "Miwa Sugai",
-          "url": "https://open.spotify.com/artist/7ccZnn7DoOewHZQNaiwZMJ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Circle of Life/Nants' Ingonyama",
-      "url": "https://open.spotify.com/track/1vC9PjJBJzir6VoPwt8fCd"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Surface Pressure",
-      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland The Happy Ride with Baymax",
-        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 94533,
-      "name": "Ba La La La La La La La La",
-      "url": "https://open.spotify.com/track/5WHIxm29a6WehTfqQ1CxRi"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/7zDGaKFf29c032M3TBUfiV"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Beauty and the Beast - Duet",
-      "url": "https://open.spotify.com/track/33ZEJKgAdlwfHRjt5vPj21"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Connected to Disney",
-        "url": "https://open.spotify.com/album/7hASA0RLTlSJkWJSsECtMw"
-      },
-      "artists": [
-        {
-          "name": "Mafumafu",
-          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/1lWiRlGQXRnl7vteFcelh7"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Enchanted (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0RhNiFVXaeFxFfYXc7kT3n"
@@ -2025,31 +1665,7 @@
       "url": "https://open.spotify.com/track/1pHfFtFwU6OJ3TCqI74kMF"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/6UukgujkH5uU8VFMmoUnfK"
-      },
-      "artists": [
-        {
-          "name": "Natsumi Kon",
-          "url": "https://open.spotify.com/artist/4BAbHdOUnCdzrUyq8H9EhP"
-        },
-        {
-          "name": "Mitsuo Yoshihara",
-          "url": "https://open.spotify.com/artist/3zwcdmzcjO5SbqOrJjfIpY"
-        },
-        {
-          "name": "Ensemble - Beauty and the Beast",
-          "url": "https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR"
-        }
-      ],
-      "duration_ms": 333253,
-      "name": "Belle",
-      "url": "https://open.spotify.com/track/6uQsgT4W0Ml0SwByuXjgxY"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy"
@@ -2073,27 +1689,7 @@
       "url": "https://open.spotify.com/track/614Ui9QhoUJKh9D4aKZFMX"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Stitch Best",
-        "url": "https://open.spotify.com/album/6EDAwPF3FYiTEuy7rc7ox8"
-      },
-      "artists": [
-        {
-          "name": "Mark Keali'i Ho'omalu",
-          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
-        },
-        {
-          "name": "Kamehameha Schools Children's Chorus",
-          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Hawaiian Roller Coaster Ride - From \"Lilo & Stitch\"",
-      "url": "https://open.spotify.com/track/15cB9UbSZphJUSp6c8HlzY"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/6UukgujkH5uU8VFMmoUnfK"
@@ -2109,7 +1705,7 @@
       "url": "https://open.spotify.com/track/2hTM3YrbvgCf2tCl2iBWMT"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "My First Disney Original Soundtrack Best Japanese Version",
         "url": "https://open.spotify.com/album/0Hu1cNb4uGnujq2XqOJrBx"
@@ -2129,23 +1725,7 @@
       "url": "https://open.spotify.com/track/1O1gmfZyuoynkLyRJqU0zz"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
-      },
-      "artists": [
-        {
-          "name": "Eri Ito",
-          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Reflection - From \"Mulan\"",
-      "url": "https://open.spotify.com/track/6HozDOA1E0OV6pMqKtxNeK"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/7zDGaKFf29c032M3TBUfiV"
@@ -2169,39 +1749,7 @@
       "url": "https://open.spotify.com/track/5C8U2cJ9A5xIncq0FjHqi5"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/6EG3aBo1p7mVAgZSiMZbL0"
-      },
-      "artists": [
-        {
-          "name": "Matsuya Onoe",
-          "url": "https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "You're Welcome - Japanese Version",
-      "url": "https://open.spotify.com/track/1XP4NqQvnGcuAR3iZ2SiiI"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland The Happy Ride with Baymax",
-        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 100706,
-      "name": "One Sweet Ride",
-      "url": "https://open.spotify.com/track/3q8anc3vW8V4qBANm8kal5"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Ralph Breaks the Internet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/048JsTsIKUFtYHpsGfR3vj"
@@ -2217,7 +1765,23 @@
       "url": "https://open.spotify.com/track/5LpkHHpOsSIFCSjUhkpKzL"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Tokyo Disneyland The Happy Ride with Baymax",
+        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disneyland",
+          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
+        }
+      ],
+      "duration_ms": 89320,
+      "name": "B-A-Y-M-A-X",
+      "url": "https://open.spotify.com/track/2UQDkNbv8wSQvvzyhAUSyC"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Tangled (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/2K4lTHYqxfUrgPiuqTCdSb"
@@ -2249,63 +1813,23 @@
       "url": "https://open.spotify.com/track/0x6KKx5DATCW0tBdosjMyg"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/7zDGaKFf29c032M3TBUfiV"
+        "name": "Connected to Disney",
+        "url": "https://open.spotify.com/album/7hASA0RLTlSJkWJSsECtMw"
       },
       "artists": [
         {
-          "name": "Eri Ito",
-          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
-        },
-        {
-          "name": "Koichi Yamadera",
-          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
+          "name": "Mafumafu",
+          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
         }
       ],
-      "duration_ms": 136200,
-      "name": "Something There - Japanese Version",
-      "url": "https://open.spotify.com/track/4WCgGeH512Q9aXUSqpZ0iS"
+      "duration_ms": 151413,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/1lWiRlGQXRnl7vteFcelh7"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Turning Red (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
-      },
-      "artists": [
-        {
-          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
-          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Finneas O'Connell",
-          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
-        },
-        {
-          "name": "Topher Ngo",
-          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
-        },
-        {
-          "name": "Grayson Villanueva",
-          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
-        },
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "Nobody Like U",
-      "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Cruella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Os0o1zAzszqNfbg4yFsVj"
@@ -2321,23 +1845,7 @@
       "url": "https://open.spotify.com/track/1Jx8CmvsnWWfwNhSRMqDR9"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Colombia, Mi Encanto",
-      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Tarzan - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
@@ -2353,7 +1861,7 @@
       "url": "https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
@@ -2385,7 +1893,7 @@
       "url": "https://open.spotify.com/track/6kAopJAwSQ0TNhjmR6mZrj"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "A Goofy Movie",
         "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
@@ -2405,39 +1913,7 @@
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/11xH29oetpVw9g9DAhXTUA"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 441453,
-      "name": "The Incredits",
-      "url": "https://open.spotify.com/track/3EVjVuIfi8Xcju9V5EMtKI"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland The Happy Ride with Baymax",
-        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 92253,
-      "name": "A New Angle",
-      "url": "https://open.spotify.com/track/7rZQBusYuMdU7GLogyq0Ec"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
@@ -2453,23 +1929,35 @@
       "url": "https://open.spotify.com/track/2o1fUq9Ac6zt0ml20DyJQn"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/7zDGaKFf29c032M3TBUfiV"
+        "name": "The MousePack \u2013 Mickey and Friends Singing Classic Standards",
+        "url": "https://open.spotify.com/album/7gPVGHm0w6sQWtCIAOmDgw"
       },
       "artists": [
         {
-          "name": "POPURA",
-          "url": "https://open.spotify.com/artist/3FlYS9aq8N81ifZ7eVJY4N"
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
         }
       ],
-      "duration_ms": 163773,
-      "name": "Beauty and the Beast - Japanese Version",
-      "url": "https://open.spotify.com/track/100yYdu1VT6K0o4oRuAXuH"
+      "duration_ms": 179000,
+      "name": "Think of Mickey Mouse",
+      "url": "https://open.spotify.com/track/5jC1oRgGWIWjhX3uAg7rzc"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Alice in Wonderland (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/3bqJmxjWQFFBOz88ZR25Jv"
@@ -2485,7 +1973,7 @@
       "url": "https://open.spotify.com/track/4evLKKBqN9n4xDMHelTeS1"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DXPA4HHEplaphwTXwD21i"
@@ -2501,55 +1989,23 @@
       "url": "https://open.spotify.com/track/7Fqn9Yd8Zqb5WLqtw2gihg"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
-        "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ"
+        "name": "Disney Happy Piano Tunes",
+        "url": "https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x"
       },
       "artists": [
         {
-          "name": "Koichi Yamadera",
-          "url": "https://open.spotify.com/artist/0lo8UTi4CnnajMXlavxCDo"
+          "name": "HARAMIchan",
+          "url": "https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Friend Like Me - Japanese Version",
-      "url": "https://open.spotify.com/track/6V0ctW09GeGXwRwXYRcJG2"
+      "duration_ms": 146200,
+      "name": "Mickey Mouse March",
+      "url": "https://open.spotify.com/track/0ShNjMCOJjqpQ0xESaeeXy"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "The Lion King (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy"
-      },
-      "artists": [
-        {
-          "name": "Yuji Mitsuya",
-          "url": "https://open.spotify.com/artist/4tBZD1Vc4QKjFPtN2BJv0G"
-        },
-        {
-          "name": "Yukiko Yamashita",
-          "url": "https://open.spotify.com/artist/2Uc4qUr048bKd1OmHsxXUp"
-        },
-        {
-          "name": "Riko Hanamura",
-          "url": "https://open.spotify.com/artist/4VQFzTMgnFpUCrNqhBS06j"
-        },
-        {
-          "name": "Mitsuru Miyamoto",
-          "url": "https://open.spotify.com/artist/4Yfdy8Nlgdj0bbQrqLsVap"
-        },
-        {
-          "name": "Atom Kobayashi",
-          "url": "https://open.spotify.com/artist/58WunyNa6OTJhdgcpXnCDr"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Can You Feel the Love Tonight - Japanese Version",
-      "url": "https://open.spotify.com/track/2cimYdaqIfLYbBXLb6v3kP"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR"
@@ -2569,7 +2025,7 @@
       "url": "https://open.spotify.com/track/3aycp7hfnfSstrSsn7v92I"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Brave (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/7jTkneRqGQrfKmAfFLY4Kp"
@@ -2585,7 +2041,7 @@
       "url": "https://open.spotify.com/track/3ClKDQHFCrrbSNp8kg4DpF"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Disney Villains Songbook",
         "url": "https://open.spotify.com/album/7qNyT8Uno8tTsAF3tHZ4As"
@@ -2601,55 +2057,7 @@
       "url": "https://open.spotify.com/track/2YbllTGzCL8kUadDbRZ06x"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Cruella (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Call me Cruella",
-      "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland The Happy Ride with Baymax",
-        "url": "https://open.spotify.com/album/5UxE2ow6iPQztXA0Yn6o8k"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 92613,
-      "name": "Koo Loo Lee",
-      "url": "https://open.spotify.com/track/37kWdDQx7pDHYkBBBQi9rz"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Chip 'n Dale: Rescue Rangers (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4ziA2GytdOLHhglQEjsH"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Chip 'n Dale Rescue Rangers Theme",
-      "url": "https://open.spotify.com/track/1X60krj9l60b8IPvKlfYmh"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/5S0T4c50ZC0VsUdJQyBDbQ"
@@ -2665,7 +2073,7 @@
       "url": "https://open.spotify.com/track/6ecDTWvGTbF3494W7qjKXb"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
@@ -2681,87 +2089,7 @@
       "url": "https://open.spotify.com/track/5pUjRbA8aSPKNjv53OGyfz"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Alice In Wonderland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx"
-      },
-      "artists": [
-        {
-          "name": "Bill Thompson",
-          "url": "https://open.spotify.com/artist/5qUyUS9vNS4ei4hm7ysj8W"
-        }
-      ],
-      "duration_ms": 42760,
-      "name": "I'm Late",
-      "url": "https://open.spotify.com/track/7joekz6jMhNuj3EQhyKsm2"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Tokyo Disneyland Music Album",
-        "url": "https://open.spotify.com/album/0hxYabTtNdn3SisbrYp6tU"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Disneyland",
-          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Roger Rabbit's Car Toon Spin Ride-Through",
-      "url": "https://open.spotify.com/track/0WihtMy7l4ET0YQF0DbdLh"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Alice in Wonderland: Music from the Score, Conducted by Camarata",
-        "url": "https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj"
-      },
-      "artists": [
-        {
-          "name": "Camarata Chorus and Orchestra",
-          "url": "https://open.spotify.com/artist/0iwhPeDYMRoXZYNvY8c4C9"
-        }
-      ],
-      "duration_ms": 132906,
-      "name": "Unbirthday Song",
-      "url": "https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Toy Story 4 (Japanese Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 136786,
-      "name": "Ducky, Bunny & Tea",
-      "url": "https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Super Friendship! - Disney Music Collection",
-        "url": "https://open.spotify.com/album/7urwdqe8iByOWPF1mrZ6oI"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 58280,
-      "name": "Oo-De-Lally - From \"Robin Hood\"",
-      "url": "https://open.spotify.com/track/4Zwtp7j5x8QcU2VRyFgKQ3"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Mickey Mouse and his Friends",
         "url": "https://open.spotify.com/album/4NqS1BaGSwcMHDpT1zUvJb"
@@ -2777,7 +2105,23 @@
       "url": "https://open.spotify.com/track/66i7ZhIWErcD2JoNVAzkxR"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "Chip 'n Dale: Rescue Rangers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4ziA2GytdOLHhglQEjsH"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Chip 'n Dale Rescue Rangers Theme",
+      "url": "https://open.spotify.com/track/1X60krj9l60b8IPvKlfYmh"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Mickey Mouse and his Friends",
         "url": "https://open.spotify.com/album/4NqS1BaGSwcMHDpT1zUvJb"
@@ -2797,7 +2141,23 @@
       "url": "https://open.spotify.com/track/46ZH0FJ6pWW9R5u5tqwq6a"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
+      "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack/Japan Release Version)",
+        "url": "https://open.spotify.com/album/11xH29oetpVw9g9DAhXTUA"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 441453,
+      "name": "The Incredits",
+      "url": "https://open.spotify.com/track/3EVjVuIfi8Xcju9V5EMtKI"
+    },
+    {
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Steamboat Willie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/10ahmVYvfoND25ZelOzUhB"
@@ -2813,91 +2173,7 @@
       "url": "https://open.spotify.com/track/0OFx1SDlSF7BueX3xZBjG4"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Can't Stop Loving! - Disney Music Collection",
-        "url": "https://open.spotify.com/album/2jj1wjwz4mKgZAdhb11fBZ"
-      },
-      "artists": [
-        {
-          "name": "Disney Studio Chorus",
-          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
-        }
-      ],
-      "duration_ms": 121493,
-      "name": "Minnie's Yoo Hoo",
-      "url": "https://open.spotify.com/track/1qDg1v3z0RLnMoy8HRLH82"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/30ztQHKhC0EqPNkAt6QQIK"
-      },
-      "artists": [
-        {
-          "name": "Amy Lou Barnes",
-          "url": "https://open.spotify.com/artist/4R0cSnUwirqaBOdD7CGKJh"
-        },
-        {
-          "name": "Sally Mueller",
-          "url": "https://open.spotify.com/artist/6Knu1GBSexbXop7ougKLc3"
-        },
-        {
-          "name": "Mary Moder",
-          "url": "https://open.spotify.com/artist/00ud2vhOOcbrUyGGYPSTYh"
-        },
-        {
-          "name": "Alice Sixer",
-          "url": "https://open.spotify.com/artist/38hKa4GYWbtkBXufkutBBn"
-        },
-        {
-          "name": "Betty Bayne",
-          "url": "https://open.spotify.com/artist/0F23svEwc83LQJTYeLDpXf"
-        },
-        {
-          "name": "Disney Studio Chorus",
-          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Little April Shower - From \"Bambi\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/1OwcR9OYz2vuUttTQSOVZN"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Dumbo (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/4oLEtnE0leJD5nTvMt5M9N"
-      },
-      "artists": [
-        {
-          "name": "Chorus - Dumbo",
-          "url": "https://open.spotify.com/artist/5fiF75Ccnqpfw9O1BONri2"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Loading The Train / Casey Junior / Stork on a Cloud / Straight from Heaven / Mother and Baby / Arrival at Night",
-      "url": "https://open.spotify.com/track/7tLchitcsTUSLVyFCdQ5Dk"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Pinocchio (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/2Ukd1uSEwcwQgwnH8ViJ0J"
-      },
-      "artists": [
-        {
-          "name": "Dickie Jones",
-          "url": "https://open.spotify.com/artist/0bGGvfpbJAFYj1rX6ScbbJ"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "I've Got No Strings",
-      "url": "https://open.spotify.com/track/0BRWA3P1gmvrUhvr7isEFT"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Lady and the Tramp (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/3MOq0aoWf3AzFqTUHkyu9T"
@@ -2917,7 +2193,7 @@
       "url": "https://open.spotify.com/track/44X7szBAN7bQMFh9xrt1GE"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Winnie the Pooh 80th Anniversary Album",
         "url": "https://open.spotify.com/album/6GuR8bSNDEducyRg4269D4"
@@ -2933,7 +2209,7 @@
       "url": "https://open.spotify.com/track/1BXKzjmrLDWBcwkLsNodD5"
     },
     {
-      "added_at": "2024-04-18 06:00:00",
+      "added_at": "2024-08-30 08:19:59",
       "album": {
         "name": "Peter Pan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob"
@@ -2963,90 +2239,6 @@
       "duration_ms": 264280,
       "name": "You Can Fly! You Can Fly! You Can Fly!",
       "url": "https://open.spotify.com/track/1HTqoEMp8bRSfPDM7c5xIm"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
-      },
-      "artists": [
-        {
-          "name": "Ilene Woods",
-          "url": "https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj"
-        },
-        {
-          "name": "Mice Chorus",
-          "url": "https://open.spotify.com/artist/3gcnVAcMBdtYbril7EqBz6"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "A Dream Is a Wish Your Heart Makes",
-      "url": "https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Super Friendship! - Disney Music Collection",
-        "url": "https://open.spotify.com/album/7urwdqe8iByOWPF1mrZ6oI"
-      },
-      "artists": [
-        {
-          "name": "Karl Swensen",
-          "url": "https://open.spotify.com/artist/6qVSV0PF2s5wYGkkE0w7hW"
-        },
-        {
-          "name": "Ricky Sorenson",
-          "url": "https://open.spotify.com/artist/5IN3eGsI857KSCShFWkv8d"
-        }
-      ],
-      "duration_ms": 106146,
-      "name": "Higitus Figitus - From \"The Sword In the Stone\"",
-      "url": "https://open.spotify.com/track/4DItdR57qt33oRwfL7sWQE"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Alice in Wonderland (Original Motion Picture Soundtrack/Japan Release Version)",
-        "url": "https://open.spotify.com/album/3bqJmxjWQFFBOz88ZR25Jv"
-      },
-      "artists": [
-        {
-          "name": "Kathryn Beaumont",
-          "url": "https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls"
-        },
-        {
-          "name": "Edwynn",
-          "url": "https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5"
-        },
-        {
-          "name": "James Macdonald",
-          "url": "https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g"
-        },
-        {
-          "name": "Jerry Colonna",
-          "url": "https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch",
-      "url": "https://open.spotify.com/track/4puhLE73vKmE28RgJtbR4v"
-    },
-    {
-      "added_at": "2024-04-18 06:00:00",
-      "album": {
-        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
-      },
-      "artists": [
-        {
-          "name": "Adriana Caselotti",
-          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "Whistle While You Work",
-      "url": "https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv"
     }
   ],
   "unique_name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30d2\u30c3\u30c4\u30fb\u30b8\u30e3\u30d1\u30f3",

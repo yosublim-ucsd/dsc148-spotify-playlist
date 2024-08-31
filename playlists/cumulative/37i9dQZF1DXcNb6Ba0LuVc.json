@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "camellia",
+        "url": "https://open.spotify.com/album/4cIHkWwWqlqegjsR6J4tzM"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127692,
+      "name": "camellia",
+      "url": "https://open.spotify.com/track/0whBmEP3B9AMBaAm3LSjKn"
+    },
+    {
+      "album": {
         "name": "Vacation Plans",
         "url": "https://open.spotify.com/album/3ALLfEOHgPmkVrjehNyb9D"
       },
@@ -1969,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Days to Come",
+        "url": "https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Days to Come",
+      "url": "https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F"
+    },
+    {
+      "album": {
         "name": "de la bell-m\u00e9re",
         "url": "https://open.spotify.com/album/0QIgwejCiO4kxYmp6q9YzX"
       },
@@ -1984,6 +2020,24 @@
       "duration_ms": 108250,
       "name": "de la bell-m\u00e9re",
       "url": "https://open.spotify.com/track/5tjs8JIPAWEMXXt5WKSZbX"
+    },
+    {
+      "album": {
+        "name": "Dear Old Procrastination",
+        "url": "https://open.spotify.com/album/19PcK0HDCOyxzbyLPT4ntX"
+      },
+      "artists": [
+        {
+          "name": "kdj_77",
+          "url": "https://open.spotify.com/artist/0gOMLuuQAYeuZZxFsS6AcO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116082,
+      "name": "Dear Old Procrastination",
+      "url": "https://open.spotify.com/track/1OJO5LXK8B2V6CLrs0eFAP"
     },
     {
       "album": {
@@ -2461,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "find a way",
+        "url": "https://open.spotify.com/album/6UgG0uoEyMK5ZjGaTKrtOc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kadinsky",
+          "url": "https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "find a way",
+      "url": "https://open.spotify.com/track/5WYNjLzaEi7QFgNqPYgW0N"
+    },
+    {
+      "album": {
         "name": "Floaty Boi",
         "url": "https://open.spotify.com/album/6rxXyvP6xKjQJjBw27m3XB"
       },
@@ -2552,7 +2624,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 118000,
       "name": "Flow",
       "url": "https://open.spotify.com/track/3kgAwm0CzWaWybIB4LEo4W"
@@ -2994,7 +3066,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 226812,
       "name": "Golden Cat",
       "url": "https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1"
@@ -3416,7 +3488,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166170,
       "name": "High Coast Beat",
       "url": "https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG"
@@ -3836,6 +3908,24 @@
       "duration_ms": 136223,
       "name": "Jazz for my soul",
       "url": "https://open.spotify.com/track/4MD7x2aG2Tcmx6fXDhC6pI"
+    },
+    {
+      "album": {
+        "name": "JazzRevelations",
+        "url": "https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "JazzRevelations",
+      "url": "https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru"
     },
     {
       "album": {
@@ -5707,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Time of the Year",
+        "url": "https://open.spotify.com/album/2sVCmZCwO2W5bgGzlbSgwH"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198550,
+      "name": "My Favorite Time of the Year",
+      "url": "https://open.spotify.com/track/62yrP9OEp9IYlAa0xk3tdj"
+    },
+    {
+      "album": {
         "name": "Naru",
         "url": "https://open.spotify.com/album/2UFCvN7iuvVsbCMjVfggnJ"
       },
@@ -5740,7 +5848,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 113766,
       "name": "new era",
       "url": "https://open.spotify.com/track/7CTGxw6PA0sBp8hV9e9BjQ"
@@ -5780,6 +5888,24 @@
       "duration_ms": 146034,
       "name": "New Orleans By Night",
       "url": "https://open.spotify.com/track/0FtlCHERRq4C7hrgIqhIpJ"
+    },
+    {
+      "album": {
+        "name": "Nicosia",
+        "url": "https://open.spotify.com/album/7LBJjgzR9DS2zwzOzVjAJD"
+      },
+      "artists": [
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114943,
+      "name": "Nicosia",
+      "url": "https://open.spotify.com/track/0s5pKkA3WQsR2LWjO9ZXab"
     },
     {
       "album": {
@@ -7089,6 +7215,28 @@
     },
     {
       "album": {
+        "name": "Sabai",
+        "url": "https://open.spotify.com/album/13l7e8BFiDueEXir67SEeD"
+      },
+      "artists": [
+        {
+          "name": "fl\u00e2neur",
+          "url": "https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sabai",
+      "url": "https://open.spotify.com/track/44qql1ujljCnblwDQ6cI77"
+    },
+    {
+      "album": {
         "name": "safety match",
         "url": "https://open.spotify.com/album/0rUBTL4CTReuG3tx7HFjwh"
       },
@@ -7212,7 +7360,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160975,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H"
@@ -8079,6 +8227,28 @@
     },
     {
       "album": {
+        "name": "Sun Pearl",
+        "url": "https://open.spotify.com/album/0ZHyru8Q1RIVDSjwjkKsZA"
+      },
+      "artists": [
+        {
+          "name": "Smeeagain",
+          "url": "https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ"
+        },
+        {
+          "name": "Prime8",
+          "url": "https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149101,
+      "name": "Sun Pearl",
+      "url": "https://open.spotify.com/track/5LjZEYX7n9A11HWjK6p6i4"
+    },
+    {
+      "album": {
         "name": "sunburn",
         "url": "https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ"
       },
@@ -8126,7 +8296,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175215,
       "name": "Sundown Avenue",
       "url": "https://open.spotify.com/track/0eb3ipy85WFgCcV0JZFL7y"
@@ -9242,6 +9412,28 @@
       "duration_ms": 181428,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/4GSPOPaOAMtkmIHgT6SZgL"
+    },
+    {
+      "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY"
     },
     {
       "album": {

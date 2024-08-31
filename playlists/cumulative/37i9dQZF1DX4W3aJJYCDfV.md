@@ -4,7 +4,7 @@
 
 > Brand new music from Rizzle Kicks \(pictured\),  Mabel,  Wunderhorse and more!
 
-12,142 songs - 27 day 7 hr 14 min
+12,145 songs - 27 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4568,7 +4568,7 @@
 | [Hennessy Brown](https://open.spotify.com/track/1iemBhrp9MVpTnxXYI3UnM) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [For Better, For Worse](https://open.spotify.com/album/38YQrMruyoZLOLI695h3xy) | 2:59 | 2023-06-29 | 2023-07-07 |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-10 | 2023-03-18 |
 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 | 2024-02-09 | 2024-02-16 |
-| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:52 | 2024-08-29 |  |
+| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-29 |  |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-13 | 2023-01-20 |
 | [Her Wings](https://open.spotify.com/track/19Wz8xYiIcD4yjUiUUexp9) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Noble Art Of Self Destruction](https://open.spotify.com/album/3aiw4bCQVAeJXZYJh74zAF) | 2:58 | 2023-08-24 | 2023-09-01 |
 | [Here](https://open.spotify.com/track/3YXt0GUNgOA6bZnhCqWFe3) | [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Here](https://open.spotify.com/album/3xJJJKLaOEt0yxG4WgxV2A) | 2:49 | 2023-04-20 | 2023-04-28 |
@@ -7222,6 +7222,7 @@
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 | 2024-05-24 |
 | [Nanny Riddim](https://open.spotify.com/track/3bGjIIBA2av8gLd96NtT9E) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Nanny Riddim](https://open.spotify.com/album/2tZI67yMJlBfssrexyV2we) | 3:56 | 2023-04-20 | 2023-04-28 |
 | [Nasty](https://open.spotify.com/track/0y7hXDEBQdhwtDOlH5UlYy) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Nasty](https://open.spotify.com/album/5Z3APvHKQXwpeaadcuCClE) | 2:48 | 2024-01-26 | 2024-02-02 |
+| [Nasty](https://open.spotify.com/track/29FBmRrebixRofs0flcm4O) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Nasty](https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj) | 2:36 | 2024-08-29 |  |
 | [National Treasure](https://open.spotify.com/track/1NAelXluOadIs690HXiBu2) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [National Treasure](https://open.spotify.com/album/2XTESrDblann0yfMWWHxRI) | 3:55 | 2024-06-27 | 2024-07-05 |
 | [natural disaster](https://open.spotify.com/track/3Hr1xXijRLlKRUJl94QNxQ) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [natural disaster](https://open.spotify.com/album/7hpW9IBCs3sYzD6L6AhOr4) | 3:27 | 2022-12-23 | 2023-01-06 |
 | [Natural Magick](https://open.spotify.com/track/3NonGoCZn40ClxWESdsDjS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Natural Magick](https://open.spotify.com/album/5k5TALqbCDXxUpwSin96Ys) | 4:01 | 2024-01-05 | 2024-01-12 |
@@ -8043,6 +8044,7 @@
 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-07-06 | 2023-07-14 |
 | [Palmwine Riddim](https://open.spotify.com/track/1GjKddJU8jWhigwtocBith) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Palmwine Riddim](https://open.spotify.com/album/4bZ9chhQU2vfLjEqtA5EPw) | 3:15 | 2023-08-31 | 2023-09-08 |
 | [Palo Alto](https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Palo Alto](https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF) | 3:46 | 2024-06-13 | 2024-06-21 |
+| [PALOMA](https://open.spotify.com/track/15Zt1IvSOneOx9S7pOpjQ6) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [PALOMA](https://open.spotify.com/album/1lpkmh9MejKDWjgg4gHeAh) | 3:41 | 2024-08-29 |  |
 | [Palomino](https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:17 | 2022-11-04 | 2022-11-11 |
 | [PAMELA](https://open.spotify.com/track/4G3axOEaeRZ95EIbubQbQu) | [Gwamz](https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [PAMELA](https://open.spotify.com/album/3sgshiWcl1YVV4ywA1GEp2) | 3:33 | 2023-10-12 | 2023-10-20 |
 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 | 2023-10-26 | 2023-11-03 |
@@ -9742,6 +9744,7 @@
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-09 | 2024-05-17 |
 | [Staring In The Dark](https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Staring In The Dark](https://open.spotify.com/album/2jxqw18TEVeQ2GhNMq7Ht3) | 4:03 | 2023-03-24 | 2023-03-31 |
 | [Starlings](https://open.spotify.com/track/2FhmVF4McRFZ0Pr0ZZLGDv) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Starlings](https://open.spotify.com/album/0Rfat6EivGArSNu2CMUGVf) | 2:55 | 2023-03-17 | 2023-03-25 |
+| [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 |  |
 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 | 2023-05-26 |
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-12-01 | 2023-12-08 |

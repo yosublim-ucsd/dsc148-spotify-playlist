@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Cyclical",
+        "url": "https://open.spotify.com/album/6toM3c5h501cEzdwgKC0BV"
+      },
+      "artists": [
+        {
+          "name": "Silk Static",
+          "url": "https://open.spotify.com/artist/779yYJsjgxhz2dknVFpVuu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268166,
+      "name": "Cyclical",
+      "url": "https://open.spotify.com/track/3WBpq97vj7Yh41ZidKB9NU"
+    },
+    {
+      "album": {
         "name": "D.L.T.S.",
         "url": "https://open.spotify.com/album/6rQ6e7QW1kKL4hjjGH6d2v"
       },
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 203294,
       "name": "D.L.T.S.",
       "url": "https://open.spotify.com/track/4itHv44i5s61G2oFupL6uU"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
@@ -4798,7 +4816,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 141353,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/25leIaVDdC2lgJC1RAkNaS"
@@ -5620,7 +5638,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 248656,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/4NO6QK7TLn9oAgle11nDnE"
@@ -6886,6 +6904,24 @@
       "duration_ms": 144857,
       "name": "Monomyth",
       "url": "https://open.spotify.com/track/3eohbDWubHzKPcrXs4bHOE"
+    },
+    {
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/3zD6xkBwEYLPf4deiW9piV"
+      },
+      "artists": [
+        {
+          "name": "PIERCE",
+          "url": "https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/1VtcKcNnU9ho4dl2UPV8kt"
     },
     {
       "album": {
@@ -10801,6 +10837,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3sia",
+        "url": "https://open.spotify.com/album/1gjbbdW2LlKpZiT4uEZJuQ"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217208,
+      "name": "S\u00f3sia",
+      "url": "https://open.spotify.com/track/7lSEldgwOg3nYjQm4SBSy1"
+    },
+    {
+      "album": {
         "name": "Tabula / Deadly Habit",
         "url": "https://open.spotify.com/album/57eTxzjyN2zDkApfmwWKLj"
       },
@@ -12596,6 +12650,24 @@
       "duration_ms": 199779,
       "name": "You Don't Understand (feat. Jamie McCool) - Radio Edit",
       "url": "https://open.spotify.com/track/6qAHDU8cIqz7XJcQCwNATF"
+    },
+    {
+      "album": {
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/4Vy0NtBG294hCiF2EWLSCI"
+      },
+      "artists": [
+        {
+          "name": "MANSHN",
+          "url": "https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203508,
+      "name": "You Wanna",
+      "url": "https://open.spotify.com/track/08IoaMx0IjJdLNNXX95WuF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doechii",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 134522,
       "name": "BOOM BAP",
       "url": "https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D"
@@ -4407,6 +4407,28 @@
     },
     {
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "KUNTFETISH",
+          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/61vp2Gh0Ggz9tWHqe8vEQQ"
+    },
+    {
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -4748,7 +4770,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142616,
       "name": "Hoe Please",
       "url": "https://open.spotify.com/track/7F5arGBPyG6QnYNwB1Cc8i"
@@ -9904,6 +9926,28 @@
       "duration_ms": 187376,
       "name": "Telfy",
       "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
+    },
+    {
+      "album": {
+        "name": "Cocky on Purpose 2",
+        "url": "https://open.spotify.com/album/4s7ReNcddaGsq2bmgUAO5M"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Ralo",
+          "url": "https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0nu0nKOAapse83G3orhXIW"
     },
     {
       "album": {

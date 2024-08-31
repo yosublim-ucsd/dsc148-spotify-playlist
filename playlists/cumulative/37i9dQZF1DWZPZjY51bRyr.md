@@ -4,12 +4,12 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-224 songs - 11 hr 41 min
+225 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [432 Hz \- Din Aur Raat](https://open.spotify.com/track/3TM9284Jq1JRm0EouDrEGa) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [432 Hz \- Din Aur Raat](https://open.spotify.com/album/0bFlvpmQGGiH43x1n29ptn) | 2:32 | 2024-07-18 |  |
-| [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 |  |
+| [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 | 2023-10-26 | 2024-08-31 |
 | [432 Hz Lotus](https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan) | [Vanessa Parson](https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I) | [432 Hz Lotus](https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI) | 2:58 | 2024-07-18 |  |
 | [432 Hz Serenity Embrace](https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj) | [Juni Willow](https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8) | [432 Hz Serenity Embrace](https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh) | 2:41 | 2023-09-25 |  |
 | [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 | 2023-03-28 | 2024-08-11 |
@@ -157,6 +157,7 @@
 | [peaceful year calling](https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful year calling](https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf) | 3:08 | 2023-02-17 |  |
 | [Perceive](https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET) | [Julianne Pascal](https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO) | [Perceive](https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO) | 2:53 | 2023-05-19 |  |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
+| [Plenty](https://open.spotify.com/track/60tWghdZKTWx5UiOJvKCRZ) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Plenty](https://open.spotify.com/album/2vGMc1zVBTv6GZ8vIIh7fl) | 2:35 | 2024-08-02 |  |
 | [Polysomnography](https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Somniloquy](https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca) | 1:52 | 2023-12-15 |  |
 | [Pravāsa](https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 2:57 | 2023-02-17 |  |
 | [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2023-02-17 |  |

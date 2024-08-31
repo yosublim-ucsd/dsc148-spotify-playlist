@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: 347aidan",
+  "description": "The best rock songs of the moment. Cover: Lola Young",
   "name": "Rock Now",
   "tracks": [
     {
@@ -436,6 +436,24 @@
       "duration_ms": 241954,
       "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
+    },
+    {
+      "album": {
+        "name": "Death or Glory",
+        "url": "https://open.spotify.com/album/0d057DHZkVhYZCDRrr1p5f"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Addicted to the Wicked & Twisted",
+      "url": "https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV"
     },
     {
       "album": {
@@ -1341,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX"
+    },
+    {
+      "album": {
         "name": "The Ballad of Darren",
         "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
       },
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
@@ -2322,7 +2358,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189893,
       "name": "Dark Side of the Silver Spoon",
       "url": "https://open.spotify.com/track/1SVB858CfpWNgSh1iNk2IE"
@@ -6828,7 +6864,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 206277,
       "name": "Hottest Summer on Record",
       "url": "https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ"
@@ -8182,6 +8218,28 @@
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+    },
+    {
+      "album": {
+        "name": "Late To The Party (feat. Declan McKenna)",
+        "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Late To The Party (feat. Declan McKenna)",
+      "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
     },
     {
       "album": {
@@ -10528,6 +10586,24 @@
       "duration_ms": 130320,
       "name": "Next Ex",
       "url": "https://open.spotify.com/track/0STS8KJXMAwSr4OmJV2THj"
+    },
+    {
+      "album": {
+        "name": "NO",
+        "url": "https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148946,
+      "name": "NO",
+      "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
     },
     {
       "album": {
@@ -15881,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "Choke Hold",
+        "url": "https://open.spotify.com/album/7avibQveVA03ZGcknyu0dm"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167923,
+      "name": "Tongue Trick",
+      "url": "https://open.spotify.com/track/0nmVf8TKm9VPvgELV4u2EA"
+    },
+    {
+      "album": {
         "name": "Too Good At Raising Hell",
         "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
       },
@@ -16521,6 +16615,24 @@
     },
     {
       "album": {
+        "name": "Waiting For A Call",
+        "url": "https://open.spotify.com/album/34CojA2Qz1Vm4bcKunwbu0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Roy",
+          "url": "https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Waiting For A Call",
+      "url": "https://open.spotify.com/track/4Mb5Waenb5PhQcieVJJ6T9"
+    },
+    {
+      "album": {
         "name": "Waiting On A Twist Of Fate",
         "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
       },
@@ -16612,7 +16724,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 427456,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV"
@@ -17588,7 +17700,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 193281,
       "name": "Yo Me Estreso",
       "url": "https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw"

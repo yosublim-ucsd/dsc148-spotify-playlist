@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Abida Parveen.",
-  "num_followers": 957202,
+  "num_followers": 957299,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "the boy is mine (Remix)",
-        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173639,
-      "name": "the boy is mine",
-      "url": "https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176516,
       "name": "RAGAZZI FUORI",
       "url": "https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "the boy is mine (Remix)",
+        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/7LtN6cHZCPLkA3IPGx0p9Z"
-      },
-      "artists": [
-        {
-          "name": "Edurne",
-          "url": "https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh"
-        }
-      ],
-      "duration_ms": 181927,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/0JmPjf44OKneEFD8Xnfogq"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "\u041d\u0456\u0442\u0440\u043e\u0433\u043b\u0456\u0446\u0435\u0440\u0438\u043d",
         "url": "https://open.spotify.com/album/5nitMTajPTmjkgDb4j8zkR"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 153600,
       "name": "\u041d\u0456\u0442\u0440\u043e\u0433\u043b\u0456\u0446\u0435\u0440\u0438\u043d",
       "url": "https://open.spotify.com/track/4qyFdk6K9nY0u1EH4cb60j"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/7LtN6cHZCPLkA3IPGx0p9Z"
+      },
+      "artists": [
+        {
+          "name": "Edurne",
+          "url": "https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh"
+        }
+      ],
+      "duration_ms": 181927,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/0JmPjf44OKneEFD8Xnfogq"
     },
     {
       "added_at": "2024-08-21 04:00:00",

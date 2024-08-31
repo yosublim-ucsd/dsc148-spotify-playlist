@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/3uluoBVquoe909UgdgKruM"
+      },
+      "artists": [
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/4HEIMthWDEqLFWv3akzEFm"
+    },
+    {
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/2gLvq7aRQv8xuPtFHAoV1U"
       },
@@ -2166,6 +2184,32 @@
       "duration_ms": 179368,
       "name": "Es Hoy",
       "url": "https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI"
+    },
+    {
+      "album": {
+        "name": "ESTO YA LO SABIAS",
+        "url": "https://open.spotify.com/album/54EFcRu9vGXxvH66ekAouA"
+      },
+      "artists": [
+        {
+          "name": "Sixto Yegros",
+          "url": "https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152312,
+      "name": "ESTO YA LO SABIAS",
+      "url": "https://open.spotify.com/track/1lvQxJBDt8YIc6XsqVbt1A"
     },
     {
       "album": {
@@ -3195,6 +3239,36 @@
     },
     {
       "album": {
+        "name": "La 40",
+        "url": "https://open.spotify.com/album/3L2SJVDZekjxaNyAdE3pA1"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Franux BB",
+          "url": "https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A"
+        },
+        {
+          "name": "MC Buzzz",
+          "url": "https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199196,
+      "name": "La 40",
+      "url": "https://open.spotify.com/track/7iPJW3Nu7TtXxbLWZr9R7L"
+    },
+    {
+      "album": {
         "name": "La Renta",
         "url": "https://open.spotify.com/album/2l20GuWk6EWpV4ma3RaUy7"
       },
@@ -4086,7 +4160,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 244619,
       "name": "Nat Geo (Remix)",
       "url": "https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d"
@@ -5586,7 +5660,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 209531,
       "name": "She Don't Give a Fo",
       "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
@@ -5786,7 +5860,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 141578,
       "name": "Sold Out Dates",
       "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"

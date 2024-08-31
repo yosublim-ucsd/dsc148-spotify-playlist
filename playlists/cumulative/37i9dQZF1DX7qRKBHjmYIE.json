@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con RIZA & Humbe.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Niko Rubio & Cuco.",
   "name": "Mixto",
   "tracks": [
     {
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136551,
       "name": "day ONe",
       "url": "https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z"
@@ -12678,6 +12678,28 @@
       "duration_ms": 240000,
       "name": "SINSE",
       "url": "https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK"
+    },
+    {
+      "album": {
+        "name": "Sirena (feat. Cuco)",
+        "url": "https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212402,
+      "name": "Sirena (feat. Cuco)",
+      "url": "https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT"
     },
     {
       "album": {

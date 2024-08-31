@@ -457,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Every Nation - Live",
+        "url": "https://open.spotify.com/album/0ypMDJZ7SxjaFnY17OEoSx"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301710,
+      "name": "Not My Will - Live",
+      "url": "https://open.spotify.com/track/6v9pmSuiQug8VDuj2WHcrV"
+    },
+    {
+      "album": {
         "name": "Let Us Worship - Philadelphia",
         "url": "https://open.spotify.com/album/2JHJVdpsoO32fQq1xVDIDS"
       },

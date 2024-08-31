@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Mi santo - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4HAviQUTdLO4jUFXmYgegX"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133013,
+      "name": "Mi santo - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6rKOEyg05nKSRRErDmBWjy"
+    },
+    {
+      "album": {
         "name": "Mueve los Cachetes",
         "url": "https://open.spotify.com/album/0nvSc0w1MQtzvfoTOApU9M"
       },
@@ -3797,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "SOLITO",
+        "url": "https://open.spotify.com/album/3q7P4gYkqOLAcutqRVRBs3"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "SOLITO",
+      "url": "https://open.spotify.com/track/2ilbfcTeGunIQxcV0y7udM"
+    },
+    {
+      "album": {
         "name": "SOLTERO",
         "url": "https://open.spotify.com/album/1QGuXd9G1ymlQMq50ofEek"
       },
@@ -3898,7 +3934,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136530,
       "name": "Somo o No Somo",
       "url": "https://open.spotify.com/track/2xXnD17PPBCLvqe0HbMBCu"
@@ -4756,7 +4792,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 122500,
       "name": "Una Foto",
       "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"

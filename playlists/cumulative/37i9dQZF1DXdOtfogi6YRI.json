@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Mi\u0119tha",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Marceli Bober",
   "name": "alt rap",
   "tracks": [
     {
@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/38U8N2rwuwYJ5uImS6ZrvW"
+      },
+      "artists": [
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "Si\u00f3dmy",
+          "url": "https://open.spotify.com/artist/1Z1F0qGAue2gCt3KZdqyby"
+        },
+        {
+          "name": "DJ Cutahead",
+          "url": "https://open.spotify.com/artist/6MovydASW2zl87TtIH3BXz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196260,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0fdujokZXDAGjjRZahZalz"
+    },
+    {
+      "album": {
         "name": "3w1",
         "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
       },
@@ -68,6 +94,32 @@
       "duration_ms": 126315,
       "name": "3w1",
       "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
+    },
+    {
+      "album": {
+        "name": "A co, je\u015bli si\u0119 uda? - 1989 Musical",
+        "url": "https://open.spotify.com/album/13PpDhgpA9XQ6OrtzkjOc2"
+      },
+      "artists": [
+        {
+          "name": "Teatr im. Juliusza S\u0142owackiego w Krakowie",
+          "url": "https://open.spotify.com/artist/0D0rzwQq48o4RqbDbDvqsL"
+        },
+        {
+          "name": "GDA\u0143SKI TEATR SZEKSPIROWSKI",
+          "url": "https://open.spotify.com/artist/4QbXmjlpmE8ZNHkaeHTdqs"
+        },
+        {
+          "name": "\u0141ona I Webber",
+          "url": "https://open.spotify.com/artist/6DMuRVdgTNmZCYRlekKWvO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250862,
+      "name": "A co, je\u015bli si\u0119 uda? - 1989 Musical",
+      "url": "https://open.spotify.com/track/24t6BlxeSZQutmFglHchu9"
     },
     {
       "album": {
@@ -538,7 +590,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 158709,
       "name": "BOOM!",
       "url": "https://open.spotify.com/track/5ZYJODn17vPJl5cMiumtHd"
@@ -1147,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "pe\u0142ne serca puste drogi",
+        "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
+      },
+      "artists": [
+        {
+          "name": "Marceli Bober",
+          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
+        },
+        {
+          "name": "JupiJej",
+          "url": "https://open.spotify.com/artist/2k1FagZJCEG6HSZiGb5rvO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Godzina Premium",
+      "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
+    },
+    {
+      "album": {
         "name": "GREENPOINT / szybkistorytelling",
         "url": "https://open.spotify.com/album/7dGGzhq4DbPDASw3jwfwSJ"
       },
@@ -1307,6 +1381,46 @@
     },
     {
       "album": {
+        "name": "jak mam si\u0119 tym jara\u0107?",
+        "url": "https://open.spotify.com/album/5NpI7DzJlQ3L6ZOz1Byrpt"
+      },
+      "artists": [
+        {
+          "name": "chudy dredd",
+          "url": "https://open.spotify.com/artist/0Muaqh9wkA9mlQXDXOkTvU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "jak mam si\u0119 tym jara\u0107?",
+      "url": "https://open.spotify.com/track/0yUlkMnx27tJbmZDnABqH4"
+    },
+    {
+      "album": {
+        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        },
+        {
+          "name": "Zajac",
+          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
+    },
+    {
+      "album": {
         "name": "Jesie\u0144",
         "url": "https://open.spotify.com/album/1NfXXUPpBa8Dqne8RjWac3"
       },
@@ -1322,7 +1436,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183634,
       "name": "Jesie\u0144",
       "url": "https://open.spotify.com/track/0fowq1T4lenrPgS3og7NZt"
@@ -1348,7 +1462,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 167872,
       "name": "jesie\u0144 23'",
       "url": "https://open.spotify.com/track/7cMLXMdBkqDWLQckSjDObN"
@@ -1370,7 +1484,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190767,
       "name": "Jest p\u00f3\u017ano w nocy",
       "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
@@ -1506,7 +1620,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 170500,
       "name": "KOCHAMCISZ\u0118",
       "url": "https://open.spotify.com/track/1efC39rKu3CKifIpb3YiDk"
@@ -1558,10 +1672,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200000,
       "name": "KOLOR",
       "url": "https://open.spotify.com/track/7EiH6etfaTRfDCK1DsUfDz"
+    },
+    {
+      "album": {
+        "name": "kolor miasta",
+        "url": "https://open.spotify.com/album/1eGeNszp4K5Hl2mZJjnioF"
+      },
+      "artists": [
+        {
+          "name": "burek",
+          "url": "https://open.spotify.com/artist/1DbwaHIxGBPZfo6GrhUjbQ"
+        },
+        {
+          "name": "mayke",
+          "url": "https://open.spotify.com/artist/3pz6wDI5WQRQRWj3YtU89d"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "kolor miasta",
+      "url": "https://open.spotify.com/track/5KhAanqb8UnB6z22Cucuzg"
     },
     {
       "album": {
@@ -1913,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "Niech zgina si\u0119 blok",
+        "url": "https://open.spotify.com/album/7tjJYEiTUN4b3FPlvLveWJ"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1"
+        },
+        {
+          "name": "Popkiller M\u0142ode Wilki",
+          "url": "https://open.spotify.com/artist/2OVLyI3dZjmbV6jUNenhEt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Niech zgina si\u0119 blok",
+      "url": "https://open.spotify.com/track/3j4XPg70PPv91xbyoiiESo"
+    },
+    {
+      "album": {
         "name": "Noc w noc",
         "url": "https://open.spotify.com/album/6frhXaQ5hP8QNJDSCo4sBv"
       },
@@ -2090,7 +2248,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202085,
       "name": "Pantomima",
       "url": "https://open.spotify.com/track/5RL8BbSQGaFXjox1ghbc0L"
@@ -2698,7 +2856,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 139380,
       "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
       "url": "https://open.spotify.com/track/1m20vvsWe5TKGGxDGluLVy"
@@ -2867,6 +3025,28 @@
     },
     {
       "album": {
+        "name": "TO JU\u017b CZAS",
+        "url": "https://open.spotify.com/album/0lKfTCNeiO3tlJ4JiSvUL0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Fl\u00e2neur",
+          "url": "https://open.spotify.com/artist/6d08wFCgIgFkzWtxEVUGat"
+        },
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158331,
+      "name": "TO JU\u017b CZAS",
+      "url": "https://open.spotify.com/track/1aYuCt4HQuAwGa4h9DoB4b"
+    },
+    {
+      "album": {
         "name": "tom i jerry",
         "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
       },
@@ -2942,6 +3122,28 @@
       "duration_ms": 142857,
       "name": "TOP OF THE TOP",
       "url": "https://open.spotify.com/track/39enuB5hG5KcQLOiHNb8Gn"
+    },
+    {
+      "album": {
+        "name": "Na Drug\u0105 N\u00f3\u017ck\u0119 EP",
+        "url": "https://open.spotify.com/album/2UHfN3bbF2U66DKd8HstTF"
+      },
+      "artists": [
+        {
+          "name": "Gruby Mielzky",
+          "url": "https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM"
+        },
+        {
+          "name": "Pers",
+          "url": "https://open.spotify.com/artist/6C3KMofGcxnVUqmg8jPgp4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208602,
+      "name": "Traska",
+      "url": "https://open.spotify.com/track/4LGWJG198Rt5LGyqNRVnwM"
     },
     {
       "album": {
@@ -3122,7 +3324,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 217178,
       "name": "wejd\u017amina\u0142eb",
       "url": "https://open.spotify.com/track/365iGlz3KrZRCoZ3hsJHVJ"

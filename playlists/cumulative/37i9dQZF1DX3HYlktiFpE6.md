@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-173 songs - 9 hr 21 min
+174 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Best Days \(feat\. Pentatonix\)](https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Best Days](https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN) | 3:34 | 2022-12-09 |  |
 | [Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl](https://open.spotify.com/track/1ac7570OG3cTPYRXnpssg8) | [The Sing\-Off Contestants](https://open.spotify.com/artist/2z5CLrYoalgmPiXQ13gKuj) | [The Sing\-Off: Season 3: Episode 10 \- Mastermix Medleys & Judge's Choice](https://open.spotify.com/album/47F3CutxucbxCBDMcy2QAW) | 2:59 | 2021-12-24 |  |
 | [Breakeven](https://open.spotify.com/track/40c9ifAThZzmQPmmSVIfeI) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Pitch Slapped \- EP](https://open.spotify.com/album/4bvu2oLQsuHWZZQ6k8jFut) | 3:17 | 2023-01-13 |  |
+| [Butter](https://open.spotify.com/track/6OpM6ZC2jMqWM746dbwmdN) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ) | [Butter](https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4) | 2:41 | 2024-08-30 |  |
 | [Call Me Maybe / What Makes You Beautiful](https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Over the Bridge](https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78) | 4:00 | 2022-12-09 | 2023-10-21 |
 | [Can't Hold Us](https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 2](https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ) | 3:18 | 2021-12-24 | 2023-07-29 |
 | [Chandelier](https://open.spotify.com/track/5QxAO4f3EuP40hhHkiRcO1) | [Twisted Measure](https://open.spotify.com/artist/3mXcNgD2MC7GIMvIoefa4T) | [Black & Red](https://open.spotify.com/album/0pXdLROrVJzxlxtWc77lW1) | 4:05 | 2021-12-24 | 2024-04-19 |
@@ -169,7 +170,7 @@
 | [Toto \(feat\. David Paich\)](https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [David Paich](https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ) | [Toto](https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ) | 4:21 | 2023-05-19 |  |
 | [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/2mgPmzcrz3sBCR7AvCr6mE) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:34 | 2021-12-24 | 2024-01-20 |
 | [Trebles Finals: Bright Lights Bigger City/Magic](https://open.spotify.com/track/7zgveKrOxukG95vxIO3KHd) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 2:34 | 2021-12-24 | 2022-07-29 |
-| [Valerie \- Glee Cast Version](https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:33 | 2021-12-24 |  |
+| [Valerie \- Glee Cast Version](https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:33 | 2021-12-24 | 2024-08-31 |
 | [Waka Waka](https://open.spotify.com/track/4tIbSGN5xmmnpv9hBPqUDl) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/4sWsBmNNLM7tTzHpSFoumo) | 3:19 | 2021-12-24 |  |
 | [Waka Waka \(This Time For Africa\)](https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [United We Sing](https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6) | 3:19 | 2021-12-24 | 2024-04-19 |
 | [Waka Waka \(This Time for Africa\)](https://open.spotify.com/track/37x7PLzv5rAxTZAgfCInUx) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [Voices Only 2013 College A Cappella, Vol\. 1](https://open.spotify.com/album/6zr4GyBIMy2GRvIGPflYaK) | 3:20 | 2021-12-24 | 2022-11-13 |

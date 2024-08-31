@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Karavana.",
-  "num_followers": 19705,
+  "num_followers": 19731,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+        "name": "Todos menos t\u00fa",
+        "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        },
+        {
+          "name": "I-Ace",
+          "url": "https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0"
         }
       ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+      "duration_ms": 170571,
+      "name": "Todos menos t\u00fa",
+      "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -403,22 +407,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Todos menos t\u00fa",
-        "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        },
-        {
-          "name": "I-Ace",
-          "url": "https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 170571,
-      "name": "Todos menos t\u00fa",
-      "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Momento PULP",
         "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 132980,
       "name": "Momento PULP",
       "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Fuera De Lugar",
+        "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
+      },
+      "artists": [
+        {
+          "name": "Natillas",
+          "url": "https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu"
+        }
+      ],
+      "duration_ms": 242529,
+      "name": "Fuera De Lugar",
+      "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Desde Flores y Entra\u00f1as",
         "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 155250,
       "name": "Demasiada Mujer",
       "url": "https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Fuera De Lugar",
-        "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
-      },
-      "artists": [
-        {
-          "name": "Natillas",
-          "url": "https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu"
-        }
-      ],
-      "duration_ms": 242529,
-      "name": "Fuera De Lugar",
-      "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Todo por el Aire",
-        "url": "https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL"
-      },
-      "artists": [
-        {
-          "name": "Corazones El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP"
-        }
-      ],
-      "duration_ms": 223698,
-      "name": "Todo por el Aire",
-      "url": "https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "MACARRA",
         "url": "https://open.spotify.com/album/4ILr0liZfSjzMRxB42t1tL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 180705,
       "name": "Mat\u00e1ndome",
       "url": "https://open.spotify.com/track/0aTiOLRPBlE0sodetaM1ck"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Todo por el Aire",
+        "url": "https://open.spotify.com/album/25WZmHdRMfpS24qxsCwGKL"
+      },
+      "artists": [
+        {
+          "name": "Corazones El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/0qRG7TxJLvi9WsaaShnhSP"
+        }
+      ],
+      "duration_ms": 223698,
+      "name": "Todo por el Aire",
+      "url": "https://open.spotify.com/track/5hBJWe70D97dTK6EDdS9sP"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Palos y Piedras",
+        "url": "https://open.spotify.com/album/0vL4rwFaRMQPaffWRHGATE"
+      },
+      "artists": [
+        {
+          "name": "Ba\u00f1aperros",
+          "url": "https://open.spotify.com/artist/4Zbtr7GoFeQqg9iZkxaiIg"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Palos y Piedras",
+      "url": "https://open.spotify.com/track/49BUQqlGJ42mDQtJWyypxp"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "La Reconciliaci\u00f3n",
         "url": "https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 154208,
       "name": "Nuestro Mejor Momento",
       "url": "https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Sin M\u00e1s",
-        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 198958,
-      "name": "Sin M\u00e1s",
-      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1407,18 +1407,34 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
+        "name": "Sin M\u00e1s",
+        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
       },
       "artists": [
         {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
         }
       ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+      "duration_ms": 198958,
+      "name": "Sin M\u00e1s",
+      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Hodeiak",
+        "url": "https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR"
+      },
+      "artists": [
+        {
+          "name": "Mirail",
+          "url": "https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9"
+        }
+      ],
+      "duration_ms": 234542,
+      "name": "Hodeiak",
+      "url": "https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1435,6 +1451,22 @@
       "duration_ms": 213308,
       "name": "p0pper",
       "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1475,18 +1507,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Hodeiak",
-        "url": "https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR"
+        "name": "Al Final",
+        "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
       "artists": [
         {
-          "name": "Mirail",
-          "url": "https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9"
+          "name": "Muro Mar\u00eda",
+          "url": "https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y"
         }
       ],
-      "duration_ms": 234542,
-      "name": "Hodeiak",
-      "url": "https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx"
+      "duration_ms": 184201,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1503,38 +1535,6 @@
       "duration_ms": 199266,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Palos y Piedras",
-        "url": "https://open.spotify.com/album/0vL4rwFaRMQPaffWRHGATE"
-      },
-      "artists": [
-        {
-          "name": "Ba\u00f1aperros",
-          "url": "https://open.spotify.com/artist/4Zbtr7GoFeQqg9iZkxaiIg"
-        }
-      ],
-      "duration_ms": 228192,
-      "name": "Palos y Piedras",
-      "url": "https://open.spotify.com/track/49BUQqlGJ42mDQtJWyypxp"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Al Final",
-        "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
-      },
-      "artists": [
-        {
-          "name": "Muro Mar\u00eda",
-          "url": "https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y"
-        }
-      ],
-      "duration_ms": 184201,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
     },
     {
       "added_at": "2024-08-29 22:00:00",

@@ -52,10 +52,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
+    },
+    {
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
       "album": {
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 231630,
       "name": "Completely, Sweetly",
       "url": "https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183880,
       "name": "Go Get Er",
       "url": "https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq"
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 235523,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173203,
       "name": "New Me",
       "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 171622,
       "name": "Pure Country",
       "url": "https://open.spotify.com/track/5O2AKa1H96ZhGihPTpWiUT"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
@@ -1540,6 +1558,24 @@
       "duration_ms": 200746,
       "name": "She Knows Better",
       "url": "https://open.spotify.com/track/5qShJOuogy2eaOyO6B5wsL"
+    },
+    {
+      "album": {
+        "name": "Silverado-si-do",
+        "url": "https://open.spotify.com/album/4mZpINDx7oZJcrLVx6HTC7"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203468,
+      "name": "Silverado-si-do",
+      "url": "https://open.spotify.com/track/2arYI5xSg8l1CMqMaJwOQo"
     },
     {
       "album": {
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184941,
       "name": "Written All Over It",
       "url": "https://open.spotify.com/track/6oX7x3oEqDJ0uf0iw3Z0TL"

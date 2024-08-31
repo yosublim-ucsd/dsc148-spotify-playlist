@@ -883,6 +883,26 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Flora Matos Vs. Stereodubs",
+        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "Stereodubs",
+          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Esperar o Sol",
+      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Poesia Ac\u00fastica #3: Capricorniana",
         "url": "https://open.spotify.com/album/7nB1rBbEkEVdEt29DGgAfV"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 430296,
       "name": "Poesia Ac\u00fastica #3: Capricorniana",
       "url": "https://open.spotify.com/track/1YUWhlQjFv7MQpcbb77zTL"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Flora Matos Vs. Stereodubs",
-        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        },
-        {
-          "name": "Stereodubs",
-          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Esperar o Sol",
-      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
     },
     {
       "added_at": "2024-08-16 20:28:24",

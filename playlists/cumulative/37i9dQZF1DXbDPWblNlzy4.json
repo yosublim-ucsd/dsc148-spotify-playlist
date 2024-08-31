@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 161416,
       "name": "Amnesia (Arial 2)",
       "url": "https://open.spotify.com/track/7GAAnWm4qFypbvqMA4KZls"
@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+    },
+    {
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
       },
@@ -1962,6 +1980,28 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+    },
+    {
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172816,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r"
     },
     {
       "album": {
@@ -2310,7 +2350,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160695,
       "name": "Enredo",
       "url": "https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N"
@@ -3487,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Los Domingos",
+        "url": "https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Los Domingos",
+      "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
+    },
+    {
+      "album": {
         "name": "Los Hombres Son Todos Iguales",
         "url": "https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY"
       },
@@ -3620,7 +3678,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147895,
       "name": "ma, peiname otra vez",
       "url": "https://open.spotify.com/track/4iBGu9YdrM40sX0kQ52Kd0"
@@ -3752,6 +3810,28 @@
       "duration_ms": 241796,
       "name": "Mar Adentro",
       "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
+    },
+    {
+      "album": {
+        "name": "TODO PUEDE SUCEDER",
+        "url": "https://open.spotify.com/album/19DbwnDUWS0CuJF92sc4Wn"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/4VMnjerpap9qiBhkTXDdtC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "ME ACUERDA A TI",
+      "url": "https://open.spotify.com/track/6R0O8aOXxQwUhWH1l6ThCw"
     },
     {
       "album": {
@@ -4808,7 +4888,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180720,
       "name": "Ojal\u00e1 Te Vaya Mal",
       "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
@@ -6791,6 +6871,24 @@
     },
     {
       "album": {
+        "name": "Vargas",
+        "url": "https://open.spotify.com/album/5lWCGxsJ2q6H93HAeA1EqE"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145801,
+      "name": "Vargas",
+      "url": "https://open.spotify.com/track/12UopKNxZcsMedcVBehwHp"
+    },
+    {
+      "album": {
         "name": "Vas a Destrozarme",
         "url": "https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E"
       },
@@ -7046,7 +7144,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202561,
       "name": "\u00bfY Si Lloro?",
       "url": "https://open.spotify.com/track/4kY9Zik9eNXdUHV2decrij"

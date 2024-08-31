@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Bob The Builder",
+        "url": "https://open.spotify.com/album/4FDc8ReBzgzZ7QsPFVZNhe"
+      },
+      "artists": [
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120306,
+      "name": "Bob The Builder",
+      "url": "https://open.spotify.com/track/6WeheNIS1zd5wGSKHsQVC4"
+    },
+    {
+      "album": {
         "name": "Body Drop",
         "url": "https://open.spotify.com/album/5djmS90kHePMsuqEmSLR6M"
       },
@@ -7080,6 +7098,24 @@
       "duration_ms": 188404,
       "name": "Demonic Playgrounds",
       "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/3R4nR9XnpXU7xq6X1mofgr"
+      },
+      "artists": [
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/0r6ZZsfKWhSaYjpqF1AARe"
     },
     {
       "album": {
@@ -19845,6 +19881,24 @@
     },
     {
       "album": {
+        "name": "Moshpit",
+        "url": "https://open.spotify.com/album/0g33qxD3KYKmTpxZciorMX"
+      },
+      "artists": [
+        {
+          "name": "Cardination",
+          "url": "https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Moshpit",
+      "url": "https://open.spotify.com/track/4cP0rtmRdvwpljV4hes0W9"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1n9X2lZ9WPXTkxTQDGtll7"
       },
@@ -20773,6 +20827,24 @@
     },
     {
       "album": {
+        "name": "New School Rules",
+        "url": "https://open.spotify.com/album/27JB7JfTLOoKcTaFAIC8mH"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "New School Rules",
+      "url": "https://open.spotify.com/track/25u5QAh24GoKsaM1pzQJfw"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/2bEjGrgH51CyjwP3KuBXuM"
       },
@@ -21276,6 +21348,24 @@
       "duration_ms": 183003,
       "name": "No Warning",
       "url": "https://open.spotify.com/track/61RTbdN2wda0G8gA7F73E7"
+    },
+    {
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/5KkYh4AjR0HeQmG3zMowE4"
+      },
+      "artists": [
+        {
+          "name": "Sghenny",
+          "url": "https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/1X9WdiXHVKbyxZSDD5BXLk"
     },
     {
       "album": {
@@ -22352,6 +22442,24 @@
       "duration_ms": 162000,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/1wYLvGENfGmmDwZxhbheMR"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/14xAQNuJoKKxR93xR9xeSN"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/1XMA0bQoFjalwFkmYBAwQA"
     },
     {
       "album": {
@@ -27824,6 +27932,28 @@
       "duration_ms": 214817,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2J9ttXlJoW4yo0eSH8asIf"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4XiwwB0BaDnSkgxFsSNrmJ"
+      },
+      "artists": [
+        {
+          "name": "Elite Enemy",
+          "url": "https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB"
+        },
+        {
+          "name": "Manifest Destiny",
+          "url": "https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/44CaFD3hXfCs6tP40GXFbq"
     },
     {
       "album": {

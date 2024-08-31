@@ -4,7 +4,7 @@
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-110 songs - 6 hr 13 min
+111 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Telling People](https://open.spotify.com/track/4KUMH8xV63A14ii1wTeNqx) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5uQK8mAEhFxwsmV2tHIQiE) | 1:43 | 2023-08-02 |  |
 | [The Beach](https://open.spotify.com/track/7uELmcXg4U2iCcrXMvD8dj) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 | 2023-08-02 | 2024-04-19 |
 | [The Beach](https://open.spotify.com/track/7DPaVjS5QgtvhDTCp5xHOd) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:35 | 2024-03-19 |  |
+| [The First Time \- Heartstopper Mix](https://open.spotify.com/track/5jxcyGRTnq1BbeQcYsgQGX) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [The First Time \(Heartstopper Mix\)](https://open.spotify.com/album/4CjMzIvS41RzrrpyUxbeuw) | 2:35 | 2024-08-31 |  |
 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 | 2024-03-19 |  |
 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 | 2023-08-02 | 2024-04-19 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2023-08-02 |  |

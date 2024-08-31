@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Falling Stars (feat. Nevve)",
+        "url": "https://open.spotify.com/album/5GYJViokxqPvkipMydrgID"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286344,
+      "name": "Falling Stars (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4wcmSExQiuz3mobIi0b8ku"
+    },
+    {
+      "album": {
         "name": "Fallout (feat. L\u00daTHIEN)",
         "url": "https://open.spotify.com/album/4WwmyhFwXRrP65YpxyWQRT"
       },
@@ -2994,6 +3016,24 @@
       "duration_ms": 207750,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B"
+    },
+    {
+      "album": {
+        "name": "Impeccable",
+        "url": "https://open.spotify.com/album/0ZBPGCXv01PeTM6kCMBjyi"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "Impeccable",
+      "url": "https://open.spotify.com/track/5QLYGIPM6a5ZikKcn6hj48"
     },
     {
       "album": {

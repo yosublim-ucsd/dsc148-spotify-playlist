@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "528 Hz Astral Atmosphere",
+        "url": "https://open.spotify.com/album/2OliFvrCEQkYUZD3XU9WKM"
+      },
+      "artists": [
+        {
+          "name": "Whispering Zephyr",
+          "url": "https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "528 Hz Astral Atmosphere",
+      "url": "https://open.spotify.com/track/7BqkwDxeODHVT0M5fZO4jB"
+    },
+    {
+      "album": {
         "name": "528 Hz Concentration",
         "url": "https://open.spotify.com/album/4VwIN2C6nTBepf0Cr8p9so"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136488,
       "name": "Evening Stars",
       "url": "https://open.spotify.com/track/6geMaeSsCLqQfjsQ4crgje"
@@ -2835,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Interconnection",
+        "url": "https://open.spotify.com/album/0Gb0vI7UV0hbbvGTD6HcZr"
+      },
+      "artists": [
+        {
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169901,
+      "name": "Interconnection",
+      "url": "https://open.spotify.com/track/53rx8fQF076WFRazWIyGRk"
+    },
+    {
+      "album": {
         "name": "Internal",
         "url": "https://open.spotify.com/album/1WwjTtg8ZgUR2KXSR0GLdY"
       },
@@ -3192,6 +3228,24 @@
       "duration_ms": 172374,
       "name": "Long Distances",
       "url": "https://open.spotify.com/track/4hLRBySljQhnEhNBNNdspx"
+    },
+    {
+      "album": {
+        "name": "Lumina",
+        "url": "https://open.spotify.com/album/0nb06JYvUWmtiTh8vNt7xF"
+      },
+      "artists": [
+        {
+          "name": "Elleste",
+          "url": "https://open.spotify.com/artist/5L2XQWJFxiYCGe1ASvaq8m"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/10D9qnWTdjCDjkDzcNTVO5"
     },
     {
       "album": {
@@ -5428,7 +5482,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 138000,
       "name": "There Is No Door",
       "url": "https://open.spotify.com/track/0rijE9OzRao288gMiqCHOB"
@@ -5630,6 +5684,24 @@
       "duration_ms": 151395,
       "name": "Unfolding",
       "url": "https://open.spotify.com/track/1zMxkWTNbVCEmNa3OaZ3F4"
+    },
+    {
+      "album": {
+        "name": "Unified",
+        "url": "https://open.spotify.com/album/6ynNLysScJPUeXLVLrBsDK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160433,
+      "name": "Unified",
+      "url": "https://open.spotify.com/track/4hWR306ytZ2nAQp70GNvhU"
     },
     {
       "album": {

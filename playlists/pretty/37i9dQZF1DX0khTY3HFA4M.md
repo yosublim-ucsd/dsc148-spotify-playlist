@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,997 likes - 450 songs - 17 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,051 likes - 450 songs - 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,11 +399,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 389 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 |
 | 390 | [Haze](https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Haze](https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP) | 2:28 |
 | 391 | [New Again](https://open.spotify.com/track/3QIdkRPF1SuPuCM6PCoKMd) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [New Again](https://open.spotify.com/album/4cryWEdu93RmzevCmVg8y0) | 1:24 |
-| 392 | [Space Groove](https://open.spotify.com/track/46j91A4lcxN44s7uLWHEws) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Space Groove](https://open.spotify.com/album/12LCdUNM2N1388vdb3GRuk) | 2:41 |
-| 393 | [Panorama](https://open.spotify.com/track/5FiHMZ3DKmraaWPWsfsr4g) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Creatures](https://open.spotify.com/album/7is1yhc1sYcErnWlorQQZW) | 1:47 |
+| 392 | [Panorama](https://open.spotify.com/track/5FiHMZ3DKmraaWPWsfsr4g) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Creatures](https://open.spotify.com/album/7is1yhc1sYcErnWlorQQZW) | 1:47 |
+| 393 | [Space Groove](https://open.spotify.com/track/46j91A4lcxN44s7uLWHEws) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Space Groove](https://open.spotify.com/album/12LCdUNM2N1388vdb3GRuk) | 2:41 |
 | 394 | [Gelato](https://open.spotify.com/track/5zrkA0FILCS2dCSMkiQ5tH) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Gelato](https://open.spotify.com/album/4No4kZxSJrHpcJtSRZQvE4) | 1:48 |
-| 395 | [Portra](https://open.spotify.com/track/0w2DwiZ8BEdqNoxZgoCIAS) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Portra](https://open.spotify.com/album/1bg66tYiYsQycYn5VKD9GB) | 1:54 |
-| 396 | [Diomedea](https://open.spotify.com/track/42LxahbHJ9B6YpOOwLmXgy) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [bert cussion](https://open.spotify.com/artist/4jgHx3dVfzsmVZDt1JQ1wf) | [Diomedea](https://open.spotify.com/album/6OyBlZjABc9JspVgWEkskN) | 2:26 |
+| 395 | [Diomedea](https://open.spotify.com/track/42LxahbHJ9B6YpOOwLmXgy) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [bert cussion](https://open.spotify.com/artist/4jgHx3dVfzsmVZDt1JQ1wf) | [Diomedea](https://open.spotify.com/album/6OyBlZjABc9JspVgWEkskN) | 2:26 |
+| 396 | [Portra](https://open.spotify.com/track/0w2DwiZ8BEdqNoxZgoCIAS) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Portra](https://open.spotify.com/album/1bg66tYiYsQycYn5VKD9GB) | 1:54 |
 | 397 | [Cloudsurf](https://open.spotify.com/track/3yCRMhSv2kkyiQrPgKaiJ7) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E) | [Cloudsurf](https://open.spotify.com/album/5Ud3hQ7v1kuOhH16jscwOX) | 2:33 |
 | 398 | [Take Flight](https://open.spotify.com/track/1EuxBUSDegGfm7nNfbrAmo) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Take Flight](https://open.spotify.com/album/1EjfIfbkzbLljiogISC1xY) | 2:21 |
 | 399 | [So Tall](https://open.spotify.com/track/3wVQBrPPZe1kSdswpcdZef) | [Melt On](https://open.spotify.com/artist/5j5qAA1DTYRbbk8g72F6dT) | [So Tall](https://open.spotify.com/album/6TxPLap8FaPh2t8OaKz0mE) | 2:03 |
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 449 | [Pilot](https://open.spotify.com/track/62oHDKM3OgMcnw7Q9Fyq5M) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Pilot](https://open.spotify.com/album/6RD7OxSnBJGi3hCuYlEsTu) | 1:22 |
 | 450 | [good morning](https://open.spotify.com/track/7eoJ5QWlPolLvQcy8cbYFa) | [chxn records](https://open.spotify.com/artist/5tEcRZkq7jh2WhE2G43u63), [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [skirt & lofi](https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe) | 2:11 |
 
-Snapshot ID: `ZtAu6AAAAADEQwGXcLQjaMzOMWsuabAs`
+Snapshot ID: `ZtFDwAAAAAABYHooQ4nqjXcVR4wzVOVK`

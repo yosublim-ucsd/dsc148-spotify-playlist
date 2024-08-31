@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 206606,
       "name": "Falsas Promesas",
       "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 244000,
       "name": "Goyard / GTA",
       "url": "https://open.spotify.com/track/0YoSl47pQGCyRYXSQF1PGw"
@@ -8243,6 +8243,24 @@
     },
     {
       "album": {
+        "name": "Te Pregunto",
+        "url": "https://open.spotify.com/album/6XDLgNKVXh7EEQCoDo8acg"
+      },
+      "artists": [
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163652,
+      "name": "Te Pregunto",
+      "url": "https://open.spotify.com/track/7t8mCx8GXayFA4FstW6ny2"
+    },
+    {
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
       },
@@ -8866,7 +8884,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 223488,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"

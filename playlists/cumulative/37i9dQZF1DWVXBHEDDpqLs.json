@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "BADDDMANNN",
+        "url": "https://open.spotify.com/album/78pSXrs5ROU0WUctZkX73B"
+      },
+      "artists": [
+        {
+          "name": "WOST",
+          "url": "https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf"
+        },
+        {
+          "name": "Pedro da Linha",
+          "url": "https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231765,
+      "name": "BADDDMANNN",
+      "url": "https://open.spotify.com/track/6tvglFdRMna9COLn0Ujo5e"
+    },
+    {
+      "album": {
         "name": "BaDinga (Reloaded)",
         "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
@@ -844,7 +866,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 345944,
       "name": "Bingo!",
       "url": "https://open.spotify.com/track/7msiDTbZhC3n2KJSvcPhTr"
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 496235,
       "name": "By The End They Will - Octo Octa's Dazed These Days Dub",
       "url": "https://open.spotify.com/track/7n0foP4ujXX0nvdY3U2xQI"
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173000,
       "name": "Clean Cut",
       "url": "https://open.spotify.com/track/6KD5iTDSDydPhVvbYBoJkZ"
@@ -2199,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Floating on Silence (K-Lone Remix)",
+        "url": "https://open.spotify.com/album/1ygue0WQPOckXwFkfcTgCf"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277805,
+      "name": "Floating on Silence - K-Lone Remix",
+      "url": "https://open.spotify.com/track/1wZpx3M3Gsou5NTgupmbDY"
+    },
+    {
+      "album": {
         "name": "FREAKBODY",
         "url": "https://open.spotify.com/album/6RJURFaLf0rFGjr56uE1y8"
       },
@@ -2782,7 +2826,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 302222,
       "name": "Hasan Club",
       "url": "https://open.spotify.com/track/2GB4C3vSQK3HSKE9GdbL60"
@@ -3346,10 +3390,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 240000,
       "name": "I'm Tired",
       "url": "https://open.spotify.com/track/0el0XT1npokAS5QLYpUQ8c"
+    },
+    {
+      "album": {
+        "name": "Ice Cream Dream Boy",
+        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216859,
+      "name": "Ice Cream Dream Boy",
+      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
     },
     {
       "album": {
@@ -3710,7 +3772,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 351969,
       "name": "Kallist\u00e9",
       "url": "https://open.spotify.com/track/6AmmXlhfCUpsUu0YBbNftL"
@@ -3728,7 +3790,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 410984,
       "name": "Keep Noddin'",
       "url": "https://open.spotify.com/track/2fn43nsIK7LC8f5HFchzk5"
@@ -4118,6 +4180,24 @@
       "duration_ms": 273904,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/4EzE36FKG2seAaqDs6eecj"
+    },
+    {
+      "album": {
+        "name": "MULTI FUNCTIONAL ROBOTICS",
+        "url": "https://open.spotify.com/album/1Rtq0Vw3QCAPabqtyeh7WE"
+      },
+      "artists": [
+        {
+          "name": "DJ Stingray 313",
+          "url": "https://open.spotify.com/artist/7vZgYqMEApgWpMpXMSJj1o"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208516,
+      "name": "MULTI FUNCTIONAL ROBOTICS",
+      "url": "https://open.spotify.com/track/2W4DVVEAd8v4pbQbi3vitt"
     },
     {
       "album": {
@@ -5269,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Sea Slugs",
+        "url": "https://open.spotify.com/album/46LJXUmFx5MYy2WJnccnq3"
+      },
+      "artists": [
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282504,
+      "name": "Sea Slugs",
+      "url": "https://open.spotify.com/track/1JMB4vTM7gSHwlRsMDt4ZA"
+    },
+    {
+      "album": {
         "name": "Sub Zero",
         "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
       },
@@ -5522,6 +5620,24 @@
       "duration_ms": 348000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
+    },
+    {
+      "album": {
+        "name": "Souk 96",
+        "url": "https://open.spotify.com/album/75ef8WEUeEOzEVpMcOogyp"
+      },
+      "artists": [
+        {
+          "name": "Piezo",
+          "url": "https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353052,
+      "name": "Souk 96",
+      "url": "https://open.spotify.com/track/7qivJP1yj2oIUyA7iGiuhM"
     },
     {
       "album": {
@@ -6821,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "While We're Young",
+        "url": "https://open.spotify.com/album/6pc7rAgyCg8SehOOOwFAnH"
+      },
+      "artists": [
+        {
+          "name": "No_4mat",
+          "url": "https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253521,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/3SMpdIqBeWnNg61gOJAt6n"
+    },
+    {
+      "album": {
         "name": "Transformed / Whispers",
         "url": "https://open.spotify.com/album/0kNVvk5EGpvrhybdLYp2pf"
       },
@@ -6952,7 +7086,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 330378,
       "name": "Yeah Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/4FHsEn9g5SGax6xWsVq0cD"
@@ -7036,6 +7170,24 @@
       "duration_ms": 332126,
       "name": "You Know How",
       "url": "https://open.spotify.com/track/6g6KOjQq93bl3Ujeog9OeJ"
+    },
+    {
+      "album": {
+        "name": "Zaga",
+        "url": "https://open.spotify.com/album/1e0brZnYyw52kK6coqBlNb"
+      },
+      "artists": [
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305518,
+      "name": "Zaga",
+      "url": "https://open.spotify.com/track/66vYCvUT2aMhIrkQwOSI0D"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs"

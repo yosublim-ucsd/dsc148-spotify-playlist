@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Nuevo sonido, misma actitud.\n\ud83d\udcf7 Dillom",
+  "description": "Nuevo sonido, misma actitud.\n\ud83d\udcf7 Broke Carrey",
   "name": "POGO",
   "tracks": [
     {
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 257683,
       "name": "Es Tiempo",
       "url": "https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB"
@@ -4468,6 +4468,24 @@
       "duration_ms": 155290,
       "name": "Se Va Lejos",
       "url": "https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG"
+    },
+    {
+      "album": {
+        "name": "Rio de la Plata",
+        "url": "https://open.spotify.com/album/0ylmdY2EkG0WnUwPdhmSbf"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Se\u00f1ales de Humo",
+      "url": "https://open.spotify.com/track/6iJfLdzcOHK6blCkl0xSxZ"
     },
     {
       "album": {

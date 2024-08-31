@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 118000,
       "name": "Do-Re-Click-Clack",
       "url": "https://open.spotify.com/track/6treVbdLIzflEyjp0fKx8U"
@@ -1892,6 +1892,24 @@
       "duration_ms": 245437,
       "name": "El Pitufo",
       "url": "https://open.spotify.com/track/4vE0Xxu4M21TzYlrRVU6GD"
+    },
+    {
+      "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t"
     },
     {
       "album": {
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 133899,
       "name": "MEXplico",
       "url": "https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns"
@@ -3779,6 +3797,28 @@
     },
     {
       "album": {
+        "name": "No Son Doritos",
+        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "No Son Doritos",
+      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
+    },
+    {
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -3842,7 +3882,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
@@ -3904,7 +3944,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202754,
       "name": "NOS TORCIERON",
       "url": "https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm"
@@ -4949,6 +4989,32 @@
     },
     {
       "album": {
+        "name": "TOMORROWLAND",
+        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185511,
+      "name": "TOMORROWLAND",
+      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
+    },
+    {
+      "album": {
         "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },
@@ -5166,6 +5232,24 @@
       "duration_ms": 190625,
       "name": "Vamos a Beber",
       "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
+    },
+    {
+      "album": {
+        "name": "Los Archivos",
+        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218794,
+      "name": "Van y Vienen",
+      "url": "https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN"
     },
     {
       "album": {

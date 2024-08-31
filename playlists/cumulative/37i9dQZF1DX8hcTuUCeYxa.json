@@ -3345,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Like Nothing",
+        "url": "https://open.spotify.com/album/6hC1SzHo16p4n8H5JeMIMH"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138760,
+      "name": "Like Nothing",
+      "url": "https://open.spotify.com/track/230rjTVkPndyWDJRmyJ4Af"
+    },
+    {
+      "album": {
         "name": "Live With It",
         "url": "https://open.spotify.com/album/5fDryNMgoqKqxdBXCtAiCI"
       },

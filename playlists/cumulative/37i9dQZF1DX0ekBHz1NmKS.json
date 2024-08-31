@@ -5041,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "Det \u00e4r n\u00e5got i luften",
+        "url": "https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K"
+      },
+      "artists": [
+        {
+          "name": "Viola Martinsson",
+          "url": "https://open.spotify.com/artist/2aJlmkqQUcFTDe1GBpTkNZ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181442,
+      "name": "Det \u00e4r n\u00e5got i luften",
+      "url": "https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD"
+    },
+    {
+      "album": {
         "name": "Det \u00e4r s\u00e5 h\u00e4r livet k\u00e4nns",
         "url": "https://open.spotify.com/album/5qcgQqJgxseCqe3Ytt4X4S"
       },

@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-182 songs - 13 hr 12 min
+183 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aerie](https://open.spotify.com/track/73iKoDdtumBpcIIZaNpuEU) | [Southern Shores](https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5) | [Siena](https://open.spotify.com/album/5LDnkzUTJSEVzQ10AQHecR) | 2:36 | 2024-04-13 |  |
 | [Aftergold \- obli Remix](https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Aftergold \(5 Year Anniversary\)](https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2) | 3:48 | 2022-09-15 | 2024-04-19 |
 | [Aftergold \- obli Remix](https://open.spotify.com/track/6Vv81jR8gDysZphHcQ40ou) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Aftergold \(5 Year Anniversary\)](https://open.spotify.com/album/4aixX8fp7LAQM2fbyUTNaa) | 3:48 | 2024-04-13 | 2024-04-26 |
+| [Air And Darkness \- Gobi Desert Collective Remix](https://open.spotify.com/track/3zim3Fk2HBcD42cokAnbsO) | [Will Vance](https://open.spotify.com/artist/0v21AnGRs4ESeZQTc8VWL4), [Tiago Dima](https://open.spotify.com/artist/5Nkb9Q6AhCgMihr0d9elr2), [Gobi Desert Collective](https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp) | [Air And Darkness \(Gobi Desert Collective Remix\)](https://open.spotify.com/album/6FXDseZzOiuquap9iAg2BV) | 3:40 | 2024-08-30 |  |
 | [Alive](https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Alive](https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH) | 4:40 | 2022-09-15 |  |
 | [Alive](https://open.spotify.com/track/66IW3XfLvm6zvMtVLM6pTS) | [Duff Disco](https://open.spotify.com/artist/0sIvRJmAT0KuoU5R6ffeN4) | [I Need Ya EP](https://open.spotify.com/album/54XKFvPS5IImE566X12hpA) | 7:32 | 2024-06-03 |  |
 | [All Night](https://open.spotify.com/track/0T0xi59ZujZejjm1jMJW71) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Imagine](https://open.spotify.com/album/0YL77r9ATuZ4wj5dVFSGsl) | 4:20 | 2022-09-15 | 2022-11-08 |
@@ -187,7 +188,7 @@
 | [You Just Danced](https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [You Just Danced](https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV) | 7:32 | 2022-09-15 |  |
 | [You Know](https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [You Know](https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk) | 2:36 | 2024-02-29 |  |
 | [You're Beautiful](https://open.spotify.com/track/5dB4ktNiRIGBBnPIZ2y0Py) | [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Paul Kostick](https://open.spotify.com/artist/36CfCKvycNlh3Bp67K1Uip) | [You're Beautiful](https://open.spotify.com/album/7nEBgm3FMtdY1XNRijKkS3) | 2:43 | 2022-09-15 | 2023-04-24 |
-| [Youth \(Satin Jackets Remix\)](https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Youth \(Satin Jackets Remix\)](https://open.spotify.com/album/6rYxyGa0eFIons7g5W39sx) | 4:58 | 2024-04-25 |  |
+| [Youth \(Satin Jackets Remix\)](https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Youth \(Satin Jackets Remix\)](https://open.spotify.com/album/6rYxyGa0eFIons7g5W39sx) | 4:58 | 2024-04-25 | 2024-08-31 |
 | [Youth \- Satin Jackets Remix](https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Echo Of Youth Remodel](https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6) | 4:58 | 2022-09-15 | 2024-04-19 |
 | [Yugen](https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Yugen](https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu) | 2:45 | 2022-09-15 | 2024-06-04 |
 

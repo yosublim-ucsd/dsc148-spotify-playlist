@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-433 songs - 23 hr 0 min
+434 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [I Got You](https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [I Got You](https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX) | 3:30 | 2021-12-03 | 2022-01-08 |
 | [I Just Got 2](https://open.spotify.com/track/0v5I3HwpNzrwfl5ffI0RNZ) | [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [I Just Got 2](https://open.spotify.com/album/7f6eZI7qRX6LHzXiuYFqWY) | 2:22 | 2021-12-03 | 2022-01-06 |
 | [I Just Wanna Dance](https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD) | 2:34 | 2021-12-03 | 2022-09-15 |
-| [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2022-11-18 |  |
+| [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2022-11-18 | 2024-08-31 |
 | [I LUV U \(Sunny\)](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [BLENDER](https://open.spotify.com/artist/6IwTZTN2WX3s6jmbSHoBNS), [Ragdoll](https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl) | [I LUV U \(Sunny\)](https://open.spotify.com/album/3TT7K751J6hjcElJckpc9J) | 2:44 | 2024-05-24 |  |
 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 | 2021-12-03 | 2022-01-08 |
 | [I Want It All](https://open.spotify.com/track/3oSCJeOl0XjcpNcigO9vj7) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 3:11 | 2021-12-03 | 2022-01-08 |
@@ -249,6 +249,7 @@
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-05-27 | 2024-01-24 |
 | [Loving You \(feat\. Katy Alex\)](https://open.spotify.com/track/0pIlTYYCiY7FcTunLkEjUb) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Loving You \(feat\. Katy Alex\)](https://open.spotify.com/album/4ZGda5kisgrlc4oRinvGTA) | 3:00 | 2021-12-03 | 2024-03-02 |
 | [Lucky](https://open.spotify.com/track/0Quhzm1B1Z9I5S9RP6BgLh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Lucky](https://open.spotify.com/album/29hQOfDBBJ2kIVXy5nI0FX) | 3:25 | 2021-12-03 | 2022-01-08 |
+| [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-30 |  |
 | [Lucky \- LO'99 Remix](https://open.spotify.com/track/5FXfJCXtouzWBLiIcIBYHk) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Lucky \(LO'99 / PS1 Remixes\)](https://open.spotify.com/album/2FER9MAhpP9jSvNBamwH76) | 4:32 | 2021-12-03 | 2022-01-08 |
 | [luv\(drunk\)](https://open.spotify.com/track/7oJPmo2YL566okOf1RQcCp) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [luv\(drunk\)](https://open.spotify.com/album/030UIq3jgBkPRBKoyb6Qez) | 3:01 | 2021-12-03 | 2022-01-08 |
 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-08 | 2022-10-29 |

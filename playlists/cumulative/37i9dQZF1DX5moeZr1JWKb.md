@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-139 songs - 7 hr 33 min
+140 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Más de Lo Suficiente](https://open.spotify.com/track/0ZafhBdoTFEEU1mcT6a596) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más de Lo Suficiente](https://open.spotify.com/album/0dNK9XsjmqJzzR11ppeNIV) | 3:01 | 2023-05-26 |  |
 | [Más Flor y Más Suerte](https://open.spotify.com/track/2pR22ypclLuX5BPunwr57h) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Más Flor y Más Suerte](https://open.spotify.com/album/7sDc1Ig1WkN6Vi1Zt3ZN7W) | 2:56 | 2024-04-19 | 2024-07-13 |
 | [Más que reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más que reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 | 2024-04-19 |  |
+| [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 | 2024-08-30 |  |
 | [Negras Intenciones](https://open.spotify.com/track/74fj6POMz8SY1HVQEU41Ws) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [Negras Intenciones](https://open.spotify.com/album/4jFYTMgkowk7OgoPVKmyWq) | 2:29 | 2024-02-23 | 2024-04-20 |
 | [Negras Intenciones](https://open.spotify.com/track/7pWK9idSNGg6qUvnwUvBc8) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [La Costa Nostra](https://open.spotify.com/album/5j9SyZb3KSc3iqHJa3AM1S) | 2:29 | 2023-05-26 | 2024-04-19 |
 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 | 2023-05-26 |  |
@@ -98,7 +99,7 @@
 | [Otro Concierto \(feat\. Irepelusa\)](https://open.spotify.com/track/3D0WvQvutvdA5L0Fw9H5nA) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Gallo Tapao \#1 \(Ep\)](https://open.spotify.com/album/5dNez4VlFHwFbcPn0lYhFC) | 2:26 | 2023-11-10 | 2024-04-19 |
 | [Pa' la Pollita](https://open.spotify.com/track/19pDfu2jX4amfY2IUo4XYp) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Timeless](https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh) | [Cañonazos Bailables Todoenuno](https://open.spotify.com/album/4WbV2GwiuCHfeelumaF13s) | 2:40 | 2023-09-29 | 2023-11-11 |
 | [Palabra de Honor](https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [Palabra de Honor](https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB) | 3:37 | 2023-09-29 |  |
-| [Palmar](https://open.spotify.com/track/6kHFzH442PWTxiQWjSag8J) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Palmar](https://open.spotify.com/album/15c4KC9VuWmPxjokIDPHYY) | 3:58 | 2023-09-08 |  |
+| [Palmar](https://open.spotify.com/track/6kHFzH442PWTxiQWjSag8J) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Palmar](https://open.spotify.com/album/15c4KC9VuWmPxjokIDPHYY) | 3:58 | 2023-09-08 | 2024-08-31 |
 | [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 | 2023-05-26 | 2023-07-01 |
 | [Parpadeos](https://open.spotify.com/track/7jeTgr89idzEp8uv111bPN) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Vergüenza Propia](https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD) | 3:02 | 2023-05-26 | 2024-02-24 |
 | [Parranda](https://open.spotify.com/track/503KFr0p94w4WUwjyv2yGT) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Teddy Coldcuts](https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e) | [Parranda](https://open.spotify.com/album/1pcu6vSGqVUICkF3npodUe) | 1:51 | 2023-05-26 | 2023-07-01 |

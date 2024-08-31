@@ -4843,6 +4843,28 @@
     },
     {
       "album": {
+        "name": "In Paradisum",
+        "url": "https://open.spotify.com/album/7aBPTOIQycGBJDZHGjAV7d"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/0tIEXct4Pv3TikqvkYR4CM"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
       },
@@ -7078,7 +7100,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 145067,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/1noBkcNmVNk0PWlnzkt1Hi"
@@ -7898,7 +7920,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154066,
       "name": "Oi u luzi Chervona Kalyna (Arr. for Cello and Orchestra by Julian Riem)",
       "url": "https://open.spotify.com/track/3j8hyB2ImNtlKeQCKaL9U3"
@@ -8901,6 +8923,36 @@
     },
     {
       "album": {
+        "name": "Mendelssohn Piano Trios",
+        "url": "https://open.spotify.com/album/5YjqXNoDZnbczAgzyFCCZt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Jeremy Denk",
+          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395933,
+      "name": "Piano Trio No. 2 In C Minor, Op. 66: II. Andante espressivo",
+      "url": "https://open.spotify.com/track/5CtDis2MocD6kfzp617837"
+    },
+    {
+      "album": {
         "name": "Beethoven for Three: Symphony No. 6 \"Pastorale\" and Op. 1, No. 3",
         "url": "https://open.spotify.com/album/5ezojM5Z8lU0RPyS52MTlV"
       },
@@ -9312,6 +9364,24 @@
       "duration_ms": 171608,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
+    },
+    {
+      "album": {
+        "name": "Quietly Yours",
+        "url": "https://open.spotify.com/album/0qLNFfTCcpSlpG6hKc7imt"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/4NXFInAtx4Uit2TWUlSckW"
     },
     {
       "album": {
@@ -11220,6 +11290,32 @@
       "duration_ms": 110666,
       "name": "Suite in D Minor: I. Arpeggiata (Arr. for Guitar by Michael Lewin)",
       "url": "https://open.spotify.com/track/4iKDC45B59uK5wnbhT89xS"
+    },
+    {
+      "album": {
+        "name": "Suite Italienne: II. Serenata",
+        "url": "https://open.spotify.com/album/1ClNBHeK5aPgolfZghAHLR"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Jean-S\u00e9lim Abdelmoula",
+          "url": "https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Suite Italienne: II. Serenata",
+      "url": "https://open.spotify.com/track/3iFtDNpG0GrscW621Rwibi"
     },
     {
       "album": {
@@ -13822,6 +13918,32 @@
       "duration_ms": 176333,
       "name": "Walls",
       "url": "https://open.spotify.com/track/35bdYC7xm7koy0KoyKS4Bw"
+    },
+    {
+      "album": {
+        "name": "Waltz in A Major, Op. 39, No. 15 (Version for piano 4-hands)",
+        "url": "https://open.spotify.com/album/2VEBN2djcCSFGL5D7ocTnB"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67521,
+      "name": "Waltz in A Major, Op. 39, No. 15 (Version for piano 4-hands)",
+      "url": "https://open.spotify.com/track/2Zv9vtPdoSBiexwWvPS4Pm"
     },
     {
       "album": {

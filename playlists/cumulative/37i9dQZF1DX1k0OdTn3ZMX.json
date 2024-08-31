@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with FEVER 333.",
+  "description": "n\u00fc-metal revival is happening here and now with DREGG.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 230839,
       "name": "Confessions Of The Fallen",
       "url": "https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 229778,
       "name": "Justice Will Shine On",
       "url": "https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY"
@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Permanence in Sleep",
+        "url": "https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216505,
+      "name": "Permanence in Sleep",
+      "url": "https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf"
+    },
+    {
+      "album": {
         "name": "Pink Push-Up Bra",
         "url": "https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX"
       },
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212413,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
@@ -2883,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Troubled",
+        "url": "https://open.spotify.com/album/2prdpwWoJU82pXAi4fBxwE"
+      },
+      "artists": [
+        {
+          "name": "Y!KES",
+          "url": "https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186369,
+      "name": "Troubled",
+      "url": "https://open.spotify.com/track/4YHUgFw8vYSTxooGSjUklu"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
       },
@@ -2916,6 +2952,24 @@
       "duration_ms": 140763,
       "name": "Turn It Up, Bitch",
       "url": "https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls"
+    },
+    {
+      "album": {
+        "name": "Turn The Lights Out",
+        "url": "https://open.spotify.com/album/737r0VlF9QY0HJnirnhWAR"
+      },
+      "artists": [
+        {
+          "name": "Widow7",
+          "url": "https://open.spotify.com/artist/24hO8r5d8uJVVf7Po85xfX"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153514,
+      "name": "Turn The Lights Out",
+      "url": "https://open.spotify.com/track/0YGM4pxcqHYMtZlsMftM37"
     },
     {
       "album": {

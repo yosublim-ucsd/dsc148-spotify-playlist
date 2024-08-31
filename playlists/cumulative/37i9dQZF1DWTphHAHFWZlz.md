@@ -2,9 +2,9 @@
 
 ### [POGO](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> Nuevo sonido, misma actitud.<br/>📷 Dillom
+> Nuevo sonido, misma actitud.<br/>📷 Broke Carrey
 
-281 songs - 16 hr 16 min
+282 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Encontrándote](https://open.spotify.com/track/4BomFhepIWf4HTiAQrgnKJ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:37 | 2023-06-02 | 2023-06-09 |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-07-19 | 2023-05-20 |
 | [ES TIEMPO](https://open.spotify.com/track/2DCChX8EUuSAtlhdILQCos) | [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL), [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [ES TIEMPO](https://open.spotify.com/album/3bzOjrVIwXHqJR7jYGc6iC) | 2:29 | 2023-09-08 |  |
-| [Es Tiempo](https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 4:17 | 2023-05-19 |  |
+| [Es Tiempo](https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 4:17 | 2023-05-19 | 2024-08-31 |
 | [Escalera](https://open.spotify.com/track/2DfhgJeqYOurNo4BWla1uE) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Cesar Ezequiel Borra](https://open.spotify.com/artist/0KQLZkOAG2qTDm8RB7c7rB), [Dani Ferretti](https://open.spotify.com/artist/38Ne8IR8NhCEk4tE9eeelj) | [Tuy](https://open.spotify.com/album/1tVav7LGyDau9Ie7foUNgb) | 3:44 | 2022-07-19 | 2022-07-29 |
 | [Escalera](https://open.spotify.com/track/6gvns4SQCT5VeCmtcT14XP) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Cesar Ezequiel Borra](https://open.spotify.com/artist/0KQLZkOAG2qTDm8RB7c7rB), [Dani Ferretti](https://open.spotify.com/artist/38Ne8IR8NhCEk4tE9eeelj) | [¡Tuy!](https://open.spotify.com/album/6fK9evvpTCwqtTXa6zWZIm) | 3:44 | 2022-07-22 | 2023-05-20 |
 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 | 2023-05-19 |  |
@@ -241,6 +241,7 @@
 | [Sarna](https://open.spotify.com/track/1SQl1g1V9faUqgMvkI8Fjl) | [Las Vin Up](https://open.spotify.com/artist/1GKl38LwDLslERfIvZqUXO) | [Sarna](https://open.spotify.com/album/2eOrh2YvhDlt8DMNh1mS4e) | 3:16 | 2022-10-14 | 2023-05-20 |
 | [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 | 2022-07-19 | 2023-05-20 |
 | [Se Va Lejos](https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG) | [Superchería](https://open.spotify.com/artist/357XNr9zK8hSYbqT6prx4v) | [Superchería](https://open.spotify.com/album/7AJDzOjQ47jiQ35HteffDM) | 2:35 | 2022-06-29 | 2023-05-20 |
+| [Señales de Humo](https://open.spotify.com/track/6iJfLdzcOHK6blCkl0xSxZ) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [Rio de la Plata](https://open.spotify.com/album/0ylmdY2EkG0WnUwPdhmSbf) | 4:04 | 2024-08-30 |  |
 | [Si No Te Tengo](https://open.spotify.com/track/0gNKibTjLyncHpWg9762P7) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [Si No Te Tengo](https://open.spotify.com/album/1EMnEjwGfNDrzW5ZiFxAzL) | 2:52 | 2022-06-29 | 2023-05-20 |
 | [Si Vienes](https://open.spotify.com/track/1n0N1bEYy0mgMQwAbnIyzZ) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/1vZlWwBj4ptkA0tF0OOnrc) | 3:10 | 2022-07-22 | 2022-09-17 |
 | [Si Vienes](https://open.spotify.com/track/5ALrML18YCwXe9u4SwMKqS) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/5X2BAo2WXOz4pdacNwzK58) | 3:10 | 2022-06-29 | 2022-07-29 |

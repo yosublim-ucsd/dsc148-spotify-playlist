@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Halestorm on top of today's best Metal playlist.",
+  "description": "Lamb Of God on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1250,6 +1250,24 @@
       "duration_ms": 198387,
       "name": "Bite Your Tongue",
       "url": "https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi"
+    },
+    {
+      "album": {
+        "name": "EXCESSIVE GUILT",
+        "url": "https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114480,
+      "name": "bitter friend",
+      "url": "https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d"
     },
     {
       "album": {
@@ -3603,6 +3621,28 @@
     },
     {
       "album": {
+        "name": "DRAG ME UNDER",
+        "url": "https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        },
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "DRAG ME UNDER",
+      "url": "https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw"
+    },
+    {
+      "album": {
         "name": "Dreadbringer",
         "url": "https://open.spotify.com/album/0jSVZMYKV2kaI2mePVHF1v"
       },
@@ -4825,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "Ghost Inside The Shell",
+        "url": "https://open.spotify.com/album/6xqFGXKtI20ESDGkWtjWeB"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228967,
+      "name": "Ghost Inside The Shell",
+      "url": "https://open.spotify.com/track/49HsFAhcWNTjQx2eBkd7bo"
+    },
+    {
+      "album": {
         "name": "Ghost Of Me",
         "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
       },
@@ -4962,7 +5020,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 223866,
       "name": "Gone",
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
@@ -6826,7 +6884,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 90036,
       "name": "look at me",
       "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
@@ -7220,6 +7278,32 @@
       "duration_ms": 206648,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF"
+    },
+    {
+      "album": {
+        "name": "Mea Culpa (Ah! \u00c7a ira!)",
+        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Mea Culpa (Ah! \u00c7a ira!)",
+      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
     },
     {
       "album": {
@@ -7921,6 +8005,24 @@
     },
     {
       "album": {
+        "name": "Endtime Signals",
+        "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292760,
+      "name": "Not Nothing",
+      "url": "https://open.spotify.com/track/06AVvE2a9xgzak3PMBkhW3"
+    },
+    {
+      "album": {
         "name": "Nothing Feels Right (feat. Zakk Wylde)",
         "url": "https://open.spotify.com/album/5FRTz5iys7bz1F2yzn9Lm5"
       },
@@ -8070,7 +8172,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 191180,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6Bs4bgfIsNZOuREbHdjmyW"
@@ -11258,7 +11360,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 480566,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"

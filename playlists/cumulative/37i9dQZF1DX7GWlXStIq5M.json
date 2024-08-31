@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156774,
       "name": "A Gente S\u00f3 Conhece Quando Termina",
       "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
@@ -3151,6 +3151,48 @@
     },
     {
       "album": {
+        "name": "CARAMELO E FLOR DE SAL",
+        "url": "https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM"
+      },
+      "artists": [
+        {
+          "name": "Quorum",
+          "url": "https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH"
+        },
+        {
+          "name": "Flav",
+          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        },
+        {
+          "name": "Nobuga",
+          "url": "https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB"
+        },
+        {
+          "name": "PMM",
+          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200315,
+      "name": "CARAMELO E FLOR DE SAL",
+      "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
+    },
+    {
+      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -4078,7 +4120,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 266581,
       "name": "C\u00c9U",
       "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
@@ -4934,7 +4976,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 143762,
       "name": "Do Jeito Que Ela Gosta",
       "url": "https://open.spotify.com/track/6jhYRLgXWe5tqeGT3QkQds"
@@ -5535,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/6xue42a9yzitbZU6PFw8if"
+      },
+      "artists": [
+        {
+          "name": "Anny Koch",
+          "url": "https://open.spotify.com/artist/4HesLRHyeGpme1tlDMKgun"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147629,
+      "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/4AGnHJJX1gzFtwaAJs87iz"
+    },
+    {
+      "album": {
         "name": "Ex Mai Love (1,99 Remix)",
         "url": "https://open.spotify.com/album/1udfuU3yTteLuJeidefa3o"
       },
@@ -5824,6 +5884,28 @@
       "duration_ms": 150260,
       "name": "FICA PRO CAF\u00c9",
       "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "album": {
+        "name": "Fim",
+        "url": "https://open.spotify.com/album/6JYxiYb6V2WtmkeygmzFaP"
+      },
+      "artists": [
+        {
+          "name": "Bella Angel",
+          "url": "https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135993,
+      "name": "Fim",
+      "url": "https://open.spotify.com/track/3CZomozGtxwo07HstcVNX1"
     },
     {
       "album": {
@@ -6603,6 +6685,28 @@
     },
     {
       "album": {
+        "name": "GET UP BITCH! shake ya ass (with Anitta)",
+        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "GET UP BITCH! shake ya ass (with Anitta)",
+      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
+    },
+    {
+      "album": {
         "name": "Glockada",
         "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
       },
@@ -6852,7 +6956,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 110858,
       "name": "Grip",
       "url": "https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP"
@@ -7272,6 +7376,24 @@
       "duration_ms": 310125,
       "name": "Incomunic\u00e1vel",
       "url": "https://open.spotify.com/track/5gFABjU0f5xTgDraQz9EtT"
+    },
+    {
+      "album": {
+        "name": "INDEPENDENTE DO AGORA",
+        "url": "https://open.spotify.com/album/5W3cZFkmXG2B7qtnZSoAHW"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "INDEPENDENTE DO AGORA",
+      "url": "https://open.spotify.com/track/2GcHDX5shxbE2BpQT8FhCB"
     },
     {
       "album": {
@@ -8113,6 +8235,24 @@
     },
     {
       "album": {
+        "name": "Livramento",
+        "url": "https://open.spotify.com/album/27K4qEEOMNgSkUT583W0JN"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Livramento",
+      "url": "https://open.spotify.com/track/1asTXzsAuTMMPBUzEDtWdL"
+    },
+    {
+      "album": {
         "name": "LIVRE, LEVE E LOUCA",
         "url": "https://open.spotify.com/album/3wkGKV6z3zXMWmuwIzUjqO"
       },
@@ -8136,6 +8276,28 @@
       "duration_ms": 157857,
       "name": "LIVRE, LEVE E LOUCA",
       "url": "https://open.spotify.com/track/7aalW4HyPKgvAsBy1SLsc5"
+    },
+    {
+      "album": {
+        "name": "LolOLove (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "LolOLove (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
     },
     {
       "album": {
@@ -9064,7 +9226,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 178857,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/6dGgJC9CyiQJXL4dTU6teY"
@@ -9402,7 +9564,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 130720,
       "name": "Mimada",
       "url": "https://open.spotify.com/track/6cI2mAtILbeXx9Els5Qqur"
@@ -12361,6 +12523,28 @@
     },
     {
       "album": {
+        "name": "Pra Viajar",
+        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
+    },
+    {
+      "album": {
         "name": "Pra Voc\u00ea e pra Mim",
         "url": "https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X"
       },
@@ -14880,7 +15064,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201600,
       "name": "Sossega (Nada mal)",
       "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"

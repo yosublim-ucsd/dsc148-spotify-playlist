@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-211 songs - 9 hr 18 min
+212 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Freaks](https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Freaks](https://open.spotify.com/album/2cIfNaP93DbfWhcilRi3js) | 2:40 | 2024-01-26 |  |
 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
 | [Frontier](https://open.spotify.com/track/5EE2ubLj0U3kZRkZr7vjbJ) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T), [SxDJI](https://open.spotify.com/artist/6TpYb8Z1yUegbmuRcJhiC1) | [Frontier](https://open.spotify.com/album/6UU1uLU30SJsZjl7WCMcbP) | 3:47 | 2023-05-05 |  |
+| [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 | 2024-08-30 |  |
 | [Galaxy](https://open.spotify.com/track/7vbKIia4KB5vWcWpPypPBr) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Strange](https://open.spotify.com/album/4QTBGcS5DSCe6N3RTNixsN) | 2:56 | 2022-10-10 |  |
 | [GET AWAY II](https://open.spotify.com/track/3aI4COsiNptuCDITxvTRCq) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/7I7F1c3tOML8rUpki5pVfZ) | 3:12 | 2023-03-10 | 2024-04-19 |
 | [GET AWAY II](https://open.spotify.com/track/4QOhfu7ZdD8PEXRhFjOIT1) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/3dhZY3fzWK7RNaj0BktV4F) | 3:12 | 2022-10-10 |  |
@@ -114,7 +115,7 @@
 | [Lost Generation](https://open.spotify.com/track/2dJdGmHTGFfqx1PmC860Xf) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [HEARTIXE](https://open.spotify.com/artist/6Gl15cYrIWazH6VTDKCcCk) | [Lost Generation](https://open.spotify.com/album/7gztQGFnpztN5N2rR4rnwm) | 2:44 | 2022-10-10 | 2023-10-21 |
 | [lost my way.](https://open.spotify.com/track/3LDOh5ufbKc9RMu1eOzL5V) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way.](https://open.spotify.com/album/4vdFAzl8OXWKlBrnVoV8WX) | 2:06 | 2024-03-10 |  |
 | [Lost Orion](https://open.spotify.com/track/3arscwcDkbfPtFUBXVVmt6) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/1D7xOjPYBLdkSnJzkQQSGf) | 3:06 | 2023-03-10 | 2024-04-19 |
-| [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 |  |
+| [Lost Orion](https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Memories](https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk) | 3:06 | 2022-10-10 | 2024-08-31 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 |  |
 | [Lunar](https://open.spotify.com/track/2OQ38YnV9PdxugWt8PHdSV) | [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Lunar](https://open.spotify.com/album/1z58kSS94g0DKLVZzMtwEM) | 2:41 | 2023-03-10 |  |
 | [Lxve](https://open.spotify.com/track/6VlP7dD900vqTtL31OrwBd) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [Lxve](https://open.spotify.com/album/6QcnBfg7bNYyeo1ARkenbb) | 2:06 | 2023-01-13 |  |

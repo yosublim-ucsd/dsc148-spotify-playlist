@@ -4,11 +4,13 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-124 songs - 9 hr 25 min
+127 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abracadaver](https://open.spotify.com/track/3WstRXQ5lKNHPcjgEhaa71) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Abracadaver](https://open.spotify.com/album/3cjszEDTswcLj05wKb5iF4) | 3:41 | 2023-07-14 |  |
+| [470 / 344](https://open.spotify.com/track/7qPW0GZCdyK7cKS8mIFQbi) | [Escabroso](https://open.spotify.com/artist/0kM5ZqiTCGVwxiKHAlXdDV), [isotopxs](https://open.spotify.com/artist/0jxttUCrFKmnUKaWkl9AVN) | [470 / 344](https://open.spotify.com/album/44vtwGrzny5Gu3a1uHQeuH) | 2:54 | 2024-08-30 |  |
+| [A Ponte](https://open.spotify.com/track/6yg96cJGwxKU9GLmrGZsMF) | [Chuva Doce](https://open.spotify.com/artist/2Q4gXuyaPtaw7nXSrNslhf) | [A Ponte](https://open.spotify.com/album/1uRCT8pB7Gd2cndvPS4lNF) | 3:44 | 2024-08-30 |  |
+| [Abracadaver](https://open.spotify.com/track/3WstRXQ5lKNHPcjgEhaa71) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Abracadaver](https://open.spotify.com/album/3cjszEDTswcLj05wKb5iF4) | 3:41 | 2023-07-14 | 2024-08-31 |
 | [Amuleto](https://open.spotify.com/track/5p64Qzf21y0dwltwr54DIa) | [John Wayne](https://open.spotify.com/artist/0aUvfFnGgvc8ES3FrJ6Ify) | [Purgatório](https://open.spotify.com/album/3k3VAVgygl2j0hbSsppd0C) | 3:39 | 2023-07-14 |  |
 | [Awaken the Master](https://open.spotify.com/track/2K369VsZZtrd84dnVUv1Wh) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [A View From The Top Of The World](https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn) | 9:47 | 2023-07-14 |  |
 | [Beyond the Realms of Death \- Live at The Mudd Club, New York, 1979](https://open.spotify.com/track/737dCtOBxT1ojIB4hfua4w) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 7:06 | 2023-07-14 |  |
@@ -51,7 +53,7 @@
 | [I Don't Believe a Word \- Single Edit](https://open.spotify.com/track/0DSJHuMJVbSuMC2IjpXMQD) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [I Don't Believe a Word](https://open.spotify.com/album/5szoCDYAldsFB4fHB2AdYB) | 3:27 | 2023-07-14 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/4InfBU6v65fzQM6vpSdDJf) | 6:36 | 2024-04-05 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-07-14 | 2024-04-19 |
-| [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 | 2023-07-14 |  |
+| [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 | 2023-07-14 | 2024-08-31 |
 | [Invincible Shield](https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 6:21 | 2024-03-08 |  |
 | [Keep Away](https://open.spotify.com/track/1U1MNVa1yleOzt4c20fpO1) | [Insane Driver](https://open.spotify.com/artist/2ye4AQnKI7zNyOnuLGHaaE) | [Keep Away](https://open.spotify.com/album/1TZPtvCVLEB6QSVlR1rUbr) | 3:57 | 2023-07-14 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 | 2023-11-03 | 2024-04-19 |
@@ -60,7 +62,7 @@
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2023-07-14 |  |
 | [Metal Galera](https://open.spotify.com/track/62CyiBgXEdwDi4WbrM1dZg) | [Massacration](https://open.spotify.com/artist/7GhebLBMgszGbtbmjq4HHB) | [Metal Galera](https://open.spotify.com/album/0bVhSkHL20QPMqMK5F1oCP) | 4:30 | 2023-07-14 |  |
 | [Midnight Song](https://open.spotify.com/track/3ku4neMM3KIhFXhPaPZU7A) | [Dream Child](https://open.spotify.com/artist/0Y2kFvBLOE7DG9UFcYiTEu) | [Until Death Do We Meet Again](https://open.spotify.com/album/6eDGRCG2lqVbVTjtHyD4ho) | 4:24 | 2023-07-14 | 2023-09-16 |
-| [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-07-14 |  |
+| [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-07-14 | 2024-08-31 |
 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 | 2023-07-14 | 2024-04-19 |
 | [Mysterious](https://open.spotify.com/track/3AwKlhPkIsjPVQzjcNGTb5) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/161RN2ydxC3AibzlpYziXx) | 4:43 | 2024-04-05 |  |
 | [Nothing Else Matters \(Orchestra/Clean Guitar/Vocal Mix \- July 8th, 1991\)](https://open.spotify.com/track/0GZ96dnp0Vpyk5CTElvDfI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 6:45 | 2023-07-14 | 2024-04-19 |
@@ -89,6 +91,7 @@
 | [Seventh Sun](https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Seventh Sun](https://open.spotify.com/album/5rWzNqVFg8nispXCaewxIB) | 5:30 | 2023-07-14 |  |
 | [Shaped by Fire](https://open.spotify.com/track/1I7yVk8T0iBMpQXWX71GPs) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:38 | 2023-07-14 | 2024-04-19 |
 | [Shaped by Fire](https://open.spotify.com/track/53x2Dean27JHy94loxcLV8) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/331DnqgmsWDJqH5IEZwnXQ) | 3:38 | 2024-04-05 |  |
+| [Sharp Shooter](https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:44 | 2024-08-30 |  |
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2023-07-14 | 2024-04-19 |
 | [Shotgun Blues](https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Shotgun Blues](https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u) | 4:27 | 2024-04-05 |  |
 | [Skydiver of the Light](https://open.spotify.com/track/0cVaRVmnr2flEtuRK0wxba) | [Armored Dawn](https://open.spotify.com/artist/1oueQWyrcULGbpk0DyiqGf) | [Viking Zombie \(Deluxe Edition\)](https://open.spotify.com/album/4egyrkRkejuCzKoyOEpqYi) | 3:35 | 2023-07-14 |  |

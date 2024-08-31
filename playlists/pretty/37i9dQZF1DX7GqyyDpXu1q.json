@@ -1,12 +1,12 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Bones Owens",
-  "num_followers": 83559,
+  "num_followers": 83578,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6AGQAAAACCMBp1cYp06BB4IxJEw2Lf",
+  "snapshot_id": "ZtHRsAAAAABFPGSjcSexCv+IFVOg17ZO",
   "tracks": [
     {
       "added_at": "2024-08-09 03:16:58",
@@ -75,6 +75,26 @@
       "duration_ms": 257372,
       "name": "No One Else Like Me",
       "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
+    },
+    {
+      "added_at": "2024-08-30 14:05:36",
+      "album": {
+        "name": "The People's House (with The War And Treaty)",
+        "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 265846,
+      "name": "The People's House (with The War And Treaty)",
+      "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
     },
     {
       "added_at": "2024-08-09 03:16:58",

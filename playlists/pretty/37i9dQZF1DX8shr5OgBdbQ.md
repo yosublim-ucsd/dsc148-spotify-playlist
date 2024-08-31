@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,591 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,858 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hoist the Colours \- Bass Singers Version](https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW) | [Bobby Bass](https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj), [Daniel Brevik](https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7), [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l), [Ebucs](https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ) | [Hoist the Colours \(Bass Singers Version\)](https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX) | 4:38 |
-| 2 | [Wellerman \- Sea Shanty](https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1AK6peN1DwvYRXN19cqWoP) | 2:35 |
+| 2 | [Wellerman \- Sea Shanty](https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Wellerman \- Sea Shanty](https://open.spotify.com/album/1AK6peN1DwvYRXN19cqWoP) | 2:35 |
 | 3 | [Leave Her Johnny](https://open.spotify.com/track/2vaa0nnDnNTlxCh7fCmjsr) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 2:12 |
 | 4 | [Drunken Sailor](https://open.spotify.com/track/5Apl955QftdfReNESDmJhR) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Written in Salt](https://open.spotify.com/album/3iXPqxL9KwTQcefOhBcsc4) | 2:24 |
 | 5 | [Spanish Ladies](https://open.spotify.com/track/3XDGPQQGrW8sPstEqket1J) | [Jerry Bryant](https://open.spotify.com/artist/3O6SFPGCWeXe7B02fHQAjz), [Starboard Mess](https://open.spotify.com/artist/3rujIhhEfyEZa5BXhkHhYg) | [Roast Beef Of Old England](https://open.spotify.com/album/4KCfIyIyrl8YsiUzjQksWQ) | 2:46 |

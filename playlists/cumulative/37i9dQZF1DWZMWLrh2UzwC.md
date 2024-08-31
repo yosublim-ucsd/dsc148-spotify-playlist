@@ -2,9 +2,9 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> The best newly released songs of the week.
+> The best newly released songs of the week\. Cover: LE SSERAFIM
 
-12,086 songs - 27 day 14 hr 11 min
+12,089 songs - 27 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1871,6 +1871,7 @@
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-01-14 |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-11-04 | 2022-11-11 |
 | [Circus](https://open.spotify.com/track/4781XkXxJngw9YjlKJ21e9) | [LANA](https://open.spotify.com/artist/23IETu4hBOXIXr59a48DMi), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Circus](https://open.spotify.com/album/6xwGU2bbSKlzBXp4Xdl4Te) | 3:15 | 2024-07-11 | 2024-07-19 |
+| [Circus](https://open.spotify.com/track/5vCvCR3Ymif9JeFGoh7aMx) | [Matilde G](https://open.spotify.com/artist/4kV6iM6LBNfZX4qRHJUoNH) | [Circus](https://open.spotify.com/album/2hH4tIgQXvkos7vnCZTPry) | 2:27 | 2024-08-30 |  |
 | [CIRCUS](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) | 3:14 | 2022-06-09 | 2022-06-17 |
 | [Citi+](https://open.spotify.com/track/1xsmVbbkSdzKcPAS1NQ662) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Citi+](https://open.spotify.com/album/3JUObehPeSOct0S8jkQUfT) | 2:31 | 2023-12-21 | 2023-12-30 |
 | [City Habits](https://open.spotify.com/track/38f8NbWFJ22TU4qIqZoNnd) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [City Habits](https://open.spotify.com/album/1LDTsY4d3u9FASRjOjseqU) | 4:49 | 2024-07-11 | 2024-07-19 |
@@ -2089,6 +2090,7 @@
 | [crash my car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [crash my car/devil on my shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 | 2022-04-14 | 2022-04-22 |
 | [Crazy](https://open.spotify.com/track/740aLlttF2nZxEU1ekxUXx) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/7E4mdtJFCNf2zf3FbvYEAM) | 2:14 | 2022-04-07 | 2022-04-15 |
 | [Crazy](https://open.spotify.com/track/0zWnMErj14jTZwzRXevysn) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Crazy](https://open.spotify.com/album/4pwEIYXbZA4XuxDdEY8MVy) | 3:32 | 2022-01-20 | 2022-01-28 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 |  |
 | [CRAZY](https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Facade](https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc) | 3:28 | 2022-06-16 | 2022-06-24 |
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-01-06 | 2022-01-14 |
 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 | 2023-11-30 | 2023-12-08 |
@@ -3785,7 +3787,7 @@
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-07-14 | 2022-07-22 |
 | [GO SLOW \- A COLORS SHOW](https://open.spotify.com/track/5VnZTry3HpruQpTKhhuvvI) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [GO SLOW \- A COLORS SHOW](https://open.spotify.com/album/71hE7PNuaYZ8iue9QdYXh8) | 2:16 | 2023-01-26 | 2023-02-03 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-07 | 2022-04-15 |
-| [Go the Distance \- From "A Whole New Sound"](https://open.spotify.com/track/6NNYKnSo8Oix7oQeuz8jMm) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Go the Distance \(From "A Whole New Sound"\)](https://open.spotify.com/album/7r2bCfkcGCcrzPamZhT3Tb) | 3:08 | 2024-08-29 |  |
+| [Go the Distance \- From "A Whole New Sound"](https://open.spotify.com/track/6NNYKnSo8Oix7oQeuz8jMm) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Go the Distance \- From "A Whole New Sound"](https://open.spotify.com/album/7r2bCfkcGCcrzPamZhT3Tb) | 3:08 | 2024-08-29 |  |
 | [GO TO HELL!!!](https://open.spotify.com/track/12c3eURzh9miwevJYZBbjX) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [GO TO HELL!!!](https://open.spotify.com/album/2emQssdGVDdZ0gsf9yyzP6) | 2:36 | 2023-10-26 | 2023-11-03 |
 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 | 2022-09-22 | 2022-09-30 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-03-03 | 2022-03-11 |
@@ -4239,7 +4241,7 @@
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-18 | 2022-08-26 |
 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-04 | 2022-08-12 |
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-07 | 2023-12-15 |
-| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:52 | 2024-08-29 |  |
+| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-29 |  |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-12 | 2022-08-19 |
 | [Her Birthday](https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:34 | 2023-09-07 | 2023-09-15 |
 | [Her Body Is Bible](https://open.spotify.com/track/40IUVT3kC3VY95Qr5c011c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/1vdeShAE0zPzpg7sB6hubv) | 2:57 | 2022-06-23 | 2022-07-01 |
@@ -9183,6 +9185,7 @@
 | [stargazing](https://open.spotify.com/track/1occWjMLEm4VilPWFq8zjN) | [odelia tirza](https://open.spotify.com/artist/7N1Qoaz2IKkCXZMe0HQGrp) | [stargazing](https://open.spotify.com/album/74R6ctevu7rk3Et2ysGqJO) | 3:20 | 2022-12-22 | 2022-12-30 |
 | [Starlight](https://open.spotify.com/track/4WGwTL5HIiaw5OIFnwgCR9) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 40](https://open.spotify.com/album/57TzZhbqvYoUBzJSVKFVlG) | 5:03 | 2022-11-17 | 2022-11-25 |
 | [Starlight](https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Twenty\-Five Twenty\-One OST Part 1](https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2) | 3:45 | 2022-02-17 | 2022-02-25 |
+| [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 |  |
 | [Starry Night](https://open.spotify.com/track/1GVaatRoHF3Vssfz8ZuINz) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [Trip: Tape \#02](https://open.spotify.com/album/5pnH3lBGN8Id47sTkWxOsZ) | 2:46 | 2022-04-07 | 2022-04-15 |
 | [Starry Night](https://open.spotify.com/track/4EH2Z6lUYSW5PIopdrPGSr) | [The Terrace Vibe](https://open.spotify.com/artist/6rRrN0wgGkpmiFOM2JOvDz) | [Starry Night](https://open.spotify.com/album/4m9cDzrbMEnPujcdzQpICr) | 4:14 | 2023-03-09 | 2023-03-18 |
 | [Stars](https://open.spotify.com/track/20NCxS5zs0d7XpL6HfvmE2) | [Abigail](https://open.spotify.com/artist/58oYFocjyA3X1pWAsJU4dt) | [Stars](https://open.spotify.com/album/1yvCG9PNW3FS60CBS26wrX) | 2:36 | 2022-06-23 | 2022-07-01 |

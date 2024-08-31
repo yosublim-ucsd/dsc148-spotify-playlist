@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Covered in Love",
+        "url": "https://open.spotify.com/album/2rJ4VBdg1mX3eBUk0MVNtr"
+      },
+      "artists": [
+        {
+          "name": "Francine Miller",
+          "url": "https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Covered in Love",
+      "url": "https://open.spotify.com/track/7o8hrTClC20Z7kRb89EEv0"
+    },
+    {
+      "album": {
         "name": "Golden Dreams",
         "url": "https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW"
       },
@@ -3184,7 +3202,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 148725,
       "name": "Dream about lovely things",
       "url": "https://open.spotify.com/track/68jTr5OHQaaOknKAJpieuS"
@@ -6021,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "Icecream Dream",
+        "url": "https://open.spotify.com/album/1pPGFSjyPdwIP4lh2SNpNj"
+      },
+      "artists": [
+        {
+          "name": "Isa Gillis",
+          "url": "https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129067,
+      "name": "Icecream Dream",
+      "url": "https://open.spotify.com/track/1JaWL1XxnrthWbN2sI8Aim"
+    },
+    {
+      "album": {
         "name": "Ida's Summer Song",
         "url": "https://open.spotify.com/album/4ZPV0JRQdWpxIfvtGvEg7V"
       },
@@ -7332,6 +7368,24 @@
       "duration_ms": 87750,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/5ahdo7kQdsDQWDRtPs6kGn"
+    },
+    {
+      "album": {
+        "name": "Little Boy Blue",
+        "url": "https://open.spotify.com/album/4O7IIMk1xfIYUTkRIFcp0F"
+      },
+      "artists": [
+        {
+          "name": "Lily Fairchild",
+          "url": "https://open.spotify.com/artist/3vqkh4pULf8V7LBMjaK2H2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/3F447o8m3RaD1id4WkKzhA"
     },
     {
       "album": {
@@ -9477,6 +9531,24 @@
     },
     {
       "album": {
+        "name": "On A Fluffy Starbed",
+        "url": "https://open.spotify.com/album/4v3IfRqWGDnuMKHEMYMfEj"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134176,
+      "name": "On A Fluffy Starbed",
+      "url": "https://open.spotify.com/track/4V1xcjw4KmYYSkMRMeFA0N"
+    },
+    {
+      "album": {
         "name": "On a rainy day",
         "url": "https://open.spotify.com/album/2J1xpDIoo4yqc6QjZxiinS"
       },
@@ -10572,7 +10644,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 76624,
       "name": "Right here beside you",
       "url": "https://open.spotify.com/track/2zJJOSHZ0nhtQWKRdf9mzJ"
@@ -11278,7 +11350,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 112409,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/75VbqJE4wpR7upFz5lCgP4"
@@ -11840,6 +11912,24 @@
       "duration_ms": 210846,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/1GaiWc7dWnQzbvOs22tOyc"
+    },
+    {
+      "album": {
+        "name": "Snowdrop",
+        "url": "https://open.spotify.com/album/3eIPKavVrj400N8Drmz6aC"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby",
+          "url": "https://open.spotify.com/artist/033QxPl6mkAbvTYkC9lsxM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135098,
+      "name": "Snowdrop",
+      "url": "https://open.spotify.com/track/36qNynUmExvLMosT826GIJ"
     },
     {
       "album": {
@@ -15454,10 +15544,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 105706,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0"
+    },
+    {
+      "album": {
+        "name": "You and me forever",
+        "url": "https://open.spotify.com/album/1G0R8zfZd2E0JS94CRWEKM"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101719,
+      "name": "You and me forever",
+      "url": "https://open.spotify.com/track/2teIsgIvvuKsFa03sWhUt0"
     },
     {
       "album": {

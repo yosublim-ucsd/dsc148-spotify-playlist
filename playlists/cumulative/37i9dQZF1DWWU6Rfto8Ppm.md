@@ -4,7 +4,7 @@
 
 > Celebrando los 20 años del Barrio Fino en compañía de Daddy Yankee.
 
-468 songs - 1 day 3 hr 49 min
+469 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Dime Si Te Vas Con Él](https://open.spotify.com/track/4p1EW0DhhmG7YrpTLmJAag) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60) | [La Evolución Romantic Style](https://open.spotify.com/album/0LKlkRiqPFd3EZSjUsHqMN) | 3:55 | 2023-07-24 | 2024-04-19 |
 | [Dime Si Te Vas con Él](https://open.spotify.com/track/2SgI67b7Kei5FE4hT9SxDv) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60) | [La Evolución Romantic Style](https://open.spotify.com/album/2LPVQyIdBHQC4ToANsvjMV) | 3:53 | 2023-12-21 |  |
 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 | 2021-12-17 |  |
-| [Don't Stop](https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:39 | 2021-12-17 |  |
+| [Don't Stop](https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:39 | 2021-12-17 | 2024-08-31 |
 | [Doncella](https://open.spotify.com/track/3BYUW3fviY5RZyNzZhnLO1) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando A La Yal \(Special Edition\)](https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7) | 3:10 | 2021-12-17 |  |
 | [Donde Estan las Gatas](https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gargolas 3](https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob) | 2:50 | 2022-07-27 | 2024-04-19 |
 | [Donde Estan Las Gatas \(feat\. Nicky Jam\)](https://open.spotify.com/track/3Kemg5QPEhEjOiWUFrTkXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 2:50 | 2021-12-17 | 2022-07-29 |
@@ -149,6 +149,7 @@
 | [Eras Una Niña \(feat\. Japanese\)](https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw) | [Nigga](https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Japanese](https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT) | [Te Quiero](https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1) | 3:02 | 2023-12-21 |  |
 | [Es Dificil](https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Masacre Musical](https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe) | 4:40 | 2021-12-17 |  |
 | [Es Mejor Olvidarlo](https://open.spotify.com/track/4dr6kNlIQ93KpUXwdEfTNX) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Lennox](https://open.spotify.com/artist/6jNjSQW4gxdW0MBzefS7lD) | [Luny Tunes Presents: Calle 434](https://open.spotify.com/album/2SM9goluYzwQixrtAgamC6) | 3:51 | 2021-12-17 | 2022-02-04 |
+| [Es Mejor Olvidarlo](https://open.spotify.com/track/5zmMcT8OVIWIqIozqAbnw2) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2) | [Es Mejor Olvidarlo](https://open.spotify.com/album/7LPiqgScjNtVIZ69kjNadb) | 3:49 | 2024-08-20 |  |
 | [Es Mejor Olvidarlo](https://open.spotify.com/track/5ZEh7PjppT52nuO7HA9eDI) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Baby Ranks](https://open.spotify.com/artist/7hSRpYVEpEzvRMsGlcHTdY) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:52 | 2021-12-17 | 2022-07-29 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-10-12 | 2024-04-19 |
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2021-12-17 |  |

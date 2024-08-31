@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Jeriq",
+  "description": "From the trenches. Through the streets.\nCover: Zlatan",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 176413,
       "name": "HBP Remix (with Bella Shmurda)",
       "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173705,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5HRx964pvIFS5rYcfjJhTT"
@@ -5081,6 +5081,24 @@
     },
     {
       "album": {
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
+    },
+    {
+      "album": {
         "name": "Time (Remix)",
         "url": "https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1"
       },
@@ -5756,6 +5774,28 @@
       "duration_ms": 214545,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v"
+    },
+    {
+      "album": {
+        "name": "Different Lane",
+        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157758,
+      "name": "\u2060My Nigga",
+      "url": "https://open.spotify.com/track/71xowQywqqeA2EV6wGLC3S"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob"

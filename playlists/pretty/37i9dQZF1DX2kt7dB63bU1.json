@@ -1,13 +1,101 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 145330,
+  "num_followers": 145373,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAAXHJIctvAJS+M+4fWOKKMT",
+  "snapshot_id": "ZtFDwAAAAABaFd9Sd2NQR4rJUOaG9fwe",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Stella Cole",
+        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Chelsea Bridge",
+        "url": "https://open.spotify.com/album/2QD9jp5eg6iH75ctCpeSfN"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 225801,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/3G7TsMsIvIpWqug5qEY61Z"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
@@ -75,22 +163,6 @@
       "duration_ms": 185560,
       "name": "Reste un peu - Radio Edit",
       "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "P.S. I Love You",
-        "url": "https://open.spotify.com/album/71wXFz3FCn2JlvrRNfNBDR"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "P.S. I Love You",
-      "url": "https://open.spotify.com/track/7IbXt8rAf2Qwcvdb4S8utc"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -425,38 +497,6 @@
       "url": "https://open.spotify.com/track/1VcejonVyFNjgASurwl28D"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/5Q0I5P9ACQxRHyPQeBXxqa"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        }
-      ],
-      "duration_ms": 192341,
-      "name": "Sombras",
-      "url": "https://open.spotify.com/track/0HLbuSDBvU3MFwTYTgs2N1"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Silver Tongue",
@@ -727,22 +767,6 @@
     {
       "added_at": "2024-02-23 05:01:00",
       "album": {
-        "name": "The Very Thought Of You",
-        "url": "https://open.spotify.com/album/02i4H5VSXDnuT14P9d89E1"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 220885,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/6yxE2pmrPBQGMH0oQg4RcU"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
         "name": "Five Senses",
         "url": "https://open.spotify.com/album/4cl84AfjXk8k6xtBaxqete"
       },
@@ -771,22 +795,6 @@
       "duration_ms": 199742,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/33jGYVUxPtcfH8td6Sr3qw"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Easy Living",
-        "url": "https://open.spotify.com/album/2IqEzOFrAk1vO8ZmMpCXGt"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 148805,
-      "name": "Duke Ellington's Sound of Love",
-      "url": "https://open.spotify.com/track/40JRWQHUZT7EnEuovLBjC1"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1285,26 +1293,6 @@
       "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
     },
     {
-      "added_at": "2023-05-08 13:12:08",
-      "album": {
-        "name": "But Not for Me",
-        "url": "https://open.spotify.com/album/2vkGc6locFx5ukMogc8u5r"
-      },
-      "artists": [
-        {
-          "name": "Laila Biali",
-          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
-        },
-        {
-          "name": "Anat Cohen",
-          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
-        }
-      ],
-      "duration_ms": 177157,
-      "name": "But Not for Me",
-      "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Lean In",
@@ -1439,22 +1427,6 @@
       "duration_ms": 223200,
       "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
     },
     {
       "added_at": "2023-06-30 13:19:39",

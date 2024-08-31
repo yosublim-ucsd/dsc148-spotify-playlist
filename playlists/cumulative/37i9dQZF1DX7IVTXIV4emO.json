@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "balearico",
+        "url": "https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "balearico",
+      "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
+    },
+    {
+      "album": {
         "name": "Troubadour (Champion Edition - Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0xkqVJCyaLuPFBZAqjyXQ8"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 225933,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/60tVsYxb9Ac05YRFgMmyL1"

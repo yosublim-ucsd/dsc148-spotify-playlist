@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 裘德 \(Jude Chiu\)
 
-548 songs - 1 day 7 hr 49 min
+550 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [嘿！你](https://open.spotify.com/track/6REKrqOzVAcgliZVRnibWP) | [田颖](https://open.spotify.com/artist/4F4IvEpWiQnK0iFxsk8A2h) | [嘿！你](https://open.spotify.com/album/5ellB2NO5qCC4qtNFXCh2i) | 4:21 | 2024-08-29 |  |
 | [在你身邊](https://open.spotify.com/track/6BYztbhd5xgPiZknsQNBkH) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [微光](https://open.spotify.com/album/6Gt58qgnmBzM4fS5fr8cfJ) | 2:58 | 2024-06-27 | 2024-07-05 |
 | [在意與默契](https://open.spotify.com/track/6oFB0Wl59EuRInxdeo8PXP) | [DSPS](https://open.spotify.com/artist/4EJY7H6gmi3nXtTvt2ddD7) | [在意與默契](https://open.spotify.com/album/0sl94q4arsr4cCgzIem8K4) | 6:22 | 2024-08-22 |  |
+| [在沒有你的空間](https://open.spotify.com/track/5VkrdOroAP1M7nCDFz1kin) | [TAP](https://open.spotify.com/artist/2bFl5zD7uP885xh9u3fs7J), [King Zaae](https://open.spotify.com/artist/7f4V4nb3rVrDzjobsgS2vn) | [在沒有你的空間](https://open.spotify.com/album/6Ld1BCw5go0nIkmIJDSkd0) | 3:36 | 2024-08-29 |  |
 | [地球逆時針](https://open.spotify.com/track/59dh6KlrXgeQL8AkjrYCma) | [REEBX](https://open.spotify.com/artist/3LEdwW2oT9mc2CEULY1a8N), [DreamBeach](https://open.spotify.com/artist/5dD1ViHHSYWQX9lb8VUsab) | [地球逆時針](https://open.spotify.com/album/28zSpFhMHgEchCxrM2D7cN) | 3:41 | 2024-06-27 | 2024-07-05 |
 | [地鐵驚魂](https://open.spotify.com/track/37dBd5V78ANGiMn0Sub4mr) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [地鐵驚魂](https://open.spotify.com/album/4ha6c015EkjYUjyjwEinzh) | 2:56 | 2024-06-27 | 2024-07-05 |
 | [坠在原点的我](https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [坠在原点的我](https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u) | 4:15 | 2024-08-22 |  |
@@ -519,6 +520,7 @@
 | [跟我來（JOYCE remix\)](https://open.spotify.com/track/0BJiUyczdPSVZQI5nMXB7x) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [跟我來（JOYCE remix\)](https://open.spotify.com/album/3yBL8RYXSRZ7GcYUaJpamU) | 3:16 | 2024-07-18 | 2024-08-09 |
 | [躺在你怀里做一场梦](https://open.spotify.com/track/3IuzTuGnsywoYnroIHI8VN) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [这是一张情歌专辑](https://open.spotify.com/album/3wXfLVflhWMu5aXr8gM8aL) | 4:02 | 2024-07-18 | 2024-08-09 |
 | [迎風之歌](https://open.spotify.com/track/5S6MNHvjJDqGod7wOzoCXy) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [迎風之歌](https://open.spotify.com/album/75n1wcRAYQqKFtsziuMDbv) | 4:46 | 2024-06-27 |  |
+| [迷失的边界Lost Borders](https://open.spotify.com/track/6nHRNnye3jfb7KpCKBeBvq) | [异象音轨](https://open.spotify.com/artist/1zktKuhgJRIZJrfbTdrjBu) | [迷失的边界Lost Borders](https://open.spotify.com/album/4FsWDVMOojXlDinw1GygIM) | 2:35 | 2024-08-29 |  |
 | [迷航](https://open.spotify.com/track/4FNwRlpFSus5yPM3dYUWLb) | [EVENFALL](https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF) | [迷航](https://open.spotify.com/album/7o2B2HxBicwMsKygzPVuGb) | 3:51 | 2024-08-29 |  |
 | [迷途](https://open.spotify.com/track/0F4gzBxzzooMGrQtjn14kn) | [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [迷途](https://open.spotify.com/album/7J4Tx8rLpr1Prf2LYvKeYz) | 3:33 | 2024-08-15 |  |
 | [追尋你的輪廓 \- 微電影《從心發現》主題曲](https://open.spotify.com/track/1cvZc4kzXTtdg3lfoS6PZw) | [陳時雨](https://open.spotify.com/artist/2A9vtol0qDdvGgKWIEKDtT) | [追尋你的輪廓 \- 微電影《從心發現》主題曲](https://open.spotify.com/album/4ZMOOQjMYXET2wrdWzcvbN) | 3:40 | 2024-08-22 |  |

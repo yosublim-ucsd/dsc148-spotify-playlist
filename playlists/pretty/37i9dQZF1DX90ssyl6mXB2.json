@@ -1,28 +1,28 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 124003,
+  "num_followers": 124080,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqxb3AAAAACYBMtLOwfx6GMrlQKbi5Vf",
+  "snapshot_id": "ZtFDwAAAAACnD2uHRkqaDzKpTWjiv1uk",
   "tracks": [
     {
-      "added_at": "2024-08-02 04:09:00",
+      "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Selfie",
-        "url": "https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK"
+        "name": "STORY OF ARCHIVES",
+        "url": "https://open.spotify.com/album/72fjCMiyt17pTcle383Wpg"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Selfie",
-      "url": "https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH"
+      "duration_ms": 173252,
+      "name": "DONT_SAY",
+      "url": "https://open.spotify.com/track/4pD2U2Y4G55IqScpSb04b0"
     },
     {
       "added_at": "2024-07-26 08:11:06",
@@ -39,6 +39,22 @@
       "duration_ms": 130434,
       "name": "Tempt Me",
       "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/6SZGguUQ3ddoyJgusvfPXl"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/1AdFpWand1DPxlprhkOxPy"
     },
     {
       "added_at": "2024-07-05 17:16:56",
@@ -77,6 +93,22 @@
       "url": "https://open.spotify.com/track/3CeObtgyBu5kGWo3T8QDxn"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K"
+      },
+      "artists": [
+        {
+          "name": "Samuel Petra",
+          "url": "https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3"
+        }
+      ],
+      "duration_ms": 106638,
+      "name": "BLUSH",
+      "url": "https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM"
+    },
+    {
       "added_at": "2024-06-07 11:39:15",
       "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
@@ -109,22 +141,6 @@
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ"
-    },
-    {
       "added_at": "2024-07-05 17:16:56",
       "album": {
         "name": "NEGLIGENT (Remix)",
@@ -143,6 +159,22 @@
       "duration_ms": 195460,
       "name": "NEGLIGENT (Remix) [feat. Kaash Paige]",
       "url": "https://open.spotify.com/track/7sQJS5X1f74xaY8BX8Bm6v"
+    },
+    {
+      "added_at": "2024-08-02 04:09:00",
+      "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH"
     },
     {
       "added_at": "2024-05-31 07:34:56",
@@ -191,6 +223,22 @@
       "duration_ms": 207500,
       "name": "Someday",
       "url": "https://open.spotify.com/track/243MZdDZaiZwNw5UMIUcMn"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ"
     },
     {
       "added_at": "2024-07-05 17:16:56",

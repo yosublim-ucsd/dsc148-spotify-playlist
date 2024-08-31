@@ -4,7 +4,7 @@
 
 > 💔 yo nací pa' querer a la que no me quiere y eso duele 💔 Foto: Yeison Jimenez
 
-115 songs - 7 hr 10 min
+117 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Misión Imposible](https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [tres](https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd) | 2:34 | 2024-05-10 | 2024-05-18 |
 | [ni tú ni yo](https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ni tú ni yo](https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB) | 2:55 | 2023-11-10 | 2023-12-09 |
 | [Niégame Tres Veces](https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sigo Invicto](https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki) | 4:29 | 2023-11-10 |  |
-| [No Ha Sido Fácil](https://open.spotify.com/track/1D0fa8zeEp0gU5jOraOVTh) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [No Ha Sido Fácil](https://open.spotify.com/album/4YDg10zuhEK5catbTFm4C0) | 3:10 | 2023-11-10 |  |
+| [No Ha Sido Fácil](https://open.spotify.com/track/1D0fa8zeEp0gU5jOraOVTh) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [No Ha Sido Fácil](https://open.spotify.com/album/4YDg10zuhEK5catbTFm4C0) | 3:10 | 2023-11-10 | 2024-08-31 |
 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 | 2023-11-10 |  |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2023-11-10 |  |
 | [No será tan fácil](https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No será tan fácil](https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd) | 2:55 | 2024-02-02 | 2024-07-04 |
@@ -97,6 +97,7 @@
 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 | 2024-02-09 |  |
 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 | 2023-11-10 | 2024-04-19 |
 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 | 2023-11-10 |  |
+| [Soltera](https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau) | 2:45 | 2024-08-30 |  |
 | [Tatuaje en el Alma](https://open.spotify.com/track/59PFv3Kawc9pZ04X2f7WEJ) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l) | [Colección Oro del Vallenato, Vol\. 10](https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk) | 5:00 | 2024-02-09 | 2024-05-11 |
 | [Tatuaje en el Alma](https://open.spotify.com/track/2GtVW9cZuHlWRUEqzwoqcx) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l), [Norberto "el Beto" Molina](https://open.spotify.com/artist/6b2WfQsxNtbosftmdR9VaF) | [La Sensación Vallenata](https://open.spotify.com/album/3GFgxHXId6NxklnTHL6lwo) | 5:04 | 2023-11-10 | 2024-04-19 |
 | [Te Parece Poco](https://open.spotify.com/track/5Q3LfLSRpdUgM7exc4p8WE) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/2aBsywXae4Hp7D622KfOIY) | 3:52 | 2024-07-03 |  |
@@ -107,6 +108,7 @@
 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 | 2023-11-10 |  |
 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \- Vol\. 1](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 | 2024-02-09 |  |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-11-10 |  |
+| [Un Besito Más](https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [PA'L CORA EP\. 01](https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV) | 3:04 | 2024-08-30 |  |
 | [Un Osito Dormilón](https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 4:49 | 2023-11-10 |  |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-11-10 |  |
 | [Una Como Tu](https://open.spotify.com/track/0EMt8VJkhRztiR2MRnjAK7) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:47 | 2023-11-10 | 2024-04-19 |

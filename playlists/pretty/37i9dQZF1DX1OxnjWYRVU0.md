@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,155 likes - 368 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,188 likes - 368 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -335,7 +335,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 325 | [Apologize](https://open.spotify.com/track/0Uo43DNldd7aNxizhKgowg) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Apologize](https://open.spotify.com/album/6vJNBwBTkIuRRPIdbyJCH2) | 2:26 |
 | 326 | [Say It Right \- ILURO Remix](https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [ILURO](https://open.spotify.com/artist/73BWaJ2QBzDrBjeCnhBzE1) | [Say It Right \(ILURO Remix\)](https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a) | 2:13 |
 | 327 | [Ride It](https://open.spotify.com/track/3RRBRj9Pvpa3YlCGw0dVM7) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Ride It](https://open.spotify.com/album/0ms02BuoqLoDcsCeEd51NG) | 2:41 |
-| 328 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 |
+| 328 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 |
 | 329 | [Party In The U.S.A\. \(LittGloss x Shaylen\)](https://open.spotify.com/track/0RHlpI9MZJw2vfSQARWoY9) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Party In The U.S.A\. \(LittGloss x Shaylen\)](https://open.spotify.com/album/73koQrfvnkyO77mTfnxwlB) | 2:55 |
 | 330 | [Let Her Go](https://open.spotify.com/track/4XoRZVHIgOrdaDFTVXIeP4) | [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Let Her Go](https://open.spotify.com/album/3UYqfauuf6vwVMQ35bJETL) | 2:53 |
 | 331 | [Poker Face](https://open.spotify.com/track/6vjzAsa2cz8tb3bpvg8PCx) | [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou), [JUDICI](https://open.spotify.com/artist/23fUEUs0jPTjutYWuj6CRA), [Molinoir](https://open.spotify.com/artist/33XY0TDbDWw7dbKycHq4dm) | [Poker Face](https://open.spotify.com/album/2JHCgIVG0UeGS99QQH5haF) | 2:48 |

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Fousheé
 
-1,276 songs - 2 day 19 hr 28 min
+1,278 songs - 2 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 | 2022-10-21 | 2023-12-09 |
 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 | 2022-10-21 | 2022-11-03 |
 | [best thing for me](https://open.spotify.com/track/77NzDYJZyAqIGnk6LvfsB9) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:26 | 2024-01-12 | 2024-03-09 |
+| [Better Off](https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Aeon](https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9) | 1:50 | 2024-08-30 |  |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/3TWE0jIXNuI2DVa5Y1fKRf) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/0dIY9BClkUUgfe7zthyBVv) | 2:35 | 2023-04-28 | 2023-10-25 |
 | [BIG BOYS DON'T CRY](https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [BIG BOYS DON'T CRY](https://open.spotify.com/album/4fey3LtV0RwTPv8WOu94SL) | 2:35 | 2023-04-28 | 2024-04-19 |
 | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 | 2024-03-01 |  |
@@ -363,7 +364,7 @@
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everybody's Gotta Learn Sometimes](https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-09-29 | 2023-12-17 |
 | [EVERYTHING \(feat\. Chase Shakur\)](https://open.spotify.com/track/15o9LQkVjPy9R8GaDa8k5D) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:06 | 2024-06-14 |  |
-| [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 |  |
+| [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 | 2024-08-31 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 |  |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-07-02 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 | 2024-07-17 |
@@ -996,7 +997,7 @@
 | [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 | 2023-07-14 | 2024-02-07 |
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-03-19 | 2022-01-23 |
 | [Solo Dolo](https://open.spotify.com/track/15wIFzox6G1pDNIk1SKGP9) | [Amen](https://open.spotify.com/artist/59XyIoBpA5iKQ8KmjJj554) | [Solo Dolo](https://open.spotify.com/album/1mCzUg46aUlZuJfNvsM6XI) | 3:01 | 2021-06-18 | 2021-12-29 |
-| [SOMEDAY](https://open.spotify.com/track/2bQzlvneMWu99bGWvmARw4) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [SOMEDAY](https://open.spotify.com/album/3eoARb60JoP1Z6GsD4HqLE) | 3:29 | 2024-06-07 |  |
+| [SOMEDAY](https://open.spotify.com/track/2bQzlvneMWu99bGWvmARw4) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [SOMEDAY](https://open.spotify.com/album/3eoARb60JoP1Z6GsD4HqLE) | 3:29 | 2024-06-07 | 2024-08-31 |
 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 | 2024-08-23 |  |
 | [SONIC BOOM](https://open.spotify.com/track/6VZd1Xv8BR4sZYubjLOIhR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [SONIC BOOM](https://open.spotify.com/album/6UDg27sesCLOc8fB6I9nBy) | 2:43 | 2022-07-15 | 2022-07-23 |
 | [Sore Throat](https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy Pt\. 2](https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG) | 2:55 | 2024-03-08 | 2024-06-08 |
@@ -1027,6 +1028,7 @@
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-02 |  |
 | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/track/7cjIiu3XZSz7tubqWkWojH) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/album/4tkmMUCsE8DE4ukjA8SBZC) | 4:29 | 2021-06-04 | 2022-01-26 |
 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-02 |  |
+| [Stop Playing](https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [The Ranch](https://open.spotify.com/album/2Gx9foKUKSHuoIDnTTlCLB) | 3:38 | 2024-08-30 |  |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-04 | 2022-07-29 |
 | [STRANGER](https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [ACCELERATOR](https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu) | 3:48 | 2024-06-28 |  |
 | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 | 2023-01-27 | 2023-06-03 |

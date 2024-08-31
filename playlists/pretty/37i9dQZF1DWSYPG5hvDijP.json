@@ -1,15 +1,15 @@
 {
   "description": "New Hip Hop from India.",
-  "num_followers": 7697,
+  "num_followers": 7719,
   "original_name": "Taaza hai bro!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtBjlgAAAAAy7uGgpDC0xdcz1wDypGza",
+  "snapshot_id": "ZtG+lQAAAABq3NgJh+UBbLiu4jHlOv0j",
   "tracks": [
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -29,7 +29,31 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
+      "album": {
+        "name": "Attach",
+        "url": "https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Attach",
+      "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
+    },
+    {
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
@@ -49,7 +73,7 @@
       "url": "https://open.spotify.com/track/25PPQ5o1SB6pLGVcSsfxiV"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
@@ -69,27 +93,7 @@
       "url": "https://open.spotify.com/track/4vOSb0R7owrxx1tkbtxKGy"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
-      "album": {
-        "name": "SAZA",
-        "url": "https://open.spotify.com/album/3N9lCq2fVrQGtb8Z1Sfv2V"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        },
-        {
-          "name": "MC Heam",
-          "url": "https://open.spotify.com/artist/2vukE84hCaAdQrqMoOgW8Y"
-        }
-      ],
-      "duration_ms": 228563,
-      "name": "SAZA",
-      "url": "https://open.spotify.com/track/7l4dI5Lq7PRP5ADS1NZFEw"
-    },
-    {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "God Bless You",
         "url": "https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2"
@@ -105,7 +109,27 @@
       "url": "https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
+      "album": {
+        "name": "Do Shabd",
+        "url": "https://open.spotify.com/album/2m7kSEJFEpxh1jVntbEkwn"
+      },
+      "artists": [
+        {
+          "name": "Kidshot",
+          "url": "https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy"
+        },
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        }
+      ],
+      "duration_ms": 165483,
+      "name": "Do Shabd",
+      "url": "https://open.spotify.com/track/18peD3JZAcGFIwd07vvU7H"
+    },
+    {
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
@@ -125,7 +149,23 @@
       "url": "https://open.spotify.com/track/6zadsUn6muFOc8NJXiw7Yz"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
+      "album": {
+        "name": "SHAKTI",
+        "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Naksha",
+      "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
+    },
+    {
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "MIXED FEELINGS",
         "url": "https://open.spotify.com/album/68eF34hzy5zePuzwqX5PIS"
@@ -145,23 +185,7 @@
       "url": "https://open.spotify.com/track/1C99ZFDmchpWnOXgRk9B2U"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
-      "album": {
-        "name": "SHAKTI",
-        "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
-      },
-      "artists": [
-        {
-          "name": "Seedhe Maut",
-          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Naksha",
-      "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
-    },
-    {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -177,7 +201,7 @@
       "url": "https://open.spotify.com/track/3jW6x7dyYFUr5LNfWC2TFU"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Kale Kaam",
         "url": "https://open.spotify.com/album/5WTIkqjVDkumhsaOfiq3ei"
@@ -197,7 +221,7 @@
       "url": "https://open.spotify.com/track/17erB64iP3V1DRv3oDXqIt"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "2 AM in Mumbai",
         "url": "https://open.spotify.com/album/1aUUzcLuMC1iNN1eDGaME7"
@@ -217,7 +241,7 @@
       "url": "https://open.spotify.com/track/3lHbWEiu66JgYQuuHy8bqz"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
@@ -237,7 +261,7 @@
       "url": "https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "140",
         "url": "https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ"
@@ -261,7 +285,7 @@
       "url": "https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "OSHO",
         "url": "https://open.spotify.com/album/3YhqyM5pvANHZ8P1h92pWr"
@@ -281,7 +305,7 @@
       "url": "https://open.spotify.com/track/7qENyfBUfEEXNgjehd7lXf"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "MERI JAAN PEHLE NAACH",
         "url": "https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV"
@@ -301,7 +325,7 @@
       "url": "https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Mafia Mentality",
         "url": "https://open.spotify.com/album/0J6rMORGxjJ7IqwA8OF8cz"
@@ -317,7 +341,7 @@
       "url": "https://open.spotify.com/track/6uN1Q7zi64ItazbGHBYud9"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "In The Building",
         "url": "https://open.spotify.com/album/6oHPRRBPncB9BcIyVjRkWU"
@@ -337,7 +361,7 @@
       "url": "https://open.spotify.com/track/0QE3NomrrrqmxQG75iXCaG"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Chalis",
         "url": "https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw"
@@ -353,31 +377,7 @@
       "url": "https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
-      "album": {
-        "name": "MIRZAPUR FREESTYLE",
-        "url": "https://open.spotify.com/album/5v6nbdqZf51gYyqPcrAzNX"
-      },
-      "artists": [
-        {
-          "name": "SlowCheeta",
-          "url": "https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63"
-        },
-        {
-          "name": "Ink Heart",
-          "url": "https://open.spotify.com/artist/010tbxYFwrOC8Nl2paePR6"
-        },
-        {
-          "name": "Arun Dev Yadav",
-          "url": "https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb"
-        }
-      ],
-      "duration_ms": 168979,
-      "name": "MIRZAPUR FREESTYLE",
-      "url": "https://open.spotify.com/track/45JGbdPqNzEWfmh8SK0Kw9"
-    },
-    {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Trapanese",
         "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/2D23wYoZUdce0osrZr3Qq0"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "The World Is Mine",
         "url": "https://open.spotify.com/album/6WU5JGTTE3gjq90FQd1d5i"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/7hz8qG2Hs0Z5n3gjt1qTMG"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "5 Saal",
         "url": "https://open.spotify.com/album/7GPyAb9Sa0FfYThfVYMMtM"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0Ef1Q0uyQ8dzZOo9q0IqJ4"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "IMMORALS",
         "url": "https://open.spotify.com/album/0zvBLdhThhfuhZ6mhPldcL"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/08l2EihRm3z5I6cO39yM5D"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "SHAKTI",
         "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Mumbai Rap",
         "url": "https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "PRAISE",
         "url": "https://open.spotify.com/album/5OFm3PvKUJuUo3cMLlJGHn"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/6NnUXWms5vhnhsipEJ4yEj"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/0chBFczOejfqe24XLkAVLj"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/2xjK6X8vX06yZK8DnYQ9V0"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Azaad Banda",
         "url": "https://open.spotify.com/album/0hAnRefMvNQObmqsuM8xcf"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7u6Fp4pM368gkLdb1PG65a"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Trapanese",
         "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Nacho Re",
         "url": "https://open.spotify.com/album/5AbYRFnhbzaV5kx1Ew26SW"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/5QZi9mzhAz2VCttIgKDMBa"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Ammi",
         "url": "https://open.spotify.com/album/74E1zrZIUKWux1b1I1KzQj"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/6qaY6ME5JBuXDqrHNtUKTX"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/1YEqs3pLKemaxAd7Tyr5eP"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "RANI",
         "url": "https://open.spotify.com/album/0fFLVK1B4ijITBAu3szlGw"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/6TRtJTocE3S9Miou3GSoCj"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "HOMIE LOG",
         "url": "https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Badal Jaa",
         "url": "https://open.spotify.com/album/4xYn534iyCEJipM0o9gb17"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/571104i4e3hTgDykq2acAb"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Shiv",
         "url": "https://open.spotify.com/album/4cVESTjOLf9f3Sbt2P3pxT"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/0uF2pTFxWN1xCLQLVLy8xz"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "GT Durango",
         "url": "https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/34BoTyzEDehR8HcNaYkiEA"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Middle Class",
         "url": "https://open.spotify.com/album/0UBemPmcq8AwFiueDh0D8x"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/3jltDZk8ntO5p70Hyz9COC"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Kaleshi Launde",
         "url": "https://open.spotify.com/album/2mH4p2r7bxlgFyQjjbQfSi"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/1I1pIaWzWBHuERmhKpHVey"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Duty Free",
         "url": "https://open.spotify.com/album/0MWin9PsdFGitWQXMJkCO8"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/7wLi7EgMNh3iWL9higPYCV"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Bewafa",
         "url": "https://open.spotify.com/album/1TCpBZI7iOioJSmo7DFuhk"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/27sHbRIe50Ae1jfrKbJ4z3"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Dil Ki Baat",
         "url": "https://open.spotify.com/album/38cbU2QyvQH46BFqvetgWt"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/0iHqwLyfGiCWBi9518VVgm"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "CALL GIRL",
         "url": "https://open.spotify.com/album/5tHdgQiOVP1GVMEjPMZD1O"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/78CG2RCP6gNXGwIR0sfdiK"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Trapanese",
         "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/3wvT9IGaukapXs0GKPQwKs"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/3GPvDPNmVek5FSp8IsK5AC"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "TATHYA",
         "url": "https://open.spotify.com/album/53VZRmMGUeB2o94pXtwMOc"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/0jBftnxpYmpxGFYSYGSbga"
     },
     {
-      "added_at": "2024-08-29 12:03:33",
+      "added_at": "2024-08-30 12:44:05",
       "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS"

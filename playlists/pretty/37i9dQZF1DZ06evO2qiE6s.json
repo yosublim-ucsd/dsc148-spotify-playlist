@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 119471,
+  "num_followers": 119502,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAA/lz8zojMDwVo8XGFZQ11U",
+  "snapshot_id": "Zs+6AAAAAADau9rJ9pJZohitUCrXd83c",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 2 (1950-1951)",
+        "url": "https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 161800,
-      "name": "Arrivederci Roma - Remastered 1998",
-      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
+      "duration_ms": 128226,
+      "name": "Luna Mezzo Mare",
+      "url": "https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Arrivederci Roma - Remastered 1998",
+      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At The Movies",
         "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 168466,
       "name": "My Rifle, My Pony And Me - Remastered",
       "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 2 (1950-1951)",
-        "url": "https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 128226,
-      "name": "Luna Mezzo Mare",
-      "url": "https://open.spotify.com/track/0VEu9WixScy7tAe5nvPQRv"
     },
     {
       "added_at": null,

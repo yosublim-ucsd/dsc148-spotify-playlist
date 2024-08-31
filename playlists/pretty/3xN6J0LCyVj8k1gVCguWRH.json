@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 128958,
+  "num_followers": 129159,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAm9imItiqOWwYiSe/cOzxzZ+z+NlEy",
+  "snapshot_id": "AAAnFzo39jviAeoNTg9TdUe723aKHQZT",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -55,6 +55,22 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-08-31 00:03:33",
+      "album": {
+        "name": "Grown Ups",
+        "url": "https://open.spotify.com/album/2xkSvH394wxcA6hK78AF8M"
+      },
+      "artists": [
+        {
+          "name": "Naomi Jane",
+          "url": "https://open.spotify.com/artist/24e3hF9IcHsGYNWMqwjIZv"
+        }
+      ],
+      "duration_ms": 145708,
+      "name": "Grown Ups",
+      "url": "https://open.spotify.com/track/50qBQI9ybReAGDt5iAuoLk"
     },
     {
       "added_at": "2024-08-12 20:21:16",
@@ -1485,20 +1501,56 @@
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
     },
     {
-      "added_at": "2024-08-29 14:00:15",
+      "added_at": "2024-08-30 13:21:49",
       "album": {
-        "name": "Charge It to the Band Fund",
-        "url": "https://open.spotify.com/album/2hFJzJYkgHWaopV1KKRrsb"
+        "name": "Punching Up",
+        "url": "https://open.spotify.com/album/1d0ulSk9lz7EHeMzbjoiaS"
       },
       "artists": [
         {
-          "name": "Honey Made",
-          "url": "https://open.spotify.com/artist/3RehHfN84w4V5v6aLKRW9j"
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        },
+        {
+          "name": "Daron.",
+          "url": "https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i"
         }
       ],
-      "duration_ms": 241813,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/16uTVvOkmvf53FHzxipdyH"
+      "duration_ms": 150721,
+      "name": "Punching Up",
+      "url": "https://open.spotify.com/track/23oR5nVQjEagflYzT6hU8p"
+    },
+    {
+      "added_at": "2024-08-30 14:08:11",
+      "album": {
+        "name": "Open Hearts",
+        "url": "https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 217056,
+      "name": "Open Hearts",
+      "url": "https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn"
+    },
+    {
+      "added_at": "2024-08-30 13:25:57",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/5ap1esUaETmbleoPg2wIVE"
+      },
+      "artists": [
+        {
+          "name": "Sidian James",
+          "url": "https://open.spotify.com/artist/71QPLJXBDeDp9qGnES251G"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/4rCse5Jnm0qNvAhZ9zfe7o"
     },
     {
       "added_at": "2024-08-26 13:20:42",
@@ -1569,6 +1621,22 @@
       "url": "https://open.spotify.com/track/3Usds5Xfwl6SblDnn5uj4x"
     },
     {
+      "added_at": "2024-08-30 23:02:50",
+      "album": {
+        "name": "Heart of Summer",
+        "url": "https://open.spotify.com/album/0YZOFllCZupfKo9nbUpSJK"
+      },
+      "artists": [
+        {
+          "name": "James Nicol",
+          "url": "https://open.spotify.com/artist/2Sv9Mp5i5QiaKl5BVOYZnd"
+        }
+      ],
+      "duration_ms": 189229,
+      "name": "Heart of Summer",
+      "url": "https://open.spotify.com/track/2Wjq2cglhnwyOMKO0edAvC"
+    },
+    {
       "added_at": "2024-08-23 14:10:16",
       "album": {
         "name": "Hey Gina",
@@ -1585,20 +1653,20 @@
       "url": "https://open.spotify.com/track/2CZJXVtnwAz7KdOvZGqxCf"
     },
     {
-      "added_at": "2024-08-29 21:05:33",
+      "added_at": "2024-08-23 14:18:17",
       "album": {
-        "name": "Living in Yesterday",
-        "url": "https://open.spotify.com/album/55mqK9GU67CrCtQEpznAng"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7fbAE0WZLSfhNQPtMgqq8g"
       },
       "artists": [
         {
-          "name": "Tristan Lake Leabu",
-          "url": "https://open.spotify.com/artist/0Z7Jt9pjlf2DGSYzf8ZG7E"
+          "name": "Joy Bogat",
+          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
         }
       ],
-      "duration_ms": 261975,
-      "name": "Blue Eyed Stranger",
-      "url": "https://open.spotify.com/track/3HnvrzNbS0kTx6db8n7sE2"
+      "duration_ms": 237856,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4VNvyqy97rQMutDov0xCaS"
     },
     {
       "added_at": "2024-08-23 13:59:49",
@@ -1617,20 +1685,20 @@
       "url": "https://open.spotify.com/track/2Mq3vkDvuj2MskGEPKiB6y"
     },
     {
-      "added_at": "2024-08-29 19:00:46",
+      "added_at": "2024-08-30 14:01:41",
       "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/3kIQ7VGFvLZnFzourFjyFg"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2a7ch5mNlg6DhBFhLWyL6R"
       },
       "artists": [
         {
-          "name": "The Silk Songbird",
-          "url": "https://open.spotify.com/artist/194z9x86ciY1v8OFMpUAJU"
+          "name": "Charlotte Leigh",
+          "url": "https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r"
         }
       ],
-      "duration_ms": 192000,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/5fRid8MplOppeiexBcfCXv"
+      "duration_ms": 264261,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/6GzMx8TZaHSyvIFt2cW8ki"
     },
     {
       "added_at": "2024-08-28 14:04:01",
@@ -1657,20 +1725,140 @@
       "url": "https://open.spotify.com/track/2oXpjjVFBH3BkTAt3vyS3V"
     },
     {
-      "added_at": "2024-08-23 14:18:17",
+      "added_at": "2024-08-29 14:00:15",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7fbAE0WZLSfhNQPtMgqq8g"
+        "name": "Charge It to the Band Fund",
+        "url": "https://open.spotify.com/album/2hFJzJYkgHWaopV1KKRrsb"
       },
       "artists": [
         {
-          "name": "Joy Bogat",
-          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
+          "name": "Honey Made",
+          "url": "https://open.spotify.com/artist/3RehHfN84w4V5v6aLKRW9j"
         }
       ],
-      "duration_ms": 237856,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4VNvyqy97rQMutDov0xCaS"
+      "duration_ms": 241813,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/16uTVvOkmvf53FHzxipdyH"
+    },
+    {
+      "added_at": "2024-08-30 19:02:35",
+      "album": {
+        "name": "Disco Knights",
+        "url": "https://open.spotify.com/album/5Kvz6e3fXjACV0fLRFp5Bt"
+      },
+      "artists": [
+        {
+          "name": "AGE CONNECT",
+          "url": "https://open.spotify.com/artist/5KgLGLhE8ibUs4xNoXeRk5"
+        },
+        {
+          "name": "Rockaway",
+          "url": "https://open.spotify.com/artist/5ZOaMLBUctsqifhCi5Qkuq"
+        }
+      ],
+      "duration_ms": 160916,
+      "name": "Disco Knights",
+      "url": "https://open.spotify.com/track/0JxaM0cOq7NNIZQ0Ccs9Mg"
+    },
+    {
+      "added_at": "2024-08-30 06:01:46",
+      "album": {
+        "name": "8 Ball",
+        "url": "https://open.spotify.com/album/0qfo8VSCKSjxTRxuHMVmI3"
+      },
+      "artists": [
+        {
+          "name": "Sam Louis",
+          "url": "https://open.spotify.com/artist/1ulTtPTKXPppYNOhdZCVy5"
+        }
+      ],
+      "duration_ms": 239174,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/75dLv9wqT5MRdTdggxmqua"
+    },
+    {
+      "added_at": "2024-08-30 12:00:19",
+      "album": {
+        "name": "Edgehill",
+        "url": "https://open.spotify.com/album/03OsIE6vs2md6uqcxhVWwD"
+      },
+      "artists": [
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        },
+        {
+          "name": "David Lyn",
+          "url": "https://open.spotify.com/artist/5bMWHzoSqhbNuDrjBltzaj"
+        }
+      ],
+      "duration_ms": 159110,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/0TMrzTWhcwfBuGIccYICBR"
+    },
+    {
+      "added_at": "2024-08-30 06:01:31",
+      "album": {
+        "name": "Chasing My Chances",
+        "url": "https://open.spotify.com/album/2QGun1ZJAnzfgbITHnbW4h"
+      },
+      "artists": [
+        {
+          "name": "Kira Rizavi",
+          "url": "https://open.spotify.com/artist/5nZkybKpjeomEBzD2p5MP4"
+        }
+      ],
+      "duration_ms": 240008,
+      "name": "Chasing My Chances",
+      "url": "https://open.spotify.com/track/34JCtRyz3QRjofHVAp54o0"
+    },
+    {
+      "added_at": "2024-08-30 12:00:25",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0"
+      },
+      "artists": [
+        {
+          "name": "Macedo",
+          "url": "https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG"
+        }
+      ],
+      "duration_ms": 160055,
+      "name": "Stronger Now",
+      "url": "https://open.spotify.com/track/36be6CWjWQpMpd277AcFzJ"
+    },
+    {
+      "added_at": "2024-08-29 21:05:33",
+      "album": {
+        "name": "Living in Yesterday",
+        "url": "https://open.spotify.com/album/55mqK9GU67CrCtQEpznAng"
+      },
+      "artists": [
+        {
+          "name": "Tristan Lake Leabu",
+          "url": "https://open.spotify.com/artist/0Z7Jt9pjlf2DGSYzf8ZG7E"
+        }
+      ],
+      "duration_ms": 261975,
+      "name": "Blue Eyed Stranger",
+      "url": "https://open.spotify.com/track/3HnvrzNbS0kTx6db8n7sE2"
+    },
+    {
+      "added_at": "2024-08-29 19:00:46",
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/3kIQ7VGFvLZnFzourFjyFg"
+      },
+      "artists": [
+        {
+          "name": "The Silk Songbird",
+          "url": "https://open.spotify.com/artist/194z9x86ciY1v8OFMpUAJU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/5fRid8MplOppeiexBcfCXv"
     },
     {
       "added_at": "2024-08-27 13:13:54",
@@ -1729,24 +1917,100 @@
       "url": "https://open.spotify.com/track/3B39eogy4MFdjECDyTGmY4"
     },
     {
-      "added_at": "2024-08-26 15:01:03",
+      "added_at": "2024-08-29 13:05:45",
       "album": {
-        "name": "With a Heart Preparing for Goodbye",
-        "url": "https://open.spotify.com/album/4Fk6o9Pzk2yWQTu87xktw3"
+        "name": "Entre T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/09nSjOYse9MbIPOhwEmTGZ"
       },
       "artists": [
         {
-          "name": "Sirin Nah",
-          "url": "https://open.spotify.com/artist/6zOfEPvi1J5DjhuJAJriGf"
-        },
-        {
-          "name": "Jihyun Yi",
-          "url": "https://open.spotify.com/artist/6B08iTMXv2c2w0rnldJNDt"
+          "name": "NOONE",
+          "url": "https://open.spotify.com/artist/3ejgHnQbFOyLBYk61hfFEn"
         }
       ],
-      "duration_ms": 200489,
-      "name": "With a Heart Preparing for Goodbye",
-      "url": "https://open.spotify.com/track/6mtHXOIiiyIVASRzYq3Acf"
+      "duration_ms": 180035,
+      "name": "Entre T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/0XWJQK35mDFM59UAoulFfz"
+    },
+    {
+      "added_at": "2024-08-28 23:23:54",
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/4C8Q7nrBZ699NTjR82y3ys"
+      },
+      "artists": [
+        {
+          "name": "Manny P",
+          "url": "https://open.spotify.com/artist/74kdQzJuRodF9irs7FIXSB"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/51hp3nw4WEptghJzIezH1w"
+    },
+    {
+      "added_at": "2024-08-28 23:19:02",
+      "album": {
+        "name": "Hoy Me Levante",
+        "url": "https://open.spotify.com/album/4hwxeiBG4621MsGYEpLb6f"
+      },
+      "artists": [
+        {
+          "name": "Hevito",
+          "url": "https://open.spotify.com/artist/0TbQ4yiYMSIDeDKvvMS3fw"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Hoy Me Levante",
+      "url": "https://open.spotify.com/track/16921JIYTnPrJearDo1hyc"
+    },
+    {
+      "added_at": "2024-08-28 23:20:01",
+      "album": {
+        "name": "Cosa de Locos",
+        "url": "https://open.spotify.com/album/50STh0muNPl1UhNeboLnwI"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        }
+      ],
+      "duration_ms": 174598,
+      "name": "Cosa de Locos",
+      "url": "https://open.spotify.com/track/2dfvv1iA4NL6Ref6EtfzMF"
+    },
+    {
+      "added_at": "2024-08-28 13:09:38",
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/4Red8xI74wRj2np6fGntAL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Barnes",
+          "url": "https://open.spotify.com/artist/23lZ8vn5pRfuiNEIkBZnWi"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/2XUIkIILwkuanYhmnGHCiT"
+    },
+    {
+      "added_at": "2024-08-28 16:02:57",
+      "album": {
+        "name": "Faded Lights",
+        "url": "https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW"
+      },
+      "artists": [
+        {
+          "name": "GzLz",
+          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
+        }
+      ],
+      "duration_ms": 203096,
+      "name": "Haunted By Your Eyes",
+      "url": "https://open.spotify.com/track/3oJvK5MgZ7XaldnsXRv5a2"
     },
     {
       "added_at": "2024-08-27 21:03:49",
@@ -1765,20 +2029,24 @@
       "url": "https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu"
     },
     {
-      "added_at": "2024-08-28 13:09:38",
+      "added_at": "2024-08-26 15:01:03",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/4Red8xI74wRj2np6fGntAL"
+        "name": "With a Heart Preparing for Goodbye",
+        "url": "https://open.spotify.com/album/4Fk6o9Pzk2yWQTu87xktw3"
       },
       "artists": [
         {
-          "name": "Rachel Barnes",
-          "url": "https://open.spotify.com/artist/23lZ8vn5pRfuiNEIkBZnWi"
+          "name": "Sirin Nah",
+          "url": "https://open.spotify.com/artist/6zOfEPvi1J5DjhuJAJriGf"
+        },
+        {
+          "name": "Jihyun Yi",
+          "url": "https://open.spotify.com/artist/6B08iTMXv2c2w0rnldJNDt"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/2XUIkIILwkuanYhmnGHCiT"
+      "duration_ms": 200489,
+      "name": "With a Heart Preparing for Goodbye",
+      "url": "https://open.spotify.com/track/6mtHXOIiiyIVASRzYq3Acf"
     },
     {
       "added_at": "2024-08-25 23:10:50",
@@ -1827,6 +2095,22 @@
       "duration_ms": 252637,
       "name": "Past Go",
       "url": "https://open.spotify.com/track/12yWRM9kioof6rLWIi7QKE"
+    },
+    {
+      "added_at": "2024-08-27 16:23:13",
+      "album": {
+        "name": "Faded Lights",
+        "url": "https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW"
+      },
+      "artists": [
+        {
+          "name": "GzLz",
+          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/3lkXTNsllynrDiCC4mvvFR"
     },
     {
       "added_at": "2024-08-24 23:00:36",
@@ -1881,102 +2165,6 @@
       "url": "https://open.spotify.com/track/4ZK4yuZMPAoU9YRQKsd4W2"
     },
     {
-      "added_at": "2024-08-28 23:20:01",
-      "album": {
-        "name": "Cosa de Locos",
-        "url": "https://open.spotify.com/album/50STh0muNPl1UhNeboLnwI"
-      },
-      "artists": [
-        {
-          "name": "Angel Bleu",
-          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
-        }
-      ],
-      "duration_ms": 174598,
-      "name": "Cosa de Locos",
-      "url": "https://open.spotify.com/track/2dfvv1iA4NL6Ref6EtfzMF"
-    },
-    {
-      "added_at": "2024-08-29 13:05:45",
-      "album": {
-        "name": "Entre T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/09nSjOYse9MbIPOhwEmTGZ"
-      },
-      "artists": [
-        {
-          "name": "NOONE",
-          "url": "https://open.spotify.com/artist/3ejgHnQbFOyLBYk61hfFEn"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Entre T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/0XWJQK35mDFM59UAoulFfz"
-    },
-    {
-      "added_at": "2024-08-28 23:23:54",
-      "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/4C8Q7nrBZ699NTjR82y3ys"
-      },
-      "artists": [
-        {
-          "name": "Manny P",
-          "url": "https://open.spotify.com/artist/74kdQzJuRodF9irs7FIXSB"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/51hp3nw4WEptghJzIezH1w"
-    },
-    {
-      "added_at": "2024-08-28 23:19:02",
-      "album": {
-        "name": "Hoy Me Levante",
-        "url": "https://open.spotify.com/album/4hwxeiBG4621MsGYEpLb6f"
-      },
-      "artists": [
-        {
-          "name": "Hevito",
-          "url": "https://open.spotify.com/artist/0TbQ4yiYMSIDeDKvvMS3fw"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Hoy Me Levante",
-      "url": "https://open.spotify.com/track/16921JIYTnPrJearDo1hyc"
-    },
-    {
-      "added_at": "2024-08-24 23:00:26",
-      "album": {
-        "name": "L's With The W's",
-        "url": "https://open.spotify.com/album/4DwSqpGopZzsz0xc1XpuYG"
-      },
-      "artists": [
-        {
-          "name": "ELLA MNOP",
-          "url": "https://open.spotify.com/artist/7DHj7EDRmYhchpsvX3zeeS"
-        }
-      ],
-      "duration_ms": 144210,
-      "name": "L's With The W's",
-      "url": "https://open.spotify.com/track/1btItX8U9hzHbkaKMONARR"
-    },
-    {
-      "added_at": "2024-08-27 16:23:13",
-      "album": {
-        "name": "Faded Lights",
-        "url": "https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW"
-      },
-      "artists": [
-        {
-          "name": "GzLz",
-          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/3lkXTNsllynrDiCC4mvvFR"
-    },
-    {
       "added_at": "2024-08-24 19:02:52",
       "album": {
         "name": "Bentley Blues",
@@ -1993,28 +2181,20 @@
       "url": "https://open.spotify.com/track/2Nb2avuNOIo4ZeTvqJWQnE"
     },
     {
-      "added_at": "2024-08-23 12:18:52",
+      "added_at": "2024-08-24 23:00:26",
       "album": {
-        "name": "Caught Up in My Head",
-        "url": "https://open.spotify.com/album/1gXawAdvjOBxm636q5fvFa"
+        "name": "L's With The W's",
+        "url": "https://open.spotify.com/album/4DwSqpGopZzsz0xc1XpuYG"
       },
       "artists": [
         {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Wonderlust",
-          "url": "https://open.spotify.com/artist/4UOV8Skac7kQY6xuPYhxLu"
-        },
-        {
-          "name": "Michael Prince",
-          "url": "https://open.spotify.com/artist/7wpJcApbX613kBHyMyL1yg"
+          "name": "ELLA MNOP",
+          "url": "https://open.spotify.com/artist/7DHj7EDRmYhchpsvX3zeeS"
         }
       ],
-      "duration_ms": 184347,
-      "name": "Caught Up in My Head",
-      "url": "https://open.spotify.com/track/0DYD7bR5s7rZFBvtFPDAML"
+      "duration_ms": 144210,
+      "name": "L's With The W's",
+      "url": "https://open.spotify.com/track/1btItX8U9hzHbkaKMONARR"
     },
     {
       "added_at": "2024-08-24 06:00:46",
@@ -2079,22 +2259,6 @@
       "duration_ms": 166680,
       "name": "Big Feelings",
       "url": "https://open.spotify.com/track/7ao7G0Dqhvb8qknk7QPegz"
-    },
-    {
-      "added_at": "2024-08-28 16:02:57",
-      "album": {
-        "name": "Faded Lights",
-        "url": "https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW"
-      },
-      "artists": [
-        {
-          "name": "GzLz",
-          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
-        }
-      ],
-      "duration_ms": 203096,
-      "name": "Haunted By Your Eyes",
-      "url": "https://open.spotify.com/track/3oJvK5MgZ7XaldnsXRv5a2"
     },
     {
       "added_at": "2024-08-23 23:10:32",
@@ -2175,6 +2339,30 @@
       "duration_ms": 138017,
       "name": "People Pleaser",
       "url": "https://open.spotify.com/track/2ijhhZesAOSrGPzaxatElX"
+    },
+    {
+      "added_at": "2024-08-23 12:18:52",
+      "album": {
+        "name": "Caught Up in My Head",
+        "url": "https://open.spotify.com/album/1gXawAdvjOBxm636q5fvFa"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Wonderlust",
+          "url": "https://open.spotify.com/artist/4UOV8Skac7kQY6xuPYhxLu"
+        },
+        {
+          "name": "Michael Prince",
+          "url": "https://open.spotify.com/artist/7wpJcApbX613kBHyMyL1yg"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "Caught Up in My Head",
+      "url": "https://open.spotify.com/track/0DYD7bR5s7rZFBvtFPDAML"
     },
     {
       "added_at": "2024-08-23 06:01:19",

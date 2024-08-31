@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: aiko \*👉 <a href="https://spice.eplus.jp/articles/331479?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,318 likes - 96 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,334 likes - 96 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 72 | [Never Let Me Go](https://open.spotify.com/track/3OIebIcy0cm6Xl5wMsYmnV) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7) | [Never Let Me Go](https://open.spotify.com/album/7lPGICXH9HXAE45wrgPhIl) | 2:24 |
 | 73 | [Get Down](https://open.spotify.com/track/3GE6MtHGVDW7jkPoF6Txvu) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Get Down](https://open.spotify.com/album/072fCbtPXT3amVxJc0L2kL) | 3:09 |
 | 74 | [花はかぐや](https://open.spotify.com/track/3nR6hG5wjkOiPESsukkPms) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [花はかぐや](https://open.spotify.com/album/6UQ90cLufq2bjOx9OiGxfm) | 3:16 |
-| 75 | [Dazzling](https://open.spotify.com/track/3U307le5tKrNLIcTzYmhkp) | [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [Dazzling](https://open.spotify.com/album/6T5iIbVinUKBVfC6aDpI8L) | 3:21 |
+| 75 | [Dazzling](https://open.spotify.com/track/3U307le5tKrNLIcTzYmhkp) | [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q) | [Dazzling](https://open.spotify.com/album/6T5iIbVinUKBVfC6aDpI8L) | 3:21 |
 | 76 | [位置について \- feat\. 入江陽](https://open.spotify.com/track/0zZQQcEA96EIIhaD35lCxw) | [アンニュイ・ホリデイ](https://open.spotify.com/artist/4bvnpQWFoBrNWySwtF8b3b), [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [位置について \- feat\. 入江陽](https://open.spotify.com/album/2xFc8Ar5iRyx7a0jMdYt0u) | 5:21 |
 | 77 | [アステロイド](https://open.spotify.com/track/2fOxIDOlP0VDatvvaRUOGz) | [pepetterz](https://open.spotify.com/artist/4yWeAGNBfnMevGLed3KN17) | [アステロイド](https://open.spotify.com/album/7I6A4TQ9WYCMaZaSeeY2qZ) | 2:23 |
 | 78 | [ゴールドシップ](https://open.spotify.com/track/2fmN3Jym5hITr6GysBziyp) | [youngoohara](https://open.spotify.com/artist/0h5k5aXVF8RBxhbtIJ90zE) | [ゴールドシップ](https://open.spotify.com/album/6gWmh1zsQj3xlORZEpt5s9) | 2:54 |

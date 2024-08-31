@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con RIZA & Humbe.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Niko Rubio & Cuco.
 
-796 songs - 1 day 19 hr 0 min
+797 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Dancing To Murder](https://open.spotify.com/track/3LvSqEfVDrBp6nNovO7tR5) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Dancing To Murder](https://open.spotify.com/album/5MZYJg0aZgMWv9iuGqbdDu) | 3:01 | 2021-12-02 | 2022-01-25 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2022-05-11 | 2023-02-17 |
 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 | 2023-02-02 | 2023-02-11 |
-| [day ONe](https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [day ONe](https://open.spotify.com/album/5owcX09d3IttMCUWNHwlAO) | 2:16 | 2024-06-14 |  |
+| [day ONe](https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [day ONe](https://open.spotify.com/album/5owcX09d3IttMCUWNHwlAO) | 2:16 | 2024-06-14 | 2024-08-31 |
 | [Daydream](https://open.spotify.com/track/57OukQCxwo81b1v9B7iuhg) | [Cariss Auburn](https://open.spotify.com/artist/2ufvSyz0aDtPdSTzB6a3b1) | [Daydream](https://open.spotify.com/album/5zUC2dAZOqF34yXVNI6g91) | 3:16 | 2021-12-02 | 2022-01-25 |
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-07-21 | 2023-08-26 |
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-13 | 2024-02-24 |
@@ -656,6 +656,7 @@
 | [SINCERA TE](https://open.spotify.com/track/0LHx4VkNoLuC60p23xUpig) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 4:02 | 2024-01-12 | 2024-03-02 |
 | [SINCERA TE](https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:02 | 2023-12-01 | 2024-01-19 |
 | [SINSE](https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [SINSE](https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4) | 4:00 | 2024-06-07 |  |
+| [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 | 2024-08-30 |  |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-07-22 | 2023-02-17 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-11 | 2023-02-17 |
 | [Softy](https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Underbelly](https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW) | 5:58 | 2023-06-02 | 2023-07-22 |

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 689823,
+  "num_followers": 689916,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1427,22 +1431,18 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8"
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Pisces Iscariot (Remastered)",
         "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 152377,
-      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
-      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "The Curse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 206133,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Hooked On A Feeling - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 134052,
-      "name": "Hooked On A Feeling - Spotify Singles",
-      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Stairway to Nick John",
         "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
       },
@@ -1643,6 +1611,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "DJ Got Us Fallin in Love",
         "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 215922,
       "name": "DJ Got Us Fallin in Love",
       "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
-        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
+        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Holding Out for a Hero (Stripped)",
-        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Holding Out for a Hero - Stripped",
-      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Death to False Metal",
         "url": "https://open.spotify.com/album/3ZVWwCtmRDJv4GG0vWIwca"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 251520,
       "name": "Unbreak My Heart",
       "url": "https://open.spotify.com/track/3X8feysVQ8Saawbv4uqqMC"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Holding Out for a Hero (Stripped)",
+        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Holding Out for a Hero - Stripped",
+      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Free Rein to Passions (Deluxe)",
-        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 130397,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "We Are The Champions/We Will Rock You",
         "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 231887,
       "name": "We Are The Champions/We Will Rock You",
       "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Free Rein to Passions (Deluxe)",
+        "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 130397,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
     },
     {
       "added_at": "2024-07-17 15:08:46",

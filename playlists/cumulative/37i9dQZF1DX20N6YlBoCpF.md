@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu?si=MuUZtRrHQ7GKvStinF4ZsQ">Leo Sonskyn</a>
 
-1,149 songs - 2 day 16 hr 45 min
+1,150 songs - 2 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Hakahana](https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Hakahana](https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS) | 3:05 | 2023-07-20 | 2023-09-29 |
 | [Hallo, Medemens.](https://open.spotify.com/track/01TAnBzy90Kq7PdDhFO5Cq) | [Kristi Boonzaaier](https://open.spotify.com/artist/2sJM434dzEl4573CbPVkFp) | [Hallo, Medemens.](https://open.spotify.com/album/2ifnfDWYW06LS5fXar7OlT) | 2:42 | 2023-11-09 | 2023-11-24 |
 | [Hand Op Die Bybel](https://open.spotify.com/track/2LUmsKhcEiFHfVXGk8cFJi) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Hand Op Die Bybel](https://open.spotify.com/album/02exWmaTVZCMMLvr43frc4) | 3:29 | 2024-04-04 | 2024-05-24 |
+| [Hande Op My Lyf](https://open.spotify.com/track/5L5vGltByF0uGTPUImcTh4) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Hande Op My Lyf](https://open.spotify.com/album/3VVDXEWmrvsKJNXi8ItmsK) | 2:32 | 2024-08-29 |  |
 | [Hanrie Visagie](https://open.spotify.com/track/5XzRG1HP6iVtI9hfyInhRN) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hanrie Visagie](https://open.spotify.com/album/6EBJSVUfHtsBvtUHgzgThc) | 2:38 | 2024-03-14 | 2024-04-19 |
 | [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-10-04 |
 | [Harlekyn \- SENSASIE Remix](https://open.spotify.com/track/0DA7vyK4tnHcIdwF9AFeQA) | [Sonja Herholdt](https://open.spotify.com/artist/3r1PUQOx1VzNvHMQMPjcMx), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Harlekyn \(SENSASIE Remix\)](https://open.spotify.com/album/2DSIZX2QFouX7AfO0aVfye) | 3:54 | 2024-04-18 | 2024-07-05 |

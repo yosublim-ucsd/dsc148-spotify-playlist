@@ -1,12 +1,12 @@
 {
-  "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 77115,
+  "description": "This is Elliott Smith. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 77137,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAACAfgBWsuusfimt33MmLyEb",
+  "snapshot_id": "Zs+6AAAAAADgF6zEM4D1p/2MBq6EXoMv",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 194066,
-      "name": "L.A.",
-      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
+      "duration_ms": 142893,
+      "name": "Everything Means Nothing To Me",
+      "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 142893,
-      "name": "Everything Means Nothing To Me",
-      "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
+      "duration_ms": 194066,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
     },
     {
       "added_at": null,

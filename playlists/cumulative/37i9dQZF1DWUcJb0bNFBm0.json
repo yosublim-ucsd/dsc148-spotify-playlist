@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: Arches)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: Subsonic Eye)",
   "name": "Haze ",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 236454,
       "name": "Beauty Little Eyes",
       "url": "https://open.spotify.com/track/08eCVhr2ka4SPw79tXPC4h"
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Call Ken",
+        "url": "https://open.spotify.com/album/6fU5eY87ieKS6lmDyWmyzR"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Call Ken",
+      "url": "https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct"
+    },
+    {
+      "album": {
         "name": "Candy (Flashback)",
         "url": "https://open.spotify.com/album/070X5WUhS7znCajGiJ7kMU"
       },
@@ -214,10 +232,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190047,
       "name": "Counting the Days",
       "url": "https://open.spotify.com/track/33Dyqa1eiiiQbpnBALSdwf"
+    },
+    {
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/2sYRmISD3lbhcdym9OxCRc"
+      },
+      "artists": [
+        {
+          "name": "Asher Alexander",
+          "url": "https://open.spotify.com/artist/5IBHOC7U2mLy8qt3AEsJYj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132705,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/1HxUhCalGraWOoaheJLUbM"
     },
     {
       "album": {
@@ -308,7 +344,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 211913,
       "name": "Doll",
       "url": "https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 232955,
       "name": "Dreaming Alone or Together - Bonus Track",
       "url": "https://open.spotify.com/track/7LXVCqcHEXUKze1GuyHjeO"
@@ -420,7 +456,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 319375,
       "name": "Endless Emotions",
       "url": "https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU"
@@ -702,6 +738,28 @@
       "duration_ms": 214899,
       "name": "i don\u2019t wanna live with myself anymore",
       "url": "https://open.spotify.com/track/43DgPRRbirO09NCCRiJd7s"
+    },
+    {
+      "album": {
+        "name": "i know what u think about me",
+        "url": "https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd"
+      },
+      "artists": [
+        {
+          "name": "B Murph",
+          "url": "https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ"
+        },
+        {
+          "name": "\u9759\u7684 Static",
+          "url": "https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143365,
+      "name": "i know what u think about me",
+      "url": "https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8"
     },
     {
       "album": {
@@ -1023,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "MIRROR'S EDGE",
+        "url": "https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN"
+      },
+      "artists": [
+        {
+          "name": "MoritaSaki in the pool",
+          "url": "https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187376,
+      "name": "MIRROR'S EDGE",
+      "url": "https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L"
+    },
+    {
+      "album": {
         "name": "mlb",
         "url": "https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry"
       },
@@ -1164,6 +1240,24 @@
       "duration_ms": 232294,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/78ar3KjOd7cJIZJqk67mnw"
+    },
+    {
+      "album": {
+        "name": "Not Linear",
+        "url": "https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA"
+      },
+      "artists": [
+        {
+          "name": "Subsonic Eye",
+          "url": "https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268190,
+      "name": "Not Linear",
+      "url": "https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo"
     },
     {
       "album": {
@@ -1322,7 +1416,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 247840,
       "name": "paradise lost",
       "url": "https://open.spotify.com/track/6I4DvKCAAt6LzalVyEuG0V"
@@ -1664,7 +1758,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 274238,
       "name": "stay away go!",
       "url": "https://open.spotify.com/track/0v7lzkEqZsFPoaIngSnHw7"
@@ -1754,7 +1848,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 193715,
       "name": "Tawdry Clip",
       "url": "https://open.spotify.com/track/2JV2ut3HQ7y03WKSZQpqnN"
@@ -1938,7 +2032,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 326000,
       "name": "You Forgot to Say Goodbye",
       "url": "https://open.spotify.com/track/6BpoU69LfJNhtyk8GmsT8b"
@@ -2064,7 +2158,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213000,
       "name": "\u60c5\u4eba\uff01",
       "url": "https://open.spotify.com/track/3FpBnK9vduKWb48YCXc9c8"

@@ -1181,6 +1181,32 @@
     },
     {
       "album": {
+        "name": "God Can Use A Broken Man",
+        "url": "https://open.spotify.com/album/7G84INpL3oLq7Z6SE7MJi4"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251261,
+      "name": "God Can Use A Broken Man",
+      "url": "https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z"
+    },
+    {
+      "album": {
         "name": "Halfway To Houston",
         "url": "https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y"
       },
@@ -1361,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5T5hxamWxgZKqrbfRk8tP6"
+      },
+      "artists": [
+        {
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180815,
+      "name": "God Won't",
+      "url": "https://open.spotify.com/track/5Twu8wCinnIH6Rfr4z13hO"
+    },
+    {
+      "album": {
         "name": "Be Here",
         "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
       },
@@ -1434,6 +1478,24 @@
       "duration_ms": 190666,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6GSRhKsu8GzEe0OvecCwMa"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179297,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ"
     },
     {
       "album": {
@@ -1762,7 +1824,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188706,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD"

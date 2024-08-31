@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: Ananya Wadekar, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Ananya Wadkar, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,140 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,155 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Jaadu](https://open.spotify.com/track/5rB6Wdhdutn2I5VO9nBYzI) | [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Jaadu](https://open.spotify.com/album/3RsmYl4UZchV9qlbbkia4p) | 4:36 |
 | 100 | [Piya](https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Piya](https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK) | 2:21 |
 
-Snapshot ID: `Zs7PKQAAAABOlb2e1pE4261WsmFkjbUy`
+Snapshot ID: `ZtGIXQAAAAAXLNItSJX2Jfal7DhXGVgF`

@@ -2,7 +2,7 @@
 
 ### [This Is Aidan Bissett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02)
 
-> This Is Aidan Bissett\. Todas as faixas essenciais numa única playlist.
+> This is Aidan Bissett\. The essential tracks, all in one playlist.
 
 23 songs - 1 hr 8 min
 

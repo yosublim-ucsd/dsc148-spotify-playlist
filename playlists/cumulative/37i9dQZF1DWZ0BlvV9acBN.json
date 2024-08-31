@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190519,
       "name": "Agora Eu Vivo Teu Amor",
       "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 220000,
       "name": "Deus Me Livre",
       "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 298342,
       "name": "ELE \u00c9 EXALTADO",
       "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Extraordin\u00e1ria Vida",
+        "url": "https://open.spotify.com/album/3HOTR2vRrD60ix9NUxvB7M"
+      },
+      "artists": [
+        {
+          "name": "Guilherme de S\u00e1",
+          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Extraordin\u00e1ria Vida",
+      "url": "https://open.spotify.com/track/00k1sPdID07uvD3x92gJ0S"
+    },
+    {
+      "album": {
         "name": "Falhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
@@ -1166,6 +1184,28 @@
       "duration_ms": 379130,
       "name": "Falhas - Ao Vivo",
       "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "album": {
+        "name": "For\u00e7a",
+        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240704,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
     },
     {
       "album": {
@@ -1854,6 +1894,24 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
+    },
+    {
+      "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-315 songs - 18 hr 32 min
+316 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [California](https://open.spotify.com/track/6pyzjYC9xlQDvE2kuCoo8J) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY), [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [California](https://open.spotify.com/album/22gJV8W8FZumLASGe2v0kV) | 3:44 | 2022-06-10 | 2024-05-03 |
 | [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 | 2022-07-29 | 2024-07-19 |
 | [Can't Stay Away](https://open.spotify.com/track/0KAOUetWwOlmQIbZ5eMoXB) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Purple BLUE](https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh) | 2:47 | 2021-06-11 | 2022-05-07 |
-| [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 |  |
+| [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 | 2024-08-31 |
 | [Change Of Heart](https://open.spotify.com/track/17QfmXLHBHOJJqZV6eZSJO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Change Of Heart](https://open.spotify.com/album/1kW1CVItMkSjknwIoPpSWu) | 3:44 | 2024-05-10 | 2024-06-08 |
 | [Cheats and Liars](https://open.spotify.com/track/3gcIVcnO6Y1DLVo8hQaPuM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll) | 3:48 | 2021-08-20 | 2022-07-29 |
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2021-08-20 | 2022-11-13 |
@@ -173,6 +173,7 @@
 | [Morning Light](https://open.spotify.com/track/1vC2eGIjumzgYknFrKl3Vg) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Morning Light](https://open.spotify.com/album/2eaEQlPaIwx7QI3MgGORbf) | 3:23 | 2021-04-09 | 2022-05-07 |
 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:57 | 2024-07-19 |  |
 | [Mr\. Mechanic Man](https://open.spotify.com/track/0x5Jhx9pmRvqYdEDpnegfq) | [Sheba Potts\-Wright](https://open.spotify.com/artist/0YhLEuRkRqKV3cXBsSb0Ty) | [Mr\. Mechanic Man](https://open.spotify.com/album/1gm77KuKLDfyPzBy3UgAvm) | 3:33 | 2024-07-12 |  |
+| [Mumma Raised a Man](https://open.spotify.com/track/1WM8Kf8sKwW7M6OSVh6CaZ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [Chapter One](https://open.spotify.com/album/04p6D0dz1CWTM3ngJXAJoF) | 3:50 | 2024-08-30 |  |
 | [My City](https://open.spotify.com/track/0DpJhcbwE1YtBSQEzNfX9g) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/4RWpRW36Af3RXqcJqmX7AR) | 4:33 | 2022-06-24 | 2024-05-03 |
 | [My City](https://open.spotify.com/track/2ADuHL3sy2Bjs3S4MwyT1M) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/41N9g80QNwWwm9sEdcUw93) | 4:33 | 2022-06-24 | 2024-04-19 |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 | 2024-07-27 |

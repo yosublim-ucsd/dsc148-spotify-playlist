@@ -1045,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 174589,
       "name": "Coup du marteau",
       "url": "https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo"
@@ -2228,6 +2250,24 @@
       "duration_ms": 224093,
       "name": "Dans les yeux d'\u00c9milie",
       "url": "https://open.spotify.com/track/2kkuEKckbZRRZDbpFR5OuN"
+    },
+    {
+      "album": {
+        "name": "Dans ma cabane",
+        "url": "https://open.spotify.com/album/4tNVxM1aFRqOEACcJgB34v"
+      },
+      "artists": [
+        {
+          "name": "Andrick Airways",
+          "url": "https://open.spotify.com/artist/29ojgdyB6YjLCB8KuLTXrR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173864,
+      "name": "Dans ma cabane",
+      "url": "https://open.spotify.com/track/1EjS6Mj5FxYPUhBgCKlpRc"
     },
     {
       "album": {
@@ -3344,7 +3384,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -3402,6 +3442,28 @@
       "duration_ms": 98441,
       "name": "Glish Vs Glish",
       "url": "https://open.spotify.com/track/1GTEtRVqif7e8TXQLzwXXZ"
+    },
+    {
+      "album": {
+        "name": "GOD BLESS (Ah la vie qu'on m\u00e8ne)",
+        "url": "https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "GOD BLESS - Ah la vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N"
     },
     {
       "album": {
@@ -4650,7 +4712,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 176013,
       "name": "Larme \u00e0 gauche",
       "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
@@ -5272,7 +5334,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 133146,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/77aOXWFLIUhIHbSwxzM2Yo"
@@ -5338,7 +5400,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -5462,7 +5524,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 134857,
       "name": "MAYA",
       "url": "https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw"
@@ -7391,6 +7453,24 @@
     },
     {
       "album": {
+        "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
+        "url": "https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "SAINT-TROPEZ",
+      "url": "https://open.spotify.com/track/3Mbma25p8UwArob1tt5SPy"
+    },
+    {
+      "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
       },
@@ -8202,6 +8282,24 @@
       "duration_ms": 114626,
       "name": "Tacata",
       "url": "https://open.spotify.com/track/3HVePjHJWt5uI9HtHgV4aM"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "album": {
@@ -9138,6 +9236,36 @@
       "duration_ms": 161403,
       "name": "\u00c0 quoi \u00e7a sert",
       "url": "https://open.spotify.com/track/0N9sIcchOrGbSwUu4kGsJq"
+    },
+    {
+      "album": {
+        "name": "GLAMOUR",
+        "url": "https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p"
+      },
+      "artists": [
+        {
+          "name": "uniqe",
+          "url": "https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII"
+        },
+        {
+          "name": "nkeeei",
+          "url": "https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7"
+        },
+        {
+          "name": "ARTEM SHILOVETS",
+          "url": "https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032"
+        },
+        {
+          "name": "Wipo",
+          "url": "https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "\u0413\u041b\u0410\u041c\u0423\u0420",
+      "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
     },
     {
       "album": {

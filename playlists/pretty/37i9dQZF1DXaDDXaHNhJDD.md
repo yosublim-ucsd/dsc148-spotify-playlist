@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Aadujeevitham
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,274 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,333 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 20 | [Pavizha Mazha](https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu) | [P S Jayhari](https://open.spotify.com/artist/2G1EstqVdKjJfk7G58S9DC), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Athiran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ) | 3:53 |
 | 21 | [Mandharapoove](https://open.spotify.com/track/3PYUbRTcQ2aXvPJaZ6A6H9) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG) | [Mandharapoove \(From "Kumari"\)](https://open.spotify.com/album/3KJipat0D3NkRxQRXATByo) | 4:00 |
 | 22 | [Athmave Poo](https://open.spotify.com/track/5M3GTHCnzxvUmEhjAh8tT1) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Athmave Poo \(From "Romancham"\)](https://open.spotify.com/album/5wPX6VrVyz7YpSSB8blJAD) | 3:36 |
-| 23 | [Etho Mazhayil](https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Prince George](https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0) | [Vijay Superum Pournamiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V) | 3:38 |
+| 23 | [Etho Mazhayil](https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Prince George](https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0) | [Vijay Superum Pournamiyum \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V) | 3:38 |
 | 24 | [Arikil](https://open.spotify.com/track/7tDASYxj2O3UBK6VTWGaUW) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1), [Sangeetha Sreekanth](https://open.spotify.com/artist/0hIbJYhtDiMWxgMtXge4gl) | [Oru Murai Vanthu Paarthaya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5YA1WXdaMqAwKsrZRTjY3V) | 4:23 |
 | 25 | [Alare](https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [Ayraan](https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Alare \(From "Member Rameshan 9aam Ward"\)](https://open.spotify.com/album/3r2555dO9qhGphE183VtFU) | 4:21 |
 | 26 | [Oru Nokku](https://open.spotify.com/track/3F9NfQgG5O5YQjDnzUZen9) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Sunday Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gv7V84HyPWtGLmmbitsqC) | 4:54 |

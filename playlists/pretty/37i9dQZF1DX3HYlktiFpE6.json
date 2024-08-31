@@ -1,13 +1,29 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 103499,
+  "num_followers": 103528,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAACLz87UfqCU55ReO+kdaVqQ",
+  "snapshot_id": "ZtFDwAAAAABFfdS6cedaPca6byfmdCDV",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/274WqnE5mjFvmiSnabDfk4"
+      },
+      "artists": [
+        {
+          "name": "BYU Vocal Point",
+          "url": "https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ"
+        }
+      ],
+      "duration_ms": 161216,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6OpM6ZC2jMqWM746dbwmdN"
+    },
     {
       "added_at": "2024-02-16 05:01:00",
       "album": {
@@ -1491,22 +1507,6 @@
       "duration_ms": 189830,
       "name": "a capella",
       "url": "https://open.spotify.com/track/4ybIzIHqYo2bAH7sUrk6va"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Glee: The Music, Volume 4",
-        "url": "https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI"
-      },
-      "artists": [
-        {
-          "name": "Glee Cast",
-          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Valerie - Glee Cast Version",
-      "url": "https://open.spotify.com/track/4hBW3h6FnQNh7NRmyxLLG7"
     },
     {
       "added_at": "2021-12-24 05:00:00",

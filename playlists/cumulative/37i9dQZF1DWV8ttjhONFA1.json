@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Rayos L\u00e1ser.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Carolina Donati.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184134,
       "name": "33",
       "url": "https://open.spotify.com/track/7ouLz40UQuxZVX2GGO82cZ"
@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Apocalipso",
+        "url": "https://open.spotify.com/album/7h8dOWXFcwdY7nqniQLBkr"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214035,
+      "name": "Apocalipso",
+      "url": "https://open.spotify.com/track/12gsOyY5YpXetpmrvCTcNq"
+    },
+    {
+      "album": {
         "name": "Aquellos misterios",
         "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
       },
@@ -396,6 +414,28 @@
       "duration_ms": 240750,
       "name": "Ariel",
       "url": "https://open.spotify.com/track/53cZ2u5osTGHMIkDtSx7KV"
+    },
+    {
+      "album": {
+        "name": "Aterrizaje",
+        "url": "https://open.spotify.com/album/1pRysTp5ltlxFhSnTk4kKy"
+      },
+      "artists": [
+        {
+          "name": "Barco",
+          "url": "https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom"
+        },
+        {
+          "name": "Joaqu\u00edn Vitola",
+          "url": "https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216458,
+      "name": "Aterrizaje",
+      "url": "https://open.spotify.com/track/3oLcrfy9nwQNb7lrVHLxiI"
     },
     {
       "album": {
@@ -476,7 +516,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 161080,
       "name": "balada para el fin del mundo",
       "url": "https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ"
@@ -1084,7 +1124,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 317133,
       "name": "Crucigrama",
       "url": "https://open.spotify.com/track/4oqHrWGbJKwfEc70lwxxgU"
@@ -1772,7 +1812,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 152405,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
@@ -1978,6 +2018,24 @@
       "duration_ms": 187650,
       "name": "Festejemos",
       "url": "https://open.spotify.com/track/4toTjDlXShrN3iMrntu0QZ"
+    },
+    {
+      "album": {
+        "name": "Fin del d\u00eda",
+        "url": "https://open.spotify.com/album/30jaBEl7Srt9oatIiZ890j"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277595,
+      "name": "Fin del d\u00eda",
+      "url": "https://open.spotify.com/track/1mhd6f0hYGv9hBaLcn3Iht"
     },
     {
       "album": {
@@ -2603,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w"
+      },
+      "artists": [
+        {
+          "name": "JUSTINA",
+          "url": "https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219488,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F"
+    },
+    {
+      "album": {
         "name": "Por Si Acaso Se Acaba El Mundo",
         "url": "https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8"
       },
@@ -2774,7 +2850,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 110571,
       "name": "me hace mal",
       "url": "https://open.spotify.com/track/5lz2GwBwR00YUqCoP3S5X9"
@@ -2876,6 +2952,24 @@
       "duration_ms": 188543,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
+    },
+    {
+      "album": {
+        "name": "Hasta Luego",
+        "url": "https://open.spotify.com/album/5FJtAkxSHK3C3cqjVNGoMd"
+      },
+      "artists": [
+        {
+          "name": "Renzo Montalbano",
+          "url": "https://open.spotify.com/artist/1042A8hLdGGnCSn3y1cZKr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201010,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/3MZV3tbR1kPuBGwmejNRdX"
     },
     {
       "album": {
@@ -3264,7 +3358,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 123130,
       "name": "Otro D\u00eda +",
       "url": "https://open.spotify.com/track/4HNFl3MYMT66JxtIGRDCCg"
@@ -3344,6 +3438,24 @@
       "duration_ms": 139264,
       "name": "PARA VERTE",
       "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "album": {
+        "name": "PARAISO",
+        "url": "https://open.spotify.com/album/4ICOWYS8pohhyp1T725LIr"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136864,
+      "name": "PARAISO",
+      "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
     },
     {
       "album": {
@@ -3692,6 +3804,24 @@
       "duration_ms": 180923,
       "name": "PUCHITO",
       "url": "https://open.spotify.com/track/1zVln8wy82xdPRQelAQ6zf"
+    },
+    {
+      "album": {
+        "name": "Puede ser peor",
+        "url": "https://open.spotify.com/album/58KQNLUABzQT53eJo0eI9H"
+      },
+      "artists": [
+        {
+          "name": "Puebla",
+          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212664,
+      "name": "Puede ser peor",
+      "url": "https://open.spotify.com/track/3O7fmbOOeofj5iXQPErASA"
     },
     {
       "album": {
@@ -4654,7 +4784,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 238578,
       "name": "Vida acu\u00e1tica",
       "url": "https://open.spotify.com/track/2dDQbCgZt6KQ8YArfRclup"

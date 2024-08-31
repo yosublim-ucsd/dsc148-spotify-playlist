@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165431,
       "name": "Darling Jim",
       "url": "https://open.spotify.com/track/0mDz22qbbpJdBX12OrQMMk"
@@ -3681,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "ephemeral",
+        "url": "https://open.spotify.com/album/7ATZwZZcdCTHE7lIijnASx"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108094,
+      "name": "ephemeral",
+      "url": "https://open.spotify.com/track/0iJP9dwH6NGxoKArAHKRMR"
+    },
+    {
+      "album": {
         "name": "drifting off",
         "url": "https://open.spotify.com/album/7g0HJ1tAmHfR28Bg5hQKVU"
       },
@@ -4102,6 +4120,24 @@
       "duration_ms": 154750,
       "name": "first spring",
       "url": "https://open.spotify.com/track/2lz9hiRuncFf0mhXblOFEo"
+    },
+    {
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/2lzdHRFc8sAb3LGDaOSiKI"
+      },
+      "artists": [
+        {
+          "name": "Akkoro",
+          "url": "https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/1lvaStEq9AuaAGaLZxk1VR"
     },
     {
       "album": {
@@ -4548,6 +4584,24 @@
       "duration_ms": 171958,
       "name": "garden gnomes",
       "url": "https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5"
+    },
+    {
+      "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw"
+      },
+      "artists": [
+        {
+          "name": "Devon Rea",
+          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Gateway",
+      "url": "https://open.spotify.com/track/6Y1cncfwOBrk97DSjoynJf"
     },
     {
       "album": {
@@ -6190,7 +6244,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 144000,
       "name": "kyoto dreams",
       "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
@@ -6756,6 +6810,24 @@
       "duration_ms": 126854,
       "name": "location",
       "url": "https://open.spotify.com/track/3x8I65fo6eAbRnerZlXarI"
+    },
+    {
+      "album": {
+        "name": "Lone Reflections",
+        "url": "https://open.spotify.com/album/6fGF9wwJmFPLny1addYMed"
+      },
+      "artists": [
+        {
+          "name": "nyt\u00f8",
+          "url": "https://open.spotify.com/artist/1HZSZHE4C1vJymt4CWEfHH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Lone Reflections",
+      "url": "https://open.spotify.com/track/2lHR1k7uAAyumPKRYabtYa"
     },
     {
       "album": {
@@ -8310,7 +8382,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 138000,
       "name": "Nature Love",
       "url": "https://open.spotify.com/track/1WodT4rEF7ncz4L51NSVb5"
@@ -10576,7 +10648,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 146823,
       "name": "Searching",
       "url": "https://open.spotify.com/track/6OWOfKFTxk3sKjAkwUbBlU"
@@ -11742,7 +11814,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 121923,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1cBX5RAL9MP7YZNoJMDQ16"
@@ -12028,7 +12100,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 153000,
       "name": "Sun Signals",
       "url": "https://open.spotify.com/track/310nIsRFJ6aBHqdHRcTcXc"
@@ -12854,7 +12926,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 150955,
       "name": "Through My Window",
       "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"

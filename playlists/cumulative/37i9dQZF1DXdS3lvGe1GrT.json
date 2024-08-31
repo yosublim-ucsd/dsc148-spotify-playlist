@@ -22417,6 +22417,24 @@
     },
     {
       "album": {
+        "name": "to love me",
+        "url": "https://open.spotify.com/album/7B1eDWH2UGu7aTLeim9dlq"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "to love me",
+      "url": "https://open.spotify.com/track/36QORZpibXC1szSTXKPk7i"
+    },
+    {
+      "album": {
         "name": "To Watch The World Spin Without You",
         "url": "https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs"
       },

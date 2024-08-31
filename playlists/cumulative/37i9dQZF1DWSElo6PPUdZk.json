@@ -710,7 +710,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169238,
       "name": "Kangne",
       "url": "https://open.spotify.com/track/6IF6djka6tJw6Eshve4PIw"
@@ -740,6 +740,24 @@
       "duration_ms": 204077,
       "name": "Khad Tainu Main Dassa",
       "url": "https://open.spotify.com/track/38SHGnYLRMQJ7MzaU6fkCl"
+    },
+    {
+      "album": {
+        "name": "Khereyan de naal (Lofi)",
+        "url": "https://open.spotify.com/album/6zFdNgGhKNFoMGkaoVQgQt"
+      },
+      "artists": [
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Khereyan de naal (Lofi)",
+      "url": "https://open.spotify.com/track/2mIRmirJUzL2awfoQcDAqT"
     },
     {
       "album": {
@@ -1215,6 +1233,36 @@
     },
     {
       "album": {
+        "name": "Pasand",
+        "url": "https://open.spotify.com/album/3LYsjAh6DzEmo8wHYP9WfN"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Saggi Nexuss",
+          "url": "https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi"
+        },
+        {
+          "name": "Khan Mallan Wala",
+          "url": "https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN"
+        },
+        {
+          "name": "Ranjha Rajan",
+          "url": "https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Pasand",
+      "url": "https://open.spotify.com/track/6spnRIONdFbgl4NsBccGKO"
+    },
+    {
+      "album": {
         "name": "Pasand Bangi",
         "url": "https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X"
       },
@@ -1477,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "Sohne Lagde",
+        "url": "https://open.spotify.com/album/7ei0BisjSCAEGShnf6KUtM"
+      },
+      "artists": [
+        {
+          "name": "Miss Pooja",
+          "url": "https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx"
+        },
+        {
+          "name": "Juss Musik",
+          "url": "https://open.spotify.com/artist/0ORf1J39MnmYnM3Q8d6tCs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Sohne Lagde",
+      "url": "https://open.spotify.com/track/6bS5auVyy9XwoBi1AOr6xq"
+    },
+    {
+      "album": {
         "name": "Maanmatti",
         "url": "https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P"
       },
@@ -1602,7 +1672,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160500,
       "name": "Tere Na Viahi",
       "url": "https://open.spotify.com/track/0mHLk3UHmPjzHENMrhLoFq"

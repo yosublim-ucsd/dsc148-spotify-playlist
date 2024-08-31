@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Enanitos Verdes en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pressive y Nunca Jam\u00e1s en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 170083,
       "name": "Don\u00b4t Give Up",
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
@@ -2509,6 +2509,32 @@
     },
     {
       "album": {
+        "name": "Me Solt\u00e9 de tus Brazos",
+        "url": "https://open.spotify.com/album/6qWYmzmvFYfU1gkfG0GyPb"
+      },
+      "artists": [
+        {
+          "name": "Pressive",
+          "url": "https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235624,
+      "name": "Me Solt\u00e9 de tus Brazos",
+      "url": "https://open.spotify.com/track/3mq7R9UboWxi25tDs4S8c7"
+    },
+    {
+      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -2640,7 +2666,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 157426,
       "name": "Mi Nueva Naci\u00f3n - Remasterizada",
       "url": "https://open.spotify.com/track/03A23fX9P11AQQ1VHFr8Of"
@@ -3533,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Revi\u00e9ntense Todos (Remasterizada)",
+        "url": "https://open.spotify.com/album/7d6A2nf9lyb33AjYTDGClu"
+      },
+      "artists": [
+        {
+          "name": "Rebel'd Punk",
+          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174093,
+      "name": "Revi\u00e9ntense Todos - Remasterizada",
+      "url": "https://open.spotify.com/track/3MrKaI5aGkKXexPk5KkzA4"
+    },
+    {
+      "album": {
         "name": "Revoluci\u00f3n turra (En directo Razzmatazz)",
         "url": "https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO"
       },
@@ -4416,6 +4460,28 @@
       "duration_ms": 185237,
       "name": "Trenes Y Gatos",
       "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
+    },
+    {
+      "album": {
+        "name": "Tu Te Vas",
+        "url": "https://open.spotify.com/album/6Wl9NMhu7szXfbjJSB9YO0"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Laeti",
+          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205839,
+      "name": "Tu Te Vas",
+      "url": "https://open.spotify.com/track/369f9Gi3CcBouwL49C8HZx"
     },
     {
       "album": {

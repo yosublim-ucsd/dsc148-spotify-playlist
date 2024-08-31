@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180000,
       "name": "110 Hz - 123 Hz Alpha Soundscape",
       "url": "https://open.spotify.com/track/3alCs4bLSLEVmq0f8pMy3V"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165490,
       "name": "Alpha Deep Relaxation 73 Hz - 82 Hz",
       "url": "https://open.spotify.com/track/0cUa70KsQ28oRn2q6uZG03"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188910,
       "name": "Alpha Relief 94 Hz - 102 Hz",
       "url": "https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd"
@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Gust Of Joy Alpha 169-178hz",
+        "url": "https://open.spotify.com/album/57I03bF7Yvn4SItF9my4V2"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Gust Of Joy Alpha 169-178hz",
+      "url": "https://open.spotify.com/track/260EngyUCgtov9YR3t836N"
+    },
+    {
+      "album": {
         "name": "Binaural Alpha Sinus",
         "url": "https://open.spotify.com/album/1bKv528U0Z6FgdmFtRUrb9"
       },
@@ -1445,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Peace Dunes",
+        "url": "https://open.spotify.com/album/08775XYJbbzbL2nJ5g0gRO"
+      },
+      "artists": [
+        {
+          "name": "Misted Minds",
+          "url": "https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Peace Dunes Alpha Sinus 60-70hz",
+      "url": "https://open.spotify.com/track/1YOTfdj92R8NdcAOc7ra3n"
+    },
+    {
+      "album": {
         "name": "Pulses Alpha Sinus 75Hz - 81Hz",
         "url": "https://open.spotify.com/album/6RYCb8LkDSREIb4TxunOxT"
       },
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 231999,
       "name": "Refreshed (Binaural Alpha)",
       "url": "https://open.spotify.com/track/3x5KoeNMu87qI58lciyDRJ"
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 178437,
       "name": "Translucent - Alpha Sinus 71,7 Hz - 73,8 Hz",
       "url": "https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ"

@@ -2,7 +2,7 @@
 
 ### [This Is Ghost](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12mjqo)
 
-> This is Ghost\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Ghost\. The essential tracks, all in one playlist.
 
 87 songs - 6 hr 31 min
 

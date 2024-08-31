@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Magic Night",
+        "url": "https://open.spotify.com/album/3RXGSdDjUaga922VR4KTnq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jacoby",
+          "url": "https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119415,
+      "name": "A Magic Night",
+      "url": "https://open.spotify.com/track/2oqTcXUcoKYW59pOo7jN6w"
+    },
+    {
+      "album": {
         "name": "A Million Stars",
         "url": "https://open.spotify.com/album/72EQTt6Lwg7GrxSx9jHTaJ"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142008,
       "name": "A Million Stars",
       "url": "https://open.spotify.com/track/4aH25xvRwslDEiIxLP0X4I"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 105633,
       "name": "Bird On My Shoulder",
       "url": "https://open.spotify.com/track/4h5rh4ZQzKrqoAbCnFm1bY"
@@ -1100,6 +1118,24 @@
       "duration_ms": 107685,
       "name": "Charlies Lullaby",
       "url": "https://open.spotify.com/track/1z1Rc9QEs8BZoE889WdaIv"
+    },
+    {
+      "album": {
+        "name": "Chasing Kites",
+        "url": "https://open.spotify.com/album/50gL0q0kQ6OXxcvvDCKh9t"
+      },
+      "artists": [
+        {
+          "name": "James Wilson",
+          "url": "https://open.spotify.com/artist/3ga6yp9X6U92WEuBdIGMem"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79057,
+      "name": "Chasing Kites",
+      "url": "https://open.spotify.com/track/1X8ucKC1ovxSm7NNbcalct"
     },
     {
       "album": {
@@ -3274,7 +3310,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 116946,
       "name": "Our Lullaby",
       "url": "https://open.spotify.com/track/1rtRG7Qbx0aa0DGuKudGEs"
@@ -3710,6 +3746,24 @@
       "duration_ms": 52750,
       "name": "Shine Bright Little Star",
       "url": "https://open.spotify.com/track/67FfMaZW9QJ8Wl02hhemAt"
+    },
+    {
+      "album": {
+        "name": "Singing In The Night",
+        "url": "https://open.spotify.com/album/1T927SAMZWoE1Eu3ClMeGA"
+      },
+      "artists": [
+        {
+          "name": "Anton De Ville",
+          "url": "https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122492,
+      "name": "Singing In The Night",
+      "url": "https://open.spotify.com/track/05kzccIWg1fJq8Di4ovmW7"
     },
     {
       "album": {
@@ -4966,7 +5020,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 79014,
       "name": "Twinkling Dreams",
       "url": "https://open.spotify.com/track/1sSohEBI1HerYA3gOaHJXd"

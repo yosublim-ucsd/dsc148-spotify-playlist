@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173684,
       "name": "Djavandalo",
       "url": "https://open.spotify.com/track/21dWCeXNoS8H0aDvOcqqer"
@@ -6014,6 +6014,36 @@
       "duration_ms": 158035,
       "name": "T\u00e1 Cada Vez Mais Dif\u00edcil Fazer Love Song",
       "url": "https://open.spotify.com/track/7drLOwfrTHGbbOSzgm4m7M"
+    },
+    {
+      "album": {
+        "name": "Acorde E Fique Rico",
+        "url": "https://open.spotify.com/album/334WQ9azGCDDnMmc9DvXRY"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387131,
+      "name": "T\u00e3o Jovens",
+      "url": "https://open.spotify.com/track/3JWBRbBQLktAYsVevUbWc4"
     },
     {
       "album": {

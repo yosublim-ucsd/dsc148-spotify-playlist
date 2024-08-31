@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover:Central Cee, JRK19\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover:BAP.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,897 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,907 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
 | 2 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 |
 | 3 | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU) | 2:48 |
-| 4 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
-| 5 | [RUN! \(feat\. Lay Bankz\)](https://open.spotify.com/track/5TuIVd6zQpH5BPBq21ALpQ) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [RUN! \(feat\. Lay Bankz\)](https://open.spotify.com/album/0PCrbkucfBvthsAJtAFawI) | 2:28 |
-| 6 | [wake up! look alive!](https://open.spotify.com/track/0GJfpUgrNYOawFYpTRAqeG) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [wake up! look alive!](https://open.spotify.com/album/5pvRGt0rzomFYJpq5XALGE) | 3:56 |
+| 4 | [wake up! look alive!](https://open.spotify.com/track/0GJfpUgrNYOawFYpTRAqeG) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [wake up! look alive!](https://open.spotify.com/album/5pvRGt0rzomFYJpq5XALGE) | 3:56 |
+| 5 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
+| 6 | [RUN! \(feat\. Lay Bankz\)](https://open.spotify.com/track/5TuIVd6zQpH5BPBq21ALpQ) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [RUN! \(feat\. Lay Bankz\)](https://open.spotify.com/album/0PCrbkucfBvthsAJtAFawI) | 2:28 |
 | 7 | [Assassin](https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Spliff & Magnum](https://open.spotify.com/album/1wyxTLi6qpcRjciyOB0bnI) | 2:37 |
 | 8 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 |
 | 9 | [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 4:38 |
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 95 | [Mission Control \(feat\. T Man the Wizard\)](https://open.spotify.com/track/2VvZGmBkyKM6P8SJEu9Lhq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [T Man The Wizard](https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6) | [Mission Control \(feat\. T Man the Wizard\)](https://open.spotify.com/album/3GHmcwHjyxpNwxWHqIMjXF) | 2:11 |
 | 96 | [I Need Your Love](https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 3:09 |
 | 97 | [Renaissance](https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 1:38 |
-| 98 | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 |
+| 98 | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS, TARVETHZ](https://open.spotify.com/artist/1EWg6ssl2X0PM5SVphURLU) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 |
 | 99 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
 | 100 | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG) | 2:58 |
 | 101 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 4:44 |
 
-Snapshot ID: `ZtCbAAAAAACjyVP5x1PeIs9TBR5xuuKj`
+Snapshot ID: `ZtFYygAAAADYTeP60zAOXurPeqPeqqFp`

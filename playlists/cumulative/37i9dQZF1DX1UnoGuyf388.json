@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168975,
       "name": "high water",
       "url": "https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160957,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop"
@@ -3376,6 +3376,24 @@
       "duration_ms": 184560,
       "name": "I'd Rather Pretend",
       "url": "https://open.spotify.com/track/05SR37gLNkHD1pXMTtjQL7"
+    },
+    {
+      "album": {
+        "name": "again sometime?",
+        "url": "https://open.spotify.com/album/473k5PVlVC3sMsiGoFwf5o"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "I'm Not People",
+      "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
     },
     {
       "album": {
@@ -4940,6 +4958,24 @@
       "duration_ms": 204730,
       "name": "Nothing More To Say",
       "url": "https://open.spotify.com/track/6AZeqOMQc0S7gpnmPJ34ao"
+    },
+    {
+      "album": {
+        "name": "Oh I",
+        "url": "https://open.spotify.com/album/3EPXB5kegS61bKckB7EBkh"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237289,
+      "name": "Oh I",
+      "url": "https://open.spotify.com/track/6Zii2QVdPFQkccXb6xfVyp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 40342,
+  "description": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "num_followers": 40356,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAD98vERfV0Dfnm279yOqOgj",
+  "snapshot_id": "Zs+6AAAAAABL+GCvFZjZM310D8qLcpA1",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Nuevo y Lo Mejor",
-        "url": "https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Reproches al Viento",
-      "url": "https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 207453,
       "name": "Qu\u00e9 Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/2ThbhSqcxWoptGa0D33L0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/3N6Y3m7YlvnYs94Zfnmcmu"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Reproches al Viento",
+      "url": "https://open.spotify.com/track/2XBtCwbTe8UDhf83YElXuY"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Corridos Explosivos",
-        "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 187386,
-      "name": "La Ca\u00edda de un Monarca",
-      "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
+      "duration_ms": 239837,
+      "name": "Mayor de Edad",
+      "url": "https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/24wgUlFCUqnyaZzjZAxbic"
+        "name": "25 Corridos Explosivos",
+        "url": "https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 239837,
-      "name": "Mayor de Edad",
-      "url": "https://open.spotify.com/track/5P4FXbpd632sEdxCHAhBnU"
+      "duration_ms": 187386,
+      "name": "La Ca\u00edda de un Monarca",
+      "url": "https://open.spotify.com/track/5R6yypmCiCOv7Ortrf8ldL"
     },
     {
       "added_at": null,
@@ -727,6 +727,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Derecho De Antig\u00fcedad",
+        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Me Ca\u00edste del Cielo",
+      "url": "https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
       },
@@ -763,38 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Me Ca\u00edste del Cielo",
-      "url": "https://open.spotify.com/track/3VnEuFStQRp1GauvdhaYTN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Derecho De Antig\u00fcedad",
-        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Esta Doliendo el Alma",
         "url": "https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 199950,
       "name": "Me Esta Doliendo el Alma",
       "url": "https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 125066,
+      "name": "Cien Mil Veces",
+      "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
     },
     {
       "added_at": null,
@@ -831,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
+        "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
       },
       "artists": [
         {
@@ -840,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 125066,
-      "name": "Cien Mil Veces",
-      "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
+      "duration_ms": 154160,
+      "name": "Hasta Mi \u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 126120,
       "name": "Rifar\u00e9 Mi Suerte",
       "url": "https://open.spotify.com/track/1SrYVzqCiKywmHYYsCJ0pI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Tu Maestro (\"45 Aniversario\" - Relanzamiento)",
-        "url": "https://open.spotify.com/album/6b1eKVdMRpTQ4qn9FbY0jZ"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Hasta Mi \u00daltimo D\u00eda",
-      "url": "https://open.spotify.com/track/1nk4xd6JR6pWUTIRfdXDea"
     }
   ],
   "unique_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",

@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,044 songs - 1 day 7 hr 0 min
+1,050 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Lullaby of The Fairy](https://open.spotify.com/track/0jMm4o1MyOQWuXU7EMYMJd) | [Alvaro Perez Fuentes](https://open.spotify.com/artist/5wBUCRxyKy9QT5Sl2AGuWI) | [Lullaby of The Fairy](https://open.spotify.com/album/0EHdwan6UPxCHjjQAEQBdW) | 1:29 | 2023-10-06 |  |
 | [Lykke](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Lykke](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 1:50 | 2022-12-16 | 2024-04-05 |
 | [Lykkeliten](https://open.spotify.com/track/07X0LZ7T0zhD19JbEy6AIl) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Lykkeliten](https://open.spotify.com/album/5gwWIYuK5VQJxznDCDciQ0) | 1:51 | 2023-09-22 |  |
+| [Magical Night](https://open.spotify.com/track/1uPwR87YlNgWLBqGFiOV4f) | [Lareta Lund](https://open.spotify.com/artist/5XKKjiDgEp3rBJEJbU4woy) | [Magical Night](https://open.spotify.com/album/0JD0F8LSIpI4zwTJfD2mGX) | 2:37 | 2024-08-30 |  |
 | [Main Theme \(From "Babar"\) Music Box Version](https://open.spotify.com/track/4QYZumVgfGNaP52IVEb6uT) | [Orson's Library](https://open.spotify.com/artist/5n0BuzcgaUOeZFWxetkykT) | [Main Theme \(From "Babar"\)](https://open.spotify.com/album/6ErckQoCGdQh3P7GMtTSFL) | 1:17 | 2022-10-28 | 2024-04-05 |
 | [Main Theme \(From "Björnes Magasin"\) Music Box Version](https://open.spotify.com/track/2eysdfS200MPTHZ5BsDH7m) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:27 | 2022-10-28 | 2023-08-18 |
 | [Majas visa](https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Majas visa](https://open.spotify.com/album/7MDXgNepfqxgjuz67cglgj) | 1:25 | 2022-10-07 | 2023-06-03 |
@@ -593,6 +594,7 @@
 | [My Dolly and Me](https://open.spotify.com/track/6OWya70yLaThea5fDuQINP) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [My Dolly and Me](https://open.spotify.com/album/7eL1oomj56CxC23VsjeYf4) | 1:43 | 2021-11-08 | 2022-12-16 |
 | [My Dream](https://open.spotify.com/track/4vZgef3PS0jcTTYYBfcRj5) | [Soothing Sandman](https://open.spotify.com/artist/2hXy2uPUnu9UEnYUwGTNZy) | [My Dream](https://open.spotify.com/album/6TEVwQyFgEcllIXemrNZbx) | 1:06 | 2022-11-11 | 2024-05-04 |
 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
+| [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
 | [My Fantasy](https://open.spotify.com/track/6KGOPavRe8waHTTgKX0gCc) | [Sammie Elliott](https://open.spotify.com/artist/1o0iPfmqGYTb0bucYuvGgr) | [My Fantasy](https://open.spotify.com/album/6APLIWg2VEvrbv5h2RVRck) | 2:03 | 2021-11-08 | 2022-09-24 |
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-11-08 | 2024-04-05 |
 | [My Favorite Teddy](https://open.spotify.com/track/1KcZU1k4ZqGJA5P1pxf0LX) | [Kim Low](https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX) | [My Favorite Teddy](https://open.spotify.com/album/2gLzKQI3XmcIBTsLilOspq) | 1:21 | 2022-06-07 | 2023-05-12 |
@@ -604,6 +606,7 @@
 | [My little sunshine](https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [My little sunshine](https://open.spotify.com/album/7b1bk1Vr4C32XOgm2f1LXt) | 1:41 | 2022-06-30 | 2024-05-24 |
 | [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 1:42 | 2021-11-08 | 2023-04-09 |
 | [My Lullaby](https://open.spotify.com/track/25qf1J7bSxNIDS526yWS4y) | [Sylvan Potter](https://open.spotify.com/artist/518Vo5g5C5V56nXlJuKq8z) | [My Lullaby](https://open.spotify.com/album/2H2GsvAONdfCIvqwvEFRjQ) | 1:13 | 2021-11-08 | 2023-02-18 |
+| [My Moonlight](https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [My Moonlight](https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS) | 2:37 | 2024-08-30 |  |
 | [My name is Sue](https://open.spotify.com/track/05qmZG60q8wpsBate4bfAq) | [Solomon Sparks](https://open.spotify.com/artist/7JjiRaeb3qDpBU9p3Ye7DX) | [My name is Sue](https://open.spotify.com/album/1bsFXc2mI2oEveM9nNkMiv) | 1:17 | 2022-01-21 | 2023-08-18 |
 | [My Night Story](https://open.spotify.com/track/2sDtiIjbQvJ0JP59zwPcnF) | [Vanessa Cino](https://open.spotify.com/artist/7Mw9GnKY2QTjLQQ06uuD8s) | [My Night Story](https://open.spotify.com/album/4elJsUiULx1qOYqh1aFLj2) | 1:52 | 2022-06-30 | 2024-04-05 |
 | [My Puppy](https://open.spotify.com/track/5K8od7t4zYwWUr6PS16ChI) | [Irving Simon](https://open.spotify.com/artist/7hZbX41Usjsq13fQDqXSHa) | [My Puppy](https://open.spotify.com/album/5XLmqebqjlhV8PQfuRIyRI) | 2:35 | 2021-11-08 | 2022-11-12 |
@@ -878,6 +881,7 @@
 | [The Button Song](https://open.spotify.com/track/53asbytXgNUysTYzx36QKL) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [The Button Song](https://open.spotify.com/album/2GczQclNVTVpionfA4751C) | 1:05 | 2021-11-08 | 2022-10-29 |
 | [The Colours](https://open.spotify.com/track/0ccOxQa7k63uCjFieGYbx5) | [Sandy Blau](https://open.spotify.com/artist/6p8V4tzveoaAM4qoQepvDl) | [The Colours](https://open.spotify.com/album/2hqXj3HUx4XlGQQHHqatvY) | 1:15 | 2023-11-17 |  |
 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 | 2023-12-08 |  |
+| [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 | 2024-08-30 |  |
 | [The Frog and the Panda Bear](https://open.spotify.com/track/0JPJXVfmlm7ObdFgicspTz) | [Pacey Carroll](https://open.spotify.com/artist/453okQQYYLY3iB33SOTjyr) | [The Frog and the Panda Bear](https://open.spotify.com/album/5Jxrd21avU8KFJIVdfoavq) | 1:28 | 2021-11-08 | 2022-10-29 |
 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-01-27 |  |
 | [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 | 2022-12-16 | 2023-06-09 |
@@ -1027,6 +1031,7 @@
 | [Willow Song](https://open.spotify.com/track/4U7P98xdvMWtAkhP6M0Kj7) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Willow Song](https://open.spotify.com/album/0tXYySMuRWTa2PlZ3VgpDx) | 0:57 | 2023-10-20 |  |
 | [Wilson Wiggleworm](https://open.spotify.com/track/4S2YvWpo7iWDnVHed6xUgM) | [Ezra Hubbard](https://open.spotify.com/artist/7fz1AL9bzH9q8tKrDpzr6j) | [Wilson Wiggleworm](https://open.spotify.com/album/0yOlySOiMob922VEZWEtB1) | 1:32 | 2021-11-08 | 2023-09-22 |
 | [Winnie the Pooh](https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe) | [Lola Hides](https://open.spotify.com/artist/3gquuIaOSVVh8knCaQXV1w) | [Winnie the Pooh](https://open.spotify.com/album/7I09xkoJdR1blurIQDUXIi) | 1:43 | 2023-06-02 |  |
+| [Wishes And Dreams](https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Wishes And Dreams](https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr) | 2:28 | 2024-08-30 |  |
 | [Wishful](https://open.spotify.com/track/6FucNnxWzwEY0WvhqbDzVQ) | [David J Burns](https://open.spotify.com/artist/1kEGNqQqOvQrADGAXPIeZO) | [Wishful](https://open.spotify.com/album/1XvaZXugJLckXSlJ4EDT2G) | 2:03 | 2021-11-08 | 2022-02-11 |
 | [With My Toes In The Lake](https://open.spotify.com/track/6K8gN2HJJbeRSHnawuyAHl) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [With My Toes In The Lake](https://open.spotify.com/album/1ROYUuVzjEENXzPTwD8MBf) | 1:37 | 2022-06-30 | 2024-04-05 |
 | [With you](https://open.spotify.com/track/7gWq2hvVljdNaAShh2SbZk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [With you](https://open.spotify.com/album/4XDs4L6NH4EXCMp9qjRlzu) | 1:27 | 2023-09-22 |  |
@@ -1037,6 +1042,7 @@
 | [Yankee Doodle](https://open.spotify.com/track/1YnMwAi7bVwAFyAWhrzTt9) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Lullaby and Goodnight](https://open.spotify.com/album/4UnLWekJt1qqHlniVVLeEH) | 1:25 | 2022-10-07 | 2023-11-17 |
 | [Yankee Doodle](https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Yankee Doodle](https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0) | 2:19 | 2023-03-17 |  |
 | [Yawn at Dawn](https://open.spotify.com/track/0DcbhT9Gkji3MzxHzjkBGU) | [Kirsten Cagle](https://open.spotify.com/artist/5PccRblfC6x56aEc9QFFa6) | [Naptime](https://open.spotify.com/album/6gkiPwfiBMRrFHfPuL3JmD) | 1:42 | 2021-11-08 | 2023-06-16 |
+| [Yellow & Blue](https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Yellow & Blue](https://open.spotify.com/album/6E564DHa5OzweC9UhpAOc9) | 2:19 | 2024-08-30 |  |
 | [Yesterday](https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ) | [Bella Notte](https://open.spotify.com/artist/5GWqn1K9HufkeR8NEMNn5S) | [Yesterday](https://open.spotify.com/album/4A57hMzEz3dI0cUDwB3qbw) | 1:35 | 2022-09-02 | 2023-03-18 |
 | [You And Me](https://open.spotify.com/track/3eHpGo0AL8gOpsPB1U6umJ) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [You And Me](https://open.spotify.com/album/3cPHt6wjnrBjna1j91BRJV) | 2:12 | 2024-05-03 |  |
 | [You Are Feeling Sleepy](https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [You Are Feeling Sleepy](https://open.spotify.com/album/6K2t5rV4eSuFpkZA2ofwP5) | 1:27 | 2024-03-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17489,
+  "num_followers": 17487,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Hierarchy (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 214334,
-      "name": "RAINY DAYS",
-      "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
         "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Hierarchy (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 214334,
+      "name": "RAINY DAYS",
+      "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "long to be the garden",
-        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 297173,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
+        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Dimly",
+      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 214933,
       "name": "Don't ever say love me (Feat. RM of BTS)",
       "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
-        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
-      },
-      "artists": [
-        {
-          "name": "RIO",
-          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Dimly",
-      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
     },
     {
       "added_at": "2024-08-10 15:54:36",

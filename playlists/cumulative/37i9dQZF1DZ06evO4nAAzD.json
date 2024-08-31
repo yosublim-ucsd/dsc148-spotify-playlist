@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
+  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Hyperanhas",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 170318,
       "name": "Gelo no Copo - Remix",
       "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 291764,
       "name": "Poderosa",
       "url": "https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL"

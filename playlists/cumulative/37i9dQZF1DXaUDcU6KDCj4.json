@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Mon Rov\u00eea",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tasha",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181256,
       "name": "Baby, Baby",
       "url": "https://open.spotify.com/track/4UGiaW74iNHBqtkkefW5Ee"
@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213866,
       "name": "Backfire",
       "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
@@ -4064,6 +4064,24 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "album": {
+        "name": "Birthday Song",
+        "url": "https://open.spotify.com/album/3ZZlsJFtAzMAZ1xti6HAtB"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263839,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/72neMcbRmFNHmr97Qz8dOw"
     },
     {
       "album": {
@@ -5373,6 +5391,36 @@
     },
     {
       "album": {
+        "name": "Burial At Sea",
+        "url": "https://open.spotify.com/album/4vl9BVCmH8jrSuOmPu1Lq3"
+      },
+      "artists": [
+        {
+          "name": "Tucker Zimmerman",
+          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
+        },
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        },
+        {
+          "name": "Iji",
+          "url": "https://open.spotify.com/artist/577ncuQtxXrM7Xi5itVG35"
+        },
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241998,
+      "name": "Burial At Sea",
+      "url": "https://open.spotify.com/track/26YYDaw2wc4CGwlWRDzy7a"
+    },
+    {
+      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
       },
@@ -5736,6 +5784,24 @@
       "duration_ms": 278670,
       "name": "Call Your Mom (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "album": {
+        "name": "Came",
+        "url": "https://open.spotify.com/album/32d4a4yiRVtROEntEjmP2I"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180102,
+      "name": "Came",
+      "url": "https://open.spotify.com/track/5MSOv1qRGVaUMMRCV8jNEL"
     },
     {
       "album": {
@@ -9426,7 +9492,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162560,
       "name": "Don't Fail Me Now",
       "url": "https://open.spotify.com/track/6kVZLcEMeDhRqt6LHrGPd9"
@@ -12764,7 +12830,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 105496,
       "name": "Foreverish",
       "url": "https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk"
@@ -16694,7 +16760,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 250693,
       "name": "Housewarming - The New Recording",
       "url": "https://open.spotify.com/track/5cLSmsKzxKhKwqkT9V3cat"
@@ -18242,7 +18308,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 262375,
       "name": "I Went Dancing With My Sister - Bonus Track",
       "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
@@ -19484,6 +19550,24 @@
       "duration_ms": 366396,
       "name": "In The Thick Of It",
       "url": "https://open.spotify.com/track/3F1lggiMnOfsZ9hQZIWlPH"
+    },
+    {
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5JwvVtiFZ2c4zCGfxuelDI"
+      },
+      "artists": [
+        {
+          "name": "Ezra Glatt",
+          "url": "https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170079,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/02nqdg45KBrsi34GdlenLa"
     },
     {
       "album": {
@@ -20829,6 +20913,24 @@
     },
     {
       "album": {
+        "name": "Cacophony",
+        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259273,
+      "name": "last woman on earth",
+      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
+    },
+    {
+      "album": {
         "name": "Late Afternoon in the Meadow (1887)",
         "url": "https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi"
       },
@@ -22155,6 +22257,24 @@
     },
     {
       "album": {
+        "name": "Lonely / Sweet Devil",
+        "url": "https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226091,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1"
+    },
+    {
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
       },
@@ -23050,6 +23170,24 @@
       "duration_ms": 171928,
       "name": "Love You the Most",
       "url": "https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj"
+    },
+    {
+      "album": {
+        "name": "Love's Changing",
+        "url": "https://open.spotify.com/album/3YLGKAVQGU3HoHTTGuAU7a"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270226,
+      "name": "Love's Changing",
+      "url": "https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e"
     },
     {
       "album": {
@@ -24364,7 +24502,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188546,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD"
@@ -24570,6 +24708,24 @@
       "duration_ms": 179225,
       "name": "Moments Flow Upwards",
       "url": "https://open.spotify.com/track/5Ia2g4VpIrzH0mlDFriO6V"
+    },
+    {
+      "album": {
+        "name": "Moments Like This",
+        "url": "https://open.spotify.com/album/6ppT0hCGvX2yRy3VfgX6Eq"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164387,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
     },
     {
       "album": {
@@ -26874,7 +27030,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200724,
       "name": "Oh My My",
       "url": "https://open.spotify.com/track/6pCSZtcwnhYTEayZELCJl3"
@@ -26954,6 +27110,24 @@
       "duration_ms": 350506,
       "name": "Old Dutch",
       "url": "https://open.spotify.com/track/6xzukjDwYDApBimL17JEA8"
+    },
+    {
+      "album": {
+        "name": "Old Life",
+        "url": "https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Old Life",
+      "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
     },
     {
       "album": {
@@ -27722,6 +27896,24 @@
       "duration_ms": 267913,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/1kxEBN9Mb1kgBLaAsWeGyj"
+    },
+    {
+      "album": {
+        "name": "Live From Fenway Park",
+        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140327,
+      "name": "Pain Is Cold Water - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
     },
     {
       "album": {
@@ -28588,7 +28780,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 227136,
       "name": "Piece of You",
       "url": "https://open.spotify.com/track/5A451NsTJQpBfwttOLCGY4"
@@ -35446,7 +35638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186342,
       "name": "Tear It All Apart",
       "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
@@ -40816,7 +41008,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 209002,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/4AdiTCMYdGx52WZOh3by6P"
@@ -42356,6 +42548,24 @@
       "duration_ms": 205288,
       "name": "Wishful Dreaming",
       "url": "https://open.spotify.com/track/7LonIR6hajKd0bswW6Kal2"
+    },
+    {
+      "album": {
+        "name": "wishing for you",
+        "url": "https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247826,
+      "name": "wishing for you",
+      "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
     },
     {
       "album": {

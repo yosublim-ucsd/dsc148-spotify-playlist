@@ -4797,6 +4797,28 @@
     },
     {
       "album": {
+        "name": "\u5728\u6c92\u6709\u4f60\u7684\u7a7a\u9593",
+        "url": "https://open.spotify.com/album/6Ld1BCw5go0nIkmIJDSkd0"
+      },
+      "artists": [
+        {
+          "name": "TAP",
+          "url": "https://open.spotify.com/artist/2bFl5zD7uP885xh9u3fs7J"
+        },
+        {
+          "name": "King Zaae",
+          "url": "https://open.spotify.com/artist/7f4V4nb3rVrDzjobsgS2vn"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u5728\u6c92\u6709\u4f60\u7684\u7a7a\u9593",
+      "url": "https://open.spotify.com/track/5VkrdOroAP1M7nCDFz1kin"
+    },
+    {
+      "album": {
         "name": "\u5730\u7403\u9006\u6642\u91dd",
         "url": "https://open.spotify.com/album/28zSpFhMHgEchCxrM2D7cN"
       },
@@ -9720,6 +9742,24 @@
       "duration_ms": 286894,
       "name": "\u8fce\u98a8\u4e4b\u6b4c",
       "url": "https://open.spotify.com/track/5S6MNHvjJDqGod7wOzoCXy"
+    },
+    {
+      "album": {
+        "name": "\u8ff7\u5931\u7684\u8fb9\u754cLost Borders",
+        "url": "https://open.spotify.com/album/4FsWDVMOojXlDinw1GygIM"
+      },
+      "artists": [
+        {
+          "name": "\u5f02\u8c61\u97f3\u8f68",
+          "url": "https://open.spotify.com/artist/1zktKuhgJRIZJrfbTdrjBu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "\u8ff7\u5931\u7684\u8fb9\u754cLost Borders",
+      "url": "https://open.spotify.com/track/6nHRNnye3jfb7KpCKBeBvq"
     },
     {
       "album": {

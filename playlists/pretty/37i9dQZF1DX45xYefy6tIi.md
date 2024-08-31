@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Jelly Roll and ESPN team up for a playlist celebrating “The Greatest Story Ever Played” as the hunt to crown a National Champion begins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,428 likes - 89 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,466 likes - 89 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 82 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 |
 | 83 | [she likes sports](https://open.spotify.com/track/49qWGkMnVQilns96xVksEa) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [she likes sports](https://open.spotify.com/album/6WFYNGTKtxsaHSx9r9zS84) | 2:22 |
 | 84 | [Power of Two \- From "Star Wars: The Acolyte"](https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Power of Two \(From "Star Wars: The Acolyte"\)](https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n) | 3:16 |
-| 85 | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Can You Feel the Love Tonight \(From "A Whole New Sound"\)](https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9) | 2:53 |
+| 85 | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Can You Feel the Love Tonight \- From "A Whole New Sound"](https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9) | 2:53 |
 | 86 | [Bye Bye Bye](https://open.spotify.com/track/0pRgRI9aHudPg48xYK84QS) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Deadpool & Wolverine \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 3:19 |
 | 87 | [Like a Prayer](https://open.spotify.com/track/0apQVuKL33S64ivuHUQrQ3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 5:40 |
 | 88 | [STRANGE FRIENDS](https://open.spotify.com/track/3FW4X3cgPYtL7yla6YyPfu) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [STRANGE FRIENDS](https://open.spotify.com/album/4t7gJ5vOuIDtQtULQcqKR5) | 2:34 |

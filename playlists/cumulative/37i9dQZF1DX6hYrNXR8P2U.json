@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "balearico",
+        "url": "https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "balearico",
+      "url": "https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh"
+    },
+    {
+      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
       },
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 272500,
       "name": "el gil",
       "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 150141,
       "name": "Estrecho / Alvarado (feat. pablopablo)",
       "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
@@ -3446,7 +3464,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 185138,
       "name": "No hay nadie como t\u00fa",
       "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
@@ -4220,7 +4238,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 263480,
       "name": "Polos Opuestos",
       "url": "https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S"
@@ -4642,6 +4660,24 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "album": {
+        "name": "Rio de la Plata",
+        "url": "https://open.spotify.com/album/0ylmdY2EkG0WnUwPdhmSbf"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Se\u00f1ales de Humo",
+      "url": "https://open.spotify.com/track/6iJfLdzcOHK6blCkl0xSxZ"
     },
     {
       "album": {
@@ -5240,6 +5276,28 @@
       "duration_ms": 158840,
       "name": "Tu Geograf\u00eda",
       "url": "https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw"
+    },
+    {
+      "album": {
+        "name": "Tu Te Vas",
+        "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Laeti",
+          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205839,
+      "name": "Tu Te Vas",
+      "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
     },
     {
       "album": {

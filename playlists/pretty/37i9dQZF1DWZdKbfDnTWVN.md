@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=2wz5EaCuTGmoLDJ6\_gEFcg"> Octopizzo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,688 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,693 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

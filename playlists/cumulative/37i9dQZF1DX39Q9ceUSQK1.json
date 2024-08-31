@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ"
+    },
+    {
+      "album": {
         "name": "BADMAN",
         "url": "https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt"
       },
@@ -186,6 +204,24 @@
       "duration_ms": 168030,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12"
+    },
+    {
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU"
     },
     {
       "album": {
@@ -380,7 +416,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 58500,
       "name": "Down Under Distractions",
       "url": "https://open.spotify.com/track/1PHVBgWKEv2XdXSJ49cG4u"
@@ -495,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Ffleur Hari",
+        "url": "https://open.spotify.com/album/6f5JGxRJ62riInXmDVdE1e"
+      },
+      "artists": [
+        {
+          "name": "Tramhaus",
+          "url": "https://open.spotify.com/artist/5HXrUfoDwofY8lehLNIykB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ffleur Hari",
+      "url": "https://open.spotify.com/track/3Cnihk7ccMTGURGiQXTtay"
+    },
+    {
+      "album": {
         "name": "Flea",
         "url": "https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN"
       },
@@ -596,7 +650,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 263803,
       "name": "If I'm Gonna Go Anywhere",
       "url": "https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31"
@@ -632,7 +686,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 178984,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/37AHx5plFCTjUyahG4pcgQ"
@@ -963,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Never Fall In Love",
+        "url": "https://open.spotify.com/album/4rNcAU0WclKzznndH4G7Fh"
+      },
+      "artists": [
+        {
+          "name": "Lenny Monsou",
+          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151489,
+      "name": "Never Fall In Love",
+      "url": "https://open.spotify.com/track/0FZ53KOISmgNtbV9EjSQdx"
+    },
+    {
+      "album": {
         "name": "Next Semester",
         "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
       },
@@ -1010,7 +1082,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 220584,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
@@ -1270,7 +1342,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214093,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG"
@@ -1421,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Sound of Age",
+        "url": "https://open.spotify.com/album/5WZA5adjYE2IFYcErJGLOP"
+      },
+      "artists": [
+        {
+          "name": "Paceshifters",
+          "url": "https://open.spotify.com/artist/7maCRjdG5xFuQZ7AxINpAN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sound Of Age",
+      "url": "https://open.spotify.com/track/3IaPpzSeQbjD6J3knuC3Nd"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -1454,6 +1544,24 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO"
+      },
+      "artists": [
+        {
+          "name": "Equal Idiots",
+          "url": "https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253946,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t"
     },
     {
       "album": {
@@ -1670,10 +1778,28 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165680,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/4L0JZOuOKjmVgGdkNH16si"
+    },
+    {
+      "album": {
+        "name": "On the Intricate Inner Workings of the System",
+        "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "We Don't Care About That",
+      "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
     },
     {
       "album": {
@@ -1836,7 +1962,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 206946,
       "name": "\u2060You Should Know By Now",
       "url": "https://open.spotify.com/track/3zexE7ac4H7sHb9yc8udUv"

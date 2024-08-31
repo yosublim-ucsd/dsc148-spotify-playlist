@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Chubby and the Gang
 
-1,595 songs - 3 day 16 hr 3 min
+1,598 songs - 3 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Eye For An Eye](https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Eye For An Eye](https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY) | 3:04 | 2023-02-22 | 2023-03-23 |
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2021-12-01 | 2022-01-20 |
 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 | 2022-10-05 | 2022-12-01 |
+| [Fade Away](https://open.spotify.com/track/3CCYvwjeUJqM29jdM7c6Qa) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Fade Away](https://open.spotify.com/album/7aQKEVWPirHcC1FpW4v3QP) | 3:14 | 2024-08-30 |  |
 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 | 2023-03-01 | 2023-04-13 |
 | [Failing Upwards](https://open.spotify.com/track/7CBlFXSvWAlxL0UDf8PbAE) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [Failing Upwards](https://open.spotify.com/album/4qsKa7jk338i40KnsAqfn1) | 4:06 | 2021-12-01 | 2022-03-24 |
 | [FAKE](https://open.spotify.com/track/5izbDKoLGNuEiRFEut2qb1) | [Brother.](https://open.spotify.com/artist/4eubdcTtYtYIYRuKRtzjkT) | [FAKE](https://open.spotify.com/album/2RmBbd6IqDC2chDYiY4iHv) | 4:06 | 2024-03-06 | 2024-03-28 |
@@ -754,6 +755,7 @@
 | [In & Out](https://open.spotify.com/track/5alRL7O5LHo0Ff3QAkkGHj) | [Lawrence Taylor](https://open.spotify.com/artist/7so1HCxGkBmfqdvIF5HzkT) | [In & Out](https://open.spotify.com/album/3X9mTnQGOmJQbCdDJM9FsQ) | 4:36 | 2023-01-11 | 2023-03-23 |
 | [In A Dream](https://open.spotify.com/track/1nrRFHurbF6jhinVdptcrz) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [In A Dream](https://open.spotify.com/album/4f9Lnm7NbrdvziSNZmOcGO) | 7:23 | 2024-07-31 |  |
 | [IN LOVE WITH THE SOUND](https://open.spotify.com/track/7sj38dLblyPETO5fAPqSah) | [WHY NOT](https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP) | [IN LOVE WITH THE SOUND](https://open.spotify.com/album/1tZF4sUF5vIGUUWUXmdfbp) | 3:09 | 2022-03-23 | 2022-06-30 |
+| [in my blood](https://open.spotify.com/track/6UCtr0AtfQz1F911AFgbI6) | [SWEET SPINE](https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff) | [break//neck](https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV) | 3:28 | 2024-08-30 |  |
 | [In My Head](https://open.spotify.com/track/0zQ0fff48RDQRsUdroinqt) | [Black Pearl](https://open.spotify.com/artist/1Bg4u8g44WeEErjfwaiyxi) | [In My Head](https://open.spotify.com/album/4OeA6xUqrvGNt8kd5VQg5s) | 3:50 | 2023-03-15 | 2023-04-27 |
 | [In Quotations](https://open.spotify.com/track/7s7LcS7GeWvb2srh6P16C4) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [prose](https://open.spotify.com/album/0W8h614nyiXK2Z0jjUguF9) | 5:38 | 2024-08-21 |  |
 | [In the Clear](https://open.spotify.com/track/2aBVrfdatDO2h4UCuiXFaY) | [Hi Frisco](https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i) | [In the Clear](https://open.spotify.com/album/0ORsy0xNdlL9eT7IiURlHo) | 4:03 | 2021-12-01 | 2022-02-17 |
@@ -987,6 +989,7 @@
 | [Nine Clean Nails](https://open.spotify.com/track/13w8Z7iBslvD9lxBlR2VNa) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Nine Clean Nails](https://open.spotify.com/album/7j2HDQzmB1kxDyAAgDPyJ2) | 3:50 | 2024-07-31 |  |
 | [Nineteen](https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Nineteen](https://open.spotify.com/album/4ES63njGp43adDMGUluERR) | 1:53 | 2024-05-15 | 2024-06-06 |
 | [Nirvana](https://open.spotify.com/track/3G9GN38rhuGtvZfW3Lc76N) | [Dog Date](https://open.spotify.com/artist/16ReCN8nJeX63Px3pynFze) | [Nirvana](https://open.spotify.com/album/1qgcT33TNBMu180nHOEV5P) | 2:42 | 2024-04-10 | 2024-05-23 |
+| [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-30 |  |
 | [NO BRA NO PANTIES](https://open.spotify.com/track/2Rq16DMXxkEQIbpHP2Dfno) | [So Tuff So Cute](https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR) | [NO BRA NO PANTIES](https://open.spotify.com/album/2bsXjHbipD62blVyOTqCRq) | 1:48 | 2023-09-13 | 2023-10-26 |
 | [NO DEAL](https://open.spotify.com/track/2OlyFT158aBbZwUrFVtjbY) | [Dylan Cotrone](https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU) | [Dog House](https://open.spotify.com/album/07ruRkT885qAgfoqyXCPUC) | 2:30 | 2024-07-10 |  |
 | [No Money](https://open.spotify.com/track/1LSEKQRczoHCRGYeE5OPIe) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [No Money](https://open.spotify.com/album/17zMYdNk8QKrrYsIywo29X) | 2:06 | 2022-03-09 | 2022-05-19 |

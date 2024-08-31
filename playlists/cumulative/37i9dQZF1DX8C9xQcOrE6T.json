@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "album": {
         "name": "Onward (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
@@ -1672,6 +1694,28 @@
       "duration_ms": 241386,
       "name": "I2I",
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
+    },
+    {
+      "album": {
+        "name": "I2I - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/1DpOt4a2dQzFD7MfYIBMYk"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180709,
+      "name": "I2I - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/3hU1uChF4R0VygUNjcYOJb"
     },
     {
       "album": {

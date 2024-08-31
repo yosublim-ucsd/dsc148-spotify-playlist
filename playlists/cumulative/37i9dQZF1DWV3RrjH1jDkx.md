@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-1,940 songs - 4 day 3 hr 40 min
+1,944 songs - 4 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-07-05 |
 | [COWGIRL](https://open.spotify.com/track/3NTfPtbk5tXoQ88rFyBWM9) | [FISKERN](https://open.spotify.com/artist/5XUjkAYySdCwhURGYY4edG) | [COWGIRL](https://open.spotify.com/album/1oxakG1ctxumhkHCSN1R6V) | 2:04 | 2024-08-22 | 2024-08-30 |
 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 | 2024-06-28 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-27 | 2024-07-05 |
 | [Criminal](https://open.spotify.com/track/05d3ttg6y1PrWVxQTxL0IC) | [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX), [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s) | [Criminal](https://open.spotify.com/album/2YVGWHa5uIoLhrMTfRkQmB) | 2:13 | 2024-05-02 | 2024-05-10 |
 | [Cristal](https://open.spotify.com/track/1v4iOAwcMvpNphvBy4kim0) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Cristal](https://open.spotify.com/album/3P66RsHr8gWXfv823zlhVF) | 1:56 | 2024-05-02 | 2024-05-10 |
@@ -757,6 +758,7 @@
 | [Heat](https://open.spotify.com/track/23AuCSP5ul4MM3iUdvTYGa) | [Juliet](https://open.spotify.com/artist/5ZN6XRBEbY0QiRn5BOQR1L) | [Heat](https://open.spotify.com/album/0yIxGYj4zzQVO757r5H85N) | 4:30 | 2024-08-29 |  |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-13 | 2024-06-21 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2024-08-09 |
+| [Heaven](https://open.spotify.com/track/2kjAPzkv2hLnzAgi20EekG) | [Ida Knutsen](https://open.spotify.com/artist/3qmxqXFBsLw3NIKmC45c3c) | [Heaven](https://open.spotify.com/album/0q0AbYibN4XyE3T99hhV3W) | 2:33 | 2024-08-30 |  |
 | [Heaven](https://open.spotify.com/track/1WkYI0DxUqXKFqTayA8897) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 3:42 | 2024-07-11 | 2024-07-19 |
 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 | 2024-05-16 | 2024-05-24 |
 | [Heaven \(feat\. Marlene\)](https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Heaven \(feat\. Marlene\)](https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K) | 2:35 | 2024-04-26 | 2024-05-03 |
@@ -1128,6 +1130,7 @@
 | [Mazda 1985](https://open.spotify.com/track/3L8PECEhjLjYir9vsogIPB) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [Sver](https://open.spotify.com/artist/7dQDM46xbOVp16wbN6SpiQ) | [Mazda 1985](https://open.spotify.com/album/5bHsXUOXMVZRbnRM5nJK3G) | 3:24 | 2024-06-13 | 2024-06-21 |
 | [Me & Ms\. Ray](https://open.spotify.com/track/4ghAjJTWL5YGCMABrpRytI) | [New Ro](https://open.spotify.com/artist/2jiSoFLrMAKlWl6bAc2kfu) | [Me & Ms\. Ray](https://open.spotify.com/album/12jmAJW0N0P2jtei6F9S74) | 3:45 | 2024-04-26 | 2024-05-03 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-13 | 2024-06-21 |
+| [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-30 |  |
 | [Medisin](https://open.spotify.com/track/2nTnvw0PxppQXueQOzg8Zh) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Medisin](https://open.spotify.com/album/3ahmXISSCrnuutElPoDX40) | 2:06 | 2024-07-04 | 2024-07-12 |
 | [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 | 2024-05-03 | 2024-05-10 |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-05-23 | 2024-06-01 |
@@ -1567,6 +1570,7 @@
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-02 | 2024-05-10 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-05-16 | 2024-05-24 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-09 | 2024-05-17 |
+| [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-30 |  |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-06 | 2024-06-14 |
 | [Station REM](https://open.spotify.com/track/4kt7xTTxdQzj0snJNHPlxx) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Station REM](https://open.spotify.com/album/5wrw0FrZfbyHT7xpaQnVlG) | 4:19 | 2024-04-26 | 2024-05-03 |
 | [STAY](https://open.spotify.com/track/7B75zKP9Kje2k5IwtLgUEd) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [STAY](https://open.spotify.com/album/3yqWBKNN2PWRjlUlJa74OO) | 3:48 | 2024-05-09 | 2024-05-17 |

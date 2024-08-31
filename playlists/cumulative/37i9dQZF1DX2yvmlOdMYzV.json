@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147692,
       "name": "After The Day Party",
       "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181682,
       "name": "better than me",
       "url": "https://open.spotify.com/track/4xSV6XMbiEN5ZlJeKBGSTk"
@@ -7403,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7"
       },
@@ -9611,6 +9629,24 @@
     },
     {
       "album": {
+        "name": "Cathedral City",
+        "url": "https://open.spotify.com/album/1TuE6pzCLw0A2wNzcPSmCb"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "NVM",
+      "url": "https://open.spotify.com/track/5lU9O0AjgWLGPkNANmMAaL"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/0jtkyctiuE6clIQx7kGUw4"
       },
@@ -10808,7 +10844,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194666,
       "name": "PYP",
       "url": "https://open.spotify.com/track/2OGKCzG66mRzVLjyvnqHAh"
@@ -15128,6 +15164,28 @@
       "duration_ms": 61920,
       "name": "Whippedlashed",
       "url": "https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv"
+    },
+    {
+      "album": {
+        "name": "The Heart, The Mind, The Soul",
+        "url": "https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Who Ha? (feat. J. Ivy)",
+      "url": "https://open.spotify.com/track/4FNkH1rdFzzaOuC34SWGHA"
     },
     {
       "album": {

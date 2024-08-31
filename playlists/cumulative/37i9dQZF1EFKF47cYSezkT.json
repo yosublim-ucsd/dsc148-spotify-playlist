@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY"
+      },
+      "artists": [
+        {
+          "name": "Isabella Kensington",
+          "url": "https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171528,
+      "name": "in another life",
+      "url": "https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj"
+    },
+    {
+      "album": {
         "name": "It Isn't Me (with KSHMR)",
         "url": "https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz"
       },

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "CICATRIZ",
+        "url": "https://open.spotify.com/album/2Ko9xajDFl1MmOVcajqV8i"
+      },
+      "artists": [
+        {
+          "name": "Axel Olloqui",
+          "url": "https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "CICATRIZ",
+      "url": "https://open.spotify.com/track/6kdfiouvVHeYbcvgUIv1eQ"
+    },
+    {
+      "album": {
         "name": "Cyberia",
         "url": "https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156000,
       "name": "Human Error 404",
       "url": "https://open.spotify.com/track/3tQedKnMyIopbFOhOIDgN1"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189428,
       "name": "Luna Azul",
       "url": "https://open.spotify.com/track/7lMv9rkfwRsAFkrL99acMG"
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184455,
       "name": "Pills Pa Dormir",
       "url": "https://open.spotify.com/track/21jZOre0Xr2Y5Nkodv4bCR"
@@ -1916,6 +1934,24 @@
       "duration_ms": 114754,
       "name": "PTM!",
       "url": "https://open.spotify.com/track/1NPge2BaiMMROKIrbwKymv"
+    },
+    {
+      "album": {
+        "name": "AIKO",
+        "url": "https://open.spotify.com/album/4rjgNwDW3bWDDRw5xct4Cp"
+      },
+      "artists": [
+        {
+          "name": "bbonsai!!!",
+          "url": "https://open.spotify.com/artist/5e09T1HPyQw0grmg7BGFwj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140427,
+      "name": "PunPun",
+      "url": "https://open.spotify.com/track/0s3kiFRHoYtJ8N8QQdH4Ph"
     },
     {
       "album": {
@@ -2118,6 +2154,24 @@
       "duration_ms": 128000,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/1QnmzIQBJWVg1u5xqLxyZe"
+    },
+    {
+      "album": {
+        "name": "Suspiro",
+        "url": "https://open.spotify.com/album/0QYqwh8G3Av1fqkL27DgTV"
+      },
+      "artists": [
+        {
+          "name": "Pokito Paranoiko",
+          "url": "https://open.spotify.com/artist/7KpNmqf68V6n7v22zLhTag"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138937,
+      "name": "Suspiro",
+      "url": "https://open.spotify.com/track/5r8yTDFdDRSRnyiu9i07DD"
     },
     {
       "album": {

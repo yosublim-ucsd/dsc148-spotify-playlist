@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Delirium Hums",
+        "url": "https://open.spotify.com/album/6hbIu6PkEyPMs3NDJ4NVxy"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Delirium Hums",
+      "url": "https://open.spotify.com/track/3HUbt3IU8OmoQNDmGjNlGF"
+    },
+    {
+      "album": {
         "name": "Fourth World Vol 1 Possible Musics",
         "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
@@ -2264,6 +2282,28 @@
       "duration_ms": 398120,
       "name": "Overture (For Other Halfs)",
       "url": "https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn"
+    },
+    {
+      "album": {
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283302,
+      "name": "part i - altar",
+      "url": "https://open.spotify.com/track/7GnKvXEuN9XSdRhZR3MAI8"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 61558,
+  "description": "The best newly released songs of the week. Cover: LE SSERAFIM",
+  "num_followers": 61572,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtCbAAAAAACGYWAjtvTNxNgTEyXbItYr",
+  "snapshot_id": "ZtFy9wAAAADt+Gii/IlSucyVxYKdh3Xj",
   "tracks": [
+    {
+      "added_at": "2024-08-29 16:00:00",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+    },
+    {
+      "added_at": "2024-08-29 16:00:00",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 184723,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf"
+    },
     {
       "added_at": "2024-08-29 16:00:00",
       "album": {
@@ -200,7 +232,7 @@
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 172523,
+      "duration_ms": 171757,
       "name": "her",
       "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
     },
@@ -617,6 +649,22 @@
       "url": "https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw"
     },
     {
+      "added_at": "2024-08-30 07:21:27",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/2hH4tIgQXvkos7vnCZTPry"
+      },
+      "artists": [
+        {
+          "name": "Matilde G",
+          "url": "https://open.spotify.com/artist/4kV6iM6LBNfZX4qRHJUoNH"
+        }
+      ],
+      "duration_ms": 147804,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5vCvCR3Ymif9JeFGoh7aMx"
+    },
+    {
       "added_at": "2024-08-29 16:00:00",
       "album": {
         "name": "Bending My Rules",
@@ -628,7 +676,7 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 224605,
+      "duration_ms": 224640,
       "name": "Bending My Rules",
       "url": "https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb"
     },
@@ -1135,7 +1183,7 @@
     {
       "added_at": "2024-08-29 16:00:00",
       "album": {
-        "name": "Go the Distance (From \"A Whole New Sound\")",
+        "name": "Go the Distance - From \"A Whole New Sound\"",
         "url": "https://open.spotify.com/album/7r2bCfkcGCcrzPamZhT3Tb"
       },
       "artists": [

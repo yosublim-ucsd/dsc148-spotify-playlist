@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30116,
+  "num_followers": 30119,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPS/L0R3qfnKRnVjh2Wk+oEFXEwhqZ",
+  "snapshot_id": "AAAPUYBNol0sQTZ4tbjwDznNXQp+AUHN",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,22 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-08-30 15:15:35",
+      "album": {
+        "name": "Infinite Health",
+        "url": "https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
     },
     {
       "added_at": "2024-08-27 16:42:57",
@@ -127,6 +143,34 @@
       "duration_ms": 229903,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/6E8Mb30yWPFcT2Y3be4CjY"
+    },
+    {
+      "added_at": "2024-08-30 14:38:06",
+      "album": {
+        "name": "The Learning of Urgency Remixes",
+        "url": "https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        },
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 271976,
+      "name": "Atlantis - Model Man Remix",
+      "url": "https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT"
     },
     {
       "added_at": "2024-08-28 16:41:38",
@@ -687,50 +731,6 @@
       "duration_ms": 288000,
       "name": "Doubletap",
       "url": "https://open.spotify.com/track/7jGCiFHR79XMX4itdaHiFv"
-    },
-    {
-      "added_at": "2024-06-07 16:12:01",
-      "album": {
-        "name": "Prism of Pleasure",
-        "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        },
-        {
-          "name": "Dot Major",
-          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Air Tight",
-      "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
-    },
-    {
-      "added_at": "2024-06-12 16:19:31",
-      "album": {
-        "name": "These Dreams are Killing Me",
-        "url": "https://open.spotify.com/album/3F1rd1yNMxA85RIp4wRPVI"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 289846,
-      "name": "These Dreams are Killing Me",
-      "url": "https://open.spotify.com/track/3l3kfVCK5rhMlLzVw8ZYzg"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

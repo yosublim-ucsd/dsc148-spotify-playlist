@@ -1,12 +1,12 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: Something Corporate",
-  "num_followers": 628093,
+  "num_followers": 628081,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUftgAAAAAs7t4SBXGl1+3KsvBWiAN9",
+  "snapshot_id": "ZtHRfQAAAAD9CwvDtlUhogGMeywc7Xig",
   "tracks": [
     {
       "added_at": "2024-08-20 22:59:02",
@@ -245,6 +245,26 @@
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
+      "added_at": "2024-08-30 14:04:45",
+      "album": {
+        "name": "The People's House (with The War And Treaty)",
+        "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 265846,
+      "name": "The People's House (with The War And Treaty)",
+      "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
+    },
+    {
       "added_at": "2024-08-20 22:59:02",
       "album": {
         "name": "the record",
@@ -323,22 +343,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Wanting and Waiting",
         "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
       },
@@ -351,6 +355,22 @@
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -659,22 +679,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Leadfoot",
-        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 165576,
-      "name": "Leadfoot",
-      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -687,6 +691,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -919,22 +939,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "California Rain",
-        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "California Rain",
-      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i"
       },
@@ -967,6 +971,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO"
       },
@@ -983,22 +1003,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "You're So Impatient",
-        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "You're So Impatient",
-      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1011,6 +1015,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 128880,
+      "name": "You're So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1063,18 +1083,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Into The Blue",
-        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+        "name": "Weird Goodbyes (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
       },
       "artists": [
         {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+      "duration_ms": 303173,
+      "name": "Weird Goodbyes (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1095,6 +1119,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Bells and Whistles",
         "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
       },
@@ -1107,26 +1147,6 @@
       "duration_ms": 247000,
       "name": "Bells and Whistles",
       "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "Weird Goodbyes (feat. Bon Iver)",
-        "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 303173,
-      "name": "Weird Goodbyes (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1235,22 +1255,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Motivational Speaking",
         "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
       },
@@ -1263,6 +1267,22 @@
       "duration_ms": 192453,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 210330,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1307,18 +1327,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1339,18 +1359,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1371,6 +1391,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -1387,22 +1423,6 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1647,22 +1667,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Physical Thrills",
         "url": "https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb"
       },
@@ -1675,6 +1679,22 @@
       "duration_ms": 256336,
       "name": "Empty Nest",
       "url": "https://open.spotify.com/track/47t8l6TmVhY1QZBveAEcWR"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1727,6 +1747,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Dance With a Stranger",
         "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
       },
@@ -1771,22 +1807,6 @@
       "duration_ms": 250565,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "Hard Working Man",
-        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1863,22 +1883,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Back to Moon Beach",
-        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Another good year for the roses",
-      "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Bluephoria",
         "url": "https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe"
       },
@@ -1891,6 +1895,22 @@
       "duration_ms": 272399,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Back to Moon Beach",
+        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Another good year for the roses",
+      "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1927,22 +1947,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Just A Bird",
-        "url": "https://open.spotify.com/album/1Kaq6jOADIHCjwlkeulV2n"
-      },
-      "artists": [
-        {
-          "name": "Blind Pilot",
-          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "Just A Bird",
-      "url": "https://open.spotify.com/track/6zP85HijAKg1RvRWcHF1dX"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "The Color That Suits You",
         "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
       },
@@ -1959,6 +1963,22 @@
       "duration_ms": 293037,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Just A Bird",
+        "url": "https://open.spotify.com/album/1Kaq6jOADIHCjwlkeulV2n"
+      },
+      "artists": [
+        {
+          "name": "Blind Pilot",
+          "url": "https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "Just A Bird",
+      "url": "https://open.spotify.com/track/6zP85HijAKg1RvRWcHF1dX"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2011,22 +2031,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Love Of A Girl",
-        "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Love Of A Girl",
-      "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Love out of Lemons",
         "url": "https://open.spotify.com/album/0jsAmlf5wVis6otmdokfsA"
       },
@@ -2039,6 +2043,22 @@
       "duration_ms": 212226,
       "name": "Love out of Lemons",
       "url": "https://open.spotify.com/track/2GXzTdHHiguNECDsp3hW0W"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Love Of A Girl",
+        "url": "https://open.spotify.com/album/4IQ0aUYSOhj8kcLuWKcU3g"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Love Of A Girl",
+      "url": "https://open.spotify.com/track/412lrhEHRGzaKKvKu49GDM"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2143,22 +2163,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Mother Road",
-        "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Two Things at Once",
         "url": "https://open.spotify.com/album/4K3fG6A3UzqivRCPtRNaKl"
       },
@@ -2171,6 +2175,22 @@
       "duration_ms": 173074,
       "name": "Tough Season",
       "url": "https://open.spotify.com/track/78bqL0hABVqTi0ju2JWBVK"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Mother Road",
+        "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2463,22 +2483,6 @@
       "duration_ms": 219560,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/1vsF7CkEYNAHarwF9ANndA"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "Big Black Hearse",
-        "url": "https://open.spotify.com/album/6QoWnNOaDubg2300l06GZS"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "Big Black Hearse",
-      "url": "https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf"
     }
   ],
   "unique_name": "Rockin' Vibes",

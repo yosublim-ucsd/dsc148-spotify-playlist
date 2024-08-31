@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,139 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,140 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [Cowboy Break My Heart](https://open.spotify.com/track/0OWjq1RpEPwLErq7yiotxm) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cowboy Break My Heart](https://open.spotify.com/album/6veJfIQqQlzpBta1oIdGcZ) | 2:40 |
 | 39 | [Calling](https://open.spotify.com/track/2bSNePFmPxgSnLQp9o1YRq) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Full Circle](https://open.spotify.com/album/5NOrX7sIbqclPUxez3aO5n) | 3:11 |
 | 40 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
-| 41 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 |
-| 42 | [PRAY FOR ME](https://open.spotify.com/track/5I8bc2tQYlB7EWT0eLMxpb) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [PRAY FOR ME](https://open.spotify.com/album/5XaflvAOcoSJKWoVmywB9Z) | 3:36 |
+| 41 | [PRAY FOR ME](https://open.spotify.com/track/5I8bc2tQYlB7EWT0eLMxpb) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [PRAY FOR ME](https://open.spotify.com/album/5XaflvAOcoSJKWoVmywB9Z) | 3:36 |
+| 42 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 |
 | 43 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 |
 | 44 | [Son Of A Gun](https://open.spotify.com/track/4Tw2GOwiQ5pYL8c5sGW2Ly) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Son Of A Gun](https://open.spotify.com/album/293OStVaxP03Eovnp5aeC0) | 3:23 |
 | 45 | [Superstar](https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/1qp5OgpmF5KZeXoWPWkSI9) | 4:02 |

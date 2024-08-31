@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Misha Panfilov on cover. Artwork by Thami Nabil",
-  "num_followers": 170196,
+  "num_followers": 170282,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
         "name": "Meridians",
         "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
       },
@@ -351,26 +367,6 @@
       "duration_ms": 257226,
       "name": "Distance Learner",
       "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Taste The Air (Julia Holter Mix)",
-        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 203031,
-      "name": "Taste The Air - Julia Holter Mix",
-      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -397,20 +393,24 @@
       "url": "https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
+      "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Cockpit",
-        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+        "name": "Taste The Air (Julia Holter Mix)",
+        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
       },
       "artists": [
         {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 256799,
-      "name": "Cockpit",
-      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+      "duration_ms": 203031,
+      "name": "Taste The Air - Julia Holter Mix",
+      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Pt. II",
@@ -589,20 +573,20 @@
       "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
       "artists": [
         {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 404458,
       "name": "Messimalism (Above Thought)",
       "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Mit Schinken durch die Menopause",
-        "url": "https://open.spotify.com/album/7DS04VL8tgQqEhGDfzphwh"
-      },
-      "artists": [
-        {
-          "name": "Pisse",
-          "url": "https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3"
-        }
-      ],
-      "duration_ms": 197532,
-      "name": "Nervenheilanstalt",
-      "url": "https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Dr\u00efpsody",
@@ -691,6 +675,22 @@
       "duration_ms": 212949,
       "name": "Drip Coda",
       "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Mit Schinken durch die Menopause",
+        "url": "https://open.spotify.com/album/7DS04VL8tgQqEhGDfzphwh"
+      },
+      "artists": [
+        {
+          "name": "Pisse",
+          "url": "https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3"
+        }
+      ],
+      "duration_ms": 197532,
+      "name": "Nervenheilanstalt",
+      "url": "https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
     },
     {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Princ\u20acss",
+        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+      },
+      "artists": [
+        {
+          "name": "Princ\u20acss",
+          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Sky Time",
@@ -941,20 +957,20 @@
       "url": "https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Princ\u20acss",
-        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+        "name": "Northern Classic",
+        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
       },
       "artists": [
         {
-          "name": "Princ\u20acss",
-          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+          "name": "Donna Regina",
+          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
         }
       ],
-      "duration_ms": 173515,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+      "duration_ms": 336786,
+      "name": "Drifting Around",
+      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 235853,
       "name": "Voulez Vous",
       "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Northern Classic",
-        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
-      },
-      "artists": [
-        {
-          "name": "Donna Regina",
-          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
-        }
-      ],
-      "duration_ms": 336786,
-      "name": "Drifting Around",
-      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Near Marineland",
@@ -1137,36 +1121,20 @@
       "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-03-20 13:59:17",
       "album": {
-        "name": "Snake EP",
-        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
       },
       "artists": [
         {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
         }
       ],
-      "duration_ms": 260500,
-      "name": "333333",
-      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/5hab0z3EOOETkiq1HU2t9B"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "She\u2019s All We Have",
-      "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1183,6 +1151,22 @@
       "duration_ms": 190066,
       "name": "Oase",
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Snake EP",
+        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "333333",
+      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2024-08-07 03:33:24",
       "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/5hab0z3EOOETkiq1HU2t9B"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "She\u2019s All We Have",
+      "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
         "name": "Sundown Muse",
         "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 261004,
       "name": "Sundown Muse",
       "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2kAeZjR2sgPdPNYQKtw3b5"
-      },
-      "artists": [
-        {
-          "name": "d'Eon",
-          "url": "https://open.spotify.com/artist/10vxlFO7l4kgOKtsz4HbQp"
-        }
-      ],
-      "duration_ms": 214922,
-      "name": "Rhododendron pt. IV",
-      "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 173428,
       "name": "aurora",
       "url": "https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2kAeZjR2sgPdPNYQKtw3b5"
+      },
+      "artists": [
+        {
+          "name": "d'Eon",
+          "url": "https://open.spotify.com/artist/10vxlFO7l4kgOKtsz4HbQp"
+        }
+      ],
+      "duration_ms": 214922,
+      "name": "Rhododendron pt. IV",
+      "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
+        "name": "Psiche Liberata",
+        "url": "https://open.spotify.com/album/69fbH9xB5l1xlsUuUGPOaO"
+      },
+      "artists": [
+        {
+          "name": "Fera",
+          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
+        }
+      ],
+      "duration_ms": 357213,
+      "name": "Milk Tears In The Hug Chamber",
+      "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
         "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
         "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
       },
@@ -1301,20 +1317,20 @@
       "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
+      "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Psiche Liberata",
-        "url": "https://open.spotify.com/album/69fbH9xB5l1xlsUuUGPOaO"
+        "name": "Misterio Lounge 3000",
+        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
       },
       "artists": [
         {
-          "name": "Fera",
-          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
+          "name": "Tia Rosa",
+          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
         }
       ],
-      "duration_ms": 357213,
-      "name": "Milk Tears In The Hug Chamber",
-      "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
+      "duration_ms": 223098,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 172919,
       "name": "7 Hells",
       "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Misterio Lounge 3000",
-        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
-      },
-      "artists": [
-        {
-          "name": "Tia Rosa",
-          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
-        }
-      ],
-      "duration_ms": 223098,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
         "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
         "url": "https://open.spotify.com/album/55u3E9KAJRaJxjarTSjQz9"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 327804,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
+      },
+      "artists": [
+        {
+          "name": "Frank Rodas",
+          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
+        }
+      ],
+      "duration_ms": 548586,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
         "name": "In The Merry Month Of May",
         "url": "https://open.spotify.com/album/0gPpPJZb17VAdPc22ZhKYi"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 469810,
       "name": "In the Merry Month of May",
       "url": "https://open.spotify.com/track/4bptC5RF2Gpevf1UNW4hQY"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
-      },
-      "artists": [
-        {
-          "name": "Frank Rodas",
-          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
-        }
-      ],
-      "duration_ms": 548586,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
     },
     {
       "added_at": "2024-08-21 04:00:00",

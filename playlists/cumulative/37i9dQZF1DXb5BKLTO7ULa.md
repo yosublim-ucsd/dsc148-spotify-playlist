@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje & S10
 
-7,612 songs - 16 day 15 hr 7 min
+7,613 songs - 16 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1349,6 +1349,7 @@
 | [Coördinaten \(feat\. Kaya Imani\)](https://open.spotify.com/track/48Rre4rE7OfPCtyCabvtjg) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [A Swan Song](https://open.spotify.com/album/2nthJGtbWLM6sAj2ujUpjB) | 3:05 | 2024-03-21 | 2024-03-29 |
 | [Crash](https://open.spotify.com/track/5Nx0z7IzYSoNjkYtKxT7Vb) | [Chemelda Dielingen](https://open.spotify.com/artist/6oUpuSeMJfn8dycxVVndVw) | [Crash](https://open.spotify.com/album/2vtLVHVeVutQIa0K8MLGQ6) | 2:51 | 2023-12-21 | 2024-01-05 |
 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 | 2024-06-28 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 |  |
 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 | 2023-12-15 | 2023-12-22 |
 | [Crazy](https://open.spotify.com/track/3dRdUT6NFmQMgW71bj3AAY) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Crazy](https://open.spotify.com/album/0gFigDIR4qSnx14w9ULbER) | 3:18 | 2024-02-08 | 2024-02-16 |
 | [Crazy](https://open.spotify.com/track/5Hk6Ki2g81MipLqrJSl16L) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [Crazy](https://open.spotify.com/album/6iglB4TumeugRnIGQonZTE) | 2:50 | 2024-02-29 | 2024-03-08 |

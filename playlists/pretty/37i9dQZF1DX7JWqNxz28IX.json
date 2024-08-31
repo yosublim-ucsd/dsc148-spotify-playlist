@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46471,
+  "num_followers": 46476,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
+        "name": "Io In Terra",
+        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Apnea",
+      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
         "name": "Danimarca",
         "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 166000,
       "name": "Danimarca",
       "url": "https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "Io In Terra",
-        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Apnea",
-      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr"
-      },
-      "artists": [
-        {
-          "name": "Nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
-        }
-      ],
-      "duration_ms": 167671,
-      "name": "Cose che non vuoi sentirti dire",
-      "url": "https://open.spotify.com/track/6OMnIqBYSBEOIMuXkiHT2a"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "No Hooks",
         "url": "https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2"
       },
@@ -515,22 +499,6 @@
       "duration_ms": 192000,
       "name": "Neve",
       "url": "https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
-        "name": "pochi colori per rappresentarmi.",
-        "url": "https://open.spotify.com/album/5FslhF5Y1thJWVSz6uiNTv"
-      },
-      "artists": [
-        {
-          "name": "NEVERMIND E ATMO",
-          "url": "https://open.spotify.com/artist/5QUtV3KeHsXa6oAJXxHUjH"
-        }
-      ],
-      "duration_ms": 90006,
-      "name": "pochi colori per rappresentarmi.",
-      "url": "https://open.spotify.com/track/7boSLIOLKEDWb2eX9oKhDZ"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -555,6 +523,38 @@
       "duration_ms": 216389,
       "name": "NON MI RICONOSCO \u2260 (con centomilacarie, Salmo)",
       "url": "https://open.spotify.com/track/02qmjMWNK9hiO9PsndeLLQ"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "pochi colori per rappresentarmi.",
+        "url": "https://open.spotify.com/album/5FslhF5Y1thJWVSz6uiNTv"
+      },
+      "artists": [
+        {
+          "name": "NEVERMIND E ATMO",
+          "url": "https://open.spotify.com/artist/5QUtV3KeHsXa6oAJXxHUjH"
+        }
+      ],
+      "duration_ms": 90006,
+      "name": "pochi colori per rappresentarmi.",
+      "url": "https://open.spotify.com/track/7boSLIOLKEDWb2eX9oKhDZ"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr"
+      },
+      "artists": [
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "Cose che non vuoi sentirti dire",
+      "url": "https://open.spotify.com/track/6OMnIqBYSBEOIMuXkiHT2a"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "DIE",
-        "url": "https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D"
-      },
-      "artists": [
-        {
-          "name": "LXX Blood",
-          "url": "https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5"
-        },
-        {
-          "name": "Naima Blood",
-          "url": "https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Miss Guid",
-      "url": "https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 176259,
       "name": "Resta Vivo",
       "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "DIE",
+        "url": "https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D"
+      },
+      "artists": [
+        {
+          "name": "LXX Blood",
+          "url": "https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5"
+        },
+        {
+          "name": "Naima Blood",
+          "url": "https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Miss Guid",
+      "url": "https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Polmoni",
-        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
+        "name": "MALA VITA",
+        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
       },
       "artists": [
         {
-          "name": "Tripolare",
-          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
         }
       ],
-      "duration_ms": 123789,
-      "name": "Polmoni",
-      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
+      "duration_ms": 179087,
+      "name": "Ti maledir\u00f2",
+      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "MALA VITA",
-        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
+        "name": "Polmoni",
+        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
       },
       "artists": [
         {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
         }
       ],
-      "duration_ms": 179087,
-      "name": "Ti maledir\u00f2",
-      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
+      "duration_ms": 123789,
+      "name": "Polmoni",
+      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
     },
     {
       "added_at": "2024-07-01 15:44:18",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-07-01 15:44:18",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
-    },
-    {
-      "added_at": "2024-07-01 15:44:18",
-      "album": {
         "name": "Winston Blue",
         "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 186500,
       "name": "Cose stupide",
       "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+    },
+    {
+      "added_at": "2024-07-01 15:44:18",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2024-07-01 15:44:18",

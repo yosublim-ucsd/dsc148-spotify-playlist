@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12346,
+  "num_followers": 12343,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
       },
       "artists": [
         {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
         }
       ],
-      "duration_ms": 239200,
-      "name": "Birds, Pt. I",
-      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -551,34 +551,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
       },
       "artists": [
         {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
         }
       ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
-      "added_at": "2024-05-23 23:19:14",
-      "album": {
-        "name": "Mid Spiral: Order",
-        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 415372,
-      "name": "Playgroup",
-      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
+      "duration_ms": 239200,
+      "name": "Birds, Pt. I",
+      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 120840,
       "name": "Breaking Up",
       "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
+    },
+    {
+      "added_at": "2024-05-23 23:19:14",
+      "album": {
+        "name": "Mid Spiral: Order",
+        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 415372,
+      "name": "Playgroup",
+      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "11000 Dreams",
+        "url": "https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8"
+      },
+      "artists": [
+        {
+          "name": "June11",
+          "url": "https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4"
+        }
+      ],
+      "duration_ms": 212712,
+      "name": "Who Is Still Dreaming?",
+      "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
+    },
+    {
       "added_at": "2022-04-06 04:00:43",
       "album": {
         "name": "Lenz Pianoday 2022",
@@ -783,18 +799,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "11000 Dreams",
-        "url": "https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8"
+        "name": "Skalpel",
+        "url": "https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE"
       },
       "artists": [
         {
-          "name": "June11",
-          "url": "https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4"
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
         }
       ],
-      "duration_ms": 212712,
-      "name": "Who Is Still Dreaming?",
-      "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
+      "duration_ms": 251840,
+      "name": "Theme from 'Behind the Curtain'",
+      "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -819,22 +835,6 @@
       "duration_ms": 413993,
       "name": "Night Bunny (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Skalpel",
-        "url": "https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Theme from 'Behind the Curtain'",
-      "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Sharko III",
-        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
-      },
-      "artists": [
-        {
-          "name": "Sharko",
-          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
-        }
-      ],
-      "duration_ms": 76013,
-      "name": "Stuck T",
-      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -1011,6 +995,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Sharko III",
+        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
+      },
+      "artists": [
+        {
+          "name": "Sharko",
+          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
+        }
+      ],
+      "duration_ms": 76013,
+      "name": "Stuck T",
+      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "AM Prosperita\u0308t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
-      },
-      "artists": [
-        {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "AM Prosperita\u0308t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
-    },
-    {
       "added_at": "2024-03-21 23:52:34",
       "album": {
         "name": "For You, Please",
@@ -1339,6 +1323,22 @@
       "duration_ms": 205205,
       "name": "For You, Please",
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "AM Prosperita\u0308t",
+        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
+      },
+      "artists": [
+        {
+          "name": "Lujo Asi\u00e1tico",
+          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
+        }
+      ],
+      "duration_ms": 288068,
+      "name": "AM Prosperita\u0308t",
+      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
     }
   ],
   "unique_name": "transience",

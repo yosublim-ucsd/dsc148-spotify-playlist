@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gore.",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gojira.",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -1498,6 +1498,24 @@
       "duration_ms": 122147,
       "name": "Broke",
       "url": "https://open.spotify.com/track/2UDdpVcrdY9qnXOHUT3XTK"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F"
+      },
+      "artists": [
+        {
+          "name": "PUREST FORM",
+          "url": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211555,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI"
     },
     {
       "album": {
@@ -7145,6 +7163,32 @@
     },
     {
       "album": {
+        "name": "Mea Culpa (Ah! \u00c7a ira!)",
+        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Mea Culpa (Ah! \u00c7a ira!)",
+      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
+    },
+    {
+      "album": {
         "name": "Meat & Greet",
         "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
@@ -8741,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "Permanence in Sleep",
+        "url": "https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216505,
+      "name": "Permanence in Sleep",
+      "url": "https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf"
+    },
+    {
+      "album": {
         "name": "Permanent Rebellion",
         "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
       },
@@ -9163,6 +9225,24 @@
     },
     {
       "album": {
+        "name": "Every Bridge Burning",
+        "url": "https://open.spotify.com/album/269SQRalfaebSVSDnIQe1g"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63180,
+      "name": "Punishment Map",
+      "url": "https://open.spotify.com/track/19oktfFwUibGPjfr27grUk"
+    },
+    {
+      "album": {
         "name": "Purge",
         "url": "https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF"
       },
@@ -9250,6 +9330,24 @@
       "duration_ms": 234294,
       "name": "Rage",
       "url": "https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL"
+    },
+    {
+      "album": {
+        "name": "RAINDROP",
+        "url": "https://open.spotify.com/album/1refX4mkVGNWliJFd5I54A"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170988,
+      "name": "RAINDROP",
+      "url": "https://open.spotify.com/track/64BmfG10Xh0L3CG1B1UgVP"
     },
     {
       "album": {
@@ -11732,6 +11830,24 @@
       "duration_ms": 272788,
       "name": "The Common Breed",
       "url": "https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8"
+    },
+    {
+      "album": {
+        "name": "The Crow (In Memory of B.L.)",
+        "url": "https://open.spotify.com/album/7sLddcx0B1EQv5n4h5u5XC"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "The Crow (In Memory of B.L.)",
+      "url": "https://open.spotify.com/track/4LtCHGqnwgHNQ6wNKd7R1N"
     },
     {
       "album": {

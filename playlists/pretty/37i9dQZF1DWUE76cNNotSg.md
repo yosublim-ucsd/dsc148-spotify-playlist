@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,507 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,557 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 4 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 |
 | 5 | [Waste No Time](https://open.spotify.com/track/1BDvHdiBdRPw2QH8v0UuU5) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Lost In A New Era](https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM) | 3:57 |
 | 6 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 |
-| 7 | [Dancing](https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic) | [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp), [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Dancing](https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an) | 3:50 |
+| 7 | [To Survive](https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [To Survive](https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89) | 3:58 |
 | 8 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 9 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 |
 | 10 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 16 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
 | 17 | [Shining](https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light \(Deluxe Version\)](https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN) | 3:23 |
 | 18 | [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 |
-| 19 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 |
+| 19 | [Dancing](https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic) | [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp), [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Dancing](https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an) | 3:50 |
 | 20 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 |
 | 21 | [Blue Eyes](https://open.spotify.com/track/20jhQ8xRFGeAr5y5PV8Rwe) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Lost In A New Era](https://open.spotify.com/album/5Dk9MMNDnVI0KuCGyJV5xM) | 3:28 |
 | 22 | [IT HURTS ME](https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/7tIK8SgNtyAzhl4cuC43Ki) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
 | 100 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 |
 
-Snapshot ID: `ZsizJAAAAAA2v62SwstiAmVhMIcvqGhJ`
+Snapshot ID: `ZtHtVwAAAACSOTXqOiFu8btVx4kGOMmD`

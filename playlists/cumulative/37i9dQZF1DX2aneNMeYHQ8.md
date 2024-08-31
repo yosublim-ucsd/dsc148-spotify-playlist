@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Something Corporate
 
-472 songs - 1 day 4 hr 47 min
+473 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 | 2021-05-07 | 2023-02-11 |
 | [Better Coast](https://open.spotify.com/track/0FrTXd8KMWEhCi2iWf1gil) | [Plastic Picnic](https://open.spotify.com/artist/0oiS9wyrwFOAvNhYhP3udG) | [Better Coast / Distilled](https://open.spotify.com/album/3AqEe0abSB7miiKdVkwjfL) | 3:21 | 2022-05-25 | 2022-07-29 |
 | [Better Than Any Drug](https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Better Than Any Drug](https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX) | 3:26 | 2022-01-21 | 2022-03-26 |
-| [Big Black Hearse](https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Big Black Hearse](https://open.spotify.com/album/6QoWnNOaDubg2300l06GZS) | 3:29 | 2024-07-12 |  |
+| [Big Black Hearse](https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Big Black Hearse](https://open.spotify.com/album/6QoWnNOaDubg2300l06GZS) | 3:29 | 2024-07-12 | 2024-08-31 |
 | [Big Time Nothing](https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 2:58 | 2024-08-20 |  |
 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/3X4YuIXeQo5kf34mM0gtju) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes Demos](https://open.spotify.com/album/3joUkppKWBZqJvRnF5YGCR) | 3:03 | 2021-01-29 | 2022-01-15 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-07-01 | 2024-07-13 |
@@ -417,6 +417,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-08-26 |  |
 | [The Magic](https://open.spotify.com/track/09AXTeXynbiu9RyyHzs07h) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [The Magic](https://open.spotify.com/album/2sVFKGHXygegcFVSPWKHLA) | 3:12 | 2021-11-26 | 2022-11-12 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-06-09 |  |
+| [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 | 2024-08-30 |  |
 | [The Ripple](https://open.spotify.com/track/0zWM14GHB53fJNUNJf5y3H) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [The Ripple](https://open.spotify.com/album/7FCAHU53l7CvZwFfHOEXrH) | 3:24 | 2021-04-02 | 2022-04-09 |
 | [The Rush](https://open.spotify.com/track/0GY2MWZBsPjHJetTPAacuG) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde Eyes, Steady Hands](https://open.spotify.com/album/4PNTQIrZzdj2FJEVzyrxTP) | 3:07 | 2021-01-29 | 2022-01-22 |
 | [The Tipping Point](https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 4:13 | 2022-02-25 | 2023-08-27 |

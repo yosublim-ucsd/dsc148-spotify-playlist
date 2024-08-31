@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Jestem",
+        "url": "https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138746,
+      "name": "Jestem",
+      "url": "https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq"
+    },
+    {
+      "album": {
         "name": "Egoistka",
         "url": "https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV"
       },
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 158507,
       "name": "Mi\u0142o\u015b\u0107 w czasach",
       "url": "https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA"
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 138332,
       "name": "nic(i)",
       "url": "https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc"
@@ -2543,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "MINT",
+        "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164788,
+      "name": "Przy Tobie to...",
+      "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
+    },
+    {
+      "album": {
         "name": "Przypadki",
         "url": "https://open.spotify.com/album/3qUpOm5ZbZn6klgKk438VU"
       },
@@ -2692,7 +2732,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136434,
       "name": "Randomowe noce",
       "url": "https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR"
@@ -3404,6 +3444,24 @@
       "duration_ms": 152307,
       "name": "Za dobrze by zapomnie\u0107",
       "url": "https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD"
+    },
+    {
+      "album": {
+        "name": "Zadzwo\u0144 do mnie",
+        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136595,
+      "name": "Zadzwo\u0144 do mnie",
+      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
     },
     {
       "album": {

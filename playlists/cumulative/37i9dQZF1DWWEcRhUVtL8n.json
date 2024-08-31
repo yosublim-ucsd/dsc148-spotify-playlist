@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Magdalena Bay",
+  "description": "New and approved indie pop. Cover: Coco & Clair Clair",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173447,
       "name": "Again",
       "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
@@ -936,6 +936,24 @@
       "duration_ms": 206597,
       "name": "Aggy",
       "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206597,
+      "name": "Aggy",
+      "url": "https://open.spotify.com/track/1NoSFJ2Y8t1ioRqmePeg07"
     },
     {
       "album": {
@@ -3031,6 +3049,28 @@
     },
     {
       "album": {
+        "name": "Beloved (feat. Beach Bunny)",
+        "url": "https://open.spotify.com/album/43T5dBRSGxaUdK1xnnoEVu"
+      },
+      "artists": [
+        {
+          "name": "Hank Heaven",
+          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
+        },
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173907,
+      "name": "Beloved (feat. Beach Bunny)",
+      "url": "https://open.spotify.com/track/1HTAUZcXvLy2l1kvr27Iw1"
+    },
+    {
+      "album": {
         "name": "Beluga Baby",
         "url": "https://open.spotify.com/album/4Hzq3RmqiOLSH6nKkg6AhZ"
       },
@@ -4140,6 +4180,24 @@
       "duration_ms": 172626,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu"
+    },
+    {
+      "album": {
+        "name": "Water the Flowers, Pray for a Garden",
+        "url": "https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212502,
+      "name": "Bop Ba",
+      "url": "https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2"
     },
     {
       "album": {
@@ -5549,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Cathy",
+        "url": "https://open.spotify.com/album/5R13wrMaZvdYsLP6OHVepn"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "Cathy",
+      "url": "https://open.spotify.com/track/37SmqFHvOOaRghaM6r4uIM"
+    },
+    {
+      "album": {
         "name": "IDK You Yet/Caught in the Middle",
         "url": "https://open.spotify.com/album/6hPjqER5erz9bS5C3fxq1L"
       },
@@ -5906,7 +5982,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
@@ -6040,7 +6116,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181666,
       "name": "Cigarettes & Wine (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
@@ -9638,7 +9714,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -18173,6 +18249,24 @@
     },
     {
       "album": {
+        "name": "Cacophony",
+        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259273,
+      "name": "last woman on earth",
+      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
+    },
+    {
+      "album": {
         "name": "Last Year\u2019s Model Club",
         "url": "https://open.spotify.com/album/67HqD9ogSvBiB0rXRLJncY"
       },
@@ -23564,7 +23658,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
@@ -23662,6 +23756,24 @@
       "duration_ms": 204633,
       "name": "Only Time Makes It Human",
       "url": "https://open.spotify.com/track/1VpkwLKRFjxIw2elI7m1Oz"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209291,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp"
     },
     {
       "album": {
@@ -29992,7 +30104,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212320,
       "name": "Strawberry Jam",
       "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
@@ -33020,7 +33132,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175666,
       "name": "Toro",
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
@@ -34808,6 +34920,24 @@
       "duration_ms": 195294,
       "name": "WHO'S TO SAY",
       "url": "https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z"
+    },
+    {
+      "album": {
+        "name": "Whole World",
+        "url": "https://open.spotify.com/album/277XEKE1geqVvUV3yCjoCS"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Whole World",
+      "url": "https://open.spotify.com/track/6l4d6IKVNSC6Ic9wbxv0Ai"
     },
     {
       "album": {

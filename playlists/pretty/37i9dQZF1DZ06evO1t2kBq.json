@@ -1,12 +1,12 @@
 {
-  "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 77852,
+  "description": "This is Bad Religion. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 77871,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAABPwO1XYkEyxlpwk4KW9xQ+",
+  "snapshot_id": "Zs+6AAAAAAAYbcn/GGBTtJU6xjAP0Eho",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Better Off Dead",
-      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
+      "duration_ms": 55306,
+      "name": "Change Of Ideas",
+      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 55306,
-      "name": "Change Of Ideas",
-      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
+      "duration_ms": 158906,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
     },
     {
       "added_at": null,

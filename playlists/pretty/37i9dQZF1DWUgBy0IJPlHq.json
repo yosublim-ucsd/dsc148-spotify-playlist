@@ -1,12 +1,12 @@
 {
   "description": "A new shade of Country. Cover: Colby Acuff",
-  "num_followers": 526158,
+  "num_followers": 526228,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAD45a7K8FwG74xEzmNMgppx",
+  "snapshot_id": "ZtFDwAAAAAAoqy/GDO3F4Knt7YdlYaa8",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 203920,
       "name": "Plastic Horses",
       "url": "https://open.spotify.com/track/32ExqTpuJs802zScWQt209"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -43,22 +59,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Tequila or Whiskey",
-        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 133695,
-      "name": "Tequila or Whiskey",
-      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Visions of Dallas",
         "url": "https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp"
       },
@@ -71,6 +71,38 @@
       "duration_ms": 207986,
       "name": "Visions of Dallas",
       "url": "https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "American Dreaming - Single Edit",
+      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Tequila or Whiskey",
+        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 133695,
+      "name": "Tequila or Whiskey",
+      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -145,6 +177,22 @@
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Don\u2019t Wanna Say Goodnight",
+        "url": "https://open.spotify.com/album/3C2YvDauBHcw2Tv0Tdlfjp"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 204648,
+      "name": "Don't Wanna Say Goodnight",
+      "url": "https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Rhinestoned",
@@ -159,22 +207,6 @@
       "duration_ms": 190124,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/2oKAAMhjYdsheJAo8RgtGK"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "American Dreaming",
-        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "American Dreaming - Single Edit",
-      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -471,6 +503,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "A Life Where We Work Out",
+      "url": "https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Bitter Winds",
         "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
@@ -639,26 +691,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        },
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "A Life Where We Work Out",
-      "url": "https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Going Home (Live)",
         "url": "https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg"
       },
@@ -819,22 +851,6 @@
       "duration_ms": 179013,
       "name": "Years",
       "url": "https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 229357,
-      "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 253965,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
     },
     {
       "added_at": "2024-08-23 04:00:00",

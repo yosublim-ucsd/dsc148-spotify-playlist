@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,468 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,536 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 |
+| 1 | [Soltera](https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau) | 2:45 |
 | 2 | [REGALADA $ALES CARA \- Remix](https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [REGALADA $ALES CARA \(Remix\)](https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy) | 4:13 |
-| 3 | [Cacho x Cacho](https://open.spotify.com/track/6Ua4ro11UTORImQSH9qWON) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Cacho x Cacho](https://open.spotify.com/album/6ZUJ5zMylfc6Vrb2l8etbM) | 2:24 |
-| 4 | [Es muy tarde](https://open.spotify.com/track/2VhYTJXBKmjtRvoROAw4GY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Es muy tarde](https://open.spotify.com/album/2QOYM1YVuVkKPqHhHaDxRX) | 3:19 |
+| 3 | [Es muy tarde](https://open.spotify.com/track/2VhYTJXBKmjtRvoROAw4GY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Es muy tarde](https://open.spotify.com/album/2QOYM1YVuVkKPqHhHaDxRX) | 3:19 |
+| 4 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 |
 | 5 | [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 |
 | 6 | [El Chapulín](https://open.spotify.com/track/0CPzztZQhgwvLy1X5acoG6) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Seguimos Dejando Huella](https://open.spotify.com/album/3ucXDQJpXwVH0rm5Ra0Wxw) | 3:30 |
 | 7 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
 | 8 | [Hasta Siempre](https://open.spotify.com/track/1UQ1jzCK5oqGU6OEkCsngb) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Hasta Siempre](https://open.spotify.com/album/27eNAjsgjBSBp3LXTxpysl) | 3:31 |
 | 9 | [Pregúntele a mi ex](https://open.spotify.com/track/0BvZUuW2QmQ9OgAoNIyyI0) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK) | [Pregúntele a mi ex](https://open.spotify.com/album/08wW249B1Fh2EbhrOkGrF4) | 2:41 |
 | 10 | [Me Llamó Mi Ex \- Remix](https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ) | [Dany Cardona](https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe) | 3:09 |
-| 11 | [El atrevimiento](https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El atrevimiento](https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI) | 3:33 |
-| 12 | [No Me 100to Bien](https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Me 100to Bien](https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95) | 3:22 |
+| 11 | [Cacho x Cacho](https://open.spotify.com/track/6Ua4ro11UTORImQSH9qWON) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Cacho x Cacho](https://open.spotify.com/album/6ZUJ5zMylfc6Vrb2l8etbM) | 2:24 |
+| 12 | [El atrevimiento](https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El atrevimiento](https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI) | 3:33 |
 | 13 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 |
 | 14 | [Mi Debilidad](https://open.spotify.com/track/0WTgAgwnqTQsFgq01hXnb4) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mi Debilidad](https://open.spotify.com/album/7gkYUuQbtMUDxkJof4FNpq) | 2:46 |
 | 15 | [Kbron y Medio](https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Kbron y Medio](https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax) | 4:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 84 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 |
 | 85 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 |
 
-Snapshot ID: `Zsf5lQAAAAAPpWc1/2DJbgCH0wJlmSu5`
+Snapshot ID: `ZtF3jAAAAADnbk9HQb9VY5ilWL/91xhQ`

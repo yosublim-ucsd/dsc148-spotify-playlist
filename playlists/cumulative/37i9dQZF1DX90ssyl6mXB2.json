@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K"
+      },
+      "artists": [
+        {
+          "name": "Samuel Petra",
+          "url": "https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106638,
+      "name": "BLUSH",
+      "url": "https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM"
+    },
+    {
+      "album": {
         "name": "BUT IF iiM HONEST (Deluxe)",
         "url": "https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI"
       },
@@ -508,6 +526,24 @@
       "duration_ms": 240263,
       "name": "DnL",
       "url": "https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD"
+    },
+    {
+      "album": {
+        "name": "STORY OF ARCHIVES",
+        "url": "https://open.spotify.com/album/72fjCMiyt17pTcle383Wpg"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173252,
+      "name": "DONT_SAY",
+      "url": "https://open.spotify.com/track/4pD2U2Y4G55IqScpSb04b0"
     },
     {
       "album": {
@@ -1588,6 +1624,24 @@
       "duration_ms": 179971,
       "name": "S t u c k I n M y W a y s",
       "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
+    },
+    {
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/6SZGguUQ3ddoyJgusvfPXl"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/1AdFpWand1DPxlprhkOxPy"
     },
     {
       "album": {

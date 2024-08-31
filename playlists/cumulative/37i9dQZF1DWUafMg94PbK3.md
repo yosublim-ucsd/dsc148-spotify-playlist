@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-114 songs - 4 hr 0 min
+115 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Train Is A\-Coming](https://open.spotify.com/track/3EvF45l5hnDlJ55E1hAvdI) | [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [Songs Kids Really Love To Sing: 17 Playtime Songs](https://open.spotify.com/album/0aruGtg6RCRBEhrwNk2oWX) | 1:41 | 2019-10-29 |  |
 | [Train Song](https://open.spotify.com/track/4cLEtWfzH5KYpHmNc1fpC7) | [Brendan Parker](https://open.spotify.com/artist/3b7oGWr78Vwat438Dobb8f) | [Spaghetti Eddie! And Other Children's Songs, Vol\. 3](https://open.spotify.com/album/3dHyWeNdQFyk9Pd4t2mT5C) | 2:19 | 2019-10-29 |  |
 | [Tricycle](https://open.spotify.com/track/0kWvtFgFjgRsOTjqEpab1k) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 1:36 | 2019-10-29 |  |
+| [Truck Song](https://open.spotify.com/track/3pXqNZ3OG1OajYAEeW4eiS) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Truck Song](https://open.spotify.com/album/7dwbc7tCUlhrgI2qmsOXpq) | 2:28 | 2024-08-30 |  |
 | [Trucks](https://open.spotify.com/track/0zcMjwUeRuhCSOUflcJ3y1) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Victor Vito](https://open.spotify.com/album/2zvFlAi9Xy2IGXlaMYLgfl) | 2:56 | 2019-10-29 | 2024-04-19 |
 | [Trucks](https://open.spotify.com/track/6ZmcrgCpnJ0wBumxHQTrQ1) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Victor Vito](https://open.spotify.com/album/43RB81zUywXWyPpFBEvxU0) | 2:56 | 2019-10-29 |  |
 | [Trucks Are Tough](https://open.spotify.com/track/3RTdm0xgHyKVUMZX8dFruP) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99) | [Bubble Guppies Bubble Bops!](https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF) | 1:54 | 2019-10-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Papon",
+  "description": "Latest music from your fav I-Pop artists. Cover- AP Dhillon",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 140312,
       "name": "5 saal",
       "url": "https://open.spotify.com/track/7zNVf1nO0eoFEgC3bUY5UL"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175169,
+      "name": "6 Am",
+      "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
     },
     {
       "album": {
@@ -1013,6 +1031,40 @@
     },
     {
       "album": {
+        "name": "Addicted (\u0a06\u0a26\u0a40)",
+        "url": "https://open.spotify.com/album/2mb6o5BhEvbO4ma4hf6hcy"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Addicted (\u0a06\u0a26\u0a40)",
+      "url": "https://open.spotify.com/track/7CsARx4aBRnx7r76rPMuuL"
+    },
+    {
+      "album": {
         "name": "Adhoora Pyaar",
         "url": "https://open.spotify.com/album/4BSyKNBE490vCnuCscS0Q6"
       },
@@ -1535,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Aqda",
+        "url": "https://open.spotify.com/album/78hWb6l21eCElnYPcFT6UQ"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193928,
+      "name": "Aqda",
+      "url": "https://open.spotify.com/track/0R1Y0bivX5ASIh4Tiyl65w"
+    },
+    {
+      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/7DwBExXCPlyl2g2zUIk4YA"
       },
@@ -1814,7 +1884,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195840,
       "name": "Baadal Barse",
       "url": "https://open.spotify.com/track/0mWej4p9syAAr36x7XdEuG"
@@ -2926,7 +2996,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 211136,
       "name": "Barsatein Achhi Lagti Hai",
       "url": "https://open.spotify.com/track/6Vi0BT6TlXv8BBvnSk8FQf"
@@ -3692,6 +3762,28 @@
       "duration_ms": 231031,
       "name": "Boondein Marham Si",
       "url": "https://open.spotify.com/track/5jS0bSCHqrzuxEvCGl86Mk"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Bora Bora (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj"
     },
     {
       "album": {
@@ -5193,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Dhal Jaun",
+        "url": "https://open.spotify.com/album/4G73BUPoSOxaNdCtH3WNEn"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dhal Jaun",
+      "url": "https://open.spotify.com/track/5RMEne2PneLrQebp1oWhJJ"
+    },
+    {
+      "album": {
         "name": "Dheemi Dheemi Barsaat",
         "url": "https://open.spotify.com/album/1TY1pSNDyMZMoxSi1ZSXYI"
       },
@@ -5338,7 +5448,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186098,
       "name": "Dhola",
       "url": "https://open.spotify.com/track/58vUbKQNsug6mi7v7ns0Vi"
@@ -6114,6 +6224,24 @@
       "duration_ms": 165641,
       "name": "DIN RAINA",
       "url": "https://open.spotify.com/track/4FlLhUMhtmtpeLQT9HdmfI"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1WciPgtUhKxdosNdzVlK5B"
     },
     {
       "album": {
@@ -7110,6 +7238,28 @@
       "duration_ms": 259200,
       "name": "First Love",
       "url": "https://open.spotify.com/track/5hxeoqlTdpSl4nEyaRUKhy"
+    },
+    {
+      "album": {
+        "name": "Fiza",
+        "url": "https://open.spotify.com/album/0Q0En0xu0BWTQWjRt9eQgk"
+      },
+      "artists": [
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        },
+        {
+          "name": "Khushi Rastogi",
+          "url": "https://open.spotify.com/artist/3Htusc8n2LQTNbtHdTGDwA"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160048,
+      "name": "Fiza",
+      "url": "https://open.spotify.com/track/2c48ac8gKAfOpfXVSnfKzQ"
     },
     {
       "album": {
@@ -8846,7 +8996,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 134762,
       "name": "Hoor",
       "url": "https://open.spotify.com/track/3v4IktqhfdN6BbxOl7ff16"
@@ -9022,7 +9172,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194634,
       "name": "Hum Tum Milte Hai",
       "url": "https://open.spotify.com/track/07azZHKd9uNDJGHHjalkaB"
@@ -9374,7 +9524,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 153068,
       "name": "Inni Soni",
       "url": "https://open.spotify.com/track/1Q3XjrxCIFg5CRjsCeRjn8"
@@ -9750,7 +9900,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183835,
       "name": "Iss Barsaat",
       "url": "https://open.spotify.com/track/4CGvOtV7OWthkbCto470wz"
@@ -11640,7 +11790,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166336,
       "name": "Kahe Kahe",
       "url": "https://open.spotify.com/track/1tmqE0XFrDUnnioRc1apsb"
@@ -13222,7 +13372,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214752,
       "name": "Kitna Aasaan",
       "url": "https://open.spotify.com/track/56cXwVKPsJxzqKn17tOQqM"
@@ -13470,7 +13620,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 120333,
       "name": "kya hua?",
       "url": "https://open.spotify.com/track/1nofF5Okx5JM71VQD7IecC"
@@ -14135,6 +14285,32 @@
     },
     {
       "album": {
+        "name": "Lo Aayi Baarishein",
+        "url": "https://open.spotify.com/album/2R3vIlC4Qf0KjkHMmVGIkj"
+      },
+      "artists": [
+        {
+          "name": "Piyush Mehroliyaa",
+          "url": "https://open.spotify.com/artist/5Gzv3tQFyqdp6x8OM9TMk8"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Sangita Singhh",
+          "url": "https://open.spotify.com/artist/7F65kq27jBxkr7tLZo4Lzd"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213877,
+      "name": "Lo Aayi Baarishein",
+      "url": "https://open.spotify.com/track/5xkNOFtqybVpHQj3Av8Cu8"
+    },
+    {
+      "album": {
         "name": "Lo Aayi Barsaat",
         "url": "https://open.spotify.com/album/4A6JkFOHnUTSlZamQXCD58"
       },
@@ -14150,6 +14326,50 @@
       "duration_ms": 222600,
       "name": "Lo Aayi Barsaat",
       "url": "https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178424,
+      "name": "Losing Myself (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/0SXE6PNRua0kHN6kv4dD8K"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/1RiTw0VgHMdqwD9tpJhk3Q"
     },
     {
       "album": {
@@ -14844,6 +15064,10 @@
         {
           "name": "Javed Ali",
           "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Abhijit Pohankar",
+          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
         }
       ],
       "date_added": "2024-08-16",
@@ -15219,6 +15443,32 @@
     },
     {
       "album": {
+        "name": "Meeh Baras",
+        "url": "https://open.spotify.com/album/6sEyaxtUkRwpTRrc8nvhMa"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Meeh Baras",
+      "url": "https://open.spotify.com/track/6dItu7Qb3KZO2kH5zA0iLz"
+    },
+    {
+      "album": {
         "name": "Meethi Boliyaan",
         "url": "https://open.spotify.com/album/4KV3739HYvmzWMcngNmtMH"
       },
@@ -15466,7 +15716,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 187135,
       "name": "Mera Saaya",
       "url": "https://open.spotify.com/track/4yOSJ7Gimca2OudwDAXLSu"
@@ -15825,6 +16075,24 @@
     },
     {
       "album": {
+        "name": "Milenge Hum Nahi",
+        "url": "https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K"
+      },
+      "artists": [
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Milenge Hum Nahi",
+      "url": "https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc"
+    },
+    {
+      "album": {
         "name": "Mileya",
         "url": "https://open.spotify.com/album/3HInUVZgm1xhmyZTShK7kk"
       },
@@ -15844,7 +16112,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 209302,
       "name": "Mileya",
       "url": "https://open.spotify.com/track/6cJ3GZcfx0hMlaW48BBPqo"
@@ -15926,6 +16194,28 @@
       "duration_ms": 316980,
       "name": "Mirza (From \"Maidaan\")",
       "url": "https://open.spotify.com/track/7warwZJuGRa7SJULNOYp94"
+    },
+    {
+      "album": {
+        "name": "Mitthi Zubani",
+        "url": "https://open.spotify.com/album/2ZCL7h83kq6NXO9rlZrvFB"
+      },
+      "artists": [
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Mitthi Zubani",
+      "url": "https://open.spotify.com/track/7fmxDhHEBh0NWnyq0Zdhbs"
     },
     {
       "album": {
@@ -17848,7 +18138,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180625,
       "name": "Party Fever",
       "url": "https://open.spotify.com/track/2tbzVCoQSiQZ8oEmtdN6hF"
@@ -17962,6 +18252,28 @@
       "duration_ms": 204112,
       "name": "Payal",
       "url": "https://open.spotify.com/track/5CSoKVWkEDOnpS3Gl8ZmN1"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226751,
+      "name": "Payal",
+      "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
     },
     {
       "album": {
@@ -18836,7 +19148,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190337,
       "name": "Rang",
       "url": "https://open.spotify.com/track/7IWDMat26EfRqf2rC61f5z"
@@ -18990,7 +19302,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175181,
       "name": "Ratiyaan",
       "url": "https://open.spotify.com/track/5Wf61wso1rDW8lvhX6Ccry"
@@ -20743,6 +21055,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171157,
+      "name": "Shamaan De Vele",
+      "url": "https://open.spotify.com/track/5SQzNdM0LfPWZiMEfRsItB"
+    },
+    {
+      "album": {
         "name": "Shambho",
         "url": "https://open.spotify.com/album/2thZWiFp10ukfgQErlfo4j"
       },
@@ -21563,6 +21897,28 @@
     },
     {
       "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Syra",
+          "url": "https://open.spotify.com/artist/4QrpItsl2noO7FDQIQbL7M"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Sweet Flower (feat. Syra)",
+      "url": "https://open.spotify.com/track/3uyf8yCzPXZ9IXTjlxLGKf"
+    },
+    {
+      "album": {
         "name": "Sweety Sweety",
         "url": "https://open.spotify.com/album/2HNkxhDRvWL0Hcz2bMj4de"
       },
@@ -21900,6 +22256,32 @@
       "duration_ms": 178714,
       "name": "Tera Ho Gaya",
       "url": "https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn"
+    },
+    {
+      "album": {
+        "name": "Tera Hua",
+        "url": "https://open.spotify.com/album/5dKzMgsX8ljlhcPRvFcceS"
+      },
+      "artists": [
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        },
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189529,
+      "name": "Tera Hua",
+      "url": "https://open.spotify.com/track/6cO6ZJNpA6W0Eu44jCegxJ"
     },
     {
       "album": {
@@ -23134,7 +23516,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 132085,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO"
@@ -25402,7 +25784,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195348,
       "name": "Yaara Ve",
       "url": "https://open.spotify.com/track/3xYySsoM3ClDi5eMs2eaV5"
@@ -26004,7 +26386,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 209157,
       "name": "Zor Ki Barsaat Hui",
       "url": "https://open.spotify.com/track/48izPDBeKvDJaGcLJdxCOS"

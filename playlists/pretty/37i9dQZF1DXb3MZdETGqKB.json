@@ -1,12 +1,12 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 149407,
+  "num_followers": 149421,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAAm7a6idNqhj67R99svIHvV",
+  "snapshot_id": "ZtFDwAAAAABGdg0qEsN4KRqfxlOvHYef",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 259107,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/04p6D0dz1CWTM3ngJXAJoF"
+      },
+      "artists": [
+        {
+          "name": "Taj Farrant",
+          "url": "https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ"
+        }
+      ],
+      "duration_ms": 230104,
+      "name": "Mumma Raised a Man",
+      "url": "https://open.spotify.com/track/1WM8Kf8sKwW7M6OSVh6CaZ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 200226,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Pensive Pop",
-        "url": "https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
     }
   ],
   "unique_name": "Nu-Blue",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Nicolle Galyon\n",
+  "description": "Featuring the talented songwriters behind your favorite country songs. Cover: Nicolle Galyon\n",
   "name": "Country Songwriters",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 197359,
       "name": "Almost All Good",
       "url": "https://open.spotify.com/track/0veEfwoK2YndOqJ0jIeLww"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 167413,
       "name": "American Made",
       "url": "https://open.spotify.com/track/7tLgFHsGyklwaB0Wc10ERE"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 218000,
       "name": "Blue Ain't Your Color",
       "url": "https://open.spotify.com/track/2Ynzb3b6Ddpi1EtovAuvVE"
@@ -382,10 +382,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 157257,
       "name": "boy crazy.",
       "url": "https://open.spotify.com/track/6GlMlyTTDhzMJO1EzvAa5H"
+    },
+    {
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "boy.",
+      "url": "https://open.spotify.com/track/0aG4Vxn98aDXy39w9emrki"
     },
     {
       "album": {
@@ -462,7 +480,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 224523,
       "name": "Cest La Vie",
       "url": "https://open.spotify.com/track/3eez1aomdwj7l4xFTJ8rGr"
@@ -516,7 +534,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182915,
       "name": "Changing Channels",
       "url": "https://open.spotify.com/track/6zkI9ra0jflB8cFOz9JPa4"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 240440,
       "name": "Either",
       "url": "https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 177200,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188493,
       "name": "Female",
       "url": "https://open.spotify.com/track/7ARueeihDPgLLgxPbUeuym"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 244333,
       "name": "Fire Away",
       "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 253321,
       "name": "Five & Dime",
       "url": "https://open.spotify.com/track/0xMeVFJfMc4VpGAKwZDgov"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186818,
       "name": "Fuzzy",
       "url": "https://open.spotify.com/track/054DVXQK0w2caEVaxsTaH1"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 192893,
       "name": "Good Friends",
       "url": "https://open.spotify.com/track/5hpgayozHqTQR2T8vraMHt"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208336,
       "name": "Good Guys Win",
       "url": "https://open.spotify.com/track/776bUrQyDGPUwN2uthS2l8"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 251489,
       "name": "Happy Children",
       "url": "https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb"
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 210146,
       "name": "I Can't (feat. Old Dominion)",
       "url": "https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 193064,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/50R81m3nP4J2v9Xyxr4ARD"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 197319,
       "name": "I Go Back to You",
       "url": "https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173266,
       "name": "I Met A Girl - Acoustic Mixtape",
       "url": "https://open.spotify.com/track/3oBxf3KvflYpaFSR4S3wKv"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208720,
       "name": "I Won't Take Less Than Your Love",
       "url": "https://open.spotify.com/track/7imykP5YlWnO5MWbdpURAv"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162000,
       "name": "If the Boot Fits",
       "url": "https://open.spotify.com/track/39XSf0AnSQYbTrfC9G2cZo"
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175000,
       "name": "John Cougar, John Deere, John 3:16",
       "url": "https://open.spotify.com/track/0diBrA66034Rcq9foo6j1A"
@@ -2288,7 +2306,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 167437,
       "name": "Killing Me (feat. Hillary Lindsey)",
       "url": "https://open.spotify.com/track/3fAZ38PiyZaozDD6zZcNyN"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 223386,
       "name": "Learning To Live Again",
       "url": "https://open.spotify.com/track/4KM4KZ0LSxiJqQZyNPVtDO"
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182586,
       "name": "Leaving You",
       "url": "https://open.spotify.com/track/4nwSN6bLSMQycNLDkOtIRf"
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 176232,
       "name": "Letting People Down",
       "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200940,
       "name": "Like You Found Me",
       "url": "https://open.spotify.com/track/44ezqJtwmvnvssre5oQUIz"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212133,
       "name": "Lonely Ain't So Lonely",
       "url": "https://open.spotify.com/track/6HydPGV0coZ4LIyFSzitXE"
@@ -2566,6 +2584,24 @@
       "duration_ms": 201160,
       "name": "Mississippi You're On My Mind",
       "url": "https://open.spotify.com/track/7icWxaCLDCsp92vubx8FaM"
+    },
+    {
+      "album": {
+        "name": "Momma's House",
+        "url": "https://open.spotify.com/album/2DDw1TjaJ1wB8Lucp739Sl"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "Momma\u2019s House",
+      "url": "https://open.spotify.com/track/70tWEiXWEVioPLKOF7BzIW"
     },
     {
       "album": {
@@ -2740,7 +2776,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 217933,
       "name": "Nashville Without You",
       "url": "https://open.spotify.com/track/5bsePSEQIobPxaQIVwRZKf"
@@ -2758,7 +2794,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215933,
       "name": "Nashville, TN",
       "url": "https://open.spotify.com/track/0fLeL6TVmrMgDMW1iC1puo"
@@ -2928,7 +2964,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 174692,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/5saf8apVFYfrvplj03r6Xb"
@@ -3022,7 +3058,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 223160,
       "name": "Petty Fool",
       "url": "https://open.spotify.com/track/1p6Lj9HakDxYmwA6zudSKM"
@@ -3044,7 +3080,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 207064,
       "name": "Play Ball",
       "url": "https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml"
@@ -3142,7 +3178,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 241160,
       "name": "Red Satin Dress",
       "url": "https://open.spotify.com/track/0k7sELmj9D9rNtVWCyCw4h"
@@ -3204,7 +3240,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 153744,
       "name": "rooms.",
       "url": "https://open.spotify.com/track/1LFxcgibKQBrTGlYzjdGhL"
@@ -3360,7 +3396,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 139041,
       "name": "self care.",
       "url": "https://open.spotify.com/track/6RgUCaT2kLxy6o1XCOWQjQ"
@@ -3556,7 +3592,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 191453,
       "name": "Somethin' In The Water",
       "url": "https://open.spotify.com/track/1NwgDcWmMOMikTwZ60Oh06"
@@ -3664,7 +3700,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212300,
       "name": "Southern Soul",
       "url": "https://open.spotify.com/track/4Mp3u4Eawj9RUbcp8PgAh7"
@@ -3718,7 +3754,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 211377,
       "name": "Sunrise, Sunburn, Sunset",
       "url": "https://open.spotify.com/track/0kNlf24bhUUKvJ2jkBsH3I"
@@ -4012,7 +4048,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 233000,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/1WAsZTfZMtOyhtDoCtw7Tq"
@@ -4236,7 +4272,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 263480,
       "name": "These Days",
       "url": "https://open.spotify.com/track/55OrXbHnrlFw9wCRg6Nf4Q"
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 253102,
       "name": "Till You're Grown",
       "url": "https://open.spotify.com/track/6hBgYys8z94rDSchebUYTm"
@@ -4356,7 +4392,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 196160,
       "name": "Time Honored Tradition",
       "url": "https://open.spotify.com/track/4XqD2pfvBycih1dHLbW2rG"
@@ -4432,7 +4468,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208523,
       "name": "Two Birds",
       "url": "https://open.spotify.com/track/4dXYpeXEDUAB9PONc1hT1A"
@@ -4494,7 +4530,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181320,
       "name": "Uphill",
       "url": "https://open.spotify.com/track/2U8tmNAhE9LzmEoMABd5rk"
@@ -4606,7 +4642,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188886,
       "name": "We Were",
       "url": "https://open.spotify.com/track/4t64dPfqlZa7fFGPSKavId"
@@ -4892,7 +4928,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212640,
       "name": "Wild",
       "url": "https://open.spotify.com/track/0b1lMyBxI1KmBkROLwDz05"
@@ -4928,7 +4964,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172640,
       "name": "Wink",
       "url": "https://open.spotify.com/track/3npzejFbPBy7sJIbkvTuZl"
@@ -4950,6 +4986,24 @@
       "duration_ms": 178603,
       "name": "winner.",
       "url": "https://open.spotify.com/track/0nac6fGT0ROzUgG56c9RMZ"
+    },
+    {
+      "album": {
+        "name": "Year & Some Change",
+        "url": "https://open.spotify.com/album/0pseNxQLxspnPFtnvS2qis"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Year & Some Change",
+      "url": "https://open.spotify.com/track/783NY7XpsF8JFa6kWeED5I"
     },
     {
       "album": {

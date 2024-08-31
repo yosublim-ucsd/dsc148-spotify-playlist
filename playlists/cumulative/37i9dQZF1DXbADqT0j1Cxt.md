@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-646 songs - 19 hr 33 min
+650 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Lykkeliten](https://open.spotify.com/track/07X0LZ7T0zhD19JbEy6AIl) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Lykkeliten](https://open.spotify.com/album/5gwWIYuK5VQJxznDCDciQ0) | 1:51 | 2023-09-22 |  |
 | [Magical Dreamtime](https://open.spotify.com/track/75aq1o4kjHR4OE9FVvnKji) | [Elsa Widerberg](https://open.spotify.com/artist/7vnRkaKl9mRzGx5TGmaXme) | [Magical Dreamtime](https://open.spotify.com/album/4OiHMSyOjnpRsDeYhvpzJk) | 1:59 | 2021-10-07 | 2024-03-29 |
 | [Magical Kitties](https://open.spotify.com/track/2J2wzEUVjWCFbDsZHrLtPh) | [Jimmy Rockford](https://open.spotify.com/artist/31D0l33ag3WnAe6BtrXK7e) | [Kitties](https://open.spotify.com/album/1wg19rtaYLpzdc2dRjomdW) | 2:26 | 2021-10-07 | 2024-03-29 |
+| [Magical Night](https://open.spotify.com/track/1uPwR87YlNgWLBqGFiOV4f) | [Lareta Lund](https://open.spotify.com/artist/5XKKjiDgEp3rBJEJbU4woy) | [Magical Night](https://open.spotify.com/album/0JD0F8LSIpI4zwTJfD2mGX) | 2:37 | 2024-08-30 |  |
 | [Maltipoo](https://open.spotify.com/track/4DKDwLChzGt2UmWaw81iFb) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Maltipoo](https://open.spotify.com/album/1XfgQ4haboDIQnUrLs2G5s) | 1:51 | 2024-05-24 |  |
 | [Mana skaistā meita](https://open.spotify.com/track/768ZCifbuF19PJYTGK5oC0) | [Sofia Ilves](https://open.spotify.com/artist/6uzwRsbAQINtnVfKKIbEs7) | [Mana skaistā meita](https://open.spotify.com/album/7xeAspmTdQ4miPemMvD0On) | 1:25 | 2021-10-07 | 2023-08-19 |
 | [Many moons ago](https://open.spotify.com/track/2K85RbA7wlm8OV707sUWrV) | [Nora Jean Anderson](https://open.spotify.com/artist/3JVUpY0InBwDvapr03rtWb) | [Many moons ago](https://open.spotify.com/album/5o9afqrXLp2iDaQfwK9qbv) | 1:14 | 2021-10-07 | 2024-04-19 |
@@ -369,6 +370,7 @@
 | [My Bonnie lies over the ocean](https://open.spotify.com/track/7ClgKhsbFMHT6SctPSBezr) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [My Bonnie lies over the ocean](https://open.spotify.com/album/2oF4b0hzO8kR2uAFHRlFji) | 0:58 | 2021-10-07 | 2022-03-18 |
 | [My Deer Friend](https://open.spotify.com/track/49EEQXTPYcKUeoBbXXCtcd) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [My Deer Friend](https://open.spotify.com/album/41qgkgJTMGPgJsSGfKQWOE) | 1:53 | 2023-08-10 |  |
 | [My Dream Castle](https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Dream Castle](https://open.spotify.com/album/7tjCZosYj0BoToFKrGxv2h) | 1:44 | 2023-06-08 |  |
+| [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-10-07 |  |
 | [My First Tooth](https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [My First Tooth](https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q) | 1:45 | 2022-11-25 |  |
 | [My Great\-Great\-Great Grandfather](https://open.spotify.com/track/0s5sRfIRGstws2SF4nEhSL) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [My Great\-Great\-Great Grandfather](https://open.spotify.com/album/7u69zaMN7vtMzebdVxP2QC) | 2:09 | 2022-04-19 | 2023-03-18 |
@@ -376,6 +378,7 @@
 | [My Little Angel](https://open.spotify.com/track/7q2niOhFitCLwzgYM1arxn) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [My Little Angel](https://open.spotify.com/album/4uuolQ8meACNGcHA8l5QgM) | 3:02 | 2021-10-07 | 2022-10-29 |
 | [My Little Musketeer](https://open.spotify.com/track/63KsY0VHBe1b78GLFu66rE) | [Agnes Widell](https://open.spotify.com/artist/6HpjNjCZmdoljjATAMaGHH) | [My Little Musketeer](https://open.spotify.com/album/1FY781TMk7oKgWieSLToXF) | 1:09 | 2021-10-07 | 2022-10-29 |
 | [My little sunshine](https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [My little sunshine](https://open.spotify.com/album/7b1bk1Vr4C32XOgm2f1LXt) | 1:41 | 2022-06-30 | 2023-06-09 |
+| [My Moonlight](https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [My Moonlight](https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS) | 2:37 | 2024-08-30 |  |
 | [My Neighbour Nellie](https://open.spotify.com/track/4p8dNTAfY9aYqbUxjOOvkq) | [Vivian Hutchings](https://open.spotify.com/artist/05nMNToGOyGhqH0OrutEBf) | [My Neighbour Nellie](https://open.spotify.com/album/6G0FfEQPyxz2q58x92BDQK) | 1:31 | 2021-10-07 |  |
 | [My Night Story](https://open.spotify.com/track/2sDtiIjbQvJ0JP59zwPcnF) | [Vanessa Cino](https://open.spotify.com/artist/7Mw9GnKY2QTjLQQ06uuD8s) | [My Night Story](https://open.spotify.com/album/4elJsUiULx1qOYqh1aFLj2) | 1:52 | 2022-06-30 |  |
 | [My Puppy](https://open.spotify.com/track/1ylOYsOWTCxozJJ4eOW1mY) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [My Puppy](https://open.spotify.com/album/0H8uzKnCMYXFpvzmHNXSH4) | 1:21 | 2023-11-17 |  |
@@ -648,6 +651,7 @@
 | [Yankee Doodle](https://open.spotify.com/track/2T7N8qmL56DFtgZxqnMi2A) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Yankee Doodle](https://open.spotify.com/album/3RWPKKlmz1budJpmnVMWZ9) | 1:39 | 2024-05-03 |  |
 | [Yankee Doodle](https://open.spotify.com/track/1FIlBc2LI8yjVvhRokhV9Y) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 1:55 | 2021-10-07 | 2023-01-13 |
 | [Yankee Doodle](https://open.spotify.com/track/1YnMwAi7bVwAFyAWhrzTt9) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Lullaby and Goodnight](https://open.spotify.com/album/4UnLWekJt1qqHlniVVLeEH) | 1:25 | 2022-10-07 | 2024-04-19 |
+| [Yellow & Blue](https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Yellow & Blue](https://open.spotify.com/album/6E564DHa5OzweC9UhpAOc9) | 2:19 | 2024-08-30 |  |
 | [Yellow Dog](https://open.spotify.com/track/0VYLXDoB1e0Ti6nwvKQbir) | [Mary Sarah Foster](https://open.spotify.com/artist/7f9f0puySLuEpqksG34Jv3) | [Zoo Mobile](https://open.spotify.com/album/4KWDSx6gz1qdxSUE0vxsHt) | 1:56 | 2021-10-07 | 2024-04-19 |
 | [You Are Feeling Sleepy](https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [You Are Feeling Sleepy](https://open.spotify.com/album/6K2t5rV4eSuFpkZA2ofwP5) | 1:27 | 2024-03-01 |  |
 | [Your First Steps](https://open.spotify.com/track/2BHWzwMuxtNRJ3J36GCOkF) | [Lova Carling](https://open.spotify.com/artist/7mZRGYwWF15QNqKAG9hNCI) | [My Little Toddler](https://open.spotify.com/album/1sXPqApeZ3FPB134f9N1Vj) | 2:10 | 2022-10-07 |  |

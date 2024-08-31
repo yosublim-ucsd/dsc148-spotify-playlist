@@ -1,12 +1,12 @@
 {
   "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Olivia Addams",
-  "num_followers": 55432,
+  "num_followers": 55464,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtDhUAAAAADcnZpUv1fT6vCbqu9hcgfC",
+  "snapshot_id": "ZtGBpAAAAAB91hXwX2aBMKkdtTnPVAzI",
   "tracks": [
     {
       "added_at": "2024-08-29 21:00:00",
@@ -823,6 +823,26 @@
       "duration_ms": 182430,
       "name": "Nu \u0218tii",
       "url": "https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR"
+    },
+    {
+      "added_at": "2024-08-30 08:24:04",
+      "album": {
+        "name": "Scena vie\u021bii",
+        "url": "https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH"
+      },
+      "artists": [
+        {
+          "name": "Cleopatra Stratan",
+          "url": "https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG"
+        },
+        {
+          "name": "Pavel Stratan",
+          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Scena vie\u021bii",
+      "url": "https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk"
     },
     {
       "added_at": "2024-08-29 21:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Zero 9:36",
-  "num_followers": 367152,
+  "num_followers": 367237,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Here's To The Years",
-        "url": "https://open.spotify.com/album/4rDmjLJ0zzV6HNEF53rEPu"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 151691,
-      "name": "Here's To The Years",
-      "url": "https://open.spotify.com/track/5LZxLEQ2KIGcBKBC3KDETk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Dogs Of War",
         "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Here's To The Years",
+        "url": "https://open.spotify.com/album/4rDmjLJ0zzV6HNEF53rEPu"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 151691,
+      "name": "Here's To The Years",
+      "url": "https://open.spotify.com/track/5LZxLEQ2KIGcBKBC3KDETk"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Hungry For Life (feat. Chris Daughtry of Daughtry)",
         "url": "https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 223724,
       "name": "Nothing Left (The Fool)",
       "url": "https://open.spotify.com/track/6Re9ybEa3yRtEOXCyrkkv1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 219676,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Ghost Code",
         "url": "https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 218600,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 219676,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1399,26 +1399,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
+        "name": "Just Too Much",
+        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Aaron Pauley",
-          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
         }
       ],
-      "duration_ms": 208054,
-      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
+      "duration_ms": 226846,
+      "name": "Just Too Much",
+      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1443,34 +1435,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Just Too Much",
-        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
+        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
       },
       "artists": [
         {
-          "name": "Tremonti",
-          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
-        }
-      ],
-      "duration_ms": 226846,
-      "name": "Just Too Much",
-      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Bring Me Down",
-        "url": "https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv"
-      },
-      "artists": [
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
         }
       ],
-      "duration_ms": 233397,
-      "name": "Bring Me Down",
-      "url": "https://open.spotify.com/track/5lJJvdhus9lSuIro4tlOOp"
+      "duration_ms": 208054,
+      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1491,6 +1475,38 @@
       "duration_ms": 210483,
       "name": "DOOMED",
       "url": "https://open.spotify.com/track/3G43Icakme11FuGAruWrq8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Get Your Shit Together",
+        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 280980,
+      "name": "Get Your Shit Together",
+      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 233397,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/5lJJvdhus9lSuIro4tlOOp"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Get Your Shit Together",
-        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 280980,
-      "name": "Get Your Shit Together",
-      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Horses In A Dream",
         "url": "https://open.spotify.com/album/6Ca8lM5YZmtmQJZqFl9GpY"
       },
@@ -1571,6 +1571,22 @@
       "duration_ms": 184464,
       "name": "Horses In A Dream",
       "url": "https://open.spotify.com/track/0QTnrvAOdpW98lSdowjwHM"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 179876,
       "name": "Guilty (feat. DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "One Foot In The Grave",
-        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 222153,
-      "name": "One Foot In The Grave",
-      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1643,26 +1643,6 @@
       "duration_ms": 187234,
       "name": "crying",
       "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
-        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        },
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 214735,
-      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
-      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1719,6 +1699,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
       },
@@ -1731,22 +1731,6 @@
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Nobody\u2019s",
-        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1767,38 +1751,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
+        "name": "Nobody\u2019s",
+        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        },
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 212310,
-      "name": "Paralyzed (feat. Attack Attack!)",
-      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "The Joke / Deranged",
-        "url": "https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "The Joke",
-      "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1831,6 +1795,42 @@
       "duration_ms": 201928,
       "name": "Belly Up",
       "url": "https://open.spotify.com/track/1IZR2yJzCjHkaxbv5rCdP8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Joke / Deranged",
+        "url": "https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 212310,
+      "name": "Paralyzed (feat. Attack Attack!)",
+      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 165868,
-      "name": "MEDZ",
-      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "HOSTAGE",
         "url": "https://open.spotify.com/album/18N3d1vS0mniyI8VUFInaL"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 196243,
       "name": "HOSTAGE",
       "url": "https://open.spotify.com/track/1VHZgaqB64B497QL7RyrUQ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
+        "name": "Heart of Thorns",
+        "url": "https://open.spotify.com/album/4WxEFzNhrbfQYCT9wshwSV"
       },
       "artists": [
         {
-          "name": "Ocean Grove",
-          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+          "name": "Jager Henry",
+          "url": "https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn"
         }
       ],
-      "duration_ms": 161407,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+      "duration_ms": 149327,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/0bd2IBJCwqemeDmmpylmAV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2115,22 +2115,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "In The Mean Time (feat. Ash Costello)",
-        "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
       },
       "artists": [
         {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "New Years Day",
-          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
         }
       ],
-      "duration_ms": 213000,
-      "name": "In The Mean Time (feat. Ash Costello)",
-      "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
+      "duration_ms": 161407,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2155,6 +2151,26 @@
       "duration_ms": 207230,
       "name": "INSIGNIFICANT OTHER feat. Lance Vanley & Sam Canty",
       "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "In The Mean Time (feat. Ash Costello)",
+        "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "New Years Day",
+          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "In The Mean Time (feat. Ash Costello)",
+      "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2195,22 +2211,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Heart of Thorns",
-        "url": "https://open.spotify.com/album/4WxEFzNhrbfQYCT9wshwSV"
-      },
-      "artists": [
-        {
-          "name": "Jager Henry",
-          "url": "https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn"
-        }
-      ],
-      "duration_ms": 149327,
-      "name": "Bite Down",
-      "url": "https://open.spotify.com/track/0bd2IBJCwqemeDmmpylmAV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ"
       },
@@ -2239,6 +2239,22 @@
       "duration_ms": 196082,
       "name": "Blood On The Walls",
       "url": "https://open.spotify.com/track/5uxsyPKNnLomNE1imPOj3s"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "EMPIRICAL",
+        "url": "https://open.spotify.com/album/7j4QFN64Kzqq4gcKaySMQ4"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "EMPIRICAL",
+      "url": "https://open.spotify.com/track/2Rr4BteIDhvPNSntiLJerH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2299,22 +2315,6 @@
       "duration_ms": 183082,
       "name": "Through You",
       "url": "https://open.spotify.com/track/3ZBmgfcNtS6OvEXoy7yCa4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "EMPIRICAL",
-        "url": "https://open.spotify.com/album/7j4QFN64Kzqq4gcKaySMQ4"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "EMPIRICAL",
-      "url": "https://open.spotify.com/track/2Rr4BteIDhvPNSntiLJerH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2551,6 +2551,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/3msfdHIeydtSujdZEOlQWt"
       },
@@ -2671,22 +2687,6 @@
       "duration_ms": 249120,
       "name": "Wild In Our Ways",
       "url": "https://open.spotify.com/track/63EKZIBEDC3iLxzG4VXMxR"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Radiance",
-        "url": "https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9"
-      },
-      "artists": [
-        {
-          "name": "Seven Hours After Violet",
-          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Radiance",
-      "url": "https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "SIDEWAYS",
-        "url": "https://open.spotify.com/album/6BZM8lHhX0eDkW6O1zzOU0"
-      },
-      "artists": [
-        {
-          "name": "FLAT BLACK",
-          "url": "https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo"
-        }
-      ],
-      "duration_ms": 219745,
-      "name": "SIDEWAYS",
-      "url": "https://open.spotify.com/track/4KmIfy4W1l7W9xqXxdou7R"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Welcome to the Nightmare",
         "url": "https://open.spotify.com/album/191497loZGrgPKexT4uvX6"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 186646,
       "name": "Welcome to the Nightmare",
       "url": "https://open.spotify.com/track/5v01WFtEMOQZFS7LcEwILO"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "SIDEWAYS",
+        "url": "https://open.spotify.com/album/6BZM8lHhX0eDkW6O1zzOU0"
+      },
+      "artists": [
+        {
+          "name": "FLAT BLACK",
+          "url": "https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo"
+        }
+      ],
+      "duration_ms": 219745,
+      "name": "SIDEWAYS",
+      "url": "https://open.spotify.com/track/4KmIfy4W1l7W9xqXxdou7R"
     },
     {
       "added_at": "2024-08-23 04:00:00",

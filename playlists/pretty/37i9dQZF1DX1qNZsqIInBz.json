@@ -1,13 +1,29 @@
 {
   "description": "smooth drifting only",
-  "num_followers": 402768,
+  "num_followers": 403341,
   "original_name": "cosmic phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAACMu/nSSotnwle1Q3SY+8j3",
+  "snapshot_id": "ZtHUegAAAACWp9HQm2ol7NuJ3Uxa+3s1",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "duration_ms": 115906,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
@@ -133,20 +149,20 @@
       "url": "https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-30 14:17:30",
       "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1"
+        "name": "FUNK UNIVERSO",
+        "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
       },
       "artists": [
         {
-          "name": "Ogryzek",
-          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+          "name": "Irokz",
+          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
         }
       ],
-      "duration_ms": 115906,
-      "name": "AURA",
-      "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
+      "duration_ms": 127500,
+      "name": "FUNK UNIVERSO",
+      "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -459,6 +475,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "The Perfect Phonk",
+        "url": "https://open.spotify.com/album/0F1Ayes06VaRJjmfrmu56q"
+      },
+      "artists": [
+        {
+          "name": "Lorean",
+          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
+        }
+      ],
+      "duration_ms": 186041,
+      "name": "The Perfect Phonk",
+      "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 172455,
       "name": "ENDLESS UNIVERSE",
       "url": "https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "The Perfect Phonk",
-        "url": "https://open.spotify.com/album/0F1Ayes06VaRJjmfrmu56q"
-      },
-      "artists": [
-        {
-          "name": "Lorean",
-          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
-        }
-      ],
-      "duration_ms": 186041,
-      "name": "The Perfect Phonk",
-      "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -687,6 +703,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/63t2KnssSonLbVh4WtwjhI"
+      },
+      "artists": [
+        {
+          "name": "skyfall beats",
+          "url": "https://open.spotify.com/artist/6ORJGSfnPFkJFFs5wXEClO"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/4YR40xH1Zxq1RKOxk49YcO"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "See U",
         "url": "https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0"
       },
@@ -779,22 +811,6 @@
       "duration_ms": 144631,
       "name": "ZEMLYA",
       "url": "https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "nightmares",
-        "url": "https://open.spotify.com/album/63t2KnssSonLbVh4WtwjhI"
-      },
-      "artists": [
-        {
-          "name": "skyfall beats",
-          "url": "https://open.spotify.com/artist/6ORJGSfnPFkJFFs5wXEClO"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "nightmares",
-      "url": "https://open.spotify.com/track/4YR40xH1Zxq1RKOxk49YcO"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 172800,
       "name": "Next Day Was Yesterday",
       "url": "https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/78d6bKLGA4IaHS0WLKqGIk"
-      },
-      "artists": [
-        {
-          "name": "BLESSED MANE",
-          "url": "https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF"
-        }
-      ],
-      "duration_ms": 186370,
-      "name": "Lost Orion",
-      "url": "https://open.spotify.com/track/6kzg2WZovLAE3ZkvsW9YDK"
     },
     {
       "added_at": "2024-08-16 04:00:00",

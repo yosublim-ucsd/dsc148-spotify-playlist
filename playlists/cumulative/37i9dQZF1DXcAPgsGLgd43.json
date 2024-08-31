@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212020,
       "name": "Ahamprehma",
       "url": "https://open.spotify.com/track/5VJMbEWm0WBa9Sx9jvSReZ"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 144023,
       "name": "Bim Boom Bam",
       "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Cohete",
+        "url": "https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211384,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL"
+    },
+    {
+      "album": {
         "name": "Colombiana",
         "url": "https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA"
       },
@@ -1768,6 +1786,28 @@
       "duration_ms": 167619,
       "name": "Dale",
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
+    },
+    {
+      "album": {
+        "name": "Dale Bien Duro",
+        "url": "https://open.spotify.com/album/7sF73l2hJQgbnRJmdy3xDE"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        },
+        {
+          "name": "Dazed",
+          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166151,
+      "name": "Dale Bien Duro",
+      "url": "https://open.spotify.com/track/3A0SJSbFpecaK6uJtcaBlQ"
     },
     {
       "album": {
@@ -2315,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Enamorando",
+        "url": "https://open.spotify.com/album/2DkEc0HxOp6CfLOOgoUrXW"
+      },
+      "artists": [
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Enamorando",
+      "url": "https://open.spotify.com/track/58iaVWJ2Zwdge5MNRaWT5Y"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
       },
@@ -2392,7 +2450,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 150967,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
@@ -4582,7 +4640,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156416,
       "name": "PE$O",
       "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
@@ -4608,7 +4666,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 123809,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/4pW0EymAfv9nGZhEcRT1Q8"
@@ -6308,7 +6366,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 157377,
       "name": "Viper",
       "url": "https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n"

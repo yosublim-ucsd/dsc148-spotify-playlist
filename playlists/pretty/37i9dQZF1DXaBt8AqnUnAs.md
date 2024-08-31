@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,427 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,423 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Flerte](https://open.spotify.com/track/2psH9Fga5Tzmv56JlubiNn) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [A$TRO PITBULL](https://open.spotify.com/artist/2rhPASsMJ3MBzKdbrF9UMJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 2:51 |
 | 75 | [Preciso De Você](https://open.spotify.com/track/2ptwCM76W3PVy7olg5IW3x) | [WASHZL](https://open.spotify.com/artist/3lLoeUrCUfgOaefwgp8opm), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Preciso De Você](https://open.spotify.com/album/5AEw6Oz304ISasMskpCXO6) | 2:53 |
 
-Snapshot ID: `Zsf7bAAAAAA7WdJEoQGxueO8jxgiXpW/`
+Snapshot ID: `ZtE17AAAAADM82VlagMXLD2hppgYB72H`

@@ -2,7 +2,7 @@
 
 ### [This Is Los Farmerz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32Ff9v)
 
-> This Is Los Farmerz\. Los temas esenciales, todos en una lista.
+> This is Los Farmerz\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 10 min
 

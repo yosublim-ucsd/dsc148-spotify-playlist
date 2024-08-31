@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Warren Zeiders",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Russell Dickerson",
   "name": "New Boots",
   "tracks": [
     {
@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173061,
       "name": "Bones",
       "url": "https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA"
@@ -22861,6 +22861,24 @@
     },
     {
       "album": {
+        "name": "Bones The EP",
+        "url": "https://open.spotify.com/album/4DEZ73SNPiNkSLxQvQhD0c"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198158,
+      "name": "Miss You So (Letters To You)",
+      "url": "https://open.spotify.com/track/5jKoCHR5URBRhPjlxTAyCG"
+    },
+    {
+      "album": {
         "name": "Missin' You",
         "url": "https://open.spotify.com/album/73hHUVeQ0AysMiXw062b6Q"
       },
@@ -25885,6 +25903,24 @@
     },
     {
       "album": {
+        "name": "One That You Want",
+        "url": "https://open.spotify.com/album/7EtWMg473Fz7wzBSwcOxyz"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178275,
+      "name": "One That You Want",
+      "url": "https://open.spotify.com/track/2iHZtUsHdaysPlXuWWkadb"
+    },
+    {
+      "album": {
         "name": "One Thing At A Time (Sampler)",
         "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
       },
@@ -27432,6 +27468,24 @@
       "duration_ms": 184358,
       "name": "Quit on Me",
       "url": "https://open.spotify.com/track/35XbNpnb6d0DM0FRneJtZx"
+    },
+    {
+      "album": {
+        "name": "Quit You",
+        "url": "https://open.spotify.com/album/5DubA7RsmIwJmWu8NAQrQU"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/1DPkLVuWJKqbUafPFOU7fZ"
     },
     {
       "album": {
@@ -33993,6 +34047,24 @@
     },
     {
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/69TEoHjimLeHc1RiRA3rUI"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Hill",
+      "url": "https://open.spotify.com/track/7EyYa7xEB7outAa7S9Vgxd"
+    },
+    {
+      "album": {
         "name": "Wyoming",
         "url": "https://open.spotify.com/album/36B0JI321NNFfqa0tHAX1P"
       },
@@ -35532,6 +35604,24 @@
       "duration_ms": 170413,
       "name": "Town Home",
       "url": "https://open.spotify.com/track/3oYzZC4WuE9Ymqcp91cGzk"
+    },
+    {
+      "album": {
+        "name": "Train of Thought",
+        "url": "https://open.spotify.com/album/4kFXUiQZPAjH7cXzvtVj1d"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182318,
+      "name": "Train of Thought",
+      "url": "https://open.spotify.com/track/5tIsdN7zL2cRjpujyTvlpy"
     },
     {
       "album": {
@@ -37144,6 +37234,28 @@
       "duration_ms": 180906,
       "name": "We Were Like",
       "url": "https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY"
+    },
+    {
+      "album": {
+        "name": "We Were Never Gonna (with Abbey Cone)",
+        "url": "https://open.spotify.com/album/0wGjX2LDYo1MFX5WHaKGie"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195368,
+      "name": "We Were Never Gonna (with Abbey Cone)",
+      "url": "https://open.spotify.com/track/7sAzQLOa2WXtsvEUDPExIF"
     },
     {
       "album": {

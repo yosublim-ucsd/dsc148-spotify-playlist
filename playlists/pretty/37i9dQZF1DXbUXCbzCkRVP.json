@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 53968,
+  "num_followers": 54012,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Country, Blues & More",
-        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
-      },
-      "artists": [
-        {
-          "name": "Paul Lenart",
-          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
-        },
-        {
-          "name": "Duke Levine",
-          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
-        }
-      ],
-      "duration_ms": 133481,
-      "name": "Blue Dreamer",
-      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Mr. B.",
         "url": "https://open.spotify.com/album/02dBZeFlgUrHhUNNZMSCOs"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 405346,
       "name": "Mr. B.",
       "url": "https://open.spotify.com/track/3AuSpsrM5g5XHqC8LTIMuE"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Country, Blues & More",
+        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
+      },
+      "artists": [
+        {
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        },
+        {
+          "name": "Duke Levine",
+          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
+        }
+      ],
+      "duration_ms": 133481,
+      "name": "Blue Dreamer",
+      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Okie Dokie Stomp",
-      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Okie Dokie Stomp",
+      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Sulfur Blues",
-        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chiarini",
-          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "The Sulfur Blues",
-      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Evans' Shuffle",
-      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Go Bo Diddley",
         "url": "https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 177120,
       "name": "The Clock Strikes Twelve",
       "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Evans' Shuffle",
+      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "R&B From The Marquee",
-        "url": "https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na"
-      },
-      "artists": [
-        {
-          "name": "Alexis Korner",
-          "url": "https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/0lre3EEoygX3PQ0Qi7dDbD"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Saga Blues: Chicago Slide Guitar Masters \"From Tampa Red to Elmore James\"",
         "url": "https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Southern Blues Vol.4",
-        "url": "https://open.spotify.com/album/4apehfV2CL3eyearMCibIf"
+        "name": "R&B From The Marquee",
+        "url": "https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na"
       },
       "artists": [
         {
-          "name": "Big Bill Broonzy",
-          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
+          "name": "Alexis Korner",
+          "url": "https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Guitar Shuffle",
-      "url": "https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N"
+      "duration_ms": 151875,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/0lre3EEoygX3PQ0Qi7dDbD"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1347,6 +1331,22 @@
       "duration_ms": 161853,
       "name": "Blues For The Red Boy",
       "url": "https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Southern Blues Vol.4",
+        "url": "https://open.spotify.com/album/4apehfV2CL3eyearMCibIf"
+      },
+      "artists": [
+        {
+          "name": "Big Bill Broonzy",
+          "url": "https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Guitar Shuffle",
+      "url": "https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N"
     },
     {
       "added_at": "2024-05-29 07:23:14",

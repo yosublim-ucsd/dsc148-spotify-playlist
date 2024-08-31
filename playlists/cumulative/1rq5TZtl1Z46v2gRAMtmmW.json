@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 234231,
       "name": "Air Tight",
       "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
@@ -406,6 +406,36 @@
       "duration_ms": 245208,
       "name": "ATK",
       "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
+    },
+    {
+      "album": {
+        "name": "The Learning of Urgency Remixes",
+        "url": "https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        },
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271976,
+      "name": "Atlantis - Model Man Remix",
+      "url": "https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT"
     },
     {
       "album": {
@@ -5458,7 +5488,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 289846,
       "name": "These Dreams are Killing Me",
       "url": "https://open.spotify.com/track/3l3kfVCK5rhMlLzVw8ZYzg"
@@ -5746,6 +5776,24 @@
       "duration_ms": 274266,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE"
+    },
+    {
+      "album": {
+        "name": "Infinite Health",
+        "url": "https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
     },
     {
       "album": {

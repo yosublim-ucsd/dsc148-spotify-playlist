@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 26182,
+  "num_followers": 26190,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Mujer de Albahaca",
-        "url": "https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA"
+        "name": "Amor en Zamba",
+        "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
       },
       "artists": [
         {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Carolina Centuri\u00f3n",
+          "url": "https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS"
         }
       ],
-      "duration_ms": 151482,
-      "name": "Los Amanecidos",
-      "url": "https://open.spotify.com/track/7Kwy13s6V3R3Z258OvDBjH"
+      "duration_ms": 263620,
+      "name": "Amor en Zamba",
+      "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Amor en Zamba",
-        "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
+        "name": "Mujer de Albahaca",
+        "url": "https://open.spotify.com/album/3EhTjOrp4JDpBECSe0B8OA"
       },
       "artists": [
         {
-          "name": "Carolina Centuri\u00f3n",
-          "url": "https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS"
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
         }
       ],
-      "duration_ms": 263620,
-      "name": "Amor en Zamba",
-      "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
+      "duration_ms": 151482,
+      "name": "Los Amanecidos",
+      "url": "https://open.spotify.com/track/7Kwy13s6V3R3Z258OvDBjH"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
-      },
-      "artists": [
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "Florcita de Card\u00f3n",
-      "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Cr\u00eda",
         "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
       },
@@ -871,34 +851,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
-        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
-      },
-      "artists": [
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        },
         {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+      "duration_ms": 231626,
+      "name": "Florcita de Card\u00f3n",
+      "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -923,22 +891,50 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Uno M\u00e1s 6",
-        "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
       },
       "artists": [
         {
-          "name": "Paola Arias",
-          "url": "https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt"
-        },
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
         }
       ],
-      "duration_ms": 143346,
-      "name": "Campo Afuera",
-      "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
+        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Roble 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
+      },
+      "artists": [
+        {
+          "name": "Mery Murua",
+          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
+        }
+      ],
+      "duration_ms": 299978,
+      "name": "Zamba azul",
+      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -959,18 +955,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Roble 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
+        "name": "Uno M\u00e1s 6",
+        "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
       },
       "artists": [
         {
-          "name": "Mery Murua",
-          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
+          "name": "Paola Arias",
+          "url": "https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt"
+        },
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
         }
       ],
-      "duration_ms": 299978,
-      "name": "Zamba azul",
-      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
+      "duration_ms": 143346,
+      "name": "Campo Afuera",
+      "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "La Olvidada",
+        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 154977,
+      "name": "La Olvidada",
+      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Rosa de los Vientos",
         "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 286627,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "La Olvidada",
-        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 154977,
-      "name": "La Olvidada",
-      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Humanas Voces",
         "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "La Noche Sin Ti",
         "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 284605,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "La Penadora",
+        "url": "https://open.spotify.com/album/0KPZPiVFRU5XnzkN0xcrbw"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 143018,
+      "name": "La Penadora",
+      "url": "https://open.spotify.com/track/2ASlFOJiFreBzzpRIFyFZk"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 235245,
       "name": "La Jardinera",
       "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "La Penadora",
-        "url": "https://open.spotify.com/album/0KPZPiVFRU5XnzkN0xcrbw"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 143018,
-      "name": "La Penadora",
-      "url": "https://open.spotify.com/track/2ASlFOJiFreBzzpRIFyFZk"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Pajaro Rojo",
-        "url": "https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL"
-      },
-      "artists": [
-        {
-          "name": "Paola Bernal",
-          "url": "https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f"
-        }
-      ],
-      "duration_ms": 299363,
-      "name": "Maria Sabina",
-      "url": "https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Anidar",
         "url": "https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 156368,
       "name": "Astilla de Tus Montes",
       "url": "https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Pajaro Rojo",
+        "url": "https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL"
+      },
+      "artists": [
+        {
+          "name": "Paola Bernal",
+          "url": "https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f"
+        }
+      ],
+      "duration_ms": 299363,
+      "name": "Maria Sabina",
+      "url": "https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Ojitos Lindos",
-        "url": "https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Joyas",
         "url": "https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 189040,
       "name": "Quisiera Amarte Menos",
       "url": "https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Ojitos Lindos",
+        "url": "https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv"
     },
     {
       "added_at": "2024-08-16 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Najlepsze polskie przeboje 2023 roku\. Cover: Daria Zawiałow \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,325 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,319 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 41 | [NIE MA CIĘ](https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [PRELUDIUM](https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6) | 2:47 |
 | 42 | [Wracam do siebie](https://open.spotify.com/track/338LRKsi4plVEaLQEUlX06) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/4MfJ9QgkI22VDUbTfn43uW) | 2:54 |
 | 43 | [Co i tak nadejdzie](https://open.spotify.com/track/5HCKfxiRdjw6Zbr8VorNhY) | [SKUBAS](https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Co i tak nadejdzie](https://open.spotify.com/album/6CP39q3beW175i9AXUZDfI) | 3:28 |
-| 44 | [PIĘKNI LUDZIE](https://open.spotify.com/track/4Cbmh4rI5IZp9VBPrhEVbR) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH) | [PIĘKNI LUDZIE](https://open.spotify.com/album/7Fy8Vbn5AiJdZj9fxGTf2P) | 3:25 |
+| 44 | [PIĘKNI LUDZIE](https://open.spotify.com/track/4Cbmh4rI5IZp9VBPrhEVbR) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [PIĘKNI LUDZIE](https://open.spotify.com/album/7Fy8Vbn5AiJdZj9fxGTf2P) | 3:25 |
 | 45 | [Całe Lata](https://open.spotify.com/track/5A2baHJCFwwewI5z0zkXdo) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:57 |
 | 46 | [Papito](https://open.spotify.com/track/1MP4dcd801ywMNnwEPzOQo) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy) | [Papito](https://open.spotify.com/album/0ACKf50h5DdsDLu5ixfnvT) | 2:03 |
 | 47 | [xoxo](https://open.spotify.com/track/0v2ZTJJL9bWlwsHhexKhdu) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [xoxo](https://open.spotify.com/album/7esKQEIMjkjGkQLCfYbquy) | 3:01 |

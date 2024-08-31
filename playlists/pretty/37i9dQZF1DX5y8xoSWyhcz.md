@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,069 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,077 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [coloured concrete](https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [coloured concrete](https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT) | 3:10 |
-| 2 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
-| 3 | [Push Me 'Til I Break](https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Push Me 'Til I Break](https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY) | 3:01 |
-| 4 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 |
-| 5 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 6 | [Downtown Guy](https://open.spotify.com/track/7xFJjEjyXFC9zSMB9q8vFC) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Downtown Guy](https://open.spotify.com/album/7HKdr3NqliLM4EiD3twPC9) | 2:36 |
-| 7 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
-| 8 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 |
+| 2 | [A Little More](https://open.spotify.com/track/6oarSooSpTfMO8EmzJdm4P) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:38 |
+| 3 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
+| 4 | [Push Me 'Til I Break](https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Push Me 'Til I Break](https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY) | 3:01 |
+| 5 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 |
+| 6 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
+| 7 | [Downtown Guy](https://open.spotify.com/track/7xFJjEjyXFC9zSMB9q8vFC) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Downtown Guy](https://open.spotify.com/album/7HKdr3NqliLM4EiD3twPC9) | 2:36 |
+| 8 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 9 | [PARANOID](https://open.spotify.com/track/6SFKld0gd9xlOm3LRMVr6P) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [PARANOID](https://open.spotify.com/album/0R2a80cHrhulPnJM9m1jXc) | 3:09 |
 | 10 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 11 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 |
 | 125 | [Honeymoon](https://open.spotify.com/track/6lbV4fjdidtNPvjo0sGDZr) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeymoon](https://open.spotify.com/album/1Ux3c9n4YtI45ZvBZmllhs) | 3:17 |
 
-Snapshot ID: `ZsnwlQAAAACPDmrIu/Wt63EDPlEfmqLb`
+Snapshot ID: `ZtFDwAAAAABqHQ8/y23SBLWUI0ZFmxZA`

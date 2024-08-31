@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 152600,
       "name": "cirrostratus",
       "url": "https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi"
@@ -8524,7 +8524,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162013,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
@@ -12081,6 +12081,24 @@
     },
     {
       "album": {
+        "name": "People Need People",
+        "url": "https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6"
+      },
+      "artists": [
+        {
+          "name": "JOBA",
+          "url": "https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "People Need People",
+      "url": "https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl"
+    },
+    {
+      "album": {
         "name": "Orange Earth",
         "url": "https://open.spotify.com/album/7baGumqw9hgkjYIrizNnK8"
       },
@@ -12950,6 +12968,28 @@
       "duration_ms": 86739,
       "name": "Romantic Lover",
       "url": "https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs"
+    },
+    {
+      "album": {
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
       "album": {
@@ -17466,7 +17506,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183080,
       "name": "What Should I Do?",
       "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
@@ -17578,6 +17618,24 @@
       "duration_ms": 170645,
       "name": "whatshisname",
       "url": "https://open.spotify.com/track/0ylGPFvaBnucmwWpqv6IJh"
+    },
+    {
+      "album": {
+        "name": "What\u2019s This About (La La La La)",
+        "url": "https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130621,
+      "name": "What\u2019s This About (La La La La)",
+      "url": "https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je"
     },
     {
       "album": {

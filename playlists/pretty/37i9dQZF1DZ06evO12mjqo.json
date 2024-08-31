@@ -1,12 +1,12 @@
 {
-  "description": "This is Ghost. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 419753,
+  "description": "This is Ghost. The essential tracks, all in one playlist.",
+  "num_followers": 419896,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADUNOOEf1JRLn4RGqIhAo2f",
+  "snapshot_id": "Zs+6AAAAAAAQ72DfkfLVZbQwCXpwH4K4",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 378651,
-      "name": "Miasma - Live at the Forum / 2023",
-      "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infestissumam",
         "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 449240,
       "name": "Ghuleh / Zombie Queen",
       "url": "https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 378651,
+      "name": "Miasma - Live at the Forum / 2023",
+      "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 278106,
       "name": "Satan Prayer",
       "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "Nocturnal Me",
-      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 233373,
       "name": "Prime Mover",
       "url": "https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
     },
     {
       "added_at": null,

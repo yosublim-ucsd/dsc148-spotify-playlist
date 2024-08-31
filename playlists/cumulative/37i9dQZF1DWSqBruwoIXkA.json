@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this. Cover: Thomas Day",
+  "description": "heartbreak feels good in a place like this. Cover: Daniel Seavey",
   "name": "sad hour",
   "tracks": [
     {
@@ -2641,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Day That I Died",
+        "url": "https://open.spotify.com/album/2DvZGcbby4JpThkpLHaBuU"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "Day That I Died",
+      "url": "https://open.spotify.com/track/4p6MZZx5zusaVnlzclH8Ut"
+    },
+    {
+      "album": {
         "name": "Dead on the Beach",
         "url": "https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T"
       },
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
@@ -9566,7 +9584,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194000,
       "name": "Nothing To Miss",
       "url": "https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p"
@@ -9804,6 +9822,24 @@
       "duration_ms": 156120,
       "name": "One Without the Other",
       "url": "https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY"
+    },
+    {
+      "album": {
+        "name": "Other People",
+        "url": "https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "Other People",
+      "url": "https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Americana Icons](https://open.spotify.com/playlist/37i9dQZF1DX7tfbjVrTPnV)
 
-> Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
+> Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-274 songs - 17 hr 34 min
+275 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Girl She Used to Be](https://open.spotify.com/track/4AWa8GvbhIEhNoloXwamf8) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Tightrope](https://open.spotify.com/album/5ZGlQgonNIgNIZgB13aXvZ) | 2:50 | 2021-11-11 |  |
 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 | 2021-11-11 |  |
 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 | 2021-11-11 |  |
+| [Gotta Get Back](https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [I Am Shelby Lynne \(25th Anniversary Edition\)](https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi) | 3:39 | 2024-08-30 |  |
 | [Grave Angels](https://open.spotify.com/track/0K40ThmS9MtWOSXDdLhK9e) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/661leSKXPxGy6C9u6T6K9k) | 5:31 | 2021-11-11 | 2022-07-27 |
 | [Grave Angels](https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy) | 5:31 | 2023-08-11 | 2024-04-17 |
 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 | 2023-07-14 |  |
@@ -238,7 +239,7 @@
 | [The Muse](https://open.spotify.com/track/2eEj2cIxdU4wm47z7UBMIC) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d) | 3:21 | 2022-04-22 | 2024-04-19 |
 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 | 2021-11-11 |  |
 | [The Swimming Song](https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:27 | 2021-11-11 |  |
-| [The Train That Carried My Gal From Town](https://open.spotify.com/track/1tnL7UtGq2yOFuXaGWwChB) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Buddy and Jim](https://open.spotify.com/album/5oXxOJYI1XdrhiETXQ2fRK) | 3:54 | 2021-11-11 |  |
+| [The Train That Carried My Gal From Town](https://open.spotify.com/track/1tnL7UtGq2yOFuXaGWwChB) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Buddy and Jim](https://open.spotify.com/album/5oXxOJYI1XdrhiETXQ2fRK) | 3:54 | 2021-11-11 | 2024-08-31 |
 | [The Traveling Kind](https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch) | 3:40 | 2021-11-11 |  |
 | [The Way It Goes](https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 4:01 | 2021-11-11 |  |
 | [Things That I Lean On](https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 3:40 | 2021-11-11 |  |

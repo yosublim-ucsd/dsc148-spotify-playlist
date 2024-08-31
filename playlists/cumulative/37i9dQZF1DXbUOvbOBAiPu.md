@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Tijs Vanneste & Metejoor
 
-1,644 songs - 3 day 14 hr 54 min
+1,645 songs - 3 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-09 | 2024-05-17 |
 | [Brand New](https://open.spotify.com/track/6rNAMdpBADbhYLywtfIulS) | [Chloe Catara](https://open.spotify.com/artist/5sLvTFxeCy8vyXuFWHqb4R) | [Brand New](https://open.spotify.com/album/6l4voS5owJAeIR13st7Cwo) | 2:53 | 2024-07-04 | 2024-07-12 |
 | [Brave](https://open.spotify.com/track/0tOKogxPJqrWyOfMwUxzVt) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [Brave](https://open.spotify.com/album/3xrLrWk5Z2KexEwAT2Wu2Y) | 3:07 | 2024-08-16 | 2024-08-23 |
-| [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 | 2024-08-29 |  |
+| [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 | 2024-08-29 |  |
 | [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-06-06 | 2024-06-14 |
 | [BREAK!](https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BREAK!](https://open.spotify.com/album/3E4qKvlfR9AW9sq9jpY76d) | 2:14 | 2024-08-16 | 2024-08-23 |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-20 | 2024-06-28 |
@@ -318,6 +318,7 @@
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-23 | 2024-06-01 |
 | [CR600 \- Bonus Track](https://open.spotify.com/track/4g3AHWCFKb6e5JTutKo7t8) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo) | [Bitume Caviar \(Vol.1\) Bonus](https://open.spotify.com/album/5l8YEvNuskgJ5OydE54wPv) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 | 2024-06-28 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 |  |
 | [Creek](https://open.spotify.com/track/4x4TKNGZ0cOOLO5kx6PBBP) | [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Eros](https://open.spotify.com/album/0SFI9PGHf9jQgs4f5yPSR3) | 4:20 | 2024-05-31 | 2024-06-07 |
 | [Crie](https://open.spotify.com/track/0OxtPSOrFIpklQkBfVDSvX) | [SYN](https://open.spotify.com/artist/0FeRSQGWJUh7IgoRom1qdP) | [Crie](https://open.spotify.com/album/4QylmZQn4fVLAtou3xhMhc) | 3:02 | 2024-07-26 | 2024-08-02 |
 | [crooked the road.](https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [crooked the road.](https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL) | 2:55 | 2024-08-22 | 2024-08-30 |

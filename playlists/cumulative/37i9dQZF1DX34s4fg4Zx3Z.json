@@ -16263,6 +16263,24 @@
     },
     {
       "album": {
+        "name": "LET ME IN",
+        "url": "https://open.spotify.com/album/5Wcj7D0mMo5N2x6Uqxjlep"
+      },
+      "artists": [
+        {
+          "name": "OGGY",
+          "url": "https://open.spotify.com/artist/7EZScJjSrhUSWrth8ZsdNt"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "LET ME IN",
+      "url": "https://open.spotify.com/track/7qh58p3eBoccMmmOqSwmOW"
+    },
+    {
+      "album": {
         "name": "Let's Stay in Love",
         "url": "https://open.spotify.com/album/3yesQR4F7V8GselWYvHHRV"
       },
@@ -34602,6 +34620,32 @@
       "duration_ms": 218000,
       "name": "\u00c1nh \u0110\u00e8n L\u1ebb Loi",
       "url": "https://open.spotify.com/track/7LvcQUGLlbt1APGycsOE4b"
+    },
+    {
+      "album": {
+        "name": "\u00c1o \u1ea4m Y\u00eau Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/75iKjRXqkojrLbQ8L2QTTl"
+      },
+      "artists": [
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+        },
+        {
+          "name": "T\u1ecdi",
+          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
+        },
+        {
+          "name": "Kevin To\u00e0n",
+          "url": "https://open.spotify.com/artist/3L0tsv5ZJICJcEZ4OVc4NW"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277805,
+      "name": "\u00c1o \u1ea4m Y\u00eau Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/0d7wJBswc3LhF7IgO6fjBj"
     },
     {
       "album": {

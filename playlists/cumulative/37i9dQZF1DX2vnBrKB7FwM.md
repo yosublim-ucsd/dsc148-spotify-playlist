@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-140 songs - 7 hr 44 min
+141 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 | 2022-12-16 |  |
 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 | 2023-02-17 | 2024-04-19 |
 | [Emancipación](https://open.spotify.com/track/5fjn3TvnD6LLcpaoeWyXVK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/063QkpNBYOnOfjVOxmKGsb) | 3:54 | 2022-02-25 |  |
+| [En los Brazos de Morfeo](https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [En los Brazos de Morfeo](https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd) | 3:30 | 2024-08-30 |  |
 | [Esperar](https://open.spotify.com/track/1ZxNzA5MUmoOWdJfcG30L7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Gloria Lara](https://open.spotify.com/album/5Kigef3dPtMD3jWFMHJU4b) | 3:23 | 2022-11-25 | 2023-11-25 |
 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 | 2022-02-25 |  |
 | [Estilo Libre](https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Estilo Libre](https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ) | 2:12 | 2023-08-25 | 2024-03-02 |
@@ -124,7 +125,7 @@
 | [Siempre Recuerdo](https://open.spotify.com/track/0U1sNqtTaZePegE7dfyvek) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6ChyYaAHTxyVQp4il1Qyjs), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Universos Mixtape](https://open.spotify.com/album/7MnWuyMR88boF22p1x9Eus) | 4:00 | 2022-02-25 | 2023-03-01 |
 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 | 2023-02-17 | 2023-12-02 |
 | [Signos de Vida](https://open.spotify.com/track/53gFFkpvP5wD5XoT87Dzww) | [CRHAM](https://open.spotify.com/artist/3JqiZJpVh3Y52tYDNHsG0n) | [Signos de Vida](https://open.spotify.com/album/7vhXEN1CsmXV2nHM5I6LNR) | 3:46 | 2022-02-25 |  |
-| [Sin Hogar](https://open.spotify.com/track/2Ev2GsHMEuGRB6LKBWEc2e) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Bopscat](https://open.spotify.com/artist/5j8fwOSWeTEzo9n6Puma0v), [Hakim Al\-Khaliq](https://open.spotify.com/artist/1M3Z285dD2sZgSkrLlLQKD), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Medellín Jazz Panorama](https://open.spotify.com/album/20p1Oe6fvwsSX1ZHn6iJeB) | 2:02 | 2023-08-25 |  |
+| [Sin Hogar](https://open.spotify.com/track/2Ev2GsHMEuGRB6LKBWEc2e) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Bopscat](https://open.spotify.com/artist/5j8fwOSWeTEzo9n6Puma0v), [Hakim Al\-Khaliq](https://open.spotify.com/artist/1M3Z285dD2sZgSkrLlLQKD), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Medellín Jazz Panorama](https://open.spotify.com/album/20p1Oe6fvwsSX1ZHn6iJeB) | 2:02 | 2023-08-25 | 2024-08-31 |
 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 | 2023-04-14 |  |
 | [Sosa](https://open.spotify.com/track/2ydOWzGxQa50EMmo0wyDXK) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Sosa](https://open.spotify.com/album/4T8OD9FrYA6EqJJqqfB77K) | 2:49 | 2022-02-25 | 2023-11-25 |
 | [Soulmate](https://open.spotify.com/track/2Q6wN4JGESquKaJn3lnAix) | [The Negro Tapes](https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4) | [Soulmate](https://open.spotify.com/album/34qyqrDSwLu4Z1xtPu7vtU) | 3:19 | 2023-11-24 |  |

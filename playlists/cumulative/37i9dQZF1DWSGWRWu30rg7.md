@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Clara Riva
 
-3,807 songs - 9 day 17 hr 38 min
+3,808 songs - 9 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,6 +1179,7 @@
 | [Grind](https://open.spotify.com/track/71rmKZUH4IHddD9jv4ItIo) | [Jaybag](https://open.spotify.com/artist/6fVPj9LNi7dgkG1luLMOCx) | [Grind](https://open.spotify.com/album/5hopxqhNjXJwSjhXTSf8XO) | 2:45 | 2024-01-11 | 2024-02-03 |
 | [Groote postweg](https://open.spotify.com/track/5SQ1ODQFkFdLsXbsklyprd) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [Groote postweg](https://open.spotify.com/album/3cCQ7DX6FZc1oinicljTou) | 4:03 | 2022-02-24 | 2022-03-11 |
 | [Grow](https://open.spotify.com/track/0yFKaLmBWTcq53XfD6XyAy) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI) | [Grow](https://open.spotify.com/album/1IVdFo9HZlXSYri1F0Bz41) | 3:54 | 2022-01-27 | 2022-02-11 |
+| [Guerrero](https://open.spotify.com/track/2VsY2iJ4BgmDuhQkVTu46h) | [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT), [Manic](https://open.spotify.com/artist/1xQQeHhBnvAB5aAUu6uXdj), [Ner](https://open.spotify.com/artist/5x3MDjIN1tyYunR1YRooBc) | [Guerrero](https://open.spotify.com/album/6iucVGrS5AUpK7dw6nxJyE) | 3:24 | 2024-08-30 |  |
 | [guess im wrong](https://open.spotify.com/track/6qeGkQDX9NuQk3Ru5NredR) | [Saint House](https://open.spotify.com/artist/3L4dL8HIIj9acJFgVgnELs), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [Saintimental Part 2](https://open.spotify.com/album/7cmzbKeFYPSgFN9Yxd8ro5) | 2:33 | 2024-06-28 | 2024-07-27 |
 | [guess what?](https://open.spotify.com/track/3BRNiuv5zbLrWsISBNStYZ) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN) | [guess what?](https://open.spotify.com/album/4mzZG6pXrJzDV36VQlUyc6) | 2:25 | 2023-04-20 | 2023-05-12 |
 | [Guilty Pleasure](https://open.spotify.com/track/5cgGvhx8daB3xXhS8T5RxN) | [Afterose](https://open.spotify.com/artist/6wStTeJ2ebyvHeZv6NznNe) | [Guilty Pleasure](https://open.spotify.com/album/5LrqKGagwlOt0b3XIVneX4) | 3:44 | 2023-04-27 | 2023-05-19 |

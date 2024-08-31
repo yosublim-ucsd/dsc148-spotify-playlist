@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-715 songs - 1 day 11 hr 50 min
+716 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Baila Con](https://open.spotify.com/track/5a291zhrgHNrJG7rcNiPKt) | [DYKMN](https://open.spotify.com/artist/14EmMLXXkINp4y0hVuG5xf) | [Baila Con](https://open.spotify.com/album/3z7iEcGXkQgSqC89lqPLXl) | 3:05 | 2024-04-12 | 2024-04-26 |
 | [Bala](https://open.spotify.com/track/6pxs9VHwNBOxQZQKx37rox) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv) | [Bala](https://open.spotify.com/album/0eMMY6AJt2EFpUI2eI5Ebz) | 3:21 | 2024-01-12 |  |
 | [BAMAKA](https://open.spotify.com/track/7FsThZgIXHuxMr4CfQ8uEW) | [Guglielmo Nasini](https://open.spotify.com/artist/5L8AUf5S6M3XPD1foPgJ8j), [Aurelios](https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa) | [BAMAKA](https://open.spotify.com/album/7i9rMBdZGy93sd5fVMpWBO) | 2:50 | 2024-02-09 |  |
+| [Bambukai](https://open.spotify.com/track/7myo2o4Qz8BHX4AHhTcCM7) | [FoRmAT\_G](https://open.spotify.com/artist/6TnT3DEKXvDd7aD8wopE06) | [Bambukai](https://open.spotify.com/album/0AdlnYHToB5fodBzHoQ4x4) | 2:11 | 2024-08-30 |  |
 | [Bando](https://open.spotify.com/track/3G1zoScP215A4mzShOistE) | [Fercho Energy](https://open.spotify.com/artist/7JbAfA1hiEnO40ce7vU4n0), [Boix & Breakloop](https://open.spotify.com/artist/4mfHGc0r44Tt66eAsxWyAC), [Mogul Da Savant](https://open.spotify.com/artist/3Ol2hvnhDkYWXMDmjfO8OY) | [Bando](https://open.spotify.com/album/3BcpzGqQeV5XoHp7LctAR0) | 3:08 | 2024-04-26 |  |
 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 | 2023-08-25 | 2023-12-23 |
 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 | 2024-05-17 |  |

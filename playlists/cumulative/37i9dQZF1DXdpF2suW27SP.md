@@ -4,7 +4,7 @@
 
 > Força Suprema entram na zona.
 
-606 songs - 1 day 8 hr 23 min
+607 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Boeing 777](https://open.spotify.com/track/4WtOqBES1aOHogJ264Sa4X) | [DJ Overule](https://open.spotify.com/artist/7G2Ifqc6GK5hnQOCEMF1Zo), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [Boeing 777](https://open.spotify.com/album/5ntrD9TJSG9KCjpdl3vCx1) | 3:18 | 2024-04-18 | 2024-05-17 |
 | [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 | 2024-08-23 |
 | [Bon Appétit](https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Olho de Tigre](https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb) | 2:45 | 2022-07-16 | 2023-11-11 |
+| [BOOM BAP](https://open.spotify.com/track/5zOyqbibtAD5ZKAikhmpJG) | [Ravi Sardinha](https://open.spotify.com/artist/5MKDNLnVYIjpSFLcoxNrm2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [BOOM BAP](https://open.spotify.com/album/2QP8jmHaVOCePjwpN9JYvA) | 2:52 | 2024-08-29 |  |
 | [Braille](https://open.spotify.com/track/3uxr1S4rg8EqMLFH4mgqTT) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Braille](https://open.spotify.com/album/2CjnQzni6YzaX7XbdLnHqj) | 2:40 | 2023-11-10 | 2024-01-12 |
 | [Bram Bram](https://open.spotify.com/track/521wrQjzG1znX4e8caN2LG) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Loreta Kba](https://open.spotify.com/artist/3BgAxhLchLBb8Y6h7mVbyk) | [Bram Bram](https://open.spotify.com/album/3yXviYzjm4OfflqOcl3MVj) | 3:39 | 2024-06-27 |  |
 | [BRIX](https://open.spotify.com/track/2ESbGbEmwTgeLGlrnuwVoI) | [Gersoncdc](https://open.spotify.com/artist/1i2hDT55ljHDD5ltZvyeEZ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [BRIX](https://open.spotify.com/album/1BUxNy6zFXmn5zmfHjAvY7) | 1:17 | 2024-08-29 |  |

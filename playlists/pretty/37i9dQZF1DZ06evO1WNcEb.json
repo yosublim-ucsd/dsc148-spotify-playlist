@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66952,
+  "num_followers": 66947,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAACnGF9/XiXf9/I9U5gf4FI0",
+  "snapshot_id": "Zs+6AAAAAABl4tM8t7rxxBGjHq99pjJe",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tanque de Betesda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "O Tanque de Betesda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyshila Collection ao Vivo 10 Anos",
         "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 334878,
       "name": "Posso Clamar",
       "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Tanque de Betesda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "O Tanque de Betesda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito - Na Igreja (In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i"
       },
@@ -519,42 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Anos na \u00c1frica (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "N\u00e3o \u00c9 Tarde - Ao Vivo",
-      "url": "https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quero Aprender a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
       },
@@ -571,26 +551,6 @@
       "duration_ms": 326264,
       "name": "Existe Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -619,6 +579,46 @@
       "duration_ms": 482974,
       "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Anos na \u00c1frica (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "N\u00e3o \u00c9 Tarde - Ao Vivo",
+      "url": "https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 284583,
-      "name": "Vou Glorificar",
-      "url": "https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonhos N\u00e3o T\u00eam Fim",
         "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 402587,
       "name": "Sonhos N\u00e3o Tem Fim",
       "url": "https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 284583,
+      "name": "Vou Glorificar",
+      "url": "https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 321317,
-      "name": "Deus se Lembra",
-      "url": "https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonhos N\u00e3o T\u00eam Fim",
         "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 328051,
       "name": "Basta um Olhar",
       "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 321317,
+      "name": "Deus se Lembra",
+      "url": "https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz"
     },
     {
       "added_at": null,
@@ -987,6 +987,30 @@
       "duration_ms": 281471,
       "name": "Mulher Vitoriosa",
       "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Volta ao Seu Lugar",
+        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 391352,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
     },
     {
       "added_at": null,
@@ -1027,26 +1051,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Volta ao Seu Lugar",
-        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 391352,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
+      "duration_ms": 322428,
+      "name": "L\u00e1zaro",
+      "url": "https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741"
     },
     {
       "added_at": null,
@@ -1071,22 +1087,6 @@
       "duration_ms": 215856,
       "name": "Deus no Controle - Remix",
       "url": "https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00e1zaro",
-        "url": "https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 322428,
-      "name": "L\u00e1zaro",
-      "url": "https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741"
     },
     {
       "added_at": null,

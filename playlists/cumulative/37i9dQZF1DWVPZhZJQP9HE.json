@@ -2417,6 +2417,28 @@
     },
     {
       "album": {
+        "name": "Ennai Kollathey",
+        "url": "https://open.spotify.com/album/534zW5I7ia21ulaxDDnNBe"
+      },
+      "artists": [
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        },
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174352,
+      "name": "Ennai Kollathey",
+      "url": "https://open.spotify.com/track/6dkle402E8KU8tSaW7XlTJ"
+    },
+    {
+      "album": {
         "name": "Ennasai Kaadhaliye",
         "url": "https://open.spotify.com/album/3kVBl5qhASlKbXftyDTslf"
       },
@@ -11652,6 +11674,24 @@
       "duration_ms": 204000,
       "name": "Valimai Kooduthey",
       "url": "https://open.spotify.com/track/0DB2f8fIetpuxtvz4VVHR1"
+    },
+    {
+      "album": {
+        "name": "Vanakkam Vandhanam",
+        "url": "https://open.spotify.com/album/1x24yHFkgELp7EnCsCMmJH"
+      },
+      "artists": [
+        {
+          "name": "Anivee",
+          "url": "https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116225,
+      "name": "Vanakkam Vandhanam",
+      "url": "https://open.spotify.com/track/15RGFYJ7lf651jySnXVPjS"
     },
     {
       "album": {

@@ -4,10 +4,11 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-442 songs - 1 day 1 hr 25 min
+443 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2025](https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Stans](https://open.spotify.com/artist/3SGVmvivNB2Z163W8y5Djc) | [2025](https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi) | 3:18 | 2024-08-30 |  |
 | [Account](https://open.spotify.com/track/5uneKCIU2LgjMDCtAPs67x) | [Dada Hood](https://open.spotify.com/artist/5n2cPyTGgIYUQmp76PrdA0), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The Orange](https://open.spotify.com/album/1vRhSfvblDi9p1Nd3xndse) | 2:48 | 2022-03-31 | 2022-08-05 |
 | [Achii \(feat\. Koffi Olomide\)](https://open.spotify.com/track/2SSmMYLJ7ODOSxULNUemVa) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Achii \(feat\. Koffi Olomide\)](https://open.spotify.com/album/4rNuUOxQYWQA2romhOnmCS) | 4:22 | 2023-08-17 | 2024-05-10 |
 | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/track/1Be17HOs0GnuguW8pBaYAr) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/album/0k7jBbWkGebFNwiNY6l2RC) | 3:34 | 2021-11-25 | 2022-06-28 |

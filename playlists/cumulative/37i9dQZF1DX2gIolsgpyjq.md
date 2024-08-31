@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Jhon Allan
 
-507 songs - 1 day 2 hr 46 min
+508 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Feels Right](https://open.spotify.com/track/0v1jnolx3YqXsYKvOGvsR3) | [Retro Kid](https://open.spotify.com/artist/68HeTdmYmnGA3GNUTYY2fu) | [Feels Right](https://open.spotify.com/album/6MmA9FU8a6OPqPI3Pg7vci) | 3:13 | 2024-07-25 |  |
 | [Fiend](https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Fiend](https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV) | 3:07 | 2024-03-14 | 2024-05-17 |
 | [FIND](https://open.spotify.com/track/0nOAeVq41wQhOiD0VWnpOV) | [Julian Hall](https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj) | [FIND](https://open.spotify.com/album/2m1odjbvZs1jY2W1eOwDDT) | 2:07 | 2024-06-27 | 2024-08-23 |
+| [find me later](https://open.spotify.com/track/4PQTUWsOAG7DVyHLb8PUuz) | [miint](https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp) | [find me later](https://open.spotify.com/album/4hPSyXyRIUCY1fIl43iGRR) | 2:22 | 2024-08-30 |  |
 | [five guys](https://open.spotify.com/track/0jkdb7BEJhQnb2oU2WYdCw) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [five guys](https://open.spotify.com/album/4fUJTofFsxcfptpfswVu3p) | 3:09 | 2024-02-08 | 2024-02-23 |
 | [Float Away](https://open.spotify.com/track/6OMHusMo9jZemASNaFSd4X) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Jennessa Cairo](https://open.spotify.com/artist/2c2zQ7hv1bVv6JF2aF5dxn) | [Float Away](https://open.spotify.com/album/4GDvgtNZKYKZMbcxpCoyAr) | 2:06 | 2024-05-02 | 2024-06-28 |
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 |  |

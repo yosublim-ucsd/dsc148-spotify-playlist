@@ -8381,6 +8381,32 @@
     },
     {
       "album": {
+        "name": "RAD MILLI",
+        "url": "https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "Foxy Plush",
+      "url": "https://open.spotify.com/track/1Sa80uc1aarNzR4L09Fypy"
+    },
+    {
+      "album": {
         "name": "Grown Ass Kid",
         "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
       },
@@ -16470,6 +16496,28 @@
       "duration_ms": 238285,
       "name": "Michael Jackson Remix (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/74cH1EoFKnaVJmqdU5fLR5"
+    },
+    {
+      "album": {
+        "name": "RAD MILLI",
+        "url": "https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166189,
+      "name": "Million / Warrior",
+      "url": "https://open.spotify.com/track/6G8N7aoDHlkEPOtIxOfonN"
     },
     {
       "album": {

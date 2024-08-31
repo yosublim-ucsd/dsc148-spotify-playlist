@@ -2,7 +2,7 @@
 
 ### [This Is Nat King Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rmk92)
 
-> This is Nat King Cole\. The essential tracks, all in one playlist.
+> This Is Nat King Cole\. Los temas esenciales, todos en una lista.
 
 124 songs - 5 hr 57 min
 

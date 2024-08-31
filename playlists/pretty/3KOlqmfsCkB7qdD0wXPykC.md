@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3KOlqmfsCkB7qdD0wXPykC.md) - [plain]
 
 > &quot;You&\#x27;ve got a friend downstairs &\#x2F; He howls all night&quot;
 
-[Sarah 💖](https://open.spotify.com/user/12158684120) - 56 likes - 15 songs - 48 min 29 sec
+[Sarah 💖](https://open.spotify.com/user/12158684120) - 55 likes - 15 songs - 48 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

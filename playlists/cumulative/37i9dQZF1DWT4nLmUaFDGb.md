@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-270 songs - 17 hr 32 min
+271 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 | 2022-09-08 | 2024-04-19 |
 | [Hit The Ground](https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9) | 3:30 | 2024-04-12 |  |
 | [Hit The Road Jack](https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Light Out Of Darkness \(A Tribute To Ray Charles\)](https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc) | 3:11 | 2021-12-21 |  |
-| [Hommage](https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [Hommage](https://open.spotify.com/album/6RB1U1kb3u9TdNGy5zIZLX) | 3:34 | 2022-09-06 |  |
+| [Hommage](https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [Hommage](https://open.spotify.com/album/6RB1U1kb3u9TdNGy5zIZLX) | 3:34 | 2022-09-06 | 2024-08-31 |
 | [Hommage](https://open.spotify.com/track/7auTBZlMspqWjyqB1Mj5J9) | [Marek Johnson](https://open.spotify.com/artist/4y9tl1SgxrEhYnDN40Ls8T) | [At Home Again, Singing](https://open.spotify.com/album/1Qe9Sg7RkVoFEG3D5Wt9rG) | 3:34 | 2022-11-10 | 2024-04-19 |
 | [How Insensitive](https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v), [Matt Home](https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80) | [The Changing Lights \(Bonus Edition\)](https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA) | 4:04 | 2021-12-21 |  |
 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 | 2022-08-19 |  |
@@ -172,6 +172,7 @@
 | [My Funny Valentine \(For Oskar and Eli\)](https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [My Funny Valentine \(For Oskar and Eli\)](https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH) | 2:07 | 2023-02-02 | 2023-08-19 |
 | [My Ideal](https://open.spotify.com/track/62SIDT5kuZ7whlVegVGkrT) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [My Ideal](https://open.spotify.com/album/0n9t4yvnjeYmTEbLamdn36) | 4:39 | 2024-08-09 |  |
 | [My Kind of Girl](https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 4:06 | 2021-12-21 | 2022-10-26 |
+| [My Romance](https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI) | [My Romance](https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb) | 2:50 | 2024-08-30 |  |
 | [My Way](https://open.spotify.com/track/29wGQwGblvBlUbKuS79f25) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh), [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Classic Songs, My Way](https://open.spotify.com/album/6Wnovhi56DG9BpxufQLSER) | 5:19 | 2021-12-21 | 2022-09-27 |
 | [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-09 |  |
 | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO) | 3:37 | 2024-03-20 |  |

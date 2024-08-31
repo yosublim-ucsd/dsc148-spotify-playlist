@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: MERO
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,850 likes - 80 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,906 likes - 80 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

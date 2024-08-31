@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Nsqk",
+  "description": "Fresh Latin pop on the rise. Cover: MAGNA",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151058,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
@@ -2820,6 +2820,24 @@
       "duration_ms": 192786,
       "name": "CONTIGO (with Ti\u00ebsto)",
       "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "album": {
+        "name": "contra la corriente",
+        "url": "https://open.spotify.com/album/4VPtkZGBDlqWARwnRJDrYg"
+      },
+      "artists": [
+        {
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173092,
+      "name": "contra la corriente",
+      "url": "https://open.spotify.com/track/1XJ77vGJYj4D0huExOdCCh"
     },
     {
       "album": {
@@ -7765,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "mentalf\u00edsica",
+        "url": "https://open.spotify.com/album/2ekYShWHLSYpowZovVz1ZH"
+      },
+      "artists": [
+        {
+          "name": "ALEZ",
+          "url": "https://open.spotify.com/artist/0FzYSfYuLo6HNj8iBo8mxc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "mentalf\u00edsica",
+      "url": "https://open.spotify.com/track/3Axs4jh7AR0FtQOPo12qTr"
+    },
+    {
+      "album": {
         "name": "Mentiroso",
         "url": "https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9"
       },
@@ -11378,7 +11414,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201355,
       "name": "SAL",
       "url": "https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da"
@@ -13174,7 +13210,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 177709,
       "name": "TROPICAL DELIGHT",
       "url": "https://open.spotify.com/track/5ItXDBxOaRtqy2yM1MLetd"
@@ -13512,6 +13548,28 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "album": {
+        "name": "TODO PUEDE SUCEDER",
+        "url": "https://open.spotify.com/album/19DbwnDUWS0CuJF92sc4Wn"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "UN CUARTICO",
+      "url": "https://open.spotify.com/track/2WYjLEYwE1vIWC6XNMN94z"
     },
     {
       "album": {

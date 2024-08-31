@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 205893,
       "name": "Applejack",
       "url": "https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq"
@@ -910,6 +910,28 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+    },
+    {
+      "album": {
+        "name": "Smoky Mountain DNA",
+        "url": "https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119535,
+      "name": "Smoky Mountain DNA",
+      "url": "https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5"
     },
     {
       "album": {

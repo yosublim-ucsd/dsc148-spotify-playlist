@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1967079,
+  "num_followers": 1967452,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADW4UrIUq4U6D3glWdjCaQp",
+  "snapshot_id": "Zs+6AAAAAABbokbm/4t/DiDp0KVofB7+",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
+        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 330453,
-      "name": "Screaming Suicide",
-      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
+      "duration_ms": 387146,
+      "name": "Welcome Home (Sanitarium) - Remastered",
+      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
-        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 387146,
-      "name": "Welcome Home (Sanitarium) - Remastered",
-      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
     },
     {
       "added_at": null,

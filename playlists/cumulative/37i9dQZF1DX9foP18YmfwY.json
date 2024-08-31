@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 303984,
       "name": "Fam\u00edlias em Ordem de Batalha",
       "url": "https://open.spotify.com/track/3uSYa9xCnErro5Tz8Zbt0x"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 309660,
       "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
@@ -2618,6 +2618,28 @@
       "duration_ms": 206336,
       "name": "Pra Te Ver Feliz",
       "url": "https://open.spotify.com/track/53oVXkxQalQSjP11ML8qmD"
+    },
+    {
+      "album": {
+        "name": "Gba Stage, Vol. 22",
+        "url": "https://open.spotify.com/album/3FcOE2vRgd1RP3fgdAGldu"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "That\u00e1 Rodrigues",
+          "url": "https://open.spotify.com/artist/39I0fyS42qJNLPbgLtK1Ro"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276490,
+      "name": "P\u00e3o dos Anjos",
+      "url": "https://open.spotify.com/track/2mRPXSMTiy7JDa8QjmMHzG"
     },
     {
       "album": {
@@ -2994,6 +3016,28 @@
       "duration_ms": 264566,
       "name": "Serei Tudo",
       "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
+    },
+    {
+      "album": {
+        "name": "Servo por Amor",
+        "url": "https://open.spotify.com/album/6dvUhJyW2xoxhl2lWm9zhG"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Banda Dominus",
+          "url": "https://open.spotify.com/artist/0GvnpLPsbWtDOqpA7BeJaV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "Servo por Amor",
+      "url": "https://open.spotify.com/track/10kzewzYJdNpBUvWhSHl1Q"
     },
     {
       "album": {

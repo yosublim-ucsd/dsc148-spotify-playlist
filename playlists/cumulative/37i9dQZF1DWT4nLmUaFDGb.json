@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214700,
       "name": "Hommage",
       "url": "https://open.spotify.com/track/4IbPRGOqxnJHF2H1wILXl4"
@@ -3206,6 +3206,24 @@
       "duration_ms": 246440,
       "name": "My Kind of Girl",
       "url": "https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ"
+    },
+    {
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "album": {

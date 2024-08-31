@@ -1,13 +1,29 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Peach Pit",
-  "num_followers": 833888,
+  "description": "Explore all things indie rock right now. Featuring music from Fontaines D.C.",
+  "num_followers": 833864,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskZygAAAABjQwyVhYwhjp6TNpVZ1AFR",
+  "snapshot_id": "ZtFDwAAAAAAaIDmgYaNx6bZlevfjF24r",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Isotope",
+        "url": "https://open.spotify.com/album/64gDz0I7VYp8NrDTJkjlZp"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 238381,
+      "name": "Somebody Come Through",
+      "url": "https://open.spotify.com/track/4Sz61x2L4mYmtw47NBrzfC"
+    },
     {
       "added_at": "2024-08-23 23:22:50",
       "album": {
@@ -55,6 +71,78 @@
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Like Nothing",
+        "url": "https://open.spotify.com/album/6hC1SzHo16p4n8H5JeMIMH"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Like Nothing",
+      "url": "https://open.spotify.com/track/230rjTVkPndyWDJRmyJ4Af"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Late To The Party (feat. Declan McKenna)",
+        "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "Late To The Party (feat. Declan McKenna)",
+      "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Leave A Message (w/ aldn)",
+        "url": "https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 147696,
+      "name": "Leave A Message (w/ aldn)",
+      "url": "https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "growing old & dying in your sleep",
+        "url": "https://open.spotify.com/album/38LAeyGzoZKOYTFwzTky4U"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 262964,
+      "name": "sleep study for horses",
+      "url": "https://open.spotify.com/track/1dizt9gJSBpZ7FElSHASmt"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1367,74 +1455,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 322256,
-      "name": "Big Swimmer",
-      "url": "https://open.spotify.com/track/3msstebr0HfNT4kdJexWXe"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "The Tw*ts",
-        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "The only conscious being in the universe",
-      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Pretty Pink Sky",
-        "url": "https://open.spotify.com/album/1reaWBcwSZXB0PW5b5pTBK"
-      },
-      "artists": [
-        {
-          "name": "stereo roux",
-          "url": "https://open.spotify.com/artist/7hnRKDRhjSaBaph70JtRbx"
-        }
-      ],
-      "duration_ms": 297591,
-      "name": "Pretty Pink Sky",
-      "url": "https://open.spotify.com/track/5kjfjqkIPmBQbffroznTck"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Water the Flowers, Pray for a Garden",
-        "url": "https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 206419,
-      "name": "Water the Flowers, Pray for a Garden",
-      "url": "https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Medium Horny",
         "url": "https://open.spotify.com/album/14dSses42hrFFqQQHwijCO"
       },
@@ -1485,22 +1505,6 @@
       "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "You (Show Me Where My Days Went)",
-        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Underdressed at the Symphony",
@@ -1533,22 +1537,6 @@
       "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "What's The Point",
-        "url": "https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "90 to 99",
-      "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Dog Days",
@@ -1563,22 +1551,6 @@
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/2p9dIfT3qAyrcm1N4ZM4Zm"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "I Do It For Me",
-        "url": "https://open.spotify.com/album/0cEoKYAexz3fdPSaTcLdyq"
-      },
-      "artists": [
-        {
-          "name": "GRLwood",
-          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
-        }
-      ],
-      "duration_ms": 178346,
-      "name": "I Do It For Me",
-      "url": "https://open.spotify.com/track/6rQyI3yYE6gBDs1anWPN3Z"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1627,54 +1599,6 @@
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "AMAMA",
-        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Wish You Would Notice (Know This)",
-        "url": "https://open.spotify.com/album/5hWJLW1RFXAzzk5pA7dkNy"
-      },
-      "artists": [
-        {
-          "name": "zzzahara",
-          "url": "https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn"
-        }
-      ],
-      "duration_ms": 158227,
-      "name": "Wish You Would Notice (Know This)",
-      "url": "https://open.spotify.com/track/5GuBVNkas4c4s3ZkcOKU1U"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2024-05-03 04:00:00",

@@ -1,15 +1,15 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 321805,
+  "num_followers": 321981,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr0E2gAAAADtEAlhKuiEx0fCSurl1rk5",
+  "snapshot_id": "ZtHN1AAAAAA/QeCIjpm2jU3PVV3Ljcjz",
   "tracks": [
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Pre\u00e7o Curto, Prazo Longo",
         "url": "https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0AsfpL8bzbmEyJsfbPPYnj"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
+      "album": {
+        "name": "Amor Bom",
+        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Amor Bom",
+      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
+    },
+    {
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "J\u00e1",
         "url": "https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Casinha",
         "url": "https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Diversoficando",
         "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Telegrama",
         "url": "https://open.spotify.com/album/16Eox6Iq12Qod8QUTzvNsJ"
@@ -157,47 +173,7 @@
       "url": "https://open.spotify.com/track/1lefOCsfwCo30VN7NkuqL9"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
-      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
-        "name": "Quem Sabe",
-        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
-      },
-      "artists": [
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Quem Sabe",
-      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "O Mundo Diz Que N\u00e3o",
         "url": "https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi"
@@ -221,7 +197,7 @@
       "url": "https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Refletir (Resista)",
         "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
@@ -241,7 +217,27 @@
       "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
+      "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
+    },
+    {
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Amores E Flores",
         "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
@@ -277,7 +273,7 @@
       "url": "https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Rindo \u00c0 Toa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
@@ -297,7 +293,7 @@
       "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "O que \u00e9 teu te encontra",
         "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
@@ -317,23 +313,7 @@
       "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "15 Anos (Ao vivo)",
         "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
@@ -349,7 +329,7 @@
       "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Linguagem N\u00e3o Verbal",
         "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
@@ -365,7 +345,7 @@
       "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Vit\u00f3ria",
         "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
@@ -381,7 +361,23 @@
       "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
+    },
+    {
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
@@ -397,7 +393,7 @@
       "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "T\u00f4 Em Casa",
         "url": "https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7"
@@ -437,7 +433,7 @@
       "url": "https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "vida leve",
         "url": "https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev"
@@ -457,7 +453,7 @@
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Caf\u00e9 da MaLu, Vol. 04",
         "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
@@ -473,7 +469,7 @@
       "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Brisa Positiva",
         "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
@@ -489,7 +485,7 @@
       "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Flor de Aruanda",
         "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
@@ -505,7 +501,7 @@
       "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
@@ -525,7 +521,7 @@
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Pedra Preciosa",
         "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
@@ -541,7 +537,7 @@
       "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
@@ -561,7 +557,7 @@
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
@@ -581,7 +577,7 @@
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Pelo mundo",
         "url": "https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym"
@@ -597,7 +593,7 @@
       "url": "https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Meu Destino \u00e9 o Litoral",
         "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Revolvendo as Raizes",
         "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "LEVE",
         "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
@@ -669,7 +665,7 @@
       "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
@@ -685,7 +681,7 @@
       "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Saquarema (Remix)",
         "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
@@ -701,7 +697,7 @@
       "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
@@ -721,7 +717,7 @@
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Cai\u00e7ara",
         "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Filho do Mar",
         "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
@@ -753,7 +749,7 @@
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
@@ -773,7 +769,7 @@
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Clareza",
         "url": "https://open.spotify.com/album/72PbniAoRMR2dY3X6bpvju"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/5ZjNs81TkLa6LA2TZK6nP8"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Confia Mais",
         "url": "https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Santa Terra",
         "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Avenida da Paix\u00e3o",
         "url": "https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "P\u00f4r do Sol",
         "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Lua Crescente",
         "url": "https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu"
@@ -909,7 +905,7 @@
       "url": "https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
@@ -925,7 +921,7 @@
       "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
@@ -945,7 +941,7 @@
       "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Jah Bless",
         "url": "https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB"
@@ -961,7 +957,7 @@
       "url": "https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
@@ -977,7 +973,7 @@
       "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Pra Que Fazer Assim? (Vers\u00e3o Instrumental)",
         "url": "https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf"
@@ -993,7 +989,7 @@
       "url": "https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Coletivo (Remasterizado)",
         "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
@@ -1025,7 +1021,7 @@
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "O Amor Venceu",
         "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
@@ -1041,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     },
     {
-      "added_at": "2024-08-14 19:26:18",
+      "added_at": "2024-08-30 13:49:08",
       "album": {
         "name": "Abre a Janela",
         "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"

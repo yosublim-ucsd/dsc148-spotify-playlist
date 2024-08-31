@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Aqua VS & AKRIILA.",
+  "description": "La casa del trap chileno al mando de Lucky Brown & Jere Klein.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -497,6 +497,36 @@
     },
     {
       "album": {
+        "name": "Bentley",
+        "url": "https://open.spotify.com/album/2ckdAH0yjemNnvuqsE3MEa"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bentley",
+      "url": "https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE"
+    },
+    {
+      "album": {
         "name": "Benz",
         "url": "https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0"
       },
@@ -746,7 +776,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 145297,
       "name": "CARROS BILLETES Y PT$",
       "url": "https://open.spotify.com/track/3e2j7sCxw2sOnOtmpVF03E"
@@ -1906,6 +1936,28 @@
       "duration_ms": 240253,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+    },
+    {
+      "album": {
+        "name": "LOADING...",
+        "url": "https://open.spotify.com/album/54eQTsG6OahvtsYGwLNQx6"
+      },
+      "artists": [
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "HACERME RICO",
+      "url": "https://open.spotify.com/track/6VETiiOB9y6rmV9eNkEsLY"
     },
     {
       "album": {

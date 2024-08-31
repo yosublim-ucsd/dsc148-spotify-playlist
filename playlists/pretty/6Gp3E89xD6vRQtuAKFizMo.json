@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44232,
+  "num_followers": 44231,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZnW73Uh7qBD2BMIiHqOASrptcSxr6",
+  "snapshot_id": "AAAZnznIvMQoK/K89FCfblpZzKtd1n6B",
   "tracks": [
+    {
+      "added_at": "2024-08-30 15:55:01",
+      "album": {
+        "name": "Falling Stars (feat. Nevve)",
+        "url": "https://open.spotify.com/album/5GYJViokxqPvkipMydrgID"
+      },
+      "artists": [
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 286344,
+      "name": "Falling Stars (feat. Nevve)",
+      "url": "https://open.spotify.com/track/4wcmSExQiuz3mobIi0b8ku"
+    },
+    {
+      "added_at": "2024-08-30 15:55:27",
+      "album": {
+        "name": "Impeccable",
+        "url": "https://open.spotify.com/album/0ZBPGCXv01PeTM6kCMBjyi"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Impeccable",
+      "url": "https://open.spotify.com/track/5QLYGIPM6a5ZikKcn6hj48"
+    },
     {
       "added_at": "2024-08-27 16:27:22",
       "album": {

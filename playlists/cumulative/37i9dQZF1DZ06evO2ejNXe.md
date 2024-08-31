@@ -2,7 +2,7 @@
 
 ### [This Is Banda Zarape](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ejNXe)
 
-> This is Banda Zarape。アーティストの代表曲をひとつのプレイリストに。
+> This is Banda Zarape\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 17 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia with 9 handpicked selections by brb. Do tune in to their Spotify singles as well!",
-  "num_followers": 100018,
+  "num_followers": 100046,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "I'm Blessed",
-        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
       },
       "artists": [
         {
@@ -568,13 +568,13 @@
           "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         },
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 218500,
-      "name": "I'm Blessed",
-      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
+      "duration_ms": 210322,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -643,6 +643,42 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
+        "name": "Hardcore Romance",
+        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 228708,
+      "name": "Fight Some More",
+      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
         "name": "WDYS",
         "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
       },
@@ -663,42 +699,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Let It Rain",
-        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 210322,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
-        "name": "happy endings do exist",
-        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 197100,
-      "name": "happy endings do exist",
-      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "Perak",
         "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Hardcore Romance",
-        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
+        "name": "happy endings do exist",
+        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         }
       ],
-      "duration_ms": 228708,
-      "name": "Fight Some More",
-      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
+      "duration_ms": 197100,
+      "name": "happy endings do exist",
+      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -811,22 +811,18 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r"
+        "name": "All These and More",
+        "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+          "name": "The Ridleys",
+          "url": "https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG"
         }
       ],
-      "duration_ms": 257286,
-      "name": "Young Man",
-      "url": "https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA"
+      "duration_ms": 209166,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -847,6 +843,26 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        },
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "duration_ms": 257286,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
-        "name": "All These and More",
-        "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
-      },
-      "artists": [
-        {
-          "name": "The Ridleys",
-          "url": "https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG"
-        }
-      ],
-      "duration_ms": 209166,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Now and Ever",
-        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
+        "name": "Demons My Darling",
+        "url": "https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t"
       },
       "artists": [
         {
-          "name": "James Alyn",
-          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
         }
       ],
-      "duration_ms": 220161,
-      "name": "Now and Ever",
-      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
+      "duration_ms": 188414,
+      "name": "Demons My Darling",
+      "url": "https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Demons My Darling",
-        "url": "https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t"
+        "name": "Now and Ever",
+        "url": "https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU"
       },
       "artists": [
         {
-          "name": "Kisnue",
-          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
         }
       ],
-      "duration_ms": 188414,
-      "name": "Demons My Darling",
-      "url": "https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx"
+      "duration_ms": 220161,
+      "name": "Now and Ever",
+      "url": "https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "Love, Again",
         "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 170578,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "\"L\"",
-        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
-      },
-      "artists": [
-        {
-          "name": "The Volunteers",
-          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
-        }
-      ],
-      "duration_ms": 260682,
-      "name": "\"L\"",
-      "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "LosE tO yOu",
         "url": "https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 201176,
       "name": "LosE tO yOu",
       "url": "https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "duration_ms": 260682,
+      "name": "\"L\"",
+      "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "\u7406\u60f3\u72c0\u614b",
-        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 241317,
-      "name": "\u4f60\u7684\u6a23\u5b50",
-      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "Toast",
         "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
+        "name": "\u7406\u60f3\u72c0\u614b",
+        "url": "https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 241317,
+      "name": "\u4f60\u7684\u6a23\u5b50",
+      "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
         "name": "love is growing",
         "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 178422,
       "name": "love is growing",
       "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "Lionel",
+        "url": "https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "duration_ms": 211863,
+      "name": "Lionel",
+      "url": "https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Lionel",
-        "url": "https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kind",
-          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
-        }
-      ],
-      "duration_ms": 211863,
-      "name": "Lionel",
-      "url": "https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "Museum of My Mess",
         "url": "https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "\u505a\u4e00\u534a\u7684\u5922",
-        "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 204584,
-      "name": "\u505a\u4e00\u534a\u7684\u5922",
-      "url": "https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "Sweet Hurting",
         "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "Durja Bersahaja",
-        "url": "https://open.spotify.com/album/3HL3eXVeW5G4gVRNQGVEwb"
+        "name": "\u505a\u4e00\u534a\u7684\u5922",
+        "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
       },
       "artists": [
         {
-          "name": "The Jansen",
-          "url": "https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 261975,
-      "name": "Hanya Ada Kegelapan yang Menunggumu Di Sana",
-      "url": "https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x"
+      "duration_ms": 204584,
+      "name": "\u505a\u4e00\u534a\u7684\u5922",
+      "url": "https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "In the end we\u2019re just",
-        "url": "https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl"
+        "name": "Durja Bersahaja",
+        "url": "https://open.spotify.com/album/3HL3eXVeW5G4gVRNQGVEwb"
       },
       "artists": [
         {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+          "name": "The Jansen",
+          "url": "https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ"
         }
       ],
-      "duration_ms": 178571,
-      "name": "In the end we\u2019re just",
-      "url": "https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7"
+      "duration_ms": 261975,
+      "name": "Hanya Ada Kegelapan yang Menunggumu Di Sana",
+      "url": "https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1451,6 +1435,22 @@
       "duration_ms": 249932,
       "name": "Amerika",
       "url": "https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "In the end we\u2019re just",
+        "url": "https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 178571,
+      "name": "In the end we\u2019re just",
+      "url": "https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "i like that you like it",
-        "url": "https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "i like that you like it",
-      "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 305185,
       "name": "Salleh Wakeup!",
       "url": "https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "i like that you like it",
+        "url": "https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "i like that you like it",
+      "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "No Cares Era",
-        "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        }
-      ],
-      "duration_ms": 200425,
-      "name": "No Cares Era",
-      "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "The Greng Jai Piece",
         "url": "https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 228888,
       "name": "Loving And Letting Go",
       "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "No Cares Era",
+        "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 200425,
+      "name": "No Cares Era",
+      "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
     },
     {
       "added_at": "2024-08-29 16:07:50",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-08-29 16:07:50",
       "album": {
-        "name": "without you",
-        "url": "https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS"
-      },
-      "artists": [
-        {
-          "name": "Shye",
-          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
-        }
-      ],
-      "duration_ms": 206355,
-      "name": "without you",
-      "url": "https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE"
-    },
-    {
-      "added_at": "2024-08-29 16:07:50",
-      "album": {
         "name": "DREAMGALS",
         "url": "https://open.spotify.com/album/71lfgxQ0k0YM6SyI5PvagJ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 238474,
       "name": "PRIORITY",
       "url": "https://open.spotify.com/track/3AoNt2hiCPI8zAz4Rgq5k9"
+    },
+    {
+      "added_at": "2024-08-29 16:07:50",
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "duration_ms": 206355,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE"
     },
     {
       "added_at": "2024-08-29 16:07:50",

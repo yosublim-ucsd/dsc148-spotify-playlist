@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno al mando de Aqua VS & AKRIILA.
+> La casa del trap chileno al mando de Lucky Brown & Jere Klein.
 
-240 songs - 12 hr 25 min
+242 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 | 2022-07-29 |
 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 | 2022-01-20 | 2022-04-29 |
 | [Bendecido](https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bendecido](https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9) | 3:03 | 2023-08-11 |  |
+| [Bentley](https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [Bentley](https://open.spotify.com/album/2ckdAH0yjemNnvuqsE3MEa) | 2:24 | 2024-08-30 |  |
 | [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 | 2022-01-20 | 2023-07-22 |
 | [Big Glocks](https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Big Glocks](https://open.spotify.com/album/6U9wHzw31rbF5DJF4P0kiT) | 3:17 | 2024-06-21 |  |
 | [Blue V2](https://open.spotify.com/track/3AOhQ6KDL6CY19qw2D0aOR) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P) | 2:24 | 2023-03-10 | 2023-07-01 |
@@ -43,7 +44,7 @@
 | [Bugatti](https://open.spotify.com/track/5FrbeoopwtCCEcOh3qp0V8) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bugatti](https://open.spotify.com/album/0OAew01eul7YxIgc2P7dJA) | 2:03 | 2023-10-06 |  |
 | [Capi Capichi](https://open.spotify.com/track/2AM3EwEYcaDO0ZK6Z90CS2) | [Martín Acertijo](https://open.spotify.com/artist/6IesInVaMMNtX7DZchRTbJ) | [Mal de Amore](https://open.spotify.com/album/4jRI21AKiwDc7fLQ6Nfi6o) | 3:07 | 2023-08-11 | 2023-09-02 |
 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 | 2022-01-20 | 2023-12-16 |
-| [CARROS BILLETES Y PT$](https://open.spotify.com/track/3e2j7sCxw2sOnOtmpVF03E) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [CARROS BILLETES Y PT$](https://open.spotify.com/album/3BEZAWi3SWk1pMCjVTXU3A) | 2:25 | 2023-12-15 |  |
+| [CARROS BILLETES Y PT$](https://open.spotify.com/track/3e2j7sCxw2sOnOtmpVF03E) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [CARROS BILLETES Y PT$](https://open.spotify.com/album/3BEZAWi3SWk1pMCjVTXU3A) | 2:25 | 2023-12-15 | 2024-08-31 |
 | [Caviar](https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Caviar](https://open.spotify.com/album/3h6q0WLbND9uWwQkia17s4) | 2:37 | 2024-08-23 | 2024-08-25 |
 | [CELULAR](https://open.spotify.com/track/0g0Ipiv8a9kWSq4acp8L1H) | [KAZE KENZO](https://open.spotify.com/artist/73pLtWPm3Lw8ikjuX6BX0P), [Max Valenzuela](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [CELULAR](https://open.spotify.com/album/7zpODfVIHAMlfw0wNXWRFN) | 2:35 | 2022-02-11 | 2022-05-28 |
 | [CHAINZ](https://open.spotify.com/track/4CW58twcKqVT7nvtKoloHv) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [CHAINZ](https://open.spotify.com/album/6JKli5Wrp3272NFOpyapVO) | 2:15 | 2022-01-20 | 2022-12-17 |
@@ -94,6 +95,7 @@
 | [GTA](https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [GTA](https://open.spotify.com/album/2siwW2nCboPZb1gGlcRRJJ) | 2:28 | 2024-07-12 |  |
 | [GUSTOSO](https://open.spotify.com/track/6FyFJ1eaGctrKTbIoLB8eS) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [GUSTOSO](https://open.spotify.com/album/5bjaZJ1SIDCQXdQKbUt20W) | 2:17 | 2023-10-20 | 2024-07-06 |
 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 | 2022-01-20 |  |
+| [HACERME RICO](https://open.spotify.com/track/6VETiiOB9y6rmV9eNkEsLY) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [LOADING...](https://open.spotify.com/album/54eQTsG6OahvtsYGwLNQx6) | 1:58 | 2024-08-30 |  |
 | [Haciendo Billete](https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Haciendo Billete](https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C) | 2:34 | 2022-07-29 |  |
 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 | 2022-01-20 |  |
 | [HIPOCRESÍA](https://open.spotify.com/track/1407BXnFbdE9bZvAL57NxB) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [HIPOCRESÍA](https://open.spotify.com/album/1j4TNRcTJAKBphndDuLsuC) | 1:21 | 2024-03-29 | 2024-08-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "This is Deorro. The essential tracks, all in one playlist.",
+  "description": "This Is Deorro. Los temas esenciales, todos en una lista.",
   "name": "This Is Deorro",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 143359,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
@@ -910,6 +910,24 @@
       "duration_ms": 173934,
       "name": "RBS",
       "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
+    },
+    {
+      "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206228,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc"
     },
     {
       "album": {

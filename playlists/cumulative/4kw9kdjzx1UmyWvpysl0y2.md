@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-805 songs - 1 day 22 hr 4 min
+806 songs - 1 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [Same Thing](https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Same Thing](https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ) | 3:41 | 2023-02-07 | 2023-04-27 |
 | [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 | 2023-03-25 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |
+| [Save You \- VIP](https://open.spotify.com/track/0zmwNHAsHvtcBSmixRLHiU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Save You \- VIP](https://open.spotify.com/album/09JWbZi0y87fUvhHlPT33Y) | 3:20 | 2024-08-30 |  |
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |
 | [Scared To Love Again](https://open.spotify.com/track/0yadIA9MoZ46fXzRJuoqHk) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scared To Love Again](https://open.spotify.com/album/3JWq7zuTNhKFz6DhfSUVDP) | 2:58 | 2023-08-09 | 2023-12-14 |
@@ -686,7 +687,7 @@
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [Tax Evasion](https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Tax Evasion](https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33) | 3:34 | 2024-07-17 |  |
-| [Tear It Down](https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Tear It Down](https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr) | 3:05 | 2024-06-07 |  |
+| [Tear It Down](https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Tear It Down](https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr) | 3:05 | 2024-06-07 | 2024-08-31 |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 | 2023-06-24 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |
 | [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-08 | 2023-12-14 |

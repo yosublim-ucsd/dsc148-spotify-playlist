@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Goodboys, Julia Church
 
-2,145 songs - 4 day 3 hr 37 min
+2,146 songs - 4 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -960,6 +960,7 @@
 | [Kaku](https://open.spotify.com/track/0kZ4AWOu3I5OBTfu85aYmO) | [Ya Rick](https://open.spotify.com/artist/3ucRvRCMMwK4Y21glebmee) | [Kaku](https://open.spotify.com/album/6miSqQqiPXBOJNQndEiv3O) | 2:35 | 2024-05-23 | 2024-06-01 |
 | [Kaltes Klares Wasser](https://open.spotify.com/track/5CcdM9PVyZpEp828xuXnfc) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Kaltes Klares Wasser](https://open.spotify.com/album/6ENMpT92lszmX68k64Dc9h) | 2:27 | 2024-04-25 | 2024-05-03 |
 | [KAMIKAZE](https://open.spotify.com/track/4PTDaRYV60NupLQdT5dhgd) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [KAMIKAZE](https://open.spotify.com/album/09QWbdQYVoFvi2j6snm66Y) | 2:31 | 2024-05-16 | 2024-06-01 |
+| [Karma](https://open.spotify.com/track/1khJYy6XmHAhjYXsGGSJBX) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Karma](https://open.spotify.com/album/24yDYZ54bBUsqQ4ZDP6vhc) | 1:58 | 2024-08-30 |  |
 | [Karma](https://open.spotify.com/track/3mzvXUlRgBnk24rhTOmcq8) | [Emdey](https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Karma](https://open.spotify.com/album/18ePcY0UTWfLiGQa0hb06B) | 2:44 | 2023-11-17 | 2023-12-09 |
 | [KARMA \- Tiësto Version](https://open.spotify.com/track/1SkuRyv9c9fNozTHufdx1F) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [KARMA \- Tiësto Version](https://open.spotify.com/album/2oumlY6r5nqfO0qJR7bCGZ) | 3:23 | 2024-08-08 | 2024-08-30 |
 | [Kasmir](https://open.spotify.com/track/2stHaQ7GPKOkfM2WOeBYvr) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Kasmir](https://open.spotify.com/album/1hlBAsU7SOBpU2gN6hb1Ig) | 4:30 | 2024-05-09 | 2024-05-17 |
@@ -1339,7 +1340,7 @@
 | [Nudes](https://open.spotify.com/track/7zwQVhWP5akSbE9QnhCs9M) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Nudes](https://open.spotify.com/album/0HRKzg0Qbw31S6CrKmxdvu) | 2:58 | 2023-12-21 | 2024-01-05 |
 | [Numb](https://open.spotify.com/track/1wjpdHUlRq0lHfQ4PLTM7l) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Numb](https://open.spotify.com/album/1iGTnfXuAoSUF6revxR5ej) | 1:56 | 2024-02-08 | 2024-03-01 |
 | [Numb](https://open.spotify.com/track/6zzJDk7dWyJNX4gyTLuMly) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Numb](https://open.spotify.com/album/0xERxpIUDnAJNQeBOvYxH2) | 2:34 | 2024-03-28 | 2024-04-05 |
-| [Nur für Dich](https://open.spotify.com/track/6G20s423cn9kfigYkYUBpD) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Nur für Dich](https://open.spotify.com/album/7yFqG8R7m3cGRDRghqn80D) | 3:00 | 2024-08-29 |  |
+| [Nur für Dich](https://open.spotify.com/track/6G20s423cn9kfigYkYUBpD) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Nur für Dich](https://open.spotify.com/album/7yFqG8R7m3cGRDRghqn80D) | 3:00 | 2024-08-29 |  |
 | [O Fortuna](https://open.spotify.com/track/6opBFQzVEGQPxaQFqGfjWI) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Ninkid](https://open.spotify.com/artist/1YpcWKZ6C4hf2Qzj9X3ens) | [O Fortuna](https://open.spotify.com/album/7tcS35RM3CLNsdAbKHfi2I) | 2:36 | 2023-12-29 | 2024-01-12 |
 | [Oblivion](https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Oblivion](https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa) | 2:01 | 2024-02-22 | 2024-02-24 |
 | [Oblivion](https://open.spotify.com/track/40deyylbGw0N2GskoKmvpJ) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Oblivion](https://open.spotify.com/album/5aZFoCb2demmE9lCetUwhL) | 2:01 | 2024-02-23 | 2024-03-29 |

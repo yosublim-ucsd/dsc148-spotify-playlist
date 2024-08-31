@@ -4,10 +4,11 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-222 songs - 12 hr 42 min
+223 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2025](https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Stans](https://open.spotify.com/artist/3SGVmvivNB2Z163W8y5Djc) | [2025](https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi) | 3:18 | 2024-08-30 |  |
 | [Abee](https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Abee](https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn) | 3:09 | 2023-11-30 | 2024-04-05 |
 | [African Girl](https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joh Marley](https://open.spotify.com/artist/6IVRhkrCpt2PQxqY5Y39yz) | [African Girl](https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k) | 3:35 | 2024-01-25 | 2024-05-03 |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |

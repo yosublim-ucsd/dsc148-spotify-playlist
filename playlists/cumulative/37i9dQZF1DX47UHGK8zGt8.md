@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-258 songs - 14 hr 38 min
+259 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Faz Bem \(Remoto\)](https://open.spotify.com/track/519dlI8wnI3klKGhUiNhPv) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz), [Júlia Pinho](https://open.spotify.com/artist/069jZOSC75oYXarD6wc7PB) | [Faz Bem \(Remoto\)](https://open.spotify.com/album/7rWbIKgjwSob2fD8NrN0ph) | 2:59 | 2022-04-01 | 2022-07-24 |
 | [FEBRE](https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:58 | 2024-08-19 |  |
 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 | 2022-02-18 |  |
-| [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2022-02-18 |  |
+| [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2022-02-18 | 2024-08-31 |
 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 | 2022-04-01 |  |
 | [For No One](https://open.spotify.com/track/7h3oEzebG1EiGrlelJYaUd) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/3c6QuGftzoHlZZ10TPsHsB) | 5:02 | 2022-04-01 | 2022-04-21 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-21 |  |
@@ -150,6 +150,7 @@
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-04-01 | 2022-08-02 |
 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 | 2023-05-03 |
 | [Marquinha](https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Marquinha](https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ) | 2:17 | 2022-06-24 | 2022-07-18 |
+| [ME AJUDE A SALVAR OS DOMINGOS](https://open.spotify.com/track/7ELT2o6bfErbCLpC16WOsd) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 | 2024-08-30 |  |
 | [Me conta da tua janela](https://open.spotify.com/track/6oEwV0l34zhnC7OmAqmHjY) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Me conta da tua janela](https://open.spotify.com/album/5GpWKpMkkFoz94PFxBeAJF) | 3:22 | 2022-02-18 | 2024-07-29 |
 | [Me Desculpa Jay\-Z \- Remix](https://open.spotify.com/track/40hftNcJCgyecU9qBztKJw) | [NZ Gang](https://open.spotify.com/artist/6iMKGYHTI74f87dWYeVkxX) | [Me Desculpa Jay\-Z \(Remix\)](https://open.spotify.com/album/2wAuBTMFO4dWdHgG55d3Tv) | 3:36 | 2022-04-01 | 2022-04-21 |
 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 | 2022-02-18 |  |

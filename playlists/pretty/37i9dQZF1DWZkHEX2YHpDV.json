@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: State Champs",
-  "num_followers": 455672,
+  "num_followers": 455698,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "CRIMINAL",
-        "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "CRIMINAL",
-      "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "believe the hype",
-        "url": "https://open.spotify.com/album/5sZDwRqDaOOdplyfSc2w3I"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 215908,
-      "name": "believe the hype",
-      "url": "https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "believe the hype",
+        "url": "https://open.spotify.com/album/5sZDwRqDaOOdplyfSc2w3I"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 215908,
+      "name": "believe the hype",
+      "url": "https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "life till bones",
         "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 179480,
       "name": "the country club",
       "url": "https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "LOVE U ANYWAY",
-        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "LOVE U ANYWAY",
-      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Year Of The Vulture",
-        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 148882,
-      "name": "Year Of The Vulture",
-      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Meet You There 2.0",
         "url": "https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 202219,
       "name": "Meet You There 2.0",
       "url": "https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Year Of The Vulture",
+        "url": "https://open.spotify.com/album/23gZgC86I9dErLpppoGD7q"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 148882,
+      "name": "Year Of The Vulture",
+      "url": "https://open.spotify.com/track/0eFtkwEavaYhrmkSl95gmS"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "daddy of mine",
-        "url": "https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "daddy of mine",
-      "url": "https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Constant Headache",
         "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
@@ -1363,6 +1331,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Secondary Worship",
         "url": "https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 226903,
       "name": "Secondary Worship",
       "url": "https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "daddy of mine",
+        "url": "https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 144773,
+      "name": "daddy of mine",
+      "url": "https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1411,22 +1411,6 @@
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "dead end friend",
-        "url": "https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 164887,
-      "name": "dead end friend",
-      "url": "https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "only overnight",
         "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "PIN-EYE",
-        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+        "name": "dead end friend",
+        "url": "https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ"
       },
       "artists": [
         {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
         }
       ],
-      "duration_ms": 272668,
-      "name": "PIN-EYE",
-      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+      "duration_ms": 164887,
+      "name": "dead end friend",
+      "url": "https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 147546,
       "name": "Alameda County Fair",
       "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "SCUMBAG",
-        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 186910,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "SCUMBAG",
+        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 186910,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "I'M IN THE MARKET TO PLEASE NO ONE",
         "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
       },
@@ -1759,54 +1759,6 @@
       "duration_ms": 160683,
       "name": "I'M IN THE MARKET TO PLEASE NO ONE",
       "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Permanent Repeat",
-        "url": "https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK"
-      },
-      "artists": [
-        {
-          "name": "Macseal",
-          "url": "https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "Golden Harbor",
-      "url": "https://open.spotify.com/track/61Syza9tkRLZKd8Ka7KtJP"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "In Another Dream",
-        "url": "https://open.spotify.com/album/0Z5mgdbl2E6GygFzHHZm6t"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "In Another Dream",
-      "url": "https://open.spotify.com/track/4EPeKo0NZJgTtuoFlVgyOZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1827,6 +1779,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Permanent Repeat",
+        "url": "https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK"
+      },
+      "artists": [
+        {
+          "name": "Macseal",
+          "url": "https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Golden Harbor",
+      "url": "https://open.spotify.com/track/61Syza9tkRLZKd8Ka7KtJP"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
       },
@@ -1839,6 +1807,38 @@
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "In Another Dream",
+        "url": "https://open.spotify.com/album/0Z5mgdbl2E6GygFzHHZm6t"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "In Another Dream",
+      "url": "https://open.spotify.com/track/4EPeKo0NZJgTtuoFlVgyOZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1859,22 +1859,6 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1911,22 +1895,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/79sCkEaZDNVVc5P5mPS1R4"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "Girl Of My Dreams",
-      "url": "https://open.spotify.com/track/5HMj2Nt9YDyOwuzSzTMV0u"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/4eE2Pur89553Q6vc6wy73f"
       },
@@ -1951,6 +1919,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/79sCkEaZDNVVc5P5mPS1R4"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "Girl Of My Dreams",
+      "url": "https://open.spotify.com/track/5HMj2Nt9YDyOwuzSzTMV0u"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Botch Job",
         "url": "https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 166800,
       "name": "Botch Job",
       "url": "https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Hate Myself",
-        "url": "https://open.spotify.com/album/5C4FCVws4TsoYL68aCXsIF"
+        "name": "Thanks but No Thanks",
+        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
       },
       "artists": [
         {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 177804,
-      "name": "Hate Myself",
-      "url": "https://open.spotify.com/track/20M1LMLuHaqBU1J2dwbEcV"
+      "duration_ms": 186440,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2031,18 +2031,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Thanks but No Thanks",
-        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/5C4FCVws4TsoYL68aCXsIF"
       },
       "artists": [
         {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
         }
       ],
-      "duration_ms": 186440,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
+      "duration_ms": 177804,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/20M1LMLuHaqBU1J2dwbEcV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2063,22 +2079,6 @@
       "duration_ms": 150186,
       "name": "I Died",
       "url": "https://open.spotify.com/track/0ea8gi7YhQj5M9ooEkUn35"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Stupefied",
-        "url": "https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG"
-      },
-      "artists": [
-        {
-          "name": "Footballhead",
-          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
-        }
-      ],
-      "duration_ms": 172478,
-      "name": "Stupefied",
-      "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "It's Sorted",
         "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 244586,
       "name": "Life in a Bag",
       "url": "https://open.spotify.com/track/0nFnvVnps2gOH1YU5xAHD0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Stupefied",
+        "url": "https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "duration_ms": 172478,
+      "name": "Stupefied",
+      "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Giant's Despair",
-        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Giant's Despair",
-      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "The Ocean",
         "url": "https://open.spotify.com/album/5xkTDUJ4frtffODIZeQa8y"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 213141,
       "name": "What's An Hour Really Worth",
       "url": "https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
         "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
       },
@@ -2515,6 +2499,38 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Over My Dead Body EP",
+        "url": "https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 137229,
+      "name": "Over My Dead Body",
+      "url": "https://open.spotify.com/track/1ONYGY9f1xHTAVFbN2JkY9"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "(e)motion sickness",
         "url": "https://open.spotify.com/album/1j6hMN9ifg5WuvaDetd1kb"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 168090,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4L8N6rZRLZndXM2djmpfSw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Over My Dead Body EP",
-        "url": "https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 137229,
-      "name": "Over My Dead Body",
-      "url": "https://open.spotify.com/track/1ONYGY9f1xHTAVFbN2JkY9"
     }
   ],
   "unique_name": "The Scene",

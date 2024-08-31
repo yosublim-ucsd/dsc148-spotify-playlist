@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 232440,
       "name": "Broken Heart of Mine",
       "url": "https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 225026,
       "name": "Everything At Once (feat. Jeff Tweedy)",
       "url": "https://open.spotify.com/track/5Ge9rfVubgN6gDv6yBz7An"
@@ -4876,7 +4876,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 176915,
       "name": "Heart is the Hero",
       "url": "https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8"
@@ -8997,6 +8997,42 @@
     },
     {
       "album": {
+        "name": "Red Yellow Indigo",
+        "url": "https://open.spotify.com/album/3JnJ7MZTeKoW0jNzdKL0FZ"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Red Yellow Indigo",
+      "url": "https://open.spotify.com/track/5XgQ21xtJTyudYlHz24WpD"
+    },
+    {
+      "album": {
+        "name": "Consequences of the Crown",
+        "url": "https://open.spotify.com/album/2qTcRr7zNYZbGU5cjVgtHD"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225300,
+      "name": "Regular Man",
+      "url": "https://open.spotify.com/track/3r3RO2AcFG9SyJ2gfUfyxz"
+    },
+    {
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/2yt6JLfzR8GNWTz8Y5jDrO"
       },
@@ -9334,7 +9370,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 242185,
       "name": "Roman Candle",
       "url": "https://open.spotify.com/track/7B3ospxtMq2QWIJmwoeF0H"
@@ -10296,6 +10332,24 @@
       "duration_ms": 253253,
       "name": "Stand For Myself",
       "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
+    },
+    {
+      "album": {
+        "name": "Statues",
+        "url": "https://open.spotify.com/album/5xhOUZSm5LTDzgU0pz0HYv"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/319R48ARXApSWmjzUgfkVZ"
     },
     {
       "album": {
@@ -11700,6 +11754,24 @@
       "duration_ms": 224583,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
+    },
+    {
+      "album": {
+        "name": "Still Provoked",
+        "url": "https://open.spotify.com/album/6tXJMaVcENjAiSyNXyW0C8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137928,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/7M10tbfWnKZT3MR8zCccmr"
     },
     {
       "album": {

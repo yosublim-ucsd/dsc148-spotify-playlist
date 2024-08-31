@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Greccia en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Elsa y Elmar en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 144786,
       "name": "Cien Pies",
       "url": "https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G"
@@ -754,6 +754,24 @@
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
+    },
+    {
+      "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
     },
     {
       "album": {
@@ -1083,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Salvadora",
+        "url": "https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr"
+      },
+      "artists": [
+        {
+          "name": "Baskiat",
+          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "funkoh",
+      "url": "https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf"
+    },
+    {
+      "album": {
         "name": "F\u00fatbol Rock",
         "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
       },
@@ -1268,7 +1304,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
@@ -1883,6 +1919,28 @@
     },
     {
       "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -1974,7 +2032,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 235760,
       "name": "No Me Dan Las Cuentas",
       "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
@@ -2608,7 +2666,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 171214,
       "name": "Sin Riesgo",
       "url": "https://open.spotify.com/track/2DdGAU31oTaGJkuLGHK9gp"
@@ -2884,6 +2942,24 @@
       "duration_ms": 167673,
       "name": "Un X100To",
       "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
+    },
+    {
+      "album": {
+        "name": "Vargas",
+        "url": "https://open.spotify.com/album/5lWCGxsJ2q6H93HAeA1EqE"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145801,
+      "name": "Vargas",
+      "url": "https://open.spotify.com/track/12UopKNxZcsMedcVBehwHp"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Tiago PZK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,700 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,721 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Como Antes](https://open.spotify.com/track/6MAB4oCZtECXRj7vybPb40) | [Thega Diaz](https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Como Antes](https://open.spotify.com/album/6UPdsEVKadhjafllM5p2rc) | 3:00 |
+| 1 | [túnosabes](https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [túnosabes](https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq) | 3:02 |
 | 2 | [Cristal](https://open.spotify.com/track/4dylyC02Khva3H9X3sooHV) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:31 |
 | 3 | [Antes](https://open.spotify.com/track/6EIfIH8TlXna5eiTTfD7it) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Antes](https://open.spotify.com/album/50XhJ1MbUXrB619f3w2rUT) | 3:26 |
 | 4 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 99 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
 | 100 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 |
 
-Snapshot ID: `ZsglYAAAAAC2LxZlrYmPKreUphQf9INK`
+Snapshot ID: `ZtFf4AAAAAAAvjzxjh69O12XaanvBDww`

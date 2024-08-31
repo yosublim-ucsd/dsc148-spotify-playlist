@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 176993,
       "name": "Completamente Un Incompleto",
       "url": "https://open.spotify.com/track/0HP1mKw7pFBvFgZDIVMBX1"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168980,
       "name": "Cuidado Que Te Supero",
       "url": "https://open.spotify.com/track/5nRkIy23DFOjph1R6YkFG8"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 387552,
       "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
       "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
@@ -3025,6 +3025,28 @@
     },
     {
       "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158848,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
+    },
+    {
+      "album": {
         "name": "Hola Bebe",
         "url": "https://open.spotify.com/album/2bLKhZCC42Tqm28MqmQAZ4"
       },
@@ -3738,6 +3760,28 @@
       "duration_ms": 182532,
       "name": "La \u00daltima Granada (DQV Premium)",
       "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Granada - En Vivo",
+        "url": "https://open.spotify.com/album/5uc1xjjYiLGJP84EfjxSBO"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166493,
+      "name": "La \u00daltima Granada - En Vivo",
+      "url": "https://open.spotify.com/track/6TnZSXypAbIozg8BlodtWe"
     },
     {
       "album": {
@@ -7878,7 +7922,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"

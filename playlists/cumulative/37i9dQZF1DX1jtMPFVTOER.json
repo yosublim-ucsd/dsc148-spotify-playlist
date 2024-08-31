@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Black Walnut",
+        "url": "https://open.spotify.com/album/6Y34wKV0BoqAMicwoMn8jM"
+      },
+      "artists": [
+        {
+          "name": "SHEBAD",
+          "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Black Walnut",
+      "url": "https://open.spotify.com/track/0sSGPca0P8DKAXO2e48Qmg"
+    },
+    {
+      "album": {
         "name": "Blood & Sweat",
         "url": "https://open.spotify.com/album/14QIlmtyL5yGjQYKHtq3Cs"
       },
@@ -4499,6 +4517,32 @@
     },
     {
       "album": {
+        "name": "Gilgamesh",
+        "url": "https://open.spotify.com/album/3VAilypndl6FcUryyLqA9I"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "JamalThaDon",
+          "url": "https://open.spotify.com/artist/1Q0QdXJBUgXIykD8ZuKXwB"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144805,
+      "name": "Gilgamesh",
+      "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
+    },
+    {
+      "album": {
         "name": "Give Me the High (Moods Remix)",
         "url": "https://open.spotify.com/album/2KOzCOjBtnssMr0bYPgwgt"
       },
@@ -4978,7 +5022,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 240065,
       "name": "Hekima",
       "url": "https://open.spotify.com/track/6JxJEhBAHAnhjCtcHLJFNt"
@@ -5122,7 +5166,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 228251,
       "name": "Hometown Hero",
       "url": "https://open.spotify.com/track/4poofyrRe5Dh8p175GU0hz"
@@ -7260,7 +7304,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 164177,
       "name": "Memory Card",
       "url": "https://open.spotify.com/track/0Q5wrdN6cNJVC621vj3UW7"
@@ -7910,7 +7954,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 170287,
       "name": "No Confusion - Alternate Take",
       "url": "https://open.spotify.com/track/4AEXCKcdVexMOx2j9WmqRn"
@@ -11596,6 +11640,32 @@
       "duration_ms": 286080,
       "name": "TO BE WE (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/7E9Wkj81UFn20qDWhRn0ee"
+    },
+    {
+      "album": {
+        "name": "Ravenite Social Club",
+        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emi Secrest",
+          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236873,
+      "name": "To You (feat. Robert Glasper, Emi Secrest)",
+      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-468 songs - 1 day 2 hr 45 min
+469 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/2myKcFWoAgze1hHO6QOQb1) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/14tRqV2OKEE7HJSF1uH5N1) | 5:19 | 2022-10-19 |  |
 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/5ezcTUwyCxfHDoOeBKTADM) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/25YM5iln4UcpH11FDPmIOJ) | 5:19 | 2022-09-08 | 2022-10-20 |
 | [I’ll See You There Tomorrow](https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 3:16 | 2024-05-14 |  |
-| [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/track/6QY9QsU8KypFpl2Pi46KYs) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/album/58yK3KLH0wJwCPHJAs2Eg5) | 3:55 | 2022-12-15 |  |
+| [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/track/6QY9QsU8KypFpl2Pi46KYs) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/album/58yK3KLH0wJwCPHJAs2Eg5) | 3:55 | 2022-12-15 | 2024-08-31 |
+| [I’m Not Okay but I Know I’m Going to Be](https://open.spotify.com/track/7kNIvqrnhutFtlbSKGLtLr) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [I’m Not Okay but I Know I’m Going to Be](https://open.spotify.com/album/0Hsqa3IVjmJ73F8sxezvdc) | 3:55 | 2024-08-30 |  |
 | [Judgement Day](https://open.spotify.com/track/4JiQzlr0qkeLlC5uJrcWiY) | [Yehoshu'a Musiq](https://open.spotify.com/artist/4juTsgicHHY4WREI9cAc7T) | [APTTMHY \(All Praise To The Most High YAH\)](https://open.spotify.com/album/2z6IOwGpqAmLujUs4JH6qY) | 2:53 | 2023-12-13 |  |
 | [Kingdom](https://open.spotify.com/track/0LHjotMicZfqH5qTuB0k8P) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Escape](https://open.spotify.com/album/5fTQCKSHr5hpGHEo51n4e7) | 3:52 | 2022-09-08 |  |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2023-06-22 |  |

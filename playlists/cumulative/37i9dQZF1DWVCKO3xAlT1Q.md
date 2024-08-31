@@ -44,6 +44,6 @@
 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 | 2024-05-11 |  |
 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 | 2024-05-11 |  |
 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-05-11 |  |
-| [Özünlə Apar](https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs) | [Fahree](https://open.spotify.com/artist/0Fkjczl8PFJL6frgE8TRpB), [İlkin Dovletov](https://open.spotify.com/artist/0xz8XJLywtYA1ptDWiUpAc) | [Özünlə Apar](https://open.spotify.com/album/5hWF14gjXTOdMeoRZ8XpXv) | 3:02 | 2024-05-11 |  |
+| [Özünlə Apar](https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs) | [Fahree](https://open.spotify.com/artist/0Fkjczl8PFJL6frgE8TRpB), [İlkin Dövlətov](https://open.spotify.com/artist/0xz8XJLywtYA1ptDWiUpAc) | [Özünlə Apar](https://open.spotify.com/album/5hWF14gjXTOdMeoRZ8XpXv) | 3:02 | 2024-05-11 |  |
 
 \*This playlist was first scraped on 2024-05-12. Prior content cannot be recovered.

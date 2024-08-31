@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Stans",
+          "url": "https://open.spotify.com/artist/3SGVmvivNB2Z163W8y5Djc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf"
+    },
+    {
+      "album": {
         "name": "Abee",
         "url": "https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn"
       },

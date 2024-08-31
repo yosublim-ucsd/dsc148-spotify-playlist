@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "metalcore at its best. Cover: Fit For A King",
+  "description": "metalcore at its best. Cover: thrown",
   "name": "The Core",
   "tracks": [
     {
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "EXCESSIVE GUILT",
+        "url": "https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114480,
+      "name": "bitter friend",
+      "url": "https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d"
+    },
+    {
+      "album": {
         "name": "Bitter Friend (feat. Matt Heafy)",
         "url": "https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD"
       },
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 198517,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 208645,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
@@ -5862,7 +5880,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 217026,
       "name": "Epitaph",
       "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
@@ -9932,7 +9950,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 90036,
       "name": "look at me",
       "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
@@ -18294,6 +18312,24 @@
       "duration_ms": 202758,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
+    },
+    {
+      "album": {
+        "name": "Wildfires",
+        "url": "https://open.spotify.com/album/4SjnWy1dRE4laBw4qAerMf"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-90 songs - 4 hr 41 min
+91 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 | 2024-06-06 | 2024-06-21 |
 | [Distant Stars](https://open.spotify.com/track/3Py9NAhqekG0MaFbe6RdGV) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Distant Stars](https://open.spotify.com/album/04ixdVxcbypoIbfAzOMuHn) | 2:33 | 2024-06-06 |  |
 | [Dream Sync](https://open.spotify.com/track/53qDR5jz1qhcaemVlIe46E) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Synthetic](https://open.spotify.com/album/5a8wgN3tp3cmZdejIofU5M) | 3:02 | 2024-06-06 | 2024-08-11 |
+| [Dreaming In Digital](https://open.spotify.com/track/6qlN8LGUnSsQp3fAzzyry0) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Dreaming In Digital](https://open.spotify.com/album/4K1j2dOWSsJ7WWk11hPg4l) | 2:26 | 2024-08-30 |  |
 | [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 | 2024-06-06 |  |
 | [Echoes](https://open.spotify.com/track/2UloubV0VmWeY9MT1Pnv06) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Echoes](https://open.spotify.com/album/2uh5TWemNU1MmoFyOFvtZl) | 2:53 | 2024-06-06 |  |
 | [Elysian Echoes](https://open.spotify.com/track/0KlLfMXfofptTSJt3Z6pMY) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Elysian Echoes](https://open.spotify.com/album/7jhIi3tarngZFO4f948jaD) | 2:52 | 2024-06-06 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x Kickbait
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Cyril
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,187 likes - 11 songs - 27 min 3 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,178 likes - 11 songs - 27 min 3 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 10 | [Moves](https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL) | [Taurus](https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K) | [Moves](https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG) | 3:01 |
 | 11 | [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 |
 
-Snapshot ID: `AAAd0i/HTRYkyY8U1bHnVycnV74FqD3N`
+Snapshot ID: `AAAd05z8P05kkWz1Xlrbgaz9PFlgMkBn`

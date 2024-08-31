@@ -4,7 +4,7 @@
 
 > These are the eclectic sounds of now\. Cover: Yannis & The Yaw
 
-224 songs - 13 hr 51 min
+225 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-16 | 2024-07-12 |
 | [Tui Is a Bird \(The Work\)](https://open.spotify.com/track/7BtsnPjI397ggnyVIomOBH) | [Jess Cornelius](https://open.spotify.com/artist/4RjdSdeePEsz8SHyTLILCL) | [CARE/TAKING](https://open.spotify.com/album/62vzAtNRydPNzP9Zw9ewXS) | 4:39 | 2024-06-13 | 2024-07-27 |
 | [Unwounded](https://open.spotify.com/track/618iOTJUU6Axv2S2NbUX8n) | [Endorf](https://open.spotify.com/artist/30q1DkPZx4JNdBt918CaHk) | [Unwounded](https://open.spotify.com/album/0Z9kBmUN8GUGRtB8ZOZabC) | 2:59 | 2024-08-22 |  |
+| [UV](https://open.spotify.com/track/3fgalo68aOzGFbItJiqgvb) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [UV](https://open.spotify.com/album/2rUBg9RzKW7cLWmrBlETa2) | 2:34 | 2024-08-29 |  |
 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 | 2024-06-20 | 2024-07-19 |
 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 | 2024-06-27 | 2024-08-16 |
 | [Wake UP!](https://open.spotify.com/track/0KMvA5OyFqK8zEeWz1II17) | [Darby](https://open.spotify.com/artist/6aNR1pUIhZOYZvSzbWfQOT) | [Wake UP!](https://open.spotify.com/album/5GvTZ0R8n8SVammrc3AVM1) | 2:09 | 2024-06-06 | 2024-08-23 |

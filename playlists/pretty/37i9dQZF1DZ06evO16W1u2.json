@@ -1,12 +1,12 @@
 {
-  "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2585,
+  "description": "This Is Rio. Los temas esenciales, todos en una lista.",
+  "num_followers": 2587,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADZXuoIjry4+WFvjMC4S+Eu",
+  "snapshot_id": "Zs+6AAAAAABwKj9HfCGyof5+CTn/wkzF",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,57 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 154555,
-      "name": "No Puedes Olvidarme",
-      "url": "https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM"
+      "duration_ms": 218632,
+      "name": "Joaqu\u00edn",
+      "url": "https://open.spotify.com/track/5seRPbluFunm8TgPCPSBUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "D\u00f3nde Vas",
+      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 214204,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/2HllS5tk38hZpbk1Rf94M5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Dicen Que el Viento",
+      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
     },
     {
       "added_at": null,
@@ -683,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/2HllS5tk38hZpbk1Rf94M5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00eda de Pesca",
         "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
       },
@@ -715,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Dicen Que el Viento",
-      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock And Qu\u00e9",
-        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "D\u00f3nde Vas",
-      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Vuelta al Barrio Vol.1",
         "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 181105,
       "name": "Estoy Cantando",
       "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00a1Vamos a Volver!",
         "url": "https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "No Hay Ley",
-      "url": "https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 214168,
       "name": "Esa Luz Se Va",
       "url": "https://open.spotify.com/track/14StqwDnmkuaypUOoBDLdI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "No Hay Ley",
+      "url": "https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA"
     }
   ],
   "unique_name": "This Is Rio",

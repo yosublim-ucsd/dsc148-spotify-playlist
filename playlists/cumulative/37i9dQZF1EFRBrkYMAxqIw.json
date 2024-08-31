@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/5u9QWNmLMfopDTmAPLLaRs"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/0IX0wJhC4YKzQIluzeaIgY"
+    },
+    {
+      "album": {
         "name": "Conversations with Strangers",
         "url": "https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR"
       },

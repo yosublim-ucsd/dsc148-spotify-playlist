@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Luanna. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 10158,
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 10185,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADqzfUkvJs4J2z8/LnRdFQO",
+  "snapshot_id": "Zs+6AAAAAAA18jXAANkw93WhpiGOiYS5",
   "tracks": [
     {
       "added_at": null,
@@ -383,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": null,
@@ -743,26 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/3p1c8zabB8utxUkKvqgn7S"
+        "name": "Trap de Quebra",
+        "url": "https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 124236,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4LywZvSY91e8YqEHVqBkoI"
+      "duration_ms": 167426,
+      "name": "iPhone 12",
+      "url": "https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR"
     },
     {
       "added_at": null,
@@ -791,22 +787,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap de Quebra",
-        "url": "https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/3p1c8zabB8utxUkKvqgn7S"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 167426,
-      "name": "iPhone 12",
-      "url": "https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR"
+      "duration_ms": 124236,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4LywZvSY91e8YqEHVqBkoI"
     },
     {
       "added_at": null,
@@ -835,26 +835,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hino Delas",
-        "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
+        "name": "Botano (\u00datero Baixo)",
+        "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
       },
       "artists": [
         {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+          "name": "DJ Caio Prince",
+          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Thiago Martins",
+          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
         }
       ],
-      "duration_ms": 139854,
-      "name": "Hino Delas",
-      "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
+      "duration_ms": 166153,
+      "name": "Botano (\u00datero Baixo)",
+      "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
     },
     {
       "added_at": null,
@@ -899,6 +903,30 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hino Delas",
+        "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        }
+      ],
+      "duration_ms": 139854,
+      "name": "Hino Delas",
+      "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
     },
     {
       "added_at": null,
@@ -963,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "Foi S\u00f3 Eu Te Deixar",
+      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e9talas",
         "url": "https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv"
       },
@@ -987,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 124546,
-      "name": "Foi S\u00f3 Eu Te Deixar",
-      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap The Fato Deluxe",
         "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
@@ -1027,6 +1055,34 @@
       "duration_ms": 178758,
       "name": "NOVINHA MANDRAKA",
       "url": "https://open.spotify.com/track/2hB98xPNhpahju25eLttyz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Notas",
+        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Piazza",
+          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Notas",
+      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     },
     {
       "added_at": null,
@@ -1059,34 +1115,6 @@
       "duration_ms": 180830,
       "name": "DEPOIS DO BAILE",
       "url": "https://open.spotify.com/track/2j15gcfNgGBgfvjQXCTqhg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notas",
-        "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Jean",
-          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Piazza",
-          "url": "https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Notas",
-      "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     },
     {
       "added_at": null,
@@ -1239,30 +1267,6 @@
       "duration_ms": 138490,
       "name": "Pretinha Treinada",
       "url": "https://open.spotify.com/track/6JF2dUqE5ssSbkXewy69kB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REAL R&B",
-        "url": "https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j"
-      },
-      "artists": [
-        {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "SEM BARULHO",
-      "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > Da igual si disfrutas tu verano en la alberquita 🏖️ pasando tiempo con tus amigos bajo el sol 🌞 o haciendo una carnita asada 🌭 el prota de esta peli eres tú, bais! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,024 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,038 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

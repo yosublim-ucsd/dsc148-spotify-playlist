@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-259 songs - 13 hr 21 min
+260 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [ni tú ni yo](https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ni tú ni yo](https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB) | 2:55 | 2023-11-10 | 2024-01-26 |
 | [No Copio de Nada](https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv), [King Daga](https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3), [JHONA](https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT) | [No Copio de Nada](https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF) | 2:47 | 2023-04-14 | 2023-04-29 |
 | [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 | 2023-03-17 | 2023-05-13 |
-| [No Me 100to Bien](https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Me 100to Bien](https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95) | 3:22 | 2024-07-05 |  |
+| [No Me 100to Bien](https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Me 100to Bien](https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95) | 3:22 | 2024-07-05 | 2024-08-31 |
 | [No Me Digas Que No \- Remix](https://open.spotify.com/track/06yVKqQFFuvq9Zqnmcsb7a) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [No Me Digas Que No \(Remix\)](https://open.spotify.com/album/1OdRfo9yfhQYmMnsFMaFHt) | 3:17 | 2023-09-29 |  |
 | [No Me Hablen de Él](https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Me Hablen de Él](https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz) | 3:11 | 2023-02-24 | 2023-04-09 |
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/4ggJRnJzcDtXwrkmQ8ZiLG) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/0DeM6uRe2NUTaNLr27NaQd) | 3:18 | 2023-09-29 | 2023-11-04 |
@@ -230,6 +230,7 @@
 | [Sin Sentimientos](https://open.spotify.com/track/1bsNI5RBmiv9AQ8aPbl5yN) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Sin Sentimientos](https://open.spotify.com/album/55TBlsqyVYB03SrGdq3F9h) | 2:28 | 2024-04-05 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/3x0cDerFLCgNxTsUWtjoAi) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [El Rey del Chupe](https://open.spotify.com/album/7jDZkDqmE1QNWEvcrxXwwm) | 2:28 | 2022-08-12 | 2024-04-19 |
 | [Sobreviviré](https://open.spotify.com/track/0er9eZxOsGP652IMsKCVil) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Sobreviviré](https://open.spotify.com/album/5J4Phy8c2UDxTQ1kB4ThgN) | 3:56 | 2023-11-10 | 2024-04-06 |
+| [Soltera](https://open.spotify.com/track/1MGObBnZiwUi33QtgBp823) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/0j20G8pJ4ZR9YyHKFp3Sau) | 2:45 | 2024-08-30 |  |
 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 | 2022-08-12 |  |
 | [Soltero Feliz](https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB) | 3:51 | 2023-12-01 | 2024-04-19 |
 | [Te Extraño](https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Te Extraño](https://open.spotify.com/album/1pdxfcoAl2QOW3WOC1R8zd) | 3:03 | 2022-08-12 |  |

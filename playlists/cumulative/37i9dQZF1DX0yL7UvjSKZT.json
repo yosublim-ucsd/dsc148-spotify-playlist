@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
+    },
+    {
+      "album": {
         "name": ".-..",
         "url": "https://open.spotify.com/album/2V1FvKvcKEsYNHXW1wXNHU"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 291276,
       "name": "Commencement",
       "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 210549,
       "name": "Forever, You & I",
       "url": "https://open.spotify.com/track/3fkRPK9CvfZAqmbwSLSxh4"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 245703,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW"
@@ -3459,6 +3477,28 @@
     },
     {
       "album": {
+        "name": "I Will Not Go Down (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/7HPOLhuFelaq5SseZYhnQJ"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "I Will Not Go Down (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/2eQxXfDk7F06iYIfOeERil"
+    },
+    {
+      "album": {
         "name": "I'll Be Lost",
         "url": "https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy"
       },
@@ -3932,7 +3972,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 211718,
       "name": "Kessler",
       "url": "https://open.spotify.com/track/08mJobF7P3KjQvEDgZ6uRq"
@@ -4384,6 +4424,28 @@
       "duration_ms": 207847,
       "name": "Memory Bank",
       "url": "https://open.spotify.com/track/1EA5W3S3UFcklbYBRPTi8n"
+    },
+    {
+      "album": {
+        "name": "Middle/The River that Runs Both Ways",
+        "url": "https://open.spotify.com/album/3b2JjOFLrPissJ0mansD9u"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306887,
+      "name": "Middle/The River that Runs Both Ways",
+      "url": "https://open.spotify.com/track/3qP3i0o0gTHvYZzUxiE9Jh"
     },
     {
       "album": {
@@ -6266,7 +6328,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 178929,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/1cM6J7w8USlRVBz2qsAd47"
@@ -6422,6 +6484,24 @@
       "duration_ms": 166434,
       "name": "Soldiers Joy",
       "url": "https://open.spotify.com/track/41UIoI9cGEVx7Qm3Y6Ssun"
+    },
+    {
+      "album": {
+        "name": "Something to Write In Stone",
+        "url": "https://open.spotify.com/album/5SAJhWZnq2ypxAf8ZOAXzn"
+      },
+      "artists": [
+        {
+          "name": "Mindy Smith",
+          "url": "https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Something to Write In Stone",
+      "url": "https://open.spotify.com/track/3NB8K0ryswvReiu3ZCQ8dH"
     },
     {
       "album": {
@@ -6876,7 +6956,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 262092,
       "name": "Tell Me I'm Not Dreaming",
       "url": "https://open.spotify.com/track/5lLLan3sQ3MqvVifwOcBAN"
@@ -7084,6 +7164,28 @@
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
+    },
+    {
+      "album": {
+        "name": "Sweet Critters",
+        "url": "https://open.spotify.com/album/5WqBz1TAV3T2xH9rApLMqP"
+      },
+      "artists": [
+        {
+          "name": "Caleb Caudle",
+          "url": "https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "The Brim",
+      "url": "https://open.spotify.com/track/4hvT5urTHMss2bnexF6thL"
     },
     {
       "album": {
@@ -7524,7 +7626,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 250866,
       "name": "The Unfinished Path",
       "url": "https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE"
@@ -8100,7 +8202,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 240000,
       "name": "Wayfaring Stranger",
       "url": "https://open.spotify.com/track/7s5MGO3eJBDuCfsUutotIC"
@@ -8492,6 +8594,24 @@
       "duration_ms": 240270,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/06Csr6ofiaP6S81JYnnQtO"
+    },
+    {
+      "album": {
+        "name": "Wildflowers In The Sky",
+        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162099,
+      "name": "Wildflowers In The Sky",
+      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
     },
     {
       "album": {

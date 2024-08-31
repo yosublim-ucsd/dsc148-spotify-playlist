@@ -664,7 +664,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 298400,
       "name": "Heaven Or Las Vegas",
       "url": "https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj"
@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209871,
+      "name": "Taste The Air",
+      "url": "https://open.spotify.com/track/0lua5pt4qEWHQLE3cHu5B0"
+    },
+    {
+      "album": {
         "name": "Maida Vale Sessions",
         "url": "https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx"
       },
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 257173,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d"
@@ -2076,6 +2094,24 @@
       "duration_ms": 252400,
       "name": "Transparent Radiation - Single Version",
       "url": "https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx"
+    },
+    {
+      "album": {
+        "name": "Love Drips And Gathers",
+        "url": "https://open.spotify.com/album/5tusxNUOEipavwNO8P0MNI"
+      },
+      "artists": [
+        {
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203197,
+      "name": "V.O.",
+      "url": "https://open.spotify.com/track/6Xixw5h0qlV7U5Fj7dP3cM"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: Ananya Wadekar, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Ananya Wadkar, Artwork: Isu Kim
 
 1,343 songs - 3 day 5 hr 54 min
 

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Allo?",
+        "url": "https://open.spotify.com/album/5DXRkPS4rv07CU1E2gwDTE"
+      },
+      "artists": [
+        {
+          "name": "FUUDGE",
+          "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "Allo?",
+      "url": "https://open.spotify.com/track/3YkxhqHWKEEiaH64ORh3Ot"
+    },
+    {
+      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -618,7 +636,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -1146,6 +1164,24 @@
       "duration_ms": 187880,
       "name": "F.I.N.I",
       "url": "https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf"
+    },
+    {
+      "album": {
+        "name": "Fais comme si de rien",
+        "url": "https://open.spotify.com/album/0AlTaA5XdhIqEAMf9RPjCb"
+      },
+      "artists": [
+        {
+          "name": "Ir\u00e8ne",
+          "url": "https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288633,
+      "name": "Fais comme si de rien",
+      "url": "https://open.spotify.com/track/6tjH5aXV5Smt1LUfGUCskj"
     },
     {
       "album": {
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"

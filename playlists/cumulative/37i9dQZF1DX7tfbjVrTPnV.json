@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
+  "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
   "name": "Americana Icons",
   "tracks": [
     {
@@ -1662,6 +1662,24 @@
       "duration_ms": 158834,
       "name": "Got Your Six",
       "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "album": {
+        "name": "I Am Shelby Lynne (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Gotta Get Back",
+      "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
     },
     {
       "album": {
@@ -4420,7 +4438,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 234400,
       "name": "The Train That Carried My Gal From Town",
       "url": "https://open.spotify.com/track/1tnL7UtGq2yOFuXaGWwChB"

@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 196132,
       "name": "Arrepi\u00f4",
       "url": "https://open.spotify.com/track/5tZSPSME3dY6xt75qtxzsi"
@@ -1370,6 +1370,48 @@
       "duration_ms": 151479,
       "name": "caos / flor ***",
       "url": "https://open.spotify.com/track/21XUWkizYGllIRpib9Cq6X"
+    },
+    {
+      "album": {
+        "name": "CARAMELO E FLOR DE SAL",
+        "url": "https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM"
+      },
+      "artists": [
+        {
+          "name": "Quorum",
+          "url": "https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH"
+        },
+        {
+          "name": "Flav",
+          "url": "https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        },
+        {
+          "name": "Nobuga",
+          "url": "https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB"
+        },
+        {
+          "name": "PMM",
+          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
+        },
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200315,
+      "name": "CARAMELO E FLOR DE SAL",
+      "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
     },
     {
       "album": {
@@ -5784,7 +5826,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151386,
       "name": "O que \u00e9 teu te encontra",
       "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
@@ -6762,6 +6804,28 @@
       "duration_ms": 151336,
       "name": "Pra L\u00e1 de Bagd\u00e1",
       "url": "https://open.spotify.com/track/46J2U8ewcEwAWmu9uj2dy8"
+    },
+    {
+      "album": {
+        "name": "Pra Viajar",
+        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Fernanda Brum
 
-218 songs - 18 hr 42 min
+219 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 | 2022-09-09 |  |
 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 | 2022-10-15 | 2023-01-14 |
 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 | 2022-09-09 | 2023-03-18 |
+| [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8) | 5:37 | 2024-08-30 |  |
 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 | 2023-07-21 |  |
 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 | 2022-10-07 |  |
 | [A Voz do Doce Espírito \- Ao Vivo](https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [A Voz do Doce Espírito \(Ao Vivo\)](https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj) | 5:51 | 2023-03-17 | 2023-08-19 |
@@ -153,7 +154,7 @@
 | [Parar Por Quê ?](https://open.spotify.com/track/6p6fwPILucLizPbmlGkHUG) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Parar Por Quê ?](https://open.spotify.com/album/3lIdr7RLof7GAZ5XXgrwke) | 4:44 | 2024-06-28 | 2024-08-17 |
 | [Passa Lá em Casa Jesus](https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Passa Lá em Casa Jesus](https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U) | 4:54 | 2023-09-15 |  |
 | [Passeio na Tempestade \(Ao Vivo\)](https://open.spotify.com/track/2G6kaL885jTxXLqEEbqlrB) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Passeio na Tempestade \(Ao Vivo\)](https://open.spotify.com/album/565Cc2sAwnRsWvr7JISvUE) | 4:35 | 2023-03-24 | 2023-04-22 |
-| [Planos](https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Planos](https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl) | 5:13 | 2023-03-24 |  |
+| [Planos](https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Planos](https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl) | 5:13 | 2023-03-24 | 2024-08-31 |
 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 | 2022-09-09 | 2024-08-17 |
 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 | 2022-09-09 | 2024-08-10 |
 | [Porto Seguro \- Ao Vivo](https://open.spotify.com/track/4ph4whtySo49oD5BScMSdT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Porto Seguro \(Ao Vivo\)](https://open.spotify.com/album/1nrrM8gk1SiXeqWMUnMSnk) | 5:35 | 2023-06-02 | 2023-06-24 |

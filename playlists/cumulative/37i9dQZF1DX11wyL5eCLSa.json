@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 210960,
       "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
       "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180520,
       "name": "Ani Oni",
       "url": "https://open.spotify.com/track/6X805fVzhajIpPDApla2AM"
@@ -1232,6 +1232,24 @@
       "duration_ms": 212826,
       "name": "Chain Reactionary",
       "url": "https://open.spotify.com/track/6duCXF5ciZHEEmzEcVIAAK"
+    },
+    {
+      "album": {
+        "name": "Chansound Relaciones Modernas",
+        "url": "https://open.spotify.com/album/5lqDN5XKJhav9ugBaLfc3x"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Chansound",
+      "url": "https://open.spotify.com/track/5DYQqITcUOID9MucE1v8wZ"
     },
     {
       "album": {
@@ -5127,6 +5145,32 @@
     },
     {
       "album": {
+        "name": "Me Solt\u00e9 de tus Brazos",
+        "url": "https://open.spotify.com/album/6qWYmzmvFYfU1gkfG0GyPb"
+      },
+      "artists": [
+        {
+          "name": "Pressive",
+          "url": "https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235624,
+      "name": "Me Solt\u00e9 de tus Brazos",
+      "url": "https://open.spotify.com/track/3mq7R9UboWxi25tDs4S8c7"
+    },
+    {
+      "album": {
         "name": "Medalla de Oro",
         "url": "https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e"
       },
@@ -6860,7 +6904,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 134178,
       "name": "Pr\u00e9ndanse Otro",
       "url": "https://open.spotify.com/track/5ufFco84JPZ4HYjzDGzugJ"
@@ -7474,6 +7518,24 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "album": {
+        "name": "Si es de morir",
+        "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224419,
+      "name": "Si es de morir",
+      "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
     },
     {
       "album": {
@@ -8671,6 +8733,24 @@
     },
     {
       "album": {
+        "name": "Un Toque o Dos",
+        "url": "https://open.spotify.com/album/1s21uWKfBQwZNhj9X3WpCy"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180991,
+      "name": "Un Toque o Dos",
+      "url": "https://open.spotify.com/track/5zQDSaecXjgYs6wia8El7i"
+    },
+    {
+      "album": {
         "name": "Uno De Esos D\u00edas",
         "url": "https://open.spotify.com/album/6tvLmBE2oeUOUvI0DrEDxt"
       },
@@ -9226,7 +9306,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"

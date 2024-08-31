@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "UV",
+        "url": "https://open.spotify.com/album/2rUBg9RzKW7cLWmrBlETa2"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "UV",
+      "url": "https://open.spotify.com/track/3fgalo68aOzGFbItJiqgvb"
+    },
+    {
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },

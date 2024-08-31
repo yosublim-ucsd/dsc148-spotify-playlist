@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
 
 311 songs - 19 hr 33 min
 
@@ -28,7 +28,7 @@
 | [Blues \(Sic\)](https://open.spotify.com/track/1JcC0IxUzvZtmj2sOPsVl6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:05 | 2022-09-21 | 2023-12-14 |
 | [Blues in E](https://open.spotify.com/track/76fnhZiCoZRs62Udv85QSI) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:12 | 2022-07-27 | 2022-09-26 |
 | [Buck Dance](https://open.spotify.com/track/3mehPZ1GnF8SUC4rc9BLol) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 1:27 | 2024-06-21 | 2024-08-09 |
-| [Buck Dance](https://open.spotify.com/track/2IhDsv4glVvkFLvVuxh1EB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:52 | 2022-11-15 | 2023-08-05 |
+| [Buck Dance](https://open.spotify.com/track/2IhDsv4glVvkFLvVuxh1EB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:52 | 2022-11-15 |  |
 | [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 | 2022-11-22 | 2024-08-23 |
 | [C\-Rag](https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:57 | 2022-11-23 | 2023-03-25 |
 | [Can't Be Satisfied \- Instrumental](https://open.spotify.com/track/65TO75TTJpRkVzvplOyCnl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:55 | 2022-07-25 | 2022-10-07 |
@@ -105,7 +105,7 @@
 | [I Cannot Bear My Burden by Myself](https://open.spotify.com/track/41uqdDpoLlFbmFzburpbcq) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [You Got to Move](https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7) | 2:50 | 2024-03-01 | 2024-03-03 |
 | [I Cannot Bear My Burden By Myself](https://open.spotify.com/track/1WUMo4QuMIglvm7k8nhVna) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 2:50 | 2022-06-07 | 2024-04-21 |
 | [I Decided To Go Down](https://open.spotify.com/track/73vg5Yl2h1ueT22YBFbLlF) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:23 | 2022-05-25 |  |
-| [I Didn't Want to Join the Band](https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:09 | 2022-08-03 |  |
+| [I Didn't Want to Join the Band](https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:09 | 2022-08-03 | 2024-08-31 |
 | [I Feel Like My Time Ain't Long \- Live in Portland, OR](https://open.spotify.com/track/3Vq2Gl13yBzI1HgVxp9duv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 8:48 | 2023-12-30 | 2024-08-12 |
 | [I Feel Like My Time Ain't Long \- Live in Portland, OR](https://open.spotify.com/track/6nVccmTg0TCxoGqukm11I6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 8:48 | 2022-05-25 | 2022-09-16 |
 | [I Got a Little Woman Sweet As She Can Be](https://open.spotify.com/track/1kMRVhkONnGt9zgH7ZsHFs) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Manchester Free Trade Hall 1964](https://open.spotify.com/album/7M5RsF7I52IEt2caXi4WAA) | 4:53 | 2022-11-12 | 2023-07-23 |

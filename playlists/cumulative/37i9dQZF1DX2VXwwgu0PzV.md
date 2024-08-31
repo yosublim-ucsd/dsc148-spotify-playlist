@@ -2,9 +2,9 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=pK\-yJNMZTYmu6MtMrT9Xqw>Limoblaze</a>
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be?si=1vZkLPTkSt2e7aFaAHdaoQ>Drakare</a>
 
-795 songs - 1 day 20 hr 52 min
+796 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [HOSANNA](https://open.spotify.com/track/5FAYOz4tFsMFpsF7sOiPk2) | [Shekts Nelson](https://open.spotify.com/artist/7tpzayRo6NGGNn7s7FgXG2), [Same OG](https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i) | [HOSANNA](https://open.spotify.com/album/7qoRftp5oYwRocCRWuu4XP) | 3:13 | 2023-06-30 | 2023-07-14 |
 | [Hosanna Mukole](https://open.spotify.com/track/593i9CXpQQi4hUaB7ubpBA) | [Omo Ebira Beatz](https://open.spotify.com/artist/61XMQEHMW5CaTIntkMVf9U) | [Hosanna Mukole](https://open.spotify.com/album/2Z6n8masZtu2yY2TBQPa8v) | 2:09 | 2023-07-28 | 2024-07-27 |
 | [Humble](https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Humble](https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg) | 4:20 | 2023-02-02 | 2023-05-26 |
+| [Hustle](https://open.spotify.com/track/2MfYquWKqyiDAmUZfmxeUH) | [Anyanya Udongwo](https://open.spotify.com/artist/2cbioHiPydvkOosQh5pLXy), [Timothy Akuboh](https://open.spotify.com/artist/4eB1IT3SeD09f7PvI3X7q5), [TMD](https://open.spotify.com/artist/4kLSMb01FhdIdTEGOQRKwW) | [Hustle](https://open.spotify.com/album/1iSTzkiksLsTHQrw3NL0BD) | 2:37 | 2024-08-30 |  |
 | [I Believe Yakata](https://open.spotify.com/track/2o6Kl2zJpuR6Bi3fjCm3RO) | [Cipeey](https://open.spotify.com/artist/0LbWza96JU2RDtaufGfBzX), [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48) | [Heaven's playlist](https://open.spotify.com/album/6qWJBnwBUULd3bXie95VOw) | 2:15 | 2023-07-21 | 2023-07-28 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2023-02-02 | 2023-06-16 |
 | [I Have Jesus in My Life](https://open.spotify.com/track/7EHcx3eHcTA2dtfJWleJ6d) | [Dj Twise](https://open.spotify.com/artist/1M1W3MDI0f44q3Cfx07jtZ) | [I Have Jesus in My Life](https://open.spotify.com/album/6dxRQErxVIVOx1FzQ7knV8) | 1:36 | 2023-10-20 | 2023-12-01 |
@@ -391,7 +392,7 @@
 | [It has happened](https://open.spotify.com/track/1ye8T5cqi2sR3pQwomk151) | [Louis Pascal](https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg) | [It has happened](https://open.spotify.com/album/0P30gUa44MaM8e6eg9MWpx) | 4:34 | 2023-07-14 | 2023-08-12 |
 | [It Is Working](https://open.spotify.com/track/2McKGgsdXAjEUStKiAAG35) | [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq) | [MIMSHACK](https://open.spotify.com/album/2pIJcL7MkHb65sgJQg4vuy) | 3:10 | 2023-02-02 | 2023-03-25 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/2x20sI1LFKcHswD03h9oJ4) | [Mama Tee](https://open.spotify.com/artist/3QwvzS5dtXvN4JH33k6ImA), [Emmanuel Awipi](https://open.spotify.com/artist/6tHph8pZeu1epTkGGbShkV), [Emmanuel Dickson](https://open.spotify.com/artist/4Eb6kUwMBySeNRQFb4kGNT) | [It's Gonna Be Alright](https://open.spotify.com/album/3zFd56C1aejOVJ2A9zDrFM) | 3:36 | 2024-02-23 | 2024-03-22 |
-| [It's Gonna Be Alright \- Remix](https://open.spotify.com/track/6W6d86DmHQJwVorKxUepn6) | [Mama Tee](https://open.spotify.com/artist/3QwvzS5dtXvN4JH33k6ImA), [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [It's Gonna Be Alright \(Remix\)](https://open.spotify.com/album/6alRG3XHS3ivtcRjpW06jB) | 2:57 | 2024-08-23 |  |
+| [It's Gonna Be Alright \- Remix](https://open.spotify.com/track/6W6d86DmHQJwVorKxUepn6) | [Mama Tee](https://open.spotify.com/artist/3QwvzS5dtXvN4JH33k6ImA), [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [It's Gonna Be Alright \- Remix](https://open.spotify.com/album/6alRG3XHS3ivtcRjpW06jB) | 2:57 | 2024-08-23 |  |
 | [Iwoloba \(Eh Eh Eh\)](https://open.spotify.com/track/02f36Z8gsDGHUYcWuijsiO) | [Ndubuisi Anagha](https://open.spotify.com/artist/57Fj4UwjZcw6DhavaVFTyT), [Taiwo](https://open.spotify.com/artist/2EK8qSK79Ktrwm8BrBKu2l) | [Iwoloba \(Eh Eh Eh\)](https://open.spotify.com/album/7GlSjD5hyS38ajhC1L0e0s) | 6:59 | 2023-06-30 | 2023-11-17 |
 | [Ja YA Mma](https://open.spotify.com/track/1J7LxyEmRbCrhtxHTUHzgh) | [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [Ja YA Mma](https://open.spotify.com/album/5zGQdrBWRv56NRn7udYzdH) | 2:54 | 2024-03-08 | 2024-05-17 |
 | [JABULANI](https://open.spotify.com/track/1u5Rzg7Y8qLrLfUhdNOb31) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [JABULANI](https://open.spotify.com/album/5SXQKXQgH7RduxSAZJzeyR) | 2:40 | 2023-09-08 | 2023-10-20 |

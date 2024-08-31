@@ -7047,6 +7047,28 @@
     },
     {
       "album": {
+        "name": "GO HARD",
+        "url": "https://open.spotify.com/album/1zZ57Ud3GRN9vhClYRLGYF"
+      },
+      "artists": [
+        {
+          "name": "Uka Death Audio",
+          "url": "https://open.spotify.com/artist/2WZwiCQE0bEwW97gwygxfN"
+        },
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140229,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/1g44Ji7jXoD8ieXbuhODym"
+    },
+    {
+      "album": {
         "name": "DONG JING REN",
         "url": "https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE"
       },

@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/6ip2H9sVgwTG3u8s9ru1dP"
+      },
+      "artists": [
+        {
+          "name": "Thakara",
+          "url": "https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200830,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2"
+    },
+    {
+      "album": {
         "name": "Mayathe",
         "url": "https://open.spotify.com/album/79q8Ugegn7tkGxGqNeYmhv"
       },

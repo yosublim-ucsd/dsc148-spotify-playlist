@@ -4,7 +4,7 @@
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-161 songs - 7 hr 45 min
+162 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Porta Pia](https://open.spotify.com/track/4KOpgmof0r6RJEOWUgU9Kl) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:55 | 2024-04-23 |  |
 | [Pressione bassa](https://open.spotify.com/track/3pxIA51RPAMQnsbuArdp1G) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Pressione bassa](https://open.spotify.com/album/7IymFkEORToOb49LSg5495) | 2:48 | 2023-04-11 | 2024-04-24 |
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2024-04-24 |
+| [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 | 2024-08-30 |  |
 | [Quanto Ti Amo](https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Quanto Ti Amo](https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL) | 3:09 | 2022-08-31 | 2023-04-12 |
 | [quasi nuda](https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [quasi nuda](https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn) | 2:45 | 2024-05-30 |  |
 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 | 2022-08-31 | 2023-04-12 |

@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 298469,
       "name": "Back To One",
       "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 220645,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/2ezZt5y0mvIIm5ca7DVY2v"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 230322,
       "name": "Eu Vou Pra Bahia - Felguk, Watzgood Remix",
       "url": "https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb"
@@ -3763,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "I Stayed Back",
+        "url": "https://open.spotify.com/album/3jUmwmOmQPlySOGBOr2ykZ"
+      },
+      "artists": [
+        {
+          "name": "Rick Bonadio",
+          "url": "https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "I Stayed Back",
+      "url": "https://open.spotify.com/track/2UPtQQFqNm3LMJ4jcIennV"
+    },
+    {
+      "album": {
         "name": "I Wanna Know",
         "url": "https://open.spotify.com/album/5zqwK3WogUq29mOJoGjhPG"
       },
@@ -4699,6 +4717,32 @@
     },
     {
       "album": {
+        "name": "Lift Me Up (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233203,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht"
       },
@@ -5138,7 +5182,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189212,
       "name": "Mia Pembe (Mojjo Remix)",
       "url": "https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9"
@@ -5798,7 +5842,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 129213,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb"
@@ -6123,6 +6167,28 @@
     },
     {
       "album": {
+        "name": "Pa Pa Pa",
+        "url": "https://open.spotify.com/album/0Q2kYHpO2IQO6OWga44wbz"
+      },
+      "artists": [
+        {
+          "name": "Dubdisko",
+          "url": "https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z"
+        },
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172968,
+      "name": "Pa Pa Pa",
+      "url": "https://open.spotify.com/track/1P71nF2wAMfRGSs92hmUY9"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/0Cb9Dw2TLZCejFa4SzdeWb"
       },
@@ -6160,6 +6226,28 @@
       "duration_ms": 118125,
       "name": "Panthers Pulse",
       "url": "https://open.spotify.com/track/6iyCeNSV9mS6ytzt0eeJub"
+    },
+    {
+      "album": {
+        "name": "Paper Boats",
+        "url": "https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "Riascode",
+          "url": "https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255375,
+      "name": "Paper Boats",
+      "url": "https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9"
     },
     {
       "album": {
@@ -6963,6 +7051,28 @@
     },
     {
       "album": {
+        "name": "Run The Night (feat. AKOSIA)",
+        "url": "https://open.spotify.com/album/6FkbHKB2LJCjXIskMBWycr"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "AKOSIA",
+          "url": "https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Run The Night (feat. AKOSIA)",
+      "url": "https://open.spotify.com/track/1h4egRlXKkzu5zEiA3C6SR"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/1N7p5bTtQyrLVQEvH7L9dI"
       },
@@ -7588,7 +7698,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184000,
       "name": "Static",
       "url": "https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv"
@@ -7798,6 +7908,24 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "album": {
+        "name": "Talking About It",
+        "url": "https://open.spotify.com/album/78TpWKHVQAO8VLZ7kL7VdU"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209853,
+      "name": "Talking About It",
+      "url": "https://open.spotify.com/track/64cmINuqBgAZgWs2vzUaUv"
     },
     {
       "album": {

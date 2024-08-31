@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11041,
+  "num_followers": 11042,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADGmaVr276BPCgfOxo9k0en",
+  "snapshot_id": "Zs+6AAAAAAC6U78KgLZH/+Jlv7GITNjK",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 258545,
+      "name": "Lose My Mind (feat. Mr Gabriel)",
+      "url": "https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moonlight (The Remixes)",
         "url": "https://open.spotify.com/album/3gmbHl9gfRU8KTOh9z26E7"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 202666,
       "name": "blue - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 258545,
-      "name": "Lose My Mind (feat. Mr Gabriel)",
-      "url": "https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like It's Over (feat. MNDR)",
-        "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Like It's Over (feat. MNDR)",
-      "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 228480,
       "name": "Gravity (feat. JMR)",
       "url": "https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like It's Over (feat. MNDR)",
+        "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Like It's Over (feat. MNDR)",
+      "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
     },
     {
       "added_at": null,

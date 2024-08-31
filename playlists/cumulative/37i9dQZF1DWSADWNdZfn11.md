@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-418 songs - 22 hr 10 min
+419 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [I won't let the sun go down on me](https://open.spotify.com/track/3m9bYHLtgpXCUqEdsjhvLh) | [Elisa Mosel](https://open.spotify.com/artist/2VNM8Yu05cK0W9sy9Ln2wM) | [I won't let the sun go down on me](https://open.spotify.com/album/0jjBB5aIr8mMgypCdwSmkw) | 4:04 | 2023-04-28 |  |
 | [I'd Do Anything For Love \(But I Won't Do That\)](https://open.spotify.com/track/4mY71haHZOq3rcwGq5JFAW) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [I'd Do Anything For Love \(But I Won't Do That\)](https://open.spotify.com/album/4YFJVksIypldzLpwUBc0In) | 3:06 | 2024-02-09 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/1NoqgdbmwW0qM1KFPW8C7o) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [I'm Good \(Blue\)](https://open.spotify.com/album/3f3Mho7fXcTS7nIqHQwcoL) | 2:25 | 2022-11-18 | 2023-03-18 |
+| [I'm So Excited](https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [I'm So Excited](https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o) | 3:15 | 2024-08-30 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1vEgjW5aCr4lW2MjTTIlqp) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [I'm Still Standing](https://open.spotify.com/album/6SqqOHhWVlXi0nP2DUA3rq) | 3:08 | 2024-02-09 |  |
 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 | 2022-08-01 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/0k3eB65qL3T1GQyJmGNUgV) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [If You Leave Me Now](https://open.spotify.com/album/1sBYO3z6cl6Fd6NNOPeGxu) | 3:19 | 2022-08-01 |  |
@@ -201,7 +202,7 @@
 | [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2024-06-07 |  |
 | [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 |  |
 | [Just The Way You Are](https://open.spotify.com/track/4yGO88bDsNyDloCxc8CVpP) | [Joshua Garland](https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X) | [Just The Way You Are](https://open.spotify.com/album/467cv4fTtGeNJCFx3o0eRI) | 3:15 | 2022-08-01 | 2022-11-19 |
-| [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-14 |  |
+| [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-14 | 2024-08-31 |
 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 | 2022-11-18 | 2023-08-23 |
 | [Karma Police](https://open.spotify.com/track/6TfRwAeK4bmctFV1GR2qme) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [lovely](https://open.spotify.com/album/7uha18MvMpkh2sF1NqBIxS) | 3:21 | 2022-08-01 | 2024-08-10 |
 | [Killing Me Softly](https://open.spotify.com/track/25YVXgmAO6nArAAcvHegDl) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Killing Me Softly](https://open.spotify.com/album/0wDfBdeTA9UZQSZlmYauhj) | 1:42 | 2023-05-26 | 2023-06-23 |
@@ -222,7 +223,7 @@
 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3M2wA7kvyghCBHnpLCpXrC) | 2:28 | 2022-12-16 |  |
 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk) | 2:28 | 2023-03-17 | 2024-04-19 |
 | [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 | 2022-09-30 |  |
-| [Livin' On A Prayer](https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Livin' On A Prayer](https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n) | 3:24 | 2023-05-26 |  |
+| [Livin' On A Prayer](https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Livin' On A Prayer](https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n) | 3:24 | 2023-05-26 | 2024-08-31 |
 | [Love Is All Around](https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Is All Around](https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF) | 3:23 | 2023-06-08 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
 | [Love Me Tender](https://open.spotify.com/track/7JrM4Nlm2km9lkER9qv6Uc) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Love Me Tender](https://open.spotify.com/album/3cklbYiZGxPlhpAKMeLwir) | 3:12 | 2023-08-17 |  |
@@ -409,7 +410,7 @@
 | [Without You \- Piano](https://open.spotify.com/track/6uhQBsYdVTJGTCYYnAwpTt) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:22 | 2023-03-17 | 2024-04-19 |
 | [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 | 2022-11-18 | 2023-06-23 |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-24 | 2023-09-22 |
-| [Wonderful Tonight](https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Wonderful Tonight](https://open.spotify.com/album/0O80wSJC001dU86jB8OKUR) | 2:11 | 2022-10-28 |  |
+| [Wonderful Tonight](https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Wonderful Tonight](https://open.spotify.com/album/0O80wSJC001dU86jB8OKUR) | 2:11 | 2022-10-28 | 2024-08-31 |
 | [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 | 2023-02-24 | 2023-06-14 |
 | [Words](https://open.spotify.com/track/6HWTR9SN6kjWSirXAq9tXI) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Leave The Door Open](https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv) | 2:31 | 2022-10-28 | 2023-05-06 |
 | [Yellow](https://open.spotify.com/track/6L6OwV5VpL1pVETRcTmt7B) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 | 2023-04-29 |

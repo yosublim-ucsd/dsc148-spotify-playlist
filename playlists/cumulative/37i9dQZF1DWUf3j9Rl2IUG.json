@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lagbaja",
+          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "back n forth",
+      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
+    },
+    {
+      "album": {
         "name": "Back To Sender",
         "url": "https://open.spotify.com/album/0rThnN5X2Ktwkh8qEid6eH"
       },
@@ -4311,7 +4333,7 @@
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 170526,
+      "duration_ms": 175689,
       "name": "Lifestyle (feat. Magnito)",
       "url": "https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt"
     },
@@ -7544,7 +7566,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 149454,
       "name": "Wayo",
       "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"

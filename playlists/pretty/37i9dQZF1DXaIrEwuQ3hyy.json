@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1047839,
+  "num_followers": 1047893,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
-      },
-      "artists": [
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Little Life",
-      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
+      },
+      "artists": [
+        {
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Little Life",
+      "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
-        "name": "How?",
-        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "How?",
-      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -1295,42 +1295,6 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
-        "name": "Superbloodmoon (feat. d4vd)",
-        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 151792,
-      "name": "Superbloodmoon (feat. d4vd)",
-      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
-        "name": "Stand up and Dance",
-        "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
-      },
-      "artists": [
-        {
-          "name": "Sweetlemon",
-          "url": "https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stand up and Dance",
-      "url": "https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -1363,6 +1327,42 @@
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "Superbloodmoon (feat. d4vd)",
+        "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 151792,
+      "name": "Superbloodmoon (feat. d4vd)",
+      "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "Stand up and Dance",
+        "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
+      },
+      "artists": [
+        {
+          "name": "Sweetlemon",
+          "url": "https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stand up and Dance",
+      "url": "https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx"
     }
   ],
   "unique_name": "Sommer Chillout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Kapo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,668 likes - 126 songs - 6 hr 39 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,670 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 125 | [Te Imaginaba](https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/34lHWGbMwEieuMtYcyhqrR) | 2:38 |
 | 126 | [DISPARA \*\*\*](https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 |
 
-Snapshot ID: `AAASmpCO3ina9uoeQcHVAq2eb/YCHBtc`
+Snapshot ID: `AAASnCeKgccm1bDLPgOKciDzb6ZmKyQu`

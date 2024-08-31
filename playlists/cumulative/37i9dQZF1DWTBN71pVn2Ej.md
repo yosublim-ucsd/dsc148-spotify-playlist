@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-657 songs - 1 day 13 hr 28 min
+660 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Csts](https://open.spotify.com/track/0fbQD0elsISeiHp5nvVyPo) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Into the Blue \(Deluxe\)](https://open.spotify.com/album/1EjDpSngm4sh4mn8Hta2pV) | 4:54 | 2022-09-22 | 2023-02-25 |
 | [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 | 2024-06-22 |
 | [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 | 2024-04-02 | 2024-04-19 |
-| [daddy of mine](https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [daddy of mine](https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN) | 2:24 | 2024-04-12 |  |
+| [daddy of mine](https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [daddy of mine](https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN) | 2:24 | 2024-04-12 | 2024-08-31 |
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-31 | 2022-10-08 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-09-06 | 2023-02-03 |
 | [Daretomove](https://open.spotify.com/track/2K1cFNyLVoKWw4RdHWRmDe) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Daretomove](https://open.spotify.com/album/7vLjgVRDEP2irwKaT4P1hX) | 3:12 | 2023-11-10 | 2024-04-13 |
@@ -168,7 +168,7 @@
 | [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-05-12 | 2023-09-01 |
 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 | 2023-11-10 | 2024-08-24 |
 | [Dead Wake](https://open.spotify.com/track/572Y0uRnjxPXYGzEAPChtb) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Dead Wake / Scavengers \(Acoustic\)](https://open.spotify.com/album/660CDua6AJT4ukoeursCgV) | 4:55 | 2022-05-19 | 2022-09-07 |
-| [Decay](https://open.spotify.com/track/7M2tbOV0E13n3oojYjPO0q) | [If Kansas Had Trees](https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2) | [Decay](https://open.spotify.com/album/5ziRgEyGUW3KCaQMnhjOhr) | 3:45 | 2024-05-17 |  |
+| [Decay](https://open.spotify.com/track/7M2tbOV0E13n3oojYjPO0q) | [If Kansas Had Trees](https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2) | [Decay](https://open.spotify.com/album/5ziRgEyGUW3KCaQMnhjOhr) | 3:45 | 2024-05-17 | 2024-08-31 |
 | [Decay](https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Decay](https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw) | 4:39 | 2024-01-19 | 2024-03-16 |
 | [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-21 | 2022-04-06 |
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-31 | 2022-09-07 |
@@ -184,6 +184,7 @@
 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 | 2022-02-03 | 2022-06-10 |
 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 | 2023-08-21 | 2023-11-11 |
 | [Disappear](https://open.spotify.com/track/0LMhSezHEY78J21acctfVY) | [Quiet](https://open.spotify.com/artist/3ZSOj3qDBoxk64W3eMoSZt) | [Disappear](https://open.spotify.com/album/6Bgwmqm0TVAYT7CDAWMv3P) | 3:48 | 2024-04-26 |  |
+| [Discomfort](https://open.spotify.com/track/1QUPT0Amnm2g7D2IpuvDlk) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Discomfort](https://open.spotify.com/album/30cdflP7uUg4FgjBE3ShN9) | 4:13 | 2024-08-30 |  |
 | [Disgusting](https://open.spotify.com/track/37DRi2hcNwEhlT0jEnyLAX) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Disgusting](https://open.spotify.com/album/6AfbbjvJ5clKLalUyNZ4Dv) | 3:09 | 2022-06-16 | 2022-08-13 |
 | [Disturb The Peace](https://open.spotify.com/track/3E4a4lwG05VJCgB8A3m1hI) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Disturb The Peace](https://open.spotify.com/album/6x3Z4xT9F4uyqQjjgSRTwO) | 1:45 | 2024-04-02 | 2024-05-04 |
 | [Dive](https://open.spotify.com/track/0ToSPOjmd4sl1ABWa3nEvl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Dive](https://open.spotify.com/album/7F0bAW23xFNyiFeC3OKJd8) | 3:35 | 2022-01-20 | 2022-02-25 |
@@ -375,6 +376,7 @@
 | [Magic Medicine](https://open.spotify.com/track/22HixQWkPtnaqY1onzSEkH) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Magic Medicine](https://open.spotify.com/album/1c5xKAOxCi9Q6XHsPzebiE) | 3:31 | 2021-12-16 | 2022-03-22 |
 | [Magpie](https://open.spotify.com/track/2LmyN0o9EOMivo5YRpP9FK) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:51 | 2022-04-28 | 2022-09-07 |
 | [Make or Break](https://open.spotify.com/track/1zE6P0V7FX36pdFblWVbUL) | [Bleach Garden](https://open.spotify.com/artist/74v0EH5Gl2zsUhXXWzGJyI) | [Nepenthe](https://open.spotify.com/album/1iwuk5tV77trbyFApJmLyT) | 5:02 | 2023-05-12 | 2023-09-30 |
+| [Malibu Beach House](https://open.spotify.com/track/404jLVCRjZXEQ3p8DqjN4e) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [I'll Drown On This Earth](https://open.spotify.com/album/6OVBEav1yV2tl07wTlPozK) | 4:01 | 2024-08-30 |  |
 | [Matilda](https://open.spotify.com/track/0Zkmfw2BDhqY5n2dP8hZAI) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Matilda](https://open.spotify.com/album/21e01B6u3KVo6l2LOFnZxC) | 3:51 | 2022-03-03 | 2022-07-01 |
 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 | 2021-12-16 | 2022-04-08 |
 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 | 2023-03-02 | 2024-03-28 |
@@ -525,6 +527,7 @@
 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 | 2023-03-17 | 2023-04-22 |
 | [Sonny](https://open.spotify.com/track/1HMAGmRUH8BdyvwyEAeJAR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Sonny](https://open.spotify.com/album/1x0RHJ05WgdGrAH8yA6Pq8) | 3:40 | 2023-08-21 | 2023-10-14 |
 | [Sow](https://open.spotify.com/track/7yL6dFWL7mIdyIVE2lZZwX) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Sow](https://open.spotify.com/album/4ZQ3fVCBqwPtoFDsA3EAlu) | 2:52 | 2024-07-26 |  |
+| [Spaceboy](https://open.spotify.com/track/6ofeNhY1x3MEiXCI1gtFIq) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Spaceboy](https://open.spotify.com/album/4U0lowrw1imRhT1OoFIu7g) | 2:50 | 2024-08-30 |  |
 | [Spell](https://open.spotify.com/track/4Un8vcXds1r5WuRknRlycI) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI) | 3:37 | 2022-11-04 | 2022-11-26 |
 | [Spell](https://open.spotify.com/track/3M5a73GseVS617KuBHxj8t) | [Twin Mill](https://open.spotify.com/artist/4yObbeDn9QW3dGWIVdcalo) | [Different Skies](https://open.spotify.com/album/1R7btULxWxGIIfShLr4nua) | 3:28 | 2024-01-19 | 2024-08-17 |
 | [Spilling Ink](https://open.spotify.com/track/2IU1bpsBxeFFp5fFvY2CFA) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Spilling Ink](https://open.spotify.com/album/1AItTg8lRbbk54ReTDBqGR) | 2:21 | 2024-05-17 | 2024-07-09 |
@@ -594,7 +597,7 @@
 | [The World Don't Owe You Anything](https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/4GVU0koa6BTvPE0pU79E26) | 3:09 | 2023-06-23 | 2023-08-26 |
 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 | 2022-03-24 | 2022-09-07 |
 | [There Goes The Dream](https://open.spotify.com/track/7gy7AgYoXeb2NAub6adnq1) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [There Goes The Dream](https://open.spotify.com/album/02EILWdHpBKFmxWAByarQE) | 3:35 | 2024-07-26 |  |
-| [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 | 2024-03-27 |  |
+| [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 | 2024-03-27 | 2024-08-31 |
 | [This Feeling](https://open.spotify.com/track/5Z6kzXKiH9vF5BGM57fO4E) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM) | [This Feeling](https://open.spotify.com/album/0GsvF8QKvM13nSwo5l4LRK) | 3:27 | 2024-08-16 |  |
 | [This is All There Is](https://open.spotify.com/track/3yamFr9Mxqozi4fOLFNnTw) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [The Atheist](https://open.spotify.com/album/6TKSQWBrlXifkLPGUrbKW6) | 2:50 | 2022-11-25 | 2022-12-16 |
 | [This Part of Me](https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h), [ZANDV](https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0) | [This Part of Me](https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ) | 3:43 | 2023-02-09 | 2023-07-04 |

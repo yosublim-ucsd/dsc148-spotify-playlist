@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Jelly Roll
+> The biggest hits in country music\. Cover: Lainey Wilson
 
 727 songs - 1 day 15 hr 25 min
 

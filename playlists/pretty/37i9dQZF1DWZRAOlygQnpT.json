@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 92555,
+  "num_followers": 92598,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Buen Rock Esta Noche",
-        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
+        "name": "La Fiebre del Rock and Roll",
+        "url": "https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l"
       },
       "artists": [
         {
-          "name": "Los Blue Caps",
-          "url": "https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv"
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
         }
       ],
-      "duration_ms": 150013,
-      "name": "Vuelve Primavera",
-      "url": "https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27"
+      "duration_ms": 173760,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -459,18 +459,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Fiebre del Rock and Roll",
-        "url": "https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l"
+        "name": "Buen Rock Esta Noche",
+        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
       },
       "artists": [
         {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+          "name": "Los Blue Caps",
+          "url": "https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Vete Con Ella (Chappel of Love)",
-      "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
+      "duration_ms": 150013,
+      "name": "Vuelve Primavera",
+      "url": "https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -672,13 +672,13 @@
       },
       "artists": [
         {
-          "name": "Queta Garay",
-          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
         }
       ],
-      "duration_ms": 134306,
-      "name": "Chica Ye Ye",
-      "url": "https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9"
+      "duration_ms": 135373,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -688,13 +688,13 @@
       },
       "artists": [
         {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+          "name": "Queta Garay",
+          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
         }
       ],
-      "duration_ms": 135373,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs"
+      "duration_ms": 134306,
+      "name": "Chica Ye Ye",
+      "url": "https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 152508,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Los Grandes Idolos - Teen Tops",
         "url": "https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 159480,
       "name": "La Hiedra Venenosa",
       "url": "https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 152508,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Hiedra Venenosa",
-        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Siluetas",
-      "url": "https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Idolos del Rock de los 60's: Enrique Guzman",
         "url": "https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 154620,
       "name": "Gracias por el Recuerdo",
       "url": "https://open.spotify.com/track/31KJnspiQtvxwob0cMjxxc"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Grandes \u00c9xitos Vol.2",
+        "url": "https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 160639,
+      "name": "La Historia de Tommy",
+      "url": "https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n"
+        "name": "La Hiedra Venenosa",
+        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
         }
       ],
-      "duration_ms": 160639,
-      "name": "La Historia de Tommy",
-      "url": "https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7"
+      "duration_ms": 178440,
+      "name": "Siluetas",
+      "url": "https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "Besos por Telefono",
+      "url": "https://open.spotify.com/track/39G6HswUvV0jPexFBzgAjQ"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Historia Musical de Mis Exitos",
         "url": "https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH"
-      },
-      "artists": [
-        {
-          "name": "Los Llopis",
-          "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
-        }
-      ],
-      "duration_ms": 191518,
-      "name": "Estremecete",
-      "url": "https://open.spotify.com/track/3eZyQHEOhwdXQdAe6f6995"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Los Originales",
         "url": "https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Los Llopis",
+          "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Besos por Telefono",
-      "url": "https://open.spotify.com/track/39G6HswUvV0jPexFBzgAjQ"
+      "duration_ms": 191518,
+      "name": "Estremecete",
+      "url": "https://open.spotify.com/track/3eZyQHEOhwdXQdAe6f6995"
     },
     {
       "added_at": "2020-04-17 21:51:59",

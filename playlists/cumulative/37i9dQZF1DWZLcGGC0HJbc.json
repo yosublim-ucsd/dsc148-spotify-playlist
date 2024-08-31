@@ -902,10 +902,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 223503,
       "name": "Tell Him I Miss Him",
       "url": "https://open.spotify.com/track/5QGNNWXKQjjdgqM3leFKBt"
+    },
+    {
+      "album": {
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/60JyYSkfOJB9JlcUl5HNs2"
+      },
+      "artists": [
+        {
+          "name": "The Wanderer ",
+          "url": "https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492000,
+      "name": "The Giant",
+      "url": "https://open.spotify.com/track/5Jl6UX6DzT1nf5EiuPdfuk"
     },
     {
       "album": {

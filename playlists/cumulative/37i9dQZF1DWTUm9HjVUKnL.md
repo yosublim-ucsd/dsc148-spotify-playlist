@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,199 songs - 3 day 0 hr 56 min
+1,201 songs - 3 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Holding On \- Recorded at Spotify Studios NYC, 6/07/2017](https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Spotify Singles](https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt) | 5:15 | 2022-01-19 |  |
 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 | 2022-01-19 |  |
 | [Hon dansar vidare i livet PT\. 2 \- Recorded At Spotify Studios, Stockholm](https://open.spotify.com/track/2bPFaTfpdC2hNiFiRLbwtD) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Spotify Singles](https://open.spotify.com/album/70PMpYoGpepEael6D4oHgM) | 4:14 | 2022-01-19 |  |
+| [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 | 2024-08-30 |  |
 | [Hoodie \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:44 | 2022-01-19 |  |
 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 | 2022-01-19 |  |
 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 | 2023-05-31 |  |
@@ -548,6 +549,7 @@
 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 | 2022-01-19 |  |
 | [Ingen som jag \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/track/1zoCwUV885aWuq3APJICUK) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles \(Recorded at Spotify Studios Stockholm\)](https://open.spotify.com/album/5oUkd4bOmKOmH6Hkr0FoUq) | 2:59 | 2022-01-19 |  |
 | [Ingen som jag \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1B74XlQ7AIxiqZhW6yonuq) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Spotify Singles](https://open.spotify.com/album/12iQwJ58c5QSY1WuGU2JeK) | 3:00 | 2023-10-02 | 2024-04-19 |
+| [INVITATION \- Spotify Singles](https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:28 | 2024-08-30 |  |
 | [Irony \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Spotify Singles](https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf) | 3:49 | 2022-01-19 |  |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2022-01-19 |  |
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 |  |

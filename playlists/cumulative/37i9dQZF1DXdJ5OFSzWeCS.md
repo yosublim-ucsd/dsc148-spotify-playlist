@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-711 songs - 21 hr 19 min
+714 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Another Day Just Went By](https://open.spotify.com/track/6XBcvVAJZGhzSCR4Aot9H0) | [Liddy Hall](https://open.spotify.com/artist/6tV5JzvoZR29ZRF1JkF2VY) | [Another Day Just Went By](https://open.spotify.com/album/4IXByBPpvCVL5p2P5XXGQn) | 1:33 | 2022-02-10 | 2023-01-13 |
 | [Apples And Bananas](https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Apples And Bananas](https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE) | 1:31 | 2022-02-10 | 2024-03-29 |
 | [Are You Sleeping](https://open.spotify.com/track/2hQDbKTMtR7Gls1EdnJr16) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Are You Sleeping](https://open.spotify.com/album/1ZQk3XygrXVMMMO9fiMAsx) | 1:25 | 2022-07-29 | 2024-02-09 |
+| [Are You Sleepy?](https://open.spotify.com/track/0jY4d1akHygIbDGWORu1vK) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Are You Sleepy?](https://open.spotify.com/album/1m9kHnvZg6DTz5KfngUKu4) | 1:40 | 2024-08-30 |  |
 | [Arriba del Cielo](https://open.spotify.com/track/6BV7IS6M8QqcxMyFLUcSaT) | [Estrella Nixon](https://open.spotify.com/artist/1l08ITHSgK3Jgbs7c7Kpdi) | [Arriba del Cielo](https://open.spotify.com/album/7jav4vyKkqruDsjnB7WUd8) | 1:20 | 2022-02-10 | 2024-03-29 |
 | [Arrorro Mi Niño](https://open.spotify.com/track/5sNUfy6uHSd8VApNQIEDja) | [Juana Sánchez](https://open.spotify.com/artist/46hoSw0clNLzC7iuUfihei) | [Canciones de Cuna](https://open.spotify.com/album/63mpSI9VERwzegraCKFXsh) | 2:11 | 2022-02-10 | 2022-07-01 |
 | [As Sweet As Your Smile](https://open.spotify.com/track/4fcnqtnRSfV2YkYrEHHNbV) | [Tianna Dorsey](https://open.spotify.com/artist/2VsEJa7uhigAMojVKojMeg) | [As Sweet As Your Smile](https://open.spotify.com/album/3RGK9b3lVJKKvvfFtPSmtw) | 1:28 | 2022-06-30 |  |
@@ -236,6 +237,7 @@
 | [Go To Sleep Now Little Baby](https://open.spotify.com/track/6XWFDgLhlP0RriU9tOoJHJ) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [Go To Sleep Now Little Baby](https://open.spotify.com/album/1LNqSgEiXbU1yR0Zr4eFLl) | 1:55 | 2022-02-10 |  |
 | [Godnat min skat](https://open.spotify.com/track/3nIAPDblNehwcKzMmckknw) | [Grete Rosenkjær](https://open.spotify.com/artist/0R9BrQPB75F1VgukWfwXHw) | [Godnat min skat](https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw) | 1:07 | 2022-02-10 | 2023-01-13 |
 | [Golden Slumbers](https://open.spotify.com/track/4NUZLOU3BtZSN4N29zzpMG) | [Zane Price](https://open.spotify.com/artist/6WjNdO1VMQwNxCQeIE2UIx) | [Golden Slumbers](https://open.spotify.com/album/6P75pOnlpPZwrDetYeg3UF) | 1:10 | 2022-02-10 | 2024-04-19 |
+| [Gone Swimming](https://open.spotify.com/track/2VBAhuZChHpoahn9dRmb5r) | [Kim Savege](https://open.spotify.com/artist/2UdEGunC9lK2FrpV4Rf1gZ) | [Gone Swimming](https://open.spotify.com/album/24rtvi1M0fsyL05gFteZ5W) | 1:23 | 2024-08-30 |  |
 | [Good Night](https://open.spotify.com/track/2QwzlVlSUhlZZHSG4jAP2G) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [The Stars Above](https://open.spotify.com/album/3j2XsBqtDg3ok1J0eaAMsD) | 2:07 | 2023-04-07 |  |
 | [Good Night Moon](https://open.spotify.com/track/2tXTurOwRgfJPGzgxLQjpc) | [Alden Vann](https://open.spotify.com/artist/1kLRGgy31vvsmnhVIotNm5) | [Good Night Moon](https://open.spotify.com/album/31Umd48VRd8vuGitE4hhvS) | 1:17 | 2023-02-10 | 2023-09-09 |
 | [Good Night my Darling](https://open.spotify.com/track/6ucyxzt2D1ENoXEh0pGxdy) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [Good Night my Baby](https://open.spotify.com/album/4HKosynIw0gh1ESV1CgKjj) | 2:02 | 2023-01-13 | 2024-05-17 |
@@ -276,6 +278,7 @@
 | [How Much Is That Doggie In The Window?](https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [How Much Is That Doggie In The Window?](https://open.spotify.com/album/5Lb6JFr7virY0Pp3nROzbo) | 2:08 | 2024-03-01 | 2024-07-19 |
 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 | 2023-08-10 |  |
 | [Hujedamej sånt barn han var](https://open.spotify.com/track/0B3aR4unKE3LmioY2GjSdK) | [Scarlet Patel](https://open.spotify.com/artist/6Iqj1M1NzaOzIE4d5vCcM4) | [Hujedamej sånt barn han var](https://open.spotify.com/album/0IYne0LhThS91Nf0eLAaBE) | 1:17 | 2023-02-10 | 2023-06-03 |
+| [Humpty Dumpty](https://open.spotify.com/track/3L9IOSq0Z5bNMGhvFPoCmx) | [Izeda Joane](https://open.spotify.com/artist/3cT0wA3MtLFcUkFlxwe0Ko) | [Humpty Dumpty](https://open.spotify.com/album/4YH6M4qwlZ9AWkhp92pG7F) | 1:52 | 2024-08-30 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/34gr5irWhnjBbagt7o1HOy) | [Lily Fairchild](https://open.spotify.com/artist/3vqkh4pULf8V7LBMjaK2H2) | [Humpty Dumpty](https://open.spotify.com/album/0ij0a9IepdWg69IwnIIKaL) | 2:05 | 2024-07-19 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/5YtkuqzGtGMxxmHI7lwu8X) | [Prosper Harland](https://open.spotify.com/artist/4BQgplBqqabnALZP6eciPw) | [Humpty Dumpty](https://open.spotify.com/album/2ppKJjyJYrFZ1hNRlWCrzb) | 1:52 | 2022-02-10 | 2023-05-12 |
 | [Hush Little Baby](https://open.spotify.com/track/4qshSUTSmcdgrMNyxgk2P2) | [Lucy Atkinsons](https://open.spotify.com/artist/1HnA251nGSo3HKytG6W6A1) | [Hush Little Baby](https://open.spotify.com/album/2rSEk9YJMXq6UiRzm7pT7a) | 1:17 | 2022-02-10 | 2024-01-05 |

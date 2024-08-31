@@ -4,7 +4,7 @@
 
 > La playlist au\-delà des genres\. Photo : Glass Beams
 
-176 songs - 10 hr 12 min
+177 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 | 2023-12-07 | 2024-07-05 |
 | [Astral Plane](https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 4:41 | 2023-12-07 | 2024-04-12 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-12-07 | 2024-02-10 |
+| [Back Skin](https://open.spotify.com/track/1CBU29WTDJcyNwtNq3iFa8) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Back Skin](https://open.spotify.com/album/29vQ9oiLyiDq43HFhslV6n) | 3:00 | 2024-08-30 |  |
 | [Bahwai](https://open.spotify.com/track/0hfSOgINLNsRHkASA31vY7) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:45 | 2023-12-07 | 2024-03-23 |
 | [Balut](https://open.spotify.com/track/3yeVb5di44wD6CZ2sJromR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:25 | 2023-12-07 | 2024-02-10 |
 | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 | 2024-04-04 |  |
@@ -59,7 +60,7 @@
 | [FRANK](https://open.spotify.com/track/5zHa6tYdr1k1pOBJPIv7Fw) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb) | [FRANK](https://open.spotify.com/album/5i8wOElEy6wOo1pyb4kb29) | 2:45 | 2024-02-23 | 2024-04-05 |
 | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 3:11 | 2023-12-07 | 2024-04-05 |
 | [Garmonbozia](https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Garmonbozia](https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc) | 3:33 | 2024-08-16 |  |
-| [Gaza is Calling](https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl) | 4:30 | 2024-06-14 |  |
+| [Gaza is Calling](https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl) | 4:30 | 2024-06-14 | 2024-08-31 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-04-04 | 2024-06-28 |
 | [GOODBYE](https://open.spotify.com/track/2rnRCLzEvxPNyLBfzCiwIz) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [GOODBYE](https://open.spotify.com/album/1lzvQEsxZ1epmXY0PWbZdW) | 2:59 | 2023-12-07 | 2024-01-13 |
 | [Grey Scale](https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Grey Scale](https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6) | 2:59 | 2024-06-14 |  |

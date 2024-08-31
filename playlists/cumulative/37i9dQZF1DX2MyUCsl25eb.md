@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-879 songs - 2 day 2 hr 47 min
+880 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Always Looking for You](https://open.spotify.com/track/4lPvAuYbmxixv12m4TXVSk) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Lalalalovesongs](https://open.spotify.com/album/70gURkrcCv8LLqdQmUemJo) | 3:52 | 2022-02-11 | 2022-04-19 |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-09-29 | 2024-08-17 |
 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 | 2024-03-15 | 2024-06-29 |
-| [Angel](https://open.spotify.com/track/23DwQbHY3nDj1ego2cx1Q9) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/5YtvD7V1TE3fuE8ok4wsMW) | 5:05 | 2023-10-13 |  |
+| [Angel](https://open.spotify.com/track/23DwQbHY3nDj1ego2cx1Q9) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/5YtvD7V1TE3fuE8ok4wsMW) | 5:05 | 2023-10-13 | 2024-08-31 |
 | [Angel](https://open.spotify.com/track/3D4XjhkvYU3F89G9Elok5T) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Angel](https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU) | 5:05 | 2023-10-13 | 2023-10-30 |
 | [Angel](https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 5:05 | 2023-10-13 | 2024-04-19 |
 | [Another Half](https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Another Half](https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy) | 2:28 | 2023-06-23 | 2023-08-20 |
@@ -130,6 +130,7 @@
 | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx) | 3:20 | 2022-10-07 | 2023-06-17 |
 | [Call Your Sister \- Sister Version](https://open.spotify.com/track/4buqFtGonvg2pTDZbuuDDg) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Call Your Sister \(Sister Version\)](https://open.spotify.com/album/6cjBjpVNxn8Zd7OoHANrTI) | 2:59 | 2022-09-09 | 2022-09-17 |
 | [Can I](https://open.spotify.com/track/3iykpxKSHzIBd3EWkkWhfN) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Can I](https://open.spotify.com/album/2dWNwyF7ac8Q5LWxAXhup1) | 3:00 | 2022-10-07 | 2023-03-04 |
+| [Can We Fix Our Nation's Broken Heart](https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Can We Fix Our Nation's Broken Heart](https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK) | 4:38 | 2024-08-30 |  |
 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2023-06-16 | 2023-10-14 |
 | [Can't Fight](https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:10 | 2021-08-04 | 2022-04-20 |
 | [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 | 2023-08-18 | 2023-10-28 |

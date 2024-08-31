@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zaleś
 
-189 songs - 9 hr 8 min
+192 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 | 2024-08-20 |  |
 | [Interpretacje](https://open.spotify.com/track/34uVjVFFAuzSwuJcSBcYAA) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Obrazy Uczuć](https://open.spotify.com/album/1bzgcHJGgN78CTvBgIhsha) | 3:24 | 2024-06-18 | 2024-08-23 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-16 | 2023-11-11 |
+| [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 |  |
 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 | 2022-08-26 |  |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-18 |  |
 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 | 2023-05-16 |  |
@@ -98,7 +99,7 @@
 | [MILLIE WALKY](https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 2:14 | 2024-02-02 |  |
 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 | 2024-06-18 |  |
 | [miłosna scena](https://open.spotify.com/track/3TWDGvhUQfuIWT2egjQVo8) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [scena miłosna](https://open.spotify.com/album/5eZ5nQdawYp1a1qLQZHytf) | 2:40 | 2022-08-26 | 2023-05-17 |
-| [Miłość w czasach](https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:38 | 2024-02-02 |  |
+| [Miłość w czasach](https://open.spotify.com/track/1QJYOOhN7hPbKwh3ZNlmPA) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:38 | 2024-02-02 | 2024-08-31 |
 | [Monochrom](https://open.spotify.com/track/2Nf7wnojAkwkyE4vNjGIZl) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Pętla](https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I) | 3:21 | 2022-08-26 | 2023-04-15 |
 | [Moon](https://open.spotify.com/track/06qc761kJm9KNfib0Uzofl) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Moon](https://open.spotify.com/album/60h4O4QjG72EGU9mFCbIg3) | 3:10 | 2022-09-23 | 2023-02-07 |
 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 | 2023-05-16 | 2024-02-03 |
@@ -109,7 +110,7 @@
 | [Need a break](https://open.spotify.com/track/6n86Viph09xx4i63kpsvWM) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Need a break](https://open.spotify.com/album/3iG3XNnDa3r90Kx8DqnFkU) | 3:33 | 2023-06-04 | 2024-08-21 |
 | [neonowe laczki](https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N) | 2:30 | 2022-09-23 | 2023-03-14 |
 | [Nic nie widać po mnie](https://open.spotify.com/track/4G1uPf5JXf7Hw2O9K77AUF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Nic nie widać po mnie](https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ) | 1:57 | 2024-08-22 |  |
-| [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-18 |  |
+| [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-18 | 2024-08-31 |
 | [Nie Dzwoń Do Mnie](https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Nie Dzwoń Do Mnie](https://open.spotify.com/album/6Qb5R0OCZqV7OoUc4eLdB6) | 2:36 | 2024-07-15 |  |
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 |  |
 | [Niebieska Noc](https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Niebieska Noc](https://open.spotify.com/album/1DyTAOv7dXCE2WuawmUzVh) | 2:47 | 2023-02-06 | 2023-03-14 |
@@ -139,6 +140,7 @@
 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 | 2022-08-26 |  |
 | [Promise](https://open.spotify.com/track/3keO1p1cfYkxgNGTIjAbMv) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 4:15 | 2022-08-26 | 2023-10-06 |
 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 | 2023-02-06 |  |
+| [Przy Tobie to...](https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [MINT](https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y) | 2:44 | 2024-08-30 |  |
 | [Przypadki](https://open.spotify.com/track/0Hw93iLjJaJct0bEcdkWx2) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Przypadki](https://open.spotify.com/album/3qUpOm5ZbZn6klgKk438VU) | 2:47 | 2022-08-26 |  |
 | [Pu$$ycat Dollz](https://open.spotify.com/track/1b4l2qmMY6LvAzRF7Kf9Lf) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Pu$$ycat Dollz](https://open.spotify.com/album/17aJCoSv1jz8QALI1m4HQm) | 2:05 | 2024-02-02 | 2024-07-16 |
 | [Puszczaj](https://open.spotify.com/track/3pGuVG2rKFSKWuqtKahAS1) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Puszczaj](https://open.spotify.com/album/4Mixg1QO20t9cPuoDip5Hq) | 3:12 | 2022-08-26 | 2024-07-19 |
@@ -146,7 +148,7 @@
 | [Put Me First \- Spotify Singles](https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Put Me First \- Spotify Singles](https://open.spotify.com/album/08dupG5Wu6BHLTfGjkvnxb) | 2:25 | 2023-03-13 | 2024-04-19 |
 | [Płonę, płonę](https://open.spotify.com/track/6K6suYfzQyoJBQ6Btrldj4) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [DUCHY.DISCO](https://open.spotify.com/album/3QXSI4Wnz6CngNCqUq9UDS) | 3:45 | 2024-02-02 |  |
 | [Płonę, płonę](https://open.spotify.com/track/2F71Q213wMg4uDNRg3IGiz) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Płonę, płonę](https://open.spotify.com/album/7ewkjpkeJEnVFuLVSOmmEq) | 3:46 | 2023-05-16 | 2024-02-03 |
-| [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-06-18 |  |
+| [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-06-18 | 2024-08-31 |
 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 | 2023-05-16 | 2023-11-11 |
 | [Rossa](https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Rossa](https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M) | 2:54 | 2022-08-26 |  |
 | [s k o c z w s z u w a r y](https://open.spotify.com/track/3apAH6ywhMzKvCTgvbGsQJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [s k o c z w s z u w a r y](https://open.spotify.com/album/6GhyEb20ArqlWDu2jvP5bm) | 2:52 | 2024-08-20 |  |
@@ -185,6 +187,7 @@
 | [You End Up In My Agenda](https://open.spotify.com/track/0ndAv1KPI3xRQEiklr9IGf) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [You End Up In My Agenda](https://open.spotify.com/album/2GmmC51nHnjxLqsM7ILVBn) | 2:11 | 2024-06-18 | 2024-07-27 |
 | [Za dobrze by zapomnieć](https://open.spotify.com/track/3XUZJ2FrvymQtTd6t6qJP6) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:32 | 2024-02-02 | 2024-07-16 |
 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 | 2023-05-16 | 2023-08-01 |
+| [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-08-30 |  |
 | [Zapachy](https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Zapachy](https://open.spotify.com/album/1WQ1CYkJxqh1EWABbTG33j) | 2:25 | 2022-09-23 | 2023-02-07 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-18 |  |
 | [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 | 2023-08-01 |

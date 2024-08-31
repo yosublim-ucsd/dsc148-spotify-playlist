@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pearl Jam. Los temas esenciales, todos en una lista.",
-  "num_followers": 759267,
+  "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
+  "num_followers": 759423,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADKTlLMzH+ehBY3YASR16bj",
+  "snapshot_id": "Zs+6AAAAAABCcwVog6wHlfc2tGe7hUTt",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 208187,
-      "name": "Won't Tell",
-      "url": "https://open.spotify.com/track/4Lv7QegfYqPHTqBTH1WJ83"
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
+      "duration_ms": 208187,
+      "name": "Won't Tell",
+      "url": "https://open.spotify.com/track/4Lv7QegfYqPHTqBTH1WJ83"
     },
     {
       "added_at": null,

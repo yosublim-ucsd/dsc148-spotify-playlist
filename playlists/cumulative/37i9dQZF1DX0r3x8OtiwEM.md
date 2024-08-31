@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-650 songs - 2 day 16 hr 5 min
+651 songs - 2 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Little Girl](https://open.spotify.com/track/19xXgIJjrXk0qZncjSgzgK) | [Fran&co](https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX) | [Little Girl](https://open.spotify.com/album/3XakrfPUGzwHSo9pbf0bIq) | 4:56 | 2021-09-14 | 2022-07-28 |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-09-01 |  |
 | [Lonesome Ghost](https://open.spotify.com/track/05h6pboyWT6WAEwB1CqbP3) | [Collective States](https://open.spotify.com/artist/2rhwvy3bJ8sOazAkbNlOEa) | [Kamino](https://open.spotify.com/album/768NEGmqF9l6Wwl29ixWqR) | 7:43 | 2020-03-02 | 2020-07-25 |
+| [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-30 |  |
 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 | 2022-06-24 | 2024-05-25 |
 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2020-04-18 | 2020-06-29 |
 | [Lost In The Stars \- Original Mix](https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU) | [ALMA \(GER\)](https://open.spotify.com/artist/6kYaUDGprOe3iZZ5bgxTgO) | [Mother](https://open.spotify.com/album/5v0f0wnZ4qYN8pjhTAZwsy) | 6:53 | 2022-01-14 | 2022-07-29 |
@@ -461,7 +462,7 @@
 | [Remember \(Remix\)](https://open.spotify.com/track/0sbbGfPxrNtZnJZVIn11MP) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Remember \(Remix\)](https://open.spotify.com/album/7JwLW0aT0c1nq9uPpWFDvV) | 4:44 | 2020-10-10 | 2022-07-29 |
 | [Remind Me Tomorrow](https://open.spotify.com/track/7iXhQsfvRnXCLifgGWJsWf) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Remind Me Tomorrow](https://open.spotify.com/album/5ErgrBIvvImEyUTHQk7sqU) | 8:10 | 2022-04-15 | 2022-04-20 |
 | [Reminiscence](https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Reminiscence](https://open.spotify.com/album/5rTtvod3o7BesmyPzfwowr) | 5:21 | 2019-12-20 | 2022-04-16 |
-| [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 | 2022-02-18 |  |
+| [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 | 2022-02-18 | 2024-08-31 |
 | [Reset](https://open.spotify.com/track/4YJ5mIkrwtMyZknV2uqx3z) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Reset](https://open.spotify.com/album/6Wu82RRKxyysWofgHcfUlD) | 7:27 | 2023-11-11 | 2023-11-28 |
 | [Resistance](https://open.spotify.com/track/0xOsKFCgXeFdeKWT2iSN6f) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Resistance](https://open.spotify.com/album/2vAJZy2wupv46EIrkQQ5nk) | 6:07 | 2019-08-06\* | 2020-03-14 |
 | [Resize](https://open.spotify.com/track/59P2A6FwMZt3ygyGNxCJmm) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [ROTH](https://open.spotify.com/artist/0NkPTtDWJubjkbH1t3J0jS) | [Resize](https://open.spotify.com/album/5QXvS4O581kFmpeKC32Pkj) | 7:55 | 2020-07-18 | 2021-02-11 |

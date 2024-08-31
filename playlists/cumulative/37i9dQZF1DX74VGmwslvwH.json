@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Foreign Lands",
+        "url": "https://open.spotify.com/album/1a8cUiV7todjPrXu4jqowW"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146448,
+      "name": "Foreign Lands",
+      "url": "https://open.spotify.com/track/2yLYQyrHlcgfC9k6gXRAbt"
+    },
+    {
+      "album": {
         "name": "Raat ki Hawa",
         "url": "https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200873,
       "name": "Happiness (with drums)",
       "url": "https://open.spotify.com/track/5uO4ehg7RkW0GNZWVkIuik"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186209,
       "name": "Healing Water",
       "url": "https://open.spotify.com/track/61AViX47CvGaOYvZ7qneDi"
@@ -1147,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Ujjayi Focus",
+        "url": "https://open.spotify.com/album/03cZJkgd7asm4QbeEsCyhP"
+      },
+      "artists": [
+        {
+          "name": "Lars Peters",
+          "url": "https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Lars Peters - Ujjayi Focus",
+      "url": "https://open.spotify.com/track/0YTawuVuUShIKinIVhXA1F"
+    },
+    {
+      "album": {
         "name": "Late Night Meditation",
         "url": "https://open.spotify.com/album/4USXXfJHQgf1gB0yS9jmOJ"
       },
@@ -1230,7 +1266,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195692,
       "name": "Luminous Mind",
       "url": "https://open.spotify.com/track/0QrazvL9WC3OhJGlnhKBuo"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188503,
       "name": "Parampara",
       "url": "https://open.spotify.com/track/0tfRLoSRwVus8SqmfUOfjW"
@@ -2942,6 +2978,24 @@
       "duration_ms": 238124,
       "name": "Tribal Tibble",
       "url": "https://open.spotify.com/track/6t6QdyCqUFIuIVbYVSK3zU"
+    },
+    {
+      "album": {
+        "name": "Twin Flames",
+        "url": "https://open.spotify.com/album/2xUlSc4nckmnFOnRDFbfFP"
+      },
+      "artists": [
+        {
+          "name": "JourneyBox",
+          "url": "https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220147,
+      "name": "Twin Flames",
+      "url": "https://open.spotify.com/track/08tX9fPIXoMkI4C5no404e"
     },
     {
       "album": {

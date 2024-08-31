@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Americana's artists and hits of tomorrow. Cover: Cassandra Lewis ",
+  "description": "Americana's artists and hits of tomorrow. Cover: Noeline Hofmann",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 228998,
       "name": "At Least There's No Babies (feat. Dee White)",
       "url": "https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W"
+    },
+    {
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
     },
     {
       "album": {
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201120,
       "name": "Mary Jane & Chardonnay",
       "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 203866,
       "name": "Nobody but Me",
       "url": "https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc"
@@ -3439,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Songbird",
+        "url": "https://open.spotify.com/album/3zptqECPpVpJ7tSKMN4xUz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Juanita",
+          "url": "https://open.spotify.com/artist/4BhOvUyS23JWzGZC7j3GbE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162783,
+      "name": "Tennessee Songbird",
+      "url": "https://open.spotify.com/track/1VTLJQs7PPXPSCtOr16xOs"
+    },
+    {
+      "album": {
         "name": "Vincent Neil Emerson",
         "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
@@ -3486,7 +3522,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 226509,
       "name": "The Fair and Dark Haired Lad",
       "url": "https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja"

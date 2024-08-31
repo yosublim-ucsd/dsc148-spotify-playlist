@@ -2,9 +2,9 @@
 
 ### [New Smooth Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTEbYi1zYy0Z)
 
-> So fresh, so smooth\. Cover: Braxton Brothers
+> So fresh, so smooth\. Cover: Boney James
 
-475 songs - 1 day 9 hr 38 min
+476 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Brown Sugar](https://open.spotify.com/track/649DBqP4FrmmK7blTlp7Pa) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [Brown Sugar](https://open.spotify.com/album/1DzPhhXalSEevmRGicXZSu) | 4:31 | 2024-06-14 |  |
 | [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 | 2022-02-25 | 2023-06-17 |
 | [Busta Move](https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [SOLO](https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA) | 4:34 | 2022-04-01 | 2023-08-05 |
+| [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0) | 4:26 | 2024-08-30 |  |
 | [C'mon Y'all](https://open.spotify.com/track/3saNbbFn6fncpSFq9YoYis) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [C'mon Y'all](https://open.spotify.com/album/2HO6PhCIZ5G8tLFEbJYTJ4) | 3:55 | 2023-08-25 | 2023-10-07 |
 | [Can We Talk](https://open.spotify.com/track/0KUWTBINgTBrkrHwj5dEot) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/4jt3x9S0RBFg5yCvvWCtje) | 4:08 | 2023-08-18 | 2024-03-09 |
 | [Can We Talk](https://open.spotify.com/track/621i6kpO5Te1WLiMgnovdQ) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [Can We Talk](https://open.spotify.com/album/2ue7GjPC8MDeflNgril0sq) | 4:10 | 2023-08-18 | 2024-01-30 |
@@ -286,7 +287,7 @@
 | [Mo Jazzin](https://open.spotify.com/track/6CYUFaUjnGAlBGjVCl44ud) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mo Jazzin](https://open.spotify.com/album/3wHmVl5lU7Rt8PyT1jvCW9) | 3:40 | 2020-10-30 | 2022-03-17 |
 | [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 | 2023-09-08 | 2023-11-18 |
 | [Monday](https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm) | [Philip Patterson](https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7) | [Monday](https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu) | 4:14 | 2021-07-23 | 2022-09-06 |
-| [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 |  |
+| [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 | 2024-08-31 |
 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 | 2022-10-07 | 2023-08-26 |
 | [Movin' N Groovin](https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Movin' N Groovin](https://open.spotify.com/album/5mPrwquK15wRc4rvYBZ8gd) | 4:24 | 2022-03-25 | 2023-03-18 |
 | [Moving Too Fast](https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/1AZI6eU4ps97LoiFqxoYua) | 3:42 | 2023-10-06 | 2023-10-21 |

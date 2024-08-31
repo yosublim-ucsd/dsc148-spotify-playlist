@@ -136,10 +136,36 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 148225,
       "name": "AZAMAN",
       "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
+    },
+    {
+      "album": {
+        "name": "BL\u00c9DARD (Deluxe)",
+        "url": "https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        },
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        },
+        {
+          "name": "NAYRA",
+          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "BABOUR LOU7",
+      "url": "https://open.spotify.com/track/4KQIZbdijE4AytokJmqpAn"
     },
     {
       "album": {
@@ -426,7 +452,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -816,7 +842,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 155448,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
@@ -874,7 +900,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 143297,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/4Jr5YekC6TuKnj6ZjROBKK"
@@ -1056,7 +1082,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 138306,
       "name": "Joie de filles (feat. Vacra)",
       "url": "https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk"
@@ -1343,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Machi Bedala",
+        "url": "https://open.spotify.com/album/7oxjlOyaQWurxc93M6YH60"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224323,
+      "name": "Machi Bedala",
+      "url": "https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv"
+    },
+    {
+      "album": {
         "name": "Madama",
         "url": "https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m"
       },
@@ -1536,7 +1580,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
@@ -1606,6 +1650,24 @@
       "duration_ms": 192293,
       "name": "Niya (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/4aHRzrMCfGXIC8ldykVkMs"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165813,
+      "name": "No lo s\u00e9",
+      "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
       "album": {
@@ -1874,7 +1936,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169256,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
@@ -2155,6 +2217,42 @@
     },
     {
       "album": {
+        "name": "Sobri",
+        "url": "https://open.spotify.com/album/15S3x4PY3e43R5QdxzehKB"
+      },
+      "artists": [
+        {
+          "name": "Aezaddy",
+          "url": "https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Sobri",
+      "url": "https://open.spotify.com/track/3J6d3h5gnxP0PxnzWhJuGy"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/6I8s8s1g77v6fBYImKv1yz"
+      },
+      "artists": [
+        {
+          "name": "Asmae",
+          "url": "https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147550,
+      "name": "Soft Girl",
+      "url": "https://open.spotify.com/track/3KriUHodVG3rdWMta3qorQ"
+    },
+    {
+      "album": {
         "name": "SOIS PAS TIMIDE",
         "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
       },
@@ -2202,7 +2300,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190630,
       "name": "SOUVENIRS",
       "url": "https://open.spotify.com/track/5pNwLjcuTBaEzkAmf02K1O"
@@ -2574,6 +2672,24 @@
       "duration_ms": 183400,
       "name": "\u00c0 QUOI TU JOUES",
       "url": "https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU"
+    },
+    {
+      "album": {
+        "name": "The Triplet",
+        "url": "https://open.spotify.com/album/4lSapA6tPoPQRY4yrubZe8"
+      },
+      "artists": [
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "\u2026Fin Bdat",
+      "url": "https://open.spotify.com/track/2oiz0b7fTaEE6FCyjvBhGW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcw5kRGCYhea"

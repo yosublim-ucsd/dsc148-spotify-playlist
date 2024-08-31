@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 8170,
+  "num_followers": 8189,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAACDrSZ+tEuBjyowfsw6VteE",
+  "snapshot_id": "Zs+6AAAAAAA+SAqBSmBDuiVJbD/ZfU1P",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Que Te Escrib\u00ed y Nunca Te Cant\u00e9",
         "url": "https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB"
       },
@@ -207,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujo y Detalle",
-        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Lujo y Detalle",
-      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vueltas De La Vida",
         "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
       },
@@ -239,6 +239,26 @@
       "duration_ms": 246581,
       "name": "En Mi Mundo",
       "url": "https://open.spotify.com/track/46wSVrQx60Qmv4y4f4GIsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cielo Eterno - Spotify Singles",
+        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 244245,
+      "name": "Cielo Eterno - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
     },
     {
       "added_at": null,
@@ -363,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo Eterno - Spotify Singles",
-        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
       "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 244245,
-      "name": "Cielo Eterno - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
       "duration_ms": 162346,
       "name": "Donde Estamos Hoy",
       "url": "https://open.spotify.com/track/2KTDrrv2xh8pjb2DgQmj6A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Modo On",
-      "url": "https://open.spotify.com/track/4XWeOPCGXOuHAOgxYJxiMx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Busque",
         "url": "https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 225348,
       "name": "Y Lo Busque",
       "url": "https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Modo On",
+      "url": "https://open.spotify.com/track/4XWeOPCGXOuHAOgxYJxiMx"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Pisto En Mano Y Humo Al Viento",
-      "url": "https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alla En Lynwood (En Vivo)",
         "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 203250,
       "name": "Alla En Lynwood - En Vivo",
       "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Pisto En Mano Y Humo Al Viento",
+      "url": "https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x"
     },
     {
       "added_at": null,

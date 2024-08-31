@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. Kapak: Skapova
 
-102 songs - 5 hr 52 min
+103 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ben Gezegenim Sen Uzaysın](https://open.spotify.com/track/0Gh6eyUsAMhChAIhih4UIQ) | [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C), [Rakin](https://open.spotify.com/artist/4kQJbtGKPd0tvsZAu7WfqO) | [Ben Gezegenim Sen Uzaysın](https://open.spotify.com/album/2AHIcjdhSQDmmO9VRruccX) | 2:45 | 2024-08-29 |  |
 | [Ben Hala Vazgeçmedim](https://open.spotify.com/track/791iRKBKD6K8WiTXoJaNm2) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Ben Senden Vazgeçtim](https://open.spotify.com/album/6p9gZJWzTsHgFcZuVQZnVE) | 3:58 | 2024-06-28 |  |
 | [Beni Anla](https://open.spotify.com/track/0dTusB8JKDynGkqGkgvLPS) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Beni Anla](https://open.spotify.com/album/3lG4KrGHKQ0RmZ25Zdo60C) | 4:31 | 2024-06-28 |  |
+| [Benim Annem Cumartesi](https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Benim Annem Cumartesi](https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz) | 5:10 | 2024-08-29 |  |
 | [cihan](https://open.spotify.com/track/43b6nRvYpO9dTNV7507wf1) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [cihan](https://open.spotify.com/album/1ttwKkQZEoZy7cDRQXpp4F) | 2:43 | 2024-06-28 | 2024-07-12 |
 | [Defolup Gidelim](https://open.spotify.com/track/4qUh25Q7kFHxubAtLCvV6e) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Defolup Gidelim](https://open.spotify.com/album/0oflIVq580immGYGFzcPQp) | 3:34 | 2024-06-28 |  |
 | [DELİ](https://open.spotify.com/track/6MNo14JU8satRzrCXPLoop) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [DELİ](https://open.spotify.com/album/5FmLvFuIv8OFbFAXhb0Rxv) | 2:22 | 2024-06-28 |  |

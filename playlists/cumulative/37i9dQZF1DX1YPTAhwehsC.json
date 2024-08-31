@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140800,
       "name": "act like",
       "url": "https://open.spotify.com/track/3P3PONWYGlQWSu3rd4wGIl"
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "BAD TIME",
+        "url": "https://open.spotify.com/album/0j8IPQxwlRChALfwro711D"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210803,
+      "name": "BAD TIME",
+      "url": "https://open.spotify.com/track/2HrgD87YHrINdWlEU7o0gn"
+    },
+    {
+      "album": {
         "name": "Bag On Em",
         "url": "https://open.spotify.com/album/78vEBSj6bZf8H6pmJOdZTu"
       },
@@ -2138,6 +2156,44 @@
       "duration_ms": 159452,
       "name": "Beckham (41 Mix)",
       "url": "https://open.spotify.com/track/0AMujCMT4wOt8nKDSQwIK3"
+    },
+    {
+      "album": {
+        "name": "Beckham In RPT (feat. Yavi DG, Nesty Gzz & Yus Gz)",
+        "url": "https://open.spotify.com/album/1i8WsVxkyeYdwzieVcmP7A"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        },
+        {
+          "name": "Kha Structure",
+          "url": "https://open.spotify.com/artist/1npzTrxFene8P6jap4i0Qz"
+        },
+        {
+          "name": "Edai Gunz",
+          "url": "https://open.spotify.com/artist/5fECRk3FNkcokDe4qnaVVk"
+        },
+        {
+          "name": "Nesty Gzz",
+          "url": "https://open.spotify.com/artist/7sWzku81OpTXm3H20H97qw"
+        },
+        {
+          "name": "Yavi DG",
+          "url": "https://open.spotify.com/artist/54U7nkA4h09vwTbwkePQlh"
+        },
+        {
+          "name": "Yus Gz",
+          "url": "https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194699,
+      "name": "Beckham In RPT (feat. Yavi DG, Nesty Gzz & Yus Gz)",
+      "url": "https://open.spotify.com/track/3ZnzEfNa5dYwzMYPihlEqR"
     },
     {
       "album": {
@@ -3260,6 +3316,36 @@
       "duration_ms": 117677,
       "name": "Boy Oh Boy",
       "url": "https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF"
+    },
+    {
+      "album": {
+        "name": "Boyz N Da Hood",
+        "url": "https://open.spotify.com/album/4qSBttiuOc2h5ltJxCUelN"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230222,
+      "name": "Boyz N Da Hood",
+      "url": "https://open.spotify.com/track/4KvvJYJlLPW70IIWtf4pjf"
     },
     {
       "album": {
@@ -7122,7 +7208,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204935,
       "name": "FAVORITE LADY (with NAV & Cash Cobain)",
       "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
@@ -7166,6 +7252,28 @@
       "duration_ms": 208621,
       "name": "Favorite Song (feat. Future) [Toxic Version]",
       "url": "https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC"
+    },
+    {
+      "album": {
+        "name": "Fed Up (feat. Lil Tjay)",
+        "url": "https://open.spotify.com/album/5oWFSSB6oA7lSCXZxxyCDz"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Fed Up (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/3IOD3A5l42qEXQFoGZ1RH0"
     },
     {
       "album": {
@@ -8888,7 +8996,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183906,
       "name": "GO GET YA MOTHA",
       "url": "https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq"
@@ -9302,6 +9410,36 @@
       "duration_ms": 170526,
       "name": "Grave Digger (feat. Scorey)",
       "url": "https://open.spotify.com/track/3xhzSZTaqFABrUgHCEkgha"
+    },
+    {
+      "album": {
+        "name": "Green Haired Girl",
+        "url": "https://open.spotify.com/album/69KpTkx2PI84a51qPjZJiM"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Green Haired Girl (with TaTa, Jenn Carter & Dee Billz)",
+      "url": "https://open.spotify.com/track/3YlV219mDmYvp63MsDwHKt"
     },
     {
       "album": {
@@ -9788,7 +9926,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
@@ -13422,7 +13560,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184370,
       "name": "me n payroll",
       "url": "https://open.spotify.com/track/5BSeEICeWNQMrjAoZpkhJ5"
@@ -13996,7 +14134,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 132469,
       "name": "ms.beautiful V",
       "url": "https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs"
@@ -14108,6 +14246,28 @@
       "duration_ms": 160052,
       "name": "Murder She Wrote / Bam Bam",
       "url": "https://open.spotify.com/track/0pbz9oXY5HOZY50qeTZEyf"
+    },
+    {
+      "album": {
+        "name": "Murdergram Deux",
+        "url": "https://open.spotify.com/album/0XoE5ChBCxDA1oYfoJ8PtH"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185456,
+      "name": "Murdergram Deux (feat. Eminem)",
+      "url": "https://open.spotify.com/track/7gXM8fCGg0SmRzAVySp3ie"
     },
     {
       "album": {
@@ -15330,7 +15490,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212000,
       "name": "No \u00d8 Zone (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ"
@@ -15374,6 +15534,28 @@
       "duration_ms": 126689,
       "name": "North Face Bombers (feat. The Game)",
       "url": "https://open.spotify.com/track/0INHmrKFfK3S6jdggvQx4Z"
+    },
+    {
+      "album": {
+        "name": "Nostalgia (feat. Gray Hawken)",
+        "url": "https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Gray Hawken",
+          "url": "https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129981,
+      "name": "Nostalgia (feat. Gray Hawken)",
+      "url": "https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS"
     },
     {
       "album": {
@@ -16354,7 +16536,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160253,
       "name": "Own Lane",
       "url": "https://open.spotify.com/track/5J0JMQtHObPqSy04UHuX8d"
@@ -19533,6 +19715,28 @@
     },
     {
       "album": {
+        "name": "BIG DIOR",
+        "url": "https://open.spotify.com/album/2cU7wfkSDMKR35tlC5ThIR"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149627,
+      "name": "SEX LOVE DEMONS (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/6i0nVCYnZy24212rvQ2syy"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/4g3Ke09cSiGKtw2F2JEjG9"
       },
@@ -19990,7 +20194,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 123076,
       "name": "Skims",
       "url": "https://open.spotify.com/track/1C1XicSwijJXO43fe8qtVt"
@@ -21405,6 +21609,24 @@
     },
     {
       "album": {
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
+    },
+    {
+      "album": {
         "name": "Take No Loss",
         "url": "https://open.spotify.com/album/7wJozRE4PEbtkaunQkdGLn"
       },
@@ -21510,7 +21732,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 170447,
       "name": "TASTE",
       "url": "https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF"
@@ -23134,6 +23356,24 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
+    },
+    {
+      "album": {
+        "name": "Uptown",
+        "url": "https://open.spotify.com/album/52U2InimWoEvtFiMr0P74R"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130770,
+      "name": "Uptown",
+      "url": "https://open.spotify.com/track/7njgQevnFEW7l1LyBuJpg2"
     },
     {
       "album": {

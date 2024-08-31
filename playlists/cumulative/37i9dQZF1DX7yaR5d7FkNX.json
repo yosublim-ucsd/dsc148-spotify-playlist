@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+    },
+    {
+      "album": {
         "name": "El Cine",
         "url": "https://open.spotify.com/album/39HFnEulyqMasSEG5ijfsK"
       },
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214946,
       "name": "Est\u00e1s Dormida",
       "url": "https://open.spotify.com/track/5n66NHjgWybVQBwNDq710a"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208000,
       "name": "MEDIA NOCHE",
       "url": "https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn"
@@ -4230,7 +4248,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 164479,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/1vNvcdPzFCxg9q0yv8a3Hy"
@@ -4588,6 +4606,28 @@
       "duration_ms": 256000,
       "name": "Whisky",
       "url": "https://open.spotify.com/track/4BiQr8NgC9DcDRQV4wxuUF"
+    },
+    {
+      "album": {
+        "name": "Ya me fui",
+        "url": "https://open.spotify.com/album/5K9ojktYA69iDD0v83AEBA"
+      },
+      "artists": [
+        {
+          "name": "OkMark",
+          "url": "https://open.spotify.com/artist/6y996plgJcSEgDNFgdntj1"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189141,
+      "name": "Ya me fui",
+      "url": "https://open.spotify.com/track/6mMSv0UE5AEvHD9DadkI26"
     },
     {
       "album": {

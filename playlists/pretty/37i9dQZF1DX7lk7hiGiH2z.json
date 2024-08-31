@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 43299,
+  "num_followers": 43321,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -727,18 +727,22 @@
     {
       "added_at": "2024-08-26 10:04:42",
       "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+        "name": "Idas Sommerlied",
+        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
       },
       "artists": [
         {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+          "name": "Astrid Lindgren Deutsch",
+          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
+        },
+        {
+          "name": "Michel aus L\u00f6nneberga",
+          "url": "https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V"
         }
       ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
+      "duration_ms": 119215,
+      "name": "Idas Sommerlied",
+      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
     },
     {
       "added_at": "2024-08-26 10:04:42",
@@ -759,22 +763,18 @@
     {
       "added_at": "2024-08-26 10:04:42",
       "album": {
-        "name": "Idas Sommerlied",
-        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
       },
       "artists": [
         {
-          "name": "Astrid Lindgren Deutsch",
-          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
-        },
-        {
-          "name": "Michel aus L\u00f6nneberga",
-          "url": "https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V"
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
         }
       ],
-      "duration_ms": 119215,
-      "name": "Idas Sommerlied",
-      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
+      "duration_ms": 183920,
+      "name": "Jetzt kommt die Biene Maja",
+      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
     },
     {
       "added_at": "2024-08-26 10:04:42",

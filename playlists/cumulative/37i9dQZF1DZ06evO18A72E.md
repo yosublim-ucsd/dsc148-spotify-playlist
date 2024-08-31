@@ -2,7 +2,7 @@
 
 ### [This Is Panic! At The Disco](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18A72E)
 
-> This is Panic! At The Disco\. The essential tracks, all in one playlist.
+> This is Panic! At The Disco\. Todos os maiores hits em uma só playlist.
 
 67 songs - 3 hr 49 min
 

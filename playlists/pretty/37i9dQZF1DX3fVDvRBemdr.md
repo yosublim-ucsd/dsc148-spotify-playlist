@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Robert van Hemert
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,879 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,914 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Ik Pluk Een Ster](https://open.spotify.com/track/6IL9WqozMq9AZnj0v8jEAY) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Ik Pluk Een Ster](https://open.spotify.com/album/0PbztfMQhKRjRwW4AHWxf8) | 2:38 |
 | 80 | [Zeg me wie](https://open.spotify.com/track/1GkaioqxI6kq8MGhvM40vJ) | [Henk Bernard](https://open.spotify.com/artist/6DEJqlSyKBB7mYf2v59dVO) | [Zeg me wie](https://open.spotify.com/album/3cXzMiXcEKr1LUlkcMbZZB) | 3:45 |
 
-Snapshot ID: `ZtDvYAAAAAA2K5E1sMFioqQ0KrEorrD+`
+Snapshot ID: `ZtF9pQAAAACsd9Z+cpcGYJ2XLtCseJoq`

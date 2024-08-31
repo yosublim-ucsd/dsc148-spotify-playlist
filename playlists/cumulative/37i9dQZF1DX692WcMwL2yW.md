@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-368 songs - 16 hr 58 min
+370 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 | 2021-11-10 |  |
 | [Clevelig](https://open.spotify.com/track/115cPJoVFoqJzCnLGaqkXO) | [Doctors Who Smoke](https://open.spotify.com/artist/2W8i2J8TaTQ0hdZjC4Tw8X) | [Homework](https://open.spotify.com/album/3zYk94oHA1pju1A3VHfDiB) | 3:28 | 2021-04-26\* | 2022-05-27 |
 | [Close Call](https://open.spotify.com/track/5a7qqDK0TArhQulbAXlYHV) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 2:41 | 2021-04-26\* | 2022-05-14 |
-| [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 | 2022-07-08 |  |
+| [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 | 2022-07-08 | 2024-08-31 |
 | [Cognac Carousel](https://open.spotify.com/track/1kMW4G825Ch7Ba6kps51Wp) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [A Year Down](https://open.spotify.com/album/2XkYfq0Sq0kOrGUCuMZS0g) | 1:59 | 2021-04-26\* | 2021-06-18 |
 | [Come Over](https://open.spotify.com/track/02SZNC6HRyEuFSWwvDHvGr) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/64RIVMQaMTlWzDpAymXzFa) | 4:00 | 2022-04-22 |  |
 | [Come Over](https://open.spotify.com/track/5iWOwHfOFBUdbi04ti6F0v) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Come Over](https://open.spotify.com/album/2cIwbiXuRztOGlfPMnX1um) | 4:00 | 2023-07-19 | 2024-04-19 |
@@ -174,10 +174,10 @@
 | [Kawakawa](https://open.spotify.com/track/3y20jsjCWlfyTTrvu4apCC) | [Diamond Rainclouds](https://open.spotify.com/artist/5PPvxImj1EsRW9mj9YmnEL) | [Kawakawa](https://open.spotify.com/album/0J62tlYL5LDUdkxkRXLsBJ) | 4:17 | 2022-04-22 |  |
 | [Kerope](https://open.spotify.com/track/0smFg48BCft1tmc1NTfmth) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [Kerope](https://open.spotify.com/album/2l3Pbwp81ROqPb4WDUW5jv) | 3:39 | 2021-07-09 |  |
 | [Killers](https://open.spotify.com/track/0kmVVO1cDYv9w6CY4UhuPz) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Killers](https://open.spotify.com/album/6HnJ0P7zYGAugVBgghd0ht) | 2:28 | 2022-10-28 |  |
-| [Knight's Revenge](https://open.spotify.com/track/0ezINhl6gHC8dqWuJfr0Bc) | [Lake Kahn](https://open.spotify.com/artist/3kizVBAyS6O8Ytp9z0H97k) | [On Thin Ice](https://open.spotify.com/album/1l7b6RDz41wmBi9X7FGNu7) | 2:31 | 2022-07-15 |  |
+| [Knight's Revenge](https://open.spotify.com/track/0ezINhl6gHC8dqWuJfr0Bc) | [Lake Kahn](https://open.spotify.com/artist/3kizVBAyS6O8Ytp9z0H97k) | [On Thin Ice](https://open.spotify.com/album/1l7b6RDz41wmBi9X7FGNu7) | 2:31 | 2022-07-15 | 2024-08-31 |
 | [Knotty](https://open.spotify.com/track/11zBN5ADHArSCQgC2ZOfuS) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Knotty](https://open.spotify.com/album/0GrmnbP8s71b78UwIKL9AA) | 2:49 | 2022-09-02 |  |
 | [lenient](https://open.spotify.com/track/536oAxoTUOQ1s0WrgReFZJ) | [fidget blue](https://open.spotify.com/artist/72zjw9ziFnk6Jl3xkgcvVK) | [lenient](https://open.spotify.com/album/1hPTNfK1zqa7Dieh5cMmcg) | 2:03 | 2021-04-26\* |  |
-| [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2021-04-26\* |  |
+| [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 | 2021-04-26\* | 2024-08-31 |
 | [Leoplot](https://open.spotify.com/track/1t4F5nEsSSC1ORQqYXgSll) | [CLOCC](https://open.spotify.com/artist/1QNQOpFcbLjmKPiCDKSiGG) | [Leoplot](https://open.spotify.com/album/5IZEXtUR24IkXTuTjnNrFw) | 1:47 | 2021-04-26\* | 2021-04-28 |
 | [Let it be known](https://open.spotify.com/track/0wltL5KFoZ7TqTdapi1Cbs) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Let it be known](https://open.spotify.com/album/3unomAhkTiJoLws40mDhuk) | 2:18 | 2022-09-30 |  |
 | [Let Us Down](https://open.spotify.com/track/0sRvHLSBSVtBI829picjG7) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Beyond](https://open.spotify.com/album/3m94LsnqfzpI465onjhr8p) | 2:21 | 2021-04-26\* | 2021-08-26 |
@@ -227,6 +227,7 @@
 | [No Club Nights](https://open.spotify.com/track/3CX9woVxbNze4MJ5EvTJeL) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [No Club Nights](https://open.spotify.com/album/66XlREt4HOxq7C4Z5qT4dI) | 3:49 | 2021-10-14 |  |
 | [No One Can Love Me Like I Do](https://open.spotify.com/track/3zwjwMgH8AkbaPndKL0Rb0) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [No One Can Love Me Like I Do](https://open.spotify.com/album/4roAGtuRhpXaDTL4gRAbJX) | 2:42 | 2021-04-26\* | 2022-05-14 |
 | [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 | 2021-10-14 |  |
+| [NVM](https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [NVM](https://open.spotify.com/album/1gGQhagIt71G0DZ37mJrg7) | 2:12 | 2024-08-30 |  |
 | [Old Life](https://open.spotify.com/track/5jTEXJdrOSS42EDMyzzfga) | [Xilo Xaxo](https://open.spotify.com/artist/2K4dC388oTw9qfuGhsK0ba) | [Old Life](https://open.spotify.com/album/5xwUo1oCtRrzKZECwFGL9X) | 4:03 | 2021-07-09 | 2022-05-14 |
 | [Omit The Feeble Meat](https://open.spotify.com/track/6MX2R5xvIUf6c6Q9cjoSJN) | [Squirrely Bass](https://open.spotify.com/artist/16szDgocdMVICKd53On8MK) | [Omit The Feeble Meat](https://open.spotify.com/album/1LiXDvjxnxdnnCiw7Xbplf) | 2:41 | 2021-06-04 | 2021-06-18 |
 | [One Call Away](https://open.spotify.com/track/2QyqR3aM0QBsgoFBALBVyR) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [One Call Away](https://open.spotify.com/album/3BwfSQ7LGLCkCAREkpcsDP) | 2:28 | 2021-11-10 |  |
@@ -244,13 +245,14 @@
 | [Perfection](https://open.spotify.com/track/3cgmk4PnyagSVS0snpSHBf) | [Carl Down](https://open.spotify.com/artist/3SUWaiyM09qqsnBkfm6lPv) | [Perfection](https://open.spotify.com/album/6DO8231AhivEuWarU7JeJz) | 1:32 | 2021-04-26\* | 2022-04-22 |
 | [Pharaoh](https://open.spotify.com/track/6glmt72gPUUCCzM4CLVI3r) | [No Man In Sight](https://open.spotify.com/artist/2KhyX2WaqJ4hsyymTFKbcL) | [Pharaoh](https://open.spotify.com/album/3UcEzc5ejYRwDsXfqJuztv) | 2:24 | 2024-03-03 |  |
 | [PITS](https://open.spotify.com/track/0mjK7y2U7jDEaQTrPytWpi) | [Nowhere Now Here](https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6) | [PITS](https://open.spotify.com/album/0S2NAqlM9yKiAaCYB6EGsp) | 2:20 | 2023-07-19 |  |
-| [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 | 2023-07-19 |  |
+| [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 | 2023-07-19 | 2024-08-31 |
 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 | 2021-11-10 |  |
 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 | 2024-03-26 |  |
+| [Polyphonic Plunder](https://open.spotify.com/track/11Y8lwKvl0Jv3MiLG1VPZV) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Polyphonic Plunder](https://open.spotify.com/album/5Jigk4DPxIld2zBWAZj46l) | 2:49 | 2024-08-30 |  |
 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 | 2021-04-26\* | 2021-06-18 |
 | [Presi Face](https://open.spotify.com/track/52v3ynq7TeiusKESiwUIRv) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [Presi Face](https://open.spotify.com/album/2elmCoxrHi4lsKaIuMfjV7) | 3:10 | 2022-05-27 |  |
 | [Primetime](https://open.spotify.com/track/6ykb5iNlaQvvK2dDnKdGVq) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Midas Touch](https://open.spotify.com/album/0MZgSxNdAJyb1IN6y2Z2AE) | 2:21 | 2021-04-26\* | 2021-08-26 |
-| [Project X](https://open.spotify.com/track/1TbEJzyaY8hRgyqX2vOFs0) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Project X](https://open.spotify.com/album/6tv6vvfGMIykmGB5JDjyXT) | 3:15 | 2023-03-27 |  |
+| [Project X](https://open.spotify.com/track/1TbEJzyaY8hRgyqX2vOFs0) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Project X](https://open.spotify.com/album/6tv6vvfGMIykmGB5JDjyXT) | 3:15 | 2023-03-27 | 2024-08-31 |
 | [Prompts](https://open.spotify.com/track/1V0lsm8TLZzHI3vzKjKATo) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Fork Lifts](https://open.spotify.com/album/74lP9vtmwJIVpVKjFnHx15) | 2:06 | 2022-09-02 |  |
 | [PTA](https://open.spotify.com/track/43xik565joqdebuxma8Jd9) | [Hi Rodee](https://open.spotify.com/artist/51UCiViOBxBnEOyvHH4TpL) | [Güd Week](https://open.spotify.com/album/0ILe5XAKhhduIgaySBn25s) | 5:47 | 2021-08-26 | 2022-10-29 |
 | [PunchOut](https://open.spotify.com/track/5a8RDAInofwrvmcCt0X5u1) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Murder Your TV](https://open.spotify.com/album/4w2s6eauvRZf9qtzw0JmdA) | 2:35 | 2021-08-26 | 2022-05-27 |

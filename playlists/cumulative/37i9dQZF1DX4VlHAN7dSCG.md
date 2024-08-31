@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: I Mean Us
 
-144 songs - 9 hr 30 min
+145 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [衡山路宛平路](https://open.spotify.com/track/5nOlGw08h80qQaWu3V136A) | [ChiliChill](https://open.spotify.com/artist/4Aets4vGG15UDeIffZ6Cbo) | [衡山路宛平路](https://open.spotify.com/album/2SzImQ6JlUpK8bXukNPRaV) | 3:56 | 2024-08-22 |  |
 | [要不要跟我出去走一走](https://open.spotify.com/track/49SeRJ4VEEgYw46lFPQt3K) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [要不要跟我出去走一走](https://open.spotify.com/album/5kn6f0G58yD1maUQbAVCJQ) | 4:08 | 2024-06-28 |  |
 | [訂閱冥想 \- Live Session](https://open.spotify.com/track/4xQqbDjI2eDtvxw8jJUm0F) | [Echo](https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy) | [訂閱冥想 \(Live Session\)](https://open.spotify.com/album/7gi9kTbyN9fyMHly1SHBY9) | 4:45 | 2024-07-04 | 2024-08-16 |
+| [迷失的边界Lost Borders](https://open.spotify.com/track/6nHRNnye3jfb7KpCKBeBvq) | [异象音轨](https://open.spotify.com/artist/1zktKuhgJRIZJrfbTdrjBu) | [迷失的边界Lost Borders](https://open.spotify.com/album/4FsWDVMOojXlDinw1GygIM) | 2:35 | 2024-08-29 |  |
 | [迷航](https://open.spotify.com/track/4FNwRlpFSus5yPM3dYUWLb) | [EVENFALL](https://open.spotify.com/artist/778rPzhc5oSLtFOeA3SfyF) | [迷航](https://open.spotify.com/album/7o2B2HxBicwMsKygzPVuGb) | 3:51 | 2024-08-29 |  |
 | [那天晚上 我數了一千多隻羊](https://open.spotify.com/track/5UEzdXMTs2r16ONDf8xHVI) | [阿克沃](https://open.spotify.com/artist/28ZoG0gqU31xsPBLJU9iEv) | [那天晚上 我數了一千多隻羊](https://open.spotify.com/album/6s0R3GAJ04XAxpTE7yzPQ4) | 4:38 | 2024-08-15 |  |
 | [醒不来](https://open.spotify.com/track/0SM4o1qnpS097cjFaExfK5) | [melonboii](https://open.spotify.com/artist/1TZwWvsRd9vRm8zIwvLlWH) | [醒不来](https://open.spotify.com/album/4g5e6N4X42gHZ3wkZXI8t0) | 2:55 | 2024-08-22 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
-  "num_followers": 228839,
+  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
+  "num_followers": 228900,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAAZtwp8RkQvPqzFeYWQ/5Ms",
+  "snapshot_id": "Zs+6AAAAAADEUtCHMInEqfHJKfQTQzyG",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 209737,
+      "name": "Ma\u00f1ana Vas a Estar Ausente",
+      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 232947,
       "name": "Olvidemos el Reloj",
       "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 209737,
-      "name": "Ma\u00f1ana Vas a Estar Ausente",
-      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Ojos No Pod\u00edan Ver",
+        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "La Parada del Bus",
+      "url": "https://open.spotify.com/track/06A0LWFYMgQ6PCkmn5pE9K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfD\u00f3nde Estar\u00e1s?",
         "url": "https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 280487,
       "name": "Vamos a Dar el Roll",
       "url": "https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Ojos No Pod\u00edan Ver",
-        "url": "https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 134500,
-      "name": "La Parada del Bus",
-      "url": "https://open.spotify.com/track/06A0LWFYMgQ6PCkmn5pE9K"
     }
   ],
   "unique_name": "This Is Charles Ans",

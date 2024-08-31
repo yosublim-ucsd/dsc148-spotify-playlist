@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Chi Xê
 
-1,799 songs - 4 day 9 hr 25 min
+1,801 songs - 4 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Last Day](https://open.spotify.com/track/7oCXlDdMhMy2drj0ITDhTN) | [Kim Trung](https://open.spotify.com/artist/0ueeK1wrzLph6HbmTdOe5i) | [Last Day](https://open.spotify.com/album/5tLHMWPI88PDWn5HpQ86nV) | 3:29 | 2023-11-03 | 2023-11-30 |
 | [last day on earth](https://open.spotify.com/track/0jLQeN30gdbLXOp7mGwAnA) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 2:52 | 2023-06-15 | 2023-09-15 |
 | [Latte](https://open.spotify.com/track/0kTQwUgZAQ3vQOLs7kbPTm) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex), [SlowD](https://open.spotify.com/artist/0jlWAtl1UaA1lZ7Py10MGd) | [Latte](https://open.spotify.com/album/6xtzOG0CXzFei30ujpPgPo) | 2:40 | 2023-04-26 | 2023-05-18 |
+| [LET ME IN](https://open.spotify.com/track/7qh58p3eBoccMmmOqSwmOW) | [OGGY](https://open.spotify.com/artist/7EZScJjSrhUSWrth8ZsdNt) | [LET ME IN](https://open.spotify.com/album/5Wcj7D0mMo5N2x6Uqxjlep) | 3:12 | 2024-08-29 |  |
 | [Let's Stay in Love](https://open.spotify.com/track/0oPkFCHGHtJsDlbNV6XkqW) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Let's Stay in Love](https://open.spotify.com/album/3yesQR4F7V8GselWYvHHRV) | 4:08 | 2022-10-20 | 2024-01-26 |
 | [letmeloveyou](https://open.spotify.com/track/1MqwDrajn0qzKmUqSW7c4Z) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY) | [letmeloveyou](https://open.spotify.com/album/65l1sgfsf2k332hd7I5tPp) | 3:13 | 2022-11-30 | 2023-01-06 |
 | [letmeloveyou](https://open.spotify.com/track/7JQPDchdfMw7z80fhTXfnt) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY) | [letmeloveyou](https://open.spotify.com/album/0SsM6eWLkCnwOXpgYbj0QQ) | 3:13 | 2022-03-08 | 2022-06-19 |
@@ -1690,6 +1691,7 @@
 | [Ánh Trăng Mặt Nước](https://open.spotify.com/track/5iQQMW73ukYF73wbdBsfo2) | [NHA](https://open.spotify.com/artist/0y8J897IGMESNbBqCpHXH9) | [Ánh Trăng Mặt Nước](https://open.spotify.com/album/572GXbAZVnvZTEAGNqgf8c) | 3:20 | 2024-02-22 | 2024-03-08 |
 | [Ánh Trăng Ôm Mặt Trời](https://open.spotify.com/track/1NrnaQd63f7czk511hYBkL) | [Nguyễn Trung Đức](https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv) | [Ánh Trăng Ôm Mặt Trời](https://open.spotify.com/album/4IypDU7vC78dIm1ulvSINL) | 4:12 | 2022-11-15 | 2024-02-16 |
 | [Ánh Đèn Lẻ Loi](https://open.spotify.com/track/7LvcQUGLlbt1APGycsOE4b) | [Nắng](https://open.spotify.com/artist/74VaNxyGwFhJPZDcQ9q3IO) | [I'm Lost](https://open.spotify.com/album/2OxdWZyRHR0YBELnjEj34R) | 3:38 | 2023-06-08 | 2023-07-14 |
+| [Áo Ấm Yêu Thương](https://open.spotify.com/track/0d7wJBswc3LhF7IgO6fjBj) | [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54), [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Kevin Toàn](https://open.spotify.com/artist/3L0tsv5ZJICJcEZ4OVc4NW) | [Áo Ấm Yêu Thương](https://open.spotify.com/album/75iKjRXqkojrLbQ8L2QTTl) | 4:37 | 2024-08-29 |  |
 | [ÊM](https://open.spotify.com/track/0AtMASLGDvdicZmyyQxNRv) | [th?o](https://open.spotify.com/artist/0CJTieKztFYr15TVkUg1RK), [Sỹ Tuệ](https://open.spotify.com/artist/3ZhtDtZd7N4B3NlCPUQVpR) | [ÊM](https://open.spotify.com/album/2GuZKvxEf3OsN0JJ9Tvtkt) | 2:37 | 2023-11-17 | 2023-11-30 |
 | [Ít Nhưng Dài Lâu \(Nam Con\)](https://open.spotify.com/track/1KtjlfQVRvkkFYnIaYVi1A) | [TVN Remix](https://open.spotify.com/artist/4BRcB0q6ADNr6V9MYDAY0j) | [Ít Nhưng Dài Lâu \(Nam Con\)](https://open.spotify.com/album/2c6ipImxvhL43d13Awlq5U) | 3:13 | 2022-03-13 | 2022-12-02 |
 | [Ít Nhưng Dài Lâu \- Remix](https://open.spotify.com/track/5mwCw07zw0XTFHM6g0mvw2) | [Yan Nguyễn](https://open.spotify.com/artist/1xfmPLQJuQ5xyjXhmLWntH) | [Ít Nhưng Dài Lâu \(Remix\)](https://open.spotify.com/album/6WBxoORHYCMCX5BntRZ9Tn) | 4:18 | 2022-03-13 | 2022-04-28 |

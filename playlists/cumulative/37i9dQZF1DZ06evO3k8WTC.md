@@ -2,7 +2,7 @@
 
 ### [This Is At the Drive\-In](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3k8WTC)
 
-> This is At the Drive\-In\. The essential tracks, all in one playlist.
+> This Is At the Drive\-In\. Los temas esenciales, todos en una lista.
 
 55 songs - 3 hr 11 min
 

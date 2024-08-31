@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-452 songs - 1 day 2 hr 40 min
+453 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2023-02-10 | 2024-04-19 |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-02-10 |  |
 | [MESITA \| Mission 05](https://open.spotify.com/track/4WaopyDgvKQP6T852K9boe) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [MESITA \| Mission 05](https://open.spotify.com/album/4qEsa8G94vXAr6IFwgPkk8) | 2:16 | 2022-05-13 | 2022-07-29 |
+| [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-08-30 |  |
 | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV) | 6:06 | 2023-03-10 | 2023-04-25 |
 | [Mix Los Palmeras \(Fer Palacio Remix\) El Bombón/ El Embrujo/ Perra/ La Cola/ Llévame Contigo/ Qué Quiere La Chola/ Sabalero](https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr) | [Mix Los Palmeras \- \(Fer Palacio Remix\)](https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G) | 9:53 | 2023-06-09 | 2023-11-16 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2022-05-13 |  |
@@ -308,7 +309,7 @@
 | [PONTE SATA](https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PONTE SATA](https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ) | 2:45 | 2024-01-26 |  |
 | [PORFA](https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PORFA](https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc) | 3:53 | 2022-05-13 | 2022-07-03 |
 | [Portate Bien](https://open.spotify.com/track/1AMGLITB3FBocZr0e9MD7b) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Portate Bien](https://open.spotify.com/album/6E5rGguJ10ZtA3BoNl94R2) | 2:08 | 2022-10-22 | 2022-11-08 |
-| [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 | 2024-08-21 |  |
+| [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 | 2024-08-21 | 2024-08-31 |
 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 | 2023-08-14 | 2023-10-07 |
 | [Previa y Cachengue 31 \- Remix](https://open.spotify.com/track/4jrJJ5cixI1URrM9pVGdBP) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 31 \(Remix\)](https://open.spotify.com/album/66SwZuhckGmOqEMRlO8UPP) | 10:34 | 2022-05-13 | 2022-07-29 |
 | [Previa y Cachengue 33 \- Remix](https://open.spotify.com/track/3kvT5YE6eyuUyRYmpyH6lS) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Previa y Cachengue 33 \(Remix\)](https://open.spotify.com/album/2O0oD6KwnpQkvDXzktXo0P) | 10:43 | 2022-05-13 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Suki Waterhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251 likes - 32 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256 likes - 32 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

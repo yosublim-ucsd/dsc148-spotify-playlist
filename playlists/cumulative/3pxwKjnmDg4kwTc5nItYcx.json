@@ -7361,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/0uVeNuStom8wlWcpywvCqJ"
+      },
+      "artists": [
+        {
+          "name": "PRICIE",
+          "url": "https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149476,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6XOIUwBetXbAEntsXOwAX3"
+    },
+    {
+      "album": {
         "name": "Last Hurrah",
         "url": "https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5"
       },
@@ -14953,7 +14971,7 @@
     },
     {
       "album": {
-        "name": "UNHEALTHY (Deluxe)",
+        "name": "UNHEALTHY - Deluxe",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
       "artists": [

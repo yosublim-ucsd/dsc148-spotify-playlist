@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:6008gjU9UTUCfLZoSun5SH\">Annatoria</a> ",
+  "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Guest curated this week by: <a href=\"spotify:artist:0liXA3xwx6pncxYQA30ahT\">Limoblaze</a> ",
   "name": "AfroGospel",
   "tracks": [
+    {
+      "album": {
+        "name": "2DADDY",
+        "url": "https://open.spotify.com/album/21QxIywPPdeGHk3lkWW52r"
+      },
+      "artists": [
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137763,
+      "name": "2Daddy",
+      "url": "https://open.spotify.com/track/7wwfJamD1vtcQBzInooYrd"
+    },
     {
       "album": {
         "name": "365",
@@ -510,7 +532,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 130856,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
@@ -989,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140575,
+      "name": "Blesser",
+      "url": "https://open.spotify.com/track/17Ba24RzcNEpHmfOT7n2yM"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/7yC68zhxueZpneRhALLFnz"
       },
@@ -1004,7 +1044,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 255750,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/1Q68UgSX6Ige3P7h2Gf99Z"
@@ -2304,7 +2344,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 203512,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1dtdLI6XUxM4EdX3ubyrom"
@@ -2322,7 +2362,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194594,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/5wCbBYsSxG13aXOEPYLeJx"
@@ -2699,6 +2739,28 @@
     },
     {
       "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181710,
+      "name": "Good God II",
+      "url": "https://open.spotify.com/track/1Ha5DuFk9G2q3dsncQtGQ9"
+    },
+    {
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
       },
@@ -2842,6 +2904,28 @@
       "duration_ms": 158608,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150762,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6GyCy9Nvyft6H0YED1Mp8i"
     },
     {
       "album": {
@@ -3006,6 +3090,24 @@
       "duration_ms": 161935,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162997,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/0khMxEkp975pdbm1Xw0cJ5"
     },
     {
       "album": {
@@ -4350,10 +4452,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136598,
       "name": "My Father",
       "url": "https://open.spotify.com/track/4JHna6WEmFh4vLDusFUYQX"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/6raOH84yGL3ZzpOtpIgPbQ"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174157,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5k3S8w74XsbNBDUHdiFiwz"
     },
     {
       "album": {
@@ -4402,6 +4522,24 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157165,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/3lIMvFmgzBd2hDLOOgNplT"
     },
     {
       "album": {
@@ -4760,7 +4898,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154404,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/65RSulywhsSnIiVlbUaygE"
@@ -5016,7 +5154,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 197657,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/6YGAArVb3W3wdGcyC3rqY6"
@@ -5068,6 +5206,28 @@
       "duration_ms": 163399,
       "name": "On My Case",
       "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/2gRcs1nHQX7DBjIScfj41R"
     },
     {
       "album": {
@@ -5288,7 +5448,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201355,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/5odjPxvmThtKws5v0lLnCi"
@@ -5414,7 +5574,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 244300,
       "name": "Praises",
       "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
@@ -5637,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165543,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
       },
@@ -5766,7 +5944,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 187768,
       "name": "Salama",
       "url": "https://open.spotify.com/track/3Ue9FEj4cAJjv2Gq7hOZ0g"
@@ -6266,7 +6444,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 152450,
       "name": "Supa",
       "url": "https://open.spotify.com/track/0GZkn1i4yKLegfPXAjxmQw"
@@ -6955,6 +7133,50 @@
     },
     {
       "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142283,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2vsID3pEfy6oB0V9f4iCxn"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164712,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/0qVRb40hTx7dHVQ8w8HCGY"
+    },
+    {
+      "album": {
         "name": "Wait 4 Me",
         "url": "https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM"
       },
@@ -7172,7 +7394,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 129000,
       "name": "Working In Me",
       "url": "https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ"
@@ -7278,7 +7500,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 270680,
       "name": "Yesu Wanga",
       "url": "https://open.spotify.com/track/6SYKC5FbXfQqs4wQWviaXX"

@@ -2459,6 +2459,32 @@
     },
     {
       "album": {
+        "name": "INSTANT DEATH",
+        "url": "https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        },
+        {
+          "name": "Goner",
+          "url": "https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155408,
+      "name": "INSTANT DEATH",
+      "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+    },
+    {
+      "album": {
         "name": "into a g**",
         "url": "https://open.spotify.com/album/1Qp4npdcYbEHsSnfGgGKpQ"
       },

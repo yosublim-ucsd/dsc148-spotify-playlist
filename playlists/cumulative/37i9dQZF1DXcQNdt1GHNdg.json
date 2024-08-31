@@ -137,6 +137,40 @@
     },
     {
       "album": {
+        "name": "Addicted (\u0a06\u0a26\u0a40)",
+        "url": "https://open.spotify.com/album/2mb6o5BhEvbO4ma4hf6hcy"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Addicted (\u0a06\u0a26\u0a40)",
+      "url": "https://open.spotify.com/track/7CsARx4aBRnx7r76rPMuuL"
+    },
+    {
+      "album": {
         "name": "ANIMAL Pre-Teaser Audio",
         "url": "https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB"
       },
@@ -298,6 +332,28 @@
       "duration_ms": 292173,
       "name": "Blackberry Sap",
       "url": "https://open.spotify.com/track/35nhjyhtDdeDIyibcQ7Aa0"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Bora Bora (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj"
     },
     {
       "album": {
@@ -980,7 +1036,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173656,
       "name": "Kikli",
       "url": "https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3"
@@ -1202,7 +1258,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
@@ -1525,6 +1581,28 @@
     },
     {
       "album": {
+        "name": "Summer Daze",
+        "url": "https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Kambi",
+          "url": "https://open.spotify.com/artist/0WOxWFlfWu4eZYdRHcJkd2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159747,
+      "name": "Saheli",
+      "url": "https://open.spotify.com/track/0KyUsQ0oRP26V2ifUO5fYd"
+    },
+    {
+      "album": {
         "name": "Small Circle",
         "url": "https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu"
       },
@@ -1646,7 +1724,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168743,
       "name": "Taur",
       "url": "https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08"

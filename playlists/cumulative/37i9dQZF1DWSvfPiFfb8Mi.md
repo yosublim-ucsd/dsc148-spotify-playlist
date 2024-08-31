@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-312 songs - 20 hr 42 min
+313 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2023-10-28 |
 | [Hard To Find \- Girls of the Internet Remix \- Short Edit](https://open.spotify.com/track/64GKXIMjQoBbbY6ZdxK0Gw) | [Tender Games](https://open.spotify.com/artist/0ZkJ54ZnjZt0ZuoQpXbR8U), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Hard To Find \(Girls of the Internet Remix\)](https://open.spotify.com/album/0fL5W0T0KqPiSZVyVcAghr) | 4:03 | 2021-07-24 | 2023-06-11 |
+| [Hasta Málaga](https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Hasta Málaga](https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx) | 2:28 | 2024-08-30 |  |
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-21 |  |
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-17 |  |
 | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Higher Ground \(feat\. Roosevelt\)](https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip) | 4:33 | 2024-03-29 | 2024-04-19 |
@@ -319,6 +320,6 @@
 | [You're in My System \- Dennis Quin Club Mix](https://open.spotify.com/track/2H9gxsO0ezkDjK9j61GRIV) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Ibadan 2019 Ade Sampler](https://open.spotify.com/album/33cqQ9duEuQKewCUjYItqg) | 5:51 | 2023-07-28 | 2023-08-05 |
 | [You've Got That Sound](https://open.spotify.com/track/6XBap7RZKz8fnJ8H7ChGLz) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [You've Got That Sound](https://open.spotify.com/album/7CgaGa73tHombkMeXLyyNV) | 6:05 | 2021-07-24 | 2023-05-20 |
 | [Young In California](https://open.spotify.com/track/4HEpz9QQ8uOViMf6K8tucK) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Young In California](https://open.spotify.com/album/77AL4lIpiSzEf4P6Z2j4XF) | 3:57 | 2023-07-21 |  |
-| [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O) | 3:41 | 2023-05-19 |  |
+| [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/track/6JYFZ20WIZQB9ZEnR2aqZ7) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [You’re Gonna Make Me Love Somebody Else \(feat\. Kelli Sae\)](https://open.spotify.com/album/6HKCBgUjVZ6JwUc22wMx5O) | 3:41 | 2023-05-19 | 2024-08-31 |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

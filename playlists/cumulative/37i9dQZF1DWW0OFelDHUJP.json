@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Baarish",
+        "url": "https://open.spotify.com/album/1qVgQSAPfdakf6pcyfX9q1"
+      },
+      "artists": [
+        {
+          "name": "Ananya Wadkar",
+          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Baarish",
+      "url": "https://open.spotify.com/track/54UJ4gj6g09YhFtk6SLFJB"
+    },
+    {
+      "album": {
         "name": "Baarish Aa Jaave",
         "url": "https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv"
       },

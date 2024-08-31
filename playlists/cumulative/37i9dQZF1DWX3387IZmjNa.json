@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 126955,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/2EDZJvxLl3iVE02CLfoUjQ"
@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265979,
+      "name": "FIREFLIES",
+      "url": "https://open.spotify.com/track/3XHmNy7l4Ga1q84LBjj6bW"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
       },
@@ -4890,7 +4908,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 164702,
       "name": "ILY",
       "url": "https://open.spotify.com/track/3VIRCbwSYcabeyvVlUXmkh"
@@ -5678,7 +5696,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 331284,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/249MAyb50uYCBMck0hSpz3"
@@ -7151,6 +7169,28 @@
     },
     {
       "album": {
+        "name": "Nostalgia (feat. Gray Hawken)",
+        "url": "https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Gray Hawken",
+          "url": "https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129981,
+      "name": "Nostalgia (feat. Gray Hawken)",
+      "url": "https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS"
+    },
+    {
+      "album": {
         "name": "NWA (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv"
       },
@@ -7514,6 +7554,28 @@
       "duration_ms": 150146,
       "name": "P&E (feat. Mariah the Scientist)",
       "url": "https://open.spotify.com/track/5BwI8Y8sZjDL3qAEqF76hA"
+    },
+    {
+      "album": {
+        "name": "ALL TIME HIGH",
+        "url": "https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2"
+      },
+      "artists": [
+        {
+          "name": "Strick",
+          "url": "https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161943,
+      "name": "Party @ 4am (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1HIrjPCvNQm3Zd4LmHrUZD"
     },
     {
       "album": {
@@ -10020,6 +10082,28 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
+        "name": "Tell Me Again (with Bay Swag)",
+        "url": "https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163014,
+      "name": "Tell Me Again (with Bay Swag)",
+      "url": "https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK"
     },
     {
       "album": {

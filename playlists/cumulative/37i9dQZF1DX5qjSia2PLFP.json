@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:0SVd0yQpJ6xcZ3vTKXUaro\">Chxrry22</a> ",
+  "description": "They got next. Cover: <a href=\"spotify:artist:2MEiPjmRDl1ftTEaBD3B7D\">Raq Baby</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Mr. Skii",
+        "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159228,
+      "name": "2 Slippery (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu"
+    },
+    {
+      "album": {
         "name": "2 Slippery (feat. BossMan Dlow)",
         "url": "https://open.spotify.com/album/7cBXapGzVCQsld2gtyhCBG"
       },
@@ -264,7 +286,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 159228,
       "name": "2 Slippery (feat. BossMan Dlow)",
       "url": "https://open.spotify.com/track/7nfkuao1AhviRSUU5BXpYQ"
@@ -846,7 +868,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140800,
       "name": "act like",
       "url": "https://open.spotify.com/track/33RjTvr5dcg1MyC9wrB8nZ"
@@ -864,7 +886,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140800,
       "name": "act like",
       "url": "https://open.spotify.com/track/3P3PONWYGlQWSu3rd4wGIl"
@@ -1630,7 +1652,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 143317,
       "name": "Bad Bitty (Remix)",
       "url": "https://open.spotify.com/track/3lu9zdjhHvAt7gje6w8Pn9"
@@ -2500,10 +2522,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 120149,
       "name": "Blue Devils",
       "url": "https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ"
+    },
+    {
+      "album": {
+        "name": "Blue Devils - Remix",
+        "url": "https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148388,
+      "name": "Blue Devils (feat. DaBaby) - Remix",
+      "url": "https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b"
     },
     {
       "album": {
@@ -2802,7 +2846,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 107760,
       "name": "BRB",
       "url": "https://open.spotify.com/track/4pDisT7ZgNbtpGHUyjkhUm"
@@ -3278,7 +3322,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195960,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/2qOOIfzwvUkKNAXS3fIptP"
@@ -4028,7 +4072,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 194875,
       "name": "Come Here (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
@@ -4774,7 +4818,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 196653,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/4lnIui4HcUd5qUdwkTRxIT"
@@ -5174,10 +5218,36 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 150408,
       "name": "Don Who Leo - A\u00f1ejo Remix",
       "url": "https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi"
+    },
+    {
+      "album": {
+        "name": "Don Who Leo - Blanco & Reposado Remix",
+        "url": "https://open.spotify.com/album/6krNaYxC2l6gbXjSgbCwZd"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209606,
+      "name": "Don Who Leo - Blanco & Reposado Remix",
+      "url": "https://open.spotify.com/track/7w8AohCG0dwgLJvcsyHYlA"
     },
     {
       "album": {
@@ -5746,7 +5816,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 132413,
       "name": "everybody",
       "url": "https://open.spotify.com/track/4BfPAZUK2bUT0dCbNiZoAk"
@@ -6909,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "Red Ranger",
+        "url": "https://open.spotify.com/album/1fpRbHRPabCzwxyDed2YvE"
+      },
+      "artists": [
+        {
+          "name": "RRoxket",
+          "url": "https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174525,
+      "name": "Ganger",
+      "url": "https://open.spotify.com/track/2FCRKH6ZzGw5Ql98E0L0By"
+    },
+    {
+      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -7996,7 +8084,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 171956,
       "name": "HAVE FUN",
       "url": "https://open.spotify.com/track/7nT764RxYIEiEcC03DYBsS"
@@ -9608,7 +9696,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151424,
       "name": "Kaboom",
       "url": "https://open.spotify.com/track/05CkiUUE3PZz1s1Hv4gevH"
@@ -10583,6 +10671,28 @@
     },
     {
       "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274308,
+      "name": "LOVE HURTS (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
+    },
+    {
+      "album": {
         "name": "Love It Here",
         "url": "https://open.spotify.com/album/1p6Lg8hsLgtd5AnVmy3VWu"
       },
@@ -10996,6 +11106,24 @@
       "duration_ms": 268038,
       "name": "Marking My Time",
       "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
+    },
+    {
+      "album": {
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/15taCZ15vIwY5SBPRKB3dK"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124870,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/5dSOunPwKnkC1OD3sMS9FB"
     },
     {
       "album": {
@@ -11568,7 +11696,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 129938,
       "name": "Mr. Skii",
       "url": "https://open.spotify.com/track/2PwWZ6NySkxwGBx9A2x5Ke"
@@ -12038,7 +12166,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 128132,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
@@ -13405,6 +13533,28 @@
     },
     {
       "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "album": {
         "name": "PJ (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
       },
@@ -14201,6 +14351,28 @@
     },
     {
       "album": {
+        "name": "BIG DIOR",
+        "url": "https://open.spotify.com/album/2cU7wfkSDMKR35tlC5ThIR"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "PUT IT ON (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/70kgi4m7TZciXVTWJm870M"
+    },
+    {
+      "album": {
         "name": "Human Butterfly",
         "url": "https://open.spotify.com/album/4XSPIofc7OiXd5oP4QBpRw"
       },
@@ -14368,6 +14540,24 @@
       "duration_ms": 137534,
       "name": "READY OR NOT",
       "url": "https://open.spotify.com/track/0BrjFCqjdRwlLJXm34kbvE"
+    },
+    {
+      "album": {
+        "name": "READY TO CRASH",
+        "url": "https://open.spotify.com/album/3ypPuORne9F57tg52gC6RV"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100960,
+      "name": "READY TO CRASH",
+      "url": "https://open.spotify.com/track/2QgQqiRCrpBgfoto0XmGq6"
     },
     {
       "album": {
@@ -15811,6 +16001,24 @@
     },
     {
       "album": {
+        "name": "PLAY CASH COBAIN",
+        "url": "https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204798,
+      "name": "slizzyhunchodon",
+      "url": "https://open.spotify.com/track/4P3s7E8Qq0D6sjfqiy7TxJ"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
       },
@@ -16707,6 +16915,24 @@
     },
     {
       "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
+    },
+    {
+      "album": {
         "name": "The Honeymoon Phase",
         "url": "https://open.spotify.com/album/3Exa5RZu5DJQSCNZPV3YgN"
       },
@@ -17243,6 +17469,28 @@
     },
     {
       "album": {
+        "name": "Tell Me Again (with Bay Swag)",
+        "url": "https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163014,
+      "name": "Tell Me Again (with Bay Swag)",
+      "url": "https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK"
+    },
+    {
+      "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
       },
@@ -17552,7 +17800,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 129565,
       "name": "The Way She Move",
       "url": "https://open.spotify.com/track/2QMcMpOQTnmvpvi9AkWD1Z"

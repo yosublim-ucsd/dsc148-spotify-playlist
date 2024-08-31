@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Gabriella Eka Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,699 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,698 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 69 | [COMMUNICATE \(feat\. Jevin Julian\)](https://open.spotify.com/track/4kj39oq6LXxu4FgJg8bHT0) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [COMMUNICATE \(feat\. Jevin Julian\)](https://open.spotify.com/album/6YA9lFjba4jca76mAkYUAl) | 3:32 |
 | 70 | [Things I Didn't Do](https://open.spotify.com/track/5t2KYFWkhdPZ5YVyiSXtiA) | [Niki Mawarni](https://open.spotify.com/artist/1YZlQtrfT9K3702wBxnHIK) | [Things I Didn't Do](https://open.spotify.com/album/5xFhLv6LmBRAcq5uTUfFfX) | 3:33 |
 | 71 | [Fool For Love](https://open.spotify.com/track/3kMy9MiFrorFFPGnWuOsdV) | [Maiya](https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb) | [Fool For Love](https://open.spotify.com/album/0baEGC0afclYFUC8RSeUwg) | 4:04 |
-| 72 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 |
+| 72 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 |
 | 73 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 |
 | 74 | [Love in Stereo](https://open.spotify.com/track/5ePhbCEsINvj1ZfX1CUnCX) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Love in Stereo](https://open.spotify.com/album/0OHHtLLMll4D0G67U48vb8) | 3:03 |
 | 75 | [wish](https://open.spotify.com/track/6b1vX7JCmPs0PJ9SiCUrfi) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [wish](https://open.spotify.com/album/518U4ClFTfd27cyWt0PU6a) | 3:13 |

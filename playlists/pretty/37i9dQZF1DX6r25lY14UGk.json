@@ -1,13 +1,69 @@
 {
-  "description": "New releases for the kids. Cover: Ronnie Boy Kids",
-  "num_followers": 30423,
+  "description": "New releases for the kids. Cover: Walk Off the Earth & Romeo Eats",
+  "num_followers": 30494,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAA73u50ttVmMPIL6+YpH7Y/",
+  "snapshot_id": "ZtFDwAAAAAA6BsBtlZtn6yFOBtrJLq9l",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Buon Appetito",
+        "url": "https://open.spotify.com/album/3ztXeQejXpwfTxKpZFRkrQ"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "duration_ms": 168851,
+      "name": "Apples and Bananas",
+      "url": "https://open.spotify.com/track/5sj6kVADx86sotPvxFXs7j"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 226264,
+      "name": "Always Come Back",
+      "url": "https://open.spotify.com/track/1UHqcGkEKRdoY8O73nugre"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Library Jawn",
+        "url": "https://open.spotify.com/album/0mDXFu9vqTk8d17eUw16f5"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "duration_ms": 182513,
+      "name": "The Library Jawn",
+      "url": "https://open.spotify.com/track/7BHo6hya7niIilUA5iHnTQ"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -29,24 +85,72 @@
       "url": "https://open.spotify.com/track/3Kun98bRs7DkRhIS5xyO1u"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "On Top of Spaghetti",
-        "url": "https://open.spotify.com/album/7JOdBzuwWb25aEDz3HmGcm"
+        "name": "Caitie's Questions",
+        "url": "https://open.spotify.com/album/1dIVXAPiZYzFLqqC19LAKc"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
         },
         {
-          "name": "Romeo Eats",
-          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
         }
       ],
-      "duration_ms": 130341,
-      "name": "On Top of Spaghetti",
-      "url": "https://open.spotify.com/track/1DQuCk1DJjjxrSXc34Hmni"
+      "duration_ms": 174295,
+      "name": "You're the Best at Being You",
+      "url": "https://open.spotify.com/track/5UxiECmQSbwj5Kv648gXAa"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Animal Songs for Kids",
+        "url": "https://open.spotify.com/album/2WuLpCVhh4yUxX8A12fs1J"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 158198,
+      "name": "Little Bunny Foo Foo",
+      "url": "https://open.spotify.com/track/37C04vciXG3ByX5m0oa1hq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I Have a Loose Tooth",
+        "url": "https://open.spotify.com/album/2dYOvjxlMbMezaJaQrBBh8"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 182994,
+      "name": "I Have a Loose Tooth",
+      "url": "https://open.spotify.com/track/77XFzyzPZi8X0TAXZk0WzX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Goin\u2019 Bananas Banana Dance",
+        "url": "https://open.spotify.com/album/0AQtN2ZMnpu51lOxkq9Qo5"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "duration_ms": 49522,
+      "name": "Goin\u2019 Bananas Banana Dance",
+      "url": "https://open.spotify.com/track/3mYDzV5qUUZJwEycRJyj3N"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -67,6 +171,166 @@
       "duration_ms": 161176,
       "name": "The Hokey Pokey Dance",
       "url": "https://open.spotify.com/track/54GLC8FN1JjOenKtvI9uwF"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Truck Song",
+        "url": "https://open.spotify.com/album/7dwbc7tCUlhrgI2qmsOXpq"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "Truck Song",
+      "url": "https://open.spotify.com/track/3pXqNZ3OG1OajYAEeW4eiS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Onesies",
+        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Onesies",
+      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Boo Boo Song - Kids Songs",
+        "url": "https://open.spotify.com/album/2WdsMIO9eh4TpvI9nNrb9I"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 133288,
+      "name": "Boo Boo Song - Kids Songs",
+      "url": "https://open.spotify.com/track/7ur9gzW2y4Ts4yJuhyVYIY"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/0g4y8DkKHPBewuVozOUU7a"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "duration_ms": 179089,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/51qlmIzRQ4umywvb5O3eUX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "CANDY",
+        "url": "https://open.spotify.com/album/21VloN9yVEpABvqBVslxX7"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 131645,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/6ADZxFi3cHh1Que8qDMUx5"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Best of Tell Your Tale",
+        "url": "https://open.spotify.com/album/7rKShLsnwihmy0oQpt9dtM"
+      },
+      "artists": [
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "duration_ms": 152423,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2tSuMrCGuLmFlhbco6AQYx"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Nick Jr. Mix it Up! Vol. 14: Face\u2019s Summertime Jam - The Remixes",
+        "url": "https://open.spotify.com/album/7BuFtLLrHSBiUCJ3wXld1e"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Face from Nick Jr.",
+          "url": "https://open.spotify.com/artist/5FXWsVWydMhZab1C0vyXlj"
+        },
+        {
+          "name": "Animal Kingdom Creatives",
+          "url": "https://open.spotify.com/artist/5CclvupzmbUSfA2doJhQt6"
+        }
+      ],
+      "duration_ms": 129022,
+      "name": "At The Beach Party - Summertime Jam Remix",
+      "url": "https://open.spotify.com/track/5NZP8333AVlBMuQgcoHJKa"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Lyla in the Loop Theme Song",
+        "url": "https://open.spotify.com/album/0QJ3tPei9ccVhIID8YhzkD"
+      },
+      "artists": [
+        {
+          "name": "Little Ditto",
+          "url": "https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38"
+        }
+      ],
+      "duration_ms": 76489,
+      "name": "Lyla in the Loop Theme Song",
+      "url": "https://open.spotify.com/track/7nGboqSUZN4wulhkTWkzh9"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "On Top of Spaghetti",
+        "url": "https://open.spotify.com/album/7JOdBzuwWb25aEDz3HmGcm"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "duration_ms": 130341,
+      "name": "On Top of Spaghetti",
+      "url": "https://open.spotify.com/track/1DQuCk1DJjjxrSXc34Hmni"
     },
     {
       "added_at": "2024-08-23 04:00:00",

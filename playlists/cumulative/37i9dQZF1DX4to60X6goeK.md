@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Mozey
 
-251 songs - 16 hr 48 min
+252 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Back to Basics](https://open.spotify.com/track/1cn6V37h4alIkOSSmRGAwq) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Back to Basics](https://open.spotify.com/album/11Vqc7F8hz7ct9ZuoLwW4w) | 4:31 | 2023-12-27 | 2024-01-12 |
 | [Bad from Morning](https://open.spotify.com/track/4DavmWrcEf9d3sQKkfSTU6) | [Agro](https://open.spotify.com/artist/12lvWxBjY0KZJp1ySVNcrE), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Bad From Morning](https://open.spotify.com/album/2UsWQE46mViRAR0sGGOmrw) | 4:25 | 2022-05-06 | 2022-07-27 |
 | [Bad Fuel](https://open.spotify.com/track/2fbvCosDEffAxouICtikzL) | [Vorso](https://open.spotify.com/artist/5Og6MsfuDPnFYd1asgHXdH) | [Full Tilt](https://open.spotify.com/album/1AOD2BW4g1pCREU6s0WN32) | 3:41 | 2022-05-06 | 2022-07-22 |
+| [bailejungle](https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX) | [bailejungle](https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW) | 2:43 | 2024-08-30 |  |
 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 | 2024-01-12 |  |
 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 | 2024-03-22 |  |
 | [Big Drama](https://open.spotify.com/track/5a5wzLXJMaUhyje8NumilP) | [Inner Terrain](https://open.spotify.com/artist/4PuEXXOjaWHSXBhwciv7Qd), [Wreckless](https://open.spotify.com/artist/4zaGVlW2ju3YXrZTMdNCQE) | [Paradigm Shift](https://open.spotify.com/album/04ZnNjvV0uDjFVhGl5ykTD) | 4:52 | 2022-05-06 | 2022-07-19 |
@@ -218,7 +219,7 @@
 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 | 2022-05-06 | 2023-05-19 |
 | [Synco](https://open.spotify.com/track/7vQSVysNGOOKtBmZ9JvHSz) | [Disaszt](https://open.spotify.com/artist/2GUDjv9rFpg0sRofAk7IG6) | [Tigerlilly / Synco](https://open.spotify.com/album/4TIiZDDxCZXpDJValvKBna) | 4:38 | 2022-05-06 | 2022-07-22 |
 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 | 2023-09-22 |  |
-| [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 | 2022-06-20 |  |
+| [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 | 2022-06-20 | 2024-08-31 |
 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 | 2023-12-27 | 2024-01-12 |
 | [Tap Ho \- Formula Remix](https://open.spotify.com/track/2uutiVFavs3W59RupXiGU7) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Formula](https://open.spotify.com/artist/6GkcKgyIKaZxmZGcKdJDxL) | [Tap Ho \(Formula Remix\)](https://open.spotify.com/album/43rdL6qCHSLrxVf7q5mqfF) | 4:18 | 2023-12-27 | 2024-01-12 |
 | [Techno Viking](https://open.spotify.com/track/3TybOwdMhk8GzieYyN8eaf) | [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai) | [Techno Viking](https://open.spotify.com/album/6hFC281fWNu7RDABD6DA3u) | 6:04 | 2022-05-06 | 2022-07-29 |

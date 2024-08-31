@@ -4523,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "The People's House (with The War And Treaty)",
+        "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265846,
+      "name": "The People's House (with The War And Treaty)",
+      "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
+    },
+    {
+      "album": {
         "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko"
       },

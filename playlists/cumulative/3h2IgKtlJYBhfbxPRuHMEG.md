@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: IMANU
 
-135 songs - 7 hr 39 min
+136 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Before We Go Down](https://open.spotify.com/track/7LSg7qrUGRNxSsJ8GlIkg4) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Before We Go Down](https://open.spotify.com/album/0FV6oEJVkyEZfJPyIs3bUc) | 3:57 | 2023-12-01 |  |
 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 | 2023-12-01 |  |
 | [Big Bang \(with Crankdat\)](https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Big Bang \(with Crankdat\)](https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7) | 3:59 | 2024-04-10 |  |
-| [Big Bank](https://open.spotify.com/track/4VcoVWo2v3pkhbIqYjgFKf) | [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Big Bank](https://open.spotify.com/album/3eKVvNq7xAol0SwHS5GX9m) | 2:30 | 2023-12-01 |  |
+| [Big Bank](https://open.spotify.com/track/4VcoVWo2v3pkhbIqYjgFKf) | [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Big Bank](https://open.spotify.com/album/3eKVvNq7xAol0SwHS5GX9m) | 2:30 | 2023-12-01 | 2024-08-31 |
 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 | 2024-01-12 |  |
 | [Bloodhound](https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Bloodhound](https://open.spotify.com/album/6VxXFL6MApAg3l46KxMeH1) | 3:00 | 2023-12-01 |  |
 | [Blue In The Face](https://open.spotify.com/track/5z8uM7nBjl7kHGiYHvm94Z) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Blue In The Face](https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW) | 2:46 | 2023-12-01 |  |
@@ -36,6 +36,7 @@
 | [Bright Lights](https://open.spotify.com/track/1U7c5G11xl4PMwhxHdc5oV) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:33 | 2023-12-01 |  |
 | [Bring It Back](https://open.spotify.com/track/0buwgzsh8fD57lvbXxyROq) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Badrapper](https://open.spotify.com/artist/1Bl3QCicq2EeV9mY4GLtBP) | [Bring It Back](https://open.spotify.com/album/2ObKAtseS82uSdYRXVj7t0) | 2:30 | 2023-12-01 | 2024-04-27 |
 | [CAN YOU SEE ME?](https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [CAN YOU SEE ME?](https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O) | 2:21 | 2024-02-16 |  |
+| [Celeste](https://open.spotify.com/track/752zVBaA1LL8glTSAE4NFF) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Celeste](https://open.spotify.com/album/2tVjIqXhXzuAvvUrth1sHZ) | 3:58 | 2024-08-30 |  |
 | [Check It](https://open.spotify.com/track/787DSlF1TBLbuhQpMwIfQP) | [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [2Point](https://open.spotify.com/artist/2UJ2r33q0mvsJAsixQZZCo) | [Check It](https://open.spotify.com/album/1MIzD3it6Op0anzYO6EbPc) | 3:46 | 2023-12-01 | 2024-04-27 |
 | [Check This](https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Onzeker Kraft Vol\. 1.5](https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV) | 2:59 | 2024-07-26 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-12-01 |  |
@@ -142,6 +143,6 @@
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-12-01 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 |  |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-16 |  |
-| [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2023-12-01 |  |
+| [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2023-12-01 | 2024-08-31 |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

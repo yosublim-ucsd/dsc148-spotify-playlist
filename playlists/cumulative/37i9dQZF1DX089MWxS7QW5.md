@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Gyeong Ree\(경리\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: merrymerryseoul\(메리메리서울\)\)
 
-396 songs - 21 hr 47 min
+400 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 | 2024-07-02 |  |
 | [Another Love Song](https://open.spotify.com/track/0WngZO7T6yvffgXskWNjmX) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8) | [Another Love Song](https://open.spotify.com/album/0oiqhfE7NdRffK915DHbMh) | 2:41 | 2024-07-25 |  |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
+| [Arcade](https://open.spotify.com/track/69zoAcTmHBiBlum588OmzB) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [Arcade](https://open.spotify.com/album/6EcuIThgkeOxxtjmf4lHSf) | 3:19 | 2024-08-30 |  |
 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 | 2024-02-22 | 2024-06-18 |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 | 2024-01-09 |
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 | 2023-11-03 |
@@ -105,6 +106,7 @@
 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-09 |  |
 | [Deeper](https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Deeper](https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD) | 2:57 | 2023-10-05 | 2024-02-07 |
 | [Delicate dawn \(feat\. 1ho & mabinc\)](https://open.spotify.com/track/3y1rYTVWOOVS5HD12LG09x) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#9](https://open.spotify.com/album/18tlQUqxvDN51zGcesMFgs) | 3:28 | 2024-02-22 | 2024-06-18 |
+| [delivery \(feat\. BlankOnSpeaker\)](https://open.spotify.com/track/4jFEhJRxub8e7IzWMEP6K9) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [BlankOnSpeaker](https://open.spotify.com/artist/3zuKF08k13AmLcJtujyYNa) | [To you who has never been hurt](https://open.spotify.com/album/69lTEKAvPqfMKqahRoATWQ) | 4:00 | 2024-08-30 |  |
 | [Deserve](https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT) | [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Deserve](https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs) | 3:12 | 2024-01-08 | 2024-05-24 |
 | [Destiny \(feat\. YUJU\)](https://open.spotify.com/track/53qSxySfNQad7q5NcNg2AQ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Colors](https://open.spotify.com/album/5QhjP24qx1NmIz4xpkIt1U) | 2:54 | 2023-09-08 | 2024-01-09 |
 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2023-11-19 | 2024-04-19 |
@@ -152,6 +154,7 @@
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-15 | 2023-07-08 |
 | [good news](https://open.spotify.com/track/0zr9voDmEdrRoa7uT81KzS) | [RuRu](https://open.spotify.com/artist/6XgOEA5NhkUYCU7vbYJAqc) | [BODY](https://open.spotify.com/album/2Y1kBEbRAm3rCWf2GkAMQh) | 3:09 | 2024-06-05 |  |
 | [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 | 2024-03-25 | 2024-08-02 |
+| [Good Night Good Morning \(GNGM\)](https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG) | 2:48 | 2024-08-30 |  |
 | [Got U](https://open.spotify.com/track/1y4h8bOTQWK7wxtczxy9wx) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [LUV SIGN](https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6) | 3:45 | 2022-10-14 | 2023-03-28 |
 | [Groove Back \(Feat\. Gaeko\)](https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Groove Missing](https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0) | 3:32 | 2022-11-25 | 2023-02-15 |
 | [grow up](https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu) | [ido](https://open.spotify.com/artist/2qJKjapYm6cY0MkeJkWDRj) | [grow up](https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26) | 3:03 | 2024-08-10 |  |
@@ -325,6 +328,7 @@
 | [Stupid \(feat\. Ashley Alisha & J.O.Y\)](https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Autumn Night](https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs) | 2:56 | 2023-10-27 | 2024-03-16 |
 | [SUDA](https://open.spotify.com/track/3t6ljynTF1LLr8NVKCjrlS) | [MORE](https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C) | [SUDA](https://open.spotify.com/album/7m98itIoQ6Ptgk5JJC4Ic5) | 3:03 | 2024-06-23 |  |
 | [Summer](https://open.spotify.com/track/7AWXUa5Sjpm9mcd38SMT6S) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Summer](https://open.spotify.com/album/1EOt2UEK3yFaIxgnFvkSri) | 3:20 | 2024-07-09 |  |
+| [Summer Night \(feat\. Pat Kiloran\)](https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Pat Kiloran](https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5) | [Summer Night](https://open.spotify.com/album/1qedG8sbfkuESe0OtH9M76) | 3:01 | 2024-08-30 |  |
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 | 2022-12-14 |
 | [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 | 2023-11-29 |
 | [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 | 2024-08-10 |  |

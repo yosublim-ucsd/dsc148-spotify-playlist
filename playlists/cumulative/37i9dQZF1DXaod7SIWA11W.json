@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Anike</a> ",
+  "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:76dDIM8amCY58U3uvr1Rw1\">Karen Clark Sheard</a> ",
   "name": "Lifted Frequency",
   "tracks": [
     {
@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7yC68zhxueZpneRhALLFnz"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        },
+        {
+          "name": "Angie G",
+          "url": "https://open.spotify.com/artist/16Z1JikPr1r9VmwcreM2ZV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255750,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1Q68UgSX6Ige3P7h2Gf99Z"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/09ikCx38iia9GF0IaUuZtk"
       },
@@ -1379,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Church Doors",
+        "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167873,
+      "name": "Church Doors",
+      "url": "https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
       },
@@ -1484,7 +1524,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 157986,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/4o5L2Z7gIlJawCBblpLyh0"
@@ -2278,7 +2318,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
@@ -3536,7 +3576,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 161935,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/1gKWVPpNDVw0C6W3834jSo"
@@ -3724,7 +3764,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162403,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
@@ -4065,6 +4105,32 @@
     },
     {
       "album": {
+        "name": "Irie (Sound Mind)",
+        "url": "https://open.spotify.com/album/2hl7AoVVIBnFZ2tdYOtfqn"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Jonni Mae",
+          "url": "https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Irie (Sound Mind)",
+      "url": "https://open.spotify.com/track/43rIy28PKOmhCjqu1hG5W2"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -4252,7 +4318,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 260026,
       "name": "Joy In The Battle - Church Edition",
       "url": "https://open.spotify.com/track/5MsVtTUBmoqjMxZxsmCmKd"
@@ -4402,6 +4468,24 @@
       "duration_ms": 168000,
       "name": "King Jesus",
       "url": "https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP"
+    },
+    {
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df"
+      },
+      "artists": [
+        {
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/5ZrVYQcBHz57P1kX7uWMe7"
     },
     {
       "album": {
@@ -4672,7 +4756,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 216281,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/0gTLcDbRI3wJcjnW9LfpFS"
@@ -4872,7 +4956,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182019,
       "name": "Matthew 6:33",
       "url": "https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk"
@@ -5252,6 +5336,28 @@
       "duration_ms": 145750,
       "name": "Nights In Atlanta",
       "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220545,
+      "name": "No Greater Love",
+      "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
     },
     {
       "album": {
@@ -5781,6 +5887,28 @@
     },
     {
       "album": {
+        "name": "Pick Up The Pieces",
+        "url": "https://open.spotify.com/album/1zg1jyttmHt8tqIGn0hAuU"
+      },
+      "artists": [
+        {
+          "name": "Dee Black",
+          "url": "https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175368,
+      "name": "Pick Up The Pieces",
+      "url": "https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX"
+    },
+    {
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
       },
@@ -5836,7 +5964,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 216708,
       "name": "PRAY FOR ME",
       "url": "https://open.spotify.com/track/5I8bc2tQYlB7EWT0eLMxpb"
@@ -5906,6 +6034,32 @@
       "duration_ms": 188163,
       "name": "PRIVILEGE",
       "url": "https://open.spotify.com/track/6odGwfkWyotCgqC7deWuna"
+    },
+    {
+      "album": {
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214896,
+      "name": "Proof (Remix) (feat. Limoblaze)",
+      "url": "https://open.spotify.com/track/2DYKg7ENQaO96GgyHL3nDP"
     },
     {
       "album": {
@@ -6496,6 +6650,24 @@
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
+    },
+    {
+      "album": {
+        "name": "Circle of Life",
+        "url": "https://open.spotify.com/album/5rpuUYlJs7QuyER1ZZ75WO"
+      },
+      "artists": [
+        {
+          "name": "Prinz",
+          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124195,
+      "name": "Spirit Lead Me",
+      "url": "https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv"
     },
     {
       "album": {
@@ -7289,6 +7461,36 @@
     },
     {
       "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/0bWehUL6mhonc542LlBWVg"
+      },
+      "artists": [
+        {
+          "name": "Campus Rush Music",
+          "url": "https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Sewa",
+          "url": "https://open.spotify.com/artist/3bI77I1wSd5xnAu5WqdkSv"
+        },
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497598,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/2VQ1jiPB2LEjm1SOWylYWa"
+    },
+    {
+      "album": {
         "name": "The Word Is Working (Refreshed)",
         "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
       },
@@ -7440,6 +7642,24 @@
       "duration_ms": 216801,
       "name": "Trust And Obey",
       "url": "https://open.spotify.com/track/2WejXaH5aMxcd0AEb6dsC0"
+    },
+    {
+      "album": {
+        "name": "Still Karen",
+        "url": "https://open.spotify.com/album/1D0M1g3rsDjXD7k5STsETm"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196245,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/34uYQDT6PuFF2GclBzcaST"
     },
     {
       "album": {
@@ -8149,6 +8369,28 @@
     },
     {
       "album": {
+        "name": "Anike",
+        "url": "https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169583,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p"
+    },
+    {
+      "album": {
         "name": "Yellow Soul",
         "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
       },
@@ -8182,6 +8424,24 @@
       "duration_ms": 154000,
       "name": "Yewo",
       "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"
+    },
+    {
+      "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/2YZPVcjs8ViSJu10fTs3UL"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241544,
+      "name": "Yield",
+      "url": "https://open.spotify.com/track/4W7PAKB9E09thAedKXcPyd"
     },
     {
       "album": {

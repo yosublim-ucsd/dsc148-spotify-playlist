@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-327 songs - 1 day 7 hr 23 min
+328 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Força Igreja! \- Ao Vivo](https://open.spotify.com/track/45TiCf8n05NplSJH0OIMW8) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Força Igreja! \(Ao Vivo\)](https://open.spotify.com/album/7DOzUC55vRJEQrNygUGDXf) | 4:22 | 2024-04-19 |  |
 | [Furioso Oceano](https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano](https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV) | 6:32 | 2022-09-23 |  |
 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 | 2022-09-09 | 2024-04-20 |
-| [Gerado no Altar \(Ao Vivo\)](https://open.spotify.com/track/5URQ1xSOkuIhyP9jjd4tXk) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Gerado no Altar \(Ao Vivo\)](https://open.spotify.com/album/0NAF4C3BVrDEHe6Kx7CcvQ) | 5:57 | 2024-08-16 |  |
+| [Gerado no Altar \(Ao Vivo\)](https://open.spotify.com/track/5URQ1xSOkuIhyP9jjd4tXk) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Gerado no Altar \(Ao Vivo\)](https://open.spotify.com/album/0NAF4C3BVrDEHe6Kx7CcvQ) | 5:57 | 2024-08-16 | 2024-08-31 |
 | [Girassol](https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF) | [Girassol](https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO) | 3:44 | 2022-09-09 | 2024-06-22 |
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2022-09-09 | 2023-01-14 |
 | [God Only Knows](https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:49 | 2022-09-09 | 2023-01-14 |
@@ -248,6 +248,7 @@
 | [Quão Grande é o Meu Deus](https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Grande É O Meu Deus](https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq) | 5:25 | 2023-02-03 |  |
 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7) | 4:04 | 2022-09-09 | 2023-01-14 |
 | [Raridade](https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:57 | 2022-09-09 | 2024-06-22 |
+| [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 | 2024-08-30 |  |
 | [Recebo a Vida \- Ao Vivo](https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Recebo a Vida \- Ao Vivo](https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt) | 7:02 | 2023-10-20 | 2024-08-17 |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2022-09-09 | 2023-08-19 |
 | [Redimido \- Ao Vivo](https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Redimido \(Ao Vivo\)](https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt) | 5:47 | 2023-11-24 | 2024-04-20 |

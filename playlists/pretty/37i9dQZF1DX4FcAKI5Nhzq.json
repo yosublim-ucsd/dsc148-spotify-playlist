@@ -1,13 +1,45 @@
 {
   "description": "Future K-Pop hits! Cover: OH MY GIRL",
-  "num_followers": 812960,
+  "num_followers": 813068,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsxEEAAAAABF+VBX1GZEAaWVL+VKOvYf",
+  "snapshot_id": "ZtFDwAAAAAAIyJEwzoPhGyf+IWyk4pE0",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Black Out - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2QjGuxIooOrv113vp3PAwf"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Black Out",
+      "url": "https://open.spotify.com/track/5xJWKlQO3wDUgoyNrmm4Bg"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "ATE THAT EP",
+        "url": "https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "ATE THAT",
+      "url": "https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3"
+    },
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
@@ -75,6 +107,22 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
         "name": "SIS (Soft Is Strong)",
         "url": "https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr"
       },
@@ -87,42 +135,6 @@
       "duration_ms": 154987,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Roll Up",
-        "url": "https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE"
-      },
-      "artists": [
-        {
-          "name": "BLACKSWAN",
-          "url": "https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Roll Up",
-      "url": "https://open.spotify.com/track/2KIyd36V2ejCrvlYU1Ci1K"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Easy dance",
-        "url": "https://open.spotify.com/album/2ZOJNv9MTdHg2C2fEM8czY"
-      },
-      "artists": [
-        {
-          "name": "Hui",
-          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
-        },
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 179546,
-      "name": "Easy dance",
-      "url": "https://open.spotify.com/track/5OK4P7j0Uam3wduqsQY4I0"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -159,18 +171,70 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "Roll Up",
+        "url": "https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "BLACKSWAN",
+          "url": "https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 152000,
+      "name": "Roll Up",
+      "url": "https://open.spotify.com/track/2KIyd36V2ejCrvlYU1Ci1K"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Easy dance",
+        "url": "https://open.spotify.com/album/2ZOJNv9MTdHg2C2fEM8czY"
+      },
+      "artists": [
+        {
+          "name": "Hui",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        },
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 179546,
+      "name": "Easy dance",
+      "url": "https://open.spotify.com/track/5OK4P7j0Uam3wduqsQY4I0"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -191,6 +255,22 @@
       "duration_ms": 192525,
       "name": "KILL ME",
       "url": "https://open.spotify.com/track/4TBLxFV7UNywrpfVBzeSFb"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -227,18 +307,82 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "Open \u266deta v6.3",
-        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
       },
       "artists": [
         {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
         }
       ],
-      "duration_ms": 220096,
-      "name": "Save me",
-      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Strawberry Rush",
+        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Strawberry Rush",
+      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
+        "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
+      },
+      "artists": [
+        {
+          "name": "I-LAND2 : N/a",
+          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
+        }
+      ],
+      "duration_ms": 197962,
+      "name": "FINAL LOVE SONG",
+      "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Kep1going On",
+        "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
+      },
+      "artists": [
+        {
+          "name": "ECLIPSE",
+          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
+        }
+      ],
+      "duration_ms": 233031,
+      "name": "Sudden Shower",
+      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -263,6 +407,110 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
+        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
+        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "If I\u2019m S, Can You Be My N?",
+      "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Open \u266deta v6.3",
+        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "SUPERPOWER",
+        "url": "https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        },
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 182987,
+      "name": "SUPERPOWER",
+      "url": "https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 123281,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "[VirtuouS]",
+        "url": "https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "JUSTICE",
+      "url": "https://open.spotify.com/track/4GyhMaDPEILMPp62PUjP3j"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
         "name": "DUSK",
         "url": "https://open.spotify.com/album/2jbCByI5iMiDkkuTqq9RzF"
       },
@@ -275,6 +523,62 @@
       "duration_ms": 168760,
       "name": "Dive",
       "url": "https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/4IB420pnYmbehmDN8La5Oe"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201595,
+      "name": "Spring Snow",
+      "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "Play With Me",
+        "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
+      },
+      "artists": [
+        {
+          "name": "Pagaehun",
+          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+        },
+        {
+          "name": "KKANBYEONGZ",
+          "url": "https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt"
+        }
+      ],
+      "duration_ms": 169999,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -299,6 +603,38 @@
       "duration_ms": 184386,
       "name": "GOAT (feat. MUSHVENOM, Dynamicduo)",
       "url": "https://open.spotify.com/track/2NboXwD8I8N8bWovRE6yp6"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 198853,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "\ud2f0\ub77c\ubbf8\uc218 \ucf00\uc775",
+        "url": "https://open.spotify.com/album/4rVYtLBY7RlDr4EOXz6w6T"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "\ud2f0\ub77c\ubbf8\uc218 \ucf00\uc775 (Original Mix)",
+      "url": "https://open.spotify.com/track/6usxxPfhLIRJag1y96XcxE"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -351,46 +687,6 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "SUPERPOWER",
-        "url": "https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        },
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 182987,
-      "name": "SUPERPOWER",
-      "url": "https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "[VirtuouS]",
-        "url": "https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 179920,
-      "name": "JUSTICE",
-      "url": "https://open.spotify.com/track/4GyhMaDPEILMPp62PUjP3j"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
         "name": "FLAT COKE (Feat. Lee Young Ji)",
         "url": "https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY"
       },
@@ -411,18 +707,34 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/45r381iIEXYrZ3N8fw4mPS"
+        "name": "Open Always Wins",
+        "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
       },
       "artists": [
         {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 179706,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/1dx6WBxflzpIrFvkMPq388"
+      "duration_ms": 142344,
+      "name": "Open Always Wins",
+      "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
+    },
+    {
+      "added_at": "2024-08-26 09:00:00",
+      "album": {
+        "name": "WITNESS",
+        "url": "https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "SHOCK",
+      "url": "https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -443,118 +755,18 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/2Ub5QAeVor8nv2MvmedyJF"
+        "name": "Balloon in Love",
+        "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
       },
       "artists": [
         {
-          "name": "BANG&JUNG&YOO&MOON",
-          "url": "https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/7rJZp1DVysX95a6lX9ThiP"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Open Always Wins",
-        "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 142344,
-      "name": "Open Always Wins",
-      "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "\ud2f0\ub77c\ubbf8\uc218 \ucf00\uc775",
-        "url": "https://open.spotify.com/album/4rVYtLBY7RlDr4EOXz6w6T"
-      },
-      "artists": [
-        {
-          "name": "We Are The Night",
-          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "\ud2f0\ub77c\ubbf8\uc218 \ucf00\uc775 (Original Mix)",
-      "url": "https://open.spotify.com/track/6usxxPfhLIRJag1y96XcxE"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Strawberry Rush",
-        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "Strawberry Rush",
-      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Angel (feat. twlv)",
-        "url": "https://open.spotify.com/album/2SGrcdVQbSUxr4NZRoYpAa"
-      },
-      "artists": [
-        {
-          "name": "Yoonsoyoung",
-          "url": "https://open.spotify.com/artist/1gLmwXeZZgDfnX8qZge4tC"
-        },
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Angel (feat. twlv)",
-      "url": "https://open.spotify.com/track/0CXg4fpEBKlGGxRI1cYhBs"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
+      "duration_ms": 194093,
+      "name": "Balloon in Love",
+      "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
     },
     {
       "added_at": "2024-08-26 09:00:00",
@@ -579,174 +791,6 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
-        "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
-      },
-      "artists": [
-        {
-          "name": "I-LAND2 : N/a",
-          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
-        }
-      ],
-      "duration_ms": 197962,
-      "name": "FINAL LOVE SONG",
-      "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Play With Me",
-        "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
-      },
-      "artists": [
-        {
-          "name": "Pagaehun",
-          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
-        },
-        {
-          "name": "KKANBYEONGZ",
-          "url": "https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "Play With Me",
-      "url": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "WITNESS",
-        "url": "https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt"
-      },
-      "artists": [
-        {
-          "name": "ALL(H)OURS",
-          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "SHOCK",
-      "url": "https://open.spotify.com/track/0F2s3Lc7LeAlt2w7OokIoL"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 198853,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
-      },
-      "artists": [
-        {
-          "name": "ECLIPSE",
-          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
-        }
-      ],
-      "duration_ms": 233031,
-      "name": "Sudden Shower",
-      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
-        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "If I\u2019m S, Can You Be My N?",
-      "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "OVERSTEP",
-        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
-      },
-      "artists": [
-        {
-          "name": "BADVILLAIN",
-          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
-        }
-      ],
-      "duration_ms": 189283,
-      "name": "BADVILLAIN",
-      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Kep1going On",
-        "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "UNFRAMED",
-        "url": "https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP"
-      },
-      "artists": [
-        {
-          "name": "WOOAH",
-          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "POM POM POM",
-      "url": "https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "LOOP",
-        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
-      },
-      "artists": [
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        },
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "LOOP (feat. Lil Cherry)",
-      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
         "name": "McNasty",
         "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
       },
@@ -763,102 +807,50 @@
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/45r381iIEXYrZ3N8fw4mPS"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
         }
       ],
-      "duration_ms": 123281,
-      "name": "Debut",
-      "url": "https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG"
+      "duration_ms": 179706,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/1dx6WBxflzpIrFvkMPq388"
     },
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "Balloon in Love",
-        "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/2Ub5QAeVor8nv2MvmedyJF"
       },
       "artists": [
         {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+          "name": "BANG&JUNG&YOO&MOON",
+          "url": "https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI"
         }
       ],
-      "duration_ms": 194093,
-      "name": "Balloon in Love",
-      "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
+      "duration_ms": 195106,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7rJZp1DVysX95a6lX9ThiP"
     },
     {
       "added_at": "2024-08-26 09:00:00",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+        "name": "UNFRAMED",
+        "url": "https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+          "name": "WOOAH",
+          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
         }
       ],
-      "duration_ms": 194493,
-      "name": "RUSH (ft. BOBBY)",
-      "url": "https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201595,
-      "name": "Spring Snow",
-      "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "<ASSEMBLE24>",
-        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Girls Never Die",
-      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
-    },
-    {
-      "added_at": "2024-08-26 09:00:00",
-      "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
+      "duration_ms": 205546,
+      "name": "POM POM POM",
+      "url": "https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1"
     }
   ],
   "unique_name": "K-Pop Rising",

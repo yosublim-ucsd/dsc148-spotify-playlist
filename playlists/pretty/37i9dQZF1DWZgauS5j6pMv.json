@@ -1,13 +1,49 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 328942,
+  "num_followers": 329019,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAD5Rdyxlb9QYEC7gJ4UXBpU",
+  "snapshot_id": "ZtFDwAAAAABN0qG74yPLAlM+/C1y9NDw",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 196488,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Play My Guitar",
+        "url": "https://open.spotify.com/album/2hjsDetomg1855StKuMZWs"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        }
+      ],
+      "duration_ms": 201422,
+      "name": "Play My Guitar",
+      "url": "https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -1041,26 +1077,6 @@
       "url": "https://open.spotify.com/track/4qOjCtrKwGu31EkHmnCVOT"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Higher (Escalators)",
-        "url": "https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Higher (Escalators)",
-      "url": "https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Surrender",
@@ -1159,46 +1175,6 @@
       "duration_ms": 217082,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Freaky Toe (CC Mix)",
-        "url": "https://open.spotify.com/album/3aoz9kCyQCn5wFTha0KbFb"
-      },
-      "artists": [
-        {
-          "name": "Smudge All Stars",
-          "url": "https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU"
-        },
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        },
-        {
-          "name": "Richie Stevens",
-          "url": "https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl"
-        },
-        {
-          "name": "Mary Pearce",
-          "url": "https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg"
-        },
-        {
-          "name": "Charlotte Kelly",
-          "url": "https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4"
-        },
-        {
-          "name": "Trey Lewd",
-          "url": "https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD"
-        },
-        {
-          "name": "Derrick Taylor",
-          "url": "https://open.spotify.com/artist/0hY3bXijW2TBkCLNY2OJem"
-        }
-      ],
-      "duration_ms": 265806,
-      "name": "Freaky Toe - CC Mix",
-      "url": "https://open.spotify.com/track/1K65rsHQO17mdadr1l3ShZ"
     },
     {
       "added_at": "2023-03-03 05:01:00",

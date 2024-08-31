@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Rad Museum, Kid Milli\)
 
-1,296 songs - 2 day 22 hr 19 min
+1,298 songs - 2 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [For my waves](https://open.spotify.com/track/0uABBEeSV4S41B7wcPVFO5) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [SIDE](https://open.spotify.com/album/4wxqL0RWJK8n7LJBiXMWUB) | 2:45 | 2021-12-29 | 2022-05-30 |
 | [FOREVER](https://open.spotify.com/track/2tct7pqRDHjt103WB4sNGR) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [TRIPONOEL](https://open.spotify.com/album/3SIAR2oWsMZpoEcPgIhP99) | 3:18 | 2023-09-07 | 2023-09-15 |
 | [Founding Titan](https://open.spotify.com/track/6gW8HJqWHmyah0a4kwgFXG) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Lake of Fire II](https://open.spotify.com/album/75JefiZbeuPESs9WoduwDW) | 1:54 | 2024-02-08 | 2024-06-05 |
+| [Foxy Plush](https://open.spotify.com/track/1Sa80uc1aarNzR4L09Fypy) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK) | [RAD MILLI](https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg) | 3:28 | 2024-08-30 |  |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-27 | 2023-03-01 |
 | [freak asian \(Feat\. Loopy\)](https://open.spotify.com/track/4NWxE4c3FOoW4cnkgQ35L6) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Voice tool tip.txt](https://open.spotify.com/album/4ZjyTLpfGTTDl8lfZUulGx) | 3:27 | 2023-09-14 | 2024-03-09 |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2022-01-14 | 2022-07-08 |
@@ -726,6 +727,7 @@
 | [miami beach](https://open.spotify.com/track/0mV9HR5R3gwWvHwv7MuNyY) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [miami beach](https://open.spotify.com/album/6b4Hdz0wi0EzoFB9pM4xNl) | 3:05 | 2023-10-14 | 2024-03-09 |
 | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/track/7htJSkwcRU80KVxNCID024) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw) | [MIC "The Hammer" \(feat\. Paloalto, Chin\)](https://open.spotify.com/album/5myFuRRYgLrrpcJLvavoiZ) | 2:48 | 2022-03-31 | 2022-06-16 |
 | [Michael Jackson Remix \(Feat\. Jay Park\)](https://open.spotify.com/track/74cH1EoFKnaVJmqdU5fLR5) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Michael Jackson Remix](https://open.spotify.com/album/5WPTXczlD1GpoA7j2KelrH) | 3:58 | 2023-04-27 | 2023-06-14 |
+| [Million / Warrior](https://open.spotify.com/track/6G8N7aoDHlkEPOtIxOfonN) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [RAD MILLI](https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg) | 2:46 | 2024-08-30 |  |
 | [Mine \(Prod\. Seong Guk, Matt, niceshotnick\)](https://open.spotify.com/track/1bx3jwrwobANkqaV4sglkC) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [kweeel](https://open.spotify.com/artist/4W4TBHaPbtdJrXapmnUTdO) | [Monthly AP \- August, 2023](https://open.spotify.com/album/574cfUj6CqO31ASwf0jGUx) | 3:59 | 2023-08-24 | 2023-11-16 |
 | [Mint Condition](https://open.spotify.com/track/3kcQHARwuV6u46zZ9gbgFs) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mint Condition](https://open.spotify.com/album/7gMpIdUlwWtAGf1I8fO9ZF) | 3:16 | 2022-03-26 | 2022-06-26 |
 | [MM \(feat\. Jay Park\)](https://open.spotify.com/track/5i4tOwRaSSXpsxXmklaKi5) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [...\-\-\-...](https://open.spotify.com/album/1XmvDE1a4kANsubYWUDxtP) | 2:58 | 2021-12-18 | 2022-07-01 |

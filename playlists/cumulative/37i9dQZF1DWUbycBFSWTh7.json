@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 377213,
       "name": "Bounce To The Beat - Chris Stussy Remix",
       "url": "https://open.spotify.com/track/1ywAcqI75zfibaKcmlt6mV"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 370041,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6WtNgaB5FNM3ZemfAVD5gx"
@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Explorer EP",
+        "url": "https://open.spotify.com/album/2htgDWqgW1t6URJcPoMV6b"
+      },
+      "artists": [
+        {
+          "name": "Innershades",
+          "url": "https://open.spotify.com/artist/7M7BThVOA3gJiqABKgLNqe"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298181,
+      "name": "Explorer",
+      "url": "https://open.spotify.com/track/26PfnHdW74oNuRUIh3m9np"
+    },
+    {
+      "album": {
         "name": "Extassy / In A Distorted Galaxy",
         "url": "https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0"
       },
@@ -1889,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "Floating on Silence (K-Lone Remix)",
+        "url": "https://open.spotify.com/album/1ygue0WQPOckXwFkfcTgCf"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277805,
+      "name": "Floating on Silence - K-Lone Remix",
+      "url": "https://open.spotify.com/track/1wZpx3M3Gsou5NTgupmbDY"
+    },
+    {
+      "album": {
         "name": "For Friends",
         "url": "https://open.spotify.com/album/2R2pvXZmY7YFfASEXBmvpS"
       },
@@ -2112,7 +2152,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 389305,
       "name": "Gary's Dreamland",
       "url": "https://open.spotify.com/track/0Ad4GdnzZZCIZrH5IvIXYa"
@@ -2200,6 +2240,32 @@
       "duration_ms": 473566,
       "name": "Gimme Some More - KenLou Mix",
       "url": "https://open.spotify.com/track/6FOgIG8NSXCe0GyZUXD9CJ"
+    },
+    {
+      "album": {
+        "name": "Glory (Atjazz Galaxy Aart Remixes)",
+        "url": "https://open.spotify.com/album/3PRJIg8Ok3yB2au4vvKgfh"
+      },
+      "artists": [
+        {
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/7Lj6k89X6P1R61Fcjmhewd"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Maiya",
+          "url": "https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236097,
+      "name": "Glory - Atjazz Galaxy Aart Remix Edit",
+      "url": "https://open.spotify.com/track/7IivDejHcwBCsdZs0Ay5JY"
     },
     {
       "album": {
@@ -2338,7 +2404,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 259354,
       "name": "Heaven - Doc Martin Subwap Remix",
       "url": "https://open.spotify.com/track/12cc0vv3wT3Fj3dwvBma6N"
@@ -3320,7 +3386,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 236190,
       "name": "Love Can Make It Happen - Edit",
       "url": "https://open.spotify.com/track/3ZEertVkqoZQuqWyfbYphA"
@@ -3345,6 +3411,32 @@
     },
     {
       "album": {
+        "name": "Love Track 24",
+        "url": "https://open.spotify.com/album/2MhlO8yHjjHZ18OHTHni6G"
+      },
+      "artists": [
+        {
+          "name": "Soul Jawa",
+          "url": "https://open.spotify.com/artist/562qGPvemanemzjSPo4ctX"
+        },
+        {
+          "name": "Oscar P",
+          "url": "https://open.spotify.com/artist/0xTeZAfTc5DpUeLXw0SBlN"
+        },
+        {
+          "name": "B&S Concept",
+          "url": "https://open.spotify.com/artist/3gyVOJo1Rbdw9151SqIHmW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368780,
+      "name": "Love Track 24 - B&S Concept Remix",
+      "url": "https://open.spotify.com/track/0IuBxBQJMY1eSZAbKCTZpp"
+    },
+    {
+      "album": {
         "name": "Lovelee Dae (Seth Troxler Remix)",
         "url": "https://open.spotify.com/album/3xzFUb232mNyQw4XRFvWTS"
       },
@@ -3364,6 +3456,24 @@
       "duration_ms": 245069,
       "name": "Lovelee Dae - Seth Troxler Remix",
       "url": "https://open.spotify.com/track/4NFZNA4rkGaeOo975vx6Uk"
+    },
+    {
+      "album": {
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/4rEjnd8qd8PlC4kxeAKa7q"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/3s1PDBaZIbv57b4FyqcMHy"
     },
     {
       "album": {
@@ -3432,7 +3542,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 229180,
       "name": "Magic Circus",
       "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
@@ -3552,7 +3662,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 232598,
       "name": "Minor Fools - Edit",
       "url": "https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio"
@@ -3610,6 +3720,24 @@
       "duration_ms": 195937,
       "name": "Mister DJ",
       "url": "https://open.spotify.com/track/0C5w3xBl3Y0Xg7yRI4NDB5"
+    },
+    {
+      "album": {
+        "name": "Moments Of Sounds",
+        "url": "https://open.spotify.com/album/26iPIvmKjzNiUanURXIIuf"
+      },
+      "artists": [
+        {
+          "name": "Trinidadian Deep",
+          "url": "https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372245,
+      "name": "Moments Of Sounds",
+      "url": "https://open.spotify.com/track/6L5KflM0olnqaSbNSyJkE9"
     },
     {
       "album": {
@@ -3864,7 +3992,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 383216,
       "name": "My Buddy",
       "url": "https://open.spotify.com/track/5v8eYFpW8QvAHvelT7GkPM"
@@ -3966,6 +4094,32 @@
       "duration_ms": 348416,
       "name": "Need It (The Race)",
       "url": "https://open.spotify.com/track/2fYPe5jTmihspwMONwOzHX"
+    },
+    {
+      "album": {
+        "name": "Never (Osunlade Remixes)",
+        "url": "https://open.spotify.com/album/7unwGRzwPg63ACQTFrpvXs"
+      },
+      "artists": [
+        {
+          "name": "Fred Everything",
+          "url": "https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS"
+        },
+        {
+          "name": "Robert Owens",
+          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380905,
+      "name": "Never - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/23JSgi1N6XDrJV6yntzHOK"
     },
     {
       "album": {
@@ -4267,6 +4421,32 @@
     },
     {
       "album": {
+        "name": "Organizm",
+        "url": "https://open.spotify.com/album/3C23eqKvTbjMrpQ7P3sigU"
+      },
+      "artists": [
+        {
+          "name": "YASS",
+          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418231,
+      "name": "Organizm",
+      "url": "https://open.spotify.com/track/0CcyE5bTugiDEW7GApGz50"
+    },
+    {
+      "album": {
         "name": "Outer Limits",
         "url": "https://open.spotify.com/album/7JtdJtlBdfN0XLEWVmpOUc"
       },
@@ -4520,7 +4700,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 232389,
       "name": "Post Tenebras Lux",
       "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
@@ -4560,7 +4740,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 426130,
       "name": "PPPPP - Ian Pooley\u2019s Deep Dub",
       "url": "https://open.spotify.com/track/1cAcPhzFdbdaf7ACuaz7Pm"
@@ -5220,7 +5400,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
@@ -5598,6 +5778,24 @@
       "duration_ms": 364329,
       "name": "The Compass Jawn - Studio Version",
       "url": "https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5"
+    },
+    {
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/1NP9SrKIIHG903WKGYxYz0"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321917,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/3d2O7F9OR0mAWaTa8YTEuL"
     },
     {
       "album": {
@@ -6064,7 +6262,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 340750,
       "name": "Time",
       "url": "https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK"
@@ -6641,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/02nyDicMLxEwKmFgADipze"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361413,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2PUIT7nqDEqV2S1qOPm9fD"
+    },
+    {
+      "album": {
         "name": "We Gotta Wake This World Up From Its Sleep",
         "url": "https://open.spotify.com/album/2bdA5I5Sn4XjBu9dxEF6Qx"
       },
@@ -6678,6 +6894,24 @@
       "duration_ms": 400000,
       "name": "Wet Dreams - Nu-Cleo Space Funk Remix",
       "url": "https://open.spotify.com/track/5ojM4o4QbKi53jIWmzsVXt"
+    },
+    {
+      "album": {
+        "name": "What a Day (Edit)",
+        "url": "https://open.spotify.com/album/0pEfGcRkw77eDjI236ZNpb"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259687,
+      "name": "What a Day - Edit",
+      "url": "https://open.spotify.com/track/3oCdLVc7CNT3KzSYkOwEir"
     },
     {
       "album": {
@@ -6960,6 +7194,24 @@
       "duration_ms": 430476,
       "name": "You Know How To Love Me",
       "url": "https://open.spotify.com/track/3MnU5q2VAHABSqXr6MmFjf"
+    },
+    {
+      "album": {
+        "name": "You Know it",
+        "url": "https://open.spotify.com/album/4gLk7WVubgWOu94s0hFadu"
+      },
+      "artists": [
+        {
+          "name": "N.W.N.",
+          "url": "https://open.spotify.com/artist/4hCvTjC2dZRblihTohdKFp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334146,
+      "name": "You Know it",
+      "url": "https://open.spotify.com/track/6G929xj6f2gi7DhdvzzJP8"
     },
     {
       "album": {

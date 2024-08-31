@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 67743,
+  "num_followers": 67779,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+      },
+      "artists": [
+        {
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
+        }
+      ],
+      "duration_ms": 337535,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
         "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
         "url": "https://open.spotify.com/album/7bfnVwfy8GY8jqllhKkDFp"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 493347,
       "name": "Fiesta Mix 3.0 la Piscola y Cerveza: Tenemos Sed / La Mesa del Rincon / Y Me Beb\u00ed Tu Recuerdo / Abrazado a Mi Botella / Mil Cantinas / Ando de Borrachera...",
       "url": "https://open.spotify.com/track/3TnTaLEn3NxgjGGrxoMXZE"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
-      },
-      "artists": [
-        {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        }
-      ],
-      "duration_ms": 337535,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
-      },
-      "artists": [
-        {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 177363,
       "name": "Me Voy a Lanzar",
       "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+      },
+      "artists": [
+        {
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
       },
       "artists": [
         {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
-      },
-      "artists": [
-        {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Los Vampiros",
-      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
         "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211866,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
+      },
+      "artists": [
+        {
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Los Vampiros",
+      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
-        "url": "https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 752378,
-      "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
-      "url": "https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Mi Decisi\u00f3n",
         "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 254850,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
+        "url": "https://open.spotify.com/album/3mbYBkz6udI9fjkOMCJwAj"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 752378,
+      "name": "De Paisano a Paisano / Mi Adolescencia a los 40 / Nadie (Fiestas Patrias 2021)",
+      "url": "https://open.spotify.com/track/6EzlHIY7kPsF6X2JmzR8UV"
     },
     {
       "added_at": "2024-06-12 22:58:17",

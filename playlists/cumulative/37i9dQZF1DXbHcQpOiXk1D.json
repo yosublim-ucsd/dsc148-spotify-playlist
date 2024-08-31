@@ -555,7 +555,7 @@
     },
     {
       "album": {
-        "name": "Still Nothing Still (Deluxe)",
+        "name": "Still Nothing Still - Deluxe",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
       "artists": [
@@ -566,6 +566,10 @@
         {
           "name": "Slim.",
           "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
         }
       ],
       "date_added": "2024-07-11",

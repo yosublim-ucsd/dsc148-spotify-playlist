@@ -2,9 +2,9 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This is P\-Lo\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is P\-Lo\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 52 min
+83 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 | 2024-01-29 | 2024-07-18 |
 | [U TELL ME \(Feat\. P\-Lo\)](https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 2:23 | 2024-01-29 |  |
 | [Untouchable \(feat\. P\-LO\)](https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Magic Hour](https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp) | 3:24 | 2024-07-15 |  |
-| [Vomit](https://open.spotify.com/track/7LtZmVyaEt07cln17YfyXe) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Vomit](https://open.spotify.com/album/21bsgfwUMEcuKnStLE8Rrj) | 2:48 | 2024-05-05 |  |
+| [Vomit](https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [My Wonderful, Horrible Life](https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR) | 2:48 | 2024-08-31 |  |
+| [Vomit](https://open.spotify.com/track/7LtZmVyaEt07cln17YfyXe) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Vomit](https://open.spotify.com/album/21bsgfwUMEcuKnStLE8Rrj) | 2:48 | 2024-05-05 | 2024-08-31 |
 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 | 2024-01-29 |  |
 | [WHAT WE DOIN!?](https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:40 | 2024-08-22 |  |
 | [WHAT WE DOIN!?](https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [WHAT WE DOIN!?](https://open.spotify.com/album/36E65j8CJx5tsD240jbt5a) | 3:40 | 2024-06-30 | 2024-08-22 |

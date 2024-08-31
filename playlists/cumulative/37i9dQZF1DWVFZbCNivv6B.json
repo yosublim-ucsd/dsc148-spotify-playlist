@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "EFECTO DOMIN\u00d3",
+        "url": "https://open.spotify.com/album/3JJ6MDk8nBSkTGUthfh3ZI"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Efecto Domin\u00f3",
+      "url": "https://open.spotify.com/track/7qAQPnpEY1PIndJHqcvTrP"
+    },
+    {
+      "album": {
         "name": "El Bais\u00f3n (feat. Toser One)",
         "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
       },
@@ -4679,6 +4697,28 @@
     },
     {
       "album": {
+        "name": "Genios",
+        "url": "https://open.spotify.com/album/7e8r7cKrzX1h4JqpIQ8noy"
+      },
+      "artists": [
+        {
+          "name": "Lobo Estepario",
+          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191077,
+      "name": "Genios",
+      "url": "https://open.spotify.com/track/3YsK7zohjEf6jsRlLfzOY2"
+    },
+    {
+      "album": {
         "name": "Gimme A Second",
         "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
       },
@@ -5594,6 +5634,36 @@
       "duration_ms": 182400,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1atMva6VKNfdTC353iWU5B"
+    },
+    {
+      "album": {
+        "name": "La Manzana (feat. Mente En Blanco)",
+        "url": "https://open.spotify.com/album/5Cc8uzpDnbDbF1GrSu9R5r"
+      },
+      "artists": [
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        },
+        {
+          "name": "Jr L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO"
+        },
+        {
+          "name": "Poncho Lkd",
+          "url": "https://open.spotify.com/artist/5RVRXnbv7PKnZvGk24xwu4"
+        },
+        {
+          "name": "Mente En Blanco",
+          "url": "https://open.spotify.com/artist/4NZKIGTqaBTXyDUYbCcWWH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274500,
+      "name": "La Manzana (feat. Mente En Blanco)",
+      "url": "https://open.spotify.com/track/2BHca5YGWsdLwNaOHqJRQ3"
     },
     {
       "album": {
@@ -7060,7 +7130,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 211500,
       "name": "Mi Don",
       "url": "https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs"
@@ -8676,7 +8746,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 178512,
       "name": "PLOMO",
       "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
@@ -11866,7 +11936,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182500,
       "name": "Uh La La",
       "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"

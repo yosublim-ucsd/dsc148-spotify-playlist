@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 112812,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/2drG3ilWVsbPuEWzy879aF"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154250,
       "name": "another time",
       "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
@@ -49913,6 +49913,28 @@
     },
     {
       "album": {
+        "name": "happiness",
+        "url": "https://open.spotify.com/album/1beor7dgoMwOu8DWdzeOP5"
+      },
+      "artists": [
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        },
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "headway",
+      "url": "https://open.spotify.com/track/4K9JZ7uvEfBuquS7r2k8SM"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/5nUjF1biz2RBLbhkICuENf"
       },
@@ -52520,7 +52542,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 131756,
       "name": "Horseback Reflections",
       "url": "https://open.spotify.com/track/1lhLpMAxlGxQzXrhiZbZOH"
@@ -56210,7 +56232,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 131052,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/0NyWQXKhL4LFhoRgAKg9DF"
@@ -57104,7 +57126,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 113684,
       "name": "Introverted",
       "url": "https://open.spotify.com/track/0LZDj1ikBRuRwjqjTbyMd1"
@@ -90952,7 +90974,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 121116,
       "name": "pleasant drive",
       "url": "https://open.spotify.com/track/3ANLJaBcDbNuDxTttHoquo"
@@ -100882,7 +100904,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 156800,
       "name": "Senescence",
       "url": "https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L"

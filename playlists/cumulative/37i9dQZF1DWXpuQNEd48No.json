@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142014,
       "name": "Ankhon Ka Kasoor",
       "url": "https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0"
@@ -994,6 +994,24 @@
       "duration_ms": 164516,
       "name": "Brownie",
       "url": "https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl"
+    },
+    {
+      "album": {
+        "name": "Chadh Chadh ke",
+        "url": "https://open.spotify.com/album/5owDV9tN5oB4fge2YQTUsI"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205961,
+      "name": "Chadh Chadh ke",
+      "url": "https://open.spotify.com/track/0ePcqkdh2G3L8SlpxiiRTy"
     },
     {
       "album": {
@@ -1943,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Gaadi Drill",
+        "url": "https://open.spotify.com/album/1hnGmtUKZtMXerEVUIMlk1"
+      },
+      "artists": [
+        {
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169086,
+      "name": "Gaadi Drill",
+      "url": "https://open.spotify.com/track/5hPInHw8XoxbVpbsq5laf5"
+    },
+    {
+      "album": {
         "name": "Gadi 100 Pe",
         "url": "https://open.spotify.com/album/3qCAkZI6R7guUB8ts7pF1J"
       },
@@ -2168,6 +2204,28 @@
       "duration_ms": 154285,
       "name": "Goli (feat. Khushi Verma)",
       "url": "https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK"
+    },
+    {
+      "album": {
+        "name": "Gurgaame",
+        "url": "https://open.spotify.com/album/0FD6RKMyNeU3sD57gbUzLj"
+      },
+      "artists": [
+        {
+          "name": "Shiva Choudhary",
+          "url": "https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN"
+        },
+        {
+          "name": "Nish Tomar",
+          "url": "https://open.spotify.com/artist/5qRVWMxyeXRDp2NsgKSwBQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195831,
+      "name": "Gurgaame",
+      "url": "https://open.spotify.com/track/2CvVywwxrGQimsysACwtZT"
     },
     {
       "album": {
@@ -2656,6 +2714,24 @@
       "duration_ms": 132923,
       "name": "Jaat",
       "url": "https://open.spotify.com/track/2yDrzP2riEk9nj0z94cJ4h"
+    },
+    {
+      "album": {
+        "name": "Jaat Brat",
+        "url": "https://open.spotify.com/album/3q0KhGknaKrmSTyr7PCbmf"
+      },
+      "artists": [
+        {
+          "name": "Sahil Dhull",
+          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182822,
+      "name": "Jaat Brat",
+      "url": "https://open.spotify.com/track/7mYpS6ZxxD5hVXtnorjceQ"
     },
     {
       "album": {
@@ -3192,7 +3268,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -3838,7 +3914,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 192891,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/4TFuhfk6IxRCGLAY4TVl5M"
@@ -5364,7 +5440,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 210702,
       "name": "Tell Me Who?",
       "url": "https://open.spotify.com/track/16ArpcNGoQE6ZN4YochJd4"

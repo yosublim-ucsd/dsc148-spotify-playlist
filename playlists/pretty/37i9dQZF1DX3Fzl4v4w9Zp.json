@@ -1,33 +1,13 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Gillian Welch and David Rawlings",
-  "num_followers": 637030,
+  "num_followers": 637049,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAAKq8Hh5RbDvbMOgnEE3WGG",
+  "snapshot_id": "ZtFDwAAAAABaORYvS6Shpu8k+KTRHijd",
   "tracks": [
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1nrQDucPS1W1XLLaPGhmAI"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        },
-        {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
-        }
-      ],
-      "duration_ms": 238632,
-      "name": "What We Had",
-      "url": "https://open.spotify.com/track/3HptZiwapNwyNVGyb9pt4u"
-    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -43,6 +23,38 @@
       "duration_ms": 208920,
       "name": "Step Into Your Power",
       "url": "https://open.spotify.com/track/4c3DEPn1eHVu9chCQ8tGzC"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Red Yellow Indigo",
+        "url": "https://open.spotify.com/album/3JnJ7MZTeKoW0jNzdKL0FZ"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Red Yellow Indigo",
+      "url": "https://open.spotify.com/track/5XgQ21xtJTyudYlHz24WpD"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -67,6 +79,58 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1nrQDucPS1W1XLLaPGhmAI"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "duration_ms": 238632,
+      "name": "What We Had",
+      "url": "https://open.spotify.com/track/3HptZiwapNwyNVGyb9pt4u"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Statues",
+        "url": "https://open.spotify.com/album/5xhOUZSm5LTDzgU0pz0HYv"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/319R48ARXApSWmjzUgfkVZ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Still Provoked",
+        "url": "https://open.spotify.com/album/6tXJMaVcENjAiSyNXyW0C8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 137928,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/7M10tbfWnKZT3MR8zCccmr"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "I Will Not Go Down (feat. Billy Strings)",
         "url": "https://open.spotify.com/album/7HPOLhuFelaq5SseZYhnQJ"
       },
@@ -83,22 +147,6 @@
       "duration_ms": 237360,
       "name": "I Will Not Go Down (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/2eQxXfDk7F06iYIfOeERil"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -147,6 +195,22 @@
       "duration_ms": 175617,
       "name": "Shelter Me - Downtown Owl Soundtrack",
       "url": "https://open.spotify.com/track/0lHRpitoz0DGOKqv8t8igO"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Consequences of the Crown",
+        "url": "https://open.spotify.com/album/2qTcRr7zNYZbGU5cjVgtHD"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "duration_ms": 225300,
+      "name": "Regular Man",
+      "url": "https://open.spotify.com/track/3r3RO2AcFG9SyJ2gfUfyxz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2319,22 +2383,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/5Iue2ftvsBde2EScRcUMhD"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 242185,
-      "name": "Roman Candle",
-      "url": "https://open.spotify.com/track/7B3ospxtMq2QWIJmwoeF0H"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Playin' On The Tracks",
         "url": "https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp"
       },
@@ -2419,22 +2467,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Heart is the Hero",
-        "url": "https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 176915,
-      "name": "Heart is the Hero",
-      "url": "https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -2495,42 +2527,6 @@
       "duration_ms": 213213,
       "name": "Alcohallelujah",
       "url": "https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Stand in the Joy",
-        "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Broken Heart of Mine",
-      "url": "https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/65O5v9lS0MPGkEEO2EPqya"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Everything At Once (feat. Jeff Tweedy)",
-      "url": "https://open.spotify.com/track/5Ge9rfVubgN6gDv6yBz7An"
     }
   ],
   "unique_name": "The Pulse of Americana",

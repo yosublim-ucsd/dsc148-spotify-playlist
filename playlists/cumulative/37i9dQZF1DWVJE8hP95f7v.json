@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-15",
-  "description": "Um apanhado do soul brasileiro para animar e dan\u00e7ar. Foto: Gerson King Combo",
+  "description": "Um apanhado do soul brasileiro para animar e dan\u00e7ar. Foto: Hyldon",
   "name": "Soul Brasil",
   "tracks": [
     {
@@ -130,6 +130,24 @@
       "duration_ms": 239999,
       "name": "ANTISSOCIAL",
       "url": "https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S"
+    },
+    {
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "album": {
@@ -926,7 +944,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 331053,
       "name": "Life Is What It Is",
       "url": "https://open.spotify.com/track/5qvmlbDzsS4bxFLE4zv1kD"
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 333206,
       "name": "Menina Me Encanta - Uptown Funk Empire Remix",
       "url": "https://open.spotify.com/track/4W0vaPpie2a89vA99TiiDe"

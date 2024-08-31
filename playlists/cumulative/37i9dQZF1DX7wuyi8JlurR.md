@@ -2,7 +2,7 @@
 
 ### [Industry Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX7wuyi8JlurR)
 
-> Risk\. Reward\. Repeat\. Listen to the music from Industry, new season coming soon to Max.
+> Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
 137 songs - 9 hr 37 min
 

@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-358 songs - 23 hr 21 min
+359 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2022-09-13 |  |
 | [Piece and Pound Coins](https://open.spotify.com/track/0s3pPnQrytADGrGw1UWP5m) | [The Ninth Wave](https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP) | [Piece and Pound Coins](https://open.spotify.com/album/4Rpy1s4ACE9bAJYaQdc9KM) | 2:23 | 2021-11-01 | 2022-09-15 |
 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 | 2024-06-01 |  |
+| [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 | 2024-08-29 |  |
 | [Poem](https://open.spotify.com/track/4uzh2ZrXPj5IfZz3Llo0xR) | [Goonnights](https://open.spotify.com/artist/5ZmIXHI8yRSNyaVi8PZqbZ) | [Poem](https://open.spotify.com/album/6zT1R2Sdzjtc8FKAnzEdP9) | 4:12 | 2023-10-30 | 2024-06-02 |
 | [Port](https://open.spotify.com/track/4zjArpFbVaNz27Z5vX5Oda) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/6VjvuxKncdSNpaQW9WMOEZ) | 4:42 | 2023-07-25 | 2024-04-19 |
 | [Port](https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Port](https://open.spotify.com/album/0v8LHvECm25kz8i2ii5n7w) | 4:42 | 2021-11-01 | 2024-06-02 |
@@ -344,7 +345,7 @@
 | [Venus as a Boy](https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:42 | 2023-10-30 | 2023-11-04 |
 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 | 2022-11-01 | 2023-07-25 |
 | [Waking The Witch \- 2018 Remaster](https://open.spotify.com/track/4mNUtp5LxYkg1mdbSZEcwO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 4:18 | 2022-08-02 | 2023-03-18 |
-| [Walking in a Vacuum](https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [Walking in a Vacuum](https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93) | 4:27 | 2024-06-01 |  |
+| [Walking in a Vacuum](https://open.spotify.com/track/5Ns4yaN3uNMRlTr3pPDM9t) | [test plan](https://open.spotify.com/artist/51hfP8BcSbQoL3DFrwNNCA) | [Walking in a Vacuum](https://open.spotify.com/album/0dk5cpVMJuD0yhK2OQon93) | 4:27 | 2024-06-01 | 2024-08-31 |
 | [Wander](https://open.spotify.com/track/1qsFDoKyLYpO2PcMJGpe6r) | [E\_DEATH](https://open.spotify.com/artist/2wSwy8bHoCzFngrIrDCFDd) | [Cloud Spires](https://open.spotify.com/album/0fnKaTnX3f9rjXWp9Tm1q7) | 4:18 | 2022-10-23 | 2022-11-01 |
 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 | 2023-03-22 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-10-30 | 2023-11-04 |

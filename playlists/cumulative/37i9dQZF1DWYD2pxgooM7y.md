@@ -449,6 +449,6 @@
 | [You Better Believe Me \(feat\. Kara Chenoa\)](https://open.spotify.com/track/59AzBtusa05znnPbFgVYz8) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [You Better Believe Me \(feat\. Kara Chenoa\)](https://open.spotify.com/album/1BRFnIBA9UOZ4WvippuLBj) | 4:07 | 2021-10-14 | 2022-07-25 |
 | [You Make Me Feel Good \- Original Mix](https://open.spotify.com/track/1wW0yMVo6dVxWZkmduKEWC) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Panorama Pacifico](https://open.spotify.com/album/3vhWEhXHcD0OpiMjeO8g5O) | 7:07 | 2022-04-01 | 2022-04-14 |
 | [You're My Superhero](https://open.spotify.com/track/2Zv9TY8e1EGRluqujUvoDX) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [You're My Superhero](https://open.spotify.com/album/12M32msKZBNbZaOidbipXY) | 2:30 | 2021-10-14 | 2022-07-29 |
-| [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2022-04-01 |  |
+| [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \- Deluxe](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2022-04-01 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

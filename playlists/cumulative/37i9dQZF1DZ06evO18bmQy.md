@@ -2,7 +2,7 @@
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. The essential tracks, all in one playlist.
+> This is Djonga\. Todos os maiores hits em uma só playlist.
 
 84 songs - 5 hr 56 min
 
@@ -28,7 +28,7 @@
 | [Corre das Notas](https://open.spotify.com/track/5lKdcZZsmSFIDtbNINXxkP) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:38 | 2023-09-18 | 2023-10-05 |
 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 | 2023-09-18 |  |
 | [da lua](https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [LISBOA](https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:29 | 2023-11-10 |  |
-| [Da Lua \(Versão Pagode\)](https://open.spotify.com/track/6LsQubIPzfeF3wRXwRMWLJ) | [LISBOA](https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Da Lua \(Versão Pagode\)](https://open.spotify.com/album/4kqWDnCNCqNvqTNHx2sHNx) | 3:46 | 2024-08-06 |  |
+| [Da Lua \(Versão Pagode\)](https://open.spotify.com/track/6LsQubIPzfeF3wRXwRMWLJ) | [LISBOA](https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Da Lua \(Versão Pagode\)](https://open.spotify.com/album/4kqWDnCNCqNvqTNHx2sHNx) | 3:46 | 2024-08-06 | 2024-08-31 |
 | [das amantes freestyle](https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:18 | 2023-11-10 |  |
 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 | 2023-11-10 |  |
 | [Depois do Baile](https://open.spotify.com/track/0XkH47qUbNA4YGdD4WEjAA) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Depois do Baile](https://open.spotify.com/album/3tUkjGo50rgl56XOQhBjl4) | 10:32 | 2024-08-08 |  |

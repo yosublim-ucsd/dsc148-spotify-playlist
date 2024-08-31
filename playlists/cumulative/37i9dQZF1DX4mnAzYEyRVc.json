@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Abierturient",
+        "url": "https://open.spotify.com/album/0vcQNy4FMguUaaCYj78871"
+      },
+      "artists": [
+        {
+          "name": "Lenze & De Buam",
+          "url": "https://open.spotify.com/artist/68yyJ41TflxW9ZJd2tTTWu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136986,
+      "name": "Abierturient",
+      "url": "https://open.spotify.com/track/4Q8DY4NXY25r3s16PQy0aq"
+    },
+    {
+      "album": {
         "name": "Our Struggle\u301c\u30aa\u30ec\u30bf\u30c1\u30ce\u6597\u4e89\u301c",
         "url": "https://open.spotify.com/album/2vGCOIXjlWd8bJWJmzdkTs"
       },
@@ -4867,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "La Mano de Dios (20th Anniversary Live)",
+        "url": "https://open.spotify.com/album/5LvrojhMkci5scqxemIrLa"
+      },
+      "artists": [
+        {
+          "name": "Talco",
+          "url": "https://open.spotify.com/artist/443KHruraFfm6t1cK8SJCc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242876,
+      "name": "La Mano de Dios - 20th Anniversary Live",
+      "url": "https://open.spotify.com/track/0C3cotVCiKkjzS26KHLB5R"
+    },
+    {
+      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -7608,7 +7644,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 232903,
       "name": "Rebeld\u00eda",
       "url": "https://open.spotify.com/track/2vEX0C5ShNHFvb2eR7FQrh"
@@ -10094,7 +10130,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 216933,
       "name": "The Last Ninja",
       "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
@@ -11129,6 +11165,24 @@
     },
     {
       "album": {
+        "name": "Walking Pipebomb",
+        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165111,
+      "name": "Walking Pipebomb",
+      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
+    },
+    {
+      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -11318,7 +11372,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 207295,
       "name": "Wir sind wieder wer",
       "url": "https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb"

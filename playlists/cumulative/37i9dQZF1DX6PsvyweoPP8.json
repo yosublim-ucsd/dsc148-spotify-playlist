@@ -3169,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Relatos De 7 Noites, Vol. 2",
+        "url": "https://open.spotify.com/album/5E0Guh5pTyLPBZmsEEStqk"
+      },
+      "artists": [
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Mais Uma Noite",
+      "url": "https://open.spotify.com/track/2HhlfSdtyJHAzLOVcATPnF"
+    },
+    {
+      "album": {
         "name": "Maldosa",
         "url": "https://open.spotify.com/album/0hs8lQbsgIWibUyUHodWYn"
       },

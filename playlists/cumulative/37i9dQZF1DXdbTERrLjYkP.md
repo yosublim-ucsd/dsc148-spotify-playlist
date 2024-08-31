@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Talia Rae
 
-723 songs - 1 day 14 hr 30 min
+726 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Amsterdam](https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Amsterdam](https://open.spotify.com/album/5J8fTRkYJXCNJNxW7sFaOC) | 3:30 | 2023-08-18 | 2023-10-01 |
 | [And Then Some](https://open.spotify.com/track/6s0gFpKKKxd8EDhTCvEbYf) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [And Then Some](https://open.spotify.com/album/7jMXIbtas48z1ULzXLtFRa) | 3:09 | 2023-02-10 | 2023-08-12 |
 | [another guy](https://open.spotify.com/track/7GFVTeKjOqzUHFDleIKSg4) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [another guy](https://open.spotify.com/album/78o1cne21EKhzHTaMKu6q6) | 1:54 | 2022-01-14 | 2022-03-12 |
+| [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-30 |  |
 | [are you still here](https://open.spotify.com/track/2dCbvnhcqye0gZtB5rSwM1) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [are you still here](https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8) | 2:49 | 2023-07-07 | 2023-12-14 |
 | [as good a reason](https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [as good a reason](https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9) | 2:49 | 2023-09-01 | 2024-01-27 |
 | [AS IT SEEMS](https://open.spotify.com/track/51by1PCmtPWgKmeznbDkIj) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [I H8 EVERYONE](https://open.spotify.com/album/5xeQy6IHThwOo4yOMdBYz5) | 4:25 | 2023-02-03 | 2023-06-13 |
@@ -82,6 +83,7 @@
 | [Big Star](https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Big Star](https://open.spotify.com/album/5M1Y1ppNc7NFFq5b6U0s5K) | 3:00 | 2023-05-12 | 2023-07-15 |
 | [birthday alone](https://open.spotify.com/track/4JrxkAArwiHvo3ZvtXmnoy) | [Sage Charmaine](https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn) | [birthday alone](https://open.spotify.com/album/2i3bzoH7SD600b3SKm0F8u) | 3:14 | 2022-09-30 | 2022-12-24 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-04 | 2022-07-09 |
+| [Birthday Song](https://open.spotify.com/track/72neMcbRmFNHmr97Qz8dOw) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Birthday Song](https://open.spotify.com/album/3ZZlsJFtAzMAZ1xti6HAtB) | 4:23 | 2024-08-30 |  |
 | [Bittersweet](https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Bittersweet](https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas) | 2:58 | 2024-03-22 |  |
 | [Black Swan](https://open.spotify.com/track/0Z20yeDEotfT3LX8e6kSpk) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [WELL WELL](https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc) | 3:09 | 2023-08-18 | 2023-12-14 |
 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 | 2024-05-31 |  |
@@ -100,7 +102,7 @@
 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 | 2023-01-27 | 2023-05-06 |
 | [Brooklyn \- Stripped](https://open.spotify.com/track/3goLem0sEOQmKk29FWYx6q) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Brooklyn \(Stripped\)](https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods) | 2:51 | 2022-01-14 | 2022-02-19 |
 | [buffalo](https://open.spotify.com/track/4ujsDQYYnvt4rWSVsQsy7C) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [buffalo](https://open.spotify.com/album/5I01Y9oTVDnSKFSg8T81F4) | 3:18 | 2023-09-18 | 2023-12-14 |
-| [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 | 2024-03-01 |  |
+| [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 | 2024-03-01 | 2024-08-31 |
 | [Bumble Bee](https://open.spotify.com/track/4GcMviwgxuwqGW552BSqoq) | [Mila Degray](https://open.spotify.com/artist/2xEm2V0agYeSKR0xBLzMxu) | [Bumble Bee](https://open.spotify.com/album/1I2v5RJtr4Tt6yA7I1U1Rl) | 4:09 | 2022-12-23 | 2023-02-11 |
 | [Bumblebees and Blue Skies](https://open.spotify.com/track/0Bczbw2k63cjhOS078dXaF) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Bumblebees and Blue Skies](https://open.spotify.com/album/0OhZ0ZfAmshKSHDrxHALYW) | 5:16 | 2022-10-14 | 2022-12-24 |
 | [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-02-17 | 2023-05-13 |
@@ -226,6 +228,7 @@
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-03-18 |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
 | [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 | 2023-07-22 |
+| [Friends](https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Friends](https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F) | 3:17 | 2024-08-30 |  |
 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 | 2023-04-07 | 2023-08-19 |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-07-08 |
@@ -274,7 +277,7 @@
 | [Haunted by Potential](https://open.spotify.com/track/6VzmUPRsALYM7FLfTs8GwF) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/68F4sD1sjZaVm15oynDKMD) | 3:38 | 2023-02-03 | 2023-02-25 |
 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 | 2023-01-21 |
 | [Hear Me Now](https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 3:44 | 2023-09-01 | 2023-12-14 |
-| [Heartbreak In Heaven](https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Heartbreak In Heaven](https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3) | 2:21 | 2024-03-08 |  |
+| [Heartbreak In Heaven](https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Heartbreak In Heaven](https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3) | 2:21 | 2024-03-08 | 2024-08-31 |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 | 2023-05-13 |
 | [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 | 2024-08-17 |
@@ -408,7 +411,7 @@
 | [Looking For](https://open.spotify.com/track/2BFAQKgIqQSPNXuDw08C83) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:06 | 2024-03-22 | 2024-04-19 |
 | [Looking for Trouble](https://open.spotify.com/track/67CCjpC8R4pWs2xaqkn3op) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Looking for Trouble](https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO) | 3:46 | 2022-09-30 | 2023-02-18 |
 | [Lose a Friend](https://open.spotify.com/track/3Uo3QGPMTpiyAbMkj9dqgd) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Lose a Friend](https://open.spotify.com/album/1J1bA0Cw8Bw9r1KyDukInD) | 3:15 | 2023-02-17 | 2023-05-06 |
-| [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 | 2024-03-22 |  |
+| [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 | 2024-03-22 | 2024-08-31 |
 | [Lost](https://open.spotify.com/track/5uBxWyHmRbUCzJ87E34MP8) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Lost](https://open.spotify.com/album/53iFxvl6PuMcgxh2MJz4B5) | 3:01 | 2022-09-09 | 2022-12-24 |
 | [Lost In My Mind](https://open.spotify.com/track/7xMdKBU5idnAWxH9A5RC2h) | [Rachel Levin](https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH) | [Lost In My Mind](https://open.spotify.com/album/37a8Z4kDhORiqjw2sPor5U) | 2:32 | 2024-03-22 |  |
 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 | 2022-09-16 | 2022-12-24 |

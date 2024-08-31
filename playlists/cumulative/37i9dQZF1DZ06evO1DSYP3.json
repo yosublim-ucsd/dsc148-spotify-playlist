@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is P-Lo. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is P-Lo. The essential tracks, all in one playlist.",
   "name": "This Is P-Lo",
   "tracks": [
     {
@@ -1689,6 +1689,32 @@
     },
     {
       "album": {
+        "name": "My Wonderful, Horrible Life",
+        "url": "https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR"
+      },
+      "artists": [
+        {
+          "name": "Travis Thompson",
+          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+        },
+        {
+          "name": "Nima Skeemz",
+          "url": "https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168342,
+      "name": "Vomit",
+      "url": "https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW"
+    },
+    {
+      "album": {
         "name": "Vomit",
         "url": "https://open.spotify.com/album/21bsgfwUMEcuKnStLE8Rrj"
       },
@@ -1708,7 +1734,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168342,
       "name": "Vomit",
       "url": "https://open.spotify.com/track/7LtZmVyaEt07cln17YfyXe"

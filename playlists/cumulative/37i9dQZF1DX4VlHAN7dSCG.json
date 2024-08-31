@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "\u8ff7\u5931\u7684\u8fb9\u754cLost Borders",
+        "url": "https://open.spotify.com/album/4FsWDVMOojXlDinw1GygIM"
+      },
+      "artists": [
+        {
+          "name": "\u5f02\u8c61\u97f3\u8f68",
+          "url": "https://open.spotify.com/artist/1zktKuhgJRIZJrfbTdrjBu"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "\u8ff7\u5931\u7684\u8fb9\u754cLost Borders",
+      "url": "https://open.spotify.com/track/6nHRNnye3jfb7KpCKBeBvq"
+    },
+    {
+      "album": {
         "name": "\u8ff7\u822a",
         "url": "https://open.spotify.com/album/7o2B2HxBicwMsKygzPVuGb"
       },

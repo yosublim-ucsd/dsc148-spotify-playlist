@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Tank and the Bangas",
+  "description": "New jazz for open minds. Cover: Immanuel Wilkins",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -842,6 +842,24 @@
       "duration_ms": 337285,
       "name": "African Sun",
       "url": "https://open.spotify.com/track/67LBxjF6YOMja1TxlV4Lzm"
+    },
+    {
+      "album": {
+        "name": "AFTERLIFE RESIDENCE TIME",
+        "url": "https://open.spotify.com/album/3lxJ9yzA7gITHwmBca0eIL"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520333,
+      "name": "AFTERLIFE RESIDENCE TIME",
+      "url": "https://open.spotify.com/track/5e1AKABWAK8NTzjRj8S8FX"
     },
     {
       "album": {
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 315533,
       "name": "Bass Duo #1",
       "url": "https://open.spotify.com/track/1SqfaarqpHcceW6eMc2luH"
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 555311,
       "name": "Cape to Cairo",
       "url": "https://open.spotify.com/track/6PYRFM04Wx5JtvrlsNGwZ2"
@@ -5186,6 +5204,28 @@
       "duration_ms": 259013,
       "name": "Chavez",
       "url": "https://open.spotify.com/track/0WWAz4f7p3q8ylSvt4hvVg"
+    },
+    {
+      "album": {
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
     },
     {
       "album": {
@@ -6848,7 +6888,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 240315,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW"
@@ -7626,7 +7666,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 379584,
       "name": "Double Entendre",
       "url": "https://open.spotify.com/track/4FWosPafFYxKL54oZB62tW"
@@ -11035,6 +11075,24 @@
     },
     {
       "album": {
+        "name": "GOLD\uff06TURQUOISE",
+        "url": "https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262499,
+      "name": "GOLD\uff06TURQUOISE",
+      "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
+    },
+    {
+      "album": {
         "name": "Gone Bowling",
         "url": "https://open.spotify.com/album/3atYtuKUcOZAdzZ61Tu00I"
       },
@@ -12474,6 +12532,32 @@
       "duration_ms": 253747,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
+    },
+    {
+      "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/5PZxy3nda4ovq2PSIghScn"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        },
+        {
+          "name": "Bryan Carter",
+          "url": "https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ"
+        },
+        {
+          "name": "Dan Chmielinski",
+          "url": "https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293440,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/5a46JMV8g83BbMwkPenrBN"
     },
     {
       "album": {
@@ -15388,7 +15472,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 355684,
       "name": "Libra (South Node) [feat. Makaya McCraven & Corey Fonville]",
       "url": "https://open.spotify.com/track/6xvnoKcTzjBgVqYmEbIaXy"
@@ -21244,7 +21328,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 290693,
       "name": "Planet Nine",
       "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
@@ -23604,6 +23688,36 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2jcC7PjxJd0jhJbv3AKxnk"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215211,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7cJ0b6aCCFHd1GknFgazIF"
     },
     {
       "album": {
@@ -27649,6 +27763,24 @@
     },
     {
       "album": {
+        "name": "Composers Collective: Beyond The Jukebox",
+        "url": "https://open.spotify.com/album/1CK1mfq11ZVb2ILzQ82tcl"
+      },
+      "artists": [
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219830,
+      "name": "The Cool (Constantly Opperating On Love)",
+      "url": "https://open.spotify.com/track/6ILjgccPqtpAizFpj4k8da"
+    },
+    {
+      "album": {
         "name": "The Curse (Blood Of An Innocent Is Spilled)",
         "url": "https://open.spotify.com/album/2akUx9HJDFGKPItt6UbZ5D"
       },
@@ -27660,7 +27792,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 409974,
       "name": "The Curse - Blood Of An Innocent Is Spilled",
       "url": "https://open.spotify.com/track/6h1q6I4YFD201MIqEVyUbd"
@@ -28653,6 +28785,24 @@
     },
     {
       "album": {
+        "name": "The Bird Of A Thousand Voices",
+        "url": "https://open.spotify.com/album/4UnelVCThASbUfwNKPFqCa"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271911,
+      "name": "The Quest Begins",
+      "url": "https://open.spotify.com/track/3pbRUWgefMDCVY0DBFoNkK"
+    },
+    {
+      "album": {
         "name": "The Rainbow Waters",
         "url": "https://open.spotify.com/album/3XGw1v1CgikUf27d5zntFb"
       },
@@ -28778,6 +28928,24 @@
       "duration_ms": 302960,
       "name": "The Seer",
       "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+    },
+    {
+      "album": {
+        "name": "The Smile of Rita",
+        "url": "https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "The Smile of Rita",
+      "url": "https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20"
     },
     {
       "album": {
@@ -29720,7 +29888,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 315386,
       "name": "Tomorrow's Another Day",
       "url": "https://open.spotify.com/track/6dRCnD9DGXTqlIsgjyz3wf"

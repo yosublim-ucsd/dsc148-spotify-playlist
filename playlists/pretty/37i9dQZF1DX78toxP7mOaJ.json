@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Chubby and the Gang",
-  "num_followers": 150113,
+  "num_followers": 150147,
   "original_name": "Fresh Finds Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs6gwAAAAAAdXaFGtf7R95tK0xGhaGdU",
+  "snapshot_id": "ZtFJdgAAAADkI1atDVX8c5fLHWYbdjwh",
   "tracks": [
     {
       "added_at": "2024-08-28 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-08-28 04:00:00",
       "album": {
-        "name": "Make Your Bed",
-        "url": "https://open.spotify.com/album/2p4qWhERaC6CbqT14upXQ2"
-      },
-      "artists": [
-        {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/2102wVVks8Z901vPMjXI3Q"
-        }
-      ],
-      "duration_ms": 190281,
-      "name": "Make Your Bed",
-      "url": "https://open.spotify.com/track/1AJljHW6pDZanEe8iE4QKP"
-    },
-    {
-      "added_at": "2024-08-28 04:00:00",
-      "album": {
         "name": "Love On The Outside",
         "url": "https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7"
       },
@@ -135,6 +119,38 @@
       "duration_ms": 238773,
       "name": "Love On The Outside",
       "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
+    },
+    {
+      "added_at": "2024-08-30 04:24:22",
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/7aQKEVWPirHcC1FpW4v3QP"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3CCYvwjeUJqM29jdM7c6Qa"
+    },
+    {
+      "added_at": "2024-08-28 04:00:00",
+      "album": {
+        "name": "Make Your Bed",
+        "url": "https://open.spotify.com/album/2p4qWhERaC6CbqT14upXQ2"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/2102wVVks8Z901vPMjXI3Q"
+        }
+      ],
+      "duration_ms": 190281,
+      "name": "Make Your Bed",
+      "url": "https://open.spotify.com/track/1AJljHW6pDZanEe8iE4QKP"
     },
     {
       "added_at": "2024-08-28 04:00:00",
@@ -231,6 +247,22 @@
       "duration_ms": 200449,
       "name": "Price On Fun",
       "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
+    },
+    {
+      "added_at": "2024-08-30 04:24:22",
+      "album": {
+        "name": "break//neck",
+        "url": "https://open.spotify.com/album/6zNAnXWHWkgyOStztVX9kV"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "duration_ms": 208982,
+      "name": "in my blood",
+      "url": "https://open.spotify.com/track/6UCtr0AtfQz1F911AFgbI6"
     },
     {
       "added_at": "2024-08-28 04:00:00",
@@ -615,6 +647,22 @@
       "duration_ms": 217762,
       "name": "Bishop",
       "url": "https://open.spotify.com/track/6iScOeNCXNDviwf8wGVBMA"
+    },
+    {
+      "added_at": "2024-08-30 04:24:22",
+      "album": {
+        "name": "NO",
+        "url": "https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "NO",
+      "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
     },
     {
       "added_at": "2024-08-28 04:00:00",

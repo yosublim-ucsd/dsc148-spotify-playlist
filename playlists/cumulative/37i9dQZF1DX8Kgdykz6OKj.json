@@ -393,7 +393,7 @@
     },
     {
       "album": {
-        "name": "Still Nothing Still (Deluxe)",
+        "name": "Still Nothing Still - Deluxe",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
       "artists": [
@@ -404,6 +404,10 @@
         {
           "name": "Slim.",
           "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
         }
       ],
       "date_added": "2024-07-18",
@@ -3311,6 +3315,32 @@
     },
     {
       "album": {
+        "name": "Gilgamesh",
+        "url": "https://open.spotify.com/album/3VAilypndl6FcUryyLqA9I"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "JamalThaDon",
+          "url": "https://open.spotify.com/artist/1Q0QdXJBUgXIykD8ZuKXwB"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144805,
+      "name": "Gilgamesh",
+      "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
+    },
+    {
+      "album": {
         "name": "gin and wine (ginuwine)",
         "url": "https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0"
       },
@@ -5054,7 +5084,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 126839,
       "name": "Low",
       "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
@@ -7762,7 +7792,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200775,
       "name": "Super Rare (feat. Hello O'Shay)",
       "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
@@ -8514,6 +8544,32 @@
       "duration_ms": 141254,
       "name": "TMI",
       "url": "https://open.spotify.com/track/3gLlJykJzLrR8VH1opcFIr"
+    },
+    {
+      "album": {
+        "name": "Ravenite Social Club",
+        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emi Secrest",
+          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236873,
+      "name": "To You (feat. Robert Glasper, Emi Secrest)",
+      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
     },
     {
       "album": {

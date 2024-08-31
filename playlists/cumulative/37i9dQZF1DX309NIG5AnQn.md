@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 RYAN
+> rock alternativo argentino\. <br/>📷 Riel
 
-231 songs - 13 hr 10 min
+232 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 | 2023-12-01 |  |
 | [Casa](https://open.spotify.com/track/1xsVmjvuPgRGBR3beitH1q) | [Bosque Distopico](https://open.spotify.com/artist/5b7YW8oH41qs5ZMuSJeXQk), [Fede Distopico](https://open.spotify.com/artist/2cr1OQebP3TK8QWW3uVmNT), [Alilen](https://open.spotify.com/artist/5u7zkp9mba6XRa1YcPLDkH) | [Casa](https://open.spotify.com/album/5OUlO3NgOSS4xSPdyr1eza) | 3:44 | 2022-03-25 | 2023-03-25 |
 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 | 2023-03-23 | 2024-05-17 |
-| [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 | 2023-03-23 |  |
+| [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 | 2023-03-23 | 2024-08-31 |
 | [Ceremonia](https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld) | [Pretoria](https://open.spotify.com/artist/0EPYCIPQkhMLuUM9Iqe7B5) | [Ceremonia](https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J) | 3:14 | 2023-10-06 |  |
 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 | 2023-08-25 |  |
 | [Chica Gotika](https://open.spotify.com/track/0MynUbI9KGEvoecr3PhhnI) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Puro Teatro](https://open.spotify.com/album/7CYF8sAeY2U0q6OkVocWNX) | 3:07 | 2023-12-15 | 2024-04-19 |
@@ -155,6 +155,7 @@
 | [Nadie va a decidir por vos](https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 3:41 | 2023-07-28 |  |
 | [Natalia Dice](https://open.spotify.com/track/4Lg1a3ptSavkUgjV5nwBIC) | [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0), [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ) | [Natalia Dice](https://open.spotify.com/album/4KKMxWPrXOZauEAQUKpo0A) | 4:11 | 2023-03-23 | 2023-10-21 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-03-25 |  |
+| [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 | 2024-08-30 |  |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 |  |
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-03-25 | 2024-07-13 |

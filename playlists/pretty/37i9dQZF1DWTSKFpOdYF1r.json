@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 1837400,
+  "num_followers": 1837590,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
     },
     {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "La Folie",
+        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Golden Brown",
+      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
       "added_at": "2024-03-18 22:21:44",
       "album": {
         "name": "The Moon and the Melodies",
@@ -243,22 +259,6 @@
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "La Folie",
-        "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Golden Brown",
-      "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
       "added_at": "2022-11-17 20:08:09",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-17 20:08:09",
       "album": {
-        "name": "Alternative 80's",
-        "url": "https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 302520,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/7fRPW34qS6KkZpMY4iBrJJ"
-    },
-    {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Grace Jones",
         "url": "https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 282600,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Alternative 80's",
+        "url": "https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 302520,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/7fRPW34qS6KkZpMY4iBrJJ"
     },
     {
       "added_at": "2022-11-17 20:08:09",

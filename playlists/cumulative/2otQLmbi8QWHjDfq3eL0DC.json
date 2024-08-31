@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175708,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "Fractures",
+        "url": "https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Fractures",
+      "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
+    },
+    {
+      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/5S7PRkuOzgc2K8Ujyaopwy"
       },
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156498,
       "name": "Mind Still (feat. blythe)",
       "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
@@ -3330,6 +3352,24 @@
       "duration_ms": 171984,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182143,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ"
     },
     {
       "album": {
@@ -4814,6 +4854,24 @@
       "duration_ms": 166597,
       "name": "What You've Done To Me (feat. Bemend\u00e9)",
       "url": "https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv"
+    },
+    {
+      "album": {
+        "name": "What's A Girl To Do",
+        "url": "https://open.spotify.com/album/1hd7Vh5v5by9oGT4sFmnVC"
+      },
+      "artists": [
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "What's A Girl To Do",
+      "url": "https://open.spotify.com/track/5o4zD3SATxUoVeK0gb9nIa"
     },
     {
       "album": {

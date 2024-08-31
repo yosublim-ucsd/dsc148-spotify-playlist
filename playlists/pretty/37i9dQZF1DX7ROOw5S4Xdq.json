@@ -1,15 +1,47 @@
 {
-  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Fernandinho, Gabriela Rocha",
-  "num_followers": 264689,
+  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Aline Barros",
+  "num_followers": 264728,
   "original_name": "Novidades Religiosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsf7bAAAAADlvpRnZVpyruOA72qV0HRx",
+  "snapshot_id": "ZtE17AAAAAAAyeufeRjGkkMZDDI93INg",
   "tracks": [
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
       "album": {
         "name": "\u00danico - Ac\u00fastico",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
@@ -29,7 +61,31 @@
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Abra\u00e7a-me - Ao Vivo",
+        "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
+      },
+      "artists": [
+        {
+          "name": "BRASAS",
+          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 652307,
+      "name": "Abra\u00e7a-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
       "album": {
         "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
         "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
@@ -45,7 +101,219 @@
       "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Salmo 23: O Bom Pastor",
+        "url": "https://open.spotify.com/album/2t4hdrx2AMs9fChhKZmhQU"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 378099,
+      "name": "Salmo 23: O Bom Pastor",
+      "url": "https://open.spotify.com/track/1VkDc1gfZsk106oK9LtBb6"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Declare O Nome Dele",
+        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
+      },
+      "artists": [
+        {
+          "name": "Thuanny Carvalho",
+          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
+        }
+      ],
+      "duration_ms": 240887,
+      "name": "Declare o Nome Dele",
+      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Quem \u00c9 Como Tu, Senhor?",
+        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 331061,
+      "name": "Quem \u00c9 Como Tu, Senhor?",
+      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "\u00c9 Sobre Ele - Ao Vivo",
+        "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 519392,
+      "name": "Mist\u00e9rio Da Cria\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ndMOeoYBFDegmMheirZcr"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Meu Salvador",
+        "url": "https://open.spotify.com/album/2DMiZo5e6MZpaN1dS296gI"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Avivah",
+          "url": "https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9"
+        }
+      ],
+      "duration_ms": 282413,
+      "name": "Meu Salvador",
+      "url": "https://open.spotify.com/track/09HGCtltVGwnkgBXY7TX1N"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Santo Pra Sempre",
+        "url": "https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Atitude",
+          "url": "https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4"
+        }
+      ],
+      "duration_ms": 309166,
+      "name": "Santo Pra Sempre",
+      "url": "https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Santo pra Sempre - Ao Vivo",
+        "url": "https://open.spotify.com/album/2eWot6E3qGD6QXEgG5Er2K"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Santo pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/08bVJWKa4zjKSRIPvvuAxI"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Reacende a Chama - Ao Vivo",
+        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 477994,
+      "name": "Reacende a Chama - Ao Vivo",
+      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Ele N\u00e3o Se Esquece - Ao Vivo",
+        "url": "https://open.spotify.com/album/3ntcZXPwZzpTUwOe0vRNBs"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        }
+      ],
+      "duration_ms": 374539,
+      "name": "Ele N\u00e3o Se Esquece - Ao Vivo",
+      "url": "https://open.spotify.com/track/2sjtFZxsGIDkatkKR61QPA"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Mil Hist\u00f3rias",
+        "url": "https://open.spotify.com/album/3pZ2uN8twyrPIwmpnI63TI"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 243205,
+      "name": "Mil Hist\u00f3rias",
+      "url": "https://open.spotify.com/track/0zO2RmzpJmjKP2Wmr8ptfN"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6R8NTbSxAwvlIuGx1WIZtt"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        }
+      ],
+      "duration_ms": 277087,
+      "name": "Tua Presen\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6z5qIFmSaW3LX8oYq0Ixjw"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "No Arraial dos Santos - Ao Vivo",
+        "url": "https://open.spotify.com/album/25aFcbPUSsYM0i4pPs4FxD"
+      },
+      "artists": [
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "No Arraial dos Santos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2L3UlmQHXTa1YG17dQ8U1G"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
       "album": {
         "name": "De Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
@@ -65,67 +333,7 @@
       "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Tetelestai - Ao Vivo",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 523386,
-      "name": "Can\u00e7\u00e3o de Paulo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Merecedor da Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/685P0MAJpj5RjRDpAGSstK"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 378498,
-      "name": "Merecedor da Gl\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6KrMGcI7P8lZIGMlqYeJC9"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Comprou",
-        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
-      },
-      "artists": [
-        {
-          "name": "William Augusto",
-          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "Comprou",
-      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
         "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome - Ao Vivo",
         "url": "https://open.spotify.com/album/63YHw72apN2b7cQ67H520u"
@@ -161,7 +369,39 @@
       "url": "https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "A S\u00f3s Com o Pai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "A S\u00f3s Com o Pai (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Ele Pode Fazer",
+        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
+      },
+      "artists": [
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "duration_ms": 150510,
+      "name": "Ele Pode Fazer",
+      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
       "album": {
         "name": "Fidelidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
@@ -181,808 +421,488 @@
       "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Se Eu N\u00e3o Te Ouvir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7q77ETL1tlmUk88UMzJWhJ"
+        "name": "Apaziguadora",
+        "url": "https://open.spotify.com/album/2LWBKcrBO8IZwIzovemTNC"
       },
       "artists": [
         {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        }
-      ],
-      "duration_ms": 389520,
-      "name": "Se Eu N\u00e3o Te Ouvir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1zyzcVyPYVc5alVtFBrqsr"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "\u00c9 Ele",
-        "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
-      },
-      "artists": [
-        {
-          "name": "Drops INA",
-          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
-        }
-      ],
-      "duration_ms": 495857,
-      "name": "\u00c9 Ele",
-      "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Reacende a Chama - Ao Vivo",
-        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 477994,
-      "name": "Reacende a Chama - Ao Vivo",
-      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Peregrino - Ao Vivo",
-        "url": "https://open.spotify.com/album/64zqkTephEX4jHKBKAgEHn"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 438271,
-      "name": "Palavras de Vida Eterna - Ao Vivo",
-      "url": "https://open.spotify.com/track/68nS4TnzyrYl4O4odm99Ii"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Deus Vai Fazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t1bV9L1muP7EPSE6t2FwK"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+          "name": "Roberta Lopes",
+          "url": "https://open.spotify.com/artist/51Sx9DgsOhs2JksnBrLvM1"
         },
         {
-          "name": "Lu\u00e3 Freitas",
-          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
+          "name": "Rayanne Vanessa",
+          "url": "https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY"
         }
       ],
-      "duration_ms": 291984,
-      "name": "Deus Vai Fazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ryvrCwBVC4UQ45JdPc4pn"
+      "duration_ms": 293845,
+      "name": "Apaziguadora",
+      "url": "https://open.spotify.com/track/5M6alW6cLYvmGhapB5BOzJ"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Fara\u00f3 ou Deus?",
-        "url": "https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok"
+        "name": "Trabalho Duro - Deluxe",
+        "url": "https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 295530,
-      "name": "Fara\u00f3 ou Deus?",
-      "url": "https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b"
+      "duration_ms": 206786,
+      "name": "Trabalho Duro - Deluxe",
+      "url": "https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Agi6xUND9PMIhi9CJRqwv"
+        "name": "YESHUA",
+        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
       },
       "artists": [
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 381747,
-      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5kxgGsQDEgZDNyPTMIJfeQ"
+      "duration_ms": 160663,
+      "name": "YESHUA",
+      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) - Ao Vivo",
-        "url": "https://open.spotify.com/album/61HP3xXyyixFTYkkfNYOrT"
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
       },
       "artists": [
         {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 455000,
-      "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1QSp8QyEPfSa5UmaFsHIPk"
+      "duration_ms": 204000,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
+        "name": "Voz e Viol\u00e3o - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
         }
       ],
-      "duration_ms": 352037,
-      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
+      "duration_ms": 244917,
+      "name": "Eu Prefiro Adorar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Al\u00e9m do Imposs\u00edvel / Pedro - Ao Vivo",
-        "url": "https://open.spotify.com/album/5uTw6KtalyBvjtWpTmipc0"
+        "name": "Vem Jesus Vem",
+        "url": "https://open.spotify.com/album/6YyIVwCiJ9kJnyUlRTQgrh"
       },
       "artists": [
         {
-          "name": "BRASAS",
-          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
-        },
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        },
-        {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        },
-        {
-          "name": "Mateus Brito",
-          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
-        },
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/1Ep9fDiLZonyJc2zDPHiwl"
         }
       ],
-      "duration_ms": 405031,
-      "name": "Al\u00e9m do Imposs\u00edvel / Pedro - Ao Vivo",
-      "url": "https://open.spotify.com/track/31UMuLeLSIRO1jdri0iOXp"
+      "duration_ms": 296448,
+      "name": "Vem Jesus Vem",
+      "url": "https://open.spotify.com/track/49WsHuhg0Q7Bk6Xknslrve"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Meu Mestre - Ao Vivo",
-        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
+        "name": "Hinos Ccb (Voz & Viol\u00e3o)",
+        "url": "https://open.spotify.com/album/5xvsCatJsLkmBAO9GGqzbg"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Isabela Agustinho",
-          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
+          "name": "Josias Marques",
+          "url": "https://open.spotify.com/artist/411JFiY9AF0BBA7V7BdSGg"
         }
       ],
-      "duration_ms": 286680,
-      "name": "Meu Mestre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
+      "duration_ms": 300418,
+      "name": "Se V\u00f3s Baterdes, Ele Vos Abre",
+      "url": "https://open.spotify.com/track/19smAbcgmDSHlrRLV7wHFy"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Bom Tesouro - Ao Vivo",
-        "url": "https://open.spotify.com/album/6lynbljOappcd2M452kiE1"
+        "name": "Fazem Sorrir",
+        "url": "https://open.spotify.com/album/5AAX88LLN9KO449A7qrW8P"
       },
       "artists": [
         {
-          "name": "Mateus Brito",
-          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Marcelo Daimom",
+          "url": "https://open.spotify.com/artist/4HdeOFiFXyoPQ0LmQd3Pb9"
         }
       ],
-      "duration_ms": 634674,
-      "name": "Bom Tesouro - Ao Vivo",
-      "url": "https://open.spotify.com/track/6aPcQK6gKOXWtzWxCab7UR"
+      "duration_ms": 205293,
+      "name": "Fazem Sorrir",
+      "url": "https://open.spotify.com/track/7lnDWgh5lk1yVhXskZN8AB"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
+        "name": "For\u00e7a",
+        "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
         },
         {
-          "name": "Luciano Camargo",
-          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
         }
       ],
-      "duration_ms": 235579,
-      "name": "Sem Palavras",
-      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
+      "duration_ms": 240704,
+      "name": "For\u00e7a",
+      "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Digno \u00c9 o Cordeiro - Ao Vivo",
-        "url": "https://open.spotify.com/album/0WxRxi8OXotE4gyNKBfTqo"
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
       },
       "artists": [
         {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+          "name": "Temis Handeri",
+          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
         },
         {
-          "name": "SOM DO C\u00c9U",
-          "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
-        },
-        {
-          "name": "Thiago Henrique",
-          "url": "https://open.spotify.com/artist/0H9veqw07CRbB2FPIGAqKY"
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
         }
       ],
-      "duration_ms": 572814,
-      "name": "Digno \u00c9 o Cordeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/3sCeJIZ0xpg1XoEGL2s4Eg"
+      "duration_ms": 223200,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "O Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         },
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         }
       ],
-      "duration_ms": 426022,
-      "name": "O Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
+      "duration_ms": 199115,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Tu \u00c9s Deus",
-        "url": "https://open.spotify.com/album/2ogimrlpNGCZNwgI50KU3H"
+        "name": "Deus no Comando",
+        "url": "https://open.spotify.com/album/1Fiuk49zox8lTV0AvzDonK"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 344274,
-      "name": "Tu \u00c9s Deus",
-      "url": "https://open.spotify.com/track/195MJ59AGtQaFB5gLTMXpY"
+      "duration_ms": 376373,
+      "name": "Deus no Comando",
+      "url": "https://open.spotify.com/track/6OVEnAaRDohHrS7cGUM7jl"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Jesus Fake",
-        "url": "https://open.spotify.com/album/0OvuNJE15NStjeeUA070Pw"
+        "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve - Ao Vivo",
+        "url": "https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA"
       },
       "artists": [
         {
-          "name": "Azorap",
-          "url": "https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE"
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Extraordin\u00e1ria Vida",
+        "url": "https://open.spotify.com/album/3HOTR2vRrD60ix9NUxvB7M"
+      },
+      "artists": [
+        {
+          "name": "Guilherme de S\u00e1",
+          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Extraordin\u00e1ria Vida",
+      "url": "https://open.spotify.com/track/00k1sPdID07uvD3x92gJ0S"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "R&V - Prel\u00fadio",
+        "url": "https://open.spotify.com/album/0JPVBsKAA00j2gnCBQhDT8"
+      },
+      "artists": [
+        {
+          "name": "Moskitto",
+          "url": "https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM"
         },
         {
-          "name": "Pray Sessions",
-          "url": "https://open.spotify.com/artist/2OhgPOkA10riBZX8WvPSWN"
+          "name": "N\u00f3izProd",
+          "url": "https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ"
         }
       ],
-      "duration_ms": 186857,
-      "name": "Jesus Fake",
-      "url": "https://open.spotify.com/track/04efWvvvjC26BGe6GmoaAh"
+      "duration_ms": 153706,
+      "name": "Essas Ruas",
+      "url": "https://open.spotify.com/track/45q0aUHFCg0kn1hieW2nGN"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Recome\u00e7ar - Ao Vivo",
-        "url": "https://open.spotify.com/album/5LiqdlvVprgSNJslc878QQ"
+        "name": "Hard Rock",
+        "url": "https://open.spotify.com/album/4Z2syJVMikkl5lvT3Q5UJB"
       },
       "artists": [
         {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
         },
         {
-          "name": "Thanise Bittencourt",
-          "url": "https://open.spotify.com/artist/0YzJ06OIsg2qSkxhA3Dz3d"
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
         },
         {
-          "name": "Lenise Antunes",
-          "url": "https://open.spotify.com/artist/0VgP96YYPCydfHYMWxP5qs"
+          "name": "Vitiim",
+          "url": "https://open.spotify.com/artist/3XVYRFVQxx2RGQEgLTTWIt"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "HARD ROCK",
+      "url": "https://open.spotify.com/track/3bS9A48v94gHwNhdejVjLH"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/17rYM9pmVBKf1u1VnYicE6"
+      },
+      "artists": [
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        }
+      ],
+      "duration_ms": 285077,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/212jD1w040TAstY9MhA0Is"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Quem \u00c9 Esse?",
+        "url": "https://open.spotify.com/album/3Vz723nob3moCMcdxsT8im"
+      },
+      "artists": [
+        {
+          "name": "Deivison Pires",
+          "url": "https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT"
+        }
+      ],
+      "duration_ms": 344167,
+      "name": "Quem \u00c9 Esse?",
+      "url": "https://open.spotify.com/track/7ERHtyOmJsntKCmsI6YDog"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Nossa Hist\u00f3ria, Pt. 1",
+        "url": "https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE"
+      },
+      "artists": [
+        {
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+        }
+      ],
+      "duration_ms": 327980,
+      "name": "Ficar Aqui",
+      "url": "https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "O Autor",
+        "url": "https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr"
+      },
+      "artists": [
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         },
         {
-          "name": "Adriene Nachtigal",
-          "url": "https://open.spotify.com/artist/3SThgfykyOnxGBuMeuMMT2"
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
         },
         {
-          "name": "Mari Marques",
-          "url": "https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS"
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "O Autor",
+      "url": "https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Ningu\u00e9m Move O Meu Cora\u00e7\u00e3o Como Tu",
+        "url": "https://open.spotify.com/album/64S0ry4JNyBopl7OmwrdSf"
+      },
+      "artists": [
+        {
+          "name": "Lissa Subira",
+          "url": "https://open.spotify.com/artist/6xr6rAsOspJmI2xwc2oTWi"
+        }
+      ],
+      "duration_ms": 197525,
+      "name": "Ningu\u00e9m Move O Meu Cora\u00e7\u00e3o Como Tu",
+      "url": "https://open.spotify.com/track/2rG2f3DlZu2Gz3Ckvjmqxd"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Momento Solene - Vol 1 - Ao Vivo",
+        "url": "https://open.spotify.com/album/2lJ8G5FVkvDpKCd2Xi5OTD"
+      },
+      "artists": [
+        {
+          "name": "Momento Solene",
+          "url": "https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu"
         },
         {
-          "name": "Ventania",
-          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
-        }
-      ],
-      "duration_ms": 342958,
-      "name": "Recome\u00e7ar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0NxvDIWLIwXx1UEoGrHt8k"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/25vPkphoNAFgmtmxXL7PEg"
-      },
-      "artists": [
-        {
-          "name": "Fruto Sagrado",
-          "url": "https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/1mwMkxAJgejJLyj8bCw8gF"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Mais um Pouco - Ao Vivo",
-        "url": "https://open.spotify.com/album/7cKbrIWosQ3qG7eML0GVvv"
-      },
-      "artists": [
-        {
-          "name": "Luz e Rimas",
-          "url": "https://open.spotify.com/artist/34Br7WboPz9AzTDm6bDUlS"
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
         },
         {
-          "name": "Natan Camacho",
-          "url": "https://open.spotify.com/artist/0svJJAh3gxTHGhSYccQHC3"
+          "name": "Juliana Kontopp",
+          "url": "https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J"
         }
       ],
-      "duration_ms": 270813,
-      "name": "Mais um Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/76lP6fiSEYkgXFCzcDFRWL"
+      "duration_ms": 510489,
+      "name": "\u00c1guas Purificadoras - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Raz\u00e3o da Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X"
+        "name": "Seu Futuro",
+        "url": "https://open.spotify.com/album/2jMoFRSkyAf1Hrny077S9k"
       },
       "artists": [
         {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+          "name": "Larissa Santos",
+          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
         }
       ],
-      "duration_ms": 346615,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn"
+      "duration_ms": 236000,
+      "name": "Seu Futuro",
+      "url": "https://open.spotify.com/track/0OSd04pAUlIh9bUSy3S3Xf"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Desperta (Remix)",
-        "url": "https://open.spotify.com/album/1PUbuVcAIuocAgrXlAFI7h"
+        "name": "Com Todo o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6fvXOqAQioXM4bd9bXlL0p"
       },
       "artists": [
         {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+          "name": "Gabriel Augusto",
+          "url": "https://open.spotify.com/artist/2iT2dmgN9pTmp2SjDNq8W4"
         },
         {
-          "name": "Guilherme Miranda",
-          "url": "https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e"
+          "name": "The Bow",
+          "url": "https://open.spotify.com/artist/0OyVH43ZIQCUccx0wnNeJh"
         }
       ],
-      "duration_ms": 211889,
-      "name": "Desperta (Remix)",
-      "url": "https://open.spotify.com/track/7oX5fSUMxkJ6y0Hjdrqz1m"
+      "duration_ms": 571852,
+      "name": "Com Todo o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5okKRn4lwwe7CVBuSTyKSv"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Meu Farol (Remix)",
-        "url": "https://open.spotify.com/album/01xkXAQz43GU8NrwpmD3zC"
+        "name": "Nada Mais - Acoustic Session",
+        "url": "https://open.spotify.com/album/3300se5x0F3hMrM7Z7Bzgc"
       },
       "artists": [
         {
-          "name": "Behort",
-          "url": "https://open.spotify.com/artist/42eQbDm9tpxUg9LwM2opns"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Ana Regadas",
+          "url": "https://open.spotify.com/artist/2FuIiUFzDZ38DbkwOQEvhK"
         }
       ],
-      "duration_ms": 181935,
-      "name": "Meu Farol (Remix)",
-      "url": "https://open.spotify.com/track/5fx6wBfFtNxqboFFAWabpR"
+      "duration_ms": 224000,
+      "name": "Nada Mais - Acoustic Session",
+      "url": "https://open.spotify.com/track/0r1l18uXpBUUdhKjs4rlwS"
     },
     {
-      "added_at": "2024-08-23 03:01:00",
+      "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Medley Corinhos de Fogo - Ao Vivo",
-        "url": "https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH"
+        "name": "Tudo \u00e9 Pra Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/0OVtTBp3PBLNjLr5ZcwODx"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        },
-        {
-          "name": "Jedson Aguiar",
-          "url": "https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg"
+          "name": "Nakamine",
+          "url": "https://open.spotify.com/artist/7BcgxtAXiLYjGQt9ibTHTp"
         }
       ],
-      "duration_ms": 164247,
-      "name": "Medley Corinhos de Fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "3 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6IFtlSnypMsNhA4X0iZCCZ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "3 da Manh\u00e3",
-      "url": "https://open.spotify.com/track/3WO1XTzR27BtLuy8fTtmsw"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/0k6sI5bweefhpEAnNuxOOK"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        }
-      ],
-      "duration_ms": 393246,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/6SBGHr8iHRNVJA05vm7H14"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        },
-        {
-          "name": "Benjamim Silva",
-          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
-        }
-      ],
-      "duration_ms": 159825,
-      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/0XxBjLp83OHzOHBlcPt7zj"
-      },
-      "artists": [
-        {
-          "name": "Deborah Aparecida",
-          "url": "https://open.spotify.com/artist/4UWcARjZ1YKKHSMdTLWmhJ"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 241707,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/4UgVIgABVLhUQ6dtVNTvLw"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Tu \u00c9s Poderoso",
-        "url": "https://open.spotify.com/album/746qfQYZKHaPpQd7bTUpZE"
-      },
-      "artists": [
-        {
-          "name": "Jeyzer Maia",
-          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
-        },
-        {
-          "name": "Thiago Bernardes",
-          "url": "https://open.spotify.com/artist/3sIMgz66gTZWbCsUw2tJK2"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "Tu \u00c9s Poderoso",
-      "url": "https://open.spotify.com/track/5FYhfVl7hkVyQfJdXzxSBR"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Relembrando Can\u00e7\u00f5es, Vol. 01",
-        "url": "https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 220661,
-      "name": "Abandono",
-      "url": "https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZFDMGShjSNZhL0iRBd8vt"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 298421,
-      "name": "Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2L7BFL0xzrlCibeINvuyki"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Dizemos Sim - Ao Vivo",
-        "url": "https://open.spotify.com/album/0voOyKQDS12IaRf1Sahvcv"
-      },
-      "artists": [
-        {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Juliana Domingues",
-          "url": "https://open.spotify.com/artist/6bapqg8rFSTjsP7kuPI0tj"
-        },
-        {
-          "name": "Bruno Alves",
-          "url": "https://open.spotify.com/artist/4IvS8wAt7VjB6IIPDS6psH"
-        }
-      ],
-      "duration_ms": 683786,
-      "name": "Dizemos Sim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4TOaw7l5lbNrjaMIEg0Bz5"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Santo Pra Sempre",
-        "url": "https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Atitude",
-          "url": "https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4"
-        }
-      ],
-      "duration_ms": 309166,
-      "name": "Santo Pra Sempre",
-      "url": "https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "A Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5FUoEvL5rUuUhwmbT6XS3C"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        }
-      ],
-      "duration_ms": 288906,
-      "name": "A Tua Presen\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0pNtjmYSV97FPxfhnj12Jp"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Morar no C\u00e9u",
-        "url": "https://open.spotify.com/album/4AkRuYbJodkS47FEOdaTq3"
-      },
-      "artists": [
-        {
-          "name": "Dinamite Barros",
-          "url": "https://open.spotify.com/artist/6Q8pJ7gNmi8DGEB2u7FNSE"
-        }
-      ],
-      "duration_ms": 218492,
-      "name": "Morar no C\u00e9u",
-      "url": "https://open.spotify.com/track/3PWT81QLddzsW1eyhSkMgC"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Cl\u00e1ssicos: Voz e Piano Vol. 1",
-        "url": "https://open.spotify.com/album/5bkcxOaeSW0zRiqMxmu5di"
-      },
-      "artists": [
-        {
-          "name": "Louvor Maranata",
-          "url": "https://open.spotify.com/artist/5moCGXzAAGnH7DAPC0MsRp"
-        },
-        {
-          "name": "Warley Kaizer",
-          "url": "https://open.spotify.com/artist/3iFudylcZloaxmQFfLKyqs"
-        },
-        {
-          "name": "Petr\u00f4nio Junior",
-          "url": "https://open.spotify.com/artist/30O98x89jL44T0kqghCWpH"
-        }
-      ],
-      "duration_ms": 279823,
-      "name": "Nas M\u00e3os de Cristo",
-      "url": "https://open.spotify.com/track/66Iy5DpTjEf84C0oaxSsfM"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Vida Boa",
-        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
-      },
-      "artists": [
-        {
-          "name": "Marllon Ribeiro",
-          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
-        }
-      ],
-      "duration_ms": 283947,
-      "name": "Vida Boa",
-      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Declare O Nome Dele",
-        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
-      },
-      "artists": [
-        {
-          "name": "Thuanny Carvalho",
-          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
-        }
-      ],
-      "duration_ms": 240887,
-      "name": "Declare o Nome Dele",
-      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Dima",
-          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
-        }
-      ],
-      "duration_ms": 200405,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
-      },
-      "artists": [
-        {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
-        },
-        {
-          "name": "Ty Fig",
-          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Firme",
-      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Lembrete",
-        "url": "https://open.spotify.com/album/5hYQKqUWC84xzmocuTdVC4"
-      },
-      "artists": [
-        {
-          "name": "Wesley Auggusto",
-          "url": "https://open.spotify.com/artist/0Tb8nFbOTdzvLgjH5EbeCd"
-        },
-        {
-          "name": "Carine Pin",
-          "url": "https://open.spotify.com/artist/0Xt3rE3zHOJCULgUJ0f98j"
-        },
-        {
-          "name": "EURRITMIA",
-          "url": "https://open.spotify.com/artist/6hJGAFT3bWQXFblgRtJVgT"
-        }
-      ],
-      "duration_ms": 238548,
-      "name": "Lembrete",
-      "url": "https://open.spotify.com/track/61tMb3MpRfFvzZ0cw57Umi"
+      "duration_ms": 397792,
+      "name": "Tudo \u00e9 Pra Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/44rtZYx5546MAtRvaKxzXk"
     }
   ],
   "unique_name": "Novidades Religiosas",

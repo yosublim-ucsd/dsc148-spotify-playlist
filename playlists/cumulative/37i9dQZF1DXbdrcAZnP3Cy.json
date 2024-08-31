@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-13",
-  "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
+  "description": "Your favorite Mexican anthems to get the party started! ",
   "name": "Mexican Party Anthems",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 215693,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5a8mxYdCPqyxg5IoRMMklp"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160986,
       "name": "El Shot",
       "url": "https://open.spotify.com/track/050LR97VqIBFqQ57IJUyHY"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 193453,
       "name": "Int\u00e9ntalo",
       "url": "https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 148693,
       "name": "La Fiesta en Acci\u00f3n",
       "url": "https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191200,
       "name": "La Quebradora",
       "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223160,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 134050,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241452,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225906,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/3fbALzbCtA459yOAJ2FChx"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 180080,
       "name": "\u00bfPor Qu\u00e9 Terminamos?",
       "url": "https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh"

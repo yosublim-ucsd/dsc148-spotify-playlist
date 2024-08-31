@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: Nameless Kids",
-  "name": "Pinoy Indie Mix",
+  "description": "pinoy alternative music . Cover: ONE CLICK STRAIGHT",
+  "name": "alt.ph",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "711",
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 285489,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY"
@@ -460,6 +460,24 @@
       "duration_ms": 203720,
       "name": "ECHOES",
       "url": "https://open.spotify.com/track/6E4NPIdGunpKm015u5KPyC"
+    },
+    {
+      "album": {
+        "name": "Whatever That Was",
+        "url": "https://open.spotify.com/album/2uyyArQ1wjffioF0PemIe4"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Favoritism",
+      "url": "https://open.spotify.com/track/5xpmZgLxGpKmEz3Mphquy3"
     },
     {
       "album": {
@@ -774,7 +792,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 265182,
       "name": "Isip",
       "url": "https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 230368,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/0oKhpGNegABcrCGJacx1rC"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 217384,
       "name": "Maybe I'm Tired",
       "url": "https://open.spotify.com/track/0VitHidyjeTDL2CMqcEz39"
@@ -1174,6 +1192,42 @@
       "duration_ms": 340213,
       "name": "Miscom",
       "url": "https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1"
+    },
+    {
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "album": {
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
       "album": {
@@ -1206,7 +1260,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200567,
       "name": "Nabuang",
       "url": "https://open.spotify.com/track/2nECVQQNx0wAZjaGKBt3qD"
@@ -1444,7 +1498,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 137392,
       "name": "Panoba",
       "url": "https://open.spotify.com/track/4NLqgAJWgHYHMhFrLUw8wg"
@@ -1864,6 +1918,24 @@
       "duration_ms": 225139,
       "name": "Segurista",
       "url": "https://open.spotify.com/track/4urCXTl1AKVnETT8Lh6t4F"
+    },
+    {
+      "album": {
+        "name": "SIGA",
+        "url": "https://open.spotify.com/album/0K22wqjAcKBoQXMa8LtV6H"
+      },
+      "artists": [
+        {
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231993,
+      "name": "SIGA",
+      "url": "https://open.spotify.com/track/1TeuLilP2MQIup1Xd2Me5B"
     },
     {
       "album": {
@@ -2366,7 +2438,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 229333,
       "name": "VIP",
       "url": "https://open.spotify.com/track/5SGgxgsbinITYDcJaOFw59"

@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 223308,
+  "num_followers": 223426,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-08-22 17:01:37",
       "album": {
-        "name": "Friday Nights (efan Remix)",
-        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        },
-        {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
-        }
-      ],
-      "duration_ms": 206571,
-      "name": "Friday Nights (efan Remix)",
-      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
-    },
-    {
-      "added_at": "2024-08-22 17:01:37",
-      "album": {
         "name": "KEEP IT ROLLING",
         "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 199500,
       "name": "KEEP IT ROLLING",
       "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
+    },
+    {
+      "added_at": "2024-08-22 17:01:37",
+      "album": {
+        "name": "Friday Nights (efan Remix)",
+        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "duration_ms": 206571,
+      "name": "Friday Nights (efan Remix)",
+      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
     },
     {
       "added_at": "2024-08-22 17:01:37",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-08-22 17:01:37",
       "album": {
-        "name": "Haters",
-        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "Haters",
-      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
-    },
-    {
-      "added_at": "2024-08-22 17:01:37",
-      "album": {
         "name": "Affiliation",
         "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
@@ -1359,18 +1343,38 @@
     {
       "added_at": "2024-08-22 17:01:37",
       "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
+        "name": "Haters",
+        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
       },
       "artists": [
         {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
         }
       ],
-      "duration_ms": 188444,
-      "name": "Pyrophobia",
-      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
+      "duration_ms": 178714,
+      "name": "Haters",
+      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
+    },
+    {
+      "added_at": "2024-08-22 17:01:37",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
     }
   ],
   "unique_name": "Bassline Bangers",

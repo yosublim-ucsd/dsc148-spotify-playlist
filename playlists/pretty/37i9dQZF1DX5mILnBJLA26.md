@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=zYAzYADYRYyDogiV2hSiCw">Yuppe</a>, <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=fy5KqVYcSPe09gafCYOybQ">TitoM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,050 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,957 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

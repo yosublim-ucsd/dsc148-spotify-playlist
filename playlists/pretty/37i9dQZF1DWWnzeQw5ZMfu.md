@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,668 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,673 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 18 | [Escapism\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 7:02 |
 | 19 | [Angels](https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live At Knebworth](https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq) | 5:55 |
 | 20 | [god is a woman \- live](https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:33 |
-| 21 | [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 |
-| 22 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
+| 21 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
+| 22 | [Budapest \- Live from Spotify Stockholm](https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Cassy O' \(EP\)](https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x) | 3:29 |
 | 23 | [How Deep Is Your Love \- Live At The MGM Grand](https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [One Night Only](https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX) | 3:54 |
 | 24 | [You Need To Calm Down \- Live From Paris](https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down \(Live From Paris\)](https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra) | 3:23 |
 | 25 | [Just Can't Get Enough \- Live at Rose Bowl, Pasadena, CA \- June 18, 1988](https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101 \(Live\)](https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h) | 4:01 |

@@ -1,6 +1,6 @@
 {
   "description": "Nieuw deze week - Nouveaut\u00e9s de la semaine. Cover: Tijs Vanneste & Metejoor",
-  "num_followers": 35854,
+  "num_followers": 35905,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -340,12 +340,12 @@
           "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
         },
         {
-          "name": "TYM",
-          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
-        },
-        {
           "name": "Nadir",
           "url": "https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
         }
       ],
       "duration_ms": 260980,
@@ -1496,9 +1496,25 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 224605,
+      "duration_ms": 224640,
       "name": "Bending My Rules",
       "url": "https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     }
   ],
   "unique_name": "New Music Friday BE",

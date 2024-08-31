@@ -4,7 +4,7 @@
 
 > Even alleen met de muziek zijn.
 
-57 songs - 3 hr 16 min
+58 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [stones at your window](https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [losing track of time on the train ride home](https://open.spotify.com/album/3F2dUsDsvFzcjvdlIZlevm) | 3:24 | 2024-06-27 |  |
 | [Suddenly](https://open.spotify.com/track/72SCXk45WjDEHZSFjedoxx) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Suddenly](https://open.spotify.com/album/6jdkk8PtJCXpKnaMVeYhZ6) | 2:46 | 2024-06-27 |  |
 | [Teeth](https://open.spotify.com/track/1Nhz0pS00D2bnlNLt0WIBd) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 1:39 | 2024-06-27 |  |
-| [Tell Him I Miss Him](https://open.spotify.com/track/5QGNNWXKQjjdgqM3leFKBt) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Tell Him I Miss Him](https://open.spotify.com/album/1noGVAVcjDz9xJuvY501bF) | 3:43 | 2024-06-27 |  |
+| [Tell Him I Miss Him](https://open.spotify.com/track/5QGNNWXKQjjdgqM3leFKBt) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Tell Him I Miss Him](https://open.spotify.com/album/1noGVAVcjDz9xJuvY501bF) | 3:43 | 2024-06-27 | 2024-08-31 |
+| [The Giant](https://open.spotify.com/track/5Jl6UX6DzT1nf5EiuPdfuk) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [The Giant](https://open.spotify.com/album/60JyYSkfOJB9JlcUl5HNs2) | 8:12 | 2024-08-30 |  |
 | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/track/69qQyuhXYMJLOZPVOAEFaT) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Things That Don’t Exist \(feat\. Zachary Knowles\)](https://open.spotify.com/album/0Z5SZepPMUB2OlzrvTDepR) | 2:48 | 2024-06-27 |  |
 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 | 2024-06-27 |  |
 | [Turn Right](https://open.spotify.com/track/3lnyM5SSjbnz3V7HzdULqy) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [The Epic Tale of the Stranded Man: Expanded Edition](https://open.spotify.com/album/0OUK0k2WX8CceF5Bgd6oCH) | 2:31 | 2024-06-27 |  |

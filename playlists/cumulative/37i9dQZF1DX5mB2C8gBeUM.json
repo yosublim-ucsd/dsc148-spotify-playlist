@@ -7151,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/5jMXH85Eu6SApd6ohbKs2B"
+      },
+      "artists": [
+        {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6FVUNi2FViKoBECQJG1qLJ"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT"
       },

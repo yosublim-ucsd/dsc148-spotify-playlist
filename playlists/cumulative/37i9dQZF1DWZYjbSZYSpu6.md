@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Junggigo, SOYOU\(정기고, 소유\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: TAEYEON, Sam Smith\(태연, 샘 스미스\)\)
 
-239 songs - 14 hr 17 min
+240 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dinner](https://open.spotify.com/track/4I48kLVde5Rwvw8MyloC4A) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Dinner \- SM STATION](https://open.spotify.com/album/34DtbBknXHV8X3w4NLzAx1) | 3:24 | 2024-03-28 |  |
 | [Doesn't make sense \(Feat\. HEIZE\)](https://open.spotify.com/track/6mkOBtJkloqzGVLoVciaCt) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Doesn't make sense \(Feat\. HEIZE\)](https://open.spotify.com/album/1AJHrwXkCoTrcyzxSko7HA) | 5:31 | 2022-03-24 | 2022-07-28 |
 | [Don't Go Home Today\. Talk to Me Again.](https://open.spotify.com/track/7vmIZ6br1M7W1pfXrvtAEp) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Don't Go Home Today\. Talk to Me Again.](https://open.spotify.com/album/47eIY7iFPgKty4hEwWP7j2) | 3:12 | 2022-03-24 | 2022-04-21 |
-| [DON\`T SAY GOODBYE](https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P), [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [DON\`T SAY GOODBYE](https://open.spotify.com/album/0YnAmYmxoerGmn5qCCjFlN) | 3:06 | 2022-04-21 |  |
+| [DON\`T SAY GOODBYE](https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P), [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [DON\`T SAY GOODBYE](https://open.spotify.com/album/0YnAmYmxoerGmn5qCCjFlN) | 3:06 | 2022-04-21 | 2024-08-31 |
 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 | 2022-07-25 | 2024-04-19 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2022-03-24 |  |
 | [Dream Attic](https://open.spotify.com/track/1FQW5ctU2wWoqbSdE6yQNH) | [Monogram](https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC) | [Little Planets](https://open.spotify.com/album/5YsfeS2R8EiYM5HLDreSAB) | 3:18 | 2022-04-21 | 2022-07-27 |
@@ -93,6 +93,7 @@
 | [It's Gonna Be Okay \(with Jo Young Hyun\)](https://open.spotify.com/track/6hdyxl4KsRGJbZHBLzB48T) | [TKNJ](https://open.spotify.com/artist/6huvFAFxwU9XqklbnG2pGF), [조영현](https://open.spotify.com/artist/1mIpkhGlRDQew9unC6VRXi) | [It's Gonna Be Okay \(with Jo Young Hyun\)](https://open.spotify.com/album/1O3vvv2qEAuCjRpjhC0Gin) | 3:32 | 2022-03-24 | 2022-07-13 |
 | [It's Not That I Don't Love You \(Feat\. 유주\)](https://open.spotify.com/track/2clUTcmw9ePMRKWNqzyu3P) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [SOMMELIER](https://open.spotify.com/album/6v13tMTriZUBd6slBqrJ9w) | 3:03 | 2024-03-28 | 2024-05-03 |
 | [IWST \(feat\. Hoody\) \(Prod\. Primary\)](https://open.spotify.com/track/7jLusgqUbcOKTQfCzLR9S3) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [IWST](https://open.spotify.com/album/6NlNKO9PIX6o5diIHspn7X) | 4:08 | 2022-04-21 | 2022-07-22 |
+| [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 | 2024-08-30 |  |
 | [Just Good](https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Just Good](https://open.spotify.com/album/0R0SuB559BvKENJYqZelUS) | 2:36 | 2022-03-24 | 2022-07-29 |
 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 | 2022-03-24 |  |
 | [Lemon \(feat\. Colde\)](https://open.spotify.com/track/0YxrpGXvAX6RsvdwRky6qN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:22 | 2022-03-24 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana
 
-230 songs - 12 hr 10 min
+231 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2023-02-17 |  |
 | [Al Aire](https://open.spotify.com/track/02dsc9B5N8BFatjGcGhk1u) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Al Aire](https://open.spotify.com/album/0lsCYOOfGhVVlB7CiTAnAs) | 2:49 | 2023-02-17 |  |
 | [Amiga Mía \- Spotify Singles](https://open.spotify.com/track/1ErWnacP0i3my6KJn35b6q) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Amiga Mía \- Spotify Singles](https://open.spotify.com/album/1X8nKXgC68X8DBc3YT3VrB) | 3:26 | 2023-02-17 | 2023-04-29 |
-| [Amo Que Respires](https://open.spotify.com/track/0aFlwsjFGlVBs3ez3WVehY) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Amo Que Respires](https://open.spotify.com/album/3HgKRciAyZKUxp0amRQqlD) | 2:23 | 2024-08-09 |  |
+| [Amo Que Respires](https://open.spotify.com/track/0aFlwsjFGlVBs3ez3WVehY) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Amo Que Respires](https://open.spotify.com/album/3HgKRciAyZKUxp0amRQqlD) | 2:23 | 2024-08-09 | 2024-08-31 |
 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-09 | 2023-09-23 |
 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 | 2023-06-30 | 2024-02-17 |
 | [Amor Secreto](https://open.spotify.com/track/7qdmZauyoana6fBNjcyj5O) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Amor Secreto](https://open.spotify.com/album/1Sqa2b8ViiX4nusB4FpNKG) | 3:10 | 2023-02-17 | 2023-05-20 |
@@ -116,6 +116,7 @@
 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 | 2023-02-17 | 2024-04-19 |
 | [Loco](https://open.spotify.com/track/4zAmejUNIsPCWsj5t1lGo4) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/5FaSOHFMF5MaeUUDsq8lLG) | 3:27 | 2024-04-12 | 2024-08-03 |
 | [Locos Dementes](https://open.spotify.com/track/1avccdZyIOpCisznKwu47H) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Locos Dementes](https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8) | 3:35 | 2023-02-17 |  |
+| [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 | 2024-08-30 |  |
 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 | 2024-04-26 |  |
 | [Magia \(feat\. Sebastián Yatra\)](https://open.spotify.com/track/6xAhkN7uE1qdhPa8jZwhTb) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magia \(feat\. Sebastián Yatra\)](https://open.spotify.com/album/0lVfnTGqaUdTWSFjMhsBlT) | 3:12 | 2023-02-17 |  |
 | [Manhattan](https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Manhattan](https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC) | 2:50 | 2024-08-09 |  |

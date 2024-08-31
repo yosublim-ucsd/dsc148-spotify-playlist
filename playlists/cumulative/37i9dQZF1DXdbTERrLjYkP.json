@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
+    },
+    {
+      "album": {
         "name": "are you still here",
         "url": "https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8"
       },
@@ -1349,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Birthday Song",
+        "url": "https://open.spotify.com/album/3ZZlsJFtAzMAZ1xti6HAtB"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263839,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/72neMcbRmFNHmr97Qz8dOw"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas"
       },
@@ -1684,7 +1720,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189280,
       "name": "Built To Be Bad",
       "url": "https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb"
@@ -3958,6 +3994,24 @@
     {
       "album": {
         "name": "Friends",
+        "url": "https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197047,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E"
+    },
+    {
+      "album": {
+        "name": "Friends",
         "url": "https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt"
       },
       "artists": [
@@ -4840,7 +4894,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 141368,
       "name": "Heartbreak In Heaven",
       "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
@@ -7260,7 +7314,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194741,
       "name": "Losing By A Landslide",
       "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"

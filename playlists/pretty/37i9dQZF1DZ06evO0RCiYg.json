@@ -1,12 +1,12 @@
 {
   "description": "This Is Black Eyed Peas. Los temas esenciales, todos en una lista.",
-  "num_followers": 493526,
+  "num_followers": 493757,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAC03wdih+ahOsz063bDELdN",
+  "snapshot_id": "Zs+6AAAAAACClC/kRxSReNx1XLFjj4cu",
   "tracks": [
     {
       "added_at": null,
@@ -47,7 +47,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
@@ -111,7 +111,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
@@ -259,7 +259,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
@@ -687,7 +687,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
@@ -755,7 +755,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
         "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
       },
       "artists": [
@@ -767,26 +767,6 @@
       "duration_ms": 274546,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4pLMepQdJY7IXkrgRAubSx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "FMIF",
-          "url": "https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "I Gotta Feeling - FMIF Remix; Edit",
-      "url": "https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
       "duration_ms": 230400,
       "name": "TODO BUENO",
       "url": "https://open.spotify.com/track/4FldXs1bcL6WUrpOcENkfD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "FMIF",
+          "url": "https://open.spotify.com/artist/1PwGtc3brzQeXr9D08ff5F"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "I Gotta Feeling - FMIF Remix; Edit",
+      "url": "https://open.spotify.com/track/6HiLX5aXSQekfFTlGdENKc"
     },
     {
       "added_at": null,

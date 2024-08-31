@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Clodelle",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Marie-Pierre Arthur",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 165999,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1pJdV1Whbpj1yCtv68uMua"
+    },
+    {
+      "album": {
+        "name": "Ami imaginaire",
+        "url": "https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258540,
+      "name": "Ami imaginaire",
+      "url": "https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR"
     },
     {
       "album": {
@@ -194,7 +212,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 207403,
       "name": "Chance",
       "url": "https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q"
@@ -274,7 +292,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154838,
       "name": "dans le silence",
       "url": "https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 244200,
       "name": "Le monde est fou",
       "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
@@ -1553,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "tout est cass\u00e9",
+        "url": "https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6"
+      },
+      "artists": [
+        {
+          "name": "benjamiin",
+          "url": "https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123419,
+      "name": "tout est cass\u00e9",
+      "url": "https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB"
+    },
+    {
+      "album": {
         "name": "Quatorze",
         "url": "https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m"
       },
@@ -1694,6 +1730,24 @@
       "duration_ms": 208059,
       "name": "Vol \u00e0 l'\u00e9talage",
       "url": "https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V"
+    },
+    {
+      "album": {
+        "name": "Voler",
+        "url": "https://open.spotify.com/album/1m2dG1nPEixPOa8kAnPhEU"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230706,
+      "name": "Voler",
+      "url": "https://open.spotify.com/track/3eXDWw4syMm0zpacdBW8E6"
     },
     {
       "album": {

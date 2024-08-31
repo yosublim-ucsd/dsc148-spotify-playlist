@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 124500,
       "name": "Afternoon Wind",
       "url": "https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142437,
       "name": "bedroom window",
       "url": "https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3"
@@ -1854,6 +1854,24 @@
       "duration_ms": 123375,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/2XUJwfew9Dym5GGJx9iz3J"
+    },
+    {
+      "album": {
+        "name": "camellia",
+        "url": "https://open.spotify.com/album/4cIHkWwWqlqegjsR6J4tzM"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127692,
+      "name": "camellia",
+      "url": "https://open.spotify.com/track/0whBmEP3B9AMBaAm3LSjKn"
     },
     {
       "album": {
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 108250,
       "name": "de la bell-m\u00e9re",
       "url": "https://open.spotify.com/track/5tjs8JIPAWEMXXt5WKSZbX"
@@ -3072,6 +3090,24 @@
       "duration_ms": 162461,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/1s6LKq5nOjmqY65VdrmUej"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/0hJgcUwQWajCROQGDLn5CM"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Coltrane",
+          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160443,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/7bhngJvY4QHaHaB32OvXTs"
     },
     {
       "album": {
@@ -3531,6 +3567,32 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/4vfuToHZU1hHblhJbYZ22S"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        },
+        {
+          "name": "Smith Beats",
+          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110250,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/58XGuacTUZLerQAbrOLFHe"
+    },
+    {
+      "album": {
         "name": "Ferrochrome",
         "url": "https://open.spotify.com/album/4MSQHrcg30VMIWxCskZzjO"
       },
@@ -3572,6 +3634,24 @@
       "duration_ms": 104052,
       "name": "Fifth Avenue",
       "url": "https://open.spotify.com/track/7LiU8KqXyhzNOKaEZQncG5"
+    },
+    {
+      "album": {
+        "name": "find a way",
+        "url": "https://open.spotify.com/album/6UgG0uoEyMK5ZjGaTKrtOc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kadinsky",
+          "url": "https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "find a way",
+      "url": "https://open.spotify.com/track/5WYNjLzaEi7QFgNqPYgW0N"
     },
     {
       "album": {
@@ -4450,7 +4530,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140470,
       "name": "Hokkaido Breeze",
       "url": "https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd"
@@ -6361,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Time of the Year",
+        "url": "https://open.spotify.com/album/2sVCmZCwO2W5bgGzlbSgwH"
+      },
+      "artists": [
+        {
+          "name": "Matt Large",
+          "url": "https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198550,
+      "name": "My Favorite Time of the Year",
+      "url": "https://open.spotify.com/track/62yrP9OEp9IYlAa0xk3tdj"
+    },
+    {
+      "album": {
         "name": "Mysteries",
         "url": "https://open.spotify.com/album/1wb2u1Q89azoYcZGWy11ZT"
       },
@@ -6456,6 +6554,24 @@
       "duration_ms": 105882,
       "name": "Negotiations",
       "url": "https://open.spotify.com/track/0lfrr8sbylho6f8VZV2ACG"
+    },
+    {
+      "album": {
+        "name": "Nicosia",
+        "url": "https://open.spotify.com/album/7LBJjgzR9DS2zwzOzVjAJD"
+      },
+      "artists": [
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114943,
+      "name": "Nicosia",
+      "url": "https://open.spotify.com/track/0s5pKkA3WQsR2LWjO9ZXab"
     },
     {
       "album": {
@@ -7867,6 +7983,28 @@
     },
     {
       "album": {
+        "name": "Sabai",
+        "url": "https://open.spotify.com/album/13l7e8BFiDueEXir67SEeD"
+      },
+      "artists": [
+        {
+          "name": "fl\u00e2neur",
+          "url": "https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sabai",
+      "url": "https://open.spotify.com/track/44qql1ujljCnblwDQ6cI77"
+    },
+    {
+      "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/3wdZ8ic22gGUwMzAk3ilke"
       },
@@ -8030,7 +8168,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 141529,
       "name": "same dream",
       "url": "https://open.spotify.com/track/6amvFwenSMBzEliXcGIduy"
@@ -9145,6 +9283,24 @@
     },
     {
       "album": {
+        "name": "Summer shine",
+        "url": "https://open.spotify.com/album/4pTBR5NXVgFXONKUFNQMsZ"
+      },
+      "artists": [
+        {
+          "name": "Brixton youth",
+          "url": "https://open.spotify.com/artist/4jbxYoa945pJDQle3Hh5ZH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Summer shine",
+      "url": "https://open.spotify.com/track/7qku9IL4XrsqrLk28QdR4q"
+    },
+    {
+      "album": {
         "name": "Summer Through My Window",
         "url": "https://open.spotify.com/album/5j0eiAvwLw0zSY9KSBPu3W"
       },
@@ -9605,6 +9761,24 @@
     },
     {
       "album": {
+        "name": "Teal Seas",
+        "url": "https://open.spotify.com/album/367WYClldQ9blcP4d7R0ql"
+      },
+      "artists": [
+        {
+          "name": "Joshua Woolf",
+          "url": "https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125823,
+      "name": "Teal Seas",
+      "url": "https://open.spotify.com/track/3jZGC2szBn0MPRIYEDlQ4q"
+    },
+    {
+      "album": {
         "name": "In Beats We Trust",
         "url": "https://open.spotify.com/album/2oliJSznyECCuR6cegYeyA"
       },
@@ -9958,7 +10132,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151110,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/7dPy1jjF1wDcZGSdtNjAeO"
@@ -10646,6 +10820,24 @@
       "duration_ms": 106687,
       "name": "Vitamin Sea",
       "url": "https://open.spotify.com/track/3P7RYWEmBu5wKE82bZe2am"
+    },
+    {
+      "album": {
+        "name": "Brazil in '78",
+        "url": "https://open.spotify.com/album/7bQitm5oVKssX3seh1IP6d"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135760,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/4YYfRXiWpGGz7VZIRQabXE"
     },
     {
       "album": {

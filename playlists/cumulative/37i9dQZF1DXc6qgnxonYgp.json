@@ -1051,6 +1051,32 @@
     },
     {
       "album": {
+        "name": "VEENA",
+        "url": "https://open.spotify.com/album/6AUvshZi7wXvnfnzCsm1u9"
+      },
+      "artists": [
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        },
+        {
+          "name": "Sid Vashi",
+          "url": "https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba"
+        },
+        {
+          "name": "Navz-47",
+          "url": "https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/25RL5DYCt1d95tr9wUlSVX"
+    },
+    {
+      "album": {
         "name": "Fly High",
         "url": "https://open.spotify.com/album/16YEyCLKrj1Ey1FF4vD5uc"
       },
@@ -2470,7 +2496,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"
@@ -2602,7 +2628,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195687,
       "name": "Nagaram Bcb2 (Remix) [feat. tha Q & Ruff Jana]",
       "url": "https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM"
@@ -3944,6 +3970,28 @@
       "duration_ms": 180779,
       "name": "She",
       "url": "https://open.spotify.com/track/58HUT7xifgToUC45ol5YsI"
+    },
+    {
+      "album": {
+        "name": "SHIMMER",
+        "url": "https://open.spotify.com/album/0Dt7PHrLJLtpTA3QLAYQsn"
+      },
+      "artists": [
+        {
+          "name": "MC Chetan",
+          "url": "https://open.spotify.com/artist/6xVCfFjIqeehPyqll3aVNb"
+        },
+        {
+          "name": "Flameboi",
+          "url": "https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141318,
+      "name": "SHIMMER",
+      "url": "https://open.spotify.com/track/5RAAqKEgzyeXQebm1kvnJC"
     },
     {
       "album": {

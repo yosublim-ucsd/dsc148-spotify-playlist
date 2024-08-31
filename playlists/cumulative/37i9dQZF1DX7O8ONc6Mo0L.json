@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Voz e Viol\u00e3o - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
+      },
+      "artists": [
+        {
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244917,
+      "name": "Eu Prefiro Adorar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
+    },
+    {
+      "album": {
         "name": "2 OU + (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/64u8UuetKumdaxAHxgJYc7"
       },
@@ -1383,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Nossa Hist\u00f3ria, Pt. 1",
+        "url": "https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE"
+      },
+      "artists": [
+        {
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327980,
+      "name": "Ficar Aqui",
+      "url": "https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1"
+    },
+    {
+      "album": {
         "name": "Ficarei Aqui (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1xh3s0d92kE7lKXCNCQ1zL"
       },
@@ -1532,7 +1568,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 330155,
       "name": "Lan\u00e7a Sobre Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/3NKfKJAnUScbZSk5EU6xfT"
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 278031,
       "name": "Paz da Minha Alma",
       "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
@@ -3148,6 +3184,28 @@
       "duration_ms": 225506,
       "name": "Vulner\u00e1vel - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa"
+    },
+    {
+      "album": {
+        "name": "\u00danico - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L"

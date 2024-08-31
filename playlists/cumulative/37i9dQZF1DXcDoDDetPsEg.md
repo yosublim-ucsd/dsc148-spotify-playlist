@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Knucks
 
-1,254 songs - 2 day 15 hr 38 min
+1,256 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-27 | 2023-08-26 |
 | [Big Booty](https://open.spotify.com/track/1idQpK6A2SotHKjw2AotLS) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Big Booty](https://open.spotify.com/album/62yXFa3a4MbG6KDSFhdPa9) | 2:03 | 2022-06-03 | 2022-07-08 |
 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 | 2024-03-15 | 2024-04-06 |
-| [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 | 2024-08-29 |  |
+| [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 | 2024-08-29 | 2024-08-31 |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-28 | 2024-07-19 |
 | [Big Mistake](https://open.spotify.com/track/49MP4LYaSqpECfHXtrCSXr) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Mistake](https://open.spotify.com/album/737oFtZMuM1PgXVa6iochj) | 2:40 | 2023-05-25 | 2023-05-27 |
 | [Big Mistake](https://open.spotify.com/track/4RSfajckblCGSpPWsmq4W3) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Tales of a Miracle \(Deluxe\)](https://open.spotify.com/album/7eDnw7VgUNXxg3v7GOEyFT) | 2:40 | 2023-05-26 | 2023-07-07 |
@@ -164,6 +164,7 @@
 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 | 2022-08-23 | 2022-08-31 |
 | [Brilliant Mind II](https://open.spotify.com/track/1XOkwSEuFloCRyxQdTJS1h) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Brilliant Mind II](https://open.spotify.com/album/3fBsD931UHRVPRFJZD3MDF) | 2:49 | 2023-11-10 | 2024-03-29 |
 | [Bringing It Back](https://open.spotify.com/track/52yt96B08SMAqrCSGNaxNZ) | [HAZEY](https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG) | [Bringing It Back](https://open.spotify.com/album/21s91ymOCWVOs6R6fsckyr) | 2:06 | 2022-09-30 | 2023-01-13 |
+| [Brokey](https://open.spotify.com/track/6g7vo9RiTkmCDHywj9HKEW) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 3:37 | 2024-08-30 |  |
 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 | 2024-07-04 |  |
 | [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 | 2023-05-18 | 2023-07-14 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-07 | 2024-08-30 |
@@ -1031,6 +1032,7 @@
 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 | 2022-02-25 | 2022-06-04 |
 | [Sometimes](https://open.spotify.com/track/0l35DM2goE5pl5AVSdWuZg) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Sometimes](https://open.spotify.com/album/7n2xACwxLSrp316oMgXGkf) | 1:38 | 2023-06-16 | 2023-08-04 |
 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 | 2024-02-16 | 2024-03-08 |
+| [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-30 |  |
 | [south](https://open.spotify.com/track/1AqsmkPlO7ID4g4Hjwll9s) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [fools&errands](https://open.spotify.com/album/32G0PERRm3OOv4k6zwuMx6) | 2:46 | 2024-06-21 | 2024-07-27 |
 | [Spicy](https://open.spotify.com/track/5jsXDTkZnlbFT4aSTCOn1y) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Spicy EP](https://open.spotify.com/album/0udQAFBK4sp46uxle2mcv9) | 2:48 | 2023-09-28 | 2023-11-11 |
 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 | 2024-06-28 | 2024-07-05 |

@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "A S\u00f3s Com o Pai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337000,
+      "name": "A S\u00f3s Com o Pai (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf"
+    },
+    {
+      "album": {
         "name": "A Tenda (Ao Vivo)",
         "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 313674,
       "name": "Planos",
       "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mariah Carey. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 477641,
+  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
+  "num_followers": 477723,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADyGxBwSAgzakC+gpoCYzz7",
+  "snapshot_id": "Zs+6AAAAAADR1emzOAerEJA38PtDoko9",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 215110,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
+      "duration_ms": 257920,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 257920,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
+      "duration_ms": 215110,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0pkIJFV6mviH9dmBYsFwTM"
     },
     {
       "added_at": null,

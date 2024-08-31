@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-572 songs - 1 day 14 hr 33 min
+573 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 | 2023-01-17 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-17 | 2024-04-19 |
-| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 | 2024-08-29 |
+| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 |  |
 | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/1frLfdzAN9vP7iryVFkchw) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/album/39y4XsSMcz4OidDKNgsKBT) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Holly Golightly](https://open.spotify.com/track/6cpS0DbBW6i2h2YhScfvDI) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Holly Golightly](https://open.spotify.com/album/2mPxVWoD1tTM3YwIKCk8Eg) | 2:44 | 2023-01-17 |  |
@@ -246,7 +246,7 @@
 | [I've Been Fine](https://open.spotify.com/track/0KyPBZ6PAxzpcAobqxhaHu) | [TT](https://open.spotify.com/artist/10N4PFR87RGAdgSsIWnGvr) | [LoveLaws](https://open.spotify.com/album/3wjgJajGlHY57J075PDGae) | 4:01 | 2023-01-17 |  |
 | [If I Could Turn Back Time](https://open.spotify.com/track/2o6Lu5MMOk6ra2l9pmTt8L) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Deep Cuts](https://open.spotify.com/album/7eZIU8RLDwDpHTEYwlbxyb) | 4:20 | 2023-01-17 | 2024-05-21 |
 | [If I Lead](https://open.spotify.com/track/5ZK5nRVtgYzw4FBK5f66A0) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/34gdRibrvFPimenAmpLIl2) | 3:26 | 2023-01-17 | 2024-04-19 |
-| [If I Lead](https://open.spotify.com/track/7h69lNNNo6TS5XomY9CxHH) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/15u9sohSPRl0qYMlBQ9b0x) | 3:26 | 2023-01-17 |  |
+| [If I Lead](https://open.spotify.com/track/7h69lNNNo6TS5XomY9CxHH) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/15u9sohSPRl0qYMlBQ9b0x) | 3:26 | 2023-01-17 | 2024-08-31 |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-08-29 |  |
 | [In A Bind](https://open.spotify.com/track/7L8cmap5xIlO3EBFYBKLV9) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:40 | 2023-01-17 |  |
 | [In Another Life \- Edit](https://open.spotify.com/track/3jkvyNJXLwnrQi0HntSYsk) | [Sandro Perri](https://open.spotify.com/artist/2CbeYAeoh6tWJhlJU3fI9c) | [In Another Life \(Edit\)](https://open.spotify.com/album/3rzgaHMGq9g1JWUNqwM5O9) | 5:51 | 2023-01-17 | 2023-09-25 |
@@ -264,7 +264,7 @@
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2023-01-17 | 2024-08-19 |
 | [It Hurts](https://open.spotify.com/track/4vMCeNc8dsCJN4ITQK2NoQ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 3:23 | 2023-01-17 | 2024-04-19 |
 | [It's All About You](https://open.spotify.com/track/4RfIfFS2D4E9tVjuHFlAJF) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/38mNfogFOWzoGS4h8S4OfZ) | 3:20 | 2023-01-17 | 2024-04-19 |
-| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 |  |
+| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 | 2024-08-31 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2023-01-17 | 2024-04-19 |
 | [Jealousy](https://open.spotify.com/track/0t2CHswC5RVBRq7qvWBU4j) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Jealousy](https://open.spotify.com/album/2YWbrv6MAlIB234w61w3vR) | 3:36 | 2023-01-17 |  |
 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 | 2023-01-17 | 2024-04-19 |
@@ -465,6 +465,7 @@
 | [Stepping Stones](https://open.spotify.com/track/7LZrKFSigLHk1yTIllUrjN) | [Joaquin García](https://open.spotify.com/artist/3yA4n8eGeCNwUEzm1cwc7V) | [Stepping Stones](https://open.spotify.com/album/4sIovB42ULsf025dbsdQvG) | 3:30 | 2023-01-17 |  |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-17 |  |
 | [Story Untold](https://open.spotify.com/track/0GYzG6CKoOE76b08v1vAxs) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/5u2KQUMuGzBp9xxaUEe3H8) | 3:12 | 2023-01-17 | 2024-04-19 |
+| [Story Untold](https://open.spotify.com/track/5aJZ16FOs90XwNH6afrchJ) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Story Untold](https://open.spotify.com/album/1808b4WNaWNtQ2MA6d2r68) | 3:12 | 2023-01-17 |  |
 | [Strange God](https://open.spotify.com/track/5CatFDmqHEhTA3LMtUyEIl) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Strange God](https://open.spotify.com/album/0GwBCfq4JPsg7sG1BnisEB) | 5:04 | 2023-01-17 |  |
 | [Strange Town](https://open.spotify.com/track/2WhzzQpAi9ipAQp4ZZJeHG) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Spoiled Love](https://open.spotify.com/album/1HbxkJzKE1DsjvnqfBiQHh) | 5:38 | 2023-01-17 | 2024-04-19 |
 | [Stranger](https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Stranger](https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA) | 2:48 | 2023-06-02 |  |

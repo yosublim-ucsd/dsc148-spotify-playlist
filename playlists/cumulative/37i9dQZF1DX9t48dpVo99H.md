@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-86 songs - 3 hr 45 min
+88 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,14 +38,16 @@
 | [741 Hz Libertad](https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:04 | 2023-03-10 |  |
 | [741 Hz Mental Clarity](https://open.spotify.com/track/0ZuKVcs48MMhBwb6stqbVo) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [741 Hz Mental Clarity](https://open.spotify.com/album/6tzfanwdAF8Px0HcJZe8yB) | 2:31 | 2023-03-10 |  |
 | [741 Hz Protection](https://open.spotify.com/track/2g5wHZ7x9U1qlaOMOtFfEB) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [741 Hz Protection](https://open.spotify.com/album/3e7ZEGQU8xFdSHqYYVPzHD) | 2:16 | 2023-08-07 |  |
+| [741 Hz Pure Expression](https://open.spotify.com/track/48R0qTAVmLRyTxxT8PhUA9) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [741 Hz Pure Expression](https://open.spotify.com/album/3R1ahXku6SNrnXE5xVThif) | 3:02 | 2024-08-30 |  |
 | [741 Hz Release](https://open.spotify.com/track/4rkQICXJfWg1UH2LWM2gqd) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
+| [741 Hz Revelation on Antarasu](https://open.spotify.com/track/7AXeWe71oNt7gRfz4l2cwQ) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [741 Hz Revelation on Antarasu](https://open.spotify.com/album/1QvcdeYB87XrfVd7iC3tL7) | 2:18 | 2024-08-30 |  |
 | [741 Hz Spectral Journey](https://open.spotify.com/track/6t4LHtbQMqoTVGdn5SH6hu) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [741 Hz Spectral Journey](https://open.spotify.com/album/6Ntmmhb1UBLkdbwIrT9mSY) | 2:42 | 2023-11-30 |  |
 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 | 2023-03-10 |  |
 | [741 Hz Voice Unveiled](https://open.spotify.com/track/6S6iGO59lg5Lh1MsC9GPIf) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [741 Hz Voice Unveiled](https://open.spotify.com/album/6NYKUVr1koEQUOE2a82CI9) | 2:35 | 2024-04-07 |  |
 | [741Hz \- Deep Sleep](https://open.spotify.com/track/1vuP2xOAisIelsfgcg5O94) | [Velodrome](https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB) | [Deep Sleep](https://open.spotify.com/album/4rgY7wUEdsxw8CHdrcT0uj) | 1:53 | 2023-03-10 | 2024-03-14 |
 | [741hz Eliminates Negativity](https://open.spotify.com/track/2OXirAv8badcQ2VJH3oMBe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 3:59 | 2023-11-30 |  |
 | [741hz Purifies Mind and Body](https://open.spotify.com/track/7yOZ0gYi6owjohpcmTOKAe) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 4:09 | 2023-11-30 |  |
-| [Celsius 741 Hz](https://open.spotify.com/track/58mglLMC2dFR9SAaEq4eOY) | [Donna Javovich](https://open.spotify.com/artist/2nIGrJl8WPMjQgi2Vw5Fh7) | [Celsius 741 Hz](https://open.spotify.com/album/3h9uMPIL8xvQ3YEtdlQzGH) | 2:32 | 2023-11-30 |  |
+| [Celsius 741 Hz](https://open.spotify.com/track/58mglLMC2dFR9SAaEq4eOY) | [Donna Javovich](https://open.spotify.com/artist/2nIGrJl8WPMjQgi2Vw5Fh7) | [Celsius 741 Hz](https://open.spotify.com/album/3h9uMPIL8xvQ3YEtdlQzGH) | 2:32 | 2023-11-30 | 2024-08-31 |
 | [Chakra Crystal Bowl](https://open.spotify.com/track/3CuBUJAF5DoX7EQ9L4KcOd) | [Shakti Kaur](https://open.spotify.com/artist/38wLc5Qs3tOzu6PKDRh4yl) | [Sleep Crystal Bowl](https://open.spotify.com/album/3IIxIGhR9JEP48Aq6UZIGP) | 3:36 | 2023-03-10 |  |
 | [Cleansing Heart 741 Hz](https://open.spotify.com/track/56CXESEfsaCPnzcB8kj1iO) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Cleansing Heart 741 Hz](https://open.spotify.com/album/1KltK5tuNXB2DCJH79Qy4l) | 2:30 | 2023-03-10 |  |
 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 | 2023-03-10 |  |
@@ -78,7 +80,7 @@
 | [Purple Waters 741 hz](https://open.spotify.com/track/7BlhSDmgv38rAbYmdIp3lW) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Purple Waters](https://open.spotify.com/album/3XHbzv3q0JTI6UTnnleiz2) | 2:49 | 2023-03-10 |  |
 | [Relaxing Reverie 741 Hz](https://open.spotify.com/track/0Y4TgyM6QUzSa2Dvw0VO8s) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 3:34 | 2023-03-10 | 2023-08-08 |
 | [Restful Vibrations \(741Hz\)](https://open.spotify.com/track/5Pyl42FNoNa79GQuNZG9zg) | [Chura Rin](https://open.spotify.com/artist/3ND8SIfnQTaM7QulRp8RwN) | [Restful Vibrations \(741Hz\)](https://open.spotify.com/album/4mQ8G8sLHlnqKm03lOzWmh) | 2:37 | 2023-11-30 |  |
-| [Saturation 741 Hz](https://open.spotify.com/track/070xpFpvQSVQUTD6Hs8S7X) | [Slumra](https://open.spotify.com/artist/7LZjHVBpyfix3KUNCWHEWD) | [Saturation](https://open.spotify.com/album/31zWBCkJEmAqpPHzfZgnvL) | 2:42 | 2023-08-07 |  |
+| [Saturation 741 Hz](https://open.spotify.com/track/070xpFpvQSVQUTD6Hs8S7X) | [Slumra](https://open.spotify.com/artist/7LZjHVBpyfix3KUNCWHEWD) | [Saturation](https://open.spotify.com/album/31zWBCkJEmAqpPHzfZgnvL) | 2:42 | 2023-08-07 | 2024-08-31 |
 | [Schumann 432\-5 Throat Chakra Voicing](https://open.spotify.com/track/7zvFAzYMROMhOuCb4BqD4m) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:59 | 2023-03-10 | 2023-12-01 |
 | [shared waves \- 741hz](https://open.spotify.com/track/4SKqvK2AvQKNNUmrVtm0U2) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [shared waves \- 741hz](https://open.spotify.com/album/0AWvRDOsb8Q875dFkdZjJ6) | 2:53 | 2023-03-10 |  |
 | [So Hum](https://open.spotify.com/track/4LPXddfvILqIyfqIntPK9k) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [So Hum](https://open.spotify.com/album/1n7FuonhS869rKleqYJZ7m) | 4:07 | 2023-03-10 | 2023-12-01 |

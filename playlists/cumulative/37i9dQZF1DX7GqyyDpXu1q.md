@@ -4,7 +4,7 @@
 
 > Modern southern rock swagger served neat\. Cover: Bones Owens
 
-272 songs - 16 hr 41 min
+273 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-02-26 | 2024-07-06 |
 | [Tell Me Lies](https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:39 | 2020-08-21 | 2023-07-22 |
 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 | 2024-08-09 |  |
+| [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 | 2024-08-30 |  |
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko) | 3:42 | 2021-10-22 | 2022-08-17 |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-10-15 | 2022-10-08 |
 | [The Way I Am](https://open.spotify.com/track/07Qr4JIqeMrjy4dnjn3cRE) | [The Weathered Souls](https://open.spotify.com/artist/0zJN9JGIfTEIiL8E58NDtI) | [The Way I Am](https://open.spotify.com/album/6l6XKRUp0RrjxR4jtNGfYH) | 4:08 | 2024-01-12 | 2024-04-19 |

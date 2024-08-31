@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 167653,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
@@ -3107,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "EGWU EJI",
+        "url": "https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172640,
+      "name": "EGWU EJI",
+      "url": "https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl"
+    },
+    {
+      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -4219,6 +4237,28 @@
     },
     {
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
+    },
+    {
+      "album": {
         "name": "Gon Gon / No Forget",
         "url": "https://open.spotify.com/album/212j8iS52QLabW553im5hM"
       },
@@ -5144,7 +5184,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169927,
       "name": "JOY",
       "url": "https://open.spotify.com/track/7FHUtQbPkCzWMwGltW8q4K"
@@ -5854,7 +5894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 192477,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
@@ -8212,7 +8252,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
@@ -8548,6 +8588,28 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "album": {
+        "name": "Grown",
+        "url": "https://open.spotify.com/album/0NqVsIlCwJbxJHuHuANjSb"
+      },
+      "artists": [
+        {
+          "name": "NAEOMI",
+          "url": "https://open.spotify.com/artist/6cAU0bJ4IPWG2sT9XzyPkf"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/04C3f1zE0YHypfmg8hF2cY"
     },
     {
       "album": {
@@ -9682,6 +9744,24 @@
       "duration_ms": 163653,
       "name": "Tight Condition",
       "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+    },
+    {
+      "album": {
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "album": {

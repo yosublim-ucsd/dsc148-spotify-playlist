@@ -1,15 +1,47 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Myke Towers",
-  "num_followers": 839889,
+  "num_followers": 840030,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsxlhgAAAAAxGjRTdFae72slgS12FEKv",
+  "snapshot_id": "ZtGM2AAAAADzANFbBEsOFG0sI8VST40p",
   "tracks": [
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "DIABLITA (feat. YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/1cUQCjn7fGme2wZQrWKvhw"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Vacile",
+        "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 140239,
+      "name": "Vacile",
+      "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "OTRA NOCHE",
         "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
@@ -29,39 +61,7 @@
       "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Vacile",
-        "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 140239,
-      "name": "Vacile",
-      "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "LA PANTERA NEGRA",
-        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "DIABLITA (feat. YOVNGCHIMI)",
-      "url": "https://open.spotify.com/track/1cUQCjn7fGme2wZQrWKvhw"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "PELIGROSA",
         "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "LA PRIMERA VEZ",
         "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
@@ -97,47 +97,7 @@
       "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Rayo",
-        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/29825KbVmzA6KSUMHKdcdb"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "SE TE NOTA",
-        "url": "https://open.spotify.com/album/60dyqQXDuWRObhCLM1diVF"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "SE TE NOTA",
-      "url": "https://open.spotify.com/track/7MgrDeD2asRvec8cJaw4eG"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "2xLL",
         "url": "https://open.spotify.com/album/0n4GVoClbgpTfrr6PCP3Au"
@@ -161,7 +121,43 @@
       "url": "https://open.spotify.com/track/2ZgZ0RIEVmxUwCZzLTYFoh"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Shampoo de Coco",
+        "url": "https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Shampoo de Coco",
+      "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/29825KbVmzA6KSUMHKdcdb"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Tuss",
         "url": "https://open.spotify.com/album/4l7IpfEVv21t2gxYnrRPKA"
@@ -181,43 +177,23 @@
       "url": "https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/6e8pv6FfghnBltcOz0cg0C"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 164042,
-      "name": "CLIMA (with Foreign Teck)",
-      "url": "https://open.spotify.com/track/0kX6vjW7YrhHxrpZS7jcxa"
+      "duration_ms": 223280,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/4QAnf806tToaBuvbiv69X5"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Martini",
-        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164365,
-      "name": "Martini",
-      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Sport+ RMX",
         "url": "https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L"
@@ -237,7 +213,63 @@
       "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "CLIMA (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/0kX6vjW7YrhHxrpZS7jcxa"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "SE TE NOTA",
+        "url": "https://open.spotify.com/album/60dyqQXDuWRObhCLM1diVF"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "SE TE NOTA",
+      "url": "https://open.spotify.com/track/7MgrDeD2asRvec8cJaw4eG"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Passoa",
         "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
@@ -257,27 +289,7 @@
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "SE ME OLVIDA",
-        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "SE ME OLVIDA",
-      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Anti Social Cool Kid",
         "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
@@ -293,27 +305,7 @@
       "url": "https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Baby Demon",
-        "url": "https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 311254,
-      "name": "Baby Demon",
-      "url": "https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
@@ -333,27 +325,7 @@
       "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Doblexx\u00f3",
-        "url": "https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Doblexx\u00f3",
-      "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -385,7 +357,7 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "COMUNA 3",
         "url": "https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B"
@@ -405,7 +377,7 @@
       "url": "https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
@@ -425,7 +397,7 @@
       "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Trending Remix (with Myke Towers)",
         "url": "https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO"
@@ -445,7 +417,7 @@
       "url": "https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "SERIO CON ESE Q",
         "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
@@ -465,7 +437,139 @@
       "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "DESATAAA",
+        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "DESATAAA",
+      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Thal\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 230857,
+      "name": "Thal\u00eda - Remix",
+      "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "LOS MARCIANOS Vol.1: Dei V Version",
+        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "PERREO LENTO",
+      "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "APAGA EL CEL",
+        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 184806,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/5saw6V2HHmKicxJ6tuBgK8"
@@ -497,139 +601,7 @@
       "url": "https://open.spotify.com/track/0kEzXFFV67dHKCy2gcwom2"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "DESATAAA",
-        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "DESATAAA",
-      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Thal\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 230857,
-      "name": "Thal\u00eda - Remix",
-      "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "Lo Que Tiene",
-        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Lo Que Tiene",
-      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "LOS MARCIANOS Vol.1: Dei V Version",
-        "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Gaby Music",
-          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "PERREO LENTO",
-      "url": "https://open.spotify.com/track/5WoC5tREb1zyxfmLu3RyQ7"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "APAGA EL CEL",
-        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 184806,
-      "name": "APAGA EL CEL",
-      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
-      "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
-    },
-    {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Kilerito",
         "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
@@ -649,7 +621,7 @@
       "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Goteras",
         "url": "https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw"
@@ -669,7 +641,7 @@
       "url": "https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "BAD BOY",
         "url": "https://open.spotify.com/album/2lFhyjDXD7EvLkHeV55RKS"
@@ -701,7 +673,27 @@
       "url": "https://open.spotify.com/track/0sFyqFZE8YkkOMA9IFZ3S6"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
+      "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Diab\u00f3lica",
         "url": "https://open.spotify.com/album/11n9y9PuTbIs8HgDgIUxQQ"
@@ -721,7 +713,7 @@
       "url": "https://open.spotify.com/track/2dcFfC6dq4E7jlaSzM6agR"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "LA NENA",
         "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
@@ -741,7 +733,7 @@
       "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "No Te Quieren Conmigo (Remix) (Gaby Music, Anuel AA, Luar LA L)",
         "url": "https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z"
@@ -773,7 +765,7 @@
       "url": "https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
@@ -793,7 +785,7 @@
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
@@ -813,7 +805,7 @@
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
@@ -837,7 +829,7 @@
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
     },
     {
-      "added_at": "2024-08-26 11:22:46",
+      "added_at": "2024-08-30 09:11:52",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"

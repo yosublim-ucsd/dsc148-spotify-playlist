@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,712 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,709 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 |
 | 2 | [Manhattan](https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Manhattan](https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC) | 2:50 |
-| 3 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 4 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
-| 5 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |
-| 6 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
-| 7 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 |
-| 8 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
-| 9 | [Te doy las gracias](https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Te doy las gracias](https://open.spotify.com/album/40tFSBG3a1jb0XiFokbBXT) | 3:39 |
-| 10 | [Amo Que Respires](https://open.spotify.com/track/0aFlwsjFGlVBs3ez3WVehY) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Amo Que Respires](https://open.spotify.com/album/3HgKRciAyZKUxp0amRQqlD) | 2:23 |
+| 3 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
+| 4 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 5 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
+| 6 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |
+| 7 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
+| 8 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 |
+| 9 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
+| 10 | [Te doy las gracias](https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Te doy las gracias](https://open.spotify.com/album/40tFSBG3a1jb0XiFokbBXT) | 3:39 |
 | 11 | [Mosaico Pirata](https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Mosaico Pirata](https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz) | 2:59 |
 | 12 | [Planeta](https://open.spotify.com/track/4rFB9ALhEivDQfGZ0XR4ih) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Planeta](https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz) | 2:34 |
 | 13 | [Te Recuerdo](https://open.spotify.com/track/6SmVHW7Q7Whp8WrUx8EdD2) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Te Recuerdo](https://open.spotify.com/album/3ka8zkNY9Al5jmzaqEIxNJ) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `ZrWk5AAAAADmm3QQWKCrWz3x5tYHOlIN`
+Snapshot ID: `ZtH0mgAAAACAooJHqOTwG13972K7A+6E`

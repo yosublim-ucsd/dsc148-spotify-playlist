@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: lostbeans
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: SOBBOY
 
-88 songs - 6 hr 23 min
+90 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 |  |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
-| [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 |  |
+| [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 | 2024-08-31 |
 | [ขอบคุณ](https://open.spotify.com/track/0ybe3S732T6M2ch6fSrEIQ) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [ขอบคุณ](https://open.spotify.com/album/03zPBAx38bbnMbqdEfA24p) | 4:06 | 2024-06-28 |  |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 |  |
 | [ข่าวดี](https://open.spotify.com/track/7yodPVecn5X9EnjpzcKTGH) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [ข่าวดี](https://open.spotify.com/album/2HOrz74TqxqiIj8atwFKNS) | 4:16 | 2024-07-19 |  |
@@ -54,7 +54,8 @@
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 |  |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
-| [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 |  |
+| [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
+| [รู้สึกตัว](https://open.spotify.com/track/5t5n6cZgHRmt6yrdMlIMcC) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [รู้สึกตัว](https://open.spotify.com/album/2svVFNBmOOgejzogp2Or6G) | 3:34 | 2024-08-30 |  |
 | [รู้ได้ไงว่าไม่คิดถึง \(nostalgia\)](https://open.spotify.com/track/2acaYxjO80y9TfRTqytenB) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l), [Pumpkins At Alaska](https://open.spotify.com/artist/0t8SCeZxq3k0MrqlvBdyJv) | [from time to time](https://open.spotify.com/album/0QF3MC2PVQg0BeBKZS0Hzn) | 4:28 | 2024-06-21 |  |
 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 | 2024-06-28 | 2024-08-24 |
 | [ลมหนาว \(Winter wind\)](https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF) | [aDawn](https://open.spotify.com/artist/37qCVJmPjeXQlqO1bY5wEb) | [ลมหนาว \(Winter wind\)](https://open.spotify.com/album/6knmtnkVOzLgqtAiWDciN4) | 5:12 | 2024-06-21 |  |
@@ -66,6 +67,7 @@
 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 | 2024-06-21 |  |
 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 | 2024-08-16 |  |
 | [อนันตกาล](https://open.spotify.com/track/1Q8mMXizYlIL3uE3klZPkT) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [อนันตกาล](https://open.spotify.com/album/1BaTNj2bow0sTC8Tpajz0u) | 4:54 | 2024-06-21 |  |
+| [อยากมองฟ้าให้นานกว่านี้](https://open.spotify.com/track/79u4V2ozJKklrg62LxTJsJ) | [Seventh of July](https://open.spotify.com/artist/39s4v4cZONDOY857utzRT3) | [อยากมองฟ้าให้นานกว่านี้](https://open.spotify.com/album/5mxA0aqAKRAeK6gi3oSlbH) | 4:28 | 2024-08-30 |  |
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
 | [เคย](https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [เคย](https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is) | 4:18 | 2024-07-19 | 2024-08-10 |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |

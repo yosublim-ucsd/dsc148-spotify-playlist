@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: KayBlack",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Veigh, Niink, G.A, Ghard",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -70,6 +70,36 @@
       "duration_ms": 289586,
       "name": "#SDD",
       "url": "https://open.spotify.com/track/11Usr9AjjJYaCkYgwrWSgb"
+    },
+    {
+      "album": {
+        "name": "#voltavida",
+        "url": "https://open.spotify.com/album/6rTurZTJQYuFmc78USqVWZ"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Guiz\u00e3o",
+          "url": "https://open.spotify.com/artist/1LJAfDSvuy8y6jr8nYMJSa"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205663,
+      "name": "#voltavida",
+      "url": "https://open.spotify.com/track/3KrX3RYCpWuI7QzA7s1WSY"
     },
     {
       "album": {
@@ -508,7 +538,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140727,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
@@ -3503,6 +3533,32 @@
     },
     {
       "album": {
+        "name": "Hora do Rock",
+        "url": "https://open.spotify.com/album/4QhDTIM0kI10cpMthLCksx"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E"
+    },
+    {
+      "album": {
         "name": "Os Irm\u00e3o Metralha",
         "url": "https://open.spotify.com/album/5CNVRlJD0CosQCBdoVkpyv"
       },
@@ -6168,7 +6224,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181178,
       "name": "Clima Frio",
       "url": "https://open.spotify.com/track/71IIIDtP1vhB8Tfnux7Fjh"
@@ -7914,7 +7970,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 243200,
       "name": "Dentro Da Mala",
       "url": "https://open.spotify.com/track/3tGiBHrLSYXuUtaDZ4jmXt"
@@ -9626,6 +9682,24 @@
       "duration_ms": 216000,
       "name": "E Se Eu Falasse o Que Sinto?",
       "url": "https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX"
+    },
+    {
+      "album": {
+        "name": "SE VC AMA (PRE DELUXE)",
+        "url": "https://open.spotify.com/album/35upZ6KZFMYaFRcWyg7Tpq"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244650,
+      "name": "E Se Eu Sumir?",
+      "url": "https://open.spotify.com/track/4q5AiBOPYfmNAMR6L23kKT"
     },
     {
       "album": {
@@ -12036,6 +12110,32 @@
       "duration_ms": 139644,
       "name": "Festa do Pijama",
       "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
+    },
+    {
+      "album": {
+        "name": "Festa em Ipanema",
+        "url": "https://open.spotify.com/album/6f8r4VrSGxX4hvZig077tv"
+      },
+      "artists": [
+        {
+          "name": "Valle YNY",
+          "url": "https://open.spotify.com/artist/0Y4Qtzd1d0r2Xs12CoXnEJ"
+        },
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        },
+        {
+          "name": "prod santtoz",
+          "url": "https://open.spotify.com/artist/7qBeJ66cGdeL4nB4ofDYf6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116624,
+      "name": "Festa em Ipanema",
+      "url": "https://open.spotify.com/track/3wfWxaxvkHasacHIuUgR6Q"
     },
     {
       "album": {
@@ -14749,6 +14849,36 @@
     },
     {
       "album": {
+        "name": "#OCARAMAU",
+        "url": "https://open.spotify.com/album/6MQzQ0autKksIvGr1H9tE7"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ind\u00fastria",
+      "url": "https://open.spotify.com/track/59iiIkwDcLRqyUwwt4UgU1"
+    },
+    {
+      "album": {
         "name": "INEF\u00c1VEL",
         "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
@@ -17061,6 +17191,28 @@
     },
     {
       "album": {
+        "name": "Mal Acostumada",
+        "url": "https://open.spotify.com/album/2nrfRFPU9rSpi6futKjgyt"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198487,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/03gepg07nIevWdZxfuco9L"
+    },
+    {
+      "album": {
         "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
         "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
       },
@@ -17984,7 +18136,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 328616,
       "name": "Me Impressiona",
       "url": "https://open.spotify.com/track/2a9jpGdN9jg0eQMPy2WSxe"
@@ -18652,7 +18804,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172804,
       "name": "MENINO FATAL",
       "url": "https://open.spotify.com/track/288t9rSKYUocbR3zxo6Hif"
@@ -20483,6 +20635,52 @@
     },
     {
       "album": {
+        "name": "Na Minha Onda",
+        "url": "https://open.spotify.com/album/5ZXf91e1QDGQFHASXctRz9"
+      },
+      "artists": [
+        {
+          "name": "TAMEC",
+          "url": "https://open.spotify.com/artist/3kmHqg84mjQgkGNw9lSvad"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "POTTER",
+          "url": "https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        },
+        {
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
+        },
+        {
+          "name": "Flepa",
+          "url": "https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb"
+        },
+        {
+          "name": "Don Plako",
+          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273103,
+      "name": "Na Minha Onda",
+      "url": "https://open.spotify.com/track/42OjAPmt5HScCIgwFq9V1w"
+    },
+    {
+      "album": {
         "name": "Na Onda",
         "url": "https://open.spotify.com/album/1KFyYWzXcKLcpt1flhTwHg"
       },
@@ -21036,7 +21234,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 196285,
       "name": "Ningu\u00e9m Entende Nada",
       "url": "https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU"
@@ -23077,6 +23275,40 @@
     },
     {
       "album": {
+        "name": "Os Menino da Nova",
+        "url": "https://open.spotify.com/album/60YBXfUxCUhklWqyPULaY0"
+      },
+      "artists": [
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Ghard",
+          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137677,
+      "name": "Os Menino da Nova",
+      "url": "https://open.spotify.com/track/1okn8NTTHVQuP4hghJi2Ec"
+    },
+    {
+      "album": {
         "name": "Os Menor T\u00e1 de Pe\u00e7a",
         "url": "https://open.spotify.com/album/4ZYnt6otBi6XYsvjdJzMiu"
       },
@@ -23260,7 +23492,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 153623,
       "name": "Outro Lugar",
       "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
@@ -24140,7 +24372,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 187951,
       "name": "Perfil #98 - Essa Eu Fiz Pra Mim",
       "url": "https://open.spotify.com/track/7BMqk07d8RWDWW8m7wlD3q"
@@ -26194,7 +26426,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 170454,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
@@ -26268,6 +26500,28 @@
       "duration_ms": 144186,
       "name": "Puto de Luxo",
       "url": "https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc"
+    },
+    {
+      "album": {
+        "name": "Acorde E Fique Rico",
+        "url": "https://open.spotify.com/album/334WQ9azGCDDnMmc9DvXRY"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "saboya",
+          "url": "https://open.spotify.com/artist/7LmOCHdwrnGpDho9EdrwVJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "P\u00e9 No Ch\u00e3o",
+      "url": "https://open.spotify.com/track/4gO05p9CN3D1zQcZP2lHSS"
     },
     {
       "album": {
@@ -28841,6 +29095,28 @@
     },
     {
       "album": {
+        "name": "#OCARAMAU",
+        "url": "https://open.spotify.com/album/6MQzQ0autKksIvGr1H9tE7"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Sempre",
+      "url": "https://open.spotify.com/track/2zMmZaWrt0WGO0trpkWbWH"
+    },
+    {
+      "album": {
         "name": "Sempre Em Chamas",
         "url": "https://open.spotify.com/album/0kvoG1SQX11Xwj7bRwjPAT"
       },
@@ -28904,6 +29180,28 @@
       "duration_ms": 185178,
       "name": "Senha do WIFI",
       "url": "https://open.spotify.com/track/0wAp5d4Nl3V0ZHy6NqZhZx"
+    },
+    {
+      "album": {
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Sensa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
     },
     {
       "album": {
@@ -29188,7 +29486,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 145999,
       "name": "Seu Gosto",
       "url": "https://open.spotify.com/track/6XBuiO5LcxCaAgAqgqbpQw"
@@ -29968,7 +30266,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194594,
       "name": "Sosa Freestyle",
       "url": "https://open.spotify.com/track/4JGXs96NF6XVYv23KSTxZB"
@@ -31560,6 +31858,28 @@
       "duration_ms": 184629,
       "name": "Teto Solar",
       "url": "https://open.spotify.com/track/0LL0f65AL3cYEopGZYPnuC"
+    },
+    {
+      "album": {
+        "name": "Thanos",
+        "url": "https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "Thanos",
+      "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
     },
     {
       "album": {

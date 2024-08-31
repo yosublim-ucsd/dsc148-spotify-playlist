@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mark\u5be6\u5462\u500b\u6b4c\u55ae\uff0c\u5c31\u5514\u9a5a\u932f\u904e\u9999\u6e2fhit \u7dca\u5605Pop Songs \u5566\uff01Cover: Sabrina Carpenter",
+  "description": "Mark\u5be6\u5462\u500b\u6b4c\u55ae\uff0c\u5c31\u5514\u9a5a\u932f\u904e\u9999\u6e2fhit \u7dca\u5605Pop Songs \u5566\uff01Cover: Oasis",
   "name": "Big In Hong Kong",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 150769,
       "name": "Cheeky Icy Thang",
       "url": "https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe - 30th Anniversary",
+        "url": "https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306555,
+      "name": "Cigarettes & Alcohol - Sawmills Outtake",
+      "url": "https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw"
     },
     {
       "album": {
@@ -730,6 +748,24 @@
       "duration_ms": 174595,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/5KoCmD5XRyOzslD6isdIDf"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172523,
+      "name": "her",
+      "url": "https://open.spotify.com/track/7d6zoOnSVP1s5GAuPzcuoX"
     },
     {
       "album": {

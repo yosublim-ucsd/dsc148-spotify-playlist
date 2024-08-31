@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=pK-yJNMZTYmu6MtMrT9Xqw>Limoblaze</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be?si=1vZkLPTkSt2e7aFaAHdaoQ>Drakare</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -7609,6 +7609,32 @@
     },
     {
       "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/1iSTzkiksLsTHQrw3NL0BD"
+      },
+      "artists": [
+        {
+          "name": "Anyanya Udongwo",
+          "url": "https://open.spotify.com/artist/2cbioHiPydvkOosQh5pLXy"
+        },
+        {
+          "name": "Timothy Akuboh",
+          "url": "https://open.spotify.com/artist/4eB1IT3SeD09f7PvI3X7q5"
+        },
+        {
+          "name": "TMD",
+          "url": "https://open.spotify.com/artist/4kLSMb01FhdIdTEGOQRKwW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157124,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/2MfYquWKqyiDAmUZfmxeUH"
+    },
+    {
+      "album": {
         "name": "Heaven's playlist",
         "url": "https://open.spotify.com/album/6qWJBnwBUULd3bXie95VOw"
       },
@@ -8483,7 +8509,7 @@
     },
     {
       "album": {
-        "name": "It's Gonna Be Alright (Remix)",
+        "name": "It's Gonna Be Alright - Remix",
         "url": "https://open.spotify.com/album/6alRG3XHS3ivtcRjpW06jB"
       },
       "artists": [

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 151842,
+  "num_followers": 151960,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Amor prohibido",
-        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Yo no te pido la luna (Non voglio mica la luna)",
-      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Rocanrol Bumerang",
         "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 224826,
       "name": "Santa Lucia - Remastered 2005",
       "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Amor prohibido",
+        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Yo no te pido la luna (Non voglio mica la luna)",
+      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Autos, Moda Y Rock And Roll",
-        "url": "https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo"
-      },
-      "artists": [
-        {
-          "name": "Fandango",
-          "url": "https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Autos, Moda Y Rock N Roll",
-      "url": "https://open.spotify.com/track/5JiRlyOGE2EYvzLyex6pdK"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Duetos",
         "url": "https://open.spotify.com/album/4PCfCY3SQkDFq2DkF6zYLt"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 223560,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Autos, Moda Y Rock And Roll",
+        "url": "https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo"
+      },
+      "artists": [
+        {
+          "name": "Fandango",
+          "url": "https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Autos, Moda Y Rock N Roll",
+      "url": "https://open.spotify.com/track/5JiRlyOGE2EYvzLyex6pdK"
     },
     {
       "added_at": "2024-06-12 20:35:23",

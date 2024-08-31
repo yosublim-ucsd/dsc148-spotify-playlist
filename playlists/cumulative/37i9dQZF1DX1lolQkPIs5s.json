@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u30c7\u30a3\u30ba\u30cb\u30fc\u306e\u4eba\u6c17\u66f2\u3092\u96c6\u3081\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u266a\u30c7\u30a3\u30ba\u30cb\u30fc\u6620\u753b\u6700\u65b0\u4f5c\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f\u306e\u6700\u65b0\u697d\u66f2\u304b\u3089\u3001\u300e\u30ea\u30c8\u30eb\u30fb\u30de\u30fc\u30e1\u30a4\u30c9\u300f\u300e\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\u300f\u300e\u30a2\u30e9\u30b8\u30f3\u300f\u7b49\u306e\u540d\u66f2\u3001\u30d1\u30fc\u30af\u306e\u5927\u4eba\u6c17\u697d\u66f2\u307e\u3067\u30bb\u30ec\u30af\u30c8\uff01",
+  "description": "\u30c7\u30a3\u30ba\u30cb\u30fc\u306e\u4eba\u6c17\u66f2\u3092\u96c6\u3081\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u266a\u3000\u30c7\u30a3\u30ba\u30cb\u30fc\u6700\u65b0\u697d\u66f2\u304b\u3089\u3001\u300e\u30e2\u30a2\u30ca\u3068\u4f1d\u8aac\u306e\u6d77\u300f\u3001\u300e\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\u300f\u3001\u300e\u30a2\u30e9\u30b8\u30f3\u300f\u3001\u300e\u30e9\u30a4\u30aa\u30f3\u30fb\u30ad\u30f3\u30b0\u300f\u7b49\u306e\u540d\u66f2\u3001\u30d1\u30fc\u30af\u306e\u5927\u4eba\u6c17\u66f2\u307e\u3067\u30bb\u30ec\u30af\u30c8\uff01",
   "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30d2\u30c3\u30c4\u30fb\u30b8\u30e3\u30d1\u30f3",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 274480,
       "name": "A Dream Is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/6PiTsEEiNYU9a9xXowi9i5"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 92253,
       "name": "A New Angle",
       "url": "https://open.spotify.com/track/7rZQBusYuMdU7GLogyq0Ec"
@@ -94,7 +94,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160906,
       "name": "A Whole New World - Japanese Version",
       "url": "https://open.spotify.com/track/25W9H9MwBZ3Ju0nELdgTeS"
@@ -123,6 +123,24 @@
     },
     {
       "album": {
+        "name": "Fantasy Springs Music Album",
+        "url": "https://open.spotify.com/album/2naNMAL7tAQgqRRGeR3o2j"
+      },
+      "artists": [
+        {
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430026,
+      "name": "Anna and Elsa's Frozen Journey - Ride-Through Mix",
+      "url": "https://open.spotify.com/track/5IMF63bR30k6Nob1YknQAx"
+    },
+    {
+      "album": {
         "name": "Tokyo DisneySea Music Album (Tokyo Disney Resort 25th Anniversary Version)",
         "url": "https://open.spotify.com/album/54fbYaUvCzELWHUK1pyNSf"
       },
@@ -134,7 +152,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 826066,
       "name": "Aquasphere Plaza~Day",
       "url": "https://open.spotify.com/track/6nfiFW63WyrRp07xrBJN0s"
@@ -192,10 +210,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 94533,
       "name": "Ba La La La La La La La La",
       "url": "https://open.spotify.com/track/5WHIxm29a6WehTfqQ1CxRi"
+    },
+    {
+      "album": {
+        "name": "Baymax's Mission: Cool Down",
+        "url": "https://open.spotify.com/album/0v6Iti3OtE6whwRTU5C2Z8"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disneyland",
+          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607000,
+      "name": "Baymax's Mission: Cool Down - Edited Version",
+      "url": "https://open.spotify.com/track/2Lk9fPgT5ZWuepbW6FGsjz"
     },
     {
       "album": {
@@ -328,7 +364,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 231733,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/7cntX2d6eIlOcSCuuHG56O"
@@ -350,7 +386,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 243373,
       "name": "Beauty and the Beast - Duet",
       "url": "https://open.spotify.com/track/33ZEJKgAdlwfHRjt5vPj21"
@@ -412,7 +448,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 163773,
       "name": "Beauty and the Beast - Japanese Version",
       "url": "https://open.spotify.com/track/100yYdu1VT6K0o4oRuAXuH"
@@ -518,7 +554,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 286920,
       "name": "Bon Fire Dance - Edited Version",
       "url": "https://open.spotify.com/track/19eUx0mqauCxsPjUfxJEMo"
@@ -536,7 +572,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 127413,
       "name": "Call me Cruella",
       "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
@@ -651,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "album": {
         "name": "The Lion King (Original Motion Picture Soundtrack/Japan Release Version)",
         "url": "https://open.spotify.com/album/3xEqS4UZ79bX70ByHs18Dy"
       },
@@ -678,7 +736,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 174466,
       "name": "Can You Feel the Love Tonight - Japanese Version",
       "url": "https://open.spotify.com/track/2cimYdaqIfLYbBXLb6v3kP"
@@ -798,7 +856,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175280,
       "name": "Colombia, Mi Encanto",
       "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
@@ -834,7 +892,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 305360,
       "name": "Compass of Your Heart",
       "url": "https://open.spotify.com/track/59LmCrnhtWgWwKQvno6yAe"
@@ -870,7 +928,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184923,
       "name": "Disney Music Parade \u2013 Game Theme Song",
       "url": "https://open.spotify.com/track/5n7jaiw5Ru54z8lA2s4Sx1"
@@ -958,7 +1016,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136786,
       "name": "Ducky, Bunny & Tea",
       "url": "https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn"
@@ -976,7 +1034,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 437560,
       "name": "Enchanted Tale of Beauty and the Beast - Ride-Through Mix",
       "url": "https://open.spotify.com/track/557f6dpF16fKrcE3TptXTx"
@@ -1110,7 +1168,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 146400,
       "name": "Friend Like Me - Japanese Version",
       "url": "https://open.spotify.com/track/6V0ctW09GeGXwRwXYRcJG2"
@@ -1224,7 +1282,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 95986,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/3CTvENkGrXC47vyQNti7J4"
@@ -1312,7 +1370,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 106146,
       "name": "Higitus Figitus - From \"The Sword In the Stone\"",
       "url": "https://open.spotify.com/track/4DItdR57qt33oRwfL7sWQE"
@@ -1510,7 +1568,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 42760,
       "name": "I'm Late",
       "url": "https://open.spotify.com/track/7joekz6jMhNuj3EQhyKsm2"
@@ -1562,7 +1620,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142720,
       "name": "I've Got No Strings",
       "url": "https://open.spotify.com/track/0BRWA3P1gmvrUhvr7isEFT"
@@ -1718,7 +1776,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 139213,
       "name": "It's Very Minnie! - Opening",
       "url": "https://open.spotify.com/track/6BewURGQdbQd7aqjQKFnOI"
@@ -1758,6 +1816,24 @@
       "duration_ms": 200306,
       "name": "Jamboree Mickey!",
       "url": "https://open.spotify.com/track/2O70g7QJJRskIbAF596CHm"
+    },
+    {
+      "album": {
+        "name": "Journey to Fantasy Springs",
+        "url": "https://open.spotify.com/album/77KinH50KVf3go6a9lcsqM"
+      },
+      "artists": [
+        {
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Journey to Fantasy Springs",
+      "url": "https://open.spotify.com/track/6QgiiWKJbWgBm924zCCakc"
     },
     {
       "album": {
@@ -1802,7 +1878,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 196586,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/6FcOrtofHwhXq6MgsYZjBp"
@@ -1872,7 +1948,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 92613,
       "name": "Koo Loo Lee",
       "url": "https://open.spotify.com/track/37kWdDQx7pDHYkBBBQi9rz"
@@ -1946,7 +2022,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 233240,
       "name": "Little April Shower - From \"Bambi\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1OwcR9OYz2vuUttTQSOVZN"
@@ -2000,7 +2076,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 298293,
       "name": "Loading The Train / Casey Junior / Stork on a Cloud / Straight from Heaven / Mother and Baby / Arrival at Night",
       "url": "https://open.spotify.com/track/7tLchitcsTUSLVyFCdQ5Dk"
@@ -2098,7 +2174,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166199,
       "name": "Loyal Brave True",
       "url": "https://open.spotify.com/track/0w0KKAb5KWnLmByZeeYuBC"
@@ -2192,7 +2268,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 121493,
       "name": "Minnie's Yoo Hoo",
       "url": "https://open.spotify.com/track/1qDg1v3z0RLnMoy8HRLH82"
@@ -2270,7 +2346,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
@@ -2324,7 +2400,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 100706,
       "name": "One Sweet Ride",
       "url": "https://open.spotify.com/track/3q8anc3vW8V4qBANm8kal5"
@@ -2360,7 +2436,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 58280,
       "name": "Oo-De-Lally - From \"Robin Hood\"",
       "url": "https://open.spotify.com/track/4Zwtp7j5x8QcU2VRyFgKQ3"
@@ -2425,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Part of Your World - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/4rArDFN5s3R7Odlp0usxSg"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Part of Your World - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/6XxEDKmaB3gukOlM5jNWCs"
+    },
+    {
+      "album": {
         "name": "Part of Your World (From \"The Little Mermaid\")",
         "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
       },
@@ -2436,7 +2534,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214373,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
@@ -2458,7 +2556,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 192613,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/0zxe1EjG5ML2drWpPPr9x7"
@@ -2509,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Fantasy Springs Music Album",
+        "url": "https://open.spotify.com/album/2naNMAL7tAQgqRRGeR3o2j"
+      },
+      "artists": [
+        {
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488720,
+      "name": "Peter Pan's Never Land Adventure - Ride-Through Mix",
+      "url": "https://open.spotify.com/track/2RLlKRhrQTZ5ezvwV1NhSQ"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Japanese Original Soundtrack)",
         "url": "https://open.spotify.com/album/3AWE8IaYnKHHfwvtbibLt9"
       },
@@ -2545,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Fantasy Springs Music Album",
+        "url": "https://open.spotify.com/album/2naNMAL7tAQgqRRGeR3o2j"
+      },
+      "artists": [
+        {
+          "name": "Tokyo DisneySea",
+          "url": "https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372373,
+      "name": "Rapunzel's Lantern Festival - Ride-Through Mix",
+      "url": "https://open.spotify.com/track/7jzVbTwuj7wVCxeNyaNryk"
+    },
+    {
+      "album": {
         "name": "Mulan (Original Motion Picture Soundtrack/Japanese Version)",
         "url": "https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB"
       },
@@ -2574,7 +2708,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 219506,
       "name": "Reflection - Japanese",
       "url": "https://open.spotify.com/track/6XSSeiWfwiyRhAq2SzeeUb"
@@ -2610,7 +2744,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 229253,
       "name": "Roger Rabbit's Car Toon Spin Ride-Through",
       "url": "https://open.spotify.com/track/0WihtMy7l4ET0YQF0DbdLh"
@@ -2668,7 +2802,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 442040,
       "name": "Sindbad Storybook Voyage - Ride-Through mix",
       "url": "https://open.spotify.com/track/0lCTJLYyYP3GgwivygFk5m"
@@ -2686,7 +2820,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 235960,
       "name": "Sing Sing Sing",
       "url": "https://open.spotify.com/track/638Kb3wa7e81jAqoYC0Kwr"
@@ -2704,7 +2838,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 282680,
       "name": "Soaring: Fantastic Flight - Ride-Through Mix",
       "url": "https://open.spotify.com/track/7LcHJfJ5BhiO4w7LWPc2uM"
@@ -2888,7 +3022,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 206133,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3VkiOh8cWGTfo77zq8UuhZ"
@@ -2924,7 +3058,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204173,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/6N6Y1AdoGqw5H3lzli5DgL"
@@ -2960,7 +3094,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 192506,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
@@ -2978,7 +3112,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
@@ -3054,7 +3188,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
@@ -3228,7 +3362,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 271226,
       "name": "The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch",
       "url": "https://open.spotify.com/track/4puhLE73vKmE28RgJtbR4v"
@@ -3320,7 +3454,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194160,
       "name": "This Is The Thanks I Get?! - From \"Wish\"",
       "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
@@ -3342,7 +3476,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 205480,
       "name": "This Wish - From \"Wish\"",
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
@@ -3474,7 +3608,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 132906,
       "name": "Unbirthday Song",
       "url": "https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn"
@@ -3496,7 +3630,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184946,
       "name": "Under the Sea - From \"The Little Mermaid\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3hsTuFLSfcD3Mt4tIdtqrY"
@@ -3554,7 +3688,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214386,
       "name": "Usapiyo: Spring Into My Heart - From \u201cTip-Top Easter\u201d",
       "url": "https://open.spotify.com/track/5vG1zUswz5HSkylwmzEEdK"
@@ -3780,7 +3914,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165433,
       "name": "When Will My Life Begin?",
       "url": "https://open.spotify.com/track/5rL3JDnpLXp3DdkdkQsUW1"
@@ -3896,7 +4030,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 203746,
       "name": "Whistle While You Work",
       "url": "https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv"
@@ -4112,7 +4246,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201840,
       "name": "\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3! - \u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc20\u5468\u5e74:\u30bf\u30a4\u30e0\u30fb\u30c8\u30a5\u30fb\u30b7\u30e3\u30a4\u30f3!\u30c6\u30fc\u30de\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y"
@@ -4148,7 +4282,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 49849,
       "name": "\u6620\u753b\u300e\u30a6\u30a3\u30c3\u30b7\u30e5\u300f \u30a2\u30fc\u30b7\u30e3\u5f79\uff08\u65e5\u672c\u7248\u58f0\u512a\uff09\u751f\u7530\u7d75\u68a8\u82b1 \u30b3\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/2yp1HUTF9fcv3ReIWr2KmP"

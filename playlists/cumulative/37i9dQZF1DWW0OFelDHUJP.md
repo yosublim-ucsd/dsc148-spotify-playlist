@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-95 songs - 6 hr 15 min
+96 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aisi Woh Baarish](https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aisi Woh Baarish](https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG) | 3:07 | 2023-06-22 |  |
 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 | 2023-05-09 |  |
 | [Anuva's Sky](https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Nights in Shining Karma](https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo) | 3:16 | 2023-05-09 |  |
+| [Baarish](https://open.spotify.com/track/54UJ4gj6g09YhFtk6SLFJB) | [Ananya Wadkar](https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI) | [Baarish](https://open.spotify.com/album/1qVgQSAPfdakf6pcyfX9q1) | 3:22 | 2024-08-30 |  |
 | [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 | 2023-05-09 |  |
 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 | 2023-06-13 |  |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2023-05-09 |  |

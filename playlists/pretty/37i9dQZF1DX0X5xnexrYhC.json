@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: LISA, ROSAL\u00cdA",
-  "num_followers": 83979,
+  "num_followers": 83976,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-08-30 00:25:17",
       "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
-    },
-    {
-      "added_at": "2024-08-30 00:25:17",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2024-08-30 00:25:17",
+      "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
       "added_at": "2024-08-30 00:25:17",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-30 00:25:17",
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
-    },
-    {
-      "added_at": "2024-08-30 00:25:17",
-      "album": {
         "name": "I Hope It Hurts",
         "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 249003,
       "name": "I Hope It Hurts",
       "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
+    },
+    {
+      "added_at": "2024-08-30 00:25:17",
+      "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
     },
     {
       "added_at": "2024-08-30 00:25:17",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-30 00:25:17",
       "album": {
-        "name": "biting my tongue",
-        "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "the me i was",
-      "url": "https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM"
-    },
-    {
-      "added_at": "2024-08-30 00:25:17",
-      "album": {
         "name": "Tears on the dancefloor",
         "url": "https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 186666,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
+    },
+    {
+      "added_at": "2024-08-30 00:25:17",
+      "album": {
+        "name": "biting my tongue",
+        "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "the me i was",
+      "url": "https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM"
     },
     {
       "added_at": "2024-08-30 00:25:17",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-08-30 00:25:17",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6eocz7RSJYucXMh88E4WFq"
       },
       "artists": [
         {
-          "name": "Cat & Calmell",
-          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+          "name": "That Gurl Bella",
+          "url": "https://open.spotify.com/artist/1qMG4xNqbtKrqRQzFa5Mfj"
         }
       ],
-      "duration_ms": 189628,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+      "duration_ms": 140571,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3ndMhk30z7zqTWuUk3Qzqk"
     },
     {
       "added_at": "2024-08-30 00:25:17",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-08-30 00:25:17",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "duration_ms": 189628,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+    },
+    {
+      "added_at": "2024-08-30 00:25:17",
+      "album": {
         "name": "The Idea Of You",
         "url": "https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 178256,
       "name": "The Idea Of You",
       "url": "https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4"
-    },
-    {
-      "added_at": "2024-08-30 00:25:17",
-      "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t"
     }
   ],
   "unique_name": "POP EDGE",

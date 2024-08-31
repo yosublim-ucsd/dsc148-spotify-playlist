@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,615 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,755 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 |
-| 2 | [Gariha Tebred](https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Gariha Tebred](https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ) | 4:36 |
+| 1 | [Gariha Tebred](https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Gariha Tebred](https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ) | 4:36 |
+| 2 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 |
 | 3 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
 | 4 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 5 | [Elissa fel good](https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Elissa fel good](https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6) | 5:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 |
 | 60 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 |
 
-Snapshot ID: `ZsRxpAAAAACV9JXpdxurRnM5SZPhAlGZ`
+Snapshot ID: `ZtGyTwAAAABwl3iV9xHMGp3t5yUmRFIt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: YUNSEOKCHEOL TRIO\(윤석철트리오\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,899 likes - 105 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,054 likes - 105 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 98 | [Dead End](https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Dead End](https://open.spotify.com/album/4TDJGeuPpmfvd49P7GWCQ8) | 4:16 |
 | 99 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 |
 | 100 | [Petrichor \(Nature\)](https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y) | [Ham Moon](https://open.spotify.com/artist/0dtGNROSjYX3vMQO0eAKCV) | [Petrichor \(Nature\)](https://open.spotify.com/album/4CGwxkmRPClHlBhiinoLOy) | 4:15 |
-| 101 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 |
+| 101 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/5gxMOLVDelN4hepAI2SJde), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 |
 | 102 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 103 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 |
 | 104 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 |

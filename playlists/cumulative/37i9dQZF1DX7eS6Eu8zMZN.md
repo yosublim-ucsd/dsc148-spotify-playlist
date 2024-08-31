@@ -4,10 +4,11 @@
 
 > Rock tranqui para concentrarse.
 
-97 songs - 5 hr 48 min
+99 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 minutos](https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [10 minutos](https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI) | 3:22 | 2024-08-30 |  |
 | [Abarajame](https://open.spotify.com/track/0CNAg3D3Ox1MggIed6Ktcs) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Abarajame](https://open.spotify.com/album/2nBayLIl2VnOCQo7EdCsbw) | 3:04 | 2021-05-13 | 2024-06-01 |
 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 | 2021-05-13 |  |
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2021-05-13 |  |
@@ -79,12 +80,13 @@
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-26 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
 | [No Me Destruyas \- En Vivo](https://open.spotify.com/track/2FHJQdcr13LFhQHyrvRFXk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo](https://open.spotify.com/album/19iPSmKMoGEDaW1CdePOSc) | 3:44 | 2021-05-13 |  |
-| [Nos Siguen Pegando Abajo](https://open.spotify.com/track/0BYEbV5yHTFpnZ9NZJboNx) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Nos Siguen Pegando Abajo](https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6) | 3:12 | 2021-05-13 |  |
+| [Nos Siguen Pegando Abajo](https://open.spotify.com/track/0BYEbV5yHTFpnZ9NZJboNx) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Nos Siguen Pegando Abajo](https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6) | 3:12 | 2021-05-13 | 2024-08-31 |
 | [Nuestro Amor](https://open.spotify.com/track/0qqaTcKnDSa779ZiauSryr) | [Rojoazul](https://open.spotify.com/artist/0RLx3pe3KWaETFKzbvvtWv) | [Nuestro Amor](https://open.spotify.com/album/4lCrBv0SbaUDLIWjpUpdKe) | 3:34 | 2023-02-24 |  |
 | [Nueva Inglaterra](https://open.spotify.com/track/0bej3tCSLcs4CQXPKuJwG8) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:21 | 2023-03-31 |  |
 | [nunca y después](https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [nunca y después](https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq) | 3:31 | 2024-06-27 |  |
 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 | 2021-05-13 |  |
 | [Para Siempre Joven](https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Para Siempre Joven](https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7) | 3:21 | 2023-09-01 |  |
+| [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 | 2024-08-30 |  |
 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 | 2021-05-13 |  |
 | [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-09-01 |  |
 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 | 2024-03-04 |  |

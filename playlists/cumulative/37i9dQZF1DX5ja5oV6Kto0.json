@@ -3405,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "CRUISE",
+        "url": "https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56"
+      },
+      "artists": [
+        {
+          "name": "Joeyturks",
+          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99310,
+      "name": "CRUISE",
+      "url": "https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq"
+    },
+    {
+      "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/7n6lBzsDCMgjTbnfM6NFSw"
       },
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172758,
       "name": "Darling",
       "url": "https://open.spotify.com/track/1oOm8z9y0D2sg9za839HCC"
@@ -5791,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "Emotional Home",
+        "url": "https://open.spotify.com/album/7opohw2wnSdGNxQl9zf6fK"
+      },
+      "artists": [
+        {
+          "name": "Mx Blouse",
+          "url": "https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/2w4VBVPUyvtCccouC1oMZB"
+    },
+    {
+      "album": {
         "name": "Holiday Sniping",
         "url": "https://open.spotify.com/album/2bByla9AqUB3Rqgz2nFd0F"
       },
@@ -6894,7 +6930,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208080,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/2UN6otFw9o9vHvzc4YrYZC"
@@ -8748,7 +8784,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 110738,
       "name": "Motorola Money",
       "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
@@ -10271,6 +10307,28 @@
     },
     {
       "album": {
+        "name": "Pick a Date (J33J3)",
+        "url": "https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq"
+      },
+      "artists": [
+        {
+          "name": "CozyPols",
+          "url": "https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL"
+        },
+        {
+          "name": "Ria Boss",
+          "url": "https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132134,
+      "name": "Pick a Date (J33J3)",
+      "url": "https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd"
+    },
+    {
+      "album": {
         "name": "Pain/Pleasure",
         "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
       },
@@ -10478,6 +10536,28 @@
       "duration_ms": 150687,
       "name": "Prophesy",
       "url": "https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS"
+    },
+    {
+      "album": {
+        "name": "ROLE MODEL (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154806,
+      "name": "PULL UP (WHERE THE MUD BE)",
+      "url": "https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk"
     },
     {
       "album": {
@@ -13552,6 +13632,28 @@
       "duration_ms": 230400,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/2ljnYyH3utOWhdZkkty1dQ"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/6KKnmBdzuBR4o4Dja6t34z"
+      },
+      "artists": [
+        {
+          "name": "Tena Tenpo",
+          "url": "https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN"
+        },
+        {
+          "name": "Wckedd",
+          "url": "https://open.spotify.com/artist/6efG4C2TiknEf3ybw7Jmx5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7GNEUqWco6aMGNgIlwUqID"
     },
     {
       "album": {

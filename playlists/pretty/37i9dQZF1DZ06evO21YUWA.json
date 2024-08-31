@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Harold Budd. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 5221,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADsOSBju2YC3qYfejdv+YHB",
+  "snapshot_id": "Zs+6AAAAAACzHkxpF5jtpRCOek7okwFj",
   "tracks": [
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 389133,
-      "name": "An Arc Of Doves - Remastered 2004",
-      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+      "duration_ms": 253893,
+      "name": "The Plateaux Of Mirror - Remastered 2004",
+      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 118826,
-      "name": "Widows Charm",
-      "url": "https://open.spotify.com/track/4YQyaDGKZqEO8jpaReOXTw"
+      "duration_ms": 133386,
+      "name": "L'enfant Perdu - 2013 Remaster",
+      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Widows Charm",
+      "url": "https://open.spotify.com/track/4YQyaDGKZqEO8jpaReOXTw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Avalon Sutra (2013 Remaster)",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133386,
-      "name": "L'enfant Perdu - 2013 Remaster",
-      "url": "https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW"
+      "duration_ms": 458400,
+      "name": "Little Heart - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
     },
     {
       "added_at": null,
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 458400,
-      "name": "Little Heart - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
+      "duration_ms": 118720,
+      "name": "Porcelain Ginger - 2013 Remaster",
+      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
     },
     {
       "added_at": null,
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 118720,
-      "name": "Porcelain Ginger - 2013 Remaster",
-      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
+      "duration_ms": 159920,
+      "name": "Arabesque 3 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
     },
     {
       "added_at": null,
@@ -703,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
       "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 159920,
-      "name": "Arabesque 3 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": null,
@@ -735,26 +755,6 @@
       "duration_ms": 434733,
       "name": "A Delicate Romance",
       "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "A Change in the Weather",
-      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 207746,
       "name": "Avenue of Shapes",
       "url": "https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "A Change in the Weather",
+      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
     },
     {
       "added_at": null,

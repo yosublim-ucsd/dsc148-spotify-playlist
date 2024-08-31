@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,785 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,773 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 61 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
 | 62 | [Sólo un Cigarro](https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos Pastor López \(Vol\. 1\)](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 2:49 |
 | 63 | [La Danza de los Mirlos \- Instrumental](https://open.spotify.com/track/2iOXvCGxOqsTw5YQbn5gTY) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 2:54 |
-| 64 | [Ahora Que Puedo](https://open.spotify.com/track/6w9WA6rcQWqB7eNqzPDa9n) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/1cmMx3igYIJLCYC1Wk8iwl) | 3:31 |
+| 64 | [El Trovador del Valle](https://open.spotify.com/track/6mGEeRt6mKHqPleCzQsCnZ) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Parranda Pal Fin de Año](https://open.spotify.com/album/5DGUondUcYvFmg4LV75sJ2) | 3:33 |
 | 65 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
-| 66 | [El Trovador del Valle](https://open.spotify.com/track/6mGEeRt6mKHqPleCzQsCnZ) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Parranda Pal Fin de Año](https://open.spotify.com/album/5DGUondUcYvFmg4LV75sJ2) | 3:33 |
+| 66 | [Ahora Que Puedo](https://open.spotify.com/track/6w9WA6rcQWqB7eNqzPDa9n) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/1cmMx3igYIJLCYC1Wk8iwl) | 3:31 |
 | 67 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
 | 68 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \- Remastered](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 |
 | 69 | [Donde Andara](https://open.spotify.com/track/4Of7bgJveFop4Be3xIGYFK) | [Los Trovadores De Cuyo](https://open.spotify.com/artist/1b04Sisb3cmkfcjvwCjaEV) | [Los Trovadores De Cuyo](https://open.spotify.com/album/6VxG2RkyFbEQLLlXUhidGA) | 3:03 |

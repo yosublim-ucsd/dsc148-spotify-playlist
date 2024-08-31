@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-443 songs - 1 day 1 hr 1 min
+444 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Escape](https://open.spotify.com/track/4vNWSeEhlyIlB9ur17x1S4) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Emilie Adams](https://open.spotify.com/artist/5hALxswu1Hh9HNjFqsfcO0) | [Coming of Age](https://open.spotify.com/album/23jWgWP1GUqt1SK4VS4qzK) | 4:15 | 2021-03-06 | 2021-03-14 |
 | [Esther](https://open.spotify.com/track/3PWpjbSHuAe5UIKLmeEtj9) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther](https://open.spotify.com/album/6kRqTiD3b2CPTMbYV6xU40) | 3:12 | 2021-07-17 | 2021-09-11 |
 | [Euphoria](https://open.spotify.com/track/00KPugdklpcrFNnjWlXjj2) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Euphoria](https://open.spotify.com/album/1Ae9MLhcJLBmnD5vICcr14) | 3:38 | 2023-03-17 | 2024-02-24 |
-| [Every Time I Fall \- Logic1000 Remix](https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [KATYA](https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ) | [Every Time I Fall \(Logic1000 Remix\)](https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW) | 2:30 | 2024-03-22 |  |
+| [Every Time I Fall \- Logic1000 Remix](https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [KATYA](https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ) | [Every Time I Fall \(Logic1000 Remix\)](https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW) | 2:30 | 2024-03-22 | 2024-08-31 |
 | [Everything You Do](https://open.spotify.com/track/247QsT8QFchKblRE69dgm9) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Everything You Do](https://open.spotify.com/album/1RpyLfkDDUVC7b8Ma1XCKy) | 3:00 | 2021-04-24 | 2021-06-12 |
 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 | 2024-02-23 |  |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-01-14 | 2022-07-16 |
@@ -198,6 +198,7 @@
 | [Infinite Love](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS) | [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4) | [Infinite Love](https://open.spotify.com/album/1PjNPYkyGVExyT8zgaafqZ) | 2:59 | 2024-08-09 |  |
 | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/track/6aVXogDmwqAJCrFguyWbKj) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [PRETTY YOUNG](https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh) | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/album/4lKcHUvBeYN49B2fJIqQti) | 3:30 | 2022-03-04 | 2022-06-18 |
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2021-07-31 | 2021-09-18 |
+| [Inner Light](https://open.spotify.com/track/4mD6xnWbbhIjVZe4E7oDkk) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Inner Light](https://open.spotify.com/album/4BVK4kMN8JXRdFbBUpgoGh) | 2:35 | 2024-08-30 |  |
 | [Into You](https://open.spotify.com/track/6mSvPv99eglwMQB0gypeGI) | [Sylow](https://open.spotify.com/artist/4EviTlMaY400FfDijNqzaK), [Steve RGA](https://open.spotify.com/artist/1moCa3rEpOn2cNzv3GdKBN) | [Into You](https://open.spotify.com/album/04uw8O9c0uxp2yy6b9UJp9) | 3:00 | 2021-09-04 | 2021-10-16 |
 | [Isla \- Radio Edit](https://open.spotify.com/track/1s6Ur2LBUGzbAHd935MUw9) | [Felon](https://open.spotify.com/artist/4mRHCOgJQT3Pe6zV89tfYC) | [Isla \(Radio Edit\)](https://open.spotify.com/album/5clwJtMkeaSIRGYYoMhnaN) | 3:12 | 2020-09-13\* | 2021-03-06 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-18 | 2024-05-18 |

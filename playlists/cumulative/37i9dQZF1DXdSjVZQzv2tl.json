@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Matheus Fernandes, Matheus & Kauan",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Jorge & Mateus, Henrique & Juliano\n\n",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -194,6 +194,28 @@
       "duration_ms": 169771,
       "name": "Acordo - Ao Vivo",
       "url": "https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw"
+    },
+    {
+      "album": {
+        "name": "Quest\u00e3o de Tempo - Ao Vivo / Parte 2",
+        "url": "https://open.spotify.com/album/4tcd8Asdup9cwhIpLAxcbx"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149025,
+      "name": "Aham - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq"
     },
     {
       "album": {
@@ -940,6 +962,24 @@
       "duration_ms": 136237,
       "name": "Ciumentalmente - Ao Vivo",
       "url": "https://open.spotify.com/track/3TjIlPeN80uNPLe42XaiGa"
+    },
+    {
+      "album": {
+        "name": "CLONE - Ao Vivo",
+        "url": "https://open.spotify.com/album/1joXkdnMTPXoc4nRIqkr0s"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164401,
+      "name": "CLONE - Ao Vivo",
+      "url": "https://open.spotify.com/track/4dvHZesL5UKzfJnFH5bm3g"
     },
     {
       "album": {
@@ -2066,7 +2106,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 209802,
       "name": "Fim da Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD"
@@ -3586,7 +3626,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 157244,
       "name": "PEGA ESCANDALOSO",
       "url": "https://open.spotify.com/track/0ODlZu2uJ13I29NfFJJVir"
@@ -3794,6 +3834,28 @@
       "duration_ms": 137957,
       "name": "Problem\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2XP7Is6c69WaPgX2Kr65l7"
+    },
+    {
+      "album": {
+        "name": "Fortaleza - Ao Vivo",
+        "url": "https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149323,
+      "name": "Pula Fora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK"
     },
     {
       "album": {

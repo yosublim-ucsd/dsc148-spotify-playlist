@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 237087,
       "name": "Lazy Lovers",
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
@@ -2266,6 +2266,24 @@
       "duration_ms": 290742,
       "name": "Your Lips, My Mouth",
       "url": "https://open.spotify.com/track/28afz1iY04Elvc7YhHDYTt"
+    },
+    {
+      "album": {
+        "name": "Sirio de Sombra",
+        "url": "https://open.spotify.com/album/5tPss25LzXZHU7EZiMN6cH"
+      },
+      "artists": [
+        {
+          "name": "Luis Sosa",
+          "url": "https://open.spotify.com/artist/6EW6psW4qz2SWbqAwMuQgj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276415,
+      "name": "\u00bfTe Puedo Echar un Fonazo? - Bonus Track",
+      "url": "https://open.spotify.com/track/5SDscXDQ46wRKehloMbi4a"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7QM9rGRCxSN"

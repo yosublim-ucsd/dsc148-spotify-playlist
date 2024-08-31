@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Cadetes De Linares. Los temas esenciales, todos en una lista.",
-  "num_followers": 209341,
+  "num_followers": 209409,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAADDrwlpOeHIA5XhOyWdQiXb",
+  "snapshot_id": "Zs+6AAAAAADFsLPRMGdAtNtGr3phNG+m",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una L\u00e1grima y Un Recuerdo",
-        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 143573,
-      "name": "Tu Vida No Me Importa",
-      "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 160253,
       "name": "El Chubasco",
       "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una L\u00e1grima y Un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 143573,
+      "name": "Tu Vida No Me Importa",
+      "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Corridos",
-        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "La Discusion Fue Una Yegua",
-      "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 146040,
       "name": "Llore a Mi Madre",
       "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "La Discusion Fue Una Yegua",
+      "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
     },
     {
       "added_at": null,

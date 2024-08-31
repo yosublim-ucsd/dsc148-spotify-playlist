@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 177285,
       "name": "Echando Pata Rmx",
       "url": "https://open.spotify.com/track/4kfhXUNuqaoxaM3vfIHZEd"
@@ -6730,7 +6730,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204190,
       "name": "Maldad",
       "url": "https://open.spotify.com/track/2lATpikfgRYwnrdNuETjSD"
@@ -7504,6 +7504,28 @@
       "duration_ms": 147216,
       "name": "Modo Endiablado",
       "url": "https://open.spotify.com/track/2gCxRiOFF6DYN66IRH7X3e"
+    },
+    {
+      "album": {
+        "name": "Monear",
+        "url": "https://open.spotify.com/album/7y2DPJLJyjD7GtifrndcKs"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Gelous",
+          "url": "https://open.spotify.com/artist/5kYCLpKf9xPzuAtGV0j7EO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144006,
+      "name": "Monear",
+      "url": "https://open.spotify.com/track/0hqk1voFWMbPZMX9xnoZIx"
     },
     {
       "album": {
@@ -12032,6 +12054,28 @@
       "duration_ms": 115714,
       "name": "Tirando Flow Sesh #13",
       "url": "https://open.spotify.com/track/6FuYBNho335IsIsVhOyt74"
+    },
+    {
+      "album": {
+        "name": "Tirando Flow Sesh #15",
+        "url": "https://open.spotify.com/album/7q3VXjvKERhEmT4cbZQ6IP"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152352,
+      "name": "Tirando Flow Sesh #15",
+      "url": "https://open.spotify.com/track/4cJ1nWt7i4Wo0bHyFbHTrJ"
     },
     {
       "album": {

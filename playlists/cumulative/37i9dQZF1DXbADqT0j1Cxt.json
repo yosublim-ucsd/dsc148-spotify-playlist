@@ -5913,6 +5913,24 @@
     },
     {
       "album": {
+        "name": "Magical Night",
+        "url": "https://open.spotify.com/album/0JD0F8LSIpI4zwTJfD2mGX"
+      },
+      "artists": [
+        {
+          "name": "Lareta Lund",
+          "url": "https://open.spotify.com/artist/5XKKjiDgEp3rBJEJbU4woy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Magical Night",
+      "url": "https://open.spotify.com/track/1uPwR87YlNgWLBqGFiOV4f"
+    },
+    {
+      "album": {
         "name": "Maltipoo",
         "url": "https://open.spotify.com/album/1XfgQ4haboDIQnUrLs2G5s"
       },
@@ -6507,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7"
+      },
+      "artists": [
+        {
+          "name": "All About The Children",
+          "url": "https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132137,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk"
+    },
+    {
+      "album": {
         "name": "My Favorite Pyjamas",
         "url": "https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo"
       },
@@ -6630,6 +6666,24 @@
       "duration_ms": 101703,
       "name": "My little sunshine",
       "url": "https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK"
+    },
+    {
+      "album": {
+        "name": "My Moonlight",
+        "url": "https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS"
+      },
+      "artists": [
+        {
+          "name": "Mia Gardner",
+          "url": "https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157865,
+      "name": "My Moonlight",
+      "url": "https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2"
     },
     {
       "album": {
@@ -11526,6 +11580,24 @@
       "duration_ms": 85770,
       "name": "Yankee Doodle",
       "url": "https://open.spotify.com/track/1YnMwAi7bVwAFyAWhrzTt9"
+    },
+    {
+      "album": {
+        "name": "Yellow & Blue",
+        "url": "https://open.spotify.com/album/6E564DHa5OzweC9UhpAOc9"
+      },
+      "artists": [
+        {
+          "name": "Rio Harris",
+          "url": "https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139144,
+      "name": "Yellow & Blue",
+      "url": "https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd"
     },
     {
       "album": {

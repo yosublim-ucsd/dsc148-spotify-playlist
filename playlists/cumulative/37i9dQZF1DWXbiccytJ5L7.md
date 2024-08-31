@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-135 songs - 7 hr 21 min
+136 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 | 2023-04-14 |  |
 | [Way of Life](https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:45 | 2023-04-21 | 2024-04-19 |
 | [Way of Life](https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo) | 3:45 | 2023-03-17 |  |
+| [What In Tarnation](https://open.spotify.com/track/1AdxwYqpeVDqTeMkLBnjFW) | [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [What In Tarnation](https://open.spotify.com/album/6R6oeoEu6E39xOGbS3jvug) | 2:48 | 2024-08-30 |  |
 | [When I Pull Up](https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K) | 2:26 | 2024-04-19 |  |
 | [When I Pull Up](https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [When I Pull Up](https://open.spotify.com/album/7LfEgScSBQT6MD7ugKB6oa) | 2:26 | 2023-03-17 | 2024-04-19 |
 | [Where I'm From](https://open.spotify.com/track/78DY9z71P8kjGzVBfYKDoh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Where I'm From](https://open.spotify.com/album/4OPbYNUlwte2NpQo31e4IE) | 2:45 | 2023-05-26 | 2023-08-21 |

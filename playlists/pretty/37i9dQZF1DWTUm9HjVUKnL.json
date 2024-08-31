@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 220155,
+  "num_followers": 220157,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtByKQAAAAAQGFmmQDNi8uiNEzOS9xT3",
+  "snapshot_id": "ZtHstAAAAABzxpnIWHm/ksJCYB4QsmWb",
   "tracks": [
+    {
+      "added_at": "2024-08-30 16:00:51",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "added_at": "2024-08-30 16:00:51",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 148465,
+      "name": "INVITATION - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
+    },
     {
       "added_at": "2024-08-29 13:05:45",
       "album": {

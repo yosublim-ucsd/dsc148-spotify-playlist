@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Ella Langley
+> The extraordinary women making great country music today\. Cover: Caylee Hammack
 
-382 songs - 20 hr 48 min
+385 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Brain On Love](https://open.spotify.com/track/5wtwjtyA5qNF1Ml0yACm5d) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Brain On Love](https://open.spotify.com/album/4WWRqLivbF5Wy4EE8ey2KM) | 3:01 | 2023-06-30 | 2023-12-02 |
 | [Break My Heart](https://open.spotify.com/track/3OLjsUcHEN3LseRaqiYxoD) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Break My Heart](https://open.spotify.com/album/1Gz1G8IgDgJK5M5PAmb6K7) | 3:17 | 2022-03-25 | 2022-04-21 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-03-01 |  |
+| [Breaking Dishes](https://open.spotify.com/track/3iwSUhv5sjipxYEp8mAQCW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Breaking Dishes](https://open.spotify.com/album/4OQgjaR3MOhWECN9GPbiNx) | 3:51 | 2024-08-30 |  |
 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 | 2022-09-23 | 2024-07-02 |
 | [BROKEN HEARTS \(DO BROKEN THINGS\)](https://open.spotify.com/track/3zZbFj2cV0lYyXLxaPXnFh) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Broken Hearts \(Do Broken Things\)](https://open.spotify.com/album/1efm4LdXrob1poODgNBTDa) | 3:15 | 2022-12-02 | 2023-06-03 |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2021-12-01 |  |
@@ -111,6 +112,7 @@
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-27 | 2023-04-27 |
 | [good on you](https://open.spotify.com/track/0Mn8Zougsau7RX2vMJJpwo) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4pTPkB7BSDqZboqQYbx7iF) | 3:17 | 2022-03-02 | 2022-07-26 |
 | [Good On You](https://open.spotify.com/track/4rgtVCZ85aJHX0MVPM6fjw) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Good On You](https://open.spotify.com/album/4FgGirHiQSaQS5BApIploW) | 3:07 | 2024-08-02 |  |
+| [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 | 2024-08-30 |  |
 | [Got No Choice](https://open.spotify.com/track/0bZn83nTisBT1OCb7bA3rw) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Got No Choice](https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS) | 3:21 | 2021-12-01 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-03-01 |  |
 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 | 2021-12-01 | 2022-07-29 |
@@ -328,6 +330,7 @@
 | [The Night \(Part 2\)](https://open.spotify.com/track/4GVIjpSUWDTv2vLGetJAuF) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Night Part 1 & 2](https://open.spotify.com/album/3tnZZseudiVenMD2sVAQk8) | 3:20 | 2023-03-01 | 2023-04-19 |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2022-03-02 |  |
 | [The Woman I've Become](https://open.spotify.com/track/3Sov5oiUCNxw1SvljM31V9) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:20 | 2021-12-01 | 2022-07-29 |
+| [The Women Who Raised Me](https://open.spotify.com/track/5KQsuSeWwKZCpQwL151Ue7) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [The Women Who Raised Me](https://open.spotify.com/album/54ugQecBEpbHSCrjBodBtn) | 3:12 | 2024-08-30 |  |
 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-01 | 2022-08-05 |
 | [There Is No Arizona](https://open.spotify.com/track/7Hgcw6qYU1ukRdRGvEkJk3) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Shiver](https://open.spotify.com/album/3Uzu7TMSJiHQNqkIEYFMjb) | 3:56 | 2021-12-01 | 2022-07-01 |
 | [These Days](https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 2:52 | 2021-12-01 | 2024-07-02 |

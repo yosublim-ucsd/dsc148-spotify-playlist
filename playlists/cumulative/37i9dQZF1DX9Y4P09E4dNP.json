@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195093,
       "name": "Awoyo Sofo",
       "url": "https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168960,
       "name": "BOA ME",
       "url": "https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 158122,
       "name": "Demon",
       "url": "https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 220000,
       "name": "June July",
       "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180937,
       "name": "LONELY ROAD",
       "url": "https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5"
@@ -3195,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "Playman",
+        "url": "https://open.spotify.com/album/45CPYCWCa66IajSsnjdHur"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184930,
+      "name": "Playman",
+      "url": "https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -3432,7 +3454,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214453,
       "name": "Slay Queen",
       "url": "https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh"

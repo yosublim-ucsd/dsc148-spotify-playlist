@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada: elevate your aura with Chxrry22, from Scarborough, ON.",
+  "description": "This is R&B in Canada: elevate your aura with Chikoruss, from Montr\u00e9al, QC.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182318,
       "name": "23 SPECIAL",
       "url": "https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169846,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3pQKpXKVx2VUpt62QIdTQZ"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 185025,
       "name": "Day Dreamer",
       "url": "https://open.spotify.com/track/4zTQDFFUD1OM0YpqJWWR8N"
@@ -6636,7 +6636,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186464,
       "name": "FORTUNATE",
       "url": "https://open.spotify.com/track/4n2y2jCJpQwy1Ywa85oLmA"
@@ -8482,6 +8482,24 @@
       "duration_ms": 181227,
       "name": "I Love Being Invisible",
       "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
+    },
+    {
+      "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/6FfWbCQ2pXt4BCUbaltCAv"
+      },
+      "artists": [
+        {
+          "name": "Jhyve",
+          "url": "https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/3MQNYASnna86zXaQE45uZT"
     },
     {
       "album": {
@@ -10986,7 +11004,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172800,
       "name": "Love In Me",
       "url": "https://open.spotify.com/track/6uT0CYISZil3WQorOCZrfl"
@@ -12473,6 +12491,24 @@
     },
     {
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/7t5yyz6GuKlHIzRtclVJ25"
+      },
+      "artists": [
+        {
+          "name": "Samalong",
+          "url": "https://open.spotify.com/artist/4yOkiVMHxAhibnNCjD7C7j"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173183,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/1wnDABRajTJptHOOlJ3hL1"
+    },
+    {
+      "album": {
         "name": "Need Nothing",
         "url": "https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz"
       },
@@ -13384,6 +13420,24 @@
       "duration_ms": 172173,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1"
+    },
+    {
+      "album": {
+        "name": "Old Life",
+        "url": "https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Old Life",
+      "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
     },
     {
       "album": {
@@ -17032,7 +17086,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 238055,
       "name": "So Familiar",
       "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
@@ -21328,6 +21382,24 @@
       "duration_ms": 174890,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8"
+    },
+    {
+      "album": {
+        "name": "WITH ME",
+        "url": "https://open.spotify.com/album/37owlD1LKiAHE5n6gZcxlU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9llen",
+          "url": "https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143355,
+      "name": "WITH ME",
+      "url": "https://open.spotify.com/track/7eCAmXqtRYrRhyu3WbsdZo"
     },
     {
       "album": {

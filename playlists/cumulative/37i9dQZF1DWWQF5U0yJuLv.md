@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-211 songs - 15 hr 42 min
+212 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Endless Jasmine](https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 4:53 | 2023-02-17 |  |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y) | 6:59 | 2023-02-17 | 2024-04-19 |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2023-02-17 |  |
-| [Eyen](https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:20 | 2023-02-17 |  |
+| [Eyen](https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:20 | 2023-02-17 | 2024-08-31 |
 | [Eyen](https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB) | 4:20 | 2023-02-17 | 2024-04-19 |
 | [Fahrenheit Fair Enough](https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh) | [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC) | [Fahrenheit Fair Enough](https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2) | 6:40 | 2023-02-17 |  |
 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 | 2023-02-17 |  |
@@ -137,6 +137,7 @@
 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 | 2023-02-17 |  |
 | [Officer's Club](https://open.spotify.com/track/58A5kjUiP3VJZedyacmHzs) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Bizarster](https://open.spotify.com/album/7J9TDj6wxFbYGorUJoHm17) | 4:26 | 2023-02-17 |  |
 | [On Our Way Home](https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Postcards](https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo) | 3:57 | 2023-02-17 |  |
+| [Orange Evening](https://open.spotify.com/track/2Os3uq6WxoQmhdUJkbToIq) | [DWIG](https://open.spotify.com/artist/13ZYzKJHN4B7o3zqxr54wn) | [Big Tales](https://open.spotify.com/album/3KzGSYuMMY4yvqwQlUFSud) | 7:11 | 2024-08-30 |  |
 | [Outlook for the Future](https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE) | [Inventions](https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW) | [Continuous Portrait](https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7) | 3:30 | 2023-02-17 | 2024-04-19 |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2023-02-17 |  |
 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2023-02-17 |  |

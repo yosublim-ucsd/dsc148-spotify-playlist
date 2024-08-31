@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "The First Time (Heartstopper Mix)",
+        "url": "https://open.spotify.com/album/4CjMzIvS41RzrrpyUxbeuw"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155196,
+      "name": "The First Time - Heartstopper Mix",
+      "url": "https://open.spotify.com/track/5jxcyGRTnq1BbeQcYsgQGX"
+    },
+    {
+      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },

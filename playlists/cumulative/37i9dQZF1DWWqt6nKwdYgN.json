@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Yoss Bones en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204836,
       "name": "A los que he Conocido",
       "url": "https://open.spotify.com/track/5mmXnqIvjOhh4FPMp7RG47"
@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Con la Frente en Alto",
+        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Con la Frente en Alto",
+      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
+    },
+    {
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3EfRXjDxv4DcybfywCr657"
       },
@@ -3889,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "EL FOCO",
+        "url": "https://open.spotify.com/album/6SjPxBrujYIrRwoXUhxBre"
+      },
+      "artists": [
+        {
+          "name": "GIIANPA NK",
+          "url": "https://open.spotify.com/artist/1iK0f5NQeoyMew8mHVKEBb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "EL FOCO",
+      "url": "https://open.spotify.com/track/0lpcvU39R3id2Gwj695DWQ"
+    },
+    {
+      "album": {
         "name": "El Fr\u00edo Ac\u00e1",
         "url": "https://open.spotify.com/album/0IczMkYrP6ShA5Z1OkDLzc"
       },
@@ -4284,6 +4320,36 @@
       "duration_ms": 224256,
       "name": "EN LA RAYA",
       "url": "https://open.spotify.com/track/5RU8pWeiBlqPw1IW0ZAPa0"
+    },
+    {
+      "album": {
+        "name": "En los Brazos de Morfeo",
+        "url": "https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210261,
+      "name": "En los Brazos de Morfeo",
+      "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
     },
     {
       "album": {
@@ -4732,7 +4798,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212466,
       "name": "Eyes On The Prize",
       "url": "https://open.spotify.com/track/4tuubvvEWkgmEWkxg2Dqti"
@@ -5186,7 +5252,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194607,
       "name": "GroCERO",
       "url": "https://open.spotify.com/track/3B73ptNPZzGTYsQqHjZEP1"
@@ -8613,6 +8679,24 @@
     },
     {
       "album": {
+        "name": "MPD",
+        "url": "https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o"
+      },
+      "artists": [
+        {
+          "name": "Stilo",
+          "url": "https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191116,
+      "name": "MPD",
+      "url": "https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k"
+    },
+    {
+      "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV"
       },
@@ -8856,6 +8940,28 @@
       "duration_ms": 245379,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
+    },
+    {
+      "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
     },
     {
       "album": {
@@ -10822,7 +10928,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172631,
       "name": "Puro So\u00f1ador",
       "url": "https://open.spotify.com/track/6n5qZ480oyxvNxsD0hNQLm"
@@ -11692,7 +11798,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195240,
       "name": "SENSOU",
       "url": "https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO"

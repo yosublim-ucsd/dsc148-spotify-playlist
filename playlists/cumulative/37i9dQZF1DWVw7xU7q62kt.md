@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-225 songs - 11 hr 52 min
+226 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Geshem Bejuni](https://open.spotify.com/track/5cNwyrLTHLRN983VHYm7DR) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Geshem Bejuni](https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP) | 3:07 | 2024-01-26 |  |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 |  |
 | [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |
-| [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 |  |
+| [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 | 2024-08-31 |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 |  |
 | [Heyoka](https://open.spotify.com/track/3NCnbcbwC9mO8DnHGFMShE) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:09 | 2023-08-22 |  |
 | [Hidden Gems](https://open.spotify.com/track/2yAs9J6qFOdr7JuaWBDsM4) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Sedimental](https://open.spotify.com/album/1lQq9mUXrgcHt5eFWRgqRO) | 2:37 | 2024-06-07 |  |
@@ -135,6 +135,7 @@
 | [Mamba Nova](https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8) | [TWYN](https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm) | [Mamba Nova](https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv) | 3:55 | 2024-06-04 | 2024-08-24 |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 |  |
 | [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 |  |
+| [mira la noche](https://open.spotify.com/track/6wFX7sd6VMY6Fqd29fkgmq) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [mira la noche](https://open.spotify.com/album/2OpONlRS6cr5lYQpJwY8cz) | 1:52 | 2024-08-30 |  |
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2023-08-22 |  |
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2023-08-22 | 2023-08-26 |
 | [Moonrock](https://open.spotify.com/track/2bW4WW3ykZgWlEuji5qWoq) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 3:34 | 2023-08-22 | 2024-04-19 |
@@ -177,7 +178,7 @@
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2024-03-20 | 2024-06-05 |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-08-22 | 2024-04-19 |
 | [Sista Dansen](https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 2:17 | 2024-02-21 | 2024-08-25 |
-| [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Chaerin](https://open.spotify.com/artist/4NOc6VcAK0HNUDG63BmB49) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2024-08-23 |  |
+| [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2024-08-23 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Speaker](https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Speaker](https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn) | 2:03 | 2023-08-22 |  |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2023-08-22 |  |

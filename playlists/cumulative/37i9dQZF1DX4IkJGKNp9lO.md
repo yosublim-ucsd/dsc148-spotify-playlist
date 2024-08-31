@@ -4,7 +4,7 @@
 
 > 
 
-333 songs - 15 hr 34 min
+334 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Sid & Nancy](https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Sid & Nancy](https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa) | 2:36 | 2021-12-14 | 2022-11-13 |
 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 | 2021-12-14 |  |
 | [Sista dansen](https://open.spotify.com/track/2NJ7ZnOwK9FUs7mcF48g6g) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Kryptonit](https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg) | 4:39 | 2021-12-14 | 2022-06-20 |
+| [Skomakare, bliv vid din läst](https://open.spotify.com/track/6OUXEjVjBcJF09C3zqJABr) | [Skallbank](https://open.spotify.com/artist/3VWuRQ6i73J9RRgpRH2IaH) | [Skomakare, bliv vid din läst](https://open.spotify.com/album/292pu4Dl90xGeGfasR16Uv) | 3:30 | 2024-08-29 |  |
 | [SKRAPADE DRÖMMAR, SARGAT HOPP](https://open.spotify.com/track/6dJOFKJZGTafFRmUwwi7KE) | [Knifven](https://open.spotify.com/artist/3XjDzkzNYvDrUU23wbQwYi) | [SKRAPADE DRÖMMAR, SARGAT HOPP](https://open.spotify.com/album/4ZPgV9J3PVEdFrsZX0XSYu) | 2:22 | 2024-04-11 |  |
 | [Slåss som en tjej](https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Slåss som en tjej](https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ) | 2:33 | 2021-12-14 |  |
 | [Slumra in](https://open.spotify.com/track/4coFp7UReaPQ98O9lQN8Gg) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 4:00 | 2021-12-14 | 2024-08-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,019 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,100 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 46 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 |
 | 47 | [Cigana](https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:18 |
 | 48 | [Cigana Drill](https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n) | [Bell Puã](https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH) | [Jogo de Cintura](https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag) | 3:20 |
-| 49 | [Bolo e Rebolo](https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo) | [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [Lucas Faria](https://open.spotify.com/artist/7kmdKa5nuCqo8g9u4PDs7d) | [Bolo e Rebolo](https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi) | 3:01 |
+| 49 | [Bolo e Rebolo](https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo) | [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [Faria Hesitate](https://open.spotify.com/artist/3lKSyXRQuOpyRQgS956cZP) | [Bolo e Rebolo](https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi) | 3:01 |
 | 50 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 51 | [APOCALÍPTIKA](https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 3:03 |
 | 52 | [GROUPIES](https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [GROUPIES](https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1) | 2:04 |

@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215555,
       "name": "Alpha Binaural Focus 115Hz - 123Hz",
       "url": "https://open.spotify.com/track/5TR5odtJghbnXb9bQv6ubl"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 193548,
       "name": "Alpha Focus Waves 128Hz - 136Hz",
       "url": "https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1"
@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Alpha Rain 90-99 Hz",
+        "url": "https://open.spotify.com/album/0RR7xkSORDYmUhtHoAqPV7"
+      },
+      "artists": [
+        {
+          "name": "Rio Delacruz",
+          "url": "https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Alpha Rain 90-99 Hz",
+      "url": "https://open.spotify.com/track/4f8sots2fOhtoTs033cPVU"
+    },
+    {
+      "album": {
         "name": "Alpha Relief 94 Hz - 102 Hz",
         "url": "https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188910,
       "name": "Alpha Relief 94 Hz - 102 Hz",
       "url": "https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 182000,
       "name": "Alpha Texture",
       "url": "https://open.spotify.com/track/1xPhw3ANIfXgmjhP94yyNY"
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194816,
       "name": "Alpha Zone 12 Hz",
       "url": "https://open.spotify.com/track/5pvXmEJq200PuwgHxHJALZ"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162580,
       "name": "Binaural 31HZ Gamma - 25HZ - 56HZ",
       "url": "https://open.spotify.com/track/7AY8pSix9jKlb0BMAszqeN"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154552,
       "name": "Binaural Beta Sinus 190 Hz - 220 Hz",
       "url": "https://open.spotify.com/track/3WYDawkTDKiNluDMrelzME"
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 150093,
       "name": "Binaural Gamma Sinus 100 Hz - L 140 Hz - R",
       "url": "https://open.spotify.com/track/0IZC0tSJzPQwPbbDqQzGJZ"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 128545,
       "name": "Binaural Gamma Sinus 300 Hz - 350 Hz",
       "url": "https://open.spotify.com/track/1CQI0C8YWCrzWmEhfJrWB3"
@@ -3030,6 +3048,24 @@
       "duration_ms": 199124,
       "name": "Circumspect Alpha 10Hz",
       "url": "https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi"
+    },
+    {
+      "album": {
+        "name": "Clarity - Gamma 30Hz",
+        "url": "https://open.spotify.com/album/3vSNQ297hwkUzBNiDsCotb"
+      },
+      "artists": [
+        {
+          "name": "wave to mind",
+          "url": "https://open.spotify.com/artist/1VcACRpz90WRkE4f4X7wPe"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177349,
+      "name": "Clarity - Gamma 30Hz",
+      "url": "https://open.spotify.com/track/5DbO0aG4WmV7X8PatPz21Y"
     },
     {
       "album": {
@@ -3660,7 +3696,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 192000,
       "name": "Gamma 100 - 130 Hz",
       "url": "https://open.spotify.com/track/0cDRrPhgUEpNXDu2p0DEFD"
@@ -3696,7 +3732,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214598,
       "name": "Gamma 120 Hz - L 170 Hz - R Drone",
       "url": "https://open.spotify.com/track/37cJqEBAta7bLXqVmwTiG4"
@@ -3840,7 +3876,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 165241,
       "name": "Gamma Clarity 103 Hz - 143 Hz",
       "url": "https://open.spotify.com/track/3qCvtu6V8kno7zCQuCl308"
@@ -3966,7 +4002,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208793,
       "name": "Gamma Sinus 120 Hz - 170 Hz",
       "url": "https://open.spotify.com/track/3qdY0cHqy1YsvwIBu691j4"
@@ -4240,7 +4276,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213624,
       "name": "Gamma Waves 68.5 + 71 hz",
       "url": "https://open.spotify.com/track/11zQg4nLvj6Pod4L1dAO6O"
@@ -4301,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Gust Of Joy Alpha 169-178hz",
+        "url": "https://open.spotify.com/album/57I03bF7Yvn4SItF9my4V2"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Gust Of Joy Alpha 169-178hz",
+      "url": "https://open.spotify.com/track/260EngyUCgtov9YR3t836N"
+    },
+    {
+      "album": {
         "name": "Sound Bath",
         "url": "https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw"
       },
@@ -4312,7 +4366,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 218655,
       "name": "Healing Alpha Sinus 106Hz - 113Hz",
       "url": "https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp"
@@ -4924,7 +4978,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 138969,
       "name": "reflection - Binaural Alpha Sinus 90Hz - 98Hz",
       "url": "https://open.spotify.com/track/3LYevpQVcwmiH4S0OGTqnP"
@@ -5014,7 +5068,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 153000,
       "name": "Silk Cocoon C# Gamma (77-134hz)",
       "url": "https://open.spotify.com/track/2BxwnvgDYhBP3LZbd8tkDu"
@@ -5072,6 +5126,24 @@
       "duration_ms": 208000,
       "name": "Sinus 90 Hz - L 120 Hz - R Drone",
       "url": "https://open.spotify.com/track/0v2mApJ0py4fN6dqzkBJ5t"
+    },
+    {
+      "album": {
+        "name": "Skyscraper View Gamma 100-180hz",
+        "url": "https://open.spotify.com/album/5i5yaFuRcs3AncM0Hiv672"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Skyscraper View Gamma 100-180hz",
+      "url": "https://open.spotify.com/track/1NTrfqrjUK3ysMBci8R6oF"
     },
     {
       "album": {
@@ -5374,7 +5446,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 161666,
       "name": "The Alpha Cycle 110Hz - 119Hz",
       "url": "https://open.spotify.com/track/6M2rghYZkAl2DgTMtOinuC"

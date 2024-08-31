@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 10692,
+  "num_followers": 10706,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELvAAAAAA8Th+IAQFdrRsE8W6OEZuI",
+  "snapshot_id": "ZtGeZAAAAABDaP6I8WQ/nzhv1keTGaVG",
   "tracks": [
     {
       "added_at": "2024-08-23 00:01:00",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
     },
     {
+      "added_at": "2024-08-23 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 28 (The Second Set Live at the Durban Icc)",
+        "url": "https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 553152,
+      "name": "Uyabusa (Live at the Durban Icc)",
+      "url": "https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Halle - Remix",
@@ -933,40 +949,20 @@
       "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
-      "added_at": "2024-08-23 00:01:00",
+      "added_at": "2024-01-05 00:01:00",
       "album": {
-        "name": "Joyous Celebration 28 (The Second Set Live at the Durban Icc)",
-        "url": "https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ"
+        "name": "Never seen",
+        "url": "https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
         }
       ],
-      "duration_ms": 553152,
-      "name": "Uyabusa (Live at the Durban Icc)",
-      "url": "https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "All Things Are Possible (Live)",
-        "url": "https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S"
-      },
-      "artists": [
-        {
-          "name": "EJ Newton",
-          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
-        },
-        {
-          "name": "Great Grace Music",
-          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "All Things Are Possible (Live)",
-      "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
+      "duration_ms": 315483,
+      "name": "Never seen",
+      "url": "https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S"
     }
   ],
   "unique_name": "Redeemed",

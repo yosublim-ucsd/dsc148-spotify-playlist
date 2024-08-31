@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=lju9s15lTYyoBzioK5ACXQ>Manana</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn?si=vcJmKJP4RlyaQygCphUdiw>Joya Mooi</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 150522,
       "name": "Birds",
       "url": "https://open.spotify.com/track/1Jy2MJzzfP6FHF9TeeMHtd"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 187702,
       "name": "Blest",
       "url": "https://open.spotify.com/track/6qKllVNzmfdjDVQuzqiC2C"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
@@ -724,6 +724,24 @@
       "duration_ms": 226740,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+    },
+    {
+      "album": {
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/2tUgcQUy5QVJEAgjr4XdNa"
+      },
+      "artists": [
+        {
+          "name": "Yashna",
+          "url": "https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171910,
+      "name": "Brand New Me",
+      "url": "https://open.spotify.com/track/3e1WiZKZSPqjejsE95MaLJ"
     },
     {
       "album": {
@@ -850,7 +868,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 211500,
       "name": "CALL ME",
       "url": "https://open.spotify.com/track/53F1jPpysEPoqL4KZ1PYmX"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180705,
       "name": "CATCH ME",
       "url": "https://open.spotify.com/track/77sOagZT4DSsXJpsmjOu9p"
@@ -1032,6 +1050,24 @@
       "duration_ms": 227688,
       "name": "CLOWN",
       "url": "https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd"
+    },
+    {
+      "album": {
+        "name": "Coffee In The Morning",
+        "url": "https://open.spotify.com/album/7309E3YupTU0JV7Tr3PJuH"
+      },
+      "artists": [
+        {
+          "name": "Zimkitha",
+          "url": "https://open.spotify.com/artist/6A7lXry2Pg5fOttzmjqpDy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Coffee In The Morning",
+      "url": "https://open.spotify.com/track/3kNJP86qR3rdhLaCP9Z4bR"
     },
     {
       "album": {
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168751,
       "name": "Every day",
       "url": "https://open.spotify.com/track/7HywDyyDdavWKQr8GoJi7m"
@@ -1716,7 +1752,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 233133,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0mgGRppM3zT42tslWmduUU"
@@ -2182,7 +2218,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 175565,
       "name": "Go Girlfriend",
       "url": "https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW"
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208080,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/2UN6otFw9o9vHvzc4YrYZC"
@@ -2902,7 +2938,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
@@ -3457,6 +3493,32 @@
     },
     {
       "album": {
+        "name": "Misscomplicationship (Yolophonik Remix)",
+        "url": "https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq"
+      },
+      "artists": [
+        {
+          "name": "Retro Vibe",
+          "url": "https://open.spotify.com/artist/6YwTq9An1a91MBtsBMVC4d"
+        },
+        {
+          "name": "Gemma Fassie",
+          "url": "https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS"
+        },
+        {
+          "name": "Yolophonik",
+          "url": "https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214468,
+      "name": "Misscomplicationship - Yolophonik Remix",
+      "url": "https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -3523,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "My Ones",
+        "url": "https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC"
+      },
+      "artists": [
+        {
+          "name": "Kwxd",
+          "url": "https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162545,
+      "name": "My Ones",
+      "url": "https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG"
+    },
+    {
+      "album": {
         "name": "My Terms",
         "url": "https://open.spotify.com/album/0sHRtny2YtgcRNPEJehPI6"
       },
@@ -3560,7 +3640,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195708,
       "name": "My Time (feat. Loki)",
       "url": "https://open.spotify.com/track/3PjepBofgRr63rQc5uhsfp"
@@ -3879,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Open Hearts",
+        "url": "https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217056,
+      "name": "Open Hearts",
+      "url": "https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn"
+    },
+    {
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd"
       },
@@ -3992,7 +4090,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160824,
       "name": "PAST MYSELF",
       "url": "https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf"
@@ -4206,6 +4304,32 @@
       "duration_ms": 179560,
       "name": "Range 95\u2019",
       "url": "https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG"
+    },
+    {
+      "album": {
+        "name": "HiMARi",
+        "url": "https://open.spotify.com/album/7j0nAfisPyUCKLieNvyyAc"
+      },
+      "artists": [
+        {
+          "name": "ol.floww",
+          "url": "https://open.spotify.com/artist/1cz6VVSjAhAghXHArS8zua"
+        },
+        {
+          "name": "Wtf11even",
+          "url": "https://open.spotify.com/artist/2FlYwz7OTJX6QwHa4KV6op"
+        },
+        {
+          "name": "Lanyo",
+          "url": "https://open.spotify.com/artist/0q82RBAFu3Vz5JCmlM1qFg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201857,
+      "name": "REAL LiFE",
+      "url": "https://open.spotify.com/track/1DafjUNmLT0gWOW5awRUii"
     },
     {
       "album": {
@@ -5094,7 +5218,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
@@ -5587,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "VIBE",
+        "url": "https://open.spotify.com/album/6GsHPxV3QdKnTfKbynPP9W"
+      },
+      "artists": [
+        {
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "VIBE",
+      "url": "https://open.spotify.com/track/2V2X9CZ99YVf2oWjyg1DVn"
+    },
+    {
+      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -5642,6 +5784,24 @@
       "duration_ms": 184507,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/2ryIzbmrbRWMfhelJiVcR8"
+    },
+    {
+      "album": {
+        "name": "Sun's Getting Low",
+        "url": "https://open.spotify.com/album/6EXkrjnZyk2iDMsZfuHjEj"
+      },
+      "artists": [
+        {
+          "name": "Naye Ayla",
+          "url": "https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195353,
+      "name": "W4M",
+      "url": "https://open.spotify.com/track/4YvxI4JYB5WJleJx9lNbzO"
     },
     {
       "album": {

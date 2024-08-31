@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 39482,
+  "num_followers": 39496,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAABGbio1SzKoe8shRWaszJX5",
+  "snapshot_id": "Zs+6AAAAAADDST9wasBbtMPNZoycpfot",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa proveer\u00e1s",
+        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Libertador",
         "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
       },
@@ -187,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa proveer\u00e1s",
-        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
       },
       "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 368020,
-      "name": "T\u00fa proveer\u00e1s",
-      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
+      "duration_ms": 235893,
+      "name": "Rey",
+      "url": "https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ"
     },
     {
       "added_at": null,
@@ -239,22 +255,6 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/6WUJmzEMK7EBa2LLgp96s0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Rey",
-      "url": "https://open.spotify.com/track/7EQLP2hUQTtOdnnnxeztbJ"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo En Jes\u00fas",
-        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Solo En Jes\u00fas",
-      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
         "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo En Jes\u00fas",
+        "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Solo En Jes\u00fas",
+      "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
     },
     {
       "added_at": null,
@@ -639,38 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stories On Stories",
-        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 240457,
-      "name": "Stories On Stories",
-      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 326974,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -691,22 +659,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus People",
-        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
       },
       "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Cristo Es Necesario",
-      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
+      "duration_ms": 326974,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 240457,
+      "name": "Stories On Stories",
+      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 303373,
       "name": "Loco Amor - Spanish Version",
       "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 245621,
+      "name": "Cristo Es Necesario",
+      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EVANGELIO (En Vivo)",
         "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 494415,
       "name": "Danzando (En Vivo)",
       "url": "https://open.spotify.com/track/16fCUIyZ3BeBQmmpMNOcg2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
     },
     {
       "added_at": null,
@@ -967,30 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venga Tu Reino",
-        "url": "https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 453077,
-      "name": "Me Rindo (feat. Karen Espinosa & Christine D'Clario)",
-      "url": "https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot"
+      "duration_ms": 270404,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

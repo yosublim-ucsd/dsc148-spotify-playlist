@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Los Outsaiders",
-  "num_followers": 297850,
+  "num_followers": 297860,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Instinto Felino",
+        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 188431,
+      "name": "Lo Que Nadie Supo Dar",
+      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Yo Me Estreso",
         "url": "https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 190875,
       "name": "Lo Que Hay Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Instinto Felino",
-        "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 188431,
-      "name": "Lo Que Nadie Supo Dar",
-      "url": "https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "La Bas(e)",
-        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
+        "name": "T\u00fa Ya No Dices Nada",
+        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        },
+        {
+          "name": "Manola",
+          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
         }
       ],
-      "duration_ms": 183640,
-      "name": "La Bas(e)",
-      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
+      "duration_ms": 215940,
+      "name": "T\u00fa Ya No Dices Nada",
+      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -995,6 +999,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "La Bas(e)",
+        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "La Bas(e)",
+      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "D\u00eda Uno",
         "url": "https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 169226,
       "name": "D\u00eda Uno",
       "url": "https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "T\u00fa Ya No Dices Nada",
-        "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        },
-        {
-          "name": "Manola",
-          "url": "https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK"
-        }
-      ],
-      "duration_ms": 215940,
-      "name": "T\u00fa Ya No Dices Nada",
-      "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Renacimiento",
+        "url": "https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 212810,
+      "name": "Sentimientos Encontrados",
+      "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Renacimiento",
-        "url": "https://open.spotify.com/album/1bgDT6xm0mP29HMfGTbpAm"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 212810,
-      "name": "Sentimientos Encontrados",
-      "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Rorschach",
         "url": "https://open.spotify.com/album/2tv9tKzFcJC4h1hfbLgo0c"
       },
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Tatuada Tu Huella",
-        "url": "https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0"
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
       "artists": [
         {
-          "name": "David Otero",
-          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Tatuada Tu Huella",
-      "url": "https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1"
+      "duration_ms": 250746,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1175,22 +1175,6 @@
       "duration_ms": 287494,
       "name": "Serenata de una ruta larga",
       "url": "https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "PRISMARAMA",
-        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/79TPB4n8m3evt7RUJZ1Kqe"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 216184,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Tatuada Tu Huella",
+        "url": "https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0"
+      },
+      "artists": [
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Tatuada Tu Huella",
+      "url": "https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1"
     },
     {
       "added_at": "2024-08-23 04:00:00",

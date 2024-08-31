@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Gemelos De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 23518,
+  "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
+  "num_followers": 23536,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAB+k4BHFwi+udQD8MxFU6xy",
+  "snapshot_id": "Zs+6AAAAAADo4KRv/AA7x4QGxNjG1zrW",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suerte No Fue",
-        "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
       "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Suerte No Fue",
-      "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
+      "duration_ms": 215945,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
     },
     {
       "added_at": null,
@@ -299,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suerte No Fue",
+        "url": "https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Suerte No Fue",
+      "url": "https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 215945,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 169598,
+      "name": "POR TU CULPA",
+      "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Cruz",
         "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 169598,
-      "name": "POR TU CULPA",
-      "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 259493,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Michoacano",
+        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 227808,
+      "name": "El Michoacano",
+      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
     },
     {
       "added_at": null,
@@ -599,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Michoacano",
-        "url": "https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw"
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
       "artists": [
         {
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 227808,
-      "name": "El Michoacano",
-      "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
+      "duration_ms": 164309,
+      "name": "NMMS",
+      "url": "https://open.spotify.com/track/4PtZh2Xu5EohHdVBTLuUqz"
     },
     {
       "added_at": null,
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+        "name": "Me Toco Ayudar",
+        "url": "https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 164309,
-      "name": "NMMS",
-      "url": "https://open.spotify.com/track/4PtZh2Xu5EohHdVBTLuUqz"
+      "duration_ms": 195119,
+      "name": "Me Toco Ayudar",
+      "url": "https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 169898,
       "name": "NO TENIA NADA",
       "url": "https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Toco Ayudar",
-        "url": "https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195119,
-      "name": "Me Toco Ayudar",
-      "url": "https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 168019,
-      "name": "AZULES",
-      "url": "https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Opci\u00f3n",
         "url": "https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 116000,
       "name": "Sin Opci\u00f3n",
       "url": "https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "AZULES",
+      "url": "https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI"
     },
     {
       "added_at": null,

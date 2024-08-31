@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151283,
       "name": "365 (Thr33 6ix 5ive)",
       "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 166451,
       "name": "Boy (feat. JONES)",
       "url": "https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 224548,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/5FCzMiHrGRayOu12J65Syp"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
@@ -2607,6 +2607,40 @@
     },
     {
       "album": {
+        "name": "Finally (feat. Julie McKnight) - Mochakk, Jay Mariani & Cesar Nardini Remix",
+        "url": "https://open.spotify.com/album/71TM55nYtpLkIW5XbPFqgM"
+      },
+      "artists": [
+        {
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
+        },
+        {
+          "name": "Julie McKnight",
+          "url": "https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f"
+        },
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Cesar Nardini",
+          "url": "https://open.spotify.com/artist/0a7dijn46vYeuOxZ31dH1R"
+        },
+        {
+          "name": "Jay Mariani",
+          "url": "https://open.spotify.com/artist/0GnlGTrLudYoLF6hAXo3cM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "Finally (feat. Julie McKnight) - Mochakk, Jay Mariani & Cesar Nardini Remix",
+      "url": "https://open.spotify.com/track/3U5J8mevZ8mRvx8JAI0491"
+    },
+    {
+      "album": {
         "name": "For The Weekend",
         "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
       },
@@ -2840,7 +2874,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "French 75",
       "url": "https://open.spotify.com/track/4kMa10rUvrtekpPGrNROWC"
@@ -3267,6 +3301,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah Anyway (Larse VIP)",
+        "url": "https://open.spotify.com/album/1pfV5ElQrTPWXgAZCdelbk"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        },
+        {
+          "name": "Larse",
+          "url": "https://open.spotify.com/artist/44VYaq2KjuU7hFvtD4Darm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231167,
+      "name": "Hallelujah Anyway - Larse VIP",
+      "url": "https://open.spotify.com/track/5fWhvRhUnRLwa0a2bSEljn"
+    },
+    {
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW"
       },
@@ -3594,7 +3650,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 192755,
       "name": "Higher Than You",
       "url": "https://open.spotify.com/track/4S6M5BQxrpP9pRQIBpVzxP"
@@ -3803,6 +3859,28 @@
     },
     {
       "album": {
+        "name": "House Music Pt. 2 (Riva Starr Mo' Disco 2.5 Remix)",
+        "url": "https://open.spotify.com/album/3tW91bv2HwU3sq930bVZhG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Amador",
+          "url": "https://open.spotify.com/artist/4d4BTB5YOMdDyTCgU1boCN"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "House Music - Riva Starr Mo' Disco 2.5 Remix",
+      "url": "https://open.spotify.com/track/39b3kw8UDoHDCOuRGFi5QP"
+    },
+    {
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/2CqDu15PFUQlGmpjWUPATE"
       },
@@ -3990,7 +4068,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213334,
       "name": "I Feel For You - Star B Remix",
       "url": "https://open.spotify.com/track/3IeCTI1sPQKF0fXUzMFGmH"
@@ -4096,7 +4174,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 303739,
       "name": "In Da House",
       "url": "https://open.spotify.com/track/3TqQKlQS8jjBCQenh0jRhS"
@@ -4427,6 +4505,36 @@
     },
     {
       "album": {
+        "name": "Jolie Fille",
+        "url": "https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Layefa",
+          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194442,
+      "name": "Jolie Fille",
+      "url": "https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB"
+    },
+    {
+      "album": {
         "name": "Jump on It",
         "url": "https://open.spotify.com/album/2I57ugS6NHU9V9Es3jleNN"
       },
@@ -4512,7 +4620,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 179166,
       "name": "Jumpin' - Wh0 Remix",
       "url": "https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB"
@@ -4592,6 +4700,28 @@
       "duration_ms": 189816,
       "name": "Kimbara",
       "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "album": {
+        "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+        "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150987,
+      "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
+      "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
     },
     {
       "album": {
@@ -5062,7 +5192,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 196075,
       "name": "Lose My Mind (feat. Taylor Moody)",
       "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
@@ -5124,7 +5254,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 389760,
       "name": "Love in Rio",
       "url": "https://open.spotify.com/track/0Bm1cyEBRY6f7KpzIhG9yw"
@@ -5484,7 +5614,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215648,
       "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
       "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
@@ -5550,7 +5680,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 189212,
       "name": "Mia Pembe (Mojjo Remix)",
       "url": "https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9"
@@ -5740,7 +5870,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Move With Me - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75"
@@ -5946,7 +6076,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180507,
       "name": "New Millenium (feat. Topazz)",
       "url": "https://open.spotify.com/track/1eEPPA57q2V1EqHZ4O46mU"
@@ -6144,7 +6274,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 265365,
       "name": "Now Or Never - Gregor Salto Radio Edit",
       "url": "https://open.spotify.com/track/6SKfEQtJtub7opGLeMSd0m"
@@ -6468,7 +6598,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172384,
       "name": "OOH",
       "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
@@ -6534,7 +6664,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
@@ -6556,7 +6686,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 384000,
       "name": "Owner of a Lonely Heart - Luca Olivotto Remix",
       "url": "https://open.spotify.com/track/0USvCJS5xGmzvbm9rBL2ZV"
@@ -7752,7 +7882,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 191953,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB"
@@ -8088,7 +8218,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
@@ -8514,7 +8644,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
@@ -8536,7 +8666,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
@@ -8691,6 +8821,28 @@
     },
     {
       "album": {
+        "name": "The Speech (Short Edit)",
+        "url": "https://open.spotify.com/album/4wwX7XqGPMd3wnpkNzoLUX"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        },
+        {
+          "name": "Mahalia Fontaine",
+          "url": "https://open.spotify.com/artist/6Hgoa4znOohSJzL3romgYD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173896,
+      "name": "The Speech - Short Edit",
+      "url": "https://open.spotify.com/track/1osrEBPNlrq4M1PtSeWgWo"
+    },
+    {
+      "album": {
         "name": "The Spirit",
         "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
       },
@@ -8840,7 +8992,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 173296,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
@@ -8858,7 +9010,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 132360,
       "name": "To The Edge",
       "url": "https://open.spotify.com/track/3NXQNu3prstzuveOGaZ5SG"
@@ -9126,7 +9278,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 241889,
       "name": "Une Nuit \u00c0 La Cour - Edit",
       "url": "https://open.spotify.com/track/7jbPFpeOuZ9UA0H8Aq6XUh"
@@ -9450,7 +9602,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 170900,
       "name": "Weekend Vibes (feat. Lee Wilson)",
       "url": "https://open.spotify.com/track/1e0nFnixmxUsDZuYUtDzDG"
@@ -9654,6 +9806,24 @@
       "duration_ms": 350857,
       "name": "Who Is He? (feat. Kevin Haden) - Extended Mix",
       "url": "https://open.spotify.com/track/5e5DWeS14hmBJOvgmHU9nD"
+    },
+    {
+      "album": {
+        "name": "Wish I Didn't Miss You",
+        "url": "https://open.spotify.com/album/4Jz21rRURJ684wdODJ2UAL"
+      },
+      "artists": [
+        {
+          "name": "Haska",
+          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224132,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/1nptAYTa5Gps4uhImuSZjk"
     },
     {
       "album": {

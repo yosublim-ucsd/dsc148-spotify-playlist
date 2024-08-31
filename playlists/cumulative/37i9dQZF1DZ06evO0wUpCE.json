@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This Is Intocable. Los temas esenciales, todos en una lista.",
+  "description": "This is Intocable. The essential tracks, all in one playlist.",
   "name": "This Is Intocable",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 258620,
       "name": "Mi Castigo",
       "url": "https://open.spotify.com/track/1SlD0IINVTsQEctNYIEFhr"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 235304,
       "name": "Modus Operandi",
       "url": "https://open.spotify.com/track/0QIziWZ2Wvdi4dh5L3c6FG"

@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Chi X\u00ea",
-  "num_followers": 23399,
+  "num_followers": 23409,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,30 @@
     {
       "added_at": "2024-08-29 17:00:00",
       "album": {
+        "name": "\u00c1o \u1ea4m Y\u00eau Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/75iKjRXqkojrLbQ8L2QTTl"
+      },
+      "artists": [
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+        },
+        {
+          "name": "T\u1ecdi",
+          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
+        },
+        {
+          "name": "Kevin To\u00e0n",
+          "url": "https://open.spotify.com/artist/3L0tsv5ZJICJcEZ4OVc4NW"
+        }
+      ],
+      "duration_ms": 277805,
+      "name": "\u00c1o \u1ea4m Y\u00eau Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/0d7wJBswc3LhF7IgO6fjBj"
+    },
+    {
+      "added_at": "2024-08-29 17:00:00",
+      "album": {
         "name": "SAU M\u00c0N M\u01afA",
         "url": "https://open.spotify.com/album/6nyz2yKrOjRkBTiS622ndE"
       },
@@ -515,6 +539,22 @@
       "duration_ms": 190153,
       "name": "N\u00e9m Ly",
       "url": "https://open.spotify.com/track/7Id6K4erY1ZMMr3Tken6ei"
+    },
+    {
+      "added_at": "2024-08-29 17:00:00",
+      "album": {
+        "name": "LET ME IN",
+        "url": "https://open.spotify.com/album/5Wcj7D0mMo5N2x6Uqxjlep"
+      },
+      "artists": [
+        {
+          "name": "OGGY",
+          "url": "https://open.spotify.com/artist/7EZScJjSrhUSWrth8ZsdNt"
+        }
+      ],
+      "duration_ms": 192006,
+      "name": "LET ME IN",
+      "url": "https://open.spotify.com/track/7qh58p3eBoccMmmOqSwmOW"
     },
     {
       "added_at": "2024-08-29 17:00:00",

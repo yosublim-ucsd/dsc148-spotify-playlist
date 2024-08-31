@@ -469,6 +469,42 @@
     },
     {
       "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
+    },
+    {
+      "album": {
+        "name": "4 Deep",
+        "url": "https://open.spotify.com/album/1sD6sVDhxpwyyAZvgALy1S"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129259,
+      "name": "4 Deep",
+      "url": "https://open.spotify.com/track/0UxQlSj48BF8H8F1lZZBoi"
+    },
+    {
+      "album": {
         "name": "4 Kobe",
         "url": "https://open.spotify.com/album/4MDLz8Zd8LFWV6y5pOoMEq"
       },
@@ -964,6 +1000,24 @@
       "duration_ms": 193072,
       "name": "AKUNA",
       "url": "https://open.spotify.com/track/6y9fIg54gDgqgldH4EMJhf"
+    },
+    {
+      "album": {
+        "name": "All Black Trucks",
+        "url": "https://open.spotify.com/album/5m7ACE2vtWTrgx88h47dcm"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197274,
+      "name": "All Black Trucks",
+      "url": "https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y"
     },
     {
       "album": {
@@ -1732,7 +1786,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 133670,
       "name": "Bad Boys 2",
       "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
@@ -2605,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "A Reaper's Ceremony",
+        "url": "https://open.spotify.com/album/5zU9ruLdGdOm3Iip94ItGw"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168025,
+      "name": "Bougie Hoes",
+      "url": "https://open.spotify.com/track/74x94J6rUL6ZavNH0CIkyk"
+    },
+    {
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
       },
@@ -3190,6 +3262,28 @@
       "duration_ms": 174654,
       "name": "Certified (feat. Future)",
       "url": "https://open.spotify.com/track/693A64f4CTONpjPPOZ4lp1"
+    },
+    {
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "NASAAN",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201664,
+      "name": "Certified (feat. NASAAN)",
+      "url": "https://open.spotify.com/track/6T9tZxE7YEMrG4j1nwJaF4"
     },
     {
       "album": {
@@ -5933,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "GOD LEVEL",
+        "url": "https://open.spotify.com/album/4m7EvGWRtPbnJvbwgOfbuH"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "GOD LEVEL",
+      "url": "https://open.spotify.com/track/11VVyQon40HQu03a0arxlT"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5tIoWzdJBQadif0IoYqO2R"
       },
@@ -6788,7 +6900,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 203664,
       "name": "Heavy Fraud",
       "url": "https://open.spotify.com/track/2nmzuZy2eg8c9xmcdCG6IB"
@@ -8061,6 +8173,28 @@
     },
     {
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "It Is What It Is (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
+    },
+    {
+      "album": {
         "name": "It's All on U",
         "url": "https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy"
       },
@@ -9284,7 +9418,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136492,
       "name": "LUNCHROOM FREESTYLE (feat. BabyTron)",
       "url": "https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn"
@@ -11913,6 +12047,24 @@
     },
     {
       "album": {
+        "name": "Presidential",
+        "url": "https://open.spotify.com/album/11yQM8dD6R4dda5HFfIi7z"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135907,
+      "name": "Presidential",
+      "url": "https://open.spotify.com/track/4kxMl5ZrvqCFBFknPLN7F8"
+    },
+    {
+      "album": {
         "name": "Pressikan",
         "url": "https://open.spotify.com/album/69eXw40A8AqpBED1daHzYj"
       },
@@ -13134,6 +13286,28 @@
       "duration_ms": 155611,
       "name": "Saucony",
       "url": "https://open.spotify.com/track/6IUzEWmR7B4lmcIAK9joDU"
+    },
+    {
+      "album": {
+        "name": "Save Drill (feat. VonOff1700)",
+        "url": "https://open.spotify.com/album/1bvrrb1btfDOSYyflPxIGO"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176078,
+      "name": "Save Drill (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0eNpTpzRU6LdjgJN8jIIs9"
     },
     {
       "album": {
@@ -16052,7 +16226,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181910,
       "name": "Together Forever (Big Sean & The Alchemist)",
       "url": "https://open.spotify.com/track/38W7Dc1FqHiYgqWpoxrBd1"
@@ -16348,6 +16522,32 @@
       "duration_ms": 214736,
       "name": "Tuxedo",
       "url": "https://open.spotify.com/track/7imWwrAiyfIgLk9HVYrhLB"
+    },
+    {
+      "album": {
+        "name": "Tweakers",
+        "url": "https://open.spotify.com/album/3qhSnRyepf8dr7KGpAmHpg"
+      },
+      "artists": [
+        {
+          "name": "Doodie Lo",
+          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138528,
+      "name": "Tweakers",
+      "url": "https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3"
     },
     {
       "album": {
@@ -17230,7 +17430,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 200863,
       "name": "Whole Thing feat VonOff1700",
       "url": "https://open.spotify.com/track/5E6gBjIg5hLk5RJqahiMU5"

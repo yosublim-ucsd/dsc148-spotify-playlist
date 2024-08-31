@@ -2,7 +2,7 @@
 
 ### [This Is Emilia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hrh28)
 
-> This Is Emilia\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Emilia\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 58 songs - 2 hr 52 min
 

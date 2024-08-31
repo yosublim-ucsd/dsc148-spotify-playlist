@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180000,
       "name": "Caminh\u00e3o 11 13 - Ao Vivo",
       "url": "https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 273531,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
@@ -874,6 +874,24 @@
       "duration_ms": 195520,
       "name": "Meu Barquinho - Ao Vivo",
       "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "album": {
@@ -1276,6 +1294,24 @@
       "duration_ms": 236078,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/49aAR1k1YDjcHPPUaP1GTR"
+    },
+    {
+      "album": {
+        "name": "Hinos Ccb (Voz & Viol\u00e3o)",
+        "url": "https://open.spotify.com/album/5xvsCatJsLkmBAO9GGqzbg"
+      },
+      "artists": [
+        {
+          "name": "Josias Marques",
+          "url": "https://open.spotify.com/artist/411JFiY9AF0BBA7V7BdSGg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300418,
+      "name": "Se V\u00f3s Baterdes, Ele Vos Abre",
+      "url": "https://open.spotify.com/track/19smAbcgmDSHlrRLV7wHFy"
     },
     {
       "album": {

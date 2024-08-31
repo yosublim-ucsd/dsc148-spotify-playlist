@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-452 songs - 1 day 3 hr 49 min
+453 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [My Favorite Things](https://open.spotify.com/track/7BhHAftdMM9EtmxkOQflHO) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Manhattan Special](https://open.spotify.com/album/5WAIQrdBswl6U8nFlAw6US) | 5:01 | 2022-02-17 | 2022-04-22 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-03-20 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2023-03-20 |  |
+| [My Piano](https://open.spotify.com/track/4aoq1u9tdtIrEqYrg08f85) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [My Piano](https://open.spotify.com/album/5SmLllAt9qvYK5yi0BbueG) | 3:42 | 2024-08-20 |  |
 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 | 2022-11-17 |
 | [Nago](https://open.spotify.com/track/0CNCF7iSfTXGBro6idURk4) | [Fazer](https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C) | [Plex](https://open.spotify.com/album/1YY9UnSkfBwVaO3cS85zrY) | 3:56 | 2022-02-17 | 2023-03-21 |
@@ -274,7 +275,7 @@
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2023-03-20 |  |
 | [Não Tem Nada Não](https://open.spotify.com/track/7A4AFocOKiNSKijFSZssbk) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Mafalda Raposo](https://open.spotify.com/artist/2zQzDkSwiGnhwd6dBMgIRf) | [Não Tem Nada Não](https://open.spotify.com/album/4Znu5EqOfRBFurjsyhc8Vj) | 3:47 | 2022-02-17 | 2022-04-29 |
 | [O Fogo](https://open.spotify.com/track/6oJPC4vEqke3ViUuMhz49u) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [O Fogo](https://open.spotify.com/album/0z5MO6rLjBmgjFMqFe21EQ) | 4:46 | 2022-02-17 | 2022-03-18 |
-| [Odd Duck](https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Odd Duck](https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG) | 3:23 | 2023-05-05 |  |
+| [Odd Duck](https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Odd Duck](https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG) | 3:23 | 2023-05-05 | 2024-08-31 |
 | [Odyssey](https://open.spotify.com/track/7rzaogj4Be9bXCV7rGgRgT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Welcome to the Hills](https://open.spotify.com/album/2o2tNVIRBR0BH4RlLm4qLO) | 3:44 | 2022-02-17 | 2022-04-23 |
 | [Olivia Benson](https://open.spotify.com/track/4uOjcnam6f6tq4c6mlvC8W) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 4:01 | 2022-02-17 | 2023-03-21 |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-20 |  |

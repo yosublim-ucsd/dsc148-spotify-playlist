@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Flor Alvarez & Yami Safdie.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Emanero, Migrantes & j mena.
 
-558 songs - 1 day 3 hr 47 min
+559 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Colorín Colorado](https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Colorín Colorado](https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ) | 2:24 | 2021-12-23 | 2023-09-12 |
 | [Comerte a Besos \- Remix](https://open.spotify.com/track/5LFkyCQIjNMqKABBMRI7j4) | [Pijama Party](https://open.spotify.com/artist/1aOhJVEGjCbYJLYPCitGdm), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Fer Silvera](https://open.spotify.com/artist/5HUPhcBE9Bg1LLnFrhRcOy) | [Comerte a Besos \(Remix\)](https://open.spotify.com/album/0B7M2iW0INJ88hd7TmWQTC) | 2:32 | 2024-02-16 | 2024-02-24 |
 | [Como Antes](https://open.spotify.com/track/23TjftFdV49zwLnj0GSGVK) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Como Antes](https://open.spotify.com/album/3R49qtOCsXStCjO32p7Gea) | 2:34 | 2022-04-01 | 2022-04-21 |
+| [Como si no nos amáramos](https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Emanero](https://open.spotify.com/artist/7LJCRpVGQi5ttBb8WEa1RE), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Como si no nos amáramos](https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW) | 3:11 | 2024-08-30 |  |
 | [Como Te Perdi](https://open.spotify.com/track/0WoyZpBgQAQGvKUKsvcYQm) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Como Te Perdi](https://open.spotify.com/album/0LOvIOhrMG0Y8hfrZIwzoF) | 2:56 | 2022-10-14 | 2022-11-08 |
 | [Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos](https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos](https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM) | 5:53 | 2022-04-01 | 2022-06-29 |
 | [Con el Alcohol](https://open.spotify.com/track/2SwwyxbjKaCPx4kuiSsEdp) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Con el Alcohol](https://open.spotify.com/album/5XJpqHrHnczNDWSf08hz2U) | 2:45 | 2022-08-26 | 2022-12-13 |
@@ -397,7 +398,7 @@
 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 | 2022-09-23 | 2024-08-17 |
 | [Que Nos Paso \- Remix](https://open.spotify.com/track/6gAB2YBFRE99EJEOLWIV99) | [Pechito Remix](https://open.spotify.com/artist/7ArBMks19tLWCTg7GYvTAV), [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Que Nos Paso](https://open.spotify.com/album/6GUVI9h9ZoZQXFYxUCun8S) | 4:01 | 2022-01-03 | 2022-07-29 |
 | [Que Nos Volvamos a Ver](https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Que Nos Volvamos a Ver](https://open.spotify.com/album/1XKy6pkSLzHHq3ldyftbKA) | 2:47 | 2021-12-23 | 2022-07-29 |
-| [Que Rico Baila](https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Que Rico Baila](https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp) | 2:58 | 2021-12-23 |  |
+| [Que Rico Baila](https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Que Rico Baila](https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp) | 2:58 | 2021-12-23 | 2024-08-31 |
 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 | 2023-12-08 | 2024-01-14 |
 | [Quedamos solo amigos](https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Quedamos solo amigos](https://open.spotify.com/album/7jC8V0VtNvueGqLMvYwFtj) | 2:40 | 2024-07-19 |  |
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 | 2023-01-03 |

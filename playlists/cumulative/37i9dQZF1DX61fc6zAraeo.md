@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-170 songs - 7 hr 45 min
+171 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,10 @@
 | [Drive](https://open.spotify.com/track/0LbJ4vV5xlLp6asZJDtqqH) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Drive](https://open.spotify.com/album/32f4pScUf8EVH2JCVtldsK) | 2:58 | 2024-03-06 | 2024-07-27 |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2024-03-13 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2024-02-07 | 2024-03-14 |
-| [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-04-18 |  |
+| [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 | 2024-04-18 | 2024-08-31 |
 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 | 2024-02-07 |  |
 | [Elevate \(feat\. RANI\)](https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Elevate \(feat\. RANI\)](https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY) | 2:12 | 2024-05-22 |  |
+| [End Of Time \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0g998xGTsjf9uTVJ9SksS4) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [End Of Time \(feat\. Jordan Shaw\)](https://open.spotify.com/album/0LOBvrnYTIvHZkLoDEWgWY) | 2:28 | 2024-08-30 |  |
 | [Escape](https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2) | [HEATT](https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL) | [Escape](https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA) | 2:37 | 2024-03-06 | 2024-07-27 |
 | [Every Single Time \(I Look At You\)](https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Every Single Time \(I Look At You\)](https://open.spotify.com/album/5ew9qVfDbbTLW7edMIx9JS) | 2:29 | 2024-03-06 |  |
 | [Everytime Next To Me \(feat\. Robin Bengtsson\)](https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Everytime Next To Me \(feat\. Robin Bengtsson\)](https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr) | 2:40 | 2024-02-07 |  |

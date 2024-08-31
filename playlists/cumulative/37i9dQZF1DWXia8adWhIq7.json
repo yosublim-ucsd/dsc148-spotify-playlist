@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
+  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Os Meireles",
   "name": "Pop Gospel",
   "tracks": [
     {
@@ -1010,10 +1010,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "album": {
+        "name": "Ele Pode Fazer",
+        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
+      },
+      "artists": [
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150510,
+      "name": "Ele Pode Fazer",
+      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
     },
     {
       "album": {
@@ -1229,6 +1247,32 @@
     },
     {
       "album": {
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        },
+        {
+          "name": "Benjamim Silva",
+          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159825,
+      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
+    },
+    {
+      "album": {
         "name": "Esse Algu\u00e9m",
         "url": "https://open.spotify.com/album/1B1mpkDFBn7BncJdlwKAki"
       },
@@ -1410,6 +1454,28 @@
       "duration_ms": 194643,
       "name": "Faltava Voc\u00ea",
       "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
+    },
+    {
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
+      },
+      "artists": [
+        {
+          "name": "Temis Handeri",
+          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
+        },
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
     },
     {
       "album": {
@@ -2084,7 +2150,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173400,
       "name": "Nasce o Sol - Remix",
       "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
@@ -3618,7 +3684,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 136626,
       "name": "Vida Leve",
       "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
@@ -3672,7 +3738,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 231679,
       "name": "Voc\u00ea Por Perto",
       "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
@@ -3712,6 +3778,24 @@
       "duration_ms": 256874,
       "name": "Voltar",
       "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+    },
+    {
+      "album": {
+        "name": "YESHUA",
+        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160663,
+      "name": "YESHUA",
+      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
       "album": {

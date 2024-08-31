@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: James Smith",
-  "num_followers": 46024,
+  "num_followers": 46028,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "Toro / Alone in Miami",
-        "url": "https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Toro",
-      "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
         "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 212750,
       "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
       "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "Toro / Alone in Miami",
+        "url": "https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Toro",
+      "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "Death & Romance",
-        "url": "https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Death & Romance",
-      "url": "https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "Better ft. Cuco",
         "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "Death & Romance",
+        "url": "https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 314733,
+      "name": "Death & Romance",
+      "url": "https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
+        "name": "Say That You Will Wait For Me",
+        "url": "https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Say That You Will Wait For Me",
+      "url": "https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
         "name": "dont let me go",
         "url": "https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 178588,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/3QQ0xkLtifUsoSLjUBaVdb"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
-        "name": "Say That You Will Wait For Me",
-        "url": "https://open.spotify.com/album/0npGwOcpQK5h9alSSpiAJU"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Say That You Will Wait For Me",
-      "url": "https://open.spotify.com/track/1cnwhilvfTskSErS8A8Ppx"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
-    },
-    {
-      "added_at": "2024-08-23 11:05:43",
-      "album": {
         "name": "crush (tom verlaine)",
         "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
       },
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2024-08-23 11:05:43",
       "album": {
-        "name": "Find Joy",
-        "url": "https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
       },
       "artists": [
         {
-          "name": "That Woman",
-          "url": "https://open.spotify.com/artist/1Rcmz0mDudMNtuJoTjmAEG"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2ML4VS9oSGFAraTJdSuSmq"
+      "duration_ms": 179666,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
     },
     {
       "added_at": "2024-08-23 11:05:43",
@@ -1347,6 +1327,22 @@
       "duration_ms": 194069,
       "name": "Wish You Were Dead",
       "url": "https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE"
+    },
+    {
+      "added_at": "2024-08-23 11:05:43",
+      "album": {
+        "name": "Find Joy",
+        "url": "https://open.spotify.com/album/4bh8Z4wmTQpemEYFaXpTmW"
+      },
+      "artists": [
+        {
+          "name": "That Woman",
+          "url": "https://open.spotify.com/artist/1Rcmz0mDudMNtuJoTjmAEG"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2ML4VS9oSGFAraTJdSuSmq"
     }
   ],
   "unique_name": "alt/pop",

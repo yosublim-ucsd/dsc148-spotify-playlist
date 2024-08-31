@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 279854,
+  "num_followers": 279896,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-08-27 21:18:53",
       "album": {
+        "name": "ETERNIDAD",
+        "url": "https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        },
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "ETERNIDAD",
+      "url": "https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD"
+    },
+    {
+      "added_at": "2024-08-27 21:18:53",
+      "album": {
         "name": "The Life in Your Eyes",
         "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 207875,
       "name": "Dame Amor - Remix",
       "url": "https://open.spotify.com/track/1tRogguj9jao4OQMrWoxzu"
-    },
-    {
-      "added_at": "2024-08-27 21:18:53",
-      "album": {
-        "name": "ETERNIDAD",
-        "url": "https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ"
-      },
-      "artists": [
-        {
-          "name": "Daren",
-          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
-        },
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "ETERNIDAD",
-      "url": "https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD"
     },
     {
       "added_at": "2024-08-27 21:18:53",
@@ -1159,38 +1159,6 @@
     {
       "added_at": "2024-08-27 21:18:53",
       "album": {
-        "name": "Entre La Maleza",
-        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 215956,
-      "name": "Entre La Maleza",
-      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
-    },
-    {
-      "added_at": "2024-08-27 21:18:53",
-      "album": {
-        "name": "Mi Nena",
-        "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Conducta",
-          "url": "https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5"
-        }
-      ],
-      "duration_ms": 149603,
-      "name": "Mi Nena",
-      "url": "https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww"
-    },
-    {
-      "added_at": "2024-08-27 21:18:53",
-      "album": {
         "name": "Good Vibes Buenas Vibras",
         "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 216980,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
+    },
+    {
+      "added_at": "2024-08-27 21:18:53",
+      "album": {
+        "name": "Mi Nena",
+        "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Conducta",
+          "url": "https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5"
+        }
+      ],
+      "duration_ms": 149603,
+      "name": "Mi Nena",
+      "url": "https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww"
+    },
+    {
+      "added_at": "2024-08-27 21:18:53",
+      "album": {
+        "name": "Entre La Maleza",
+        "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 215956,
+      "name": "Entre La Maleza",
+      "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
     },
     {
       "added_at": "2024-08-27 21:18:53",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-27 21:18:53",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 265561,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
-    },
-    {
-      "added_at": "2024-08-27 21:18:53",
-      "album": {
         "name": "LHTL",
         "url": "https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-08-27 21:18:53",
       "album": {
+        "name": "Aqui Nadie Va Llorar",
+        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195311,
+      "name": "Aqui Nadie Va Llorar",
+      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
+    },
+    {
+      "added_at": "2024-08-27 21:18:53",
+      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-08-27 21:18:53",
       "album": {
-        "name": "Aqui Nadie Va Llorar",
-        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 195311,
-      "name": "Aqui Nadie Va Llorar",
-      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
     },
     {
       "added_at": "2024-08-27 21:18:53",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-08-27 21:18:53",
       "album": {
-        "name": "Los Cuadros",
-        "url": "https://open.spotify.com/album/6b5eVa9g8jV0J1qWd5xR9U"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "Los Cuadros",
-      "url": "https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h"
-    },
-    {
-      "added_at": "2024-08-27 21:18:53",
-      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 242462,
       "name": "Que Me Fallo",
       "url": "https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX"
+    },
+    {
+      "added_at": "2024-08-27 21:18:53",
+      "album": {
+        "name": "Los Cuadros",
+        "url": "https://open.spotify.com/album/6b5eVa9g8jV0J1qWd5xR9U"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Los Cuadros",
+      "url": "https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h"
     },
     {
       "added_at": "2024-08-27 21:18:53",

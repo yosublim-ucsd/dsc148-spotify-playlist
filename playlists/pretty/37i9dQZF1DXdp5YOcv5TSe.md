@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,520 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,565 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 40 | [Call on Me](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me \(Remixes\)](https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs) | 7:34 |
 | 41 | [Napapiri](https://open.spotify.com/track/5oJtgSpYNcB13VJewlNVFn) | [Rasta](https://open.spotify.com/artist/6eiVM12aC3SP5n0fMg9fqP), [PAVILLION](https://open.spotify.com/artist/30HssesKIHEbgYfPM7EaDg), [Jahve](https://open.spotify.com/artist/47mtdyaAChiDUTvyBu1Ocf) | [Napapiri](https://open.spotify.com/album/4ufzGdUJcrZea0Guy4KZtI) | 2:48 |
 | 42 | [Alo Alo](https://open.spotify.com/track/5fOv8CRT37aPGkKBr7ljXT) | [Senidah](https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5) | [Alo Alo](https://open.spotify.com/album/3HiU30ETAplbvdzFCibMJy) | 3:28 |
-| 43 | [Dear Boy](https://open.spotify.com/track/4yTeQK2XThWYeEW8D72XmU) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 7:59 |
-| 44 | [Problema](https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:53 |
+| 43 | [Problema](https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:53 |
+| 44 | [Dear Boy](https://open.spotify.com/track/4yTeQK2XThWYeEW8D72XmU) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 7:59 |
 | 45 | [West Coast Shit \(feat\. Tyga & Quavo\)](https://open.spotify.com/track/1JDhNQ0oOT7XpclZn3aQ8F) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:12 |
 | 46 | [Marvelous Day \(feat\. Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/4kfEy7h6bWBS5OaDpccTap) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Mood](https://open.spotify.com/album/4X4eIXh8tgQPiwxkxsp5lz) | 3:43 |
 | 47 | [Shakespeare](https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ) | [Sushi.b](https://open.spotify.com/artist/0LL65Vn5QZSZZ5fYSvdUKF) | [Shakespeare](https://open.spotify.com/album/0hiTGVtG65OvVaHiMYroBc) | 8:54 |

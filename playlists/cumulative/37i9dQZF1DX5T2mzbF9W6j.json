@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156329,
       "name": "HATE YOUR GUTS",
       "url": "https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz"
@@ -996,6 +996,24 @@
       "duration_ms": 140501,
       "name": "Nad Morze",
       "url": "https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG"
+    },
+    {
+      "album": {
+        "name": "Nasze lato",
+        "url": "https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu"
+      },
+      "artists": [
+        {
+          "name": "Aria Martelle",
+          "url": "https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139821,
+      "name": "Nasze lato",
+      "url": "https://open.spotify.com/track/5F0ljs66WoL6VGL8vtcYlz"
     },
     {
       "album": {

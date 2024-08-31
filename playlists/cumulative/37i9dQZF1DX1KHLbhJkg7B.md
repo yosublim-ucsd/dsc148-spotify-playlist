@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-396 songs - 1 day 0 hr 45 min
+398 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dreaming My Dreams With You](https://open.spotify.com/track/5ypmJxIJxZl7L6Ez3yOnFu) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Dreaming My Dreams With You](https://open.spotify.com/album/33xpBrWhJV2rSmPv6s4sN4) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [Dreams](https://open.spotify.com/track/631XEttfPmkuw4XwR3XScB) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Dreams](https://open.spotify.com/album/5nBcBNpc9CWqKGfeIzvlo6) | 4:19 | 2021-12-10 | 2022-07-29 |
 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 | 2024-05-07 |
-| [Drivers License](https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:22 | 2021-12-10 |  |
+| [Drivers License](https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:22 | 2021-12-10 | 2024-08-31 |
 | [Dust on the Bottle](https://open.spotify.com/track/6IN6nAjQcLXtT1ToYrUzU9) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Pops 90's Country Weekend Mixtape](https://open.spotify.com/album/3Bf6b12SWWeLPaiYgIczCM) | 3:52 | 2022-03-25 | 2022-06-08 |
 | [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 | 2021-12-10 | 2023-01-06 |
 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 | 2022-03-25 |  |
@@ -304,7 +304,7 @@
 | [Stay](https://open.spotify.com/track/2WS83LPXX6angsFsmUHies) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Stay](https://open.spotify.com/album/4RQynGVaqBsnvntk8Dap5r) | 4:48 | 2022-03-25 | 2022-04-15 |
 | [Stay](https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n) | 3:45 | 2022-07-29 | 2024-08-03 |
 | [Stay](https://open.spotify.com/track/7HCpV8ksGTbXRRq91RceRl) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/0QoBtGuvBvCZirZiPPYxpB) | 3:45 | 2023-11-03 | 2024-04-19 |
-| [Steal My Girl](https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:48 | 2023-09-29 |  |
+| [Steal My Girl](https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:48 | 2023-09-29 | 2024-08-31 |
 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Stop Draggin' My Heart Around](https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34) | 4:18 | 2024-06-21 |  |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-04-15 | 2022-07-12 |
 | [Straight Tequila Night](https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:23 | 2022-08-05 | 2022-11-06 |
@@ -315,6 +315,7 @@
 | [Stupid Boy](https://open.spotify.com/track/4hXHfVaFhLiwExyQdjneAe) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand \- EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [Summertime Blues](https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:12 | 2022-03-25 | 2024-08-03 |
 | [sun to me](https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [sun to me](https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW) | 2:38 | 2024-07-19 |  |
+| [Sundown](https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Sundown](https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g) | 3:36 | 2024-08-30 |  |
 | [Suspicious Minds](https://open.spotify.com/track/4GodBGiUwjcXkDB8i3OAMW) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Everlasting](https://open.spotify.com/album/3ftsdPLG1aVrGMOEK1WoZB) | 3:50 | 2021-12-10 | 2022-07-29 |
 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 | 2021-12-10 |  |
 | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Take Me Back to Tulsa \(feat\. George Strait and Willie Nelson\)](https://open.spotify.com/album/6eLAOiOvVLfjNGkUv0wRMl) | 4:01 | 2021-12-10 | 2022-07-26 |
@@ -357,6 +358,7 @@
 | [Tonight I Wanna Cry](https://open.spotify.com/track/6rYiM8hZeP9g6xykAGGi4y) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Tonight I Wanna Cry](https://open.spotify.com/album/39SIwsPue8bKiLkQYrgyug) | 3:32 | 2024-03-22 | 2024-05-18 |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2023-05-27 |
 | [Uncle Pen](https://open.spotify.com/track/4cT14AH7Gmp97wUSxHwyZJ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [The Best Of Can't You Hear Me Callin' \- Bluegrass: 80 Years Of American Music](https://open.spotify.com/album/0Z216wyIESYn4mjrIrPBy0) | 2:25 | 2021-12-10 | 2022-07-28 |
+| [Unwell \- Cover](https://open.spotify.com/track/3tDhiP9TGN9pl3Nil13CsT) | [Jesse Slack](https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Unwell \(Cover\)](https://open.spotify.com/album/6R4Y22EzAkJdKaPJFUcrXk) | 3:28 | 2024-08-30 |  |
 | [Uptown Funk \(Live from SXSW 2015\)](https://open.spotify.com/track/1v5dYdS4XKN8zfZ3847xCU) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Spotify Sessions](https://open.spotify.com/album/0IoiSYueb7cmOuYC58IlzQ) | 4:43 | 2022-03-25 | 2022-04-21 |
 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 | 2021-12-10 | 2022-10-27 |
 | [Vienna](https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK) | 3:09 | 2022-08-05 | 2024-04-19 |

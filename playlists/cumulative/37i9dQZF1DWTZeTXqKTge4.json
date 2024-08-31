@@ -3673,6 +3673,28 @@
     },
     {
       "album": {
+        "name": "Destin",
+        "url": "https://open.spotify.com/album/1WgGHPMxp3h5Sw6lqcIXdQ"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220140,
+      "name": "Destin",
+      "url": "https://open.spotify.com/track/4TLI4XiJ7lIcZxSCn6omus"
+    },
+    {
+      "album": {
         "name": "Non conventionnel",
         "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
       },
@@ -6380,7 +6402,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202959,
       "name": "Interdit meilleur",
       "url": "https://open.spotify.com/track/1iAGP7PrIkXjCbQ1Qv1xML"
@@ -11138,7 +11160,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 116691,
       "name": "Rap Life",
       "url": "https://open.spotify.com/track/5XtiFaOvTSt0t6RQklZ2cH"
@@ -12506,6 +12528,24 @@
       "duration_ms": 150000,
       "name": "Sur moi",
       "url": "https://open.spotify.com/track/3KusaCNQdquUZDMDzdStEz"
+    },
+    {
+      "album": {
+        "name": "Switch Up",
+        "url": "https://open.spotify.com/album/5z2vhjGLROaL8HWRmfmjRP"
+      },
+      "artists": [
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182582,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/0I6VYa1ciWvg2HFJqJoXMm"
     },
     {
       "album": {

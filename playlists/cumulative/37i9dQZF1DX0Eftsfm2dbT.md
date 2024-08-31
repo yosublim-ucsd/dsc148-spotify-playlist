@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Ralph
 
-1,022 songs - 2 day 4 hr 43 min
+1,023 songs - 2 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [GO](https://open.spotify.com/track/5xfXVYH1u85wbvE5SvjXd8) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ SHINTARO](https://open.spotify.com/artist/4XyRNMkxh04XdwNewJhT2L), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [INNER WORLD](https://open.spotify.com/album/3hkzAi33jvsra7mNi9BMzU) | 4:01 | 2023-09-26 | 2023-12-06 |
 | [Go](https://open.spotify.com/track/4W1vG5xm38GXbqXhkMvEEp) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Go](https://open.spotify.com/album/5G3B9WaYoiymVHx3DtlSIK) | 3:30 | 2024-05-07 | 2024-07-03 |
 | [GO FUSION](https://open.spotify.com/track/35VMDe4mPBrdZoOfClyYSa) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [GO FUSION](https://open.spotify.com/album/5xscjWb56OBdOT6YRWG0AW) | 3:14 | 2023-10-17 | 2023-11-25 |
+| [GO HARD](https://open.spotify.com/track/1g44Ji7jXoD8ieXbuhODym) | [Uka Death Audio](https://open.spotify.com/artist/2WZwiCQE0bEwW97gwygxfN), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [GO HARD](https://open.spotify.com/album/1zZ57Ud3GRN9vhClYRLGYF) | 2:20 | 2024-08-30 |  |
 | [GOAT](https://open.spotify.com/track/3edi5revIoKupagkhCLY2A) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [DONG JING REN](https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE) | 2:32 | 2023-11-07 | 2024-01-31 |
 | [GOEMON](https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [GOEMON](https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl) | 2:32 | 2024-02-28 | 2024-03-20 |
 | [GONG](https://open.spotify.com/track/64wgkR32dG4TL8LnpmSZwa) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Waston](https://open.spotify.com/artist/1xUS45eqj5e7eVpmlJvAcr), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [GONG](https://open.spotify.com/album/20B6oL3ICsUzjKWqcRFjxr) | 3:52 | 2024-02-28 | 2024-04-19 |

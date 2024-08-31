@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-120 songs - 5 hr 38 min
+123 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 | 2024-03-15 |  |
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 |  |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
+| [BLUSH](https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [BLUSH](https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K) | 1:46 | 2024-08-30 |  |
 | [Bodies](https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST \(Deluxe\)](https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI) | 2:02 | 2024-02-02 |  |
 | [cdg.wav](https://open.spotify.com/track/5ALKIpWqLIYSo7GZoB41nW) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [cdg.wav](https://open.spotify.com/album/5G8ojetyWQ1ZQLkcDBSL2B) | 2:21 | 2024-03-22 |  |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 |  |
@@ -35,6 +36,7 @@
 | [DIVA](https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [DIVA](https://open.spotify.com/album/0OjWVtjpB8khmxN7jKbiXZ) | 2:36 | 2024-05-10 |  |
 | [DNDrnb / Growth](https://open.spotify.com/track/5rBc6vhCNjsymx6q7hYSX4) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [DNDrnb / Growth](https://open.spotify.com/album/089owlvV7enapyEdE4ff3M) | 3:08 | 2024-02-02 |  |
 | [DnL](https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [DnL](https://open.spotify.com/album/3j5LN7ajbXLwYIFWKcH4lM) | 4:00 | 2024-04-05 | 2024-07-06 |
+| [DONT\_SAY](https://open.spotify.com/track/4pD2U2Y4G55IqScpSb04b0) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [STORY OF ARCHIVES](https://open.spotify.com/album/72fjCMiyt17pTcle383Wpg) | 2:53 | 2024-08-30 |  |
 | [Dopamine](https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Dopamine](https://open.spotify.com/album/05hmev84ZOX3Bfrl6D0bGC) | 2:37 | 2024-05-17 |  |
 | [downtown](https://open.spotify.com/track/7rW9b5Ymr730VxYpT4Itk1) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [downtown](https://open.spotify.com/album/1nYhBZnlXskZ3etFCq4TXh) | 1:54 | 2024-05-17 | 2024-07-06 |
 | [Drake Shit](https://open.spotify.com/track/16ro5cM2twX9wSRwVMQmBC) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [EROS](https://open.spotify.com/album/2gSZZtjbuBEJ4G9qavkfUG) | 3:05 | 2024-04-05 |  |
@@ -93,6 +95,7 @@
 | [Ridin' Shotgun](https://open.spotify.com/track/3V0AIBseDcSsxm8B5yVhBm) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4db6EzTNxSHtDKdaZMXJLh) | 1:53 | 2024-05-03 |  |
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2024-02-02 |  |
 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 | 2024-04-26 |  |
+| [SAVIOR](https://open.spotify.com/track/1AdFpWand1DPxlprhkOxPy) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [SAVIOR](https://open.spotify.com/album/6SZGguUQ3ddoyJgusvfPXl) | 3:01 | 2024-08-30 |  |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 |  |
 | [Sin on Purpose](https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Sin on Purpose](https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G) | 2:23 | 2024-02-02 |  |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 |  |

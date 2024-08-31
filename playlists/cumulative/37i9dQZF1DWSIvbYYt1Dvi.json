@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 219626,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/46qKbX4BGTmIMJAKpyXTkk"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184863,
       "name": "Besteiras",
       "url": "https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 102367,
       "name": "Cabra",
       "url": "https://open.spotify.com/track/0EIfvVwz1YANHBTU3v2meu"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 170066,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS"
@@ -2598,6 +2598,32 @@
       "duration_ms": 122777,
       "name": "Desligado",
       "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
+    },
+    {
+      "album": {
+        "name": "OL\u00cdMPICO / DESMISTIFICAR",
+        "url": "https://open.spotify.com/album/6giyzGKGfLFC269yFZAdbz"
+      },
+      "artists": [
+        {
+          "name": "OL\u00cdMPICO",
+          "url": "https://open.spotify.com/artist/2uRliL49x0oLPfVR5lZ2Zy"
+        },
+        {
+          "name": "Spvic",
+          "url": "https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs"
+        },
+        {
+          "name": "S\u00edntese",
+          "url": "https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126071,
+      "name": "DESMISTIFICAR",
+      "url": "https://open.spotify.com/track/2hvP3KHqGFEzPeySCZ4g2X"
     },
     {
       "album": {
@@ -4465,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "Lugar de Fala I verso 01",
+        "url": "https://open.spotify.com/album/4PvHihY9VToqEfCwng5bFh"
+      },
+      "artists": [
+        {
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87011,
+      "name": "Lugar de Fala I verso 01",
+      "url": "https://open.spotify.com/track/0VTQpGxq8WpKyLe777Ijxf"
+    },
+    {
+      "album": {
         "name": "GARCIA",
         "url": "https://open.spotify.com/album/6QWmIGUIKxpMphCOQb5s6b"
       },
@@ -5298,7 +5342,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 155842,
       "name": "NAVE",
       "url": "https://open.spotify.com/track/7gjhc84DGkAIqvbhR5qJ5L"
@@ -5484,6 +5528,36 @@
       "duration_ms": 195000,
       "name": "N\u00e3o Desista Agora",
       "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Rimo Por Grammys",
+        "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Yangprj",
+          "url": "https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125648,
+      "name": "N\u00e3o Rimo Por Grammys",
+      "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
     },
     {
       "album": {
@@ -6131,6 +6205,32 @@
     },
     {
       "album": {
+        "name": "Perfil#97 - Trazendo a Vibe",
+        "url": "https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "KENNEDYBEATZ",
+          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Perfil#97 - Trazendo a Vibe",
+      "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
+    },
+    {
+      "album": {
         "name": "PERSONNALITE",
         "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
       },
@@ -6498,7 +6598,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
@@ -6674,7 +6774,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 123515,
       "name": "Primeiro Lugar do P\u00f3dio",
       "url": "https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5"
@@ -6852,6 +6952,48 @@
       "duration_ms": 157250,
       "name": "Quebra",
       "url": "https://open.spotify.com/track/6vUdkL5RJnozINC7JBl8M3"
+    },
+    {
+      "album": {
+        "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
+        "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
+      },
+      "artists": [
+        {
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Rodrigo Ogi",
+          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291063,
+      "name": "Quebrada UFC",
+      "url": "https://open.spotify.com/track/2nB4nMit4x0LK6rQMHIUia"
     },
     {
       "album": {
@@ -7646,6 +7788,32 @@
       "duration_ms": 167516,
       "name": "Sem Bala Contada",
       "url": "https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f"
+    },
+    {
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184445,
+      "name": "Sem Norte",
+      "url": "https://open.spotify.com/track/5oz9GKNnBNLqnGOVIt5Gmm"
     },
     {
       "album": {

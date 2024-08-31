@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-598 songs - 1 day 6 hr 25 min
+600 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bed of Roses \- Piano Version](https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:17 | 2022-12-02 |  |
 | [Believe](https://open.spotify.com/track/6kMwwEbT5D5PRQIcxnAMNv) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Believe](https://open.spotify.com/album/2ksSiJnEhlCNvqSPxZKSRR) | 3:24 | 2023-11-17 |  |
 | [Beneath your beautiful](https://open.spotify.com/track/2man3BqdNICmahlzaSfybW) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [Olly Chesterman](https://open.spotify.com/album/6vCqifvpOb3yGCKkk7X62r) | 4:13 | 2022-01-21 | 2023-03-25 |
-| [Best Part](https://open.spotify.com/track/65gmJWtbmmHAbKdk2Wz0wR) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Best Part](https://open.spotify.com/album/7FjQaXOdJ43fn5I1UJDRwB) | 2:41 | 2023-03-17 |  |
+| [Best Part](https://open.spotify.com/track/65gmJWtbmmHAbKdk2Wz0wR) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Best Part](https://open.spotify.com/album/7FjQaXOdJ43fn5I1UJDRwB) | 2:41 | 2023-03-17 | 2024-08-31 |
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2022-12-16 |  |
 | [Blank Space](https://open.spotify.com/track/5G8tm3mLG5XqhcVbdpft3A) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Blank Space](https://open.spotify.com/album/5G7NmfM3E6qa5Nhr73UImb) | 2:58 | 2023-04-14 | 2023-08-11 |
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-01-20 |  |
@@ -241,7 +241,7 @@
 | [Hotel California](https://open.spotify.com/track/10GI2GzvOmFQxeVSFWlchZ) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Hotel California](https://open.spotify.com/album/3CRF7fOGTaLgRkVPNEjr1b) | 2:43 | 2023-05-12 | 2023-06-23 |
 | [How Deep Is Your Love](https://open.spotify.com/track/7fMWxDPD58F8goBvmHheSe) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [How Deep Is Your Love](https://open.spotify.com/album/36XmOrVk3emXrh5nG8RGPL) | 3:05 | 2023-03-24 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [How Deep Is Your Love](https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD) | 2:55 | 2023-02-24 | 2023-03-25 |
-| [How Do I Say Goodbye](https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [How Do I Say Goodbye](https://open.spotify.com/album/5tZJNmEUhVKBSyCeKL2JGi) | 2:39 | 2023-02-24 |  |
+| [How Do I Say Goodbye](https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [How Do I Say Goodbye](https://open.spotify.com/album/5tZJNmEUhVKBSyCeKL2JGi) | 2:39 | 2023-02-24 | 2024-08-31 |
 | [How I'm Feeling Now](https://open.spotify.com/track/38yPSIgn1Hc9kgTQZW7leV) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [How I'm Feeling Now](https://open.spotify.com/album/1F5EScGxpNeJhHrrmUrqbk) | 4:14 | 2023-04-14 |  |
 | [How to Save a Life](https://open.spotify.com/track/5vOoUZTg0E7tBwlX0ur4H3) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [How to Save a Life](https://open.spotify.com/album/1sPVuzxswCjBnWrtpruh77) | 2:47 | 2024-03-01 |  |
 | [Hungry Heart](https://open.spotify.com/track/7546Slt3mB42vU0JVG1K0a) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Hungry Heart](https://open.spotify.com/album/1qG0q30RBXj5Z5C7vvM6S3) | 2:15 | 2023-11-17 |  |
@@ -264,6 +264,7 @@
 | [I Will Wait](https://open.spotify.com/track/3EiU5qZUHJhQFpavXkO2F7) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [I Will Wait](https://open.spotify.com/album/2rIJ96WWRZkmgxP1lRp328) | 3:43 | 2022-01-21 |  |
 | [I won't let the sun go down on me](https://open.spotify.com/track/3m9bYHLtgpXCUqEdsjhvLh) | [Elisa Mosel](https://open.spotify.com/artist/2VNM8Yu05cK0W9sy9Ln2wM) | [I won't let the sun go down on me](https://open.spotify.com/album/0jjBB5aIr8mMgypCdwSmkw) | 4:04 | 2023-04-28 |  |
 | [I'd Do Anything For Love \(But I Won't Do That\)](https://open.spotify.com/track/4mY71haHZOq3rcwGq5JFAW) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [I'd Do Anything For Love \(But I Won't Do That\)](https://open.spotify.com/album/4YFJVksIypldzLpwUBc0In) | 3:06 | 2024-02-09 |  |
+| [I'm So Excited](https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [I'm So Excited](https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o) | 3:15 | 2024-08-30 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1vEgjW5aCr4lW2MjTTIlqp) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [I'm Still Standing](https://open.spotify.com/album/6SqqOHhWVlXi0nP2DUA3rq) | 3:08 | 2024-02-09 |  |
 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 | 2022-01-21 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/55qulwZF586SHaW888nGtG) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [If I Ain't Got You](https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95) | 3:48 | 2022-12-16 |  |
@@ -364,6 +365,7 @@
 | [My Love Is Your Love](https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [My Love Is Your Love](https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR) | 3:30 | 2024-01-19 |  |
 | [My Romance](https://open.spotify.com/track/2rWqBm1Hs2rbw8rzJpDD71) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [My Romance](https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7) | 2:43 | 2022-12-02 | 2024-08-10 |
 | [Mystery Of Love](https://open.spotify.com/track/5iAtsXItE1NUh8SbDaEzSQ) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Mystery Of Love](https://open.spotify.com/album/4tmM2JSI4iIYn7r1Kdse8M) | 3:44 | 2023-02-24 |  |
+| [Never Gonna Give You Up](https://open.spotify.com/track/4v4TQL0zZUalWpttyMgNF2) | [Rebecca Palmer](https://open.spotify.com/artist/0Z8TgF0yUXApLDi2aV1dSN) | [Never Gonna Give You Up](https://open.spotify.com/album/4tBX8nzQagGSFn1LvPBMzb) | 2:51 | 2024-08-30 |  |
 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 | 2023-11-17 |  |
 | [Nights in white satin](https://open.spotify.com/track/2j8e5FzNDN1Qs0mAcCUzgN) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Nights in white satin](https://open.spotify.com/album/4PO6LHupf2iLLOP13enrOl) | 2:06 | 2023-09-22 |  |
 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 | 2023-04-14 |  |
@@ -374,7 +376,7 @@
 | [Numb \- Piano](https://open.spotify.com/track/0K7yOelIWqEZhn3YUZU70M) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:10 | 2022-10-14 | 2023-04-12 |
 | [Numb \- Piano](https://open.spotify.com/track/5AYOA5nvtsFxEteyELq2Ki) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:10 | 2023-03-24 | 2023-06-03 |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-12 |  |
-| [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 | 2023-11-17 |  |
+| [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 | 2023-11-17 | 2024-08-31 |
 | [One Kiss](https://open.spotify.com/track/45CmajdV7n9Swxqbcenfi7) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Shallow](https://open.spotify.com/album/1ZZQhPeQN3jKVkzNCiTiXU) | 3:16 | 2022-12-02 | 2023-03-25 |
 | [One Of Us](https://open.spotify.com/track/7vS01bOyErbineyhSYAHsb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [One Of Us](https://open.spotify.com/album/1MoSFx6eT5FbFieAKNYapF) | 3:05 | 2022-01-21 | 2023-06-03 |
 | [One Of Us](https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [One Of Us](https://open.spotify.com/album/3x7NKtgnNfaISOyoo75ycu) | 3:31 | 2023-02-10 |  |
@@ -573,7 +575,7 @@
 | [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |
 | [Without you](https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 |  |
 | [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 | 2022-12-02 | 2023-09-08 |
-| [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-10 |  |
+| [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-10 | 2024-08-31 |
 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-04-14 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/1XxKCjktvwlG0oaTLvn1aY) | [Jax Mullen](https://open.spotify.com/artist/1lbgMwCwS9vi4FU78sx3zg) | [Relaxing Covers \(Volume 1\)](https://open.spotify.com/album/4mf9XVzCHnRVkPqh2nr7Qe) | 2:52 | 2022-12-02 | 2023-06-03 |
 | [Wonderful Tonight](https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9) | [Saken Ball](https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9) | [Wonderful Tonight](https://open.spotify.com/album/0O80wSJC001dU86jB8OKUR) | 2:11 | 2022-10-28 | 2023-06-09 |

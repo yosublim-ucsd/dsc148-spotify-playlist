@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-563 songs - 1 day 9 hr 21 min
+565 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Enjotti](https://open.spotify.com/track/1C1bXvGkobyzoVPbGBk8nc) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Enjotti](https://open.spotify.com/album/6dDdDbsIUhvYSzzXzfjmc9) | 4:00 | 2023-05-24 | 2024-08-13 |
 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 | 2021-12-01 | 2022-08-12 |
 | [Ennada Kanna](https://open.spotify.com/track/7Ln2fykCiyafchuo1bbt1l) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Chandralekha](https://open.spotify.com/artist/15puC353J91gO4lwnzAoQc), [Aravind Srinivas](https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY) | [Ennada Kanna](https://open.spotify.com/album/10NBys7eCEbmjW3E8biNme) | 4:18 | 2022-11-28 | 2023-03-02 |
+| [Ennai Kollathey](https://open.spotify.com/track/6dkle402E8KU8tSaW7XlTJ) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Ennai Kollathey](https://open.spotify.com/album/534zW5I7ia21ulaxDDnNBe) | 2:54 | 2024-08-30 |  |
 | [Ennasai Kaadhaliye](https://open.spotify.com/track/6M9MebuHb3t1N0AgQcGy86) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Ennasai Kaadhaliye](https://open.spotify.com/album/3kVBl5qhASlKbXftyDTslf) | 4:11 | 2024-06-14 | 2024-08-13 |
 | [Ennodu Nee Illaye](https://open.spotify.com/track/3zmijrUjdZTZCFKnMkETnw) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Ennodu Nee Illaye](https://open.spotify.com/album/4QJCCKykaWGgmnlVk4qiHd) | 3:05 | 2022-12-02 | 2023-03-18 |
 | [Falling in Love](https://open.spotify.com/track/5ojSfxtUyEaEBqJOHICOfo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [MC DEVESH](https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:37 | 2024-04-29 |  |
@@ -539,6 +540,7 @@
 | [Vaazhkai Paatu](https://open.spotify.com/track/4FNkWGEP77dI3OMy4wMN5Q) | [Isaivani](https://open.spotify.com/artist/5QeisthWrXdLXPKSxSSAdL) | [Vaazhkai Paatu](https://open.spotify.com/album/28Khxd8aZBjmi0sELMUnCD) | 4:02 | 2022-12-02 | 2023-04-04 |
 | [Vainko](https://open.spotify.com/track/1nLdzIq6U8wavefMS1fou7) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Vainko](https://open.spotify.com/album/2roNgyh1Jymvnt17NBgPic) | 2:53 | 2021-12-01 | 2023-02-07 |
 | [Valimai Kooduthey](https://open.spotify.com/track/0DB2f8fIetpuxtvz4VVHR1) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Valimai Kooduthey](https://open.spotify.com/album/0pMNdeffLwJaVnaPMnStz0) | 3:24 | 2022-06-30 | 2022-07-08 |
+| [Vanakkam Vandhanam](https://open.spotify.com/track/15RGFYJ7lf651jySnXVPjS) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Vanakkam Vandhanam](https://open.spotify.com/album/1x24yHFkgELp7EnCsCMmJH) | 1:56 | 2024-08-30 |  |
 | [Vazhvatha Savatha](https://open.spotify.com/track/6XJKEahOAoz5HJkEHbWDiO) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Deshany AJS](https://open.spotify.com/artist/71iFtU6JCRgIAE8QfNySiV) | [Vazhvatha Savatha](https://open.spotify.com/album/5lN01Il4dJaDNXNmvTVRkU) | 3:03 | 2022-07-21 | 2022-08-10 |
 | [Veeran \- From "Think Originals"](https://open.spotify.com/track/1fC8EY8jDB1cZHkhFhPLFF) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Veeran \(From "Think Originals"\)](https://open.spotify.com/album/2rf47Fe6cNoGWYrTc5SqSv) | 2:57 | 2022-08-04 | 2023-02-22 |
 | [Veeravanam](https://open.spotify.com/track/1eCmpnUfMsno0j2cNLMj4Y) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Veeravanam](https://open.spotify.com/album/3FpsSrTUxc0ElnGgQuJIY6) | 4:36 | 2023-11-06 | 2024-05-14 |

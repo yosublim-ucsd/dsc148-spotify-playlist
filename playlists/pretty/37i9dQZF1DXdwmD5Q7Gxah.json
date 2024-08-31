@@ -1,12 +1,12 @@
 {
   "description": "it's a Magdalena Bay world",
-  "num_followers": 1152387,
+  "num_followers": 1152842,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtEFpQAAAAA3H6WmRza7Xqt0DdVaLout",
+  "snapshot_id": "ZtFGSAAAAABDskZFDb4c3tMJH5wMRHPH",
   "tracks": [
     {
       "added_at": "2024-08-29 01:24:22",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I hate your face",
+        "url": "https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 138116,
+      "name": "I hate your face",
+      "url": "https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur"
+    },
+    {
       "added_at": "2024-08-07 17:26:36",
       "album": {
         "name": "Beaches",
@@ -55,6 +71,54 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Lonely / Sweet Devil",
+        "url": "https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 198710,
+      "name": "Sweet Devil",
+      "url": "https://open.spotify.com/track/0DL1CEFnfYujeCuLh51nSt"
+    },
+    {
+      "added_at": "2024-08-23 17:42:21",
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Ballad of Matt & Mica",
+      "url": "https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr"
+    },
+    {
+      "added_at": "2024-08-30 04:10:48",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -75,18 +139,50 @@
     {
       "added_at": "2024-08-23 17:42:21",
       "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 240000,
-      "name": "The Ballad of Matt & Mica",
-      "url": "https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr"
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-08-14 18:06:24",
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 203864,
+      "name": "Digital girl",
+      "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Day In The Life",
+        "url": "https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B"
+      },
+      "artists": [
+        {
+          "name": "BABYKIRA",
+          "url": "https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX"
+        }
+      ],
+      "duration_ms": 180279,
+      "name": "Day In The Life",
+      "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -121,10 +217,26 @@
       "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
     },
     {
-      "added_at": "2024-08-16 15:32:14",
+      "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "war",
-        "url": "https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "100 bux",
+        "url": "https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz"
       },
       "artists": [
         {
@@ -132,9 +244,25 @@
           "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 129091,
-      "name": "war",
-      "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
+      "duration_ms": 195093,
+      "name": "100 bux",
+      "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
+    },
+    {
+      "added_at": "2024-08-30 04:10:48",
+      "album": {
+        "name": "One Trick Pony",
+        "url": "https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -173,6 +301,42 @@
       "url": "https://open.spotify.com/track/484LUX0XVdBqpy3vgCUbSm"
     },
     {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Leave A Message (w/ aldn)",
+        "url": "https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 147696,
+      "name": "Leave A Message (w/ aldn)",
+      "url": "https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I Forget (I\u2019m So Young)",
+        "url": "https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 259475,
+      "name": "I Forget (I\u2019m So Young)",
+      "url": "https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "It Gets Easier",
@@ -193,6 +357,22 @@
       "url": "https://open.spotify.com/track/62ZTzwoCs7AmirXl7BSpni"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qp5OgpmF5KZeXoWPWkSI9"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 242870,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "If Only + No One Noticed",
@@ -209,38 +389,6 @@
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
-      "added_at": "2024-08-29 01:24:22",
-      "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Angel on a Satellite",
-      "url": "https://open.spotify.com/track/57C485VPv0kP1XASAwjEYV"
-    },
-    {
-      "added_at": "2024-08-23 17:42:21",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Paris / San Francisco",
@@ -255,6 +403,22 @@
       "duration_ms": 227096,
       "name": "Don't Go Back To Paris",
       "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
+    },
+    {
+      "added_at": "2024-08-29 01:24:22",
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "Angel on a Satellite",
+      "url": "https://open.spotify.com/track/57C485VPv0kP1XASAwjEYV"
     },
     {
       "added_at": "2024-08-22 00:16:02",
@@ -341,20 +505,20 @@
       "url": "https://open.spotify.com/track/7fvld2LGlUhz15CjeaLewh"
     },
     {
-      "added_at": "2024-08-14 18:06:24",
+      "added_at": "2024-08-14 17:07:18",
       "album": {
-        "name": "Digital girl",
-        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
       "artists": [
         {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 203864,
-      "name": "Digital girl",
-      "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2024-08-21 19:52:02",
@@ -477,38 +641,6 @@
       "url": "https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l"
     },
     {
-      "added_at": "2024-08-14 18:06:24",
-      "album": {
-        "name": "Get down / Lovin you",
-        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 145246,
-      "name": "Get down",
-      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qp5OgpmF5KZeXoWPWkSI9"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 242870,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16"
-    },
-    {
       "added_at": "2024-07-17 14:49:33",
       "album": {
         "name": "Charm",
@@ -539,6 +671,22 @@
       "duration_ms": 168160,
       "name": "Persuasion",
       "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
+    },
+    {
+      "added_at": "2024-08-14 18:06:24",
+      "album": {
+        "name": "Get down / Lovin you",
+        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 145246,
+      "name": "Get down",
+      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
     },
     {
       "added_at": "2024-07-31 21:18:49",
@@ -621,20 +769,20 @@
       "url": "https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01"
     },
     {
-      "added_at": "2024-08-14 17:07:18",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+      "duration_ms": 253213,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
     },
     {
       "added_at": "2024-07-04 17:14:57",
@@ -715,22 +863,6 @@
       "duration_ms": 206597,
       "name": "Aggy",
       "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1305,22 +1437,6 @@
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv"
-      },
-      "artists": [
-        {
-          "name": "dog eyes",
-          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "How To Be Human",
@@ -1811,22 +1927,6 @@
       "duration_ms": 287248,
       "name": "fantasmas",
       "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Confusion Song",
-        "url": "https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 161661,
-      "name": "Confusion Song",
-      "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
     },
     {
       "added_at": "2024-05-20 15:43:10",

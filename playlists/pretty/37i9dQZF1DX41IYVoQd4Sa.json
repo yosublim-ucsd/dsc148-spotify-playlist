@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 30138,
+  "num_followers": 30146,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 213023,
+      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "\u05e0\u05d4\u05e8\u05d5\u05ea \u05d5\u05de\u05e4\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 218000,
       "name": "\u05e0\u05d4\u05e8\u05d5\u05ea \u05d5\u05de\u05e4\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 213023,
-      "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
-      },
-      "artists": [
-        {
-          "name": "GADEE",
-          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Fool For Your Smile",
-      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Write About You",
         "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 174208,
       "name": "Write About You",
       "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+      },
+      "artists": [
+        {
+          "name": "GADEE",
+          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Fool For Your Smile",
+      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
-        "url": "https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK"
-      },
-      "artists": [
-        {
-          "name": "Yehudit Ravitz",
-          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
-        }
-      ],
-      "duration_ms": 203983,
-      "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
-      "url": "https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 229362,
       "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
+        "url": "https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK"
+      },
+      "artists": [
+        {
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        }
+      ],
+      "duration_ms": 203983,
+      "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
+      "url": "https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
-      },
-      "artists": [
-        {
-          "name": "Aya Zahavi Feiglin",
-          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
+      },
+      "artists": [
+        {
+          "name": "Aya Zahavi Feiglin",
+          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
     },
     {
       "added_at": "2024-08-22 21:00:00",

@@ -1789,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "BOOM BAP",
+        "url": "https://open.spotify.com/album/2QP8jmHaVOCePjwpN9JYvA"
+      },
+      "artists": [
+        {
+          "name": "Ravi Sardinha",
+          "url": "https://open.spotify.com/artist/5MKDNLnVYIjpSFLcoxNrm2"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172840,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/5zOyqbibtAD5ZKAikhmpJG"
+    },
+    {
+      "album": {
         "name": "Braille",
         "url": "https://open.spotify.com/album/2CjnQzni6YzaX7XbdLnHqj"
       },

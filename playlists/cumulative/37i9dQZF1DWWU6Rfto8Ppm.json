@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 219010,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
@@ -2820,6 +2820,28 @@
       "duration_ms": 231680,
       "name": "Es Mejor Olvidarlo",
       "url": "https://open.spotify.com/track/4dr6kNlIQ93KpUXwdEfTNX"
+    },
+    {
+      "album": {
+        "name": "Es Mejor Olvidarlo",
+        "url": "https://open.spotify.com/album/7LPiqgScjNtVIZ69kjNadb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229955,
+      "name": "Es Mejor Olvidarlo",
+      "url": "https://open.spotify.com/track/5zmMcT8OVIWIqIozqAbnw2"
     },
     {
       "album": {

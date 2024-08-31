@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 223475,
       "name": "Dr. Disclosure",
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
@@ -4830,6 +4830,32 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
+    },
+    {
+      "album": {
+        "name": "NASCIMENTO",
+        "url": "https://open.spotify.com/album/1zd0CYmphAvKcdJv31hYje"
+      },
+      "artists": [
+        {
+          "name": "Gianni\u00b4s Humble",
+          "url": "https://open.spotify.com/artist/0IPxHQWLOiFdARIMSBtLZr"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        },
+        {
+          "name": "Levi Hayes",
+          "url": "https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215100,
+      "name": "NASCIMENTO",
+      "url": "https://open.spotify.com/track/1wBy8fYNbGi2Wbt2lVOEES"
     },
     {
       "album": {

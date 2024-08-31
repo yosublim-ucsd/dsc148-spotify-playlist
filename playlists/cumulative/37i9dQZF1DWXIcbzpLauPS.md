@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> metalcore at its best\. Cover: Fit For A King
+> metalcore at its best\. Cover: thrown
 
-992 songs - 2 day 13 hr 33 min
+994 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Bite](https://open.spotify.com/track/365grxI8WwDhxJjATgww6x) | [Releasing the Waves](https://open.spotify.com/artist/5A4v8rwF0FJ63WN6qYZb0W) | [Bite](https://open.spotify.com/album/1VMN2NrnFunYKfBPDBFg75) | 3:11 | 2024-03-27 | 2024-05-11 |
 | [BITE BACK](https://open.spotify.com/track/2y7sX1o0HqC3OBgIcLjFZM) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [BITE BACK](https://open.spotify.com/album/3BScXuhIsMKsP7cWzIwvIZ) | 2:04 | 2022-04-22 | 2022-06-24 |
 | [Bite Your Tongue](https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Bite Your Tongue](https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM) | 3:18 | 2023-05-05 | 2024-04-13 |
+| [bitter friend](https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [EXCESSIVE GUILT](https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd) | 1:54 | 2024-08-30 |  |
 | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/track/4nCekuTPAxUJg8n5druzdZ) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD) | 2:51 | 2022-07-13 | 2022-07-23 |
 | [Black Gold](https://open.spotify.com/track/1lIvriL7jNztn6JaU5saJc) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [Harmony In Absolution](https://open.spotify.com/album/32uH048DrBtvttFGxo5deB) | 3:41 | 2022-04-08 | 2022-07-01 |
 | [Black Heart](https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/43U1hVWCs2ir6wZIAxvXnv) | 4:35 | 2022-07-13 | 2022-07-22 |
@@ -199,7 +200,7 @@
 | [Cold World](https://open.spotify.com/track/0OgCom0J2EH70YJJxcFlgr) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Cold World](https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
 | [Composure](https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Composure](https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm) | 3:38 | 2021-12-17 | 2022-04-02 |
-| [Concrete](https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Concrete](https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K) | 3:18 | 2024-06-04 |  |
+| [Concrete](https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Concrete](https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K) | 3:18 | 2024-06-04 | 2024-08-31 |
 | [Condemned](https://open.spotify.com/track/6KqXs2ac8eXus6s97mexwD) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Condemned](https://open.spotify.com/album/5caXsrxlNAC9YQBVavvPUK) | 4:06 | 2021-12-17 | 2022-01-22 |
 | [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 | 2024-03-01 |  |
 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 | 2024-02-23 |  |
@@ -297,7 +298,7 @@
 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-25 |  |
 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 | 2023-02-10 | 2024-01-13 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
-| [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-05-05 | 2024-08-28 |
+| [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-05-05 |  |
 | [Dreamstate](https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Dreamstate](https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof) | 4:00 | 2024-07-12 |  |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2022-07-13 | 2022-07-15 |
 | [Drown](https://open.spotify.com/track/5T7MwiVZR9HCW1TBPJR0gP) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Drown](https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg) | 3:28 | 2023-05-22 | 2024-02-24 |
@@ -319,7 +320,7 @@
 | [Endless Hollow](https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Endless Hollow](https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp) | 3:50 | 2024-02-09 |  |
 | [Enemy](https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Enemy](https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v) | 4:08 | 2022-07-13 | 2022-07-23 |
 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 | 2022-07-08 | 2022-10-12 |
-| [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 | 2024-04-12 |  |
+| [Epitaph](https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Epitaph](https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9) | 3:37 | 2024-04-12 | 2024-08-31 |
 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 | 2021-12-17 | 2022-04-02 |
 | [Erased](https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Mono No Aware](https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn) | 3:36 | 2024-08-12 | 2024-08-26 |
 | [Eraser](https://open.spotify.com/track/588UONZ98cyfcM2IEia5nf) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Eraser](https://open.spotify.com/album/2yvQYev2fyWfAOLrjXgQnE) | 2:33 | 2021-12-17 | 2022-01-08 |
@@ -536,7 +537,7 @@
 | [Lockdown](https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Lockdown](https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT) | 3:41 | 2024-02-09 | 2024-06-05 |
 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 | 2022-01-28 | 2022-05-06 |
 | [Longclaw](https://open.spotify.com/track/3XuLpFMzHRM3VlAegGMEuF) | [Earth Eater](https://open.spotify.com/artist/36b8PsQoJcT9z27xg4v2GD) | [Longclaw](https://open.spotify.com/album/2ZwgzTFBGdgKTHclCs9uVs) | 5:20 | 2022-07-13 | 2022-07-15 |
-| [look at me](https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [look at me](https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker) | 1:30 | 2024-06-04 |  |
+| [look at me](https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [look at me](https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker) | 1:30 | 2024-06-04 | 2024-08-31 |
 | [Losing Control](https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 3:28 | 2022-11-18 | 2023-05-27 |
 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 | 2021-12-17 | 2022-11-20 |
 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 | 2022-05-27 | 2023-02-18 |
@@ -982,6 +983,7 @@
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |
 | [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 | 2024-07-12 | 2024-08-26 |
+| [Wildfires](https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Wildfires](https://open.spotify.com/album/4SjnWy1dRE4laBw4qAerMf) | 3:24 | 2024-08-30 |  |
 | [Wishing Well](https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Shine & Fade](https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB) | 4:10 | 2022-04-29 | 2022-07-08 |
 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 | 2024-01-23 |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-07-13 | 2022-07-20 |

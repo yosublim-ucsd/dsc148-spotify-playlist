@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : GOAT
 
-1,437 songs - 3 day 15 hr 43 min
+1,438 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/track/4DafFDdRYxzgqkYgDxsjvN) | [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5), [Prithivy](https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP), [Seerkali Sirpi](https://open.spotify.com/artist/7j42iXz1Q0nbm3fr6Dm18H) | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/album/4ZDNtBYlF513Vnof9uDpgI) | 3:31 | 2024-01-22 | 2024-02-17 |
 | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/track/4bV4wXhCwgXGuolnsGULOM) | [Prithivy](https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP), [Mukesh Mohamed](https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5) | [Going to Goa \(From "Glassmates"\)](https://open.spotify.com/album/4m4pwWO65N0fAk61KlkafM) | 3:31 | 2024-01-22 | 2024-01-24 |
 | [Goiyyaale \- From "Takkar"](https://open.spotify.com/track/1ZJATS1cCAQfiaXD3JjYbs) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Ku\. Karthik](https://open.spotify.com/artist/7afbfSW08ZzuIs9Sov83uW), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Goiyyaale \(From "Takkar"\)](https://open.spotify.com/album/379KVbvIxlqrEzm69Z3BC6) | 3:31 | 2023-05-04 | 2023-05-30 |
+| [Golden Sparrow \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Golden Sparrow \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/album/09Wjf3AwDGRQrKqddhqHKa) | 3:50 | 2024-08-30 |  |
 | [Goli Soda \- From "Patti Sollai Thattathey"](https://open.spotify.com/track/2lh8Vw0ghbOnjzLUrOBzds) | [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [RJ Vijay](https://open.spotify.com/artist/4iMO3KmP21RFt6qswwb2Fx), [Vijai Shankar](https://open.spotify.com/artist/6UZP1Wn8CrMPKZUOgJfsat), [Hema Surya](https://open.spotify.com/artist/6FVUbjatG21JUlCHRzanVc) | [Goli Soda \(From "Patti Sollai Thattathey"\)](https://open.spotify.com/album/5QVNhtC8OrPWJPe6N3BMeK) | 3:21 | 2023-10-26 | 2023-11-07 |
 | [Goppurane Goppurane \(From "Kannagi"\)](https://open.spotify.com/track/7ntGpdFgWRVlGcKdnJDUxW) | [Srinidhi Sriprakash](https://open.spotify.com/artist/7kdKX29w5XfgJKIe15PSxd) | [Goppurane Goppurane \(From "Kannagi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0o1GBlptCZezsP3IcAYOpJ) | 4:56 | 2023-01-18 | 2023-02-18 |
 | [Gopura Poove Va \(From "Deivamachan"\)](https://open.spotify.com/track/2zFNeBSyWPytAmwamFTgQo) | [Nithyasree Mahadevan](https://open.spotify.com/artist/6UPWm7jqlonf0Xy4EB3x2m), [Reshma Raghavendra](https://open.spotify.com/artist/21xKQ7hy4lVVcHAjbYWBot) | [Gopura Poove Va \(From "Deivamachan"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1pIARqoUi7dr8runU9bAJ5) | 2:33 | 2023-07-26 | 2023-08-03 |

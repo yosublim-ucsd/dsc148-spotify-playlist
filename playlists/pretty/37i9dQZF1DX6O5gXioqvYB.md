@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > La nuova scena indie italiana! Cover: Paul Giorgi
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,608 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,616 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 43 | [yo\-yo](https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [yo\-yo](https://open.spotify.com/album/4rtWcaZdsuVQ9tT41TWNeY) | 2:49 |
 | 44 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 |
 | 45 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 |
-| 46 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 |
+| 46 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/6qW0KTM1s5hn8aZgfadyRE), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 |
 | 47 | [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 |
 | 48 | [Polpastrelli](https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Polpastrelli](https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7) | 3:31 |
 | 49 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 |

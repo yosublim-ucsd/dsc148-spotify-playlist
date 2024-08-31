@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:5A0SFJQSdSjFHGcndiGT1s\">Planetshakers</a>",
+  "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -1163,6 +1163,40 @@
     },
     {
       "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4wA6COc1OTeH3va8hT3LfE"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Gas Street Music",
+          "url": "https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG"
+        },
+        {
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Zo Ross-Waddell",
+          "url": "https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N"
+        },
+        {
+          "name": "Michael Shannon",
+          "url": "https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365538,
+      "name": "By Faith - Live",
+      "url": "https://open.spotify.com/track/7H4V5C60XWxsFccje1u5nC"
+    },
+    {
+      "album": {
         "name": "Can I Get An Amen? (Live)",
         "url": "https://open.spotify.com/album/3AyuLV2cV9xwDTFwSmro5Y"
       },
@@ -1413,6 +1447,32 @@
     },
     {
       "album": {
+        "name": "REVELATION (Live)",
+        "url": "https://open.spotify.com/album/7di8fYwzUziiebXd3Cw8VB"
+      },
+      "artists": [
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        },
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334954,
+      "name": "Come Up Here - Live",
+      "url": "https://open.spotify.com/track/39rSNEgQTVwe6nLIjTfZxX"
+    },
+    {
+      "album": {
         "name": "Comfort (Live)",
         "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
       },
@@ -1574,6 +1634,24 @@
       "duration_ms": 292440,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS"
+    },
+    {
+      "album": {
+        "name": "Earth And Heaven Roar - Live",
+        "url": "https://open.spotify.com/album/3uq2vwzLuwY4IYCsH8NyjV"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302886,
+      "name": "Earth And Heaven Roar - Live",
+      "url": "https://open.spotify.com/track/5yfdzZGGwTPa8eFLh8L04c"
     },
     {
       "album": {
@@ -2518,7 +2596,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 418333,
       "name": "Gratitude - LIVE from Miracle Nights",
       "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
@@ -2842,7 +2920,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 441746,
       "name": "Highest One - Live",
       "url": "https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza"
@@ -2872,6 +2950,24 @@
       "duration_ms": 417368,
       "name": "Highest Praise - Live",
       "url": "https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz"
+    },
+    {
+      "album": {
+        "name": "His Glory and My Good (Acoustic) [Live]",
+        "url": "https://open.spotify.com/album/14Ole7fkfb4f6bJtBoT41C"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312159,
+      "name": "His Glory and My Good (Acoustic) - Live",
+      "url": "https://open.spotify.com/track/3aLgQMVeLIUjl1O5YEbsZh"
     },
     {
       "album": {
@@ -3058,7 +3154,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 252585,
       "name": "House of God - Live",
       "url": "https://open.spotify.com/track/5C6LXBvnV0S9gnnq4VCAC4"
@@ -3288,7 +3384,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 459430,
       "name": "I Have A Father - Live",
       "url": "https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR"
@@ -3424,7 +3520,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 201289,
       "name": "I'm Gon' Worship - Live",
       "url": "https://open.spotify.com/track/1tIuL7ZNKKt1LfxuYyyVxT"
@@ -3519,6 +3615,32 @@
     },
     {
       "album": {
+        "name": "Praises & Prayers, Vol. 1",
+        "url": "https://open.spotify.com/album/3LmrjEE8OCVq6OKnYEjtst"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Charmaine Wells",
+          "url": "https://open.spotify.com/artist/3PvweVTIfd1eOxAbTv2OIK"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377592,
+      "name": "If You're Not With Me - Live",
+      "url": "https://open.spotify.com/track/3Emrun9IGXR7qHxMXn0W5K"
+    },
+    {
+      "album": {
         "name": "In Christ Alone (Live From Sydney)",
         "url": "https://open.spotify.com/album/6cCviTac5Tm6skLA9BoMgH"
       },
@@ -3600,7 +3722,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 513333,
       "name": "In You - Live",
       "url": "https://open.spotify.com/track/69iGnsdcWQUbiuKyjaztY5"
@@ -4481,6 +4603,32 @@
     },
     {
       "album": {
+        "name": "Made For More",
+        "url": "https://open.spotify.com/album/0Wh96pmXtrWflkPfrUpKCV"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385506,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi"
+    },
+    {
+      "album": {
         "name": "Made For More (Live)",
         "url": "https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh"
       },
@@ -4952,7 +5100,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 500300,
       "name": "No One Like The Lord (Live)",
       "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
@@ -5131,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685340,
+      "name": "Omemma - Live",
+      "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
+    },
+    {
+      "album": {
         "name": "On The Altar",
         "url": "https://open.spotify.com/album/5YHTuvFPBU4cOKvkgqxJAt"
       },
@@ -5186,6 +5352,24 @@
       "duration_ms": 235202,
       "name": "One and Only Jesus",
       "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
+    },
+    {
+      "album": {
+        "name": "One Day - Live",
+        "url": "https://open.spotify.com/album/5BBCFlQYG6rcvY8Kzs6P3s"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262015,
+      "name": "One Day - Live",
+      "url": "https://open.spotify.com/track/0v8weMqlIWquZKp8TknLxL"
     },
     {
       "album": {
@@ -5974,7 +6158,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 463848,
       "name": "Satisfied - Live",
       "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
@@ -6265,6 +6449,28 @@
     },
     {
       "album": {
+        "name": "Steady Love (Live)",
+        "url": "https://open.spotify.com/album/0VbGmQpx6M8O2E1S4RC2cu"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335833,
+      "name": "Steady Love - Live",
+      "url": "https://open.spotify.com/track/1d1jC7bVlJaPPoxlONw1tA"
+    },
+    {
+      "album": {
         "name": "Still God (Live)",
         "url": "https://open.spotify.com/album/0fMlKN8de4zcIG9PXa6zdA"
       },
@@ -6338,6 +6544,32 @@
       "duration_ms": 292333,
       "name": "Sunday Is Coming",
       "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
+    },
+    {
+      "album": {
+        "name": "Sustain - Live",
+        "url": "https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726296,
+      "name": "Sustain - Live",
+      "url": "https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f"
     },
     {
       "album": {
@@ -6465,6 +6697,24 @@
     },
     {
       "album": {
+        "name": "That's Who I Praise (Live)",
+        "url": "https://open.spotify.com/album/4AJriPBO6ADu0XkispSFy8"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255044,
+      "name": "That's Who I Praise (Live)",
+      "url": "https://open.spotify.com/track/0TRG7usgIbTSXv8vI4Jw1a"
+    },
+    {
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -6514,6 +6764,28 @@
       "duration_ms": 514665,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
+    },
+    {
+      "album": {
+        "name": "Live From Europe",
+        "url": "https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489875,
+      "name": "The Blessing - Live From Europe",
+      "url": "https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM"
     },
     {
       "album": {
@@ -6862,7 +7134,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 411000,
       "name": "There is a Day - Live",
       "url": "https://open.spotify.com/track/3mbMDD8lcr12Z9EFkhQP0c"
@@ -6954,6 +7226,28 @@
       "duration_ms": 330516,
       "name": "There's No Way - Live",
       "url": "https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP"
+    },
+    {
+      "album": {
+        "name": "They Always Do (Live)",
+        "url": "https://open.spotify.com/album/0E92LMcaFJbJFM6XyIpBa9"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Anjin Teal",
+          "url": "https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368025,
+      "name": "They Always Do - Live",
+      "url": "https://open.spotify.com/track/1Tjw8b9Nkv1pKHrohw0sgl"
     },
     {
       "album": {
@@ -7458,6 +7752,42 @@
       "duration_ms": 469430,
       "name": "Wash Over Me - Live",
       "url": "https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS"
+    },
+    {
+      "album": {
+        "name": "Water and Bone (Live)",
+        "url": "https://open.spotify.com/album/1Xi7P1QnQJnLK5IzpCqAZj"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339997,
+      "name": "Water and Bone - Live",
+      "url": "https://open.spotify.com/track/6dFAtEgqf759LxORlHtQUr"
+    },
+    {
+      "album": {
+        "name": "We Choose Praise (Live)",
+        "url": "https://open.spotify.com/album/5Xi732fHAJZapcrvoVI4Vt"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300063,
+      "name": "We Choose Praise - Live",
+      "url": "https://open.spotify.com/track/3Fg12qkxZokspmB4UUYHiZ"
     },
     {
       "album": {
@@ -7994,7 +8324,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 599001,
       "name": "Your Nature - Live",
       "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"

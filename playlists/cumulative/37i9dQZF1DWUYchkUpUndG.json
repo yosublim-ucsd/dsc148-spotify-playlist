@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-27",
-  "description": "Discover new christian and gospel music. Cover: \"<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=yqlzM3HlTC-8KZv6GPoZpA>Spirit of Praise</a>'s \"<a href=https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=QaPZcevhQ_GFbeYwZbF3mg>Mmatema</a>",
+  "description": "Discover new christian and gospel music. Cover: \"<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=eS2iNpVSTMiw5vS_IFCFpg>Ada Ehi</a>",
   "name": "Fresh Gospel Africa",
   "tracks": [
     {
@@ -21867,6 +21867,24 @@
     },
     {
       "album": {
+        "name": "Greatest Name",
+        "url": "https://open.spotify.com/album/2fb2Q6ER8Bx6nFsCLyYfVK"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621265,
+      "name": "Greatest Name",
+      "url": "https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN"
+    },
+    {
+      "album": {
         "name": "Greatness",
         "url": "https://open.spotify.com/album/0kNc8H06eGWLZ5NlG5k6ky"
       },
@@ -25467,6 +25485,24 @@
     },
     {
       "album": {
+        "name": "HolyGhost Chant",
+        "url": "https://open.spotify.com/album/1WuVqRsh171PNAtqac99v4"
+      },
+      "artists": [
+        {
+          "name": "Thepeterjacobs",
+          "url": "https://open.spotify.com/artist/30ikjsa4ad1hwe7NJsfh8Z"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560000,
+      "name": "HolyGhost Chant",
+      "url": "https://open.spotify.com/track/1LOl3TsI8vXbxM6jQxYacc"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0vCfaEe12sD0ht1x7u0VYS"
       },
@@ -25776,6 +25812,32 @@
       "duration_ms": 446468,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/55aduxd5UNx8JvWTEnVCS4"
+    },
+    {
+      "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/1iSTzkiksLsTHQrw3NL0BD"
+      },
+      "artists": [
+        {
+          "name": "Anyanya Udongwo",
+          "url": "https://open.spotify.com/artist/2cbioHiPydvkOosQh5pLXy"
+        },
+        {
+          "name": "Timothy Akuboh",
+          "url": "https://open.spotify.com/artist/4eB1IT3SeD09f7PvI3X7q5"
+        },
+        {
+          "name": "TMD",
+          "url": "https://open.spotify.com/artist/4kLSMb01FhdIdTEGOQRKwW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157124,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/2MfYquWKqyiDAmUZfmxeUH"
     },
     {
       "album": {
@@ -30007,7 +30069,7 @@
     },
     {
       "album": {
-        "name": "It's Gonna Be Alright (Remix)",
+        "name": "It's Gonna Be Alright - Remix",
         "url": "https://open.spotify.com/album/6alRG3XHS3ivtcRjpW06jB"
       },
       "artists": [

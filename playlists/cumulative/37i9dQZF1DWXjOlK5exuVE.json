@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. R\u00e9gulo Caro en portada. ",
+  "description": "Historias que hacen historia. Los Tucanes de Tijuana en portada. ",
   "name": "La Tierra del Corrido",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183013,
       "name": "25 de Diciembre",
       "url": "https://open.spotify.com/track/0vkWhjZgixnhhvMQjzLa9v"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 126120,
       "name": "A La Moda",
       "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 129973,
       "name": "Ajustes Inzunza",
       "url": "https://open.spotify.com/track/4bbgGODjQQbmTuROuclcUH"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
@@ -250,6 +250,24 @@
       "duration_ms": 216333,
       "name": "Aqu\u00ed Mando Yo",
       "url": "https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
       "album": {
@@ -420,7 +438,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180046,
       "name": "Cedo la Palabra",
       "url": "https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj"
@@ -540,7 +558,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186812,
       "name": "Cien vidas Antrax",
       "url": "https://open.spotify.com/track/6KHrhw2BMo3L9rNhEPDyq6"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 169760,
       "name": "Culiac\u00e1n Vs. Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189538,
       "name": "De Aqu\u00ed A China",
       "url": "https://open.spotify.com/track/6FDKoVIg7uChhkOLDO3v2n"
@@ -880,6 +898,24 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
+    },
+    {
+      "album": {
+        "name": "El 3 De Durango",
+        "url": "https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184931,
+      "name": "El 3 De Durango",
+      "url": "https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f"
     },
     {
       "album": {
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 174405,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
@@ -1219,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "El C\u00e9sar del Box",
+        "url": "https://open.spotify.com/album/2YtpAqof3gNVQKA35PyKt1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222272,
+      "name": "El C\u00e9sar del Box",
+      "url": "https://open.spotify.com/track/3PpuxkmoZvGOZlpHVcniAN"
+    },
+    {
+      "album": {
         "name": "El De La Defender Blanca",
         "url": "https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk"
       },
@@ -1248,7 +1302,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 205141,
       "name": "El De Las Mieles",
       "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
@@ -1284,7 +1338,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 171587,
       "name": "El del Morral",
       "url": "https://open.spotify.com/track/2lkL6T9gJ0yqGFLztjdNcr"
@@ -1306,7 +1360,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
@@ -1498,7 +1552,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 331050,
       "name": "El Ilegal",
       "url": "https://open.spotify.com/track/4ExmkdupkxHTpYPV2YJ1AQ"
@@ -1552,7 +1606,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195136,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
@@ -1570,7 +1624,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 219002,
       "name": "El LP",
       "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
@@ -1838,7 +1892,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215250,
       "name": "El Se\u00f1or de los Cielos",
       "url": "https://open.spotify.com/track/7GuMMcKE6CzkMx53uvE2bN"
@@ -1964,7 +2018,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154946,
       "name": "El Trokero Lokochon",
       "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
@@ -2166,7 +2220,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 187280,
       "name": "En Preparacion",
       "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204583,
       "name": "Escuela de rancho - En Vivo",
       "url": "https://open.spotify.com/track/29CUZN81Hjnn6wf6F6KYQg"
@@ -2354,7 +2408,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 174586,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/3g1GoAq0u4uDzrXFgvMII2"
@@ -2402,7 +2456,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
@@ -2504,7 +2558,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166821,
       "name": "Igualito a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
@@ -2798,7 +2852,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 155306,
       "name": "La Gran Pachanga",
       "url": "https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9"
@@ -2852,7 +2906,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 149263,
       "name": "La Manda Incumplida",
       "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
@@ -3168,7 +3222,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183893,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
@@ -3320,7 +3374,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173413,
       "name": "Los Pilares de la C\u00e1rcel",
       "url": "https://open.spotify.com/track/7AogJnBJzJjGqFIZznGmyP"
@@ -3466,7 +3520,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 140983,
       "name": "Me Acostumbre A Lo Bueno",
       "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
@@ -3744,7 +3798,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 155600,
       "name": "Ni Diablo Ni Santo",
       "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
@@ -3766,6 +3820,24 @@
       "duration_ms": 134975,
       "name": "No Mastico Culebras",
       "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Nomas Las Mujeres Quedan",
+      "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
     },
     {
       "album": {
@@ -4066,7 +4138,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
@@ -4088,6 +4160,24 @@
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+    },
+    {
+      "album": {
+        "name": "Corridos Del Norte",
+        "url": "https://open.spotify.com/album/7enZWFv7Rg26LhC5LF8j7o"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Sangre Potosina",
+      "url": "https://open.spotify.com/track/5erCcQWsyLw84cPDKQCls4"
     },
     {
       "album": {
@@ -4150,7 +4240,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 160714,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"

@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: This is a Campus Romance Series\(대충 캠퍼스로맨스임\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-215 songs - 13 hr 6 min
+216 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu) | 3:48 | 2022-07-12 |  |
 | [Desire And Hope \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT) | [HAEUN](https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2) | [Desire And Hope \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8) | 3:32 | 2024-08-12 |  |
 | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\)](https://open.spotify.com/track/3pw62nzuActNxaMDhxoQVS) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Did you wake up? \(one and only romance X Hello Ga\-Young, WONPIL\(DAY6\)\)](https://open.spotify.com/album/3LKDYgN60NINDo6HBynrq0) | 3:19 | 2024-08-10 |  |
+| [Dilemma](https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t) | [LIZRO](https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB) | 3:06 | 2024-08-12 |  |
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-02 |  |
 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 | 2022-05-09 |  |
 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 | 2022-10-13 | 2024-08-11 |
@@ -80,7 +81,7 @@
 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 | 2022-10-18 | 2023-12-11 |
 | [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol OST Part.10 \(Soundtrack\)](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 | 2022-12-21 | 2024-08-11 |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 | 2023-12-11 |
-| [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2) | 3:51 | 2024-08-12 |  |
+| [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [I'll talk to you \(The Moon during the Day X Gummy\)](https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2) | 3:51 | 2024-08-12 | 2024-08-31 |
 | [I'M BACK](https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [I'M BACK \(Killer Peter X BLASÉ\)\[Original Webtoon Soundtrack\]](https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h) | 2:56 | 2023-10-10 |  |
 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 | 2022-05-09 |  |
 | [If we…](https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Holy Idol \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix) | 3:02 | 2023-01-26 | 2024-08-11 |

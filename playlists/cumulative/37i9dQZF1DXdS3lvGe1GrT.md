@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: harf.
 
-1,363 songs - 3 day 9 hr 22 min
+1,364 songs - 3 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1238,6 +1238,7 @@
 | [To Carolina](https://open.spotify.com/track/592tZexuSZB7YE5TdfVXaS) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [To Carolina](https://open.spotify.com/album/3pUUrHM1FhsAGpP8zhiL9U) | 3:23 | 2023-03-08 | 2023-04-13 |
 | [to god, to us](https://open.spotify.com/track/4i0vEZuGiIRfP7ZQQRFNSQ) | [Izzie Burton](https://open.spotify.com/artist/5USPz1G7jEwvH6TzlD0Grm) | [to god, to us](https://open.spotify.com/album/1O4GhqpaQaSWGxEwnsVr7c) | 4:34 | 2024-02-07 | 2024-04-04 |
 | [To Hell With You](https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [To Hell With You](https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe) | 3:51 | 2024-01-10 | 2024-02-22 |
+| [to love me](https://open.spotify.com/track/36QORZpibXC1szSTXKPk7i) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [to love me](https://open.spotify.com/album/7B1eDWH2UGu7aTLeim9dlq) | 3:27 | 2024-08-30 |  |
 | [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-07 | 2023-08-03 |
 | [toler](https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [toler](https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI) | 1:45 | 2023-08-30 | 2023-11-11 |
 | [Tomato](https://open.spotify.com/track/6ta9JHGvLVZZP4w1GPVsZP) | [Katy Pinke](https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ) | [Tomato](https://open.spotify.com/album/3Ug1Eqoj27MVxPm9XflhsP) | 3:47 | 2024-01-10 | 2024-02-08 |

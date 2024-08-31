@@ -1,12 +1,12 @@
 {
-  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 354936,
+  "description": "This is Eric Clapton. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 354988,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAACSbqsvlcZ7YUWHdeYlxr76",
+  "snapshot_id": "Zs+6AAAAAAD6hkLUY8efDLEuV2DfzJYN",
   "tracks": [
     {
       "added_at": null,
@@ -635,46 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+        "name": "August",
+        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        },
-        {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        },
-        {
-          "name": "Art Neville",
-          "url": "https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG"
         }
       ],
-      "duration_ms": 381066,
-      "name": "Six Strings Down",
-      "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
+      "duration_ms": 251453,
+      "name": "It's in the Way That You Use It",
+      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
     },
     {
       "added_at": null,
@@ -715,18 +687,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
       "artists": [
         {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        },
+        {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        },
+        {
+          "name": "Art Neville",
+          "url": "https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG"
         }
       ],
-      "duration_ms": 251453,
-      "name": "It's in the Way That You Use It",
-      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
+      "duration_ms": 381066,
+      "name": "Six Strings Down",
+      "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
     },
     {
       "added_at": null,

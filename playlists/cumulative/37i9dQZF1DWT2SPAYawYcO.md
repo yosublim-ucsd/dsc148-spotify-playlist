@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Jamie xx
 
-5,437 songs - 12 day 6 hr 11 min
+5,440 songs - 12 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1039,6 +1039,7 @@
 | [CRASH DUMMY MUZIK](https://open.spotify.com/track/23fWUAcz6j3UyZIIntNfec) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [CRASH DUMMY MUZIK](https://open.spotify.com/album/27zyxNbwv5dadoslI7leyM) | 3:21 | 2024-05-23 | 2024-06-01 |
 | [Crash Test](https://open.spotify.com/track/3wngr4Yhd93jCoI59sqBkB) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Crash Test](https://open.spotify.com/album/2V8TurDquhzFAyeEY7c11l) | 3:25 | 2024-07-11 | 2024-07-19 |
 | [Crazier Idea](https://open.spotify.com/track/6fFXp6l07S3w5f00lbhHOW) | [Kirin J Callinan](https://open.spotify.com/artist/16y7sGO0GJMVHDFgj9MNcd) | [Crazier Idea](https://open.spotify.com/album/7eZmrMGOjbqfvaZlybpUMX) | 3:48 | 2023-11-30 | 2023-12-08 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 |  |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-04 | 2024-04-12 |
 | [creep](https://open.spotify.com/track/4k62Ti1VDL96ZXmx92Nwwg) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL) | [creep](https://open.spotify.com/album/2gNucWMAoI8JwJFk5067WZ) | 1:56 | 2023-07-13 | 2023-07-21 |
 | [CREW](https://open.spotify.com/track/50rG7ggLMQYl2JmcAR599P) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ) | [CREW](https://open.spotify.com/album/1jl0bVp8j9FH2apdk15qV5) | 2:43 | 2024-05-09 | 2024-05-17 |
@@ -1748,7 +1749,7 @@
 | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ) | 4:01 | 2024-05-16 | 2024-05-24 |
 | [Frostbite](https://open.spotify.com/track/3ZDqzinpbshPYwDtue0HGD) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Frostbite](https://open.spotify.com/album/7FFkP31KXzh24bg1lB40y9) | 2:17 | 2023-07-07 | 2023-07-14 |
 | [Fruit Loop](https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fruit Loop](https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg) | 2:17 | 2023-07-27 | 2023-08-04 |
-| [Fruition \(feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 | 2024-08-29 |  |
+| [Fruition\( feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 | 2024-08-29 |  |
 | [Fuck](https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Fuck](https://open.spotify.com/album/02ylSbd0v7NbYrD2LqmXIE) | 2:44 | 2024-05-02 | 2024-05-10 |
 | [FUCK THE INTERNET](https://open.spotify.com/track/1rSBKkL2ukLE6TuppA4XX4) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [FUCK THE INTERNET](https://open.spotify.com/album/2NueODtDjDpJPggFP2204P) | 2:28 | 2023-07-07 | 2023-07-14 |
 | [Full Blast](https://open.spotify.com/track/0RD2BF5uxt2gPd7ztktRJt) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Full Blast](https://open.spotify.com/album/70NMQqWHgjViipVI44kxZ0) | 3:55 | 2024-07-25 | 2024-08-02 |
@@ -2798,6 +2799,7 @@
 | [Like I Said](https://open.spotify.com/track/6BHGcsc8q9lrduVjXOuA0w) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Like I Said](https://open.spotify.com/album/2gsAnOVVfnMvMLQQk4BOwF) | 5:12 | 2024-08-08 | 2024-08-16 |
 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-04-25 | 2024-05-03 |
 | [Like Me Too](https://open.spotify.com/track/4dA0FG8PHVPqeImmVc0Drj) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Like Me Too](https://open.spotify.com/album/0IjInNeO5lRM3wiFZk0QtZ) | 3:18 | 2023-07-27 | 2023-08-04 |
+| [Like Nothing](https://open.spotify.com/track/230rjTVkPndyWDJRmyJ4Af) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Like Nothing](https://open.spotify.com/album/6hC1SzHo16p4n8H5JeMIMH) | 2:18 | 2024-08-29 |  |
 | [Like We Wrote](https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo) | 1:58 | 2024-05-31 | 2024-06-07 |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-02-29 | 2024-03-08 |
 | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/track/0yCPzPMUg3cJintNml4h6H) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Like You \(feat\. Balu Brigada\)](https://open.spotify.com/album/5ZQj7tgOar5vGfrYslvFMp) | 3:05 | 2024-01-18 | 2024-01-26 |
@@ -4376,6 +4378,7 @@
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-09 | 2024-05-17 |
 | [Stargazing](https://open.spotify.com/track/25OU8ZnOOvuuWeHpQq7UDl) | [Sweet Mix Kids](https://open.spotify.com/artist/7D0Hb0WdjO98UZf8Uh1DX7), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Stargazing](https://open.spotify.com/album/6SgXzqOF2tOQsAdg3boNHN) | 4:06 | 2023-08-24 | 2023-09-01 |
 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-02-22 | 2024-03-01 |
+| [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 |  |
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-11-30 | 2023-12-08 |
 | [START A RIOT](https://open.spotify.com/track/08Wwh9zWBUcxXjEvS8yQg6) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [START A RIOT](https://open.spotify.com/album/0PXBnCuKn0eSAJyv3w7kLM) | 3:03 | 2023-11-16 | 2023-11-24 |
 | [Start Again](https://open.spotify.com/track/5A5bwcDikT756mRVs9gVCw) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Start Again](https://open.spotify.com/album/2n5GoOI0mkA8zavtQ32xU3) | 2:40 | 2023-08-03 | 2023-08-11 |

@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-248 songs - 15 hr 11 min
+251 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Go Rest High On That Mountain](https://open.spotify.com/track/2JP2H4Hj0imQxqw4ce4UWQ) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Take Me Home: Covers](https://open.spotify.com/album/2ATLhcb3X7xYULIgTZbqfo) | 3:43 | 2024-02-09 |  |
 | [God & Country](https://open.spotify.com/track/7LJuvRQRJOyTAxBKk6xJbG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God & Country](https://open.spotify.com/album/0hsCH0eDI9mq7wcuyWRqIU) | 3:19 | 2024-04-19 |  |
 | [God and a Good Man](https://open.spotify.com/track/791WLUSDeAH9Ozg4ESAtgc) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [God and a Good Man](https://open.spotify.com/album/3lwqtmWopuyOY3eR6dRyWG) | 4:56 | 2023-10-20 |  |
+| [God Can Use A Broken Man](https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [God Can Use A Broken Man](https://open.spotify.com/album/7G84INpL3oLq7Z6SE7MJi4) | 4:11 | 2024-08-30 |  |
 | [God Is Good](https://open.spotify.com/track/2J201WXV1md702dEIkQ6wy) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Halfway To Houston](https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y) | 3:14 | 2021-12-10 |  |
 | [God Made Fridays](https://open.spotify.com/track/4rIBtj2jHi8nIVfV7KeWy4) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 2:43 | 2023-07-21 | 2024-04-19 |
 | [God Made Fridays](https://open.spotify.com/track/6ksQ2gxEZGqQdygMex4PGs) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [God Made Fridays](https://open.spotify.com/album/4W5ldcMXbVXsBkeKX1uCSJ) | 2:43 | 2023-05-19 |  |
@@ -80,10 +81,12 @@
 | [God Must Really Love Me](https://open.spotify.com/track/391V2jmxaLRwm5rqC2WJyR) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [That's Why](https://open.spotify.com/album/2yaPAemFbhH61a8w5VOWAt) | 3:41 | 2021-12-10 |  |
 | [God Plays a Gibson](https://open.spotify.com/track/6Ug6GZZzefggGWig5j2vxM) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:31 | 2023-05-05 |  |
 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-04-01 |  |
+| [God Won't](https://open.spotify.com/track/5Twu8wCinnIH6Rfr4z13hO) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Loving You](https://open.spotify.com/album/5T5hxamWxgZKqrbfRk8tP6) | 3:00 | 2024-08-30 |  |
 | [God's Been Good To Me](https://open.spotify.com/track/6Ieljz21ViDbNsGkI91lKT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:38 | 2021-12-10 |  |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-12-10 |  |
 | [Good Luck And God](https://open.spotify.com/track/5smCFXppZRreSX0Bl0jqTC) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Good Luck And God](https://open.spotify.com/album/43rp0X7Z1ZKiUM9Sbf5jzP) | 2:51 | 2023-12-08 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-03-10 |  |
+| [Good News](https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Good News](https://open.spotify.com/album/6GSRhKsu8GzEe0OvecCwMa) | 2:59 | 2024-08-30 |  |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-10 |  |
 | [Got Me \(feat\. Shane & Shane\)](https://open.spotify.com/track/0jPyxhlX59YdIqCc0soDwR) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:55 | 2021-12-10 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 | 2021-12-10 |  |
@@ -99,7 +102,7 @@
 | [Here On Earth](https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/7haZ3eXsSFhEjG6kL2kRx8) | 4:21 | 2021-12-10 |  |
 | [Here On Earth](https://open.spotify.com/track/66uk542Puhd7IrTNofH1uO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Father's Day Country 2022](https://open.spotify.com/album/2EfKugkDEM0SzeSbyXXZsY) | 4:21 | 2022-11-04 | 2022-11-14 |
 | [Here On Earth](https://open.spotify.com/track/6oARVUWXiWceOYeijMwcvw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 4:21 | 2022-07-15 | 2024-04-19 |
-| [Hey Girl](https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv) | 3:08 | 2022-03-04 |  |
+| [Hey Girl](https://open.spotify.com/track/3JDC8HYPCUkOl4lRj7HiOD) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Hey Girl](https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv) | 3:08 | 2022-03-04 | 2024-08-31 |
 | [Higher Ground](https://open.spotify.com/track/7Gc6AtqoehihaLJAKDR1s6) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Higher Ground](https://open.spotify.com/album/0R7iwes3g0B3yABKayGPgl) | 4:26 | 2024-03-29 |  |
 | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/track/1HkOYPY5Gx4CPYbCd6leKb) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Hold On \(feat\. Lauren Weintraub\)](https://open.spotify.com/album/2CXIMjsdCGnMQQbodq2ZmB) | 3:18 | 2021-12-10 |  |
 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 | 2022-08-26 |  |

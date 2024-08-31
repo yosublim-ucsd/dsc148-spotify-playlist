@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Cassandra Lewis
+> Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-223 songs - 13 hr 40 min
+225 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 | 2022-10-14 |
 | [Astronaut](https://open.spotify.com/track/6TScLvRqvsdRx2pTL9e5Xm) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/03IH4nkQznlX4NU1j8OiC5) | 3:22 | 2022-01-28 | 2022-07-29 |
 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 | 2022-01-28 | 2023-08-26 |
+| [August](https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [August](https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ) | 3:47 | 2024-08-30 |  |
 | [Backbone \(The Desert Child\)](https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone \(The Desert Child\)](https://open.spotify.com/album/2Rq8kjXYYa8XE9RWp7AnaM) | 3:31 | 2024-08-02 |  |
 | [Bad Luck Baby](https://open.spotify.com/track/7yUYp0DzDeH2Glemh1iMX5) | [Boys Club For Girls](https://open.spotify.com/artist/2kj3opKVY5zkZwEu4u7CXe) | [Bad Luck Baby](https://open.spotify.com/album/07STKss2pug4h3bHaBAESp) | 3:23 | 2023-01-20 |  |
 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 | 2023-09-15 |  |
@@ -132,7 +133,7 @@
 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 | 2023-05-05 | 2024-04-19 |
 | [Lyin' Low](https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lyin' Low](https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4) | 4:18 | 2022-01-28 | 2024-07-27 |
 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-03-01 |  |
-| [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
+| [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 | 2024-08-31 |
 | [Mellow War](https://open.spotify.com/track/0vWEwmCWLZ8QL3tPL7raD3) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/2Fn1niT1bYVa6Mfd4b5jwC) | 4:07 | 2023-10-27 |  |
 | [Mercy](https://open.spotify.com/track/0ZewwU3gkgXbYr0ixnDco4) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Mercy](https://open.spotify.com/album/1GC1QuXfAaPTCScjnDChwl) | 4:02 | 2022-01-28 | 2024-03-23 |
 | [Mercy](https://open.spotify.com/track/4w0QzyomWJrHmSTa5e4ewe) | [Zelly](https://open.spotify.com/artist/1qM5w3OHdjYkPRQi7pKM4F) | [Mercy EP](https://open.spotify.com/album/5vz8G9TxA2WmQuiClujyp8) | 3:09 | 2022-01-28 | 2023-08-26 |
@@ -143,7 +144,7 @@
 | [New Light](https://open.spotify.com/track/3eTXEabmUmHcTbx6d9u1nq) | [Ava Earl](https://open.spotify.com/artist/4PouHBQ1thPvzhfP1LsSAQ) | [The Roses](https://open.spotify.com/album/1Qr5eJnPsGtPRVliGuqkTI) | 3:24 | 2022-01-28 | 2023-07-01 |
 | [Nightmare](https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Anniversary](https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ) | 3:53 | 2024-05-03 |  |
 | [No More Candy](https://open.spotify.com/track/1TRwhlZHJVd6kgFu1SgzQ7) | [Cash & Skye](https://open.spotify.com/artist/0ZwK1LsLZvFbhLU6OycrhO) | [No More Candy](https://open.spotify.com/album/2o0u8HkyHrQfy4mrD3JZjJ) | 2:50 | 2022-01-28 | 2024-06-29 |
-| [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 |  |
+| [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 | 2024-08-31 |
 | [Nobody Has To Know Your Mind](https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Nobody Has To Know Your Mind](https://open.spotify.com/album/1OwskRzsQ5nIKqkinA6VIW) | 4:53 | 2023-06-16 |  |
 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 | 2022-01-28 | 2023-01-14 |
 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 | 2022-01-28 |  |
@@ -195,9 +196,10 @@
 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 | 2022-01-28 |  |
 | [Tanglin](https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Tanglin](https://open.spotify.com/album/01JWN1WAPqp7bPkMGDwRfs) | 3:45 | 2022-01-28 | 2023-01-21 |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2022-01-28 | 2024-06-29 |
+| [Tennessee Songbird](https://open.spotify.com/track/1VTLJQs7PPXPSCtOr16xOs) | [Hannah Juanita](https://open.spotify.com/artist/4BhOvUyS23JWzGZC7j3GbE) | [Tennessee Songbird](https://open.spotify.com/album/3zptqECPpVpJ7tSKMN4xUz) | 2:42 | 2024-08-30 |  |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2022-01-28 | 2023-01-14 |
 | [That River](https://open.spotify.com/track/7fre8zstP7XaI5VkmRu8I4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:09 | 2022-01-28 |  |
-| [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-01-13 |  |
+| [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-01-13 | 2024-08-31 |
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2022-01-28 |  |
 | [The Way I Oughta Go](https://open.spotify.com/track/05Cag2o2f2h3R3WGyArxUV) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:10 | 2023-01-13 |  |
 | [The Wild](https://open.spotify.com/track/67DcJLjYcJdAA2LMXFtob3) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 4:23 | 2023-07-14 |  |

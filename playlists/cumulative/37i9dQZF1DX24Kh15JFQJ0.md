@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Johnny Cash
+> The latest music from our Country Heroes\. Cover: George Strait
 
-292 songs - 17 hr 5 min
+294 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Forever Young](https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Forever Young](https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb) | 4:16 | 2022-04-29 |  |
 | [Friends Again](https://open.spotify.com/track/0jyLP8z6NPLYyM9NDk4Bn3) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Game Changer](https://open.spotify.com/album/2Q06sKwOeZbDrifNmByuk9) | 2:35 | 2023-11-17 | 2024-04-19 |
 | [Friends Again](https://open.spotify.com/track/2NwnqTNMYXw4Ldzb7zrmEJ) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Friends Again](https://open.spotify.com/album/4AjeNO2YStFRdGSyNKg95M) | 2:35 | 2022-08-05 |  |
+| [Georgia Is Yours](https://open.spotify.com/track/4l58t5yNDXcnldCE31ez1P) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [There Goes The Neighborhood](https://open.spotify.com/album/6ORGhksRXVC73wovtSdx4O) | 3:55 | 2024-08-30 |  |
 | [Get a Little Dirt on Your Hands](https://open.spotify.com/track/5sPuFw4TC0F03xyrkRvgQJ) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Get a Little Dirt on Your Hands](https://open.spotify.com/album/6NF34NE0IsFKt8gUXDPPAy) | 2:54 | 2024-03-29 |  |
 | [Get Me To The Stage On Time](https://open.spotify.com/track/7ltmPNSZmQmykswz99rK2y) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Get Me To The Stage On Time](https://open.spotify.com/album/5V3Wn9hlMLqhQGkSDRL62T) | 3:21 | 2023-10-27 |  |
 | [Getting Good](https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Getting Good](https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd) | 3:21 | 2021-10-15 |  |
@@ -280,6 +281,7 @@
 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 | 2022-09-23 |  |
 | [Waste Of A Whiskey Drink](https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Waste Of A Whiskey Drink](https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu) | 3:25 | 2021-10-15 |  |
 | [Well Alright](https://open.spotify.com/track/0aHDkn2yqKsDhLptXjQhPt) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Well Alright](https://open.spotify.com/album/43DkVKkSDhVgDzen523ZFe) | 2:12 | 2024-04-26 |  |
+| [What A View](https://open.spotify.com/track/1NgiY4X2wnypPdke76W4Ed) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [What A View / Trudy](https://open.spotify.com/album/5ZKIADNBMZK1KnWEHvTFuy) | 3:09 | 2024-08-30 |  |
 | [When the Cowboys Gone](https://open.spotify.com/track/72U86afw7ZhxeNsPo76bxf) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [When the Cowboy's Gone](https://open.spotify.com/album/2ja9bHN4AHzlIKuc5eIJ0t) | 3:17 | 2021-10-15 | 2024-02-17 |
 | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/track/2hZ2CDziK90laOB2inWp8X) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/album/55JUFgPqNq7KIoomgcaw2v) | 4:02 | 2023-05-05 |  |
 | [When This Is Over \(feat\. The Oak Ridge Boys\)](https://open.spotify.com/track/6Ms0ddSdSZdR4kalRLrwJs) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:41 | 2023-11-03 | 2024-04-19 |

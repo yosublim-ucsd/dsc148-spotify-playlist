@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 171428,
       "name": "BE LOUDER",
       "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
@@ -2437,6 +2437,28 @@
     },
     {
       "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/42N6ZcoJFuendlUrb7lLAL"
+      },
+      "artists": [
+        {
+          "name": "MBK",
+          "url": "https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd"
+        },
+        {
+          "name": "Hard Instruction",
+          "url": "https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135087,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx"
+    },
+    {
+      "album": {
         "name": "HYPER",
         "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
       },
@@ -2496,6 +2518,32 @@
       "duration_ms": 181200,
       "name": "I AM",
       "url": "https://open.spotify.com/track/6GN7ZWNNqgVZl7t3dgH6ot"
+    },
+    {
+      "album": {
+        "name": "I Can't Get It - Antenora Remix",
+        "url": "https://open.spotify.com/album/1nM9qbaXBGtSi3YDWkw58H"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        },
+        {
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Antenora",
+          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164031,
+      "name": "I Can't Get It - Antenora Remix",
+      "url": "https://open.spotify.com/track/1bhesHmu17ln9SRknpmTs4"
     },
     {
       "album": {
@@ -2867,6 +2915,28 @@
     },
     {
       "album": {
+        "name": "Life's A Bitch",
+        "url": "https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213073,
+      "name": "Life's A Bitch",
+      "url": "https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa"
+    },
+    {
+      "album": {
         "name": "We Roar Special",
         "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
       },
@@ -3038,7 +3108,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 227294,
       "name": "Made it to Thunderdome",
       "url": "https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe"
@@ -3446,7 +3516,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 372982,
       "name": "Nobody Harder (2019 Remaster) - G-Town Madness Remix",
       "url": "https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk"

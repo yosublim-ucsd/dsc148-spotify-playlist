@@ -938,7 +938,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 154069,
       "name": "clouds",
       "url": "https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 151384,
       "name": "Knight's Revenge",
       "url": "https://open.spotify.com/track/0ezINhl6gHC8dqWuJfr0Bc"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 186666,
       "name": "Leo",
       "url": "https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f"
@@ -4003,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "NVM",
+        "url": "https://open.spotify.com/album/1gGQhagIt71G0DZ37mJrg7"
+      },
+      "artists": [
+        {
+          "name": "Sobbel Sosch",
+          "url": "https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "NVM",
+      "url": "https://open.spotify.com/track/7b6fkO1E82zlDRAxi03Wt7"
+    },
+    {
+      "album": {
         "name": "Old Life",
         "url": "https://open.spotify.com/album/5xwUo1oCtRrzKZECwFGL9X"
       },
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183111,
       "name": "Player Haters",
       "url": "https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ"
@@ -4360,6 +4378,24 @@
       "duration_ms": 161304,
       "name": "Pollution",
       "url": "https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV"
+    },
+    {
+      "album": {
+        "name": "Polyphonic Plunder",
+        "url": "https://open.spotify.com/album/5Jigk4DPxIld2zBWAZj46l"
+      },
+      "artists": [
+        {
+          "name": "Jo Lange",
+          "url": "https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169724,
+      "name": "Polyphonic Plunder",
+      "url": "https://open.spotify.com/track/11Y8lwKvl0Jv3MiLG1VPZV"
     },
     {
       "album": {
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195928,
       "name": "Project X",
       "url": "https://open.spotify.com/track/1TbEJzyaY8hRgyqX2vOFs0"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:49bzE5vRBRIota4qeHtQM8\">Skillet</a> ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:5KGTTFuyg5XfMMep5hTokE\">Christian Singleton</a> ",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -452,6 +452,24 @@
       "duration_ms": 203702,
       "name": "Blood On Me",
       "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4nKseo8BsYGhRkI6dkYGrS"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153087,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/5TbqJifvLitwd5EMiIkcF7"
     },
     {
       "album": {
@@ -955,6 +973,24 @@
     },
     {
       "album": {
+        "name": "do you miss me?",
+        "url": "https://open.spotify.com/album/44uIgGYz4oa20tl0pOI8Zb"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117250,
+      "name": "do you miss me?",
+      "url": "https://open.spotify.com/track/3hPy8odTUVJ778GQE5FwnA"
+    },
+    {
+      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/4pKe3VvswxrKDH4fd3YK6q"
       },
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 197647,
       "name": "feel nothing.",
       "url": "https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h"
@@ -1336,6 +1372,28 @@
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE"
+      },
+      "artists": [
+        {
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286398,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/1XeVdgCil539quM3POT69i"
     },
     {
       "album": {
@@ -1510,7 +1568,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 241716,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6eNbYuESSfERAqrOYLeI8y"
@@ -2598,7 +2656,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 333370,
       "name": "Send Forth Laborers",
       "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
@@ -2678,6 +2736,24 @@
       "duration_ms": 234831,
       "name": "Sleight of Hand",
       "url": "https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Dream",
+        "url": "https://open.spotify.com/album/3SLiB3DUGnCs8xFjf6Hzbf"
+      },
+      "artists": [
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sometimes I Dream",
+      "url": "https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy"
     },
     {
       "album": {
@@ -3288,7 +3364,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 233906,
       "name": "Way You Love Me",
       "url": "https://open.spotify.com/track/7hJtAHrevoIBIJFKvs23gn"
@@ -3436,6 +3512,24 @@
       "duration_ms": 194721,
       "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
       "url": "https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd"
+    },
+    {
+      "album": {
+        "name": "When We Were Kings",
+        "url": "https://open.spotify.com/album/60NOmOYT5j53Nh3z7Fl3DE"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241470,
+      "name": "When We Were Kings",
+      "url": "https://open.spotify.com/track/47c3g3qZVvf1myrVQZTnrf"
     },
     {
       "album": {

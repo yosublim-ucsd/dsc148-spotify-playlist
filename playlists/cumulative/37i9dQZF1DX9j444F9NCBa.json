@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 161000,
       "name": "Best Part",
       "url": "https://open.spotify.com/track/65gmJWtbmmHAbKdk2Wz0wR"
@@ -4210,7 +4210,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 159473,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt"
@@ -4610,6 +4610,24 @@
       "duration_ms": 186500,
       "name": "I'd Do Anything For Love (But I Won't Do That)",
       "url": "https://open.spotify.com/track/4mY71haHZOq3rcwGq5JFAW"
+    },
+    {
+      "album": {
+        "name": "I'm So Excited",
+        "url": "https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195458,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk"
     },
     {
       "album": {
@@ -6413,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/4tBX8nzQagGSFn1LvPBMzb"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Palmer",
+          "url": "https://open.spotify.com/artist/0Z8TgF0yUXApLDi2aV1dSN"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171318,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4v4TQL0zZUalWpttyMgNF2"
+    },
+    {
+      "album": {
         "name": "Night Changes",
         "url": "https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF"
       },
@@ -6604,7 +6640,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 208500,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck"
@@ -10190,7 +10226,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188418,
       "name": "Woman In Love",
       "url": "https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: JD\. REID
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,226 likes - 202 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,221 likes - 202 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 75000,
       "name": "Darling",
       "url": "https://open.spotify.com/track/5z8UiO3h6b7OkHutawKqA8"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 97000,
       "name": "Dear teddy",
       "url": "https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 157384,
       "name": "Flying Teddy",
       "url": "https://open.spotify.com/track/4sJiH01QHq3H26Z1N3esFc"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 89466,
       "name": "I'm a Little Teapot",
       "url": "https://open.spotify.com/track/6MLPHWTCLr7ClMn1ZZQffY"
@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147500,
       "name": "Old MacDonald Had a Farm",
       "url": "https://open.spotify.com/track/7y1G8w8McPgbMB2YL9tbEr"
@@ -3985,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "Teddy's Song",
+        "url": "https://open.spotify.com/album/5xHLZxAvx8xaZrKZme85VX"
+      },
+      "artists": [
+        {
+          "name": "Carla Galloway",
+          "url": "https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147493,
+      "name": "Teddy's Song",
+      "url": "https://open.spotify.com/track/2TmoZmiotn3ODpaI89Nvmn"
+    },
+    {
+      "album": {
         "name": "Tell Me That Fairytale",
         "url": "https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj"
       },
@@ -4036,6 +4054,24 @@
       "duration_ms": 176032,
       "name": "The Blue Coloring Book",
       "url": "https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX"
+    },
+    {
+      "album": {
+        "name": "The Feather Song",
+        "url": "https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8"
+      },
+      "artists": [
+        {
+          "name": "Suno Weber",
+          "url": "https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175938,
+      "name": "The Feather Song",
+      "url": "https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske"
     },
     {
       "album": {
@@ -4288,6 +4324,24 @@
       "duration_ms": 152624,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/5gIh1gUi9kU5OpqCOOTbc1"
+    },
+    {
+      "album": {
+        "name": "Three little bears",
+        "url": "https://open.spotify.com/album/2aqG7WWydBnHEhKSbtON26"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83312,
+      "name": "Three little bears",
+      "url": "https://open.spotify.com/track/1HGZczj3y4gaca7ckYQZAu"
     },
     {
       "album": {
@@ -4702,6 +4756,24 @@
       "duration_ms": 87500,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV"
+    },
+    {
+      "album": {
+        "name": "Wishes And Dreams",
+        "url": "https://open.spotify.com/album/5iq6HY6limzuEPGMWSyRDr"
+      },
+      "artists": [
+        {
+          "name": "Carla Galloway",
+          "url": "https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148839,
+      "name": "Wishes And Dreams",
+      "url": "https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF"
     },
     {
       "album": {

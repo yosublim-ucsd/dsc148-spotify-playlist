@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,569 songs - 3 day 9 hr 30 min
+1,570 songs - 3 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Det var då, det var det](https://open.spotify.com/track/7iR7p8Gop4fQz1bjyOIkla) | [Sveavägen](https://open.spotify.com/artist/4rvYitP1XmElnNQyQPEw9g) | [Det var då, det var det](https://open.spotify.com/album/3KNWjo9bMW6leyuOUFSWo6) | 3:09 | 2021-12-16 | 2022-01-14 |
 | [Det var ju du & jag \- Radio Edit](https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Det var ju du & jag \(Radio Edit\)](https://open.spotify.com/album/51Eo92qpXc2U34OzcoDNi2) | 3:25 | 2024-04-11 | 2024-05-10 |
 | [Det är nog aldrig för sent för oss två](https://open.spotify.com/track/06oh2gh4AXIapbn0UeHXad) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Det är nog aldrig för sent för oss två](https://open.spotify.com/album/5U6Z8kuGYsb9RHNRM6Q7cp) | 3:33 | 2021-12-16 | 2022-03-11 |
+| [Det är något i luften](https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD) | [Viola Martinsson](https://open.spotify.com/artist/2aJlmkqQUcFTDe1GBpTkNZ) | [Det är något i luften](https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K) | 3:01 | 2024-08-29 |  |
 | [Det är så här livet känns](https://open.spotify.com/track/3aGqlCd2W5iRBhKPortpbP) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz), [Ellinor Skagegård](https://open.spotify.com/artist/5pEFpC5JQdFCO4w9jOzLji) | [Det är så här livet känns](https://open.spotify.com/album/5qcgQqJgxseCqe3Ytt4X4S) | 3:58 | 2024-05-30 | 2024-06-28 |
 | [DEVIL](https://open.spotify.com/track/2XPnzZU93OyQlyAqEf8UPG) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [DEVIL](https://open.spotify.com/album/6HOOTUts12Z7zQSzy9y7nD) | 2:35 | 2022-03-24 | 2022-09-16 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-06 | 2024-08-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Disco Lines & pluko",
+  "description": "The best indie dance tracks of the moment. Cover: nimino",
   "name": "metropolis",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 234231,
       "name": "Air Tight",
       "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 179104,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/1fdxgHnUTAZbAggzAm3xsT"
@@ -2512,6 +2512,32 @@
       "duration_ms": 178420,
       "name": "Bedroom Eyes (feat. Studio Killers)",
       "url": "https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8"
+    },
+    {
+      "album": {
+        "name": "Been A Minute...",
+        "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189947,
+      "name": "Been A Minute...",
+      "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
     },
     {
       "album": {
@@ -3138,6 +3164,24 @@
       "duration_ms": 170246,
       "name": "bloom",
       "url": "https://open.spotify.com/track/52bxrBYszKwhqRw0xXyHxD"
+    },
+    {
+      "album": {
+        "name": "Bloom / Shining",
+        "url": "https://open.spotify.com/album/0nBqtFyECt79Age4VU8k6x"
+      },
+      "artists": [
+        {
+          "name": "Zanski",
+          "url": "https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220606,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6lVVR4NCumXfRZktDWIfYa"
     },
     {
       "album": {
@@ -5798,7 +5842,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 252000,
       "name": "Dark In This Room",
       "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
@@ -5860,6 +5904,28 @@
       "duration_ms": 225120,
       "name": "Day Dreams",
       "url": "https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL"
+    },
+    {
+      "album": {
+        "name": "Day Dreams (Mona Yim Remix)",
+        "url": "https://open.spotify.com/album/0cWQC0nw6WBOknMp07rAnF"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        },
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198258,
+      "name": "Day Dreams - Mona Yim Remix",
+      "url": "https://open.spotify.com/track/66WUdzZp9QD96YlIu4QcTa"
     },
     {
       "album": {
@@ -9686,7 +9752,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166384,
       "name": "Ginger (Feel Good)",
       "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
@@ -9770,7 +9836,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 158174,
       "name": "GLIMMER.",
       "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
@@ -10504,7 +10570,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 219890,
       "name": "Hard to Pretend",
       "url": "https://open.spotify.com/track/1zPak0T7bSZGbIx5GJNiSH"
@@ -11482,6 +11548,24 @@
       "duration_ms": 142222,
       "name": "Hold On To You",
       "url": "https://open.spotify.com/track/3PV5cTNXSfUpdLpEoYtSTS"
+    },
+    {
+      "album": {
+        "name": "Hold You EP",
+        "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
     },
     {
       "album": {
@@ -12823,6 +12907,28 @@
     },
     {
       "album": {
+        "name": "in heaven",
+        "url": "https://open.spotify.com/album/1H2sEfR1sXPiAv3t7T0HsB"
+      },
+      "artists": [
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        },
+        {
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152804,
+      "name": "in heaven",
+      "url": "https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6"
+    },
+    {
+      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/0fHWRhAXuIpwXPm7HQwHDb"
       },
@@ -13260,7 +13366,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 229853,
       "name": "IOU (with BRUX)",
       "url": "https://open.spotify.com/track/5yFBIENkIOeJY1mkjxKG3o"
@@ -14782,7 +14888,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 214391,
       "name": "lift off!",
       "url": "https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja"
@@ -15172,6 +15278,24 @@
       "duration_ms": 255517,
       "name": "lived to love",
       "url": "https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj"
+    },
+    {
+      "album": {
+        "name": "Living It Up",
+        "url": "https://open.spotify.com/album/0RhI0nc4YJfyO8pGCcqK15"
+      },
+      "artists": [
+        {
+          "name": "NEMO",
+          "url": "https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Living It Up",
+      "url": "https://open.spotify.com/track/05HfcpAJ4PBRp15enPGv0P"
     },
     {
       "album": {
@@ -18560,6 +18684,28 @@
     {
       "album": {
         "name": "Ocean",
+        "url": "https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200294,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
+    },
+    {
+      "album": {
+        "name": "Ocean",
         "url": "https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8"
       },
       "artists": [
@@ -18654,6 +18800,24 @@
       "duration_ms": 196846,
       "name": "OFF+ON",
       "url": "https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI"
+    },
+    {
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
     },
     {
       "album": {
@@ -22874,7 +23038,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 207134,
       "name": "Snog",
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
@@ -26295,6 +26459,24 @@
     },
     {
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "album": {
         "name": "To The Floor",
         "url": "https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp"
       },
@@ -26464,6 +26646,24 @@
       "duration_ms": 206390,
       "name": "Too Long",
       "url": "https://open.spotify.com/track/2UbcxMwKhJkMWjZhK8LNUH"
+    },
+    {
+      "album": {
+        "name": "Infinite Health",
+        "url": "https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Totem",
+      "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
     },
     {
       "album": {
@@ -27082,6 +27282,28 @@
       "duration_ms": 197036,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "album": {
+        "name": "Until There\u2019s Nothing Left",
+        "url": "https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230198,
+      "name": "Until There's Nothing Left",
+      "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
     },
     {
       "album": {
@@ -28764,7 +28986,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 251076,
       "name": "You Could Hate Me",
       "url": "https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv"
@@ -28880,7 +29102,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 152348,
       "name": "You're Invited",
       "url": "https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o"

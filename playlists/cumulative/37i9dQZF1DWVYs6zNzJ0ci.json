@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195156,
       "name": "Cocomango",
       "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181870,
       "name": "Cuando Salga El Sol",
       "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
@@ -2555,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "Young Veterans",
+        "url": "https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Natty Congo Crew",
+          "url": "https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246947,
+      "name": "Fidel Nadal",
+      "url": "https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd"
+    },
+    {
+      "album": {
         "name": "Fishaman (feat. Elkin Robinson)",
         "url": "https://open.spotify.com/album/2ufI2W5j7rk3S3eCpjbZpV"
       },
@@ -2636,6 +2658,32 @@
       "duration_ms": 186094,
       "name": "France$ka",
       "url": "https://open.spotify.com/track/79vW2qSifk3gEOuRe7TsId"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0ZbaTldRQPaI1mhaob3Fag"
+      },
+      "artists": [
+        {
+          "name": "Danel",
+          "url": "https://open.spotify.com/artist/4DqG4QsC3VqWzr8flNPqO8"
+        },
+        {
+          "name": "Kulto Kultibo",
+          "url": "https://open.spotify.com/artist/5Zn0cTUwF6VjPS353kkQGk"
+        },
+        {
+          "name": "George Palmer",
+          "url": "https://open.spotify.com/artist/0H5NauidBq245F36K6Zeeg"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1XGD39J3JdMcDvbMWeW2ha"
     },
     {
       "album": {
@@ -3650,7 +3698,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 174185,
       "name": "Leggae Kid",
       "url": "https://open.spotify.com/track/6SjhtaOLRhhvTUL04GdTvW"
@@ -4154,7 +4202,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 297426,
       "name": "Luz y Compa\u00f1\u00eda",
       "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
@@ -4270,7 +4318,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 180929,
       "name": "Me Fui de Vacaciones",
       "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
@@ -4830,6 +4878,28 @@
       "duration_ms": 319000,
       "name": "M\u00fasica Que Sana",
       "url": "https://open.spotify.com/track/6Is2xW8rhBacXK2ne8YHTx"
+    },
+    {
+      "album": {
+        "name": "N.O.M.",
+        "url": "https://open.spotify.com/album/1O7Ara1H9xGGIreezqHQ3s"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228837,
+      "name": "N.O.M.",
+      "url": "https://open.spotify.com/track/6cXkbeypKMh3KXPaYwi56H"
     },
     {
       "album": {
@@ -6966,6 +7036,32 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "album": {
+        "name": "T\u00fa y yo",
+        "url": "https://open.spotify.com/album/1E3L3NhhraybnW6FN5g22R"
+      },
+      "artists": [
+        {
+          "name": "Danny Killah",
+          "url": "https://open.spotify.com/artist/5e2Q3YFRDbCgsnYb3oTtjv"
+        },
+        {
+          "name": "Mad Division",
+          "url": "https://open.spotify.com/artist/4m7qBup076NTsTawvEH4R1"
+        },
+        {
+          "name": "Neim",
+          "url": "https://open.spotify.com/artist/1D5TvUfVCsdSxBOuJs0Umi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185687,
+      "name": "T\u00fa y yo",
+      "url": "https://open.spotify.com/track/3vBjaSS7wvU1CnwcdwCG8h"
     },
     {
       "album": {

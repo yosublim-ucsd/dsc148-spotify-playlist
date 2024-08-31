@@ -2,7 +2,7 @@
 
 ### [This Is Neck Deep](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1FH8bu)
 
-> This is Neck Deep\. The essential tracks, all in one playlist.
+> This Is Neck Deep\. Los temas esenciales, todos en una lista.
 
 46 songs - 2 hr 25 min
 

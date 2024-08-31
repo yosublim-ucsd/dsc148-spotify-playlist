@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Tiakola
 
-13,718 songs - 28 day 13 hr 14 min
+13,720 songs - 28 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2560,6 +2560,7 @@
 | [Cravings](https://open.spotify.com/track/0ZjgYCQDsIrrINtJfaeiOc) | [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Cravings](https://open.spotify.com/album/0MY3aPxKVIbES5dtDeTt4e) | 2:19 | 2023-08-17 | 2023-08-25 |
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-04-08 | 2022-04-15 |
 | [Crazy](https://open.spotify.com/track/5NQJOfR3UlxzKFwL5RfShq) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Crazy](https://open.spotify.com/album/1AUw3cSaq4Rqtp4VbCY23H) | 2:53 | 2022-12-01 | 2022-12-09 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 |  |
 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 | 2023-12-15 | 2023-12-22 |
 | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/3X9q2q2XTcMyGP7p76nGID) | 2:35 | 2024-02-22 | 2024-03-01 |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-11-16 | 2023-11-24 |
@@ -5256,7 +5257,7 @@
 | [Hemingway](https://open.spotify.com/track/0iTewAhXNlBW7JQshL9IsT) | [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Hemingway](https://open.spotify.com/album/7lSc3d1acgschBXUdzcEli) | 2:19 | 2022-03-18 | 2022-03-25 |
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-18 | 2022-08-26 |
 | [Her](https://open.spotify.com/track/1Zqv6c9IZrb5IDcQ6TfLAi) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Her](https://open.spotify.com/album/5ie3Olv5dAwvbsGMZWQSdj) | 2:47 | 2023-03-09 | 2023-03-18 |
-| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:52 | 2024-08-29 |  |
+| [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-29 |  |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-12 | 2022-08-19 |
 | [Her \(Unafraid\)](https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Her \(Unafraid\)](https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC) | 3:33 | 2024-03-07 | 2024-03-15 |
 | [Her Birthday](https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:34 | 2023-09-07 | 2023-09-15 |
@@ -11159,6 +11160,7 @@
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-03 | 2022-03-11 |
 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 | 2022-04-14 | 2022-04-22 |
 | [Starlight Express](https://open.spotify.com/track/3QDTkuRdB56wfnZbLgsUbI) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Starlight Express](https://open.spotify.com/album/5YGRAjB4c69vbxkk0LVVHO) | 2:44 | 2022-09-08 | 2022-09-16 |
+| [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 |  |
 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
 | [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 | 2023-05-26 |
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-11-30 | 2023-12-08 |

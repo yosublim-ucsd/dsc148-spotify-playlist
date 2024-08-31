@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 265806,
       "name": "Freaky Toe - CC Mix",
       "url": "https://open.spotify.com/track/1K65rsHQO17mdadr1l3ShZ"
@@ -3592,7 +3592,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 139636,
       "name": "Higher (Escalators)",
       "url": "https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h"
@@ -6445,6 +6445,24 @@
     },
     {
       "album": {
+        "name": "Play My Guitar",
+        "url": "https://open.spotify.com/album/2hjsDetomg1855StKuMZWs"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201422,
+      "name": "Play My Guitar",
+      "url": "https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n"
+    },
+    {
+      "album": {
         "name": "Pocket",
         "url": "https://open.spotify.com/album/4wwpEMqsM5iiNcvAi3kVZi"
       },
@@ -7392,6 +7410,28 @@
       "duration_ms": 215302,
       "name": "Somebody's Watching You - XL Middleton Remix",
       "url": "https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196488,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL"
     },
     {
       "album": {

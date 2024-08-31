@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: Mitchell Tenpenny and Underoath
+> Country music that rocks\. Cover: Lakeview
 
 372 songs - 21 hr 19 min
 

@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Declare O Nome Dele",
+        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
+      },
+      "artists": [
+        {
+          "name": "Thuanny Carvalho",
+          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240887,
+      "name": "Declare o Nome Dele",
+      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
+    },
+    {
+      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
       },
@@ -710,7 +728,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204600,
       "name": "Mesmo Sem Entender",
       "url": "https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3"

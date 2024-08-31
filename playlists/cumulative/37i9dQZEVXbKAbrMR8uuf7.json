@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 235354,
       "name": "100 Bands",
       "url": "https://open.spotify.com/track/4isw5ZvMgv2M8diuxiVHwI"
@@ -8968,7 +8968,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 158796,
       "name": "EN BLUSA",
       "url": "https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo"
@@ -13364,7 +13364,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -17234,6 +17234,28 @@
       "duration_ms": 210986,
       "name": "MA\u00d1ANA SER\u00c1 BONITO",
       "url": "https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1anero",
+        "url": "https://open.spotify.com/album/31rnLUUi0i84XqvhfJUht6"
+      },
+      "artists": [
+        {
+          "name": "Rome LMN",
+          "url": "https://open.spotify.com/artist/0Q2SdTYqioFqrQTbawYHAS"
+        },
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "Ma\u00f1anero",
+      "url": "https://open.spotify.com/track/3rp2Bs9ZQPa3HV5BqBIJeD"
     },
     {
       "album": {

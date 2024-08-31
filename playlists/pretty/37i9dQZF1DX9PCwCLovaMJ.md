@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 874 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 875 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 23 | [ORANGES](https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [ORANGES](https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV) | 2:03 |
 | 24 | [Summer](https://open.spotify.com/track/7fBaNlnSHF2pBGC0fRiODc) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Summer](https://open.spotify.com/album/1w1P5YCsV41XnFSXdI3cR7) | 3:07 |
 | 25 | [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 |
-| 26 | [pomelo](https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco II](https://open.spotify.com/album/60sjF9j6WP0WGcqeIY5elU) | 3:58 |
-| 27 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
-| 28 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 |
+| 26 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 |
+| 27 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 |
+| 28 | [pomelo](https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco II](https://open.spotify.com/album/60sjF9j6WP0WGcqeIY5elU) | 3:58 |
 | 29 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 |
 | 30 | [school reunion](https://open.spotify.com/track/4AOoWI8ZCJ5bkyj7Ivj1Ez) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 2:54 |
 | 31 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 33 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 |
 | 34 | [Ha dig tillbaka](https://open.spotify.com/track/649oxel9UoY2RRdX3RwHgp) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Ha dig tillbaka](https://open.spotify.com/album/5fWRxcHoeJxVYK8BXCM2Ph) | 2:32 |
 | 35 | [bästis](https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD) | [IMAN](https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e) | [bästis](https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp) | 3:28 |
-| 36 | [Oslo](https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Oslo](https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ) | 3:16 |
-| 37 | [Helt allena](https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Helt allena](https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG) | 2:24 |
+| 36 | [Helt allena](https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Helt allena](https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG) | 2:24 |
+| 37 | [Oslo](https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Oslo](https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ) | 3:16 |
 | 38 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 39 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 |
 | 40 | [DROPPING SEEDS](https://open.spotify.com/track/6tUO8COj2Q4vZpo4K9dMiL) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [DROPPING SEEDS](https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU) | 2:34 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 67 | [lonely](https://open.spotify.com/track/35H2s0aUWIb9pjsMJq5Xv8) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [lonely](https://open.spotify.com/album/11LcikjPNOCWmyqwUOXhsE) | 2:16 |
 | 68 | [Fight Back Time](https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY) | 3:17 |
 | 69 | [Lilla liv](https://open.spotify.com/track/2Hhpu6sLP4AcnJTWFNbxFn) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lilla liv](https://open.spotify.com/album/5ouJgHAjwsUqxIrNZAO7lJ) | 3:15 |
-| 70 | [forget me](https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS) | [Orion Sisters](https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u) | [forget me](https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i) | 2:55 |
-| 71 | [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 |
+| 70 | [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 |
+| 71 | [forget me](https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS) | [Orion Sisters](https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u) | [forget me](https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i) | 2:55 |
 | 72 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 |
 | 73 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |
 | 74 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 86 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
 | 87 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 |
 | 88 | [Gråt, gråt, gråt](https://open.spotify.com/track/2XrjVzi8zZYLhqioB2OwoY) | [Llojd](https://open.spotify.com/artist/04Axa6ilD95HIZIx5zUg6W) | [Gråt, gråt, gråt](https://open.spotify.com/album/5wLqkxwXm4o3JauQDiSXtf) | 3:28 |
-| 89 | [Dream on](https://open.spotify.com/track/0UIIuquwAzJz3mKqyOQ2no) | [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Dream on](https://open.spotify.com/album/0HGjJL1K04PkgMqSYT6i0m) | 2:55 |
-| 90 | [Psycho](https://open.spotify.com/track/2xxvHVBorURtGuDpPOZrcY) | [Hampus Nennesson](https://open.spotify.com/artist/4MOJolMhz3P2gzoJ3twWtr) | [Psycho](https://open.spotify.com/album/2yEGgj2PQSolKeFgVjMgZf) | 3:10 |
+| 89 | [Psycho](https://open.spotify.com/track/2xxvHVBorURtGuDpPOZrcY) | [Hampus Nennesson](https://open.spotify.com/artist/4MOJolMhz3P2gzoJ3twWtr) | [Psycho](https://open.spotify.com/album/2yEGgj2PQSolKeFgVjMgZf) | 3:10 |
+| 90 | [Dream on](https://open.spotify.com/track/0UIIuquwAzJz3mKqyOQ2no) | [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Dream on](https://open.spotify.com/album/0HGjJL1K04PkgMqSYT6i0m) | 2:55 |
 | 91 | [DEJ](https://open.spotify.com/track/4SQ6M0PFvvZ0CM1uy0ePuM) | [LUA](https://open.spotify.com/artist/6wm2Tx4v7VopkIHfBOjNX4) | [DEJ](https://open.spotify.com/album/4mMFHE6InLn4q6kpw9Je7f) | 3:00 |
 | 92 | [starfish in low tide](https://open.spotify.com/track/6bkSb870jIWyXt3tIKK5Ie) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy \(with friends\)](https://open.spotify.com/album/1EzVzKIej6xbASVOvFsQFW) | 2:18 |
 | 93 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |

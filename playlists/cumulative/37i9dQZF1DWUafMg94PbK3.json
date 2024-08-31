@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Truck Song",
+        "url": "https://open.spotify.com/album/7dwbc7tCUlhrgI2qmsOXpq"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Truck Song",
+      "url": "https://open.spotify.com/track/3pXqNZ3OG1OajYAEeW4eiS"
+    },
+    {
+      "album": {
         "name": "Victor Vito",
         "url": "https://open.spotify.com/album/2zvFlAi9Xy2IGXlaMYLgfl"
       },

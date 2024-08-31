@@ -112,10 +112,32 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278644,
+      "name": "ADIVINO",
+      "url": "https://open.spotify.com/track/0eeX8L0DWvGth1F6xVkvv7"
     },
     {
       "album": {
@@ -1634,7 +1656,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -2556,7 +2578,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -2678,7 +2700,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195004,
       "name": "Que Brille Sola Mami",
       "url": "https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob"
@@ -3011,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -3106,7 +3150,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 163200,
       "name": "Sola Suelta Soltera",
       "url": "https://open.spotify.com/track/22RkZddqx52y8eHi0dYwco"
@@ -3132,6 +3176,24 @@
       "duration_ms": 163200,
       "name": "Sola Suelta Soltera",
       "url": "https://open.spotify.com/track/2TsQ2eMg44sEqvbLwjzWrA"
+    },
+    {
+      "album": {
+        "name": "Sola Suelta Soltera - Intro (Remix)",
+        "url": "https://open.spotify.com/album/53Exe0wiCy6EbUF4rQQIqU"
+      },
+      "artists": [
+        {
+          "name": "BRUNO MATEUS",
+          "url": "https://open.spotify.com/artist/2zmNIPoyK9m7yOAcZkzN7r"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158418,
+      "name": "Sola Suelta Soltera - Intro - Remix",
+      "url": "https://open.spotify.com/track/5bQNadd97cQeTHLSXDsgbG"
     },
     {
       "album": {
@@ -3176,7 +3238,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 199062,
       "name": "SOLO DIME",
       "url": "https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ"
@@ -3198,7 +3260,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 188826,
       "name": "Solos (feat. Plan B)",
       "url": "https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv"

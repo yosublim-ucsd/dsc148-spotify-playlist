@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Elsa y Elmar en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Love Of Lesbian y Zahara en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Ah\u00ed Est\u00e1s",
+        "url": "https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Ah\u00ed Est\u00e1s",
+      "url": "https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y"
+    },
+    {
+      "album": {
         "name": "Al Borde del Infinito",
         "url": "https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 252021,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/5r8tolaXEEWIRyabeqDZZs"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 203000,
       "name": "Check",
       "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 152794,
       "name": "Origami",
       "url": "https://open.spotify.com/track/7GDVpCGJ3aOp4j4AVnhLoV"
@@ -2136,6 +2154,24 @@
       "duration_ms": 178202,
       "name": "Plan A",
       "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "album": {
+        "name": "Planetas vecinos",
+        "url": "https://open.spotify.com/album/4OxOawfYGMp1WvGTGIAQat"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222734,
+      "name": "Planetas vecinos",
+      "url": "https://open.spotify.com/track/4ugw5QcnaDRqIjrn5DY7yJ"
     },
     {
       "album": {
@@ -2852,6 +2888,28 @@
       "duration_ms": 162712,
       "name": "Te Desenamoraste",
       "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
+    },
+    {
+      "album": {
+        "name": "Tesis",
+        "url": "https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "Tesis",
+      "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
     },
     {
       "album": {

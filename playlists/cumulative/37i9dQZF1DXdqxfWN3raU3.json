@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 173400,
       "name": "A la Carta",
       "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 227555,
       "name": "A\u00fan Me Acuerdo",
       "url": "https://open.spotify.com/track/42H5UkGfxxYmgt5zMkqnUa"
@@ -893,6 +893,32 @@
     },
     {
       "album": {
+        "name": "Bajar De Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6N4Hkd2hxIwIsUGzlDWJjW"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "Cozy Cuz",
+          "url": "https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Bajar De Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA"
+    },
+    {
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
       },
@@ -944,7 +970,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
@@ -2489,6 +2515,28 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3vRThDGjH5Zb2aFyuBTjeK"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180469,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5sI6c5d8qik6FNN6TuDMmt"
+    },
+    {
+      "album": {
         "name": "El Hijo De Mercedes",
         "url": "https://open.spotify.com/album/1l4cXIWwCQST74PWCvsqqL"
       },
@@ -2572,7 +2620,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183673,
       "name": "ELLOS SI SABEN",
       "url": "https://open.spotify.com/track/2J7BZgycaRKE4Ynvkb1Tsy"
@@ -3226,7 +3274,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
@@ -3684,6 +3732,24 @@
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "album": {
@@ -4182,7 +4248,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 258613,
       "name": "Lo Que Nunca Vas a Dar",
       "url": "https://open.spotify.com/track/1JpMgbEvtjkMNXDbK2gEcH"
@@ -4426,6 +4492,24 @@
       "duration_ms": 188737,
       "name": "Makin Money",
       "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "album": {
+        "name": "No me hagas seguir",
+        "url": "https://open.spotify.com/album/5JEMIvsiLPtlfH4utviZOM"
+      },
+      "artists": [
+        {
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161024,
+      "name": "Malavida",
+      "url": "https://open.spotify.com/track/0nT0edIVdtias9fqmnfMam"
     },
     {
       "album": {
@@ -4756,7 +4840,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 166200,
       "name": "Miel (Say Something)",
       "url": "https://open.spotify.com/track/3jQlts5apBbDzswCzjrQsR"
@@ -5388,7 +5472,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
@@ -7445,6 +7529,28 @@
     },
     {
       "album": {
+        "name": "TEDAX",
+        "url": "https://open.spotify.com/album/050lCSoZ3hVgdgsxk7UXKc"
+      },
+      "artists": [
+        {
+          "name": "Mario Kun",
+          "url": "https://open.spotify.com/artist/3pmPdLcY7qXc6uTOoOFOu5"
+        },
+        {
+          "name": "Svarez",
+          "url": "https://open.spotify.com/artist/1CtE7kcqimHMARnwm2Hb23"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147157,
+      "name": "TEDAX",
+      "url": "https://open.spotify.com/track/3VJYzMfNnyJd5k9cw6aXVi"
+    },
+    {
+      "album": {
         "name": "C\u00d3DIGOS",
         "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
       },
@@ -7703,6 +7809,32 @@
     },
     {
       "album": {
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "TRUFFY",
+          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "TU FAN",
+      "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
+    },
+    {
+      "album": {
         "name": "Protohombre",
         "url": "https://open.spotify.com/album/4jk57uh2vy7YFkEy7X2iaZ"
       },
@@ -7912,6 +8044,28 @@
       "duration_ms": 182000,
       "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
       "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
+    },
+    {
+      "album": {
+        "name": "t\u00fanosabes",
+        "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
+      },
+      "artists": [
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "t\u00fanosabes",
+      "url": "https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID"
     },
     {
       "album": {
@@ -8280,6 +8434,24 @@
       "duration_ms": 103520,
       "name": "X Tu Casa",
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
+    },
+    {
+      "album": {
+        "name": "YE YE",
+        "url": "https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161986,
+      "name": "YE YE",
+      "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
     },
     {
       "album": {

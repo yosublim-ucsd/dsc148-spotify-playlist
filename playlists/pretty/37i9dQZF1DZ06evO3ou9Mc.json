@@ -1,29 +1,13 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 396840,
+  "num_followers": 396940,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs5ogAAAAAC7EY137vLc/FZTJxDPcq+E",
+  "snapshot_id": "Zs+6AAAAAABUrECphSgrv3HLHlPsh8GP",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
-    },
     {
       "added_at": null,
       "album": {
@@ -287,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 124053,
-      "name": "No Brakes",
-      "url": "https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 223906,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 124053,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Americana",
-      "url": "https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 176666,
       "name": "The Meaning Of Life",
       "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Americana",
+      "url": "https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 189160,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
+      "duration_ms": 278440,
+      "name": "Hammerhead",
+      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 278440,
-      "name": "Hammerhead",
-      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
+      "duration_ms": 189160,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Kristy, Are You Doing Okay?",
-      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
+      "duration_ms": 179506,
+      "name": "Takes Me Nowhere",
+      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Takes Me Nowhere",
-      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+      "duration_ms": 222866,
+      "name": "Kristy, Are You Doing Okay?",
+      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 191026,
       "name": "Army Of One",
       "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Kick Him When He's Down",
-      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
     }
   ],
   "unique_name": "This Is The Offspring",

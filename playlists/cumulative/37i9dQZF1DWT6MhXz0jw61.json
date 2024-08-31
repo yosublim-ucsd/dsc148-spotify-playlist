@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
+    },
+    {
+      "album": {
         "name": "The Family",
         "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
       },
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189962,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/1Hx9EZNbsbdlweRVSLEadT"
@@ -2835,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180135,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/4LBLUkYDbMyb6y6fKwxGrL"
+    },
+    {
+      "album": {
         "name": "BOZOS",
         "url": "https://open.spotify.com/album/1grHcnMMW7aLjUY11KJtH2"
       },
@@ -2922,6 +2958,28 @@
       "duration_ms": 294866,
       "name": "Brandy, Aaliyah",
       "url": "https://open.spotify.com/track/1k4MZpPP7oMgBrAr2WzF6z"
+    },
+    {
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281934,
+      "name": "Break The Cycle (feat. Charlie Wilson)",
+      "url": "https://open.spotify.com/track/6hZBgGGkBdYHpjj6MZeJtG"
     },
     {
       "album": {
@@ -3781,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126356,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
+    },
+    {
+      "album": {
         "name": "CIRCLE THEORY",
         "url": "https://open.spotify.com/album/0uXc09G0lCbOUbVhC6LfDo"
       },
@@ -4530,7 +4606,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 213487,
       "name": "CRASHING DOWN",
       "url": "https://open.spotify.com/track/1pYAKlIRaVOgp9UW3c0Ytd"
@@ -4650,7 +4726,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 153507,
       "name": "D-Boy (feat. Foggieraw & DaVionne)",
       "url": "https://open.spotify.com/track/1k5KzXU18wUu77gVeogfY2"
@@ -6587,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "Feeling A Way",
+        "url": "https://open.spotify.com/album/5NZheHHybnGWymired1xYi"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Feeling A Way",
+      "url": "https://open.spotify.com/track/6h5ZddL24wXcFDj6DVbk4W"
+    },
+    {
+      "album": {
         "name": "Feels Like Killa Season",
         "url": "https://open.spotify.com/album/2X2kwcegoaiWfLR8HDRn9b"
       },
@@ -7218,7 +7312,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 183267,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4x2MPVow6tEB7NTxEOdFuc"
@@ -10006,7 +10100,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 204904,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/2qnRlW2WMLDYmr4jfySdaS"
@@ -11096,7 +11190,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 331284,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/249MAyb50uYCBMck0hSpz3"
@@ -11520,7 +11614,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 258674,
       "name": "Love Is Blu",
       "url": "https://open.spotify.com/track/4cpd7sqW4Q7yypR7XWu004"
@@ -11702,7 +11796,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 109593,
       "name": "Magnum P.I.",
       "url": "https://open.spotify.com/track/7kExSV4v0ts43ErNyZB0ac"
@@ -12174,6 +12268,36 @@
       "duration_ms": 114000,
       "name": "MILAN",
       "url": "https://open.spotify.com/track/5iwg09N6eu40WIkluNqV81"
+    },
+    {
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Million Pieces (feat. Teyana Taylor, Larry June & DJ Premier)",
+      "url": "https://open.spotify.com/track/170RXtnRc5XmRfmpwrN0m5"
     },
     {
       "album": {
@@ -12746,10 +12870,36 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 264048,
       "name": "Need It (feat. Paul Wall, Devin the Dude & DRODi)",
       "url": "https://open.spotify.com/track/111vFXHqMq5WMA2aB5Ep1E"
+    },
+    {
+      "album": {
+        "name": "The Tonite Show The Sequel",
+        "url": "https://open.spotify.com/album/4ttvR5dL7lhBi7QDbWYK90"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "DJ.Fresh",
+          "url": "https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ"
+        },
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218454,
+      "name": "Neighborhood Superstar (feat. Payroll Giovanni)",
+      "url": "https://open.spotify.com/track/1wHpNWX31y9oB2WIhOKTdy"
     },
     {
       "album": {
@@ -13350,6 +13500,32 @@
       "duration_ms": 260000,
       "name": "ON THE RUN",
       "url": "https://open.spotify.com/track/2LzyEWiqsjk5uorzJBURRG"
+    },
+    {
+      "album": {
+        "name": "THC3 (Kushedgod Bitch)",
+        "url": "https://open.spotify.com/album/0BGjsGOK9GG63PqCXZpL4J"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "On the Spot (feat. Big K.R.I.T. & Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/3NLGrRCwuV3zAuEF5VlNqr"
     },
     {
       "album": {
@@ -14623,6 +14799,28 @@
     },
     {
       "album": {
+        "name": "The Tonite Show The Sequel",
+        "url": "https://open.spotify.com/album/4ttvR5dL7lhBi7QDbWYK90"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "DJ.Fresh",
+          "url": "https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Press Reset",
+      "url": "https://open.spotify.com/track/6ExMMvfgv4ulR0TPSWhZ5u"
+    },
+    {
+      "album": {
         "name": "Private Valet",
         "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
       },
@@ -14686,6 +14884,24 @@
       "duration_ms": 187266,
       "name": "Product Of My Environment (feat. Kota the Friend & Erick the Architect)",
       "url": "https://open.spotify.com/track/7r1lqyEW3iyZ39TDFnzI4p"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95545,
+      "name": "PROFIT",
+      "url": "https://open.spotify.com/track/4XffeXDuoL8tkBIwu9f8pp"
     },
     {
       "album": {
@@ -16203,6 +16419,28 @@
     },
     {
       "album": {
+        "name": "Boosa's Keeper",
+        "url": "https://open.spotify.com/album/5jCj24WH4nMqDVSxsAufql"
+      },
+      "artists": [
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168802,
+      "name": "Shine Bright",
+      "url": "https://open.spotify.com/track/7z1zqhWUuQ6E1WxvpppMo9"
+    },
+    {
+      "album": {
         "name": "Ready When You Are",
         "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
       },
@@ -16448,7 +16686,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 230897,
       "name": "SKY CITY",
       "url": "https://open.spotify.com/track/3PejDs8Z2jB24Y5HpnvFDM"
@@ -17603,6 +17841,50 @@
     },
     {
       "album": {
+        "name": "Ravenite Social Club",
+        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161543,
+      "name": "Suicide Doors (feat. Cordae)",
+      "url": "https://open.spotify.com/track/07ABUEnAPy0Hhc1XUMNMru"
+    },
+    {
+      "album": {
+        "name": "Summer Drop (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168580,
+      "name": "Summer Drop (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "album": {
         "name": "Summer Goodbye",
         "url": "https://open.spotify.com/album/5biF1S1UbF2RbseSGbuBCf"
       },
@@ -17938,7 +18220,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 205683,
       "name": "Teleport",
       "url": "https://open.spotify.com/track/3C3nXh1MLj9dP4BYPMrzTG"
@@ -18056,7 +18338,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168292,
       "name": "The Blue Building",
       "url": "https://open.spotify.com/track/3YL776B3ZdOKEiAtcnCFWU"
@@ -18933,6 +19215,32 @@
     },
     {
       "album": {
+        "name": "Ravenite Social Club",
+        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emi Secrest",
+          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236873,
+      "name": "To You (feat. Robert Glasper, Emi Secrest)",
+      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -19066,7 +19374,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 121163,
       "name": "too much to zelle",
       "url": "https://open.spotify.com/track/1lW6EZWKjgnguckQA70UQS"
@@ -19676,6 +19984,24 @@
       "duration_ms": 130731,
       "name": "Waffle House",
       "url": "https://open.spotify.com/track/7wRkk2WREAGMBdEpMorsda"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184894,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD"
     },
     {
       "album": {
@@ -20428,7 +20754,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 206857,
       "name": "WYNWOOD",
       "url": "https://open.spotify.com/track/2A8GOD0NmU1qMcXyn3oQlK"

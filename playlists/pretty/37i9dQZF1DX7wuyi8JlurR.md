@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 ### [Industry Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX7wuyi8JlurR)
 
-> Risk\. Reward\. Repeat\. Listen to the music from Industry, new season coming soon to Max.
+> Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,067 likes - 137 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,150 likes - 137 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 136 | [Grad Walk](https://open.spotify.com/track/2bTG74nhMXbRz5FfeQ9e1M) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry OST](https://open.spotify.com/album/7mCl94xKJvDxCsU8vtclOR) | 2:14 |
 | 137 | [End Credits \- Let's Go Make Some Money](https://open.spotify.com/track/7c2diSYy7CGhfdwGA8byir) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry OST](https://open.spotify.com/album/7mCl94xKJvDxCsU8vtclOR) | 1:40 |
 
-Snapshot ID: `ZsvhoAAAAAAWrCoAnDnly4STxaaBx/cn`
+Snapshot ID: `ZtIzLAAAAAC73DoYYVqt+hvmFiEPvToA`

@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-275 songs - 15 hr 33 min
+278 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,8 @@
 | [La Primera Persona del Plural](https://open.spotify.com/track/6s8cptLBT4CjqywZT0B8MI) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Acariciado Mundo](https://open.spotify.com/album/7DnisveBqSuYqXcQgeAtFc) | 3:43 | 2024-06-07 | 2024-06-22 |
 | [La Primera Vez](https://open.spotify.com/track/1fYklg2kEJ9Uxnr2fxtX78) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Primera Vez](https://open.spotify.com/album/2n5VDRQCQznOJJt1svDhd0) | 3:13 | 2024-06-07 | 2024-06-22 |
 | [La Vida Pasa](https://open.spotify.com/track/53BED28TRVZQ9uEGPQL88X) | [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Punto de Quiebre](https://open.spotify.com/album/1GxhmPcuyNST8j5JEataUT) | 5:06 | 2024-06-04 |  |
+| [La Última Canción](https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:59 | 2024-08-30 |  |
+| [La Última Carta](https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [La Última Carta](https://open.spotify.com/album/47UiSsUYKnzsuobv8GXHBM) | 3:21 | 2024-08-30 |  |
 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 | 2022-05-25 | 2023-07-15 |
 | [Las Que Te Escribí y Nunca Te Canté \- Unplugged](https://open.spotify.com/track/5NLfjsmLCiAq5j3IMfJykJ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Las Que Te Escribí y Nunca Te Canté \(Unplugged\)](https://open.spotify.com/album/1IgiKzJgYzKHNYFFrBjb8u) | 3:56 | 2024-05-10 |  |
 | [le valgo madre](https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [le valgo madre](https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk) | 2:36 | 2024-04-05 |  |
@@ -182,6 +184,7 @@
 | [POLVO](https://open.spotify.com/track/3qmuWyWnBAp8wODmZ9VGw6) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Castellanos](https://open.spotify.com/artist/3IeWLDOKlr0iehy9Wr8Zf2) | [YEYO](https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp) | 3:44 | 2024-06-07 | 2024-06-22 |
 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 | 2023-03-24 |  |
 | [Por Ti](https://open.spotify.com/track/7DJnWboNefoXfb7kySFldt) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Necesitaba Estar Hecho](https://open.spotify.com/album/18XHxHDHCSzZm9AneUgONr) | 3:06 | 2022-05-25 |  |
+| [Por Un Beso](https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Por Un Beso](https://open.spotify.com/album/1WlVjhzcuvwsHqCJX3BztF) | 3:52 | 2024-08-30 |  |
 | [Portarnos Mal](https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Portarnos Mal](https://open.spotify.com/album/090BtctH6uWl0H1HH088db) | 3:18 | 2024-05-28 |  |
 | [Prohibida](https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Prohibida](https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD) | 3:26 | 2023-06-23 |  |
 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 | 2023-09-29 |  |

@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: WUKONG
 
-1,304 songs - 2 day 17 hr 35 min
+1,305 songs - 2 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Cool Like That](https://open.spotify.com/track/5NB7R5j9bQlR3c3HEKmRL3) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cool Like That](https://open.spotify.com/album/1ku2IkQS1ElR3yVQlen16y) | 2:40 | 2024-08-08 |  |
 | [Cooler Than Me](https://open.spotify.com/track/2QHR2UmW2Nf3MFVhL4ibTS) | [Monk Mafia](https://open.spotify.com/artist/4oLiwEMNDQrI7niwHY9XYr), [Yaat](https://open.spotify.com/artist/6kAJ6gi5VbfltXy4Wfkawq) | [Cooler Than Me](https://open.spotify.com/album/5NTh0AX6aGBqtfMi30Usp4) | 2:33 | 2023-02-02 | 2023-02-10 |
 | [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-02-29 | 2024-04-05 |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 |  |
 | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/3xKMFwysDGJSgXB8Fjj3sX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Crazy \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/3X9q2q2XTcMyGP7p76nGID) | 2:35 | 2024-02-22 | 2024-03-29 |
 | [Creature \- Remix](https://open.spotify.com/track/2tv8ppFp8QeGsWxk9I05az) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Creature \(Remix\)](https://open.spotify.com/album/1ARlBuNQfm3t9pljmDwbsv) | 6:56 | 2024-02-22 | 2024-03-29 |
 | [Crew Thang](https://open.spotify.com/track/5a8brwyxP2Ga832uYrY2lQ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish) | [Crew Thang](https://open.spotify.com/album/0eFZm20GN8fAvSG1sAsFw2) | 2:41 | 2023-05-25 | 2023-06-30 |

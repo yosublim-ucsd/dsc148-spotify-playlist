@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 33098,
+  "num_followers": 33109,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs9v7gAAAABatQQylAv5E+MfYPxQ8qNr",
+  "snapshot_id": "ZtHMoAAAAADXiaYlUrGgGH6JLk+URrlZ",
   "tracks": [
     {
       "added_at": "2024-07-30 13:08:46",
@@ -103,6 +103,22 @@
       "duration_ms": 280030,
       "name": "Nizhalaay",
       "url": "https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf"
+    },
+    {
+      "added_at": "2024-08-30 13:44:00",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/6ip2H9sVgwTG3u8s9ru1dP"
+      },
+      "artists": [
+        {
+          "name": "Thakara",
+          "url": "https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC"
+        }
+      ],
+      "duration_ms": 200830,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2"
     },
     {
       "added_at": "2024-08-16 09:39:25",

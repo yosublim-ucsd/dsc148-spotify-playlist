@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 58 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3PQQWkpJhBvytg5TPTsU2T) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [The Angry Birds Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Sp6HR4bYIsiOBO9pPaZv8) | 3:30 |
 | 59 | [Alors regarde \(feat\. Patrick Bruel\)](https://open.spotify.com/track/34pC0Hd40uqIxu6zEJUQR9) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs), [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Forever United](https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ) | 3:28 |
 | 60 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 |
-| 61 | [Qui dit mieux ?](https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie \(Edition Collector\)](https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh) | 2:54 |
+| 61 | [Qui dit mieux ?](https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie \- Edition Collector](https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh) | 2:54 |
 | 62 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Moana \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 |
 | 63 | [L'hymne de la vie](https://open.spotify.com/track/03JIJMS3xCvi6Z8mTICOMq) | [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt) | [L'hymne de la vie](https://open.spotify.com/album/5zi8FmXgjmC42cCCRsAbzp) | 3:07 |
 | 64 | [Cheap Thrills](https://open.spotify.com/track/5MbaCozMxkXzx6nKWyufeA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/18wL3gXfAxI4qUJTL6SD2o) | 3:07 |

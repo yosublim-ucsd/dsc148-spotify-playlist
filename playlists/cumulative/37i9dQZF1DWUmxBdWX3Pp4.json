@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del Trap Latino. Foto: Miky Woodz.",
+  "description": "\u00c9xitos del Trap Latino. Foto: JHAYCO.",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 147908,
       "name": "DON'T TOUCH ME FREESTYLE",
       "url": "https://open.spotify.com/track/5pWc7UhGz12aA3gBpnrvVh"
@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/6e8pv6FfghnBltcOz0cg0C"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223280,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/4QAnf806tToaBuvbiv69X5"
+    },
+    {
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -3874,6 +3892,28 @@
       "duration_ms": 240253,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+    },
+    {
+      "album": {
+        "name": "LOADING...",
+        "url": "https://open.spotify.com/album/54eQTsG6OahvtsYGwLNQx6"
+      },
+      "artists": [
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "HACERME RICO",
+      "url": "https://open.spotify.com/track/6VETiiOB9y6rmV9eNkEsLY"
     },
     {
       "album": {
@@ -4156,7 +4196,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 168872,
       "name": "Hustlers",
       "url": "https://open.spotify.com/track/13YSzHTwd2mc2sWMxmdc27"
@@ -4950,7 +4990,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189994,
       "name": "La Peli",
       "url": "https://open.spotify.com/track/3YiKMAFJjSF88ZM0kPhJyQ"
@@ -8156,7 +8196,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 195004,
       "name": "Que Brille Sola Mami",
       "url": "https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob"
@@ -10308,10 +10348,44 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 87926,
       "name": "www.Polim\u00e1Westcoast",
       "url": "https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ"
+    },
+    {
+      "album": {
+        "name": "WYA REMIX BLACK AND YELLOW (feat. iZaak & Pirlo)",
+        "url": "https://open.spotify.com/album/1FyZ8Mho4TRJ9oR0IrE23P"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390545,
+      "name": "WYA REMIX BLACK AND YELLOW (feat. iZaak & Pirlo)",
+      "url": "https://open.spotify.com/track/0W2pF7zyj9dwZVK1RoUyjh"
     },
     {
       "album": {

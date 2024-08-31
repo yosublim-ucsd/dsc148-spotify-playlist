@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
 
-162 songs - 7 hr 42 min
+163 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Out](https://open.spotify.com/track/21ValWkHiLg5Ja6anGyI3C) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne) | [Out](https://open.spotify.com/album/5QGXJ3qiF2CGhy2rKJsxme) | 1:57 | 2024-03-22 |  |
 | [Outside](https://open.spotify.com/track/5HUxZN7PuTML2SkJnBuP5a) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/1fboUYBvu86pCmFNrLb615) | 1:58 | 2023-11-24 | 2024-01-20 |
 | [P.O.T.](https://open.spotify.com/track/1f2B3Jzi8EVIkqJJSS59T2) | [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne) | [P.O.T.](https://open.spotify.com/album/4Y1HjVzkf1dEe6NYJ3qdNc) | 2:29 | 2024-02-23 |  |
+| [PHASES](https://open.spotify.com/track/3dcymfoOWkObGmCEmD7zJJ) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [PHASES](https://open.spotify.com/album/4PjC4vjNhgfem1MzlCdTQR) | 2:27 | 2024-08-31 |  |
 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 | 2023-11-03 |  |
 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 | 2024-02-02 |  |
 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-11-03 | 2023-11-25 |

@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Anabel Rose
 
-1,013 songs - 2 day 0 hr 44 min
+1,018 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 | 2023-12-08 | 2024-02-16 |
 | [Ngozi](https://open.spotify.com/track/6YHRw6MptcrYWv7JYROGTk) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Ngozi](https://open.spotify.com/album/45Wb2RLhEF2CvubX8G89qX) | 3:43 | 2023-10-13 | 2023-10-19 |
 | [Nice](https://open.spotify.com/track/5UbiXaY3wxiacD8SkWdRBz) | [Ferow](https://open.spotify.com/artist/0KeGyOyqGem91ATZDq7NDK) | [Nice](https://open.spotify.com/album/429Cv9oUMvmDtr66QGEGXc) | 2:38 | 2023-12-15 | 2024-02-16 |
+| [Night Like This](https://open.spotify.com/track/13RRfLbv8xc9m7wbVmFN0O) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [RWEBEMBERA \- The Raising Echoes](https://open.spotify.com/album/5kqS9kOb6H7y8wlBkh4T1F) | 3:54 | 2024-08-30 |  |
 | [Nintendo](https://open.spotify.com/track/6NGkIFFToKYJ6i94a1r8W5) | [Bu$h](https://open.spotify.com/artist/0ERc2vuRyMs0kb3NYeDddB), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Nintendo](https://open.spotify.com/album/1VBgtk29DLjw1NzWiVBBQ4) | 2:36 | 2023-01-20 | 2023-02-04 |
 | [Nipe Nikupe](https://open.spotify.com/track/4PtEL5cZtZmo9n0gt9sgmK) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR), [Killah Priest](https://open.spotify.com/artist/0JYmatsiEQMn2v5KchV8u2) | [Nipe Nikupe](https://open.spotify.com/album/70bTe8w2sBU4qLXN0bE5DA) | 3:16 | 2023-04-27 | 2023-05-05 |
 | [NIRVANA LOVE](https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Darklorde](https://open.spotify.com/artist/2Bv5o0cYa1CQKrf2E72omo), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [NIRVANA LOVE](https://open.spotify.com/album/7ijkHEy1BOqjt7i0jBFjiG) | 3:21 | 2024-03-22 | 2024-04-19 |
@@ -709,6 +710,7 @@
 | [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 | 2024-02-02 | 2024-03-01 |
 | [Philo](https://open.spotify.com/track/4QCAFS0e1fLtR4k8IQzweb) | [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9) | [Philo](https://open.spotify.com/album/1l6mu39Dzyd9vHzgQ2QgnA) | 2:23 | 2024-05-31 | 2024-06-08 |
 | [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 | 2024-02-23 | 2024-04-12 |
+| [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 | 2024-08-30 |  |
 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 | 2023-05-25 | 2023-12-09 |
 | [PILOLO](https://open.spotify.com/track/5CDy5HTPY2NgSkkR2xrnZ2) | [Yxng Jiggy](https://open.spotify.com/artist/4nSR0H0wawWr0iiBwk8eGR) | [PILOLO](https://open.spotify.com/album/2z6eXV8K9WYA7EhPjS1mM2) | 2:46 | 2023-03-10 | 2023-03-25 |
 | [Pim](https://open.spotify.com/track/7qLk2zXIhpF2IjZQyj1KBk) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Fire and Flow](https://open.spotify.com/album/6wp6F8HaHkIplTueDrr3Cm) | 2:22 | 2024-08-25 |  |
@@ -802,6 +804,7 @@
 | [Sema Nami](https://open.spotify.com/track/7rAf8Uv1wDS3Z3WmVXO5MW) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [Sema Nami](https://open.spotify.com/album/3LngZ3RRKPaV7OEa961pLy) | 2:29 | 2024-07-05 | 2024-07-12 |
 | [Sexy Depression](https://open.spotify.com/track/4rxRHC2KKFuW5pdpwHrQlu) | [Susan Augustt](https://open.spotify.com/artist/1vx6qCxNhUH57xPZrBddo5) | [Sexy Depression](https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l) | 2:56 | 2024-05-10 | 2024-07-27 |
 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 | 2023-02-10 | 2023-02-17 |
+| [Shake](https://open.spotify.com/track/52EKAzr6RDFDKaKgyQX7ju) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Shake](https://open.spotify.com/album/1WNhlbrqtVL1zgcD8y4g9g) | 3:26 | 2024-08-30 |  |
 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 | 2023-09-08 | 2024-02-23 |
 | [Shaye](https://open.spotify.com/track/1DHk3pzFOaVI3Z96ja1KRp) | [Deentrg](https://open.spotify.com/artist/1uJFvqAiaQfUjkHoGahWvR) | [Shaye](https://open.spotify.com/album/2AM5lUTJ1kFrzqBmHtRFZS) | 2:40 | 2024-06-07 |  |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-23 | 2024-04-12 |
@@ -887,6 +890,7 @@
 | [The Bad Guy](https://open.spotify.com/track/4EY33D4AmEd12Glbs6kz7K) | [Agyakomah](https://open.spotify.com/artist/0cujx2Q4DVpVPO0bf05DOm) | [The Bad Guy](https://open.spotify.com/album/7FI833lOgXjMkQXoK7JYlG) | 2:47 | 2023-11-17 | 2023-12-02 |
 | [The Best Part \- Remix](https://open.spotify.com/track/2FXWJ4fRWlbdtk3mdwLHct) | [Savy Henry](https://open.spotify.com/artist/6Wf1QL4mEnFckePmc4nPjT), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Best Part \(Remix\)](https://open.spotify.com/album/5tykI2qlQC4bsIOAWNh1fX) | 2:27 | 2024-07-26 |  |
 | [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-02-16 | 2023-03-18 |
+| [The Moment](https://open.spotify.com/track/1QrK2D1NuzEJqKPbJuANX2) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [What A Feeling](https://open.spotify.com/album/1JApQO7MXqN3g9MSwDNpPs) | 2:40 | 2024-08-30 |  |
 | [The Money](https://open.spotify.com/track/5tJkUjlnqiRs7tzbK5HX83) | [TRACKDILLA](https://open.spotify.com/artist/5rq1B097PR2SxsVBVhG9bR) | [The Money](https://open.spotify.com/album/3RwaH0yePuFVaNeLDrZO9B) | 3:08 | 2023-12-08 | 2024-01-05 |
 | [the one](https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB) | [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [the one](https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE) | 2:59 | 2024-02-16 | 2024-04-12 |
 | [The Other Side](https://open.spotify.com/track/1fWpvqKirCgXUsSLT8DLC2) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 3:37 | 2023-06-15 | 2023-07-14 |
@@ -1005,6 +1009,7 @@
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 | 2023-10-27 |
 | [Yellow 2.0](https://open.spotify.com/track/0xk7LURVErfmhgUTCZj7DR) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Yellow 2.0](https://open.spotify.com/album/04VPGbT5WJxna2qN4xYfwi) | 2:28 | 2023-06-30 | 2023-07-14 |
 | [Yenkor](https://open.spotify.com/track/3koVHs3SnEsRAOI9ndlCtr) | [O’Rhymz](https://open.spotify.com/artist/5HH8MqsWUbNqfXCLbQz5bm) | [Yenkor](https://open.spotify.com/album/3Xsyy8TphhRldDWsv14vBM) | 2:04 | 2024-06-21 |  |
+| [Yes Man](https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Yes Man](https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1) | 2:48 | 2024-08-30 |  |
 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 | 2022-09-16 | 2022-11-26 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-20 |
 | [You](https://open.spotify.com/track/2RVPCblaYQ8YqLvYPaWPDe) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [You](https://open.spotify.com/album/6zFeUoGJCEjFgH8pmxtcxm) | 2:51 | 2023-08-10 | 2023-11-24 |

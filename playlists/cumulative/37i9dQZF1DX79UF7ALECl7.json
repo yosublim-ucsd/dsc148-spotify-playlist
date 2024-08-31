@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "Air And Darkness (Gobi Desert Collective Remix)",
+        "url": "https://open.spotify.com/album/6FXDseZzOiuquap9iAg2BV"
+      },
+      "artists": [
+        {
+          "name": "Will Vance",
+          "url": "https://open.spotify.com/artist/0v21AnGRs4ESeZQTc8VWL4"
+        },
+        {
+          "name": "Tiago Dima",
+          "url": "https://open.spotify.com/artist/5Nkb9Q6AhCgMihr0d9elr2"
+        },
+        {
+          "name": "Gobi Desert Collective",
+          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Air And Darkness - Gobi Desert Collective Remix",
+      "url": "https://open.spotify.com/track/3zim3Fk2HBcD42cokAnbsO"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
       },
@@ -3594,7 +3620,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 298440,
       "name": "Youth (Satin Jackets Remix)",
       "url": "https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p"

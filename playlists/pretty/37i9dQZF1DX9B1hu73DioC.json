@@ -1,6 +1,6 @@
 {
   "description": "Vibey indie tracks for park hangs, summer get togethers, or self care. ",
-  "num_followers": 837482,
+  "num_followers": 837515,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Snowbank Blues",
-      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "NEVER AGAIN",
-        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "NEVER AGAIN",
-      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "Dope Sick",
         "url": "https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
+        "name": "Common Blue",
+        "url": "https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "duration_ms": 231023,
+      "name": "Common Blue",
+      "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
         "name": "NYE [Feat. Suki Waterhouse]",
         "url": "https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 175020,
       "name": "NYE [Feat. Suki Waterhouse]",
       "url": "https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Common Blue",
-        "url": "https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra"
-      },
-      "artists": [
-        {
-          "name": "Warpaint",
-          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
-        }
-      ],
-      "duration_ms": 231023,
-      "name": "Common Blue",
-      "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
+        "name": "Check Your Face",
+        "url": "https://open.spotify.com/album/2YoGoESwgJCsKE49veLfqy"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Check Your Face",
+      "url": "https://open.spotify.com/track/4sjKAFUfKvzORpA445jNjd"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
         "name": "Anhedonia II b/w Ecstasy Cowgirl",
         "url": "https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg"
       },
@@ -1227,38 +1243,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 166741,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Check Your Face",
-        "url": "https://open.spotify.com/album/2YoGoESwgJCsKE49veLfqy"
-      },
-      "artists": [
-        {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Check Your Face",
-      "url": "https://open.spotify.com/track/4sjKAFUfKvzORpA445jNjd"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -1271,22 +1255,6 @@
       "duration_ms": 189514,
       "name": "coogie",
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1307,6 +1275,38 @@
       "duration_ms": 258000,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/38UXvQmxp5HxbhBNaHiC8D"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
         "name": "LAUREN",
         "url": "https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+        "name": "every day is a game",
+        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+      "duration_ms": 249687,
+      "name": "every day is a game",
+      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "every day is a game",
-        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 249687,
-      "name": "every day is a game",
-      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "Mika's Laundry",
         "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "stay late",
         "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 173283,
       "name": "stay late",
       "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2024-08-16 16:49:36",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "To Your Own Devices",
-        "url": "https://open.spotify.com/album/0zm80nUu0uXDNmVsiRfutJ"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 201632,
-      "name": "To Your Own Devices",
-      "url": "https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
@@ -1683,22 +1667,6 @@
     {
       "added_at": "2024-08-16 16:49:36",
       "album": {
-        "name": "Football",
-        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Football",
-      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
-    },
-    {
-      "added_at": "2024-08-16 16:49:36",
-      "album": {
         "name": "Suntub",
         "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
       },
@@ -1711,6 +1679,38 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "To Your Own Devices",
+        "url": "https://open.spotify.com/album/0zm80nUu0uXDNmVsiRfutJ"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 201632,
+      "name": "To Your Own Devices",
+      "url": "https://open.spotify.com/track/7F7tkvQTutq9Hkx4XibCj3"
+    },
+    {
+      "added_at": "2024-08-16 16:49:36",
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     }
   ],
   "unique_name": "Indie Chillout",

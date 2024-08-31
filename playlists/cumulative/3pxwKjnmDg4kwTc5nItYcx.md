@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-797 songs - 1 day 18 hr 47 min
+798 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Konjo](https://open.spotify.com/track/6QDsvVjGVvyapCgrZrNimn) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Konjo](https://open.spotify.com/album/6fwMKBeItkKYY8ZFn6vn4q) | 3:17 | 2021-12-03 |  |
 | [L.O.V.E\. Me](https://open.spotify.com/track/645Dfv2sXgswJEVx3uckfm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/75LOazIN9tKRvYQRvHaJjM) | 2:39 | 2019-11-18 | 2021-05-12 |
 | [La La Land \(feat\. YG\)](https://open.spotify.com/track/3TpBefRZ1vFcOH6z57PQRI) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [La La Land \(feat\. YG\)](https://open.spotify.com/album/0uEsmL4LP4fOPwa5ZVXICS) | 2:57 | 2019-08-27\* | 2021-12-04 |
+| [Lady](https://open.spotify.com/track/6XOIUwBetXbAEntsXOwAX3) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Lady](https://open.spotify.com/album/0uVeNuStom8wlWcpywvCqJ) | 2:29 | 2024-08-30 |  |
 | [Last Hurrah](https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Last Hurrah](https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5) | 2:30 | 2019-08-27\* | 2019-11-11 |
 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 | 2020-05-22 | 2021-05-12 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-06 |  |
@@ -796,7 +797,7 @@
 | [Yayo](https://open.spotify.com/track/7nHEmkpURecKykfN53r9F5) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 2:37 | 2022-10-21 | 2022-11-14 |
 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2022-09-27 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 |  |
-| [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-28 |  |
+| [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \- Deluxe](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-28 |  |
 | [You & Me](https://open.spotify.com/track/1qXvOWQgDGwvIGIP4qVQY3) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [You & Me](https://open.spotify.com/album/1Z1JeFFAZ1mNdsMUPPFsgs) | 2:55 | 2023-03-03 |  |
 | [YOU \(feat\. New Zealand Symphony Orchestra\)](https://open.spotify.com/track/6UqVebsCryLzb2JNzTZ1xy) | [Hollie Smith](https://open.spotify.com/artist/4cIp9eVnE7FyqDf0Eqfzcr), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM) | [Coming In From The Dark](https://open.spotify.com/album/0tjAAn3o0FPW3Fmqxf8ogq) | 4:44 | 2021-10-22 |  |
 | [You Can Run](https://open.spotify.com/track/14q8xNdQVRRjdUD9dmhNqu) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [You Can Run](https://open.spotify.com/album/2YK4GAgsaSuIPVYkIMuPh2) | 2:41 | 2022-08-12 |  |

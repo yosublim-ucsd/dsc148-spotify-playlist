@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-539 songs - 1 day 8 hr 15 min
+540 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Daylight](https://open.spotify.com/track/1NNAI51EuoRWw1ydX1zV7S) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:45 | 2024-01-29 |  |
 | [Dead But Breathing](https://open.spotify.com/track/2H4qO2abd44zI8TVEisjfu) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:44 | 2024-01-29 |  |
 | [Delicate](https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:52 | 2024-01-29 |  |
+| [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-30 |  |
 | [Diet Pepsi](https://open.spotify.com/track/1CuV5QUOywyaUVfGrRkq3s) | [Addison Raee](https://open.spotify.com/artist/0m2KLOfs4JgtNN5QkPRLqv) | [Diet Pepsi](https://open.spotify.com/album/76EbxWz0Mwai3579e9aVWe) | 3:00 | 2024-08-14 | 2024-08-16 |
 | [Dinosaur](https://open.spotify.com/track/74cq6AFbsKdUVZMpG2TPEr) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 2:55 | 2024-01-29 |  |
 | [Dirty Love](https://open.spotify.com/track/4I5JjW4KpDiC7kJBpCmxhH) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:18 | 2024-01-29 |  |

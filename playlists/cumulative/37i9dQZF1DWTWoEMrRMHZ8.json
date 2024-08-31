@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Nando Reis",
+  "description": "As belas novidades da MPB. Foto: Chico Chico",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
+    },
+    {
+      "album": {
         "name": "Apesar de Voc\u00ea",
         "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
       },
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 206484,
       "name": "BabyBaby",
       "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 202200,
       "name": "D\u00e1 Pra Ser Feliz",
       "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 198961,
       "name": "Eu S\u00f3 Queria...",
       "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
@@ -7018,7 +7036,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 231648,
       "name": "Malandragem - Ao Vivo",
       "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
@@ -10507,6 +10525,24 @@
     },
     {
       "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+    },
+    {
+      "album": {
         "name": "Por A\u00ed",
         "url": "https://open.spotify.com/album/1Wqm9upgdr7zhSYyGyQqaD"
       },
@@ -10760,6 +10796,28 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+    },
+    {
+      "album": {
+        "name": "Pra Sentar Num Bar",
+        "url": "https://open.spotify.com/album/2K39MDIhrn1s059eksV13b"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Da\u00edra",
+          "url": "https://open.spotify.com/artist/3ar2aVkdnUx3nDRAhYw3JW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Pra Sentar Num Bar",
+      "url": "https://open.spotify.com/track/0bECHH1nwID2ByxepjRO7M"
     },
     {
       "album": {
@@ -14772,6 +14830,24 @@
       "duration_ms": 181226,
       "name": "Vaga-Lumes",
       "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
+    },
+    {
+      "album": {
+        "name": "Estopim",
+        "url": "https://open.spotify.com/album/1xEedSvVg2eghIim4LeyBH"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150725,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/0FMKLCMxjAGeNzOAxH4b9F"
     },
     {
       "album": {

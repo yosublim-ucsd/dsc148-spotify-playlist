@@ -2,7 +2,7 @@
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This is Brian Eno\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Brian Eno\. Los temas esenciales, todos en una lista.
 
 167 songs - 13 hr 0 min
 

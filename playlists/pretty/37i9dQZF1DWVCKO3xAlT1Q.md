@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > Congratulations to the winner of Eurovision Song Contest 2024 \- Nemo 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,455 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,280 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 30 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 |
 | 31 | [Loop](https://open.spotify.com/track/3DlWvRuHXQ3iQicBauinOd) | [Sarah Bonnici](https://open.spotify.com/artist/6qOSxtFkI6TBjXcWygwvzk) | [Loop](https://open.spotify.com/album/5hN2xd6oN8k9yLPFfBTje0) | 2:59 |
 | 32 | [One Milkali \(One Blood\)](https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [One Milkali \(One Blood\)](https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao) | 2:56 |
-| 33 | [Özünlə Apar](https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs) | [Fahree](https://open.spotify.com/artist/0Fkjczl8PFJL6frgE8TRpB), [İlkin Dovletov](https://open.spotify.com/artist/0xz8XJLywtYA1ptDWiUpAc) | [Özünlə Apar](https://open.spotify.com/album/5hWF14gjXTOdMeoRZ8XpXv) | 3:02 |
+| 33 | [Özünlə Apar](https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs) | [Fahree](https://open.spotify.com/artist/0Fkjczl8PFJL6frgE8TRpB), [İlkin Dövlətov](https://open.spotify.com/artist/0xz8XJLywtYA1ptDWiUpAc) | [Özünlə Apar](https://open.spotify.com/album/5hWF14gjXTOdMeoRZ8XpXv) | 3:02 |
 | 34 | [TiTAN](https://open.spotify.com/track/669R9eowHoeQkrbnkUalI8) | [Besa](https://open.spotify.com/artist/6Ou6egP0Y2KxEI2yobIN3y) | [TiTAN](https://open.spotify.com/album/1fdGNyepzrzUcpsnGfNxDI) | 2:56 |
 | 35 | [11:11](https://open.spotify.com/track/6XIerJ9V7H9byQFRZiqyCv) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [11:11](https://open.spotify.com/album/6II0CjU8B2JyEgWBBVvtjN) | 3:00 |
 | 36 | [In the Middle](https://open.spotify.com/track/5ViF3hsL0iwD7jhh5JB2Ip) | [Natalia Barbu](https://open.spotify.com/artist/6dICPcKkYBBS4lW6TdxUQr) | [In the Middle](https://open.spotify.com/album/560gPARoBrtx4oQhrVj6KH) | 2:58 |

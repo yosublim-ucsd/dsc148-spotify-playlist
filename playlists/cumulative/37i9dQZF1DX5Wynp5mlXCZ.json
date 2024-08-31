@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Sabrina Carpenter",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2024",
   "tracks": [
+    {
+      "album": {
+        "name": "#AllEyesOnKids",
+        "url": "https://open.spotify.com/album/3tWufi9zYoFWsZKCzFvK0T"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157376,
+      "name": "#AllEyesOnKids",
+      "url": "https://open.spotify.com/track/6UAxAHMb6z2U7St2ylVSgm"
+    },
     {
       "album": {
         "name": "BRAT",
@@ -292,7 +310,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 246007,
       "name": "FeeltheLove",
       "url": "https://open.spotify.com/track/0VUCyV3wA2iAYnzCZCNvhF"
@@ -500,7 +518,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 195625,
       "name": "Head Underwater",
       "url": "https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142521,
       "name": "Spring breakers",
       "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
@@ -1631,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u0456\u0434\u0447\u0438\u043d\u044f\u044e",
+        "url": "https://open.spotify.com/album/1wtRGbp8RKqBkAWIhI6Rk0"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199922,
+      "name": "\u0412\u0456\u0434\u0447\u0438\u043d\u044f\u044e",
+      "url": "https://open.spotify.com/track/7MkVeS2Vv6TlmWw8FPvTNH"
+    },
+    {
+      "album": {
         "name": "\u0413\u043e\u043b\u0438\u043c\u0438",
         "url": "https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp"
       },
@@ -1734,7 +1770,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 194457,
       "name": "\u0417\u0430\u0431\u0438\u0439",
       "url": "https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj"
@@ -1795,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "\u043b\u0456\u043a\u0443\u044e",
+        "url": "https://open.spotify.com/album/4r026BckhTLJBXMcCnl7e2"
+      },
+      "artists": [
+        {
+          "name": "NANA",
+          "url": "https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "\u043b\u0456\u043a\u0443\u044e",
+      "url": "https://open.spotify.com/track/5nm5ctbjUoTRQkztMaTckL"
+    },
+    {
+      "album": {
         "name": "\u041b\u0456\u043b\u0456\u0457",
         "url": "https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW"
       },
@@ -1850,6 +1904,24 @@
       "duration_ms": 218928,
       "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
       "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0443\u0448\u043b\u0456",
+        "url": "https://open.spotify.com/album/3PvqKzs0AmRYYST6OzvSbx"
+      },
+      "artists": [
+        {
+          "name": "KAZKA",
+          "url": "https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "\u041c\u0443\u0448\u043b\u0456",
+      "url": "https://open.spotify.com/track/1MT7KlBpObJuNOR0ALsuh0"
     },
     {
       "album": {
@@ -2176,6 +2248,24 @@
       "duration_ms": 137714,
       "name": "\u042f \u0442\u043e\u0431\u0456 \u0431\u0440\u0435\u0445\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430\u0432\u0456\u044f\u043b\u041e",
+        "url": "https://open.spotify.com/album/2jyail16WtYHpAjmt5VI5h"
+      },
+      "artists": [
+        {
+          "name": "OKS",
+          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "\u0456 \u043d\u0435\u0445\u0430\u0439",
+      "url": "https://open.spotify.com/track/3S12aXTrmV1K1gLDDQmrHm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ"

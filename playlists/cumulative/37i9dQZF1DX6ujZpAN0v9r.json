@@ -3029,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+      },
+      "artists": [
+        {
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318044,
+      "name": "She's Unreal",
+      "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
+    },
+    {
+      "album": {
         "name": "The Comforts of Madness",
         "url": "https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt"
       },

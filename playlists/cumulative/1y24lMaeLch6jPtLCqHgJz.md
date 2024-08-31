@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-355 songs - 18 hr 0 min
+356 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-29 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2023-08-10 |  |
 | [Filthy Rich](https://open.spotify.com/track/5ksui6de0U50Rc6PikEBu1) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Filthy Rich](https://open.spotify.com/album/6cFccsLrrlJreLTA23pVzc) | 2:27 | 2024-06-06 |  |
+| [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 |  |
 | [Find A Way](https://open.spotify.com/track/7zM4RlICmXyA7TyEPigVZq) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Neyra](https://open.spotify.com/artist/2kUa88shQOFvgtjsNN0GWg), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Find A Way](https://open.spotify.com/album/7a3JWPQfnxDKkDYVn7oSJ1) | 3:08 | 2022-07-29 | 2023-09-02 |
 | [Flame](https://open.spotify.com/track/5K3dTaVxbZUOzJwFJhbj2A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Flame](https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G) | 2:51 | 2022-07-29 | 2022-08-20 |
 | [Flight](https://open.spotify.com/track/67keGyFWWzCELxtVSBi1em) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Flight](https://open.spotify.com/album/1sLPzmdbfT9UvHuOvBe9yE) | 2:30 | 2023-08-24 |  |

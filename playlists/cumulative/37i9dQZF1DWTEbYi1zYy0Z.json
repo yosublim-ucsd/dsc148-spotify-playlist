@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "So fresh, so smooth. Cover: Braxton Brothers",
+  "description": "So fresh, so smooth. Cover: Boney James",
   "name": "New Smooth Jazz",
   "tracks": [
     {
@@ -1196,6 +1196,32 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+    },
+    {
+      "album": {
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
     },
     {
       "album": {
@@ -5472,7 +5498,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 245379,
       "name": "Moon Goddess",
       "url": "https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU"

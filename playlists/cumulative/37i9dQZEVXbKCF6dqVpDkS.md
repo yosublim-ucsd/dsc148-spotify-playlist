@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,592 songs - 3 day 11 hr 3 min
+1,593 songs - 3 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1076,7 +1076,7 @@
 | [PANORAMA](https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:42 | 2022-05-14 | 2022-05-22 |
 | [Papa Mama](https://open.spotify.com/track/2hNXxcymoCnK2BCMjeN9wX) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Papa Mama](https://open.spotify.com/album/2NM9yRHI77ajeqjBEZNiob) | 2:42 | 2022-08-30 | 2022-09-04 |
 | [PAPARAZZI](https://open.spotify.com/track/6DWuLCUC2qDerejb4tXVP6) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PINK SUMMER](https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl) | 2:27 | 2024-07-20 | 2024-08-30 |
-| [PAPARAZZI](https://open.spotify.com/track/6kLL7P3QGOPhNBY8iOUDhE) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PINK SUMMER](https://open.spotify.com/album/5XrZq9SJcEvZN3gxfqOdN1) | 2:27 | 2024-08-29 |  |
+| [PAPARAZZI](https://open.spotify.com/track/6kLL7P3QGOPhNBY8iOUDhE) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PINK SUMMER](https://open.spotify.com/album/5XrZq9SJcEvZN3gxfqOdN1) | 2:27 | 2024-08-29 | 2024-08-31 |
 | [Paparazzi](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Paparazzi](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 | 2024-05-25 | 2024-07-21 |
 | [PAPERWORK](https://open.spotify.com/track/3IoAMvGFYzM05B64h7qmdf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:25 | 2024-02-12 | 2024-02-15 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-09 |
@@ -1554,6 +1554,7 @@
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-14 | 2021-11-21 |
 | [Woman Like Me](https://open.spotify.com/track/2c6xRsQBv7pynuhYhWoHxo) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 5:00 | 2021-11-21 | 2021-11-27 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-07 | 2023-12-30 |
+| [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2024-08-30 |  |
 | [Word Up](https://open.spotify.com/track/3NBH3NkNYXnbSiS7hTa3Xa) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Jordan](https://open.spotify.com/artist/0b3RMzjORTOTEREn3mv3fF) | [Wonderland](https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4) | 3:29 | 2023-11-18 | 2023-11-20 |
 | [Worden wat je wil](https://open.spotify.com/track/2HiAppYLP03cXe0i9YzrJr) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [42 \- Worden wat je wil](https://open.spotify.com/album/6x76PWMoGBGEstjCfC7B5g) | 2:41 | 2021-10-11 | 2021-10-27 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-07-05 | 2023-01-01 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,553 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,577 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Push Mountains](https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [Dangermuffin](https://open.spotify.com/album/2y4DRNJCI177adj2JME16M) | 4:25 |
-| 2 | [Marijuana Timewarp](https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Marijuana Timewarp](https://open.spotify.com/album/1TsvZiKqeIVfFZ0v27QydR) | 3:14 |
+| 1 | [Porridge](https://open.spotify.com/track/4Alr3te050rO6YrKOmkmkY) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Porridge](https://open.spotify.com/album/6eQOY5MXWUMg5vGr122m0L) | 2:44 |
+| 2 | [We Push Mountains](https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [Dangermuffin](https://open.spotify.com/album/2y4DRNJCI177adj2JME16M) | 4:25 |
 | 3 | [Bus Stop](https://open.spotify.com/track/7FPiMhp5LKyxY1KDGdsksV) | [King Llama](https://open.spotify.com/artist/4QXPM31l5VL7RjlSqsVuoc) | [Bus Stop](https://open.spotify.com/album/6JYVASVfp7oGbf8sTx9bb8) | 6:06 |
 | 4 | [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 |
 | 5 | [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `ZsgJQAAAAADdYWpgRaeqy8MutnytZZnf`
+Snapshot ID: `ZtFDwAAAAAA2HVONK65tE3szyQzYvxT0`

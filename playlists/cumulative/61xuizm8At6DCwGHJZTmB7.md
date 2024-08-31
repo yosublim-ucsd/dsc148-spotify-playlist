@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-500 songs - 2 day 0 hr 43 min
+501 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Surrender](https://open.spotify.com/track/4CDA2cAPCUI1TYNTDgsXkH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Surrender](https://open.spotify.com/album/5fSZMYUOCFOBKvBmO27uJs) | 5:40 | 2022-08-03 | 2023-04-01 |
 | [Surrendered](https://open.spotify.com/track/0SFZ4EuWkPyvKBhewnSsxN) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Remain The Same](https://open.spotify.com/album/014JsNkM0hUcEn2PslZN2t) | 9:19 | 2023-12-01 | 2024-04-19 |
 | [Surrendered](https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Surrendered](https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj) | 9:19 | 2022-09-09 | 2023-12-14 |
+| [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \- Live](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 | 2024-08-30 |  |
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-04-29 |  |
 | [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 | 2022-09-30 | 2024-04-19 |
 | [Take You At Your Word \- Live](https://open.spotify.com/track/72RlJgcgpJtCsKQaqkOkvy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 5:16 | 2024-05-10 |  |

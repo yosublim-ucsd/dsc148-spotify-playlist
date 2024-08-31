@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 142400,
       "name": "1...2...3 Intro (Funk)",
       "url": "https://open.spotify.com/track/7eCsmRcWfsX98qkHhIiCCu"
@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Toma Essa Verdade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178882,
+      "name": "Apaga Apaga Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
+    },
+    {
+      "album": {
         "name": "Ferrugem 10 Anos, Vol. 1: O In\u00edcio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm"
       },
@@ -4377,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "Automativo Da Turbulencia",
+        "url": "https://open.spotify.com/album/750opHJyXdE1zxkYlgbdGO"
+      },
+      "artists": [
+        {
+          "name": "mal.",
+          "url": "https://open.spotify.com/artist/44XXlvXDcY0ZIBa2EF1fgw"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "Automativo da Turbulencia",
+      "url": "https://open.spotify.com/track/0Y18X1TSNyKvYY8fgrKlgV"
+    },
+    {
+      "album": {
         "name": "AUTOMOTIVO ANGELICAL",
         "url": "https://open.spotify.com/album/3p66e8GOkeFBbMnBGDFpOh"
       },
@@ -4462,7 +4498,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 132922,
       "name": "Automotivo da Turbulencia",
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
@@ -25212,7 +25248,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
@@ -29960,6 +29996,24 @@
       "duration_ms": 160645,
       "name": "Mega Da Virada (Remix)",
       "url": "https://open.spotify.com/track/6mZSs1b2hiwyaXu5nOAJJw"
+    },
+    {
+      "album": {
+        "name": "Mega das Tchutchuca",
+        "url": "https://open.spotify.com/album/5wRmMonHLD3d4T1kbY7BqO"
+      },
+      "artists": [
+        {
+          "name": "DJ MARCONE 014",
+          "url": "https://open.spotify.com/artist/6HoEOT3YHu3O763jlfZkoA"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102732,
+      "name": "Mega das Tchutchuca",
+      "url": "https://open.spotify.com/track/04kc5SEMpaNQXzZakiAOUv"
     },
     {
       "album": {
@@ -40234,7 +40288,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 159867,
       "name": "Pique Esconde",
       "url": "https://open.spotify.com/track/0ldMzpyIgeYdQB725BNxzu"
@@ -43730,7 +43784,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 113971,
       "name": "Ritmada Tchau Obrigado",
       "url": "https://open.spotify.com/track/3OaJTZUVApRxoDo65GQiAC"

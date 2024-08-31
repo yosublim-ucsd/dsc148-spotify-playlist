@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.",
-  "num_followers": 5383460,
+  "num_followers": 5383806,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAA0RjAYd9dsUp8jyVHk4LC/",
+  "snapshot_id": "ZtFisAAAAABujgn+PJrITkqN+3g2ATKU",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -59,18 +59,30 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
-        "name": "Elemental (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
+        "name": "The Lion King: Special Edition",
+        "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Ernie Sabella",
+          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
+        },
+        {
+          "name": "Jason Weaver",
+          "url": "https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ"
+        },
+        {
+          "name": "Joseph Williams",
+          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
         }
       ],
-      "duration_ms": 192506,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
+      "duration_ms": 213640,
+      "name": "Hakuna Matata - From \"The Lion King\" Soundtrack",
+      "url": "https://open.spotify.com/track/5khPZny1Hf4w1XyHrZ6T0n"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -167,6 +179,22 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
+        "name": "Elemental (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -425,28 +453,24 @@
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
-      "added_at": "2024-04-30 18:37:55",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "What's My Name (Red Version) [From \"Descendants: The Rise of Red\"/Soundtrack Version]",
-        "url": "https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u"
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        },
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 146642,
-      "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
+      "duration_ms": 218723,
+      "name": "Life Is Sweeter",
+      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
     },
     {
       "added_at": "2024-04-30 18:37:55",
@@ -885,6 +909,30 @@
       "url": "https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7"
     },
     {
+      "added_at": "2024-04-30 18:37:55",
+      "album": {
+        "name": "What's My Name (Red Version) [From \"Descendants: The Rise of Red\"/Soundtrack Version]",
+        "url": "https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        },
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 146642,
+      "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
+    },
+    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
@@ -999,6 +1047,26 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "added_at": "2024-08-30 06:12:00",
+      "album": {
+        "name": "I2I - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/1DpOt4a2dQzFD7MfYIBMYk"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 180709,
+      "name": "I2I - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/3hU1uChF4R0VygUNjcYOJb"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1625,26 +1693,6 @@
       "url": "https://open.spotify.com/track/50ssiEHx556vul2XyUbxwU"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Descendants: The Rise of Red (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
-      },
-      "artists": [
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 218723,
-      "name": "Life Is Sweeter",
-      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
-    },
-    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
         "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
@@ -1899,6 +1947,26 @@
     {
       "added_at": "2024-01-08 22:56:36",
       "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gonzalez",
+          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+        },
+        {
+          "name": "Antonio Sol",
+          "url": "https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM"
+        }
+      ],
+      "duration_ms": 50765,
+      "name": "The World Es Mi Familia",
+      "url": "https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw"
+    },
+    {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
         "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
         "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
       },
@@ -1945,24 +2013,24 @@
       "url": "https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC"
     },
     {
-      "added_at": "2024-01-08 22:56:36",
+      "added_at": "2024-08-30 06:12:00",
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+        "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
       },
       "artists": [
         {
-          "name": "Anthony Gonzalez",
-          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         },
         {
-          "name": "Antonio Sol",
-          "url": "https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM"
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 50765,
-      "name": "The World Es Mi Familia",
-      "url": "https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw"
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -1987,34 +2055,6 @@
       "duration_ms": 69813,
       "name": "Remember Me (Lullaby)",
       "url": "https://open.spotify.com/track/2cFGv8v5DcbJXHEdzouFne"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "The Lion King: Special Edition",
-        "url": "https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl"
-      },
-      "artists": [
-        {
-          "name": "Nathan Lane",
-          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
-        },
-        {
-          "name": "Ernie Sabella",
-          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
-        },
-        {
-          "name": "Jason Weaver",
-          "url": "https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ"
-        },
-        {
-          "name": "Joseph Williams",
-          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Hakuna Matata - From \"The Lion King\" Soundtrack",
-      "url": "https://open.spotify.com/track/5khPZny1Hf4w1XyHrZ6T0n"
     },
     {
       "added_at": "2024-01-08 22:56:36",

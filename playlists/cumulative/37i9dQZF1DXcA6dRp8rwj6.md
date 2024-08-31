@@ -2,7 +2,7 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover:Central Cee, JRK19\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover:BAP.\)
 
 2,256 songs - 4 day 18 hr 33 min
 
@@ -574,7 +574,7 @@
 | [Don’t Stop \(feat\. eyden\)](https://open.spotify.com/track/3BUlRuYQuUIjZazzkjT72w) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Don’t Stop \(feat\. eyden\)](https://open.spotify.com/album/645uW3kd9OKFWjlUIy2Qp8) | 2:29 | 2022-12-01 | 2023-01-28 |
 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 | 2023-06-22 | 2023-08-04 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-20 | 2024-01-05 |
-| [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 | 2024-07-18 |  |
+| [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS, TARVETHZ](https://open.spotify.com/artist/1EWg6ssl2X0PM5SVphURLU) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 | 2024-07-18 |  |
 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 | 2022-11-17 | 2023-01-20 |
 | [Drama](https://open.spotify.com/track/0uJ3mlaKDT1LxvpWE8uBAh) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:37 | 2022-04-21 | 2022-05-20 |
 | [Dream Out Loud \- feat\. ØZI](https://open.spotify.com/track/5jEP1KTapV6wun91fLJchx) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Dream Out Loud \(feat\. ØZI\)](https://open.spotify.com/album/0GxY6xNtyRNho50fN3janA) | 3:51 | 2023-06-01 | 2023-07-07 |

@@ -2,9 +2,9 @@
 
 ### [Pop Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWWmaH4Rc6HPY)
 
-> ¡Rock para cantar en todos lados! Elsa y Elmar en portada.
+> ¡Rock para cantar en todos lados! Love Of Lesbian y Zahara en portada.
 
-160 songs - 8 hr 48 min
+163 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 | 2023-10-06 | 2024-05-07 |
 | [Adictos](https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Adictos](https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN) | 3:57 | 2023-10-06 | 2024-06-22 |
 | [Afortunado](https://open.spotify.com/track/4h2vY6LwbH7iRwsUKcYwK2) | [Erik Canales](https://open.spotify.com/artist/3QC4AtX2khtjq72uLVULZQ) | [Afortunado](https://open.spotify.com/album/2Pv16vm77OrrF4VcY889hQ) | 3:32 | 2023-10-06 | 2024-05-07 |
+| [Ahí Estás](https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Ahí Estás](https://open.spotify.com/album/5F8l7jRSbB4C0AASTG4A9h) | 3:16 | 2024-08-30 |  |
 | [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 | 2024-07-12 | 2024-08-24 |
 | [Al menos ahora](https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:03 | 2024-04-05 | 2024-05-07 |
 | [Al Menos Ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 | 2023-10-06 | 2024-04-19 |
-| [Al Revés](https://open.spotify.com/track/5r8tolaXEEWIRyabeqDZZs) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [Al Revés](https://open.spotify.com/album/3WqltOe3n18x6UGOeCqynI) | 4:12 | 2024-08-23 |  |
+| [Al Revés](https://open.spotify.com/track/5r8tolaXEEWIRyabeqDZZs) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [Al Revés](https://open.spotify.com/album/3WqltOe3n18x6UGOeCqynI) | 4:12 | 2024-08-23 | 2024-08-31 |
 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-10-06 | 2024-05-18 |
 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 | 2024-07-12 |  |
 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 | 2023-10-06 | 2024-05-07 |
@@ -37,7 +38,7 @@
 | [Cerca De Ti](https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 3:06 | 2024-05-06 | 2024-07-09 |
 | [Cerquita de Ti](https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Cerquita de Ti](https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc) | 3:15 | 2023-10-06 | 2024-07-09 |
 | [Chain Reactionary](https://open.spotify.com/track/6duCXF5ciZHEEmzEcVIAAK) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [The Fool](https://open.spotify.com/album/5a2JzNqPfuCnF0WQ3PoL4j) | 3:32 | 2023-10-06 | 2024-05-07 |
-| [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 | 2024-06-28 |  |
+| [Check](https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Check](https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4) | 3:23 | 2024-06-28 | 2024-08-31 |
 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 | 2024-05-06 |  |
 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 | 2023-10-06 |  |
 | [Como Queremos](https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Miel de Azar](https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma) | 3:12 | 2024-06-14 |  |
@@ -112,13 +113,14 @@
 | [Nunca Te Quise](https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Nunca Te Quise](https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv) | 3:35 | 2023-10-06 | 2024-05-15 |
 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 | 2023-10-06 |  |
 | [Once](https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Once](https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8) | 4:58 | 2024-05-17 | 2024-07-21 |
-| [Origami](https://open.spotify.com/track/7GDVpCGJ3aOp4j4AVnhLoV) | [Jotdog](https://open.spotify.com/artist/6rfFUodEv0dJxD1mKbDNdF) | [Origami](https://open.spotify.com/album/1341VDT31EVB2iTIcoNC36) | 2:32 | 2024-08-23 |  |
+| [Origami](https://open.spotify.com/track/7GDVpCGJ3aOp4j4AVnhLoV) | [Jotdog](https://open.spotify.com/artist/6rfFUodEv0dJxD1mKbDNdF) | [Origami](https://open.spotify.com/album/1341VDT31EVB2iTIcoNC36) | 2:32 | 2024-08-23 | 2024-08-31 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-10-06 |  |
 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 | 2024-08-23 |  |
 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 | 2023-10-06 | 2024-05-18 |
 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 | 2023-10-06 |  |
 | [Perdóname](https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Perdóname](https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF) | 3:36 | 2024-02-16 | 2024-04-06 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2023-10-06 |  |
+| [Planetas vecinos](https://open.spotify.com/track/4ugw5QcnaDRqIjrn5DY7yJ) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Planetas vecinos](https://open.spotify.com/album/4OxOawfYGMp1WvGTGIAQat) | 3:42 | 2024-08-30 |  |
 | [playaplaya](https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [playaplaya](https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ) | 2:45 | 2024-04-23 |  |
 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 | 2024-04-05 | 2024-06-07 |
 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 | 2024-05-06 | 2024-08-12 |
@@ -155,6 +157,7 @@
 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 | 2024-05-31 |  |
 | [Te Arde](https://open.spotify.com/track/4pTBwkH4jQUUAtBKL2Npv7) | [Mar Rendón](https://open.spotify.com/artist/7Fk848MU19rSzUvRNwtpV8) | [Te Arde](https://open.spotify.com/album/28TfhtyFWwtxdNOYXi0EzL) | 2:42 | 2023-10-06 | 2024-06-29 |
 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 | 2024-06-21 |  |
+| [Tesis](https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Tesis](https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg) | 4:20 | 2024-08-30 |  |
 | [Todo cambia](https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Todo cambia](https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd) | 3:30 | 2024-01-19 |  |
 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 | 2024-01-19 |  |
 | [Trebol](https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Trebol](https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7) | 2:42 | 2023-10-06 | 2024-06-19 |

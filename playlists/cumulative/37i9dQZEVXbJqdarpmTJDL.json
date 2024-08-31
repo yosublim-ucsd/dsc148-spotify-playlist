@@ -9766,7 +9766,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 149923,
       "name": "EISAI TRELA",
       "url": "https://open.spotify.com/track/0AixjqoY88CqVJFp5x5IXX"
@@ -17178,6 +17178,28 @@
       "duration_ms": 218630,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/7yaE4SXqz6tIOreo5sO6yU"
+    },
+    {
+      "album": {
+        "name": "Ke Ti Den Tha Dina",
+        "url": "https://open.spotify.com/album/7fycmjm7HIc2ogDfX1aTx0"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188688,
+      "name": "Ke Ti Den Tha Dina",
+      "url": "https://open.spotify.com/track/63BVcYK5badAGfZoUJarvK"
     },
     {
       "album": {

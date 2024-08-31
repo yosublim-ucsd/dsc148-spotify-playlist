@@ -1,13 +1,37 @@
 {
-  "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 65186,
+  "description": "So fresh, so smooth. Cover: Boney James",
+  "num_followers": 65228,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAABlSXWjhIg6icj2/SGshxQs",
+  "snapshot_id": "ZtFDwAAAAADPKq/rXrXVOgsMNC7FQrR7",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -1751,22 +1775,6 @@
       "duration_ms": 177360,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Moon Goddess",
-        "url": "https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 245379,
-      "name": "Moon Goddess",
-      "url": "https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU"
     }
   ],
   "unique_name": "New Smooth Jazz",

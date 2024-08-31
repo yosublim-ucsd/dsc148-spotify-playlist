@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Froukje & S10
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,748 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,915 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,13 +94,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 84 | [The Fool](https://open.spotify.com/track/6ptRV1NYFp7DThMILxq8K5) | [Niko](https://open.spotify.com/artist/6GMXTHNc34bj2rFo35e2T2) | [The Fool](https://open.spotify.com/album/2XennZwBPmPaaQFLCOgJel) | 2:24 |
 | 85 | [Bending My Rules](https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Bending My Rules](https://open.spotify.com/album/5g2IcWk7Deec3sOrtDiwk9) | 3:44 |
 | 86 | [Arizona](https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Arizona](https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU) | 3:24 |
-| 87 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 |
-| 88 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 |
-| 89 | [For The Weekend](https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [New Machine](https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81) | [For The Weekend](https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX) | 2:49 |
-| 90 | [I Like To Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Still Loud](https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [I Like To Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7) | 2:28 |
-| 91 | [100 bux](https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [100 bux](https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz) | 3:15 |
-| 92 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 93 | [De Oer](https://open.spotify.com/track/3C2vm6hNMqbLOiyG7We9UR) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [De Oer](https://open.spotify.com/album/5cMt2vEOTOApQPZ1mItquM) | 3:14 |
-| 94 | [Everything is OK](https://open.spotify.com/track/4iSicnH1qnSSTyukjpd8FV) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Everything is OK](https://open.spotify.com/album/1uwM6VbA4iTGrYQcFPPOGw) | 4:48 |
+| 87 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
+| 88 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 |
+| 89 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 |
+| 90 | [For The Weekend](https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [New Machine](https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81) | [For The Weekend](https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX) | 2:49 |
+| 91 | [I Like To Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Still Loud](https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [I Like To Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7) | 2:28 |
+| 92 | [100 bux](https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [100 bux](https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz) | 3:15 |
+| 93 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
+| 94 | [De Oer](https://open.spotify.com/track/3C2vm6hNMqbLOiyG7We9UR) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [De Oer](https://open.spotify.com/album/5cMt2vEOTOApQPZ1mItquM) | 3:14 |
+| 95 | [Everything is OK](https://open.spotify.com/track/4iSicnH1qnSSTyukjpd8FV) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Everything is OK](https://open.spotify.com/album/1uwM6VbA4iTGrYQcFPPOGw) | 4:48 |
 
 Snapshot ID: `ZtDvYAAAAADwGUt4alG7FZ09jsLtSB3G`

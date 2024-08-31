@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with FEVER 333.
+> nü\-metal revival is happening here and now with DREGG.
 
-182 songs - 10 hr 26 min
+185 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
 | [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 | 2024-08-23 |  |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 | 2024-03-02 |
-| [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 | 2023-09-22 |  |
+| [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 | 2023-09-22 | 2024-08-31 |
 | [Confessions Of The Fallen](https://open.spotify.com/track/6Zfhv8jhS1PDGQySEGqPTs) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:50 | 2023-10-27 | 2024-04-19 |
 | [CONTROL](https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CONTROL](https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX) | 3:04 | 2024-05-17 |  |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-19 | 2024-03-30 |
@@ -84,7 +84,7 @@
 | [Jelly](https://open.spotify.com/track/5vx0e8wqX8wODZrCiJQsrZ) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S) | [Jelly](https://open.spotify.com/album/4jQchA4qZLbHFnfIq8sUyI) | 1:57 | 2024-07-19 |  |
 | [John](https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [John](https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I) | 3:56 | 2024-03-08 | 2024-07-19 |
 | [JOYKILLER](https://open.spotify.com/track/4x5CQ8DdRQFAJSq5lfXwuh) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [JOYKILLER](https://open.spotify.com/album/0bsOXVkWaEKzuCk6WxN8Rn) | 2:58 | 2024-07-19 |  |
-| [Justice Will Shine On](https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Justice Will Shine On](https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O) | 3:49 | 2024-07-26 |  |
+| [Justice Will Shine On](https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Justice Will Shine On](https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O) | 3:49 | 2024-07-26 | 2024-08-31 |
 | [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 | 2024-02-09 | 2024-06-15 |
 | [Kill Me](https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Kill Me](https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf) | 1:48 | 2024-04-05 | 2024-04-19 |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2023-09-13 | 2024-02-03 |
@@ -118,6 +118,7 @@
 | [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 | 2024-01-26 | 2024-04-19 |
 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 | 2023-09-13 | 2023-09-23 |
 | [Paralyzed](https://open.spotify.com/track/1NSgXmZrP7qhCNl2fB57HB) | [Soulbound](https://open.spotify.com/artist/77iKiudWCr75l34XsQAVpl) | [obsYdian](https://open.spotify.com/album/77oFf0SWQ9HDxpPbLjJXXb) | 3:12 | 2024-07-26 |  |
+| [Permanence in Sleep](https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Permanence in Sleep](https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM) | 3:36 | 2024-08-30 |  |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [PLAYING FAVORITES](https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Playing Favorites](https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY) | 3:39 | 2024-04-12 | 2024-04-19 |
 | [Prepackaged](https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Prepackaged](https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo) | 5:03 | 2024-07-19 |  |
@@ -131,7 +132,7 @@
 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 | 2023-09-13 |  |
 | [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 | 2024-06-28 |  |
 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-02-02 |  |
-| [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-02 |  |
+| [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-02 | 2024-08-31 |
 | [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 | 2024-03-29 | 2024-05-18 |
 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-13 |  |
@@ -161,8 +162,10 @@
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 | 2024-04-05 |  |
 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 | 2024-02-09 | 2024-04-06 |
 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 | 2023-12-16 |
+| [Troubled](https://open.spotify.com/track/4YHUgFw8vYSTxooGSjUklu) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [Troubled](https://open.spotify.com/album/2prdpwWoJU82pXAi4fBxwE) | 3:06 | 2024-08-30 |  |
 | [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-09 |  |
 | [Turn It Up, Bitch](https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:20 | 2024-07-05 |  |
+| [Turn The Lights Out](https://open.spotify.com/track/0YGM4pxcqHYMtZlsMftM37) | [Widow7](https://open.spotify.com/artist/24hO8r5d8uJVVf7Po85xfX) | [Turn The Lights Out](https://open.spotify.com/album/737r0VlF9QY0HJnirnhWAR) | 2:33 | 2024-08-30 |  |
 | [Two\-Way Mirror](https://open.spotify.com/track/0b4TKuvZ4eJ8eHgJgXaCnN) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:00 | 2023-09-13 | 2023-12-16 |
 | [UCOPIA](https://open.spotify.com/track/4Ht1HxpypndhtASlprsIkC) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [UCOPIA](https://open.spotify.com/album/49wh1etag3HNhID63qPQ2p) | 2:45 | 2024-06-21 | 2024-07-19 |
 | [UNBOUND](https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf), [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [UNBOUND](https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ) | 3:27 | 2024-03-01 | 2024-06-15 |

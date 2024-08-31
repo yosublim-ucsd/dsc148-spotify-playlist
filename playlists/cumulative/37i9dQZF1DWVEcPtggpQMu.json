@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R?si=I5ynifYKRb6kUSsVDescig\">Qwellers</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn?si=NnXR8s_CRSCABVrL54iQVw\">Lowfeye</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 248906,
       "name": "Amalanga (feat. Anzo)",
       "url": "https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 187354,
       "name": "CHOM",
       "url": "https://open.spotify.com/track/6AhbstjFqrgTO196pZdElf"
@@ -4296,6 +4296,28 @@
       "duration_ms": 201290,
       "name": "Ekhoneni",
       "url": "https://open.spotify.com/track/6Poyt13mWsJMIBC6o5dKz1"
+    },
+    {
+      "album": {
+        "name": "Elokishin",
+        "url": "https://open.spotify.com/album/295NPYTrhoh6HNd9X8rBiT"
+      },
+      "artists": [
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "Espiquet",
+          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240288,
+      "name": "Elokishin",
+      "url": "https://open.spotify.com/track/3l2sFobwAtdTmU5oosq8Ie"
     },
     {
       "album": {
@@ -5458,7 +5480,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 207768,
       "name": "Garden",
       "url": "https://open.spotify.com/track/7Mcha392HDMej65tfaoSVM"
@@ -6382,6 +6404,28 @@
       "duration_ms": 208539,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/6kIS7rImcCJECQod84TqOr"
+    },
+    {
+      "album": {
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/2SBKjSsAL0cdHAtd28DwFR"
+      },
+      "artists": [
+        {
+          "name": "Swisha T",
+          "url": "https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/6M7Ykx8vvb9FJORBG6o9ik"
     },
     {
       "album": {
@@ -9607,6 +9651,24 @@
     },
     {
       "album": {
+        "name": "Mfana kaMakhulu",
+        "url": "https://open.spotify.com/album/4HshJlejrlM0iS7vft5wA1"
+      },
+      "artists": [
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Missed Calls",
+      "url": "https://open.spotify.com/track/0BC3WoUwKRdzcsSQOsY4kr"
+    },
+    {
+      "album": {
         "name": "Lockdown Lovestory",
         "url": "https://open.spotify.com/album/1S2CoPTuZiWIPHiruPYKus"
       },
@@ -10516,7 +10578,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 189146,
       "name": "No More Discos",
       "url": "https://open.spotify.com/track/1CEOhntVCcqmouZq4vmeZ3"
@@ -10732,7 +10794,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 261120,
       "name": "Ntja'ka",
       "url": "https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz"
@@ -14608,7 +14670,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 212513,
       "name": "Talk",
       "url": "https://open.spotify.com/track/3gEmWpBhPJW582CeoUzqrE"
@@ -15562,7 +15624,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 218709,
       "name": "Tittewyt",
       "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
@@ -17078,7 +17140,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 181743,
       "name": "WHATIF?",
       "url": "https://open.spotify.com/track/2aqfZ5MEY0ZXAMYewiO1V0"
@@ -17376,7 +17438,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 220407,
       "name": "Wine Confessions",
       "url": "https://open.spotify.com/track/4n5eigHMWweLWmfs3HGmeM"

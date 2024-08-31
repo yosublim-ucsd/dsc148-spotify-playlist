@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Corrido De Los Perez",
+      "url": "https://open.spotify.com/track/4gTErwdL2Tn8hrm1ow6JAz"
+    },
+    {
+      "album": {
         "name": "Te Ves Bien Buena....",
         "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
       },
@@ -352,7 +370,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-31",
       "duration_ms": 144306,
       "name": "Corrido De Nayarit",
       "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"

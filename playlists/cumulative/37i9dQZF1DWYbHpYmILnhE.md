@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Psycho YP
 
-69 songs - 3 hr 8 min
+70 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 | 2024-06-28 |  |
 | [OGBUEFI](https://open.spotify.com/track/2Mu5P5BnXRrqsAC5GeWHHf) | [Creen Caesar](https://open.spotify.com/artist/5A8fI4subH9tiQHBmm3COP) | [OGBUEFI](https://open.spotify.com/album/1WgU7HDA31Nvw43eGxmBoV) | 2:17 | 2024-06-28 |  |
 | [Ojugom Isi](https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ojugom Isi](https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T) | 2:41 | 2024-06-28 |  |
+| [On God Oh Boss](https://open.spotify.com/track/1qfE3ZIV3lkzXYUdZsXBtW) | [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Brown Roofs](https://open.spotify.com/album/0oqFYMzBIZbaymc5fYAvma) | 2:10 | 2024-08-30 |  |
 | [Oppress](https://open.spotify.com/track/4WEhcjvsgEUGdfR3Jjv9uJ) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [UGLY \(U Gatts Love Yourself\)](https://open.spotify.com/album/11VnAHPIjMYw4u4AHYy6On) | 3:42 | 2024-06-28 |  |
 | [PARA](https://open.spotify.com/track/26xlOtYwps4ooJ3UAmrSPq) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [PARA](https://open.spotify.com/album/1jwDZ3zWdPzSLewL0jh1fA) | 2:44 | 2024-06-28 |  |
 | [Perfect Timing](https://open.spotify.com/track/7xgcrkdoh6EObUoMq7hvvh) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:28 | 2024-06-28 |  |
@@ -67,7 +68,7 @@
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2024-06-28 |  |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2024-06-28 |  |
 | [Steady Trapping](https://open.spotify.com/track/1ZU2go4uBwksTVkzcuZG2E) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Dreams & Nightmares](https://open.spotify.com/album/6I3ypVZhhbabSe5hfPbjMr) | 3:30 | 2024-06-28 |  |
-| [Step](https://open.spotify.com/track/7eZNZXw3NsyPeJUikNIHt5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Step](https://open.spotify.com/album/6lt1qnLYoSpLAytP1VwxB4) | 2:44 | 2024-06-28 |  |
+| [Step](https://open.spotify.com/track/7eZNZXw3NsyPeJUikNIHt5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw) | [Step](https://open.spotify.com/album/6lt1qnLYoSpLAytP1VwxB4) | 2:44 | 2024-06-28 | 2024-08-31 |
 | [Stupid Queue](https://open.spotify.com/track/19JQWCJndFP2Uzko2VoUip) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Stupid Queue](https://open.spotify.com/album/3HgyG6mDPtlRQUvGYaP8AB) | 2:02 | 2024-06-28 | 2024-07-27 |
 | [Switch](https://open.spotify.com/track/0MYG9MNOVhypEQiU8uPx4o) | [Shola Og](https://open.spotify.com/artist/0DKxMWBnECEDsz5WaJJE9o), [Nick Views](https://open.spotify.com/artist/0lkt3iglUSqkqiPxay0QLm) | [Switch](https://open.spotify.com/album/3B33gaiCqwIDWkFLmsg48Z) | 2:10 | 2024-07-26 | 2024-08-02 |
 | [TekTekk](https://open.spotify.com/track/7sPFHI6c95gz62bcVKDqGf) | [Kagedimes](https://open.spotify.com/artist/4easzzLwBxAXIQIZu0u7De), [Caesar Is King](https://open.spotify.com/artist/2ot3lSBWEgWbBnzEZ4Y50M) | [TekTekk](https://open.spotify.com/album/2sNKBekbkDe70e7XIbuuZT) | 2:46 | 2024-06-28 | 2024-07-19 |

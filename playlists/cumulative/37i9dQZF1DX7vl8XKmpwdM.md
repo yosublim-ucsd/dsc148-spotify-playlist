@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Thangalaan
 
-152 songs - 9 hr 7 min
+153 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [French Kuthu](https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 3:50 | 2023-08-07 | 2023-10-07 |
 | [Gaandu Kannamma](https://open.spotify.com/track/7eS07q4Ft2ySmiH7NalStq) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Gaandu Kannamma](https://open.spotify.com/album/2yZXnhQoiiQN6PMNoGcQ4r) | 3:25 | 2021-12-01 | 2023-04-18 |
 | [Ghora Hara \(From "Captain Miller"\)](https://open.spotify.com/track/6oqXn1XMRUhSfMPzG018qe) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Rakendu Mouli](https://open.spotify.com/artist/2wBKMv1ci10ht9OqJzJBg8) | [Ghora Hara \(From "Captain Miller"\)](https://open.spotify.com/album/6FEN1B46d7CuEKZ6Cw7kiH) | 3:21 | 2024-01-02 | 2024-01-25 |
+| [Golden Sparrow \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Golden Sparrow \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/album/09Wjf3AwDGRQrKqddhqHKa) | 3:50 | 2024-08-30 |  |
 | [I'm So Prabalam](https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [T\. M\. S\. Selva Kumar](https://open.spotify.com/artist/4qKUodfmLy0o7XGoL3Jj4I), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 2:46 | 2023-08-07 | 2023-11-07 |
 | [Illuminati](https://open.spotify.com/track/1a1xLj9W8libnO9PvJf6ao) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Aavesham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki) | 3:32 | 2024-07-11 |  |
 | [Inky Pinky Ponky](https://open.spotify.com/track/6o7G7zxI9TkcXVk6fi1yOm) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Sardar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IHFkqhwCsmByxnhs94vAE) | 3:26 | 2022-10-19 | 2022-12-05 |

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: mgk and Jelly Roll
 
-483 songs - 23 hr 57 min
+484 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 | 2022-10-14 | 2023-09-26 |
 | [Short Hills Rd](https://open.spotify.com/track/76CbImfYH2XW0Cqg46NHk7) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Three Year Stint](https://open.spotify.com/album/7ho20BOMXgibthds40B1pn) | 3:14 | 2023-09-22 | 2024-04-19 |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2021-12-10 | 2022-02-26 |
+| [Silence](https://open.spotify.com/track/6FVUNi2FViKoBECQJG1qLJ) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [Silence](https://open.spotify.com/album/5jMXH85Eu6SApd6ohbKs2B) | 2:28 | 2024-08-30 |  |
 | [Slow](https://open.spotify.com/track/6RXYoYRAvIDlAlHwFO2ytj) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Slow](https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT) | 3:08 | 2022-10-28 | 2024-04-23 |
 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 | 2021-12-10 | 2023-03-11 |
 | [Small Town Celebrities](https://open.spotify.com/track/0kSWGhTkRqCEsrmgYpMZBZ) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Small Town Celebrities](https://open.spotify.com/album/7Dy4AHwvi9zSiOYoqOul7Y) | 3:06 | 2021-12-10 | 2022-06-04 |

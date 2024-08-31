@@ -1,13 +1,201 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Mon Rov\u00eea",
-  "num_followers": 803907,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tasha",
+  "num_followers": 804014,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAB6KtaAVGFOggcyMpEy6s2U",
+  "snapshot_id": "ZtFDwAAAAACASi5cb0YMXACRWqgV6STB",
   "tracks": [
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Love's Changing",
+        "url": "https://open.spotify.com/album/3YLGKAVQGU3HoHTTGuAU7a"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "Love's Changing",
+      "url": "https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Live From Fenway Park",
+        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 140327,
+      "name": "Pain Is Cold Water - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Cacophony",
+        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 259273,
+      "name": "last woman on earth",
+      "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Moments Like This",
+        "url": "https://open.spotify.com/album/6ppT0hCGvX2yRy3VfgX6Eq"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 164387,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Came",
+        "url": "https://open.spotify.com/album/32d4a4yiRVtROEntEjmP2I"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 180102,
+      "name": "Came",
+      "url": "https://open.spotify.com/track/5MSOv1qRGVaUMMRCV8jNEL"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Burial At Sea",
+        "url": "https://open.spotify.com/album/4vl9BVCmH8jrSuOmPu1Lq3"
+      },
+      "artists": [
+        {
+          "name": "Tucker Zimmerman",
+          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
+        },
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        },
+        {
+          "name": "Iji",
+          "url": "https://open.spotify.com/artist/577ncuQtxXrM7Xi5itVG35"
+        },
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 241998,
+      "name": "Burial At Sea",
+      "url": "https://open.spotify.com/track/26YYDaw2wc4CGwlWRDzy7a"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Old Life",
+        "url": "https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Old Life",
+      "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Birthday Song",
+        "url": "https://open.spotify.com/album/3ZZlsJFtAzMAZ1xti6HAtB"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 263839,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/72neMcbRmFNHmr97Qz8dOw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Lonely / Sweet Devil",
+        "url": "https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 226091,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/5JwvVtiFZ2c4zCGfxuelDI"
+      },
+      "artists": [
+        {
+          "name": "Ezra Glatt",
+          "url": "https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek"
+        }
+      ],
+      "duration_ms": 170079,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/02nqdg45KBrsi34GdlenLa"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "wishing for you",
+        "url": "https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl"
+      },
+      "artists": [
+        {
+          "name": "deeper sleeper",
+          "url": "https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "wishing for you",
+      "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -2311,190 +2499,6 @@
       "duration_ms": 147874,
       "name": "Don't Cry (It's Just Goodnight)",
       "url": "https://open.spotify.com/track/1eEwPY6dleRKadBmUcZ9wX"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Foreverish",
-        "url": "https://open.spotify.com/album/3zbD2yPc5wZxIJn3nJzLPY"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 105496,
-      "name": "Foreverish",
-      "url": "https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/4JfkItn7oJOSBheFuysDnq"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Don't Fail Me Now",
-      "url": "https://open.spotify.com/track/6kVZLcEMeDhRqt6LHrGPd9"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Tear It All Apart",
-        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 186342,
-      "name": "Tear It All Apart",
-      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Maine",
-        "url": "https://open.spotify.com/album/6NTY4wxzcr1II9MWR6V8oh"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 227136,
-      "name": "Piece of You",
-      "url": "https://open.spotify.com/track/5A451NsTJQpBfwttOLCGY4"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Wildewoman (The New Recordings) [Deluxe]",
-        "url": "https://open.spotify.com/album/7IFZ1uR0Hs2h2W0arSqeHC"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Housewarming - The New Recording",
-      "url": "https://open.spotify.com/track/5cLSmsKzxKhKwqkT9V3cat"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "I Went Dancing With My Sister - Bonus Track",
-      "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/1L1EF7JK2LXXC6HVtQVtUh"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "We Get By",
-      "url": "https://open.spotify.com/track/4AdiTCMYdGx52WZOh3by6P"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/6YnO3WHIIFG4y6SgFqf9CW"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Baby, Baby",
-        "url": "https://open.spotify.com/album/6m6eOZ7x2otoKK3DaYEzea"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        },
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 181256,
-      "name": "Baby, Baby",
-      "url": "https://open.spotify.com/track/4UGiaW74iNHBqtkkefW5Ee"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Oh My My",
-        "url": "https://open.spotify.com/album/4otP7UmIFfjhtCl1hSuJda"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "Oh My My",
-      "url": "https://open.spotify.com/track/6pCSZtcwnhYTEayZELCJl3"
     }
   ],
   "unique_name": "Fresh Folk",

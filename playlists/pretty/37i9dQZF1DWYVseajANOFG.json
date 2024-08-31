@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 119170,
+  "num_followers": 119246,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAADUs2pSBzFJLZb7899M3JZC",
+  "snapshot_id": "ZtFDwAAAAADueQnSghwT43zIUoIMR27o",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -67,22 +67,6 @@
       "duration_ms": 202546,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/4csRjxs5QE4MOQaugsyPVp"
-      },
-      "artists": [
-        {
-          "name": "Makano",
-          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/6FDMu3kDZPIhiUz2srZvuU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -173,26 +157,6 @@
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Money Making Guy",
-        "url": "https://open.spotify.com/album/4g87H5cTTkbKiIFri7nrln"
-      },
-      "artists": [
-        {
-          "name": "Danger Man",
-          "url": "https://open.spotify.com/artist/2sJrkdfEkurbjXycyjuybI"
-        },
-        {
-          "name": "Japanese",
-          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
-        }
-      ],
-      "duration_ms": 103096,
-      "name": "Money Making Guy",
-      "url": "https://open.spotify.com/track/2Se1amw8WTAeORP5NnuSKC"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "BESITOS",
@@ -231,6 +195,26 @@
       "duration_ms": 171812,
       "name": "Tu Chacal",
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "70 Veces 7",
+        "url": "https://open.spotify.com/album/3uDPzIN71OS65N9iTkR5rZ"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "Jota Eme",
+          "url": "https://open.spotify.com/artist/39paUtdj3SP8ZlTu56wb1w"
+        }
+      ],
+      "duration_ms": 195551,
+      "name": "70 Veces 7",
+      "url": "https://open.spotify.com/track/08HHfUft0oD25biPaSRJQJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -435,6 +419,30 @@
       "duration_ms": 160384,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Girasoles",
+        "url": "https://open.spotify.com/album/2KX2f1NYIUAWJ6jpzZP6ed"
+      },
+      "artists": [
+        {
+          "name": "Heze Money",
+          "url": "https://open.spotify.com/artist/16cBS4I1sU7c0DgApi7R4W"
+        },
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/04SfRkZuVH053pkLLcP64q"
+        },
+        {
+          "name": "Ochy",
+          "url": "https://open.spotify.com/artist/1Ca0XeiVvKBPIhhWNq1Tp7"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Girasoles",
+      "url": "https://open.spotify.com/track/5tyYFPkRQSPUDCnFp85GkN"
     },
     {
       "added_at": "2024-02-02 05:00:00",

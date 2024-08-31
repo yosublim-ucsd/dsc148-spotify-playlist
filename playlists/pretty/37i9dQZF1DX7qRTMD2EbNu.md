@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,665 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,670 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 11 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
 | 12 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 |
 | 13 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 |
-| 14 | [Fire On The Mountain \(FOTM\)](https://open.spotify.com/track/6euaDOrmLdSMkMACb8aP3J) | [VONDEE](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [Von O'clock](https://open.spotify.com/album/1nrHtu2oirpP4R7InMzkkM) | 2:41 |
+| 14 | [Fire On The Mountain \(FOTM\)](https://open.spotify.com/track/6euaDOrmLdSMkMACb8aP3J) | [VONDEE](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [Von O’clock \(FOTM/Company\)](https://open.spotify.com/album/1nrHtu2oirpP4R7InMzkkM) | 2:41 |
 | 15 | [On God](https://open.spotify.com/track/6fOO1B6FqtPa0HON1uQTyC) | [Eddie Khae](https://open.spotify.com/artist/2pGCVrouJpjRXXfph7O2Lf), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [On God](https://open.spotify.com/album/4G7ZD0J3rDL6MH6PIzYJHq) | 3:03 |
 | 16 | [Tuxedo Music](https://open.spotify.com/track/2wTLsbplu6Pabg5Dg5rWB9) | [KevTheTopic](https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Here Goes Nothing](https://open.spotify.com/album/3JkRHbQXcn6YSGqNvhBPLR) | 3:25 |
 | 17 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 |

@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 197049,
+  "num_followers": 197076,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "They / Them",
         "url": "https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 260000,
       "name": "Chickens",
       "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Always Already",
-        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
-      },
-      "artists": [
-        {
-          "name": "La Luna",
-          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
-        }
-      ],
-      "duration_ms": 113413,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 144170,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Always Already",
+        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+      },
+      "artists": [
+        {
+          "name": "La Luna",
+          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+        }
+      ],
+      "duration_ms": 113413,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fake Great Britain",
-        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
-      },
-      "artists": [
-        {
-          "name": "pink suits",
-          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
-        }
-      ],
-      "duration_ms": 143568,
-      "name": "Fake Great Britain",
-      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Earth Dweller",
         "url": "https://open.spotify.com/album/5jQdPuwpQCFCO0fltbBB63"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 229389,
       "name": "Colors",
       "url": "https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Fake Great Britain",
+        "url": "https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN"
+      },
+      "artists": [
+        {
+          "name": "pink suits",
+          "url": "https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL"
+        }
+      ],
+      "duration_ms": 143568,
+      "name": "Fake Great Britain",
+      "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fences",
-        "url": "https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Steady Damage",
         "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 187933,
       "name": "Damage",
       "url": "https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Personal Best",
+        "url": "https://open.spotify.com/album/2CcIyIyNax2Zim1Ii5pHRK"
+      },
+      "artists": [
+        {
+          "name": "Team Dresch",
+          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Fagetarian and Dyke",
+      "url": "https://open.spotify.com/track/2942YKHIqF1XHp7fvp1iEN"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 151473,
       "name": "Things Still Left to Say",
       "url": "https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Impeach My Bush",
-        "url": "https://open.spotify.com/album/7xCGkKOjMAcKqUE5ggdntD"
-      },
-      "artists": [
-        {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Boys Wanna Be Her",
-      "url": "https://open.spotify.com/track/47PLgd0njLIMcyLuQOOlEn"
     }
   ],
   "unique_name": "Queercore",
