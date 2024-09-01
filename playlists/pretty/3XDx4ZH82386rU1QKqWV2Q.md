@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,068,825 likes - 127 songs - 5 hr 29 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,068,678 likes - 127 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 50 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 |
 | 51 | [Sticks & Stones](https://open.spotify.com/track/3ufCfJxLE9UIQNY9wN50Nh) | [dwine](https://open.spotify.com/artist/3I5VdJCTI27Qv72r9SkVx0) | [Dream Club](https://open.spotify.com/album/1JvzWEBHMz1fbovwntcHsV) | 2:53 |
 | 52 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 |
-| 53 | [tucked](https://open.spotify.com/track/6vmKKmztPG8fsGnDH2wDHd) | [月月](https://open.spotify.com/artist/4o2HNIHX6HgVWiqmvm5WYB) | [tucked](https://open.spotify.com/album/5TYp9LGzkdFfCcGYVj6nGl) | 1:50 |
+| 53 | [tucked](https://open.spotify.com/track/6vmKKmztPG8fsGnDH2wDHd) | [月月](https://open.spotify.com/artist/1pnCkB1hBxhnyVdyZ1FjuZ) | [tucked](https://open.spotify.com/album/5TYp9LGzkdFfCcGYVj6nGl) | 1:50 |
 | 54 | [in my dreams](https://open.spotify.com/track/6XtTHfuTaOgCvZUmnNkczE) | [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK), [pale fortress](https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS) | [in my dreams](https://open.spotify.com/album/4aJRiQUFVaPiiBgVlul1SF) | 2:12 |
 | 55 | [unhinged](https://open.spotify.com/track/6zBGVU0ujMxmR9Yh0UPHkt) | [MEMBER](https://open.spotify.com/artist/0ifDzAhf5knfZyaUiG4Deu) | [PHANTXM](https://open.spotify.com/album/3EDDKjhTkIRDks9bTRRIkm) | 1:17 |
 | 56 | [Obscene, Pt\. 2](https://open.spotify.com/track/3hLSVf82tZCwEwf2GADRn3) | [Millennium Resorts](https://open.spotify.com/artist/7pc3luC7xV3uVTIFjPqcYX) | [Obscene, Pt\. 2](https://open.spotify.com/album/1ei0dc9pSBW9yc9KIQeeKp) | 4:00 |

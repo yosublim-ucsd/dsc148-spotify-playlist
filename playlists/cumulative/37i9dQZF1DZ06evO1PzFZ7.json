@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
+  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
   "name": "This Is \u00c1ngela Aguilar",
   "tracks": [
+    {
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
+    },
     {
       "album": {
         "name": "Af\u00e9rrate a la Vida",

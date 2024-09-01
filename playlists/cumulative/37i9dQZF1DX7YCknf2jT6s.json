@@ -12535,32 +12535,6 @@
     },
     {
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/5PZxy3nda4ovq2PSIghScn"
-      },
-      "artists": [
-        {
-          "name": "Steven Feifke",
-          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
-        },
-        {
-          "name": "Bryan Carter",
-          "url": "https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ"
-        },
-        {
-          "name": "Dan Chmielinski",
-          "url": "https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD"
-        }
-      ],
-      "date_added": "2024-08-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 293440,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/5a46JMV8g83BbMwkPenrBN"
-    },
-    {
-      "album": {
         "name": "Her Thoughts",
         "url": "https://open.spotify.com/album/6O0Yg7vMVL9txMkxXGwjtD"
       },
@@ -12784,6 +12758,32 @@
       "duration_ms": 371883,
       "name": "I Was an American Boy",
       "url": "https://open.spotify.com/track/111yyU1pjWcR40cMMaRxY4"
+    },
+    {
+      "album": {
+        "name": "I've Got Rhythm",
+        "url": "https://open.spotify.com/album/5PZxy3nda4ovq2PSIghScn"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        },
+        {
+          "name": "Bryan Carter",
+          "url": "https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ"
+        },
+        {
+          "name": "Dan Chmielinski",
+          "url": "https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293440,
+      "name": "I've Got Rhythm",
+      "url": "https://open.spotify.com/track/5a46JMV8g83BbMwkPenrBN"
     },
     {
       "album": {

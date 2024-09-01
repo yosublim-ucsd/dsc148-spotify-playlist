@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 54 min
+58 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Do You Wanna Be Loved Like This?](https://open.spotify.com/track/4KZl63jx8jkPNqfKcqkk5L) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Do You Wanna Be Loved Like This?](https://open.spotify.com/album/1zqTFiY23qkgPkDJDhw1on) | 2:42 | 2024-08-24 |  |
 | [Do You Wanna Be Loved Like This? \- Initial Talk Remix](https://open.spotify.com/track/6uSMp0R1RAOnXLgV9HvU7B) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Do You Wanna Be Loved Like This? \(Initial Talk Remix\)](https://open.spotify.com/album/22Na21M5B3yx0BNsJFFJgM) | 3:20 | 2024-05-14 | 2024-08-24 |
 | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Don't Wreck My Holiday \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN) | 2:53 | 2024-05-14 |  |
+| [Favourite Things](https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Favourite Things](https://open.spotify.com/album/0mLMw6PJM6km6G10Jv5pZ0) | 3:01 | 2024-09-01 |  |
 | [Feelin' U](https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Feelin' U](https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn) | 2:17 | 2024-05-14 |  |
 | [Feels So Good \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/6oLwA7urPX5GGRXX59TYZ9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 2:25 | 2024-05-14 |  |
 | [For Love](https://open.spotify.com/track/5AuS594msbacnVERxzdk7J) | [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [For Love](https://open.spotify.com/album/63tuZdj8UFflEROfuqibSM) | 3:41 | 2024-05-14 |  |

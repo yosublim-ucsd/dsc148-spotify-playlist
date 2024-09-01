@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-19",
-  "description": "Some of the biggest french touch classics! Cover: Air",
+  "description": "Some of the biggest french touch classics! Cover: Daft Punk",
   "name": "La French Touch",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 231133,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3JIrefSf1HEDk4dccWWHQ3"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 231912,
       "name": "Am I Wrong - Original Version",
       "url": "https://open.spotify.com/track/0pVS6ymfHWKupp1wYcsNaZ"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 352360,
       "name": "Amour",
       "url": "https://open.spotify.com/track/4ynBONkE7gUFvWJQyvMSyF"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 191612,
       "name": "DVNO - Radio Edit",
       "url": "https://open.spotify.com/track/1wVBZxnCo8ZkGaFqPJEmz2"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 274466,
       "name": "Look",
       "url": "https://open.spotify.com/track/6WieZpY4oFb5oZNZQacgxb"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 211500,
       "name": "Playground Love",
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
@@ -1924,6 +1924,28 @@
       "duration_ms": 299946,
       "name": "Walkman",
       "url": "https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv"
+    },
+    {
+      "album": {
+        "name": "We Are Your Friends",
+        "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Simian",
+          "url": "https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262773,
+      "name": "We Are Your Friends - Justice Vs Simian",
+      "url": "https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8"
     },
     {
       "album": {

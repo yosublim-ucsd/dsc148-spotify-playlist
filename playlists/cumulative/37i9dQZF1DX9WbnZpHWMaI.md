@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the centre of innovation in electronic music\. Cover: Kaleena Zanders
+> Celebrating women at the centre of innovation in electronic music\. Cover: LP Giobbi
 
-421 songs - 1 day 2 hr 53 min
+424 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Baby Dragon](https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Baby Dragon](https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY) | 3:27 | 2024-08-09 |  |
 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 | 2023-03-07 | 2024-03-02 |
 | [Back](https://open.spotify.com/track/7LlwG3CbBVsSRUkQ3VP1fc) | [Molly Otto](https://open.spotify.com/artist/64Cs2xNbEo5QWaWmBJsv1Q) | [Snowball](https://open.spotify.com/album/1NIWGPldRsIiRaYAQug9py) | 2:50 | 2024-06-24 |  |
-| [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 |  |
+| [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 | 2024-09-01 |
 | [Bad Dream](https://open.spotify.com/track/6UTQKc4s4UVSiEVHSdgRhB) | [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Bad Dream](https://open.spotify.com/album/5zfJPZUTL7A9B5tQTuT3Zs) | 3:42 | 2024-04-19 | 2024-06-29 |
 | [Beside You](https://open.spotify.com/track/6GG169QHGI51ss9E87sDcx) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Beside You](https://open.spotify.com/album/4zSv365VBnELylDuni0eTa) | 3:44 | 2024-03-08 | 2024-04-19 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-03 |  |
@@ -111,6 +111,7 @@
 | [Faded](https://open.spotify.com/track/1MfJtq7aSFeEGGYbOPEcDu) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Faded](https://open.spotify.com/album/3Jfd8GnovPnM0b0LLt34DM) | 3:42 | 2024-05-03 | 2024-07-13 |
 | [Fall Again](https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Fall Again](https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0) | 3:26 | 2024-03-01 | 2024-04-19 |
 | [Fall Into Place](https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Fall Into Place](https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9) | 3:32 | 2023-03-07 | 2024-03-02 |
+| [Favourite Things](https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Favourite Things](https://open.spotify.com/album/0mLMw6PJM6km6G10Jv5pZ0) | 3:01 | 2024-08-31 |  |
 | [Feel](https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/4dqk5qdk4iH4uI59t2uCZH) | 4:37 | 2022-03-08 | 2024-03-02 |
 | [Feel](https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 4:37 | 2021-03-01 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/1mLBoCFmY9LPV8SlHzzCbV) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Feel](https://open.spotify.com/album/6Qoue7wn6cvMAanDsVRKID) | 4:37 | 2022-03-08 | 2022-11-13 |
@@ -241,8 +242,8 @@
 | [Look At Me](https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Look At Me](https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU) | 2:27 | 2024-05-24 | 2024-07-13 |
 | [Look At My Body Pt\. II \(Feat\. Shygirl\) \(INJI's Version\)](https://open.spotify.com/track/48BrwE2MttRwOTKL2Ph2Pe) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Avedon](https://open.spotify.com/artist/0wrXBaqXLjMAraipqAbPVY) | [Look At My Body Pt\. II \(Feat\. Shygirl\) \(INJI's Version\)](https://open.spotify.com/album/0XipBibG5KNqItsp4Q7sSA) | 2:57 | 2024-06-18 | 2024-08-17 |
 | [Look At You](https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Look At You](https://open.spotify.com/album/2W5TS5U8FLi9O46FBTAzIn) | 3:23 | 2024-04-19 | 2024-08-17 |
-| [Look Inside](https://open.spotify.com/track/2pku66IzwrTpu5MBIw2qUS) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [leah weaver](https://open.spotify.com/artist/0S2MrHwKRIcy0VKekvmumb) | [The Code of Dreamz](https://open.spotify.com/album/7CY0Rkh9lUuJRmwMdQ4NNj) | 2:37 | 2024-06-07 |  |
-| [LOOKING FOR JOY](https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [LOOKING FOR JOY](https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV) | 2:48 | 2024-06-18 |  |
+| [Look Inside](https://open.spotify.com/track/2pku66IzwrTpu5MBIw2qUS) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [leah weaver](https://open.spotify.com/artist/0S2MrHwKRIcy0VKekvmumb) | [The Code of Dreamz](https://open.spotify.com/album/7CY0Rkh9lUuJRmwMdQ4NNj) | 2:37 | 2024-06-07 | 2024-09-01 |
+| [LOOKING FOR JOY](https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [LOOKING FOR JOY](https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV) | 2:48 | 2024-06-18 | 2024-09-01 |
 | [Lose My Mind](https://open.spotify.com/track/1lGEcInvPd6WnV6q6MScSu) | [mini bear](https://open.spotify.com/artist/0mpWTPgmk0s1ZZ7PbkYunA) | [Lose My Mind](https://open.spotify.com/album/7jc6pO43Vz9AsDo8ZLEopu) | 4:31 | 2024-03-01 | 2024-03-30 |
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2024-03-01 | 2024-05-11 |
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-12 |  |
@@ -377,6 +378,7 @@
 | [The Game](https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [The Game](https://open.spotify.com/album/4iVnaLmLr65RfBmzommKb1) | 3:09 | 2024-03-22 | 2024-06-08 |
 | [The Life](https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [The Life](https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk) | 2:48 | 2024-07-05 |  |
 | [The Oracle](https://open.spotify.com/track/2QsY0f0WhXwZJNnZpVDArN) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Prince Of Flowers EP](https://open.spotify.com/album/7tAFeC1V1AlOdE2OUYhPGd) | 4:35 | 2023-03-07 | 2024-03-02 |
+| [The Sky is Blue](https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Sky is Blue](https://open.spotify.com/album/2PGkJ5hUGcqI6VWs4YOkdW) | 3:45 | 2024-08-31 |  |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2022-03-08 | 2022-07-29 |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/39vC0mokdXbWbdzzUymp3x) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/2ruYajRlSa2ODHn7mxxNRk) | 4:30 | 2022-03-08 | 2023-03-08 |
 | [there she goes!](https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [there she goes!](https://open.spotify.com/album/1Tecp6YGtuur5HZ0317Er2) | 1:57 | 2024-04-26 | 2024-07-13 |
@@ -402,6 +404,7 @@
 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 | 2024-03-01 | 2024-04-19 |
 | [Unfaithful](https://open.spotify.com/track/7IJozY3Zc4qPGvCg3Sfbs4) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Unfaithful](https://open.spotify.com/album/6G2N95ktK6lASJVSWvucIX) | 3:27 | 2024-03-01 | 2024-04-19 |
 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 | 2024-03-15 | 2024-04-27 |
+| [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 | 2024-08-31 |  |
 | [Up is Down](https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Up is Down](https://open.spotify.com/album/6oEri5AEs70JB2Gf4IsALb) | 3:25 | 2024-05-03 | 2024-08-10 |
 | [Up2U](https://open.spotify.com/track/3qWOOjBP5l8Ape2h0MQH5Z) | [Anna Prior](https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP) | [Up2U](https://open.spotify.com/album/21mV7OfXhLECU1XPkBFuRE) | 4:30 | 2024-05-10 | 2024-07-27 |
 | [Usion](https://open.spotify.com/track/0mnEmI6v3cK99DnCoBJKO8) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [MotherEarth](https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x) | [Usion](https://open.spotify.com/album/1ikjdjJyPEhjPWYbg13jVy) | 3:25 | 2024-04-19 | 2024-08-17 |

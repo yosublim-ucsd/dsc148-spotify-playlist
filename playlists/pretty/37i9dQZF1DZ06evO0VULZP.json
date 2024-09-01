@@ -1,12 +1,12 @@
 {
-  "description": "This is Descendents. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 18975,
+  "description": "This is Descendents. The essential tracks, all in one playlist.",
+  "num_followers": 18985,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAAD8lV9bqNy39z/itiEk7M1H",
+  "snapshot_id": "ZtELgAAAAAANQ7xLeQP0kRxbeijCMb+T",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 111533,
-      "name": "She Don't Care",
-      "url": "https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa"
+      "duration_ms": 142843,
+      "name": "Nightage",
+      "url": "https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9th & Walnut",
-        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 142843,
-      "name": "Nightage",
-      "url": "https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7"
+      "duration_ms": 111533,
+      "name": "She Don't Care",
+      "url": "https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "Mass Nerder",
-      "url": "https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 56958,
       "name": "Like the Way I Know",
       "url": "https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "Mass Nerder",
+      "url": "https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Merican",
-        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Here with Me",
-      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 56001,
       "name": "Baby Doncha Know",
       "url": "https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Merican",
+        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Here with Me",
+      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 61719,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
     },
     {
       "added_at": null,

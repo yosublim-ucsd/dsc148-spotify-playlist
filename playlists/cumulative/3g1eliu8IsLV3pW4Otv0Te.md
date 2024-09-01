@@ -4,7 +4,7 @@
 
 > 
 
-221 songs - 15 hr 3 min
+223 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bring It Back](https://open.spotify.com/track/1n93IBxGlmQ53wkcmTDpIa) | [Two Thirds](https://open.spotify.com/artist/5EuLaMwYamree7kzPvrPds) | [Monstercat \- Best of DnB/Drumstep, Vol\. 1.](https://open.spotify.com/album/2XV1AsAcqOChVB8Hsevx3H) | 5:18 | 2016-06-27 |  |
 | [Broken Love](https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC) | [Quarantino](https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e) | [Broken Love](https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx) | 2:36 | 2024-06-18 |  |
 | [Bullet Train \(feat\. Joni Fatora\)](https://open.spotify.com/track/6lbhkPbkKj6jnPTt1FelVo) | [Stephen Swartz](https://open.spotify.com/artist/2RMgYVDRYOGHlqqcushWNU) | [Bullet Train \(feat\. Joni Fatora\)](https://open.spotify.com/album/1Yd1ARdvNdMUo6KnuN6q6w) | 4:05 | 2016-05-22 |  |
+| [Burn This House \(feat\. Little Boots\)](https://open.spotify.com/track/5FE8EbAE3ahtDj2rwnUvHm) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House \(feat\. Little Boots\)](https://open.spotify.com/album/6aZIlscl1JP9UA30f6aknv) | 3:35 | 2024-08-31 |  |
 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 | 2024-07-17 |  |
 | [Calling Out \(feat\. KG & Skyelle\)](https://open.spotify.com/track/6EOIhxrgVQKpHFYpTheSWd) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [KG](https://open.spotify.com/artist/2y0QGjnlzB39Nf2duLQoxk), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Calling Out \(feat\. KG & Skyelle\)](https://open.spotify.com/album/5fbMm1EbdfTXjj81SDuZ6H) | 5:35 | 2016-07-14 |  |
 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 | 2019-09-17 |  |
@@ -148,6 +149,7 @@
 | [Pacifica \- Kito & Reija Remix](https://open.spotify.com/track/0sVn1pc5KDCgBBnm4jHl6I) | [Spor](https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM) | [Pacifica \- EP](https://open.spotify.com/album/5709RpNkA5IjA3E9H3sQzu) | 4:48 | 2016-10-04 |  |
 | [Paralyzed](https://open.spotify.com/track/14png6AXFQpm57JhqgmjWy) | [DM Galaxy](https://open.spotify.com/artist/3uKSQRJFp1pnRWT95Yso12), [Tyler Fiore](https://open.spotify.com/artist/2qz8iDFpz4HGq8WfzjCaEz) | [Paralyzed](https://open.spotify.com/album/6bNnV2W3BH5FqJrPQ2CsK2) | 3:49 | 2016-08-22 |  |
 | [Parasite](https://open.spotify.com/track/7InqkJxeh2IuGREHrtUplt) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [Parasite](https://open.spotify.com/album/6BSdfYlu24NUHlJWaSleI8) | 5:12 | 2024-07-29 |  |
+| [Pegasus](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Pegasus](https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e) | 3:00 | 2024-08-31 |  |
 | [Pieces](https://open.spotify.com/track/6ADa6XPdu3ayQ0qbmdRLq7) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV) | 9:23 | 2021-07-10 |  |
 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/7FOJvA3PxiIU0DN3JjQ7jT) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner](https://open.spotify.com/album/1NfrmcXk8xNennyxQ57JcW) | 4:01 | 2019-01-24 |  |
 | [Pressure](https://open.spotify.com/track/0rx151vVaaAAFNgrB53Ps0) | [Draper](https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Pressure](https://open.spotify.com/album/5bovUN6CrOefzKsGQzSL6F) | 5:18 | 2020-02-12 |  |

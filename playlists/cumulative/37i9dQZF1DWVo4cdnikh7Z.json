@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 218666,
       "name": "Archana (From \"Aho Vikramaarka\") (Tamil)",
       "url": "https://open.spotify.com/track/1vlofzi8r6jlicHLUGGICX"
@@ -4360,7 +4360,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 247126,
       "name": "Big Bull (From \"Double ISMART\")(Tamil)",
       "url": "https://open.spotify.com/track/2f3hGnIT0XLqSWAhLIPtfH"
@@ -6031,6 +6031,36 @@
     },
     {
       "album": {
+        "name": "Meiyazhagan - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1ZRUTCTotW0Poch6GEX1z2"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "VM Mahalingam",
+          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
+        },
+        {
+          "name": "Senthil Ganesh",
+          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Delta Kalyanam",
+      "url": "https://open.spotify.com/track/12cyRwSlwSUWtrdLN23kIs"
+    },
+    {
+      "album": {
         "name": "Deva Deva [From \"Brahmastra (Tamil)\"]",
         "url": "https://open.spotify.com/album/0DoFa2cichs3C0VIkxvpMp"
       },
@@ -7436,7 +7466,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 216923,
       "name": "Enathuyire Neeyadi (From \"Adharma Kadhaigal\")",
       "url": "https://open.spotify.com/track/6tQgitSvleYpODUcsi2tN2"
@@ -12279,6 +12309,28 @@
     },
     {
       "album": {
+        "name": "Virundhu - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/2a9XGTIRIiI7TdNVyXM7nk"
+      },
+      "artists": [
+        {
+          "name": "Ratheesh Vega",
+          "url": "https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl"
+        },
+        {
+          "name": "Sharanya Srinivas",
+          "url": "https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257428,
+      "name": "Kana Kana Vizhiyoram",
+      "url": "https://open.spotify.com/track/6whEOeAyjktUao5qq8yurI"
+    },
+    {
+      "album": {
         "name": "Rudhran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1FgqlH8kFT2s9UV7UHGvUe"
       },
@@ -12920,6 +12972,32 @@
       "duration_ms": 185357,
       "name": "Kannamma (From \"Siren\")",
       "url": "https://open.spotify.com/track/3mxykGF4QyhpdXvdozzVUL"
+    },
+    {
+      "album": {
+        "name": "Kannasara Aaraaro - From \"Malai\"",
+        "url": "https://open.spotify.com/album/7lflIZnOcNjQQoQ7LoX90m"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "Kannasara Aaraaro - From \"Malai\"",
+      "url": "https://open.spotify.com/track/4ikwUgpuRiFnVfZ6kx84Wt"
     },
     {
       "album": {
@@ -14202,6 +14280,32 @@
       "duration_ms": 352869,
       "name": "Kottravai Veriyattam (From \"Kottravai\")",
       "url": "https://open.spotify.com/track/2a6jgFP7LaNni7Z1ayo0M7"
+    },
+    {
+      "album": {
+        "name": "Virundhu - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/2a9XGTIRIiI7TdNVyXM7nk"
+      },
+      "artists": [
+        {
+          "name": "Ratheesh Vega",
+          "url": "https://open.spotify.com/artist/0t1SWo8gEEppMdY6IEzRsl"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "Anjali Warrier",
+          "url": "https://open.spotify.com/artist/7IWpnjZis5s9bdAs2iQhJ2"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223339,
+      "name": "Kottu Kottu Getti Melam",
+      "url": "https://open.spotify.com/track/6QWojLE2NbT73BvXdGTdhY"
     },
     {
       "album": {
@@ -16799,6 +16903,40 @@
     },
     {
       "album": {
+        "name": "Matta (From \"The Greatest Of All Time\")",
+        "url": "https://open.spotify.com/album/6Iajx5eba54JLTDf97Me8p"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Velu",
+          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
+        },
+        {
+          "name": "Sam",
+          "url": "https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05"
+        },
+        {
+          "name": "Narayanan Ravishankar",
+          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212090,
+      "name": "Matta (From \"The Greatest Of All Time\")",
+      "url": "https://open.spotify.com/track/0xN4nwgOWg59k0t94CJAj4"
+    },
+    {
+      "album": {
         "name": "Maya Maya (From \"Irugapatru\")",
         "url": "https://open.spotify.com/album/2qMgNFmDq9AnqS4gOFuCFX"
       },
@@ -19160,7 +19298,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 164949,
       "name": "Natpukkage - From \"Nanban Oruvan Vantha Piragu\"",
       "url": "https://open.spotify.com/track/69KeyAPeOU2gtmm0e7RieF"
@@ -19992,7 +20130,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 283825,
       "name": "Nenjukulla (From \"QG, Pt. 1\")",
       "url": "https://open.spotify.com/track/6UZ8iK7EvvaIsOpXwh3CYr"
@@ -20432,7 +20570,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 269210,
       "name": "Nodigaley - From \"Demonte Colony 2\"",
       "url": "https://open.spotify.com/track/12QC9eR1wv1k0xHnSye62F"
@@ -23872,6 +24010,36 @@
       "duration_ms": 232447,
       "name": "Poraare Enna Vittu",
       "url": "https://open.spotify.com/track/28zbdXi2kmdtwM2DLeCqsN"
+    },
+    {
+      "album": {
+        "name": "Meiyazhagan - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1ZRUTCTotW0Poch6GEX1z2"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Poraen Naa Poraen",
+      "url": "https://open.spotify.com/track/7yC1NItUuRiNeffxk21Ldb"
     },
     {
       "album": {
@@ -28056,7 +28224,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 249677,
       "name": "Thai Thai - Rasavathi Fusion (From \"Rasavathi\")",
       "url": "https://open.spotify.com/track/7HE2qxaYXEBmuW6FBq5uGZ"
@@ -33365,6 +33533,36 @@
     },
     {
       "album": {
+        "name": "Meiyazhagan - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1ZRUTCTotW0Poch6GEX1z2"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "VM Mahalingam",
+          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
+        },
+        {
+          "name": "Aruna",
+          "url": "https://open.spotify.com/artist/5VFJWwWCZSBbImRmcBEsBS"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256140,
+      "name": "Veri",
+      "url": "https://open.spotify.com/track/1Fb8ogUu3I6EGQwvDvjfSu"
+    },
+    {
+      "album": {
         "name": "Vethala (From \"Romeo\")",
         "url": "https://open.spotify.com/album/0JVli1XBvgIeVpHAUoq1Oo"
       },
@@ -35092,7 +35290,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 339697,
       "name": "Zaroorat Se Zyada - Female Version - Tamil - From \"Vedaa - Tamil\"",
       "url": "https://open.spotify.com/track/5YfBbXE6lfU7QZBumCqQgG"

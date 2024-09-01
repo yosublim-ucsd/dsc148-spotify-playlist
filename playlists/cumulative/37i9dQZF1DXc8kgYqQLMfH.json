@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 101759,
       "name": "Blossom's Day",
       "url": "https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 101827,
       "name": "break of day",
       "url": "https://open.spotify.com/track/2uSuyCQook85WkdFu9Ymba"
@@ -17885,6 +17885,24 @@
     },
     {
       "album": {
+        "name": "snoozed",
+        "url": "https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170376,
+      "name": "snoozed",
+      "url": "https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn"
+    },
+    {
+      "album": {
         "name": "Snoozy Stardust",
         "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
       },
@@ -21876,6 +21894,28 @@
       "duration_ms": 138000,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/7EGx2Gnqx0LG0KsG6dXydp"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lo-Fi",
+          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Jane's Addiction. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 42123,
+  "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
+  "num_followers": 42136,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAAAXJr7FJLbpbZBoMWrhH/KH",
+  "snapshot_id": "ZtELgAAAAAC9AYZxqxiMz6UWXbFQzRRG",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 212024,
-      "name": "My Time",
-      "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
+      "duration_ms": 244666,
+      "name": "Whores",
+      "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Whores",
-      "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
+      "duration_ms": 212024,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu"
     },
     {
       "added_at": null,

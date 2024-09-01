@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113374,
+  "num_followers": 113393,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "aliens in paris",
-        "url": "https://open.spotify.com/album/0wKsf2309U7juUAGrB9Ac4"
+        "name": "absolute gewinner",
+        "url": "https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4"
       },
       "artists": [
         {
           "name": "Tiavo",
           "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
-        },
-        {
-          "name": "nand",
-          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
         }
       ],
-      "duration_ms": 213750,
-      "name": "aliens in paris",
-      "url": "https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF"
+      "duration_ms": 141000,
+      "name": "absolute gewinner",
+      "url": "https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -535,22 +531,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Marmelade Und Himbeereis",
-        "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
-      },
-      "artists": [
-        {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Marmelade Und Himbeereis",
-      "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Leere Flaschen",
         "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
       },
@@ -563,6 +543,22 @@
       "duration_ms": 173090,
       "name": "Leere Flaschen",
       "url": "https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Marmelade Und Himbeereis",
+        "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Marmelade Und Himbeereis",
+      "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -599,22 +595,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Das Neue Normal",
-        "url": "https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC"
-      },
-      "artists": [
-        {
-          "name": "ok.danke.tsch\u00fcss",
-          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "Das Neue Normal",
-      "url": "https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Achtung Fragile",
         "url": "https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9"
       },
@@ -631,18 +611,54 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "absolute gewinner",
-        "url": "https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4"
+        "name": "Das Neue Normal",
+        "url": "https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC"
+      },
+      "artists": [
+        {
+          "name": "ok.danke.tsch\u00fcss",
+          "url": "https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Das Neue Normal",
+      "url": "https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "aliens in paris",
+        "url": "https://open.spotify.com/album/0wKsf2309U7juUAGrB9Ac4"
       },
       "artists": [
         {
           "name": "Tiavo",
           "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        },
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
         }
       ],
-      "duration_ms": 141000,
-      "name": "absolute gewinner",
-      "url": "https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45"
+      "duration_ms": 213750,
+      "name": "aliens in paris",
+      "url": "https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "zwei bier (la la la)",
+        "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "zwei bier (la la la)",
+      "url": "https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 166393,
       "name": "Lied vom donnernden Leben",
       "url": "https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "zwei bier (la la la)",
-        "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
-      },
-      "artists": [
-        {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "zwei bier (la la la)",
-      "url": "https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Skandal im Patriarchat",
+        "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
+      },
+      "artists": [
+        {
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
+        }
+      ],
+      "duration_ms": 202308,
+      "name": "Skandal im Patriarchat",
+      "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Mensch am Mond",
         "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 224414,
       "name": "Santorin",
       "url": "https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Skandal im Patriarchat",
-        "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
-      },
-      "artists": [
-        {
-          "name": "PAULINKO",
-          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
-        }
-      ],
-      "duration_ms": 202308,
-      "name": "Skandal im Patriarchat",
-      "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
     },
     {
       "added_at": "2024-08-29 22:00:00",

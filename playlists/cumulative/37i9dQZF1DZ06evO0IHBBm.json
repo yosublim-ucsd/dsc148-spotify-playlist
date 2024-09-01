@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Damares. The essential tracks, all in one playlist.",
   "name": "This Is Damares",
   "tracks": [
     {
@@ -1084,6 +1084,10 @@
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
       "date_added": "2023-07-09",

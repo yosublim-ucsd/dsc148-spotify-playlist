@@ -399,6 +399,40 @@
     },
     {
       "album": {
+        "name": "Astro Rei",
+        "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
+      },
+      "artists": [
+        {
+          "name": "Zapi",
+          "url": "https://open.spotify.com/artist/3GabjOPnWsQikvKkBTp4Eu"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Astro Rei",
+      "url": "https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme"
+    },
+    {
+      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -4290,7 +4324,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 145953,
       "name": "Tudo Come\u00e7ou",
       "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"

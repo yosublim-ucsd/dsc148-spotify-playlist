@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: TOPS
+> La scène musicale montréalaise au premier plan\. Photo: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,206 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,209 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 |
 | 100 | [Vague de Chaleur](https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Vague de Chaleur](https://open.spotify.com/album/15XpnxhRwPCR5wglfnPmtC) | 2:44 |
 
-Snapshot ID: `ZtFDwAAAAACLd1BunvmpmFzw44ln5EDH`
+Snapshot ID: `ZtNjxAAAAACnlNVRkfu60V/tlpXfSlXr`

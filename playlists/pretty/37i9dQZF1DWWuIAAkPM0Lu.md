@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🖤 <a href="spotify:artist:5RaTuqY7SJHvh6MNzMagut">D1MA</a> 🖤    <a href="spotify:track:0rmjpEVY7Ay6oC2pXykuPW">EN SAMMEN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,371 likes - 103 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,466 likes - 103 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

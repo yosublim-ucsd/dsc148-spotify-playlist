@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=eS2iNpVSTMiw5vS\_IFCFpg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,280 likes - 99 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,322 likes - 99 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [All About You \(Solo Version\)](https://open.spotify.com/track/0nDyCkGTQb20dTWgRRwi22) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [All About You \(Solo Version\)](https://open.spotify.com/album/5hkmdnwMeJyRfrl5FyUXu1) | 3:15 |
 | 50 | [Rest](https://open.spotify.com/track/6NiUp5vpizC71VdSupgKhi) | [Deborah Paul\-Enenche](https://open.spotify.com/artist/5Lm9VbH0ETOU3HnmEvhBEu), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rest](https://open.spotify.com/album/4YXyKh4gTUv7g3Rj9N9OBa) | 3:33 |
 | 51 | [Faithful \- Instrumental](https://open.spotify.com/track/1fUi3U04bt3yyEbVzn1N6A) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT), [Emmanuel Songsore](https://open.spotify.com/artist/3BMM9j0sNACwGYlL9TvbBP) | [Faithful \(Instrumental\)](https://open.spotify.com/album/255QCI0MmR48A6wPmFlIAd) | 2:06 |
-| 52 | [Amandla](https://open.spotify.com/track/5hMAZ9K2OvZ839AcwvWha1) | [AFRIKA](https://open.spotify.com/artist/1suhpI5Y8hObsUs42PLCnk), [Dess Da Deejay](https://open.spotify.com/artist/0dMtmcKkAyIdY9vPPFrMIS), [Mawat](https://open.spotify.com/artist/57ITpWc60F6Asghn09mvPC), [D'elpro](https://open.spotify.com/artist/4xFn8VoKWNNlIV8drjlP31) | [Amandla](https://open.spotify.com/album/4TCirNJHw0ZyVxjEX4fC2h) | 6:03 |
+| 52 | [Amandla](https://open.spotify.com/track/5hMAZ9K2OvZ839AcwvWha1) | [AFRIKA](https://open.spotify.com/artist/4cG9iakqjuHuEgMGuHep9w), [Dess Da Deejay](https://open.spotify.com/artist/0dMtmcKkAyIdY9vPPFrMIS), [Mawat](https://open.spotify.com/artist/57ITpWc60F6Asghn09mvPC), [D'elpro](https://open.spotify.com/artist/4xFn8VoKWNNlIV8drjlP31) | [Amandla](https://open.spotify.com/album/4TCirNJHw0ZyVxjEX4fC2h) | 6:03 |
 | 53 | [My Yahweh](https://open.spotify.com/track/61xfIINuu1sR7ePHMk4zUT) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [My Yahweh](https://open.spotify.com/album/6HZgyBi8PsKK0ZbElKwOXa) | 5:02 |
 | 54 | [My Refuge](https://open.spotify.com/track/6SX7QkGMlqVWcve41zXHx2) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [My Refuge](https://open.spotify.com/album/0FHCwUZeJKRDJlEaPofScn) | 2:20 |
 | 55 | [canvas](https://open.spotify.com/track/2gXr6B6MsjQcbnrMWqGmFg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Matevhu](https://open.spotify.com/artist/28saJT0KmewnD61XgfxEKH) | [canvas](https://open.spotify.com/album/4MG3UFZPHBCkRoXUPOwWh2) | 2:03 |

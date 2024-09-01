@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: MESSIAH!, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206,586 likes - 200 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206,780 likes - 200 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 184 | [quiero creer que tienes un buen corazón](https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [quiero creer que tienes un buen corazón](https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw) | 3:36 |
 | 185 | [will you, say your name](https://open.spotify.com/track/0hv4dNi96wfpvX7TifcrZ8) | [Gloom East](https://open.spotify.com/artist/08uFeaJXuBJKkPXuWleYY5) | [will you, say your name](https://open.spotify.com/album/39Ld2bcn5AhTpvoFqefhoD) | 3:10 |
 | 186 | [wes anderson \(your dog\)](https://open.spotify.com/track/1x6YG1aUQ7oA47WU2TnMZq) | [boyhood.](https://open.spotify.com/artist/3OkBUJ0rFE6v0L5HeeMspT) | [wes anderson \(your dog\)](https://open.spotify.com/album/1OnwgkYJaR2mezV5UpxwOm) | 3:21 |
-| 187 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo), [Heaven Slight](https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
+| 187 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Heaven Slight](https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd), [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
 | 188 | [MOLLY](https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [MOLLY](https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF) | 4:54 |
 | 189 | [Free](https://open.spotify.com/track/1Qxo4KrJ8Hf5bmoTf2SNBK) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Allora](https://open.spotify.com/album/5Dixqdhyp9O05LcRbyO2zV) | 8:07 |
 | 190 | [Plot Twist](https://open.spotify.com/track/0b4AlN6oN6SS4LcMSjDHw0) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Plot Twist](https://open.spotify.com/album/39vsRqu1xGl7nPQuS1BpKg) | 3:01 |

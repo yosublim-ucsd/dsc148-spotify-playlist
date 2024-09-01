@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,909 likes - 300 songs - 10 hr 54 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,908 likes - 300 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 208 | [summer picnic](https://open.spotify.com/track/6BpVxvEtcRzZR9thm5xKQA) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [summer picnic](https://open.spotify.com/album/5DVaoCnFo9QlcnLMuzrgyL) | 2:24 |
 | 209 | [Fresh Orange](https://open.spotify.com/track/5x1SkirydsIXEXc4n0QCg3) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Fresh Orange](https://open.spotify.com/album/41DkWIGqvO1mTTy8xjs2Vv) | 2:32 |
 | 210 | [Finally Here](https://open.spotify.com/track/6PzXuF487paEAQ60gHIzzu) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG) | [Finally Here](https://open.spotify.com/album/2K9jorT1KjaNlwBsYBy4E2) | 2:12 |
-| 211 | [Lume](https://open.spotify.com/track/3kC4wVmvdDnWeN8Fp57ADZ) | [Slyghost](https://open.spotify.com/artist/4AsXYvizUQUjLMaGPxN6GG) | [Lume](https://open.spotify.com/album/41MkA1X7CLuSPXjJxb8NJ8) | 3:35 |
+| 211 | [Lume](https://open.spotify.com/track/3kC4wVmvdDnWeN8Fp57ADZ) | [slyghost](https://open.spotify.com/artist/4AsXYvizUQUjLMaGPxN6GG) | [Lume](https://open.spotify.com/album/41MkA1X7CLuSPXjJxb8NJ8) | 3:35 |
 | 212 | [Bluebird](https://open.spotify.com/track/780K6kKnKCuZkrdu5LJ95s) | [If I Lo](https://open.spotify.com/artist/0stc5sir53GtyA7lf7TnxS) | [Bluebird](https://open.spotify.com/album/5PzpYRce9ufWeHMhzMwOR5) | 2:00 |
 | 213 | [I Can't Stop](https://open.spotify.com/track/3SKEDH5TVn68aszVtJPxP9) | [duskbunny](https://open.spotify.com/artist/4T3kM9gC5LBQPEd8OLyGFd) | [I Can't Stop](https://open.spotify.com/album/5k0f8xQDF3MKSUUjEXdLnU) | 2:17 |
 | 214 | [Primrose](https://open.spotify.com/track/5evZyHXZSUtd1eOLExprSK) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Primrose](https://open.spotify.com/album/5cm0rvR8ZfCfczleQJqJsJ) | 2:12 |

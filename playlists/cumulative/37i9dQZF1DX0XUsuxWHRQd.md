@@ -4,7 +4,7 @@
 
 > New music from Big Sean, Drake and Lil Tecca.
 
-2,135 songs - 4 day 14 hr 46 min
+2,136 songs - 4 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Fake No Mo](https://open.spotify.com/track/2Qlug41v0Ify1zweKViCO0) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 2:36 | 2019-10-11 | 2019-10-16 |
 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 | 2022-01-28 | 2022-03-12 |
 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 | 2022-08-19 | 2022-11-05 |
-| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 |  |
+| [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-05 | 2024-09-01 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-08-27 | 2022-02-05 |
 | [Famous Hoes](https://open.spotify.com/track/35Xf2ABjPzUXKz19akd7Jj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Famous Hoes](https://open.spotify.com/album/6KuvJ7yluj7KuMDm9ydXM1) | 2:15 | 2019-12-11 | 2020-03-10 |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-15 | 2023-12-02 |
@@ -1227,6 +1227,7 @@
 | [No Cap \(feat\. Rich The Kid\)](https://open.spotify.com/track/7gYE3GWQN3Jf6z9J8EEbdy) | [83 Babies](https://open.spotify.com/artist/0IBDUrXqsJZAAnipcupIRc), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [No Cap \(feat\. Rich The Kid\)](https://open.spotify.com/album/03CDw8u9lCLG7onVXlHvaw) | 4:20 | 2019-07-12 | 2019-10-04 |
 | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/track/1K2JtjX3s8QaEKvsbC1UXX) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/album/7bwhQ4ir83KULY8HnhhpJm) | 4:03 | 2020-08-30 | 2020-09-04 |
 | [NO DRIBBLE \(with Stunna 4 Vegas\)](https://open.spotify.com/track/69CQe4ekUZ7txcSfEXYFW9) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [NO DRIBBLE \(with Stunna 4 Vegas\)](https://open.spotify.com/album/13IKhlfq1P8AEjfEu3s8yB) | 2:43 | 2020-07-28 | 2020-08-04 |
+| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-08-31 |  |
 | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/album/5zqaF2Nx9d5RbT16jkB4v9) | 2:26 | 2023-07-28 | 2023-08-12 |
 | [NO FINSTA](https://open.spotify.com/track/59GEWDzQgCXM55aGZDWSrQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LET'S DO IT](https://open.spotify.com/album/4I49kBApc9FV9oeAcIj9tK) | 1:58 | 2023-10-13 | 2023-11-11 |
 | [No Flash](https://open.spotify.com/track/3DhQknNJsPtkRj1D7bxjvl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:21 | 2020-11-20 | 2020-11-27 |

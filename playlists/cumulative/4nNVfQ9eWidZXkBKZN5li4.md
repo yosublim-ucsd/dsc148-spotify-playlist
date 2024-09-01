@@ -4,7 +4,7 @@
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-299 songs - 18 hr 8 min
+300 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Tunak Tunak Tun](https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Tunak Tunak Tun](https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur) | 5:03 | 2023-02-06 |  |
 | [Urvashi](https://open.spotify.com/track/4VAY0PQ6ZLStwgdjyMQxWa) | [Yo Yo Honei\-sing](https://open.spotify.com/artist/2hlwHWSih4ajaqhHOk25S8) | [Urvashi](https://open.spotify.com/album/463RaVI3vVq8a8bpkgZ59J) | 3:50 | 2021-01-25\* | 2021-07-13 |
 | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ) | 2:08 | 2023-11-03 | 2024-04-02 |
+| [Vekh Sohneyaa \(From "Call Me Bae"\)](https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Vekh Sohneyaa \- From "Call Me Bae"](https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1) | 3:36 | 2024-08-31 |  |
 | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu) | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe) | 3:33 | 2023-08-10 |  |
 | [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-09-11 |  |
 | [Woh Khuda \(From "8 A.M\. Metro"\) \- Nooran Sisters Version](https://open.spotify.com/track/7FawxM5cmh2NX03FAFumFt) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Woh Khuda \- Nooran Sisters Version \(From "8 A.M\. Metro"\)](https://open.spotify.com/album/0vLbLVKmqJdt2Qhy5IyPBb) | 3:17 | 2023-04-24 | 2024-07-13 |

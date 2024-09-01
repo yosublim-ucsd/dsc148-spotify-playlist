@@ -1412,10 +1412,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 60400,
       "name": "Chromatica I",
       "url": "https://open.spotify.com/track/3CGZ7wfk4skmuyQgua1C1K"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41866,
+      "name": "Chromatica II",
+      "url": "https://open.spotify.com/track/0oQc0F6KUE7QY7k5TU6bic"
     },
     {
       "album": {

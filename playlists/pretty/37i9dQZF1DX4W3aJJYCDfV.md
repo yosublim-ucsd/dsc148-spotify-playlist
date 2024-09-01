@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Rizzle Kicks \(pictured\),  Mabel,  Wunderhorse and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,627 likes - 116 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,652 likes - 116 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [Gyalis Pree](https://open.spotify.com/track/1rZmdW7o9GmgjFqpSrvwj7) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Party Bus Riddim](https://open.spotify.com/album/1EoSY6KlJ8QIzqkyL4gSbg) | 2:12 |
 | 48 | [Broken Boys](https://open.spotify.com/track/52JyhKOgnZjDWeLDpi6u9u) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Broken Boys](https://open.spotify.com/album/2MsBeJMfAwPtr85Vc19bbh) | 3:12 |
 | 49 | [Promise](https://open.spotify.com/track/0T4wkxReOE9f1cr9ymQbIQ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Promise](https://open.spotify.com/album/6z3dWgKm7JBsjxOSwNyfvP) | 3:02 |
-| 50 | [Attention](https://open.spotify.com/track/3qVdyHNyr5EYAV8tYiPbT8) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Attention](https://open.spotify.com/album/0rmyjMazeH4o8ptxfQTm0q) | 2:37 |
+| 50 | [ATTENTION](https://open.spotify.com/track/3qVdyHNyr5EYAV8tYiPbT8) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [ATTENTION](https://open.spotify.com/album/0rmyjMazeH4o8ptxfQTm0q) | 2:37 |
 | 51 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
 | 52 | [Meet Again](https://open.spotify.com/track/7wkpF9WoMdMR8XZPpu3lTK) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Shoreline](https://open.spotify.com/album/3CSAu9hFsNp31OvVBEaAs4) | 3:27 |
 | 53 | [24 Hours In A&E](https://open.spotify.com/track/0hjTQE4rkJrFHmacqXdz0b) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [24 Hours In A&E](https://open.spotify.com/album/2KpGbl9FZaaRkOdNpG7ddI) | 2:32 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 92 | [Nasty](https://open.spotify.com/track/29FBmRrebixRofs0flcm4O) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Nasty](https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj) | 2:36 |
 | 93 | [Church Music](https://open.spotify.com/track/38CNqaMwftGQXyqYJPo45l) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Church Music](https://open.spotify.com/album/5EQn4CO9cSBtqsa9rMCcDA) | 3:09 |
 | 94 | [U Never See \(Digital Underground\)](https://open.spotify.com/track/5gwqlXXs4Dj8RFqJNUKYyh) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [D:U:2](https://open.spotify.com/album/19DaPWM5EvJ2PhnUmS8jzD) | 3:09 |
-| 95 | [NO LIE](https://open.spotify.com/track/4p02Cca194seaXdqvbQTWx) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [NO LIE](https://open.spotify.com/album/1GNypwCrlw3IQEt5GtUt41) | 2:06 |
+| 95 | [No Lie](https://open.spotify.com/track/4p02Cca194seaXdqvbQTWx) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Lie](https://open.spotify.com/album/1GNypwCrlw3IQEt5GtUt41) | 2:06 |
 | 96 | [Pocket \(montreal\)](https://open.spotify.com/track/3TJWODxkUUPtC28fGZUNCZ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Pocket \(montreal\)](https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG) | 1:58 |
 | 97 | [Where's Your Feet?](https://open.spotify.com/track/5lfHud35lzCO8Pk4QtaAvw) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Where's Your Feet?](https://open.spotify.com/album/6d6DfXPUyFDV4sFwMP5H8p) | 3:24 |
 | 98 | [september](https://open.spotify.com/track/55Garen3zwJD1uCPG6FMpg) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [september](https://open.spotify.com/album/1DL5V3kVhSBru0pvN3m3nN) | 3:56 |

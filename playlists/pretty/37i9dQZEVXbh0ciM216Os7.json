@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD0887JY3vIkeE+Ua6bTTH1",
+  "snapshot_id": "AAAAAAAAAACiAkZ4/74FMirPffv2Rh+2",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -75,6 +75,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151274,
+      "name": "Something (feat. Syd)",
+      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "3333",
         "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
       },
@@ -111,22 +131,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
+        "name": "On Sum",
+        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
         }
       ],
-      "duration_ms": 151274,
-      "name": "Something (feat. Syd)",
-      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
+      "duration_ms": 199280,
+      "name": "On Sum",
+      "url": "https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -147,22 +171,6 @@
       "duration_ms": 274308,
       "name": "LOVE HURTS (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Quit Calling",
-        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Quit Calling",
-      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -191,74 +199,62 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
-        "url": "https://open.spotify.com/album/71xN7OTDbVHy9EKTb6PyUx"
+        "name": "Quit Calling",
+        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
         }
       ],
-      "duration_ms": 187795,
-      "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
-      "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
+      "duration_ms": 183529,
+      "name": "Quit Calling",
+      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
     },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Marathons",
-        "url": "https://open.spotify.com/album/3jYnipT1p4Z2Xm0aEGN8y3"
+        "name": "Smurfville",
+        "url": "https://open.spotify.com/album/3V7gBWc0k1fPU7NOCjo4ak"
       },
       "artists": [
         {
-          "name": "Susanne Davis",
-          "url": "https://open.spotify.com/artist/2XPJJEo5YqGiaN6doxcQzC"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Blakk Ise",
+          "url": "https://open.spotify.com/artist/0PZxZj6L1NmAz9wH4EKnqM"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 178588,
-      "name": "Marathons",
-      "url": "https://open.spotify.com/track/0Di4J4VrQBVBEAX36BrZ0R"
+      "duration_ms": 176128,
+      "name": "Wisdom",
+      "url": "https://open.spotify.com/track/7GYWCs1HACiFUNYOpQqLdI"
     },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "On Sum",
-        "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         },
         {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 199280,
-      "name": "On Sum",
-      "url": "https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6"
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -307,26 +303,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+        "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
+        "url": "https://open.spotify.com/album/71xN7OTDbVHy9EKTb6PyUx"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
         },
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+      "duration_ms": 187795,
+      "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
+      "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -351,6 +347,26 @@
       "duration_ms": 281539,
       "name": "Soft Footsteps",
       "url": "https://open.spotify.com/track/4pLQQTQJy76L6IbHi88RhA"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "High Rise (Clean)",
+        "url": "https://open.spotify.com/album/5Lk9M0wKNzIgz2pfN3uVJq"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "High Rise (Clean)",
+      "url": "https://open.spotify.com/track/5YvHU5PlNJNZJsz3BYKDwX"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -544,7 +560,7 @@
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi"
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 167213,
+      "duration_ms": 163155,
       "name": "FIELD TRIP",
-      "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
+      "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -615,42 +631,6 @@
       "duration_ms": 223862,
       "name": "Lost in Your Eyes (Solo Piano)",
       "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Punishment (Lockdown)",
-        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 195220,
-      "name": "The Punishment (Lockdown)",
-      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Sincere",
-        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 170280,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

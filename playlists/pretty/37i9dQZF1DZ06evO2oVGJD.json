@@ -1,28 +1,32 @@
 {
   "description": "This Is Banda Peque\u00f1os Musical. Los temas esenciales, todos en una lista.",
-  "num_followers": 91905,
+  "num_followers": 91977,
   "original_name": "This Is Banda Peque\u00f1os Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAADrAsO41OOEHw44kdm50W3i",
+  "snapshot_id": "ZtELgAAAAADZ0H0P97Lc4oJqdOJXpu7s",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Con paso sensual",
-        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/1E2pj2UcDR536SGEeSCCU3"
       },
       "artists": [
         {
           "name": "Banda Peque\u00f1os Musical",
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "Madrazo Norteno",
+          "url": "https://open.spotify.com/artist/5VwKLLZcvnI5JSQyjnT3Qv"
         }
       ],
-      "duration_ms": 196920,
-      "name": "Y yo que te amo",
-      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
+      "duration_ms": 175807,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/2BUVJfJVI8Ri2MDi4fOc4a"
     },
     {
       "added_at": null,
@@ -39,6 +43,22 @@
       "duration_ms": 226360,
       "name": "Reencuentro",
       "url": "https://open.spotify.com/track/3jq17jcifw4s9ORbLxr4iJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Y yo que te amo",
+      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
     },
     {
       "added_at": null,
@@ -395,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQu\u00e9 Pas\u00f3 Con Nuestro Amor?",
-        "url": "https://open.spotify.com/album/2ktzaVGT4mFB6tMlFMH9xV"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        },
-        {
-          "name": "La Tropa Chicana",
-          "url": "https://open.spotify.com/artist/438inxhXA6h5CIpc9iVS3M"
-        }
-      ],
-      "duration_ms": 205681,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Con Nuestro Amor?",
-      "url": "https://open.spotify.com/track/6R5AJPv9aEyrpJXTgpqET2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
       },
@@ -443,6 +443,26 @@
       "duration_ms": 197626,
       "name": "Desnudos",
       "url": "https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3 Con Nuestro Amor?",
+        "url": "https://open.spotify.com/album/2ktzaVGT4mFB6tMlFMH9xV"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "La Tropa Chicana",
+          "url": "https://open.spotify.com/artist/438inxhXA6h5CIpc9iVS3M"
+        }
+      ],
+      "duration_ms": 205681,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Con Nuestro Amor?",
+      "url": "https://open.spotify.com/track/6R5AJPv9aEyrpJXTgpqET2"
     },
     {
       "added_at": null,
@@ -495,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Eso no, no, no",
-      "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
       },
@@ -523,6 +527,22 @@
       "duration_ms": 172613,
       "name": "Tu Castigo",
       "url": "https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Eso no, no, no",
+      "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
     },
     {
       "added_at": null,
@@ -751,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos y algo m\u00e1s",
-        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
@@ -760,9 +780,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Llora el amor",
-      "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
+      "duration_ms": 204226,
+      "name": "Como perros y gatos",
+      "url": "https://open.spotify.com/track/06dgNqAiNlFPFA4l9xDF0k"
     },
     {
       "added_at": null,
@@ -783,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
       "artists": [
         {
@@ -792,9 +812,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Como perros y gatos",
-      "url": "https://open.spotify.com/track/06dgNqAiNlFPFA4l9xDF0k"
+      "duration_ms": 193893,
+      "name": "Llora el amor",
+      "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
     },
     {
       "added_at": null,

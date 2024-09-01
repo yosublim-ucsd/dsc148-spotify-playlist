@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Marceli Bober",
-  "num_followers": 17634,
+  "num_followers": 17639,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -36,16 +36,16 @@
       },
       "artists": [
         {
+          "name": "\u0141ona I Webber",
+          "url": "https://open.spotify.com/artist/6DMuRVdgTNmZCYRlekKWvO"
+        },
+        {
           "name": "Teatr im. Juliusza S\u0142owackiego w Krakowie",
           "url": "https://open.spotify.com/artist/0D0rzwQq48o4RqbDbDvqsL"
         },
         {
           "name": "GDA\u0143SKI TEATR SZEKSPIROWSKI",
           "url": "https://open.spotify.com/artist/4QbXmjlpmE8ZNHkaeHTdqs"
-        },
-        {
-          "name": "\u0141ona I Webber",
-          "url": "https://open.spotify.com/artist/6DMuRVdgTNmZCYRlekKWvO"
         }
       ],
       "duration_ms": 250862,
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "FUCK KORDEN FUCK HOLAK",
-        "url": "https://open.spotify.com/album/6KTFjm2KXk9FG9vKLc6slo"
-      },
-      "artists": [
-        {
-          "name": "Holak",
-          "url": "https://open.spotify.com/artist/4nOJhl27dVniTozwVZYa4c"
-        },
-        {
-          "name": "Mlody Korden",
-          "url": "https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "FUCK KORDEN FUCK HOLAK",
-      "url": "https://open.spotify.com/track/4m42XUYdTlXE3VvTkG5aAd"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
         "name": "Borgin & Burkes",
         "url": "https://open.spotify.com/album/46WUia8lI5HhMSAQjTQNKx"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 158181,
       "name": "Borgin & Burkes",
       "url": "https://open.spotify.com/track/0bIsmPt3AQ20TvlJ0sejMx"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
+        "name": "FUCK KORDEN FUCK HOLAK",
+        "url": "https://open.spotify.com/album/6KTFjm2KXk9FG9vKLc6slo"
+      },
+      "artists": [
+        {
+          "name": "Holak",
+          "url": "https://open.spotify.com/artist/4nOJhl27dVniTozwVZYa4c"
+        },
+        {
+          "name": "Mlody Korden",
+          "url": "https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "FUCK KORDEN FUCK HOLAK",
+      "url": "https://open.spotify.com/track/4m42XUYdTlXE3VvTkG5aAd"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/5IeQWmtzXL1OvsKZG0CaNC"
+      },
+      "artists": [
+        {
+          "name": "TEKTONIKA",
+          "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
         "name": "Moja droga",
         "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 203583,
       "name": "Moja droga",
       "url": "https://open.spotify.com/track/6CI1dS84yJlTzhHRcaak34"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/5IeQWmtzXL1OvsKZG0CaNC"
-      },
-      "artists": [
-        {
-          "name": "TEKTONIKA",
-          "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
-        },
-        {
-          "name": "HAZE1",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "Pozdrawiam S\u0105siad\u00f3w",
-        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
-      },
-      "artists": [
-        {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
-        }
-      ],
-      "duration_ms": 205969,
-      "name": "Pozdrawiam S\u0105siad\u00f3w",
-      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
+        "name": "Pozdrawiam S\u0105siad\u00f3w",
+        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "duration_ms": 205969,
+      "name": "Pozdrawiam S\u0105siad\u00f3w",
+      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1179,62 +1179,6 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "Za P\u00f3\u017ano",
-        "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
-      },
-      "artists": [
-        {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Za P\u00f3\u017ano",
-      "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
-        "name": "FALA MIXTAPE vol. 3",
-        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
-      },
-      "artists": [
-        {
-          "name": "KOLEKTYW FALA",
-          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
-        },
-        {
-          "name": "Szymi Szyms",
-          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        },
-        {
-          "name": "tyloch",
-          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Mike Senshi",
-          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Sto lat",
-      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
         "name": "SOKI",
         "url": "https://open.spotify.com/album/0Ms2Y7ihtMQFDIZka8FXs4"
       },
@@ -1287,26 +1231,42 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "KOCYK",
-        "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
+        "name": "FALA MIXTAPE vol. 3",
+        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
       "artists": [
         {
-          "name": "\u0141ona",
-          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
+          "name": "KOLEKTYW FALA",
+          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
         },
         {
-          "name": "Andrzej Konieczny",
-          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
         },
         {
-          "name": "Kacper Krupa",
-          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        },
+        {
+          "name": "tyloch",
+          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Mike Senshi",
+          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
         }
       ],
-      "duration_ms": 261293,
-      "name": "KOCYK",
-      "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+      "duration_ms": 170602,
+      "name": "Sto lat",
+      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1335,6 +1295,46 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
+        "name": "KOCYK",
+        "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
+      },
+      "artists": [
+        {
+          "name": "\u0141ona",
+          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
+        },
+        {
+          "name": "Andrzej Konieczny",
+          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
+        },
+        {
+          "name": "Kacper Krupa",
+          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "KOCYK",
+      "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
+        "name": "Za P\u00f3\u017ano",
+        "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Za P\u00f3\u017ano",
+      "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
         "name": "Alladyn",
         "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
       },
@@ -1347,6 +1347,30 @@
       "duration_ms": 164694,
       "name": "Alladyn",
       "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
+        "name": "GRUUVSTEP",
+        "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
+      },
+      "artists": [
+        {
+          "name": "Mac Sch",
+          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
+        },
+        {
+          "name": "Kulwi",
+          "url": "https://open.spotify.com/artist/48TsEAtxUre4q6weuOYCmN"
+        },
+        {
+          "name": "Ajzeja",
+          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "GRUUVSTEP",
+      "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1379,30 +1403,6 @@
       "duration_ms": 227121,
       "name": "Bejrut - Remix",
       "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
-        "name": "GRUUVSTEP",
-        "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
-      },
-      "artists": [
-        {
-          "name": "Mac Sch",
-          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
-        },
-        {
-          "name": "Kulwi",
-          "url": "https://open.spotify.com/artist/48TsEAtxUre4q6weuOYCmN"
-        },
-        {
-          "name": "Ajzeja",
-          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "GRUUVSTEP",
-      "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "ba\u0142agan",
-        "url": "https://open.spotify.com/album/5d2da7KMu5mEyrHWz8ODlJ"
-      },
-      "artists": [
-        {
-          "name": "chmuura",
-          "url": "https://open.spotify.com/artist/54iaDwZKzZRg7iOxrwWb0l"
-        }
-      ],
-      "duration_ms": 114871,
-      "name": "ba\u0142agan",
-      "url": "https://open.spotify.com/track/1QTJIMmymINGtNW0pSupl0"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2B5qP39qRE0Nkj1BmvaKPM"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "Nie mam czasu",
-        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
+        "name": "ba\u0142agan",
+        "url": "https://open.spotify.com/album/5d2da7KMu5mEyrHWz8ODlJ"
       },
       "artists": [
         {
-          "name": "DAW!D",
-          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+          "name": "chmuura",
+          "url": "https://open.spotify.com/artist/54iaDwZKzZRg7iOxrwWb0l"
         }
       ],
-      "duration_ms": 138460,
-      "name": "Nie mam czasu",
-      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
+      "duration_ms": 114871,
+      "name": "ba\u0142agan",
+      "url": "https://open.spotify.com/track/1QTJIMmymINGtNW0pSupl0"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1603,6 +1587,22 @@
       "duration_ms": 147368,
       "name": "Serato",
       "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
+        "name": "Nie mam czasu",
+        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "duration_ms": 138460,
+      "name": "Nie mam czasu",
+      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
+        "name": "WEMBY",
+        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        }
+      ],
+      "duration_ms": 174787,
+      "name": "WEMBY",
+      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 119200,
       "name": "UTAH",
       "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
-        "name": "WEMBY",
-        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 174787,
-      "name": "WEMBY",
-      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -1967,6 +1967,30 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
+        "name": "Wszystko Dobrze",
+        "url": "https://open.spotify.com/album/39ZEbdlPbdvs4LBQ2lvkfy"
+      },
+      "artists": [
+        {
+          "name": "Wszystko Dobrze",
+          "url": "https://open.spotify.com/artist/4jbnVQmPS4n3OBGlMy0H6x"
+        },
+        {
+          "name": "TriKu",
+          "url": "https://open.spotify.com/artist/2WpLoML8e6bWKn4LCK1fkJ"
+        },
+        {
+          "name": "Rafal Malicki",
+          "url": "https://open.spotify.com/artist/66jQtJA8FCl9QZPdRxK2nM"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Statuetki",
+      "url": "https://open.spotify.com/track/77Qpe4aE4Q8G1G9ue9PXsE"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
         "name": "Tonic",
         "url": "https://open.spotify.com/album/3HmCDPkvTR8mkvH4REjSwA"
       },
@@ -2027,30 +2051,6 @@
     {
       "added_at": "2024-08-30 10:58:27",
       "album": {
-        "name": "Wszystko Dobrze",
-        "url": "https://open.spotify.com/album/39ZEbdlPbdvs4LBQ2lvkfy"
-      },
-      "artists": [
-        {
-          "name": "Wszystko Dobrze",
-          "url": "https://open.spotify.com/artist/4jbnVQmPS4n3OBGlMy0H6x"
-        },
-        {
-          "name": "TriKu",
-          "url": "https://open.spotify.com/artist/2WpLoML8e6bWKn4LCK1fkJ"
-        },
-        {
-          "name": "Rafal Malicki",
-          "url": "https://open.spotify.com/artist/66jQtJA8FCl9QZPdRxK2nM"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Statuetki",
-      "url": "https://open.spotify.com/track/77Qpe4aE4Q8G1G9ue9PXsE"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
         "name": "Queensize / Kingsize",
         "url": "https://open.spotify.com/album/1TKMkGKIp7C2Bmo23qByB7"
       },
@@ -2067,26 +2067,6 @@
       "duration_ms": 161342,
       "name": "Queensize / Kingsize",
       "url": "https://open.spotify.com/track/71Jv6UBNAosU8kldK6rN27"
-    },
-    {
-      "added_at": "2024-08-30 10:58:27",
-      "album": {
-        "name": "The Very Bass",
-        "url": "https://open.spotify.com/album/1UsbkYUwYq7QznKp78P2Oa"
-      },
-      "artists": [
-        {
-          "name": "TVB",
-          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        }
-      ],
-      "duration_ms": 210232,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/2mxu9nihwolnrjMPKmvaqs"
     },
     {
       "added_at": "2024-08-30 10:58:27",
@@ -2163,6 +2143,26 @@
       "duration_ms": 217731,
       "name": "kolor miasta",
       "url": "https://open.spotify.com/track/5KhAanqb8UnB6z22Cucuzg"
+    },
+    {
+      "added_at": "2024-08-30 10:58:27",
+      "album": {
+        "name": "The Very Bass",
+        "url": "https://open.spotify.com/album/1UsbkYUwYq7QznKp78P2Oa"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        }
+      ],
+      "duration_ms": 210232,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/2mxu9nihwolnrjMPKmvaqs"
     },
     {
       "added_at": "2024-08-30 10:58:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,746 likes - 252 songs - 11 hr 25 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,751 likes - 252 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 25 | [Beautiful Lie](https://open.spotify.com/track/46LnA9f2ZV8IPRslISd1d5) | [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Beautiful Lie](https://open.spotify.com/album/4UCg7LYNfMtilgxIfw7iHh) | 3:45 |
 | 26 | [Who Do You Love](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA) | [Fedders](https://open.spotify.com/artist/3855hpvqzbzC5a2aESi23g), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Who Do You Love](https://open.spotify.com/album/3Wji1VJEurO045eJ4H92ea) | 3:16 |
 | 27 | [The Monster \- Chill Mix](https://open.spotify.com/track/5LzcPcdm29VZXAfFP9Aniu) | [SVNSETS](https://open.spotify.com/artist/6w9Xp3JyuJcHJ6C4ywTH4s), [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [The Monster \- Chill Mix](https://open.spotify.com/album/153DCi1OSyobHvlh727fBP) | 2:09 |
-| 28 | [All My Love](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa) | [Stridon](https://open.spotify.com/artist/3Bi3uh8Ns8QxssTtqVKu5u), [Rik Weber](https://open.spotify.com/artist/3VU9fMNvKYsdjvccNqBuho) | [All My Love](https://open.spotify.com/album/2kjumiS4VltG0VtIednDQd) | 2:27 |
+| 28 | [All My Love](https://open.spotify.com/track/2j7ZND0OOYJLI1bREiI4Oa) | [Stridon](https://open.spotify.com/artist/3Bi3uh8Ns8QxssTtqVKu5u), [Rik Weber](https://open.spotify.com/artist/3VU9fMNvKYsdjvccNqBuho) | [All My Love](https://open.spotify.com/album/2kjumiS4VltG0VtIednDQd) | 2:39 |
 | 29 | [Wondering Why](https://open.spotify.com/track/71usfyu4lteyYq1tGP9m16) | [L.A](https://open.spotify.com/artist/6zzGgDPvgB0PNyYtwfZ1I2), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Alia Faye](https://open.spotify.com/artist/7q5hfeNEOcoVyIPA9TWt8V) | [Wondering Why](https://open.spotify.com/album/2oVyJpTR45lLZP51xLuT5y) | 2:35 |
 | 30 | [Everything I Had](https://open.spotify.com/track/5dx305Glydlidj1Dp7amey) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf), [sunsett.](https://open.spotify.com/artist/5YoAuObMlm022Z0tDOYXsB) | [Everything I Had](https://open.spotify.com/album/22RhOa0N1dV1bcUMEJ06Jo) | 2:38 |
 | 31 | [Storm](https://open.spotify.com/track/6I8T9UxIkMGyJte0gfXm8Q) | [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Storm](https://open.spotify.com/album/5g4k7hDdEglrbVN46WZAhg) | 2:24 |

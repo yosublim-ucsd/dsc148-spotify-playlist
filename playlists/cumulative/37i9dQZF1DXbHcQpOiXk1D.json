@@ -1031,6 +1031,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Sunday",
+        "url": "https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z"
+      },
+      "artists": [
+        {
+          "name": "SwanNek",
+          "url": "https://open.spotify.com/artist/1ywBtmKTo6pI92wFJiJHii"
+        },
+        {
+          "name": "Ras Tex",
+          "url": "https://open.spotify.com/artist/6CEiVua8xVV3bJ8fuGGBk1"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276625,
+      "name": "Beautiful Sunday",
+      "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
+    },
+    {
+      "album": {
         "name": "Beetle Juice",
         "url": "https://open.spotify.com/album/0BBeS3P56yDZnQEbB6RjaI"
       },
@@ -1878,6 +1900,28 @@
       "duration_ms": 199360,
       "name": "Cheap Cigars",
       "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
+    },
+    {
+      "album": {
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
     },
     {
       "album": {
@@ -7922,7 +7966,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 232562,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5"
@@ -11030,7 +11074,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 157415,
       "name": "The Love That I Feel",
       "url": "https://open.spotify.com/track/4Sq1bPCB5HM70lljG68qsZ"

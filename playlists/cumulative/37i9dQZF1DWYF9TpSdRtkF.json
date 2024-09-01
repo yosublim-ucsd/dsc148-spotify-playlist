@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04",
+        "url": "https://open.spotify.com/album/7fbgOJKABo75Cjpa529vgU"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "AIKANE\uff1f",
+      "url": "https://open.spotify.com/track/0QZUVjycMYb3YOO9w6fxf2"
+    },
+    {
+      "album": {
         "name": "Kimi to no Asu o Negau kara",
         "url": "https://open.spotify.com/album/7r5hsWf0kOxOoSXYkwG3Rk"
       },
@@ -532,7 +550,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 282280,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 228266,
       "name": "I.D \uff5eEScape from Utopia\uff5e",
       "url": "https://open.spotify.com/track/2I1RzxRvjjfXIVLfPM0PDH"
@@ -6834,7 +6852,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 321693,
       "name": "\u7a7a\u8272 Birthday Card",
       "url": "https://open.spotify.com/track/7Bl7zceAe34Vvs4CALJ6Zs"

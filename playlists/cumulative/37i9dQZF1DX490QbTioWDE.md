@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Eugenia Marquez & Angela Leiva.
 
-471 songs - 1 day 5 hr 25 min
+472 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Baño de Luna / La Morena](https://open.spotify.com/track/4mhdgivjL1gXhh3DU1Jy4M) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [El Tano Romero](https://open.spotify.com/artist/3CzLe0eqm2dY4Dbo8qtNrm) | [Baño de Luna /La Morena](https://open.spotify.com/album/5nyudEcKLTX7ZKujq9z7Xs) | 4:25 | 2022-04-01 | 2022-04-25 |
 | [Bebe Dame](https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Bebe Dame](https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC) | 2:47 | 2023-04-28 | 2024-02-03 |
 | [Bebé](https://open.spotify.com/track/62fEPchIkRcZYJukmqhLuj) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Bebé](https://open.spotify.com/album/5kp9KP5edbBulAcqClNeLx) | 3:19 | 2021-12-24 | 2022-07-29 |
+| [Bella y Bestia / Miel / Piñata](https://open.spotify.com/track/3YO1KzqUr8v3OjH0h6FwBg) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Bella y Bestia / Miel / Piñata](https://open.spotify.com/album/5g9jKiIVoTCid74V1UmkYl) | 4:04 | 2024-08-31 |  |
 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 | 2021-12-24 |  |
 | [Bloqueado](https://open.spotify.com/track/48LTBvuLbha2kmKzNAbdQM) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Bloqueado](https://open.spotify.com/album/2gqepayLnMGpDgjbV2LPJo) | 2:48 | 2024-05-24 | 2024-07-23 |
 | [Buena Vida](https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Buena Vida](https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu) | 2:22 | 2024-04-05 |  |
@@ -413,7 +414,7 @@
 | [Te Olvidaré \- En Vivo](https://open.spotify.com/track/4rc4JtQET33dBoiUnpXudm) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Olvidaré \(En Vivo\)](https://open.spotify.com/album/4CBSfAj78zjg0JqIK9iKug) | 2:14 | 2022-07-15 | 2022-08-19 |
 | [Te perdiste mi amor](https://open.spotify.com/track/3gn9F8Te6zvC3Priyw8ABC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/7wkWJ1gv9rhq2L7Nahl3PF) | 3:12 | 2023-05-19 | 2023-12-30 |
 | [Te perdiste mi amor](https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/5iLLVzBNgzEjgvU0AZbVl8) | 3:12 | 2021-12-24 | 2023-03-18 |
-| [Te Perdí](https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Te Perdí](https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng) | 3:30 | 2023-06-21 |  |
+| [Te Perdí](https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Te Perdí](https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng) | 3:30 | 2023-06-21 | 2024-09-01 |
 | [Te Pido Perdon](https://open.spotify.com/track/5mVKmmkGvftY88sm3tocch) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 3:06 | 2021-12-24 | 2022-07-29 |
 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 | 2022-07-22 | 2024-04-19 |
 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 | 2021-12-24 | 2023-03-12 |

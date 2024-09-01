@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Get ready to be Bewitched\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,539 likes - 21 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,507 likes - 21 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

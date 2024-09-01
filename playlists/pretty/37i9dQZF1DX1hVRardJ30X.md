@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Christian Nodal & Estevie, Becky G,  Anuel AA, DannyLux & Jasiel Nuñez, Sebastian Yatra and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,266 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,313 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [SHOUGANAI](https://open.spotify.com/track/1oW2SpObThLk3CzhTRULkv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [SHOUGANAI](https://open.spotify.com/album/2jZz8wd8MOX9jli2BDutlg) | 2:50 |
 | 37 | [mariposas](https://open.spotify.com/track/6yaT7GzjQZgsCwlAbaLIeV) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [durmiendo con la luz prendida](https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B) | 2:35 |
 | 38 | [Polvos Del Año Pasado](https://open.spotify.com/track/2aJZssCmM8iGFIsDcYY0UN) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Polvos Del Año Pasado](https://open.spotify.com/album/4hgW14l3ILuW1yv2huIr2M) | 2:52 |
-| 39 | [funkoh](https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:57 |
+| 39 | [funkoh](https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:57 |
 | 40 | [Asi Hablamos en Tijuana](https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Hablamos en Tijuana](https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z) | 2:47 |
 | 41 | [Rodeo Drive](https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Rodeo Drive](https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11) | 2:08 |
 | 42 | [contra la corriente](https://open.spotify.com/track/1XJ77vGJYj4D0huExOdCCh) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [contra la corriente](https://open.spotify.com/album/4VPtkZGBDlqWARwnRJDrYg) | 2:53 |

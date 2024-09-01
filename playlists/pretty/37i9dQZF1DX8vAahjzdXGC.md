@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Feby Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,086 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,130 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 57 | [I LIKE](https://open.spotify.com/track/4ucRGDX1geb9bUAjQOQqXX) | [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl), [Arsyih Idrak](https://open.spotify.com/artist/4DEiECxSpwTaiKS3oXtcyJ) | [I LIKE](https://open.spotify.com/album/6EKXfaWNDKJ9WtUA6UZ2VV) | 1:43 |
 | 58 | [Bubur Zoomzoom](https://open.spotify.com/track/6Z490F8ETcLKvL2HFZLlkU) | [Davidbeatt](https://open.spotify.com/artist/5U85zLLOevENJVI3tqXbO6) | [Bubur Zoomzoom](https://open.spotify.com/album/6vZu5NlFp1CEUMCrdWsVGM) | 2:34 |
 | 59 | [V.O.P \(Introduction\)](https://open.spotify.com/track/21OKJXvD1FIzaKhAi8Rdsf) | [MukaRakat](https://open.spotify.com/artist/1b9D2UY9ai6cCGeXjCN0L7) | [V.O.P \(Introduction\)](https://open.spotify.com/album/6z58dlBqjStjsf10TM4gU8) | 2:25 |
-| 60 | [On You](https://open.spotify.com/track/7lD0rtCO125zbR5dlXV18V) | [Yol](https://open.spotify.com/artist/4EXGguEoLgE5Y7Ud3Fnnqd), [Gbrand](https://open.spotify.com/artist/59t6QP0jd5vNknacUSoe5f) | [On You](https://open.spotify.com/album/10cVBja7qXLPFRSGEcXtYq) | 3:32 |
+| 60 | [On You](https://open.spotify.com/track/7lD0rtCO125zbR5dlXV18V) | [YOL](https://open.spotify.com/artist/562e0s2btlqUAHt0aSO7ai), [Gbrand](https://open.spotify.com/artist/59t6QP0jd5vNknacUSoe5f) | [On You](https://open.spotify.com/album/10cVBja7qXLPFRSGEcXtYq) | 3:32 |
 | 61 | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU) | 2:48 |
 | 62 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
 | 63 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |

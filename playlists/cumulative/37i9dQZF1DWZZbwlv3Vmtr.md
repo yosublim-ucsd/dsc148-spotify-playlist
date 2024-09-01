@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-948 songs - 1 day 12 hr 49 min
+949 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 | 2022-04-15 | 2023-12-08 |
 | [all in time](https://open.spotify.com/track/5DBdIkRVzbRuJyT9ZlUz3b) | [Isaac Wheadon](https://open.spotify.com/artist/3JdtFl0iWwZTNO5ul5nP5e) | [all in time](https://open.spotify.com/album/4pWWQ94GJBYcTh02Etoint) | 4:25 | 2022-10-28 | 2023-09-22 |
 | [alley](https://open.spotify.com/track/59lzglOONvlnXfTarq1POU) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [alley](https://open.spotify.com/album/5ajbnD0oVAAmhKgKA92mtR) | 1:55 | 2023-09-08 |  |
+| [Alpha Waves](https://open.spotify.com/track/0wpAmK6X3tahuC7XGXr3U1) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Alpha Waves](https://open.spotify.com/album/33guGrGrZAsr6gwyErOV5p) | 1:53 | 2024-08-30 |  |
 | [Amber](https://open.spotify.com/track/0oc0tEnzojBIr5O7inoEMC) | [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Amber](https://open.spotify.com/album/2IyYd9nPtLMIn3XebCu6G4) | 1:56 | 2022-04-15 | 2022-08-19 |
 | [Amnesia](https://open.spotify.com/track/3HbAR7ZxhLZjlBN84UaitM) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Amnesia](https://open.spotify.com/album/4ZED8KjLfnr4NdXHnEOYKD) | 1:55 | 2023-09-04 | 2023-10-13 |
 | [Angels](https://open.spotify.com/track/6lfVI7z6flsco36BPAeXXP) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Home](https://open.spotify.com/album/4xqPGPk7GA4kZspCS9od5T) | 2:32 | 2022-04-15 | 2022-12-10 |
@@ -621,7 +622,7 @@
 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 | 2024-08-15 |
 | [Pusher Street](https://open.spotify.com/track/2386ucGjI6rRj5OJTdP9To) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:31 | 2022-04-15 | 2022-06-10 |
 | [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 | 2024-08-28 |
-| [quarantine blues](https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [quarantine blues](https://open.spotify.com/album/0KqGi4gaU2mBGqHDWWL3be) | 3:00 | 2022-04-15 |  |
+| [quarantine blues](https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [quarantine blues](https://open.spotify.com/album/0KqGi4gaU2mBGqHDWWL3be) | 3:00 | 2022-04-15 | 2024-09-01 |
 | [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2023-12-22 |  |
 | [Quiet Times](https://open.spotify.com/track/0lnaNbGICvWHQwQzE5jYO8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3Zf3qc9skmzkSI4heGer1R) | 1:42 | 2022-11-11 | 2022-12-14 |
 | [Quiet Times](https://open.spotify.com/track/3kaZy952zEbJECNZr20YSl) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3x4CH0vMZT9WBEV5OOB2rV) | 1:42 | 2022-08-12 | 2022-11-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 564 likes - 221 songs - 15 hr 3 min
+[codym2011](https://open.spotify.com/user/codym2011) - 564 likes - 223 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,5 +229,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 219 | [Mulholland Drive](https://open.spotify.com/track/1YQLuXSz5w8DIBmqoCwNsd) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Attempted Lover](https://open.spotify.com/album/1PtRIyLbXFu9B06kuKuve0) | 2:50 |
 | 220 | [Westside](https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5) | 2:56 |
 | 221 | [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 |
+| 222 | [Pegasus](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Pegasus](https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e) | 3:00 |
+| 223 | [Burn This House \(feat\. Little Boots\)](https://open.spotify.com/track/5FE8EbAE3ahtDj2rwnUvHm) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House \(feat\. Little Boots\)](https://open.spotify.com/album/6aZIlscl1JP9UA30f6aknv) | 3:35 |
 
-Snapshot ID: `AAAA7/CxQxRA9UI2Oja7pj6QiKkmJW4s`
+Snapshot ID: `AAAA8eEHjMUpgWNZIppxq260zjmTm0JE`

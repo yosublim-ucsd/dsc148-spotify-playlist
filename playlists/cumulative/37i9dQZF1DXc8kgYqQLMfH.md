@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,184 songs - 1 day 21 hr 4 min
+1,186 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [blind spot](https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [blind spot](https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q) | 2:38 | 2023-07-13 |  |
 | [Bliss](https://open.spotify.com/track/0XmnlDKrzvIXoOsp8YwWbY) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Bliss](https://open.spotify.com/album/2nC5R4NmZBOwXZivGLLIDD) | 3:15 | 2023-02-07 | 2023-10-23 |
 | [blossom](https://open.spotify.com/track/4Hv7TnBfBCzSCbqH0k4RhE) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [blossom](https://open.spotify.com/album/1qKGMnxUe2kVwG096pTR7U) | 2:17 | 2023-12-15 | 2024-05-14 |
-| [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 |  |
+| [Blossom's Day](https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL) | [Perspolis](https://open.spotify.com/artist/6M0KZSevYJX27uqBGw3Ae9) | [Blossom's Day](https://open.spotify.com/album/4cYgeynqELpDFRPxaiWhwh) | 1:41 | 2022-10-07 | 2024-09-01 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blue Fraction](https://open.spotify.com/track/3V5oF645lO6vFmOjwfXalX) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Fraction](https://open.spotify.com/album/3kzLYlY7ByzGe90WcKCjXy) | 3:02 | 2022-10-28 | 2023-10-06 |
 | [blue jacket](https://open.spotify.com/track/7AaALYPKTkyXODP4YU72Jq) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [blue jacket](https://open.spotify.com/album/771iUXmzwZbihDdCWUmIV9) | 2:09 | 2021-11-10 | 2022-05-27 |
@@ -133,7 +133,7 @@
 | [Boutique](https://open.spotify.com/track/3atyuxObBb1LkmKcvEZT95) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Boutique](https://open.spotify.com/album/4BGa7q7U3A3NWve9Pxajc4) | 1:52 | 2021-11-10 | 2022-07-29 |
 | [Brady Beat](https://open.spotify.com/track/3z0G1M7bz89WpgEbG73hQY) | [still yung](https://open.spotify.com/artist/5g6oWIIspPHHUQ8c1ksVJ0) | [Brady Beat](https://open.spotify.com/album/5JRFVyMjJFWlA41jwF76vI) | 2:37 | 2021-11-10 | 2022-04-08 |
 | [brainin' in my rainin'](https://open.spotify.com/track/5m8Wvl0GrFfMfmkDshFBPj) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [brainin' in my rainin'](https://open.spotify.com/album/2gZltZMzpGMXVfIDRQ54AJ) | 1:54 | 2024-03-08 |  |
-| [break of day](https://open.spotify.com/track/2uSuyCQook85WkdFu9Ymba) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [break of day](https://open.spotify.com/album/4jGSMArzc4g8ENIuXiM0as) | 1:41 | 2023-03-16 |  |
+| [break of day](https://open.spotify.com/track/2uSuyCQook85WkdFu9Ymba) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [break of day](https://open.spotify.com/album/4jGSMArzc4g8ENIuXiM0as) | 1:41 | 2023-03-16 | 2024-09-01 |
 | [breathtaking](https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA) | [mello joints](https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd) | [breathtaking](https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT) | 2:10 | 2024-02-09 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2021-11-10 | 2023-05-20 |
 | [Bring Me Back Home](https://open.spotify.com/track/4glCiMR5agMNxQGZdhdZfw) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:36 | 2022-04-15 | 2023-09-08 |
@@ -946,6 +946,7 @@
 | [Smoothology](https://open.spotify.com/track/29iPA5TBi6bWTraMDUKkqR) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Smoothology](https://open.spotify.com/album/0RdMK6Bn9b3B5HMCF8kxt9) | 2:34 | 2024-01-12 |  |
 | [Snooze](https://open.spotify.com/track/06k8TlJRnp0XHOWxuXrvpV) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Lonely Llama](https://open.spotify.com/artist/7qyiD7cCyow6BICznBnKfk) | [Snooze](https://open.spotify.com/album/5u6zyPvdcNql3sglsO0Chw) | 2:52 | 2022-10-15 | 2023-04-28 |
 | [Snooze](https://open.spotify.com/track/2J3SlUak8rUmbqQKLhVsrx) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Snooze](https://open.spotify.com/album/35lv87Ea72rsGbvMgZ3UXd) | 1:55 | 2022-04-22 | 2023-09-16 |
+| [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 | 2024-08-30 |  |
 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 | 2024-07-19 |  |
 | [Snow Cat](https://open.spotify.com/track/0xFmEZEGo8Coz5CL1EiEDP) | [Easy Deviance](https://open.spotify.com/artist/5nwDk2qZ6uzdaQ7Rz5aNZr), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Snow Cat](https://open.spotify.com/album/7dC9t5Fo2Q1fBPjx1iwwWJ) | 2:34 | 2022-12-09 |  |
 | [snowfall](https://open.spotify.com/track/6gL2kWpjufrrAJTyOxhw13) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [snowfall](https://open.spotify.com/album/1hzh8mBqoEkUYzBh1TBvSj) | 2:36 | 2024-03-08 | 2024-05-12 |
@@ -1153,6 +1154,7 @@
 | [We are nature](https://open.spotify.com/track/0E2cuECAuRuk34iTMyVwrb) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [We are nature](https://open.spotify.com/album/1y12revksPeIU6RaNLr6jO) | 2:47 | 2021-11-10 | 2022-07-22 |
 | [weather report](https://open.spotify.com/track/2liZi98khYvEHs03lAveyv) | [kesno](https://open.spotify.com/artist/79GO1ze6oDiQU9dGQONP1a) | [weather report](https://open.spotify.com/album/1GKmluPzmRiW3do5FuANaM) | 2:12 | 2021-11-10 | 2022-06-10 |
 | [Wednesday](https://open.spotify.com/track/7EGx2Gnqx0LG0KsG6dXydp) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Wednesday](https://open.spotify.com/album/0XbjEjccBkBJuOnbN1DZRx) | 2:18 | 2022-07-08 | 2023-10-06 |
+| [Weightless](https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Weightless](https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv) | 2:31 | 2024-08-30 |  |
 | [Weirdo](https://open.spotify.com/track/30dDVOPLMkajhoOkRQb3lQ) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Weirdo](https://open.spotify.com/album/3ML0Kl5eG9jrOc0TrhP1zW) | 2:15 | 2023-04-20 | 2024-05-14 |
 | [wetness](https://open.spotify.com/track/74dVpbjqoVEok7569iGVRQ) | [cypherhound](https://open.spotify.com/artist/3nxPAeDxbWiuU09UJCmGFy) | [wetness](https://open.spotify.com/album/1TxD1eL6Z3VLDoesjTX9OB) | 2:05 | 2021-11-10 | 2022-09-03 |
 | [whale tale](https://open.spotify.com/track/6B7wBkh0TOpn8MPWYLRO3z) | [Edwinn](https://open.spotify.com/artist/5MGZZJ42ckotNMrC7mxIDE) | [whale tale](https://open.spotify.com/album/7KMUOBXOItn4Yvd4mfalH1) | 2:10 | 2021-11-10 | 2022-09-03 |

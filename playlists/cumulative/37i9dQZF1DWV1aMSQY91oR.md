@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\. Cover: Snotty Nose Rez Kids
 
-2,641 songs - 5 day 7 hr 42 min
+2,642 songs - 5 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Blowfly \(with Ab\-Soul\)](https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD) | 2:46 | 2023-10-20 | 2023-11-11 |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2023-08-25 | 2023-09-02 |
 | [Blue Eyes](https://open.spotify.com/track/0p2GhuTjC2j75hvOvqEaai) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Blue Eyes](https://open.spotify.com/album/1PxIYmT2QbHzkLe9FJMo1Y) | 2:55 | 2023-08-25 | 2023-09-02 |
-| [Blue Green Red](https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 3:37 | 2024-08-10 |  |
+| [Blue Green Red](https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 3:37 | 2024-08-10 | 2024-09-01 |
 | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/track/3gOVMei7c4BD6oIfed24dc) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Blue Porsche \(feat\. Niska\)](https://open.spotify.com/album/3cawKdKtM97thqBmQBuAnN) | 3:06 | 2024-01-26 | 2024-02-03 |
 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 | 2023-07-01 |
 | [BMF](https://open.spotify.com/track/6uWJrdDtSOR2FVo1DFVGB0) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [BMF](https://open.spotify.com/album/1KCLVk2HxMSAjIjD6mubm0) | 3:33 | 2023-11-10 | 2023-11-18 |
@@ -1550,6 +1550,7 @@
 | [No Drama](https://open.spotify.com/track/7d4j0TncYG2uN9tzvtOXss) | [TheZachMichael](https://open.spotify.com/artist/1LSO1vhNtjiWiSllAGcgjU), [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO), [Sweet Speaker](https://open.spotify.com/artist/0YXEz9kohdUUycuPEuCuB6) | [No Drama](https://open.spotify.com/album/4QTx8uGppx6LyrkCY9xPuV) | 3:00 | 2023-08-04 | 2023-08-12 |
 | [NO EMOTION / ADRENALINE](https://open.spotify.com/track/6Kv0nSSKP1GxJsZCCh3DrM) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [NO EMOTION / ADRENALINE](https://open.spotify.com/album/0nBp7q8MwjEjqojkCznuJc) | 3:25 | 2024-02-09 | 2024-02-17 |
 | [no excuses.](https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [TwoTiime](https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p) | [no excuses.](https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm) | 3:50 | 2024-05-03 | 2024-05-11 |
+| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-08-31 |  |
 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 | 2024-05-10 | 2024-06-11 |
 | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/album/5zqaF2Nx9d5RbT16jkB4v9) | 2:26 | 2023-07-28 | 2023-08-05 |
 | [No Favours](https://open.spotify.com/track/7CQWWZB0YaBFnMdzjX26eF) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [No Favours](https://open.spotify.com/album/0vb90IHcBtS9irLPX3gafl) | 3:44 | 2024-01-19 | 2024-02-03 |

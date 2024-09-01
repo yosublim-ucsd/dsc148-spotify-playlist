@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: La Kuppe & Amar Azul.
 
-456 songs - 1 day 2 hr 6 min
+457 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Modo Lunita \- Remix](https://open.spotify.com/track/11XZad5eqTwHB7hdNjCFiR) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Manu Rg](https://open.spotify.com/artist/4BYjb5lZPyqyEJgSCkxXuH) | [Modo Lunita \(Remix\)](https://open.spotify.com/album/0NzhPHlvRaLrSNJCN8IA6k) | 2:03 | 2024-02-23 | 2024-03-09 |
 | [Muero por Tí](https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Muero por Ti](https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj) | 3:56 | 2023-02-03 |  |
 | [Muero por Tí](https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [En la Ciudad de los Vivos](https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz) | 3:56 | 2022-01-21 | 2022-07-26 |
+| [Muero X decírtelo](https://open.spotify.com/track/5YP2eun7Fp0W9vVe0VCoyM) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG) | [Muero X decírtelo](https://open.spotify.com/album/3HBuUOZAcoR6GyQ2uU08dE) | 2:40 | 2024-08-30 |  |
 | [Muñequito de Peluche](https://open.spotify.com/track/3PXeR8XO9uPbtEkRHZD3DL) | [Conjunto Musical Orlando Ayunes](https://open.spotify.com/artist/030U2Bb48fTzzhk3NxcQZC) | [Vamos por Mas..](https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck) | 3:00 | 2022-01-21 | 2022-06-23 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-01-14 |  |
 | [Ni Lágrimas Tenía](https://open.spotify.com/track/0JGcnmk3DXRaAHTi6jRNlI) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ni Lágrimas Tenía](https://open.spotify.com/album/7M7yupKqSG9jmyBqFE54J8) | 2:36 | 2024-06-21 | 2024-08-31 |
@@ -337,7 +338,7 @@
 | [Se Me Acabó el Amor](https://open.spotify.com/track/7GKgUn4fNzrRmh38bN0RwI) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Me Acabó el Amor](https://open.spotify.com/album/5hFa7M7ywidEvQkRFcylzC) | 3:11 | 2022-08-12 | 2022-09-02 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-03-10 | 2024-04-19 |
 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2022-01-14 | 2023-03-12 |
-| [Se Me Hizo Tarde](https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Se Me Hizo Tarde](https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8) | 2:47 | 2024-04-12 |  |
+| [Se Me Hizo Tarde](https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Se Me Hizo Tarde](https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8) | 2:47 | 2024-04-12 | 2024-09-01 |
 | [Se me va la voz](https://open.spotify.com/track/59HiyR19EwTWqVfK7owiKj) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [Se me va la voz](https://open.spotify.com/album/74NsVqIGsWmyRrniZItUFF) | 2:49 | 2022-01-21 | 2022-06-19 |
 | [Se Que Llorarás](https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE) | [Aclamado Amistad](https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW) | [30 Años](https://open.spotify.com/album/4rvvkfhubGwH3mQ3ZHL9S1) | 4:08 | 2022-01-21 | 2022-07-17 |
 | [Se Quedo Sola](https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Se Quedo Sola](https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a) | 3:15 | 2023-01-20 | 2023-01-28 |

@@ -7169,6 +7169,28 @@
     },
     {
       "album": {
+        "name": "Vekh Sohneyaa - From \"Call Me Bae\"",
+        "url": "https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216465,
+      "name": "Vekh Sohneyaa (From \"Call Me Bae\")",
+      "url": "https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ"
+    },
+    {
+      "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe"
       },

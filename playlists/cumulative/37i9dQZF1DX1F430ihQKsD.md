@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: TOPS
+> La scène musicale montréalaise au premier plan\. Photo: CRi
 
 505 songs - 1 day 5 hr 9 min
 

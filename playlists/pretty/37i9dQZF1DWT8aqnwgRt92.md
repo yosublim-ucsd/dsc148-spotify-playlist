@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,505,314 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,505,600 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 28 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
 | 29 | [Secret Operation](https://open.spotify.com/track/5ePmbqZWtdw1O9KWq99OtU) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN), [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [Secret Operation](https://open.spotify.com/album/3BFZ7qcJ8tNqSkxFKmyuij) | 3:58 |
 | 30 | [ブラウス](https://open.spotify.com/track/6Le9gpLbfza1YM0GykV8L7) | [GOHOBI](https://open.spotify.com/artist/3rUTguiMzTMxzTFPSytp6M) | [ブラウス](https://open.spotify.com/album/2UbsbaoykSXD59sSc5Eupb) | 4:28 |
-| 31 | [修羅日記](https://open.spotify.com/track/7f6lItK5vMWcgciBpZwrAi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「異世界失格」オープニングテーマ「修羅日記」](https://open.spotify.com/album/5EVbQZSSbZKkbzvt9RMbHr) | 3:50 |
+| 31 | [修羅日記](https://open.spotify.com/track/7f6lItK5vMWcgciBpZwrAi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [修羅日記](https://open.spotify.com/album/5EVbQZSSbZKkbzvt9RMbHr) | 3:50 |
 | 32 | [我がまま](https://open.spotify.com/track/0ExhkL9si3Vw5bNsam9afZ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [我がまま](https://open.spotify.com/album/2V9pmBw32QOe2MzvHCKiGv) | 3:09 |
 | 33 | [BELIEVE](https://open.spotify.com/track/0aCIecWooLfBx2by8LRx3J) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/799Kmhfy6h7UwCTot4gJ4e) | 3:29 |
 | 34 | [レナセールセレナーデ](https://open.spotify.com/track/4LiRiw0zRSf9fN3QEf0fN3) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [レナセールセレナーデ](https://open.spotify.com/album/6NeE8qVQDMwIMEp7DDcWEI) | 4:09 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 51 | [Up Start](https://open.spotify.com/track/4TiUFhCQxgE9C0xYjEqsKo) | [Amatsuki](https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu) | [Up Start](https://open.spotify.com/album/67RlN71CFL7Mn8v2gjvrEW) | 3:28 |
 | 52 | [Another World](https://open.spotify.com/track/6EdGKs6WWfgDJdlGcZG0YN) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Another World](https://open.spotify.com/album/4p4DEIrZgiKQHHgTkNmGaK) | 3:10 |
 | 53 | [晴々！](https://open.spotify.com/track/583o9Mq3GaRdTQWYkwRTW3) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [晴々！](https://open.spotify.com/album/0j5lA2YJu1SbYrtAxCdVPH) | 3:59 |
-| 54 | [さよなら、素晴らしき世界よ](https://open.spotify.com/track/4rYWDye90sC4oYuNiyp7qt) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [さよなら、素晴らしき世界よ（TVアニメ「異世界失格」エンディングテーマ）](https://open.spotify.com/album/2YQKSYZ7HcKYHF9M1loWTn) | 3:57 |
+| 54 | [さよなら、素晴らしき世界よ](https://open.spotify.com/track/4rYWDye90sC4oYuNiyp7qt) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [さよなら、素晴らしき世界よ](https://open.spotify.com/album/2YQKSYZ7HcKYHF9M1loWTn) | 3:57 |
 | 55 | [天使たちの歌 \- TVアニメ「義妹生活」オープニング主題歌](https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [天使たちの歌 \(TVアニメ「義妹生活」オープニング主題歌\)](https://open.spotify.com/album/2DmXlUHvWAFWpaOg8fsLCX) | 4:16 |
 | 56 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 |
 | 57 | [なっちゃった！](https://open.spotify.com/track/3lwSjCwHiJ2qzEk7dSAA0g) | [アーリオ・オーリオ・エ・ペペロンチーノ](https://open.spotify.com/artist/2Dkaqg1r0QSXn526uMA09p) | [なっちゃった！](https://open.spotify.com/album/0PPe08rfk12JZ1ot1XBH2Y) | 3:33 |

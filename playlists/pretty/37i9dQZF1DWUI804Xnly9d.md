@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,156 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,180 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 7 | [safar](https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [dastaan](https://open.spotify.com/album/0mUNlYODKUyJe5dOep0r22) | 3:16 |
 | 8 | [Aasaan](https://open.spotify.com/track/2BL5cbOyQSghBpFwvvwtDQ) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aasaan](https://open.spotify.com/album/32DqnM6T6NdtNBCyiAamtk) | 3:08 |
 | 9 | [Malang Sajna \- Jamming Version](https://open.spotify.com/track/5emwpQvSRKbYlIcUziCZN9) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Achha Lag Raha Hai](https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML) | 3:04 |
-| 10 | [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [Qaaz](https://open.spotify.com/artist/2ekPx6udAuwSYk5Prd404H) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 |
+| 10 | [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [C&A Kalatva](https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 |
 | 11 | [Akelapan](https://open.spotify.com/track/1ITfydBMQbHQzlFLYtkWjy) | [Hashtag Joy](https://open.spotify.com/artist/1hHcZHmSQO9mfhW09ctK0h) | [Akelapan](https://open.spotify.com/album/7v5D9fieXyfV9RFEefdbXV) | 3:05 |
 | 12 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 13 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |

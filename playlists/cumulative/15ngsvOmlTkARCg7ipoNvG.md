@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,794 songs - 1 day 12 hr 59 min
+1,795 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Calm Solitude Arr\. For Cello](https://open.spotify.com/track/0GpfLHzQs54VBsD9oYutkl) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Solitude](https://open.spotify.com/album/4tBAUa5sn2DudxSygRiEYN) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/track/3KGeyPoru1o5I0v0uUDclf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/album/2adPYyDCIgUncMi5II8H99) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm Solitude Arr\. For Strings](https://open.spotify.com/track/0oKpv6o8KJojLffylpR3Mr) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Calm Solitude Arr\. For Strings](https://open.spotify.com/album/6GAJrIXO6kZXDuobr95tNi) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Calm State](https://open.spotify.com/track/1Ke9zybM5qcvITp64sMScM) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Calm State](https://open.spotify.com/album/3Khne7nQ9lv3iZePU1OXZN) | 1:00 | 2024-08-31 |  |
 | [Calm World](https://open.spotify.com/track/6RrMqrtAIHwfYZPJTmaAyk) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Calm World](https://open.spotify.com/album/224ipkjPTvQsivbMHHgtdB) | 1:00 | 2024-03-30 |  |
 | [Calming](https://open.spotify.com/track/3XKnpSnQ3CoHMUcDPrVhY4) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calming](https://open.spotify.com/album/0k1djjFgglB3z3S28ad36c) | 1:00 | 2024-08-12 |  |
 | [Calming Mind](https://open.spotify.com/track/2NxQ4PPTziWUBN8QLt1ITb) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Mind](https://open.spotify.com/album/5feoVS46VwnkQZ8TSFqRxZ) | 1:00 | 2024-05-27 |  |

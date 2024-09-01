@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 54097,
+  "num_followers": 54106,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAACCaMpFo6zpzOJF508KOCtG",
+  "snapshot_id": "ZtELgAAAAAB2cOtay8PIXZ87rupXmjvA",
   "tracks": [
     {
       "added_at": null,
@@ -91,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
-        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
+        "name": "Until There\u2019s Nothing Left",
+        "url": "https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL"
       },
       "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
         {
           "name": "Alabama Shakes",
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 132133,
-      "name": "Killer Diller Blues - Music from The American Epic Sessions",
-      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
+      "duration_ms": 230198,
+      "name": "Until There's Nothing Left",
+      "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
     },
     {
       "added_at": null,
@@ -123,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe (Live From Austin City Limits)",
-        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
+        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
+        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
       },
       "artists": [
         {
@@ -132,9 +136,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 211374,
-      "name": "Joe - Live From Austin City Limits",
-      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
+      "duration_ms": 132133,
+      "name": "Killer Diller Blues - Music from The American Epic Sessions",
+      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
     },
     {
       "added_at": null,
@@ -155,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until There\u2019s Nothing Left",
-        "url": "https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL"
+        "name": "Joe (Live From Austin City Limits)",
+        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
       },
       "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
         {
           "name": "Alabama Shakes",
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 230198,
-      "name": "Until There's Nothing Left",
-      "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
+      "duration_ms": 211374,
+      "name": "Joe - Live From Austin City Limits",
+      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
     },
     {
       "added_at": null,

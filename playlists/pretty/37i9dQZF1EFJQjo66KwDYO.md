@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 44 | [Pumping \(Out Of My Speakers\) \- Radio Edit](https://open.spotify.com/track/3MrrHFJTiI5mBjlo60e8kU) | [IV Rox](https://open.spotify.com/artist/6r1dwRRUw0Kta4L2r9jE1g), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Pumping \(Out Of My Speakers\) \[Remixes\]](https://open.spotify.com/album/5b0djrVziuepe9qWs9sEfN) | 2:23 |
 | 45 | [Arena \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/1SUYyb19XaRPXJh9nfLoW0) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Arena \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/2pbAobwTic4qoJQzjkNnwt) | 3:24 |
 | 46 | [Go All The Way \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IgVM0GW96uXhM5XUeYgH9) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Go All The Way \(feat\. Mr Eazi\)](https://open.spotify.com/album/57rhe0uqtPpNqowgPbxhBm) | 2:55 |
-| 47 | [Can't Buy My Love](https://open.spotify.com/track/3hSIPdRYLbvfsx7JLaXc6v) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Can't Buy My Love](https://open.spotify.com/album/1Ihv1m7tx6llJBcunYo2ot) | 2:40 |
-| 48 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
+| 47 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
+| 48 | [Can't Buy My Love](https://open.spotify.com/track/3hSIPdRYLbvfsx7JLaXc6v) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Can't Buy My Love](https://open.spotify.com/album/1Ihv1m7tx6llJBcunYo2ot) | 2:40 |
 | 49 | [Papaya \(feat\. Lord Afrixana\)](https://open.spotify.com/track/3CFzETSNTZKAyC2jHQ8Ero) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 3:18 |
 | 50 | [Figured Out](https://open.spotify.com/track/4SiuRpIF4w6d8Jcd6EqCSf) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:04 |
 | 51 | [Overthinking \(feat\. Dyo\)](https://open.spotify.com/track/40g9cVf1iv08ZPDfMneVh6) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 59 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
 | 60 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `Aba1ewAAAAATmiwBLhArrumKp9lmLtBw`
+Snapshot ID: `Aba7GwAAAAD+Sm6KtxMkkOaufgsBgOy7`

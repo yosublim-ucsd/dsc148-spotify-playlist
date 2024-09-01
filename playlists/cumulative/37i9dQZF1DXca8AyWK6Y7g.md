@@ -4,7 +4,7 @@
 
 > ♡ meant to be ♡ Sycco!
 
-2,160 songs - 4 day 12 hr 37 min
+2,162 songs - 4 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Can't Stop Your Lovin' – Sandy's Remix](https://open.spotify.com/track/4G7aXmShhUGQtSFbkpHbmN) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Sandy's](https://open.spotify.com/artist/25uk210UmVGsLFuHXu4Tk4) | [Can't Stop Your Lovin' – Sandy's Remix](https://open.spotify.com/album/5CwB0a1RLClJTDn76JYW5d) | 4:17 | 2020-02-19 | 2021-10-16 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-27 | 2024-01-05 |
 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 | 2023-09-08 | 2023-10-24 |
-| [Candyland](https://open.spotify.com/track/5r20oWs4gfu2UM91XX82yb) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Candyland](https://open.spotify.com/album/5fkAyegufxhQeKg9r51iAU) | 2:46 | 2024-06-21 |  |
+| [Candyland](https://open.spotify.com/track/5r20oWs4gfu2UM91XX82yb) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Candyland](https://open.spotify.com/album/5fkAyegufxhQeKg9r51iAU) | 2:46 | 2024-06-21 | 2024-09-01 |
 | [Cannonball](https://open.spotify.com/track/4YOAzHBhNgRYdZ1d6y0Mhf) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Cannonball](https://open.spotify.com/album/0kbea7FLhporH5drZqrevb) | 2:43 | 2022-06-06 | 2022-08-27 |
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-13 | 2024-01-05 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-10-05 | 2023-06-03 |
@@ -405,6 +405,7 @@
 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/7egj375ez0KtF3bYCfAHdZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Crashing \(feat\. Bahari\)](https://open.spotify.com/album/24ZhIfDRtc1buuN8J9bWQm) | 3:50 | 2019-05-26\* | 2019-09-14 |
 | [Crashland](https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Crashland](https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT) | 2:42 | 2023-03-10 | 2023-05-11 |
 | [Crazier Best Friend](https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Crazier Best Friend](https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j) | 2:51 | 2023-02-17 |  |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-14 | 2022-10-29 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 |  |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-05-23 | 2021-11-20 |
@@ -625,6 +626,7 @@
 | [Falling Down](https://open.spotify.com/track/3HuLn6B17cpqjwMFRN3kHA) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Falling Down](https://open.spotify.com/album/5eVeHq1vmpc2BvivZzJwxv) | 3:03 | 2019-05-26\* | 2020-02-20 |
 | [Fallingwater](https://open.spotify.com/track/11r8xMuVTS66RjtYgLneRw) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Fallingwater](https://open.spotify.com/album/3U3apyHjVJvPy9Yo4BkCNu) | 4:30 | 2019-05-26\* | 2019-08-13 |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 |  |
+| [FAR AWAY](https://open.spotify.com/track/5yytQ1fzofNj5YcWX6jgcL) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [FAR AWAY](https://open.spotify.com/album/6XpkoSYods2AQKpm1D6BXK) | 3:12 | 2024-08-23 |  |
 | [Fast Talk](https://open.spotify.com/track/2NSHs7fnTlqosMNy72P7Mb) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Fast Talk](https://open.spotify.com/album/3SMoItGjCanLw0iCHTeffs) | 4:19 | 2019-05-26\* | 2020-02-19 |
 | [Fast Talk \- Bad Child Remix](https://open.spotify.com/track/4ZnHzxHbNGYyeaxdh4jJFD) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw), [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [Drugstore Heaven \(Remixes\)](https://open.spotify.com/album/31ykuPd3kS8p8KybJO7yi1) | 3:14 | 2019-05-26\* | 2021-05-18 |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-02-18 | 2022-07-02 |
@@ -1144,7 +1146,7 @@
 | [Line](https://open.spotify.com/track/6qEk7zRk98ripxgNOj9nue) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Line](https://open.spotify.com/album/42g6BkT5N8xmRiwP1UtNjK) | 3:19 | 2023-06-30 | 2023-07-02 |
 | [LIPS](https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [LIPS](https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R) | 3:20 | 2024-03-29 | 2024-04-27 |
 | [Little Life](https://open.spotify.com/track/7neB4qd6tZxWoSOwaelq9s) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Little Life](https://open.spotify.com/album/20EydxvdB13ippveWbHUUo) | 2:44 | 2023-03-18 | 2023-03-25 |
-| [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 | 2023-12-01 |  |
+| [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 | 2023-12-01 | 2024-09-01 |
 | [Little Omens](https://open.spotify.com/track/4odmvpPZ34WahZ7XDQdf2X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Little Omens](https://open.spotify.com/album/0ss7qXUWf8vgd4GmDy3725) | 3:12 | 2023-06-30 | 2023-07-15 |
 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-07-12 | 2024-08-17 |
 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 | 2023-10-06 | 2024-01-05 |

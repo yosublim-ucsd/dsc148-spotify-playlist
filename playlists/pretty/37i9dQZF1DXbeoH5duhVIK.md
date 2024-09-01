@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 
 > Time to choose...Listen to the music from and inspired by Sex/Life, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,180 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,220 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeoH5duhVIK.md) - [plain]
 | 69 | [Who Knows](https://open.spotify.com/track/6T5eAjtjBQJEWVGtndJ9XA) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [Who Knows](https://open.spotify.com/album/2UgeXzcLnZ707ZAkoYyW8s) | 3:12 |
 | 70 | [Fresh Hollows](https://open.spotify.com/track/0spD3VK9iuHe4wwA2GX5uF) | [Hollovvs](https://open.spotify.com/artist/4IUBtegsmcSz9aie7eWZcY) | [Fresh Hollows](https://open.spotify.com/album/3bqOKAVNig3CiwFhYvMgYB) | 3:59 |
 | 71 | [Big Bang Blues](https://open.spotify.com/track/1RFFDOPlHH5Wf5gc0vptvG) | [Breanna Barbara](https://open.spotify.com/artist/2p5zh0v6BIDwVSY3Q6pgwn) | [Big Bang Blues](https://open.spotify.com/album/6yYkq48lihgkljoiJnshMr) | 4:33 |
-| 72 | [Smoulder](https://open.spotify.com/track/2XIcdldYKAhOAYSWoe0Xfl) | [EMA](https://open.spotify.com/artist/0MT8Af4BlhE02l91O6cfyQ) | [The Future's Void](https://open.spotify.com/album/1kDe6TJirwUB2NYj7oDIhB) | 5:08 |
+| 72 | [Smoulder](https://open.spotify.com/track/2XIcdldYKAhOAYSWoe0Xfl) | [EMA](https://open.spotify.com/artist/5zc31hILCd8LXc1Asl2yIr) | [The Future's Void](https://open.spotify.com/album/1kDe6TJirwUB2NYj7oDIhB) | 5:08 |
 | 73 | [All The Girls Get Together And Rule](https://open.spotify.com/track/58imTuTZa3LkwfOdKwsLdv) | [Costanza](https://open.spotify.com/artist/1qvYgywpWubEqaAKoKnaEg) | [Zerokilled](https://open.spotify.com/album/01M9XLTxEfesaQjCfa2YYB) | 3:48 |
 | 74 | [Tarantula](https://open.spotify.com/track/6ZqqyQOl7Uv8Q49iN99Hxx) | [Bob Schneider](https://open.spotify.com/artist/4YOxTnmYogOpUPxrNTacvQ) | [Lovely Creatures](https://open.spotify.com/album/3DPmzl6I0l8YoRBnOihs5h) | 4:08 |
 | 75 | [I Am Not Afraid](https://open.spotify.com/track/1RrZxbyFYrB9vZMDyeRQWX) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [About Us](https://open.spotify.com/album/3bDN2YJ3SsqSrhM2UXjREu) | 3:46 |

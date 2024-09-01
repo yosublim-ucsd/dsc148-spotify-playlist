@@ -1431,17 +1431,17 @@
     },
     {
       "album": {
-        "name": "Badders",
+        "name": "BADDERS",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
       "artists": [
         {
           "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/7kFNnycwOp3klJlic4QwSm"
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
         },
         {
           "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/6s4LtFlMiz5thrTMFupMEB"
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         },
         {
           "name": "Skrillex",
@@ -1456,7 +1456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167172,
-      "name": "Badders",
+      "name": "BADDERS",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
     },
     {
@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 248000,
       "name": "FRENCH DREAM",
       "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
@@ -11010,6 +11010,32 @@
       "duration_ms": 175448,
       "name": "LOADED",
       "url": "https://open.spotify.com/track/44Cg4jfknLvTM7ywPHrwdL"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/0V2fLxZCzq7rs7zJQCQGvE"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273103,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3GUWJzkXw4nCkRvKXT1XkV"
     },
     {
       "album": {

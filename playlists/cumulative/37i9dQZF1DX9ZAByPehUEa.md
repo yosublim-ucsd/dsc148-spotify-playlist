@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-451 songs - 1 day 4 hr 0 min
+452 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Don't Feed The Tiger](https://open.spotify.com/track/5mox0C7W3zCyMImxzt5tgb) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Don't Feed The Tiger](https://open.spotify.com/album/03fHImPEUer93Z6lGgAaJE) | 5:42 | 2022-10-29 | 2022-11-15 |
 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 | 2022-06-09 | 2024-04-19 |
 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/6DUWBZ6K8A0pmn0h719BI3) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/18kPRR6pVTwsMnmWCNPK9x) | 2:26 | 2022-04-06 | 2022-05-11 |
+| [Don't Rush](https://open.spotify.com/track/0qllFL7DhcGpGSSj8j79Rw) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [SNAKEGANG](https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ) | [SNAKEGANG EP Volume 1 \- Deluxe](https://open.spotify.com/album/0pRwoX0GS6ctO7ra9jEsgn) | 2:54 | 2024-08-30 |  |
 | [Don't Wait](https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY) | [ROMBE4T](https://open.spotify.com/artist/5r89seDhq5dnVWpQ7y0wHQ), [Doche](https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Don't Wait](https://open.spotify.com/album/3bZr6UwTPR2aa95zDD3atU) | 3:40 | 2024-05-17 |  |
 | [Don't Wanna Be Alone](https://open.spotify.com/track/6P68mrx6JfMUsLeeBwKnAe) | [Skogsberg & Akdogan](https://open.spotify.com/artist/3rqYcASBrt3Ss8sQqpQf4a) | [Don't Wanna Be Alone](https://open.spotify.com/album/5i3swkwSfi3mhTDbTMdHsz) | 2:49 | 2024-08-09 |  |
 | [Don't You Feel Me \- Edit](https://open.spotify.com/track/3JMeiqYwiqkZaqmyHS9RVr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Don't You Feel Me](https://open.spotify.com/album/3P2NQCLhl5DolsmrdUFx6l) | 2:44 | 2024-05-24 | 2024-06-18 |
@@ -256,7 +257,7 @@
 | [Love is Free](https://open.spotify.com/track/1yBSWwDsYAgAQ2nZfucgib) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Love is Free](https://open.spotify.com/album/5gwvKoVUGQbItVCjPIxfjX) | 5:13 | 2022-01-14 | 2022-07-28 |
 | [Love Is No Game \- Edit](https://open.spotify.com/track/5DnaTchFyfDq1IEBjYFNm4) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Love Is No Game \(Edit\)](https://open.spotify.com/album/1UIiIaQXOjTxYuwajaLWtJ) | 2:29 | 2024-04-26 | 2024-05-18 |
 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2024-01-12 |  |
-| [Love Takeover](https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Love Takeover](https://open.spotify.com/album/1ZrVMXLDZVW8elSjuqsHl6) | 2:48 | 2024-06-28 |  |
+| [Love Takeover](https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Love Takeover](https://open.spotify.com/album/1ZrVMXLDZVW8elSjuqsHl6) | 2:48 | 2024-06-28 | 2024-09-01 |
 | [Love Trip](https://open.spotify.com/track/36T8YcNQzsrAq7okfOu7t5) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Love Trip / Hi Land Funk](https://open.spotify.com/album/42HAf1ATyAhcR6hwwNIG1p) | 6:53 | 2022-01-14 | 2022-07-03 |
 | [Love You Again \(feat\. Akua\)](https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Love You Again \(feat\. Akua\)](https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8) | 2:56 | 2022-01-14 | 2022-07-28 |
 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 | 2022-01-14 |  |

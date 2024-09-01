@@ -1,15 +1,31 @@
 {
   "description": "Nousussa olevat hitit. Kannessa Nelli Matula.",
-  "num_followers": 57201,
+  "num_followers": 57211,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtDhjAAAAABOGMizVI/sv4GJCgrCLmn2",
+  "snapshot_id": "ZtNwEgAAAABkYINmi53p2DvxGUE6wFvO",
   "tracks": [
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
+      "album": {
+        "name": "L\u00f6yt\u00e4\u00e4 mut",
+        "url": "https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "duration_ms": 169329,
+      "name": "L\u00f6yt\u00e4\u00e4 mut",
+      "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
+    },
+    {
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Ikuinen elokuu",
         "url": "https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
-      "album": {
-        "name": "L\u00f6yt\u00e4\u00e4 mut",
-        "url": "https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX"
-      },
-      "artists": [
-        {
-          "name": "Mirella",
-          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
-        }
-      ],
-      "duration_ms": 169329,
-      "name": "L\u00f6yt\u00e4\u00e4 mut",
-      "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
-    },
-    {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Otan Kii",
         "url": "https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Vitun hyvin",
         "url": "https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Per\u00e4valot (feat. Ellinoora)",
         "url": "https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw"
@@ -141,7 +141,27 @@
       "url": "https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+    },
+    {
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Kolumbus (feat. Mikael Gabriel)",
         "url": "https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Suomalainen Superstara",
         "url": "https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
@@ -213,7 +233,23 @@
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
+      "album": {
+        "name": "S\u00e4 voitit jo",
+        "url": "https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "S\u00e4 voitit jo",
+      "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
+    },
+    {
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "YUNO",
         "url": "https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -249,23 +285,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
-      "album": {
-        "name": "S\u00e4 voitit jo",
-        "url": "https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "S\u00e4 voitit jo",
-      "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
-    },
-    {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Pysyv\u00e4\u00e4",
         "url": "https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Viel yhen kerran",
         "url": "https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Ekaa kertaa",
         "url": "https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Saanko m\u00e4 luvan",
         "url": "https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf"
@@ -361,27 +381,7 @@
       "url": "https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
-    },
-    {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Kauniita",
         "url": "https://open.spotify.com/album/2o5j2odPtpeJ1idbTWnQW5"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Chat",
         "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "\u2026 men det g\u00f6r jag egentligen",
         "url": "https://open.spotify.com/album/5DUG2p0EimhnktehrSfZZR"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/7mRVtj0WZj9zn3AKi1pIjh"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Aivan sama",
         "url": "https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Saat mut syttyy",
         "url": "https://open.spotify.com/album/6addjV4pmfiesTAAiksaKo"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "The Dichotomy",
         "url": "https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Fallin (pudotaan)",
         "url": "https://open.spotify.com/album/0Fs9D5uhPxDiVElPDdAWA2"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/0h8BI3wpdcyPDo2ne0cLtS"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Erottaja",
         "url": "https://open.spotify.com/album/7vBFyUien1AoCsfmBlDWWc"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/743aoKY7JQ1xSsKMX4PMwl"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Hot Honey",
         "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Sirkus",
         "url": "https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Good Neighbours",
         "url": "https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Kielletty puheenaihe",
         "url": "https://open.spotify.com/album/5cahzQcSOQ5HYruF8LlkBQ"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/70xT1xflNvvsgkFFMcDyB9"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Cry Baby",
         "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Viimeinen pisara (feat. Etta)",
         "url": "https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Neliapila",
         "url": "https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "It Could Have Been Us (feat. Griff)",
         "url": "https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "soittorasia",
         "url": "https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Huominen ei l\u00f6yd\u00e4 meit\u00e4",
         "url": "https://open.spotify.com/album/7EJUoQ0NHlrlvxEUzr5M6p"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/7simuF5RqcV2Sbz0oWESMe"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Pretty Slowly",
         "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Momentti (feat. Costi)",
         "url": "https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Timeless - Deluxe",
         "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Korttelipoikii",
         "url": "https://open.spotify.com/album/0vptg2snCTebe5cOqSaiIH"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/3kafWYTkrtS6vNXdmR7MWq"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "HARLEY QUINN (feat. Sara Bee)",
         "url": "https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Me Vs. Maailma (feat. Sexmane)",
         "url": "https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa"
@@ -937,7 +937,7 @@
       "url": "https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "LIFETIMES",
         "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
@@ -953,7 +953,7 @@
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Pikajunat",
         "url": "https://open.spotify.com/album/4oTP2YGdTCO1UKzMTNfPnZ"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/2HXTtO4jFgDn72kSRL1cll"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Nuori & Tyhm\u00e4",
         "url": "https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Lucky (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Yks mun ex",
         "url": "https://open.spotify.com/album/21ko9R9X8r2e7vPPtReJsH"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/23UYsKMLm1MIOxw8iqaHbQ"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Mi Amore (feat. Ege Zulu)",
         "url": "https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP"
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "All Night (with Sophie and the Giants)",
         "url": "https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV"
@@ -1065,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "For Your Patience",
         "url": "https://open.spotify.com/album/59wjuGpIai5t2LJuWdQoZ0"
@@ -1081,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6MA6rs3BGTxcu1Vx37qeV4"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
@@ -1097,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
@@ -1113,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "En sit\u00e4 tarkoittanut",
         "url": "https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "RIDIN",
         "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Sano vaan",
         "url": "https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf"
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Vaarallinen Nainen",
         "url": "https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Aurinkoon",
         "url": "https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj"
@@ -1241,7 +1241,7 @@
       "url": "https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Salaisuus",
         "url": "https://open.spotify.com/album/4AO5Fv8uovky248sPXyylO"
@@ -1257,7 +1257,7 @@
       "url": "https://open.spotify.com/track/3ddeaVQxXscRq9PgI6ijtY"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Kokonainen",
         "url": "https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk"
@@ -1273,7 +1273,7 @@
       "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "H\u00e4it\u00e4 pidelly",
         "url": "https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB"
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Ready For Your Love",
         "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
@@ -1313,7 +1313,7 @@
       "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Pelaa sua",
         "url": "https://open.spotify.com/album/0NfVaftmXDcUEd15CVfifg"
@@ -1329,7 +1329,7 @@
       "url": "https://open.spotify.com/track/54CjiaDkN4OiaL3GvnptBv"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Mit\u00e4 m\u00e4 teen? (sped up)",
         "url": "https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy"
@@ -1369,7 +1369,7 @@
       "url": "https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Selvii p\u00e4ivii",
         "url": "https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5"
@@ -1385,7 +1385,7 @@
       "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "IBZ (feat. T Swoop & Nelli Orell)",
         "url": "https://open.spotify.com/album/0Z6bOiJgEL0JaLlzOgezgd"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Tuli mit\u00e4 vaan",
         "url": "https://open.spotify.com/album/0pZfxk1Qim7Ul3HaF6RkJB"
@@ -1433,7 +1433,7 @@
       "url": "https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "Ei syd\u00e4nt\u00e4 saa",
         "url": "https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt"
@@ -1449,7 +1449,7 @@
       "url": "https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2"
     },
     {
-      "added_at": "2024-08-29 21:01:00",
+      "added_at": "2024-08-31 19:33:38",
       "album": {
         "name": "N\u00f6ss\u00f6\u00f6 el\u00e4m\u00e4\u00e4",
         "url": "https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg"

@@ -6,12 +6,12 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACZeLxGWWNBbKFiHOSEcU2g",
+  "snapshot_id": "AAAAAAAAAACPJuG71978LAev11/b3V2H",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Ashes of the Wake (20th Anniversary Edition)",
+        "name": "Ashes of the Wake - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
       },
       "artists": [
@@ -43,6 +43,30 @@
       "duration_ms": 306555,
       "name": "Cigarettes & Alcohol - Sawmills Outtake",
       "url": "https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Inedito",
+        "url": "https://open.spotify.com/album/1Ool4Gnrf2orko4zlIlGhF"
+      },
+      "artists": [
+        {
+          "name": "Bajo el Sepelio",
+          "url": "https://open.spotify.com/artist/6EuhkZFaUBtPow4X29hhZW"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        },
+        {
+          "name": "Lonely",
+          "url": "https://open.spotify.com/artist/48bfZvFKaR60HfDiBIirER"
+        }
+      ],
+      "duration_ms": 289468,
+      "name": "Inedito",
+      "url": "https://open.spotify.com/track/05VIrzxtdyWwrXUApmP4Cj"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -83,46 +107,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Unidos por el Rap 2",
-        "url": "https://open.spotify.com/album/4tNbOsJlNcBLkRIQA18bKs"
+        "name": "Beautiful Sounds | Deep Sleep and Complete Relaxation",
+        "url": "https://open.spotify.com/album/5ju8ib7ZOapOJW1ZouKJUu"
       },
       "artists": [
         {
-          "name": "Bajo el Sepelio",
-          "url": "https://open.spotify.com/artist/6EuhkZFaUBtPow4X29hhZW"
+          "name": "Happy Baby Lullaby Collection",
+          "url": "https://open.spotify.com/artist/1iqR6Cz7VsSxZcJKaUEtHk"
         },
         {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
         },
         {
-          "name": "Omega El CTM",
-          "url": "https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP"
-        },
-        {
-          "name": "Lechero Mon",
-          "url": "https://open.spotify.com/artist/5M9hvwevD5Aax121KCeKPd"
-        },
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        },
-        {
-          "name": "El Chumbeque",
-          "url": "https://open.spotify.com/artist/42HqoYrMHQqrYMEaPnYZR3"
-        },
-        {
-          "name": "Big Seiko",
-          "url": "https://open.spotify.com/artist/1czm96pj8RpBGKN0BGIpst"
-        },
-        {
-          "name": "Bufok Mostra",
-          "url": "https://open.spotify.com/artist/0nJWJ1XqQ1VY5B9hx6wEK7"
+          "name": "Sonidos De Lluvia y Tormentas",
+          "url": "https://open.spotify.com/artist/20uIhDhmZY0BJaNicxgxuW"
         }
       ],
-      "duration_ms": 463548,
-      "name": "Unidos por el Rap 2",
-      "url": "https://open.spotify.com/track/00Utnch3kPD4Iu6jr8cwyp"
+      "duration_ms": 136363,
+      "name": "Fairytales Alive Again",
+      "url": "https://open.spotify.com/track/0nUCTlOP2soXkyUcpzhvom"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -143,26 +147,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Beautiful Sounds | Deep Sleep and Complete Relaxation",
-        "url": "https://open.spotify.com/album/5ju8ib7ZOapOJW1ZouKJUu"
+        "name": "Tchaikovsky: The Seasons, Op. 37a: VI. June. Barcarolle",
+        "url": "https://open.spotify.com/album/1n1EFvyLZ1j5H7D2qMTXDA"
       },
       "artists": [
         {
-          "name": "Happy Baby Lullaby Collection",
-          "url": "https://open.spotify.com/artist/1iqR6Cz7VsSxZcJKaUEtHk"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        },
-        {
-          "name": "Sonidos De Lluvia y Tormentas",
-          "url": "https://open.spotify.com/artist/20uIhDhmZY0BJaNicxgxuW"
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Harmony's Haunting Lullaby",
-      "url": "https://open.spotify.com/track/0SXcy5bWcVTSA1cvHTPfEi"
+      "duration_ms": 329280,
+      "name": "The Seasons, Op. 37a: VI. June. Barcarolle",
+      "url": "https://open.spotify.com/track/5PJv9lOarcROmaA9hDmdnJ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -403,6 +403,38 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Rabbitts",
+          "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        },
+        {
+          "name": "Fronzilla",
+          "url": "https://open.spotify.com/artist/2JvkRVVvySroPAtnf3sEW3"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Yes - Mind Games Meditation Mix",
         "url": "https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14"
       },
@@ -439,38 +471,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Rabbitts",
-          "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        },
-        {
-          "name": "Fronzilla",
-          "url": "https://open.spotify.com/artist/2JvkRVVvySroPAtnf3sEW3"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Other Landscapes, Vol. 1",
         "url": "https://open.spotify.com/album/3mRM87d7RHlFrF27fWhAtD"
       },
@@ -487,24 +487,8 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "\u0411\u0435\u043b\u0430\u044f \u041f\u043e\u043b\u043e\u0441\u0430 / Belaya Polosa",
-        "url": "https://open.spotify.com/album/1zoNknVyk2LDUcZWVxATbC"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "\u0411\u0435\u043b\u0430\u044f \u041f\u043e\u043b\u043e\u0441\u0430 / Belaya Polosa",
-      "url": "https://open.spotify.com/track/5Q2nwpPOPSRA3YceejOc9H"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "We Don't Care",
-        "url": "https://open.spotify.com/album/0LCoxC1ihyaiygfwk7Rt3L"
+        "name": "Call The Devil",
+        "url": "https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o"
       },
       "artists": [
         {
@@ -512,9 +496,9 @@
           "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
         }
       ],
-      "duration_ms": 229026,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/0pCmQxPKjj9roW9HJcgmYL"
+      "duration_ms": 280560,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/7EPpqsbDMJjHf6IL0l9g3D"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -531,78 +515,6 @@
       "duration_ms": 290431,
       "name": "Burnin' For You - Live",
       "url": "https://open.spotify.com/track/5zAdE8QwyFuFExIFNOhPQR"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Canciones Sepia",
-        "url": "https://open.spotify.com/album/1FiOhClmJiIRz2yjVdzt9K"
-      },
-      "artists": [
-        {
-          "name": "La Brigida Orquesta",
-          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
-        }
-      ],
-      "duration_ms": 255888,
-      "name": "Mejor Olvidar Ciertas Cosas",
-      "url": "https://open.spotify.com/track/6GJarQJvGXahxeybW7NLbu"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Prana",
-        "url": "https://open.spotify.com/album/2xyAcE0OvftzBHfXHaaNKJ"
-      },
-      "artists": [
-        {
-          "name": "Hijos de las Hojas",
-          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
-        },
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 179442,
-      "name": "Prana",
-      "url": "https://open.spotify.com/track/5pa7JgUnE625Rgsd8WfnuK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "String Sextet in D Minor \"Souvenir de Florence\", Op. 70: 3. Allegro moderato",
-        "url": "https://open.spotify.com/album/4axnuwdAKlZI5qpNvkSevw"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Graub\u00fcnden Classical Archive",
-          "url": "https://open.spotify.com/artist/0djqxl12PvNPETXilusYSp"
-        }
-      ],
-      "duration_ms": 384375,
-      "name": "String Sextet in D Minor \"Souvenir de Florence\", Op. 70: 3. Allegro moderato",
-      "url": "https://open.spotify.com/track/3b9XyVYIBUIMZrkPfP75ps"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Don't Blame It On Me",
-        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Don't Blame It On Me",
-      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -643,22 +555,6 @@
       "duration_ms": 216213,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Somewhere Far Beyond (Revisited)",
-        "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "The Bard's Song - In the Forest - Revisited",
-      "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

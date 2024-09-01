@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 9 hr 58 min
+173 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [Squeeze](https://open.spotify.com/track/4ojhgXmaJTQ0f3k5RX9hV2) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:33 | 2024-06-11 |  |
 | [Superhero](https://open.spotify.com/track/2tCNtIXjzZwZ304vrTf5Ue) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l) | 3:28 | 2024-06-11 |  |
 | [Sweet Love](https://open.spotify.com/track/68QydKRMQZ1UXEhzpp7RWl) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Ain’t No Peace](https://open.spotify.com/album/1Rbika7sn7sLt2SGC7IxXf) | 3:20 | 2024-06-11 |  |
-| [Thank You](https://open.spotify.com/track/2b3Oxrb5Y2ybrhGrV3xaj2) | [Patch the Pirate](https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN) | [The Tumbleweed Opera](https://open.spotify.com/album/4tWRzWUSskFZmPwXtM6vPV) | 3:08 | 2024-06-11 |  |
+| [Thank You](https://open.spotify.com/track/2ZFWV9oGSqIv3dgVP90QPx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Thank You](https://open.spotify.com/album/1Jqe3yQwTDC9ZGzjT9HTAs) | 4:33 | 2024-08-31 |  |
+| [Thank You](https://open.spotify.com/track/2b3Oxrb5Y2ybrhGrV3xaj2) | [Patch the Pirate](https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN) | [The Tumbleweed Opera](https://open.spotify.com/album/4tWRzWUSskFZmPwXtM6vPV) | 3:08 | 2024-06-11 | 2024-09-01 |
 | [The Flood](https://open.spotify.com/track/78vhO9k0vcok9qm2ixTmUh) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:55 | 2024-06-11 |  |
 | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/track/3gCBF4XZx7dmEtaRDoQLEd) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Moves \(feat\. Muni Long & Nile Rodgers\)](https://open.spotify.com/album/2i7fwqOqVisYDooEIzk3Tr) | 2:50 | 2024-06-11 |  |
 | [The Recipe \(with Muni Long\)](https://open.spotify.com/track/4xDoRWwnUASi910ArPewng) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:08 | 2024-06-11 |  |

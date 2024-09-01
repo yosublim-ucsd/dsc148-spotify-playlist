@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Alpha Waves",
+        "url": "https://open.spotify.com/album/33guGrGrZAsr6gwyErOV5p"
+      },
+      "artists": [
+        {
+          "name": "SP-Mato",
+          "url": "https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113414,
+      "name": "Alpha Waves",
+      "url": "https://open.spotify.com/track/0wpAmK6X3tahuC7XGXr3U1"
+    },
+    {
+      "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/2IyYd9nPtLMIn3XebCu6G4"
       },
@@ -11642,7 +11660,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 180000,
       "name": "quarantine blues",
       "url": "https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a"

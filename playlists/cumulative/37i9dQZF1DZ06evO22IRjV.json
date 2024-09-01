@@ -831,6 +831,28 @@
     },
     {
       "album": {
+        "name": "LOVE & JUSTICE/CHOJIN",
+        "url": "https://open.spotify.com/album/3s7ABr2FsbtrnrP27g7T1J"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267173,
+      "name": "LOVE & JUSTICE",
+      "url": "https://open.spotify.com/track/3iSiMTPBp6GTRURf73OIH8"
+    },
+    {
+      "album": {
         "name": "LOVE & JUSTICE/\u8d85\u4eba",
         "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
       },
@@ -846,7 +868,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 267173,
       "name": "LOVE & JUSTICE",
       "url": "https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv"

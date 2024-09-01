@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Offset. Los temas esenciales, todos en una lista.",
+  "description": "This is Offset. The essential tracks, all in one playlist.",
   "name": "This Is Offset",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 192427,
       "name": "CODE (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 104863,
       "name": "Violation Freestyle",
       "url": "https://open.spotify.com/track/0NTypJrNfmemkF1GevCWSf"

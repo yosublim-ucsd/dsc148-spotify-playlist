@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con ALMAS en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79534,
+  "num_followers": 79525,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
+        "name": "lagunas",
+        "url": "https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "lagunas",
+      "url": "https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
         "name": "EL NI\u00d1O DE LOS CORAZONES",
         "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 229333,
       "name": "LAS PRIMERAS FLORES",
       "url": "https://open.spotify.com/track/5uqczHBwq5jCxlhfOmzMPm"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
-        "name": "lagunas",
-        "url": "https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "lagunas",
-      "url": "https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
+        "name": "El Crush",
+        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Crush",
+      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
         "name": "todos los d\u00edas",
         "url": "https://open.spotify.com/album/1V60bSO7MoRte4DJ0YgL2s"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 212093,
       "name": "todos los d\u00edas",
       "url": "https://open.spotify.com/track/4jCxY9Lz53qbTBWNoaA7xD"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
-        "name": "El Crush",
-        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
-      },
-      "artists": [
-        {
-          "name": "Alan Navarro",
-          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Crush",
-      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "TONY MONTANA",
-        "url": "https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "TONY MONTANA",
-      "url": "https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
         "name": "Escuchado",
         "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 182546,
       "name": "Escuchado",
       "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
+        "name": "TONY MONTANA",
+        "url": "https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "TONY MONTANA",
+      "url": "https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
         "name": "feliz a\u00f1o nuevo",
         "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
         "name": "rangerover",
         "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 186945,
       "name": "rangerover",
       "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+    },
+    {
+      "added_at": "2024-08-16 15:48:59",
+      "album": {
         "name": "Fortuna y Maldici\u00f3n",
         "url": "https://open.spotify.com/album/5pevKZr0dFpIxFGmUwXoKx"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 171725,
       "name": "contigo me siento en casa",
       "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
-    },
-    {
-      "added_at": "2024-08-16 15:48:59",
-      "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2024-08-16 15:48:59",

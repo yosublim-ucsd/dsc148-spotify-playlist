@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Haviah Mighty
 
-1,610 songs - 3 day 2 hr 31 min
+1,611 songs - 3 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | [No Distractions](https://open.spotify.com/track/5dSCrmgU6MuUuZpcwBqDgR) | [Kampaign](https://open.spotify.com/artist/021PSEmPylGATns0ys7XTf) | [No Distractions](https://open.spotify.com/album/37ZnBbRaQboKuEapumouQE) | 2:54 | 2022-08-26 | 2022-09-24 |
 | [NO DOGS ALLOWED](https://open.spotify.com/track/3Ejg3n0wYfnC0fDjeVLm3S) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [NO DOGS ALLOWED](https://open.spotify.com/album/6r5gr5fWJpmrBx1WZp4FrC) | 2:24 | 2024-08-09 |  |
 | [NO EMOTION / ADRENALINE](https://open.spotify.com/track/6Kv0nSSKP1GxJsZCCh3DrM) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [NO EMOTION / ADRENALINE](https://open.spotify.com/album/0nBp7q8MwjEjqojkCznuJc) | 3:25 | 2024-02-09 | 2024-03-09 |
+| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-08-31 |  |
 | [NO FLYING FCKS](https://open.spotify.com/track/0uhG0jUIigQvG3ydHLYUW7) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [YAAA EHHH](https://open.spotify.com/album/1CzMwwNPw9aYauCPdbmCDX) | 2:48 | 2024-05-03 | 2024-06-15 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2022-01-07 | 2022-02-05 |
 | [No Guidance](https://open.spotify.com/track/3RKPzLM62TCmnaQD0LjO2i) | [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL) | [No Guidance](https://open.spotify.com/album/2FuPyLh4Q7S2yB2dhcSGta) | 2:18 | 2022-08-12 | 2022-09-10 |

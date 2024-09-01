@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Immanuel Wilkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,306 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,413 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 8 | [Saudade](https://open.spotify.com/track/7cJ0b6aCCFHd1GknFgazIF) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k), [Ka'Cye Thompkins](https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I) | [Saudade](https://open.spotify.com/album/2jcC7PjxJd0jhJbv3AKxnk) | 3:35 |
 | 9 | [GOLD＆TURQUOISE](https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [GOLD＆TURQUOISE](https://open.spotify.com/album/6SypSk7Nl6Zx27Perwnv6i) | 4:22 |
 | 10 | [Summertime](https://open.spotify.com/track/5t9OXfSNOOc8F5JdO1OI6g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Summertime](https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I) | 4:23 |
-| 11 | [I Got Rhythm](https://open.spotify.com/track/5a46JMV8g83BbMwkPenrBN) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Dan Chmielinski](https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD) | [I Got Rhythm](https://open.spotify.com/album/5PZxy3nda4ovq2PSIghScn) | 4:53 |
+| 11 | [I've Got Rhythm](https://open.spotify.com/track/5a46JMV8g83BbMwkPenrBN) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Dan Chmielinski](https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD) | [I've Got Rhythm](https://open.spotify.com/album/5PZxy3nda4ovq2PSIghScn) | 4:53 |
 | 12 | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY) | 4:05 |
 | 13 | [Feels Like Yesterday](https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Feels Like Yesterday](https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk) | 2:09 |
 | 14 | [Trouble](https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [No More Water: The Gospel Of James Baldwin](https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ) | 7:18 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-514 songs - 1 day 4 hr 11 min
+515 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Chosen Family](https://open.spotify.com/track/7ESINUDVrHhoPNY3oslqKC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:05 | 2024-02-27 |  |
 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 | 2024-02-27 |  |
 | [Christmas Morning](https://open.spotify.com/track/3e6hg15CXjN8t5bLHSiMtU) | [kennedi](https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:41 | 2024-02-27 |  |
-| [Chromatica I](https://open.spotify.com/track/3CGZ7wfk4skmuyQgua1C1K) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 1:00 | 2024-08-08 |  |
+| [Chromatica I](https://open.spotify.com/track/3CGZ7wfk4skmuyQgua1C1K) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 1:00 | 2024-08-08 | 2024-09-01 |
+| [Chromatica II](https://open.spotify.com/track/0oQc0F6KUE7QY7k5TU6bic) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 0:41 | 2024-08-31 |  |
 | [City Of Angels](https://open.spotify.com/track/2x9R9Z8Kqdt9h8PoNvLr4T) | [The Generators](https://open.spotify.com/artist/6kqxi34Br8uzuKUQ8KVOyw) | [Welcome To The End](https://open.spotify.com/album/4CNLqYdkPZoVO2l3rs9DFr) | 3:27 | 2024-02-27 |  |
 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 | 2024-02-27 |  |
 | [Close](https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:54 | 2024-02-27 |  |

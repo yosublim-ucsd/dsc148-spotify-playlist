@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's emerging artists!  Cover: <a href="spotify:artist:3CltJZLndpJKtpUyRVBB1k">808 Beezy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,019 likes - 69 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,036 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

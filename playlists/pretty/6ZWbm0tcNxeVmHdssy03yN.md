@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,719 likes - 98 songs - 5 hr 2 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,729 likes - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 66 | [Pinxadão](https://open.spotify.com/track/4t4V2ptzeV94uXjUS1X18F) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Eletrofunk Raiz](https://open.spotify.com/album/34GleyRUWxC5I2pn6rgmwr) | 2:18 |
 | 67 | [Mr Brown](https://open.spotify.com/track/3fU6ckIJpYFLgS5JhYDHo9) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Mr Brown](https://open.spotify.com/album/34mLFgw2MYc1SOUBW0M0JZ) | 3:07 |
 | 68 | [SINGLE\*](https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [SINGLE\*](https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm) | 1:54 |
-| 69 | [Country Plains](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
+| 69 | [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
 | 70 | [The Women Who Raised Me](https://open.spotify.com/track/5KQsuSeWwKZCpQwL151Ue7) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [The Women Who Raised Me](https://open.spotify.com/album/54ugQecBEpbHSCrjBodBtn) | 3:12 |
 | 71 | [Supernova](https://open.spotify.com/track/77r6GN5cz80VHAh5S3F73m) | [Pretty Uglys](https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9) | [Supernova](https://open.spotify.com/album/1WrOh0q75ij2JFxtOLyvEW) | 3:23 |
 | 72 | [All I Ever](https://open.spotify.com/track/1fWZ0dIhGGEXJ0P1PvqzGv) | [High Years](https://open.spotify.com/artist/6vL4HOFKmTHBQeZ78t7wvg), [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Alto Moon](https://open.spotify.com/artist/2W4YmwLWetZICb80JxlNwS) | [A Motel in the Neon Outlands](https://open.spotify.com/album/5YmIBuyJqHfsoSbEkhuAHs) | 3:21 |

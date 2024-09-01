@@ -2,7 +2,7 @@
 
 ### [This Is Delia Derbyshire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t4K4x)
 
-> This is Delia Derbyshire\. Todos os maiores hits em uma só playlist.
+> This is Delia Derbyshire\. The essential tracks, all in one playlist.
 
 89 songs - 5 hr 0 min
 
@@ -32,9 +32,9 @@
 | [Doctor Who Closing Title Theme \- 53" Version](https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU) | 0:55 | 2022-12-21 |  |
 | [Doctor Who Closing Title Theme \- 53'' Version](https://open.spotify.com/track/6j0lGczgs13shAl0iFHfN2) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b) | 0:55 | 2022-07-26 | 2022-11-06 |
 | [Doctor Who Closing Titles \(40" Version\)](https://open.spotify.com/track/3DLtzJulhFfQBRqwiuhwyC) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The 50th Anniversary Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q) | 1:15 | 2022-05-29 | 2023-04-02 |
-| [Doctor Who Opening Title Theme](https://open.spotify.com/track/4ITAjGy9P1UlPbjxes9KgE) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- Revenge of the Cybermen \(Original Television Soundtrack\)](https://open.spotify.com/album/0XUXqOCPqAlEod8erfAG5C) | 0:45 | 2024-07-11 |  |
+| [Doctor Who Opening Title Theme](https://open.spotify.com/track/4ITAjGy9P1UlPbjxes9KgE) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- Revenge of the Cybermen \(Original Television Soundtrack\)](https://open.spotify.com/album/0XUXqOCPqAlEod8erfAG5C) | 0:45 | 2024-07-11 | 2024-09-01 |
 | [Doctor Who Opening Title Theme](https://open.spotify.com/track/2Izs9XIs1FJCdbgJKSV7ni) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- the Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3) | 0:46 | 2022-05-29 | 2022-10-01 |
-| [Doctor Who Opening Title Theme](https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU) | 0:46 | 2022-12-23 | 2024-07-11 |
+| [Doctor Who Opening Title Theme](https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU) | 0:46 | 2022-12-23 |  |
 | [Doctor Who Opening Title Theme](https://open.spotify.com/track/6YB4kP8ZMACLbOU1edQFan) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The Sun Makers \(Original Television Soundtrack\)](https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b) | 0:46 | 2022-09-21 | 2022-12-24 |
 | [Doctor Who Opening Title Theme](https://open.spotify.com/track/3neF5aqJRfdHgEKqnV7Fke) | [Ron Grainer](https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [Doctor Who \- The 50th Anniversary Collection \(Original Television Soundtrack\)](https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q) | 0:44 | 2022-05-29 | 2023-05-05 |
 | [Dr\. Who](https://open.spotify.com/track/7bhcpGwtx7XToXJUcVIdLD) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:31 | 2022-05-29 | 2022-12-24 |

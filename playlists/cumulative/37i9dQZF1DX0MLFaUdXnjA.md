@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Mark Ambor
 
-1,905 songs - 4 day 6 hr 28 min
+1,906 songs - 4 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Another Day](https://open.spotify.com/track/3EglIzKtf6hgUcPRuITBzK) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Another Day](https://open.spotify.com/album/5cP4INNMwj2Am8Su6KEnBS) | 2:33 | 2021-09-11 | 2022-06-04 |
 | [Another Holiday](https://open.spotify.com/track/5K390niNPXK9ycJDG7QyVU) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Another Holiday](https://open.spotify.com/album/0SWArQv4sxQVoYEIqaDVe3) | 3:46 | 2020-12-13 | 2021-02-19 |
 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-06-30 | 2023-07-29 |
-| [Anxious](https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Anxious](https://open.spotify.com/album/2I65asGzHk1UogiMuM0BIe) | 2:26 | 2024-06-28 |  |
+| [Anxious](https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Anxious](https://open.spotify.com/album/2I65asGzHk1UogiMuM0BIe) | 2:26 | 2024-06-28 | 2024-09-01 |
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-04-24 | 2021-06-26 |
 | [Anyone Else](https://open.spotify.com/track/6DSHbo7m9awD387qT89mKU) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Anyone Else](https://open.spotify.com/album/67yPiCl98MfBCUpytiHuYm) | 3:20 | 2020-07-18 | 2020-09-25 |
 | [Anyone Who Loves Me](https://open.spotify.com/track/2AK96stPEvMLwVWrIo37zo) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 3:56 | 2021-04-24 | 2021-07-04 |
@@ -890,6 +890,7 @@
 | [Jump to Fall](https://open.spotify.com/track/23BwqOEvkwfnOawh1VGedD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Jump to Fall](https://open.spotify.com/album/1ZEEGv1mpRFdMDStKkQ5ZO) | 3:45 | 2021-11-06 | 2021-11-20 |
 | [JUMPIN \(feat\. MILES\)](https://open.spotify.com/track/1O74puD8I4KuXaa9N5j7ME) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t), [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [JUMPIN \(feat\. MILES\)](https://open.spotify.com/album/0WB4yWdleurzMbRea8wEtt) | 2:42 | 2020-11-06 | 2021-02-19 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-24 |  |
+| [June Gloom](https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 3:00 | 2024-08-31 |  |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2023-02-18 |
 | [Just Don't Know It Yet](https://open.spotify.com/track/3gATMpdrZqQIws1Bks8n0O) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Just Don't Know It Yet](https://open.spotify.com/album/3XLyVpNKVG7alNAIZ1jVXE) | 2:57 | 2023-04-14 | 2023-06-17 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-10-06 | 2023-12-02 |

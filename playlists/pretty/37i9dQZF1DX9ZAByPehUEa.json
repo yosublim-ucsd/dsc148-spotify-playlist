@@ -1,6 +1,6 @@
 {
   "description": "A happy place \ud83e\udea9\ud83e\udea9",
-  "num_followers": 324472,
+  "num_followers": 324493,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
@@ -963,8 +963,8 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
       "artists": [
         {
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 202648,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
       },
       "artists": [
         {
@@ -1072,13 +1072,13 @@
           "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         },
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "All I've Got",
-        "url": "https://open.spotify.com/album/3YHpgtyPexAIoTk7znG9aW"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 181308,
-      "name": "All I've Got",
-      "url": "https://open.spotify.com/track/3sz9aYLzEjrN9B4d4m1EwL"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love You Better",
         "url": "https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 194754,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All I've Got",
+        "url": "https://open.spotify.com/album/3YHpgtyPexAIoTk7znG9aW"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 181308,
+      "name": "All I've Got",
+      "url": "https://open.spotify.com/track/3sz9aYLzEjrN9B4d4m1EwL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1643,6 +1643,30 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Armaghetton (Aeroplane Remix)",
+        "url": "https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Greeko",
+          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
+        },
+        {
+          "name": "Aeroplane",
+          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Armaghetton - Aeroplane Remix",
+      "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Electric Energy",
         "url": "https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 184687,
       "name": "Disco Tool",
       "url": "https://open.spotify.com/track/6MXaI09ksTQ0FmMswDjPG6"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Armaghetton (Aeroplane Remix)",
-        "url": "https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh"
-      },
-      "artists": [
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
-        },
-        {
-          "name": "Greeko",
-          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
-        },
-        {
-          "name": "Aeroplane",
-          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Armaghetton - Aeroplane Remix",
-      "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ordinary Love (Folamour Remix)",
-        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "Ordinary Love - Folamour Remix",
-      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ordinary Love (Folamour Remix)",
+        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "Ordinary Love - Folamour Remix",
+      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Tension (The Remixes)",
+        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Tension (Chromeo Remix)",
+      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 217000,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Tension (The Remixes)",
-        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Tension (Chromeo Remix)",
-      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1941,6 +1941,26 @@
       "url": "https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT"
     },
     {
+      "added_at": "2024-08-30 19:55:33",
+      "album": {
+        "name": "SNAKEGANG EP Volume 1 - Deluxe",
+        "url": "https://open.spotify.com/album/0pRwoX0GS6ctO7ra9jEsgn"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "SNAKEGANG",
+          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
+        }
+      ],
+      "duration_ms": 174247,
+      "name": "Don't Rush",
+      "url": "https://open.spotify.com/track/0qllFL7DhcGpGSSj8j79Rw"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "all that i need <3",
@@ -1957,24 +1977,20 @@
       "url": "https://open.spotify.com/track/1bOMu54t2s2r8bWUNZpKHf"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "BBYGIRL EP",
-        "url": "https://open.spotify.com/album/4EnIgXTSRQmLbgBd92heFR"
+        "name": "dancebaby",
+        "url": "https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk"
       },
       "artists": [
         {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
         }
       ],
-      "duration_ms": 137647,
-      "name": "HOLD TIGHT",
-      "url": "https://open.spotify.com/track/289tmBFmHQMK6smVI5V1z2"
+      "duration_ms": 174545,
+      "name": "dancebaby",
+      "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1997,20 +2013,24 @@
       "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "dancebaby",
-        "url": "https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk"
+        "name": "BBYGIRL EP",
+        "url": "https://open.spotify.com/album/4EnIgXTSRQmLbgBd92heFR"
       },
       "artists": [
         {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
         }
       ],
-      "duration_ms": 174545,
-      "name": "dancebaby",
-      "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
+      "duration_ms": 137647,
+      "name": "HOLD TIGHT",
+      "url": "https://open.spotify.com/track/289tmBFmHQMK6smVI5V1z2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2093,6 +2113,22 @@
       "url": "https://open.spotify.com/track/1igxWL3hFmQTISSoq2KvYq"
     },
     {
+      "added_at": "2024-08-23 16:23:45",
+      "album": {
+        "name": "Dance With You (All Night)",
+        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 268401,
+      "name": "Dance With You (All Night)",
+      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Finally Ready (feat. Billy Porter)",
@@ -2147,22 +2183,6 @@
       "duration_ms": 127058,
       "name": "girlgetdown",
       "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
-    },
-    {
-      "added_at": "2024-08-23 16:23:45",
-      "album": {
-        "name": "Dance With You (All Night)",
-        "url": "https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 268401,
-      "name": "Dance With You (All Night)",
-      "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2315,6 +2335,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "BONKERS",
+        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "BONKERS",
+      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "My Lovin'",
         "url": "https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6"
       },
@@ -2355,22 +2391,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "BONKERS",
-        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "BONKERS",
-      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Baciami",
         "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
@@ -2391,22 +2411,6 @@
       "duration_ms": 176063,
       "name": "Baciami",
       "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Love Takeover",
-        "url": "https://open.spotify.com/album/1ZrVMXLDZVW8elSjuqsHl6"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Love Takeover",
-      "url": "https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE"
     }
   ],
   "unique_name": "DISCOLAND",

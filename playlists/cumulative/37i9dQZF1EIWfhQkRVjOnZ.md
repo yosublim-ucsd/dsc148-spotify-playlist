@@ -2,7 +2,7 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
 
 147 songs - 8 hr 55 min
 
@@ -131,14 +131,14 @@
 | [The Radiance](https://open.spotify.com/track/1Zm7oQOJS1LOLiQeydRQHD) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:15 | 2024-06-11 | 2024-06-20 |
 | [There Can Be No Hesitation](https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:35 | 2024-04-23 |  |
 | [Thin Black Lines](https://open.spotify.com/track/5BkhnNgh3uyVrHrDw023Xp) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [Bury Me Alive](https://open.spotify.com/album/1Qsbs4c7I7UC2MjWgKVOWy) | 2:03 | 2024-05-24 | 2024-06-04 |
-| [Thirty and Seven](https://open.spotify.com/track/1EoFJOAMAhkitbduAGRYaj) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:18 | 2024-07-30 | 2024-08-31 |
-| [Thirty One & Sevens](https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Beloved \(Deluxe Edition\)](https://open.spotify.com/album/28B5fkCs91LYxB61sBHCHV) | 3:25 | 2024-05-24 |  |
+| [Thirty and Seven](https://open.spotify.com/track/1EoFJOAMAhkitbduAGRYaj) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:18 | 2024-07-30 |  |
+| [Thirty One & Sevens](https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Beloved \(Deluxe Edition\)](https://open.spotify.com/album/28B5fkCs91LYxB61sBHCHV) | 3:25 | 2024-05-24 | 2024-09-01 |
 | [Thirty Three](https://open.spotify.com/track/0qOUuIgtAPgh5bE7Mf5upL) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Get What You Give](https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v) | 3:07 | 2024-04-25 | 2024-05-15 |
 | [This Is Who We Are](https://open.spotify.com/track/2lUh4kkepza5MHsPQZNShn) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:54 | 2024-04-23 | 2024-08-30 |
 | [Those in Glass Houses](https://open.spotify.com/track/2BQweirrpIiMOx0tNtjTXe) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:42 | 2024-04-26 | 2024-06-14 |
 | [Thoughts In Reverse](https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 2:35 | 2024-04-23 |  |
 | [Tithemi](https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj) | [Sleeping Giant](https://open.spotify.com/artist/6nFjP8zBYm0XpUrGMJkRuX) | [Kingdom Days In an Evil Age](https://open.spotify.com/album/4UlZLfWT8dWgtvUDdNR6AX) | 3:56 | 2024-04-23 | 2024-05-16 |
-| [Truth of a Liar](https://open.spotify.com/track/6dFnYSNPNIq5l0zXf229dT) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Messengers](https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB) | 4:12 | 2024-07-30 | 2024-08-31 |
+| [Truth of a Liar](https://open.spotify.com/track/6dFnYSNPNIq5l0zXf229dT) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Messengers](https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB) | 4:12 | 2024-07-30 |  |
 | [Underwater](https://open.spotify.com/track/3LfpC5MpNuLmWc0fCOlTfC) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 5:14 | 2024-05-18 | 2024-08-06 |
 | [Up All Night](https://open.spotify.com/track/4s1XgdLhMuYFh5Npxo6ZMv) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP) | 4:14 | 2024-04-25 | 2024-05-12 |
 | [Upside Down Kingdom](https://open.spotify.com/track/6faKQnSrAnVWk1dhYY8dXL) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [The Powerless Rise](https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk) | 4:00 | 2024-08-28 | 2024-08-30 |
@@ -146,7 +146,7 @@
 | [Vices Like Vipers](https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [When I Am God](https://open.spotify.com/album/5e88yfR4rUCg4YbNI1xR41) | 4:18 | 2024-05-16 |  |
 | [We Stand](https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:47 | 2024-04-23 |  |
 | [When Everything Falls](https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [When Everything Falls](https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp) | 4:11 | 2024-04-23 | 2024-08-04 |
-| [Whispers \(I Hear You\)](https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:39 | 2024-04-23 |  |
+| [Whispers \(I Hear You\)](https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:39 | 2024-04-23 | 2024-09-01 |
 | [White Light](https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Get What You Give](https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v) | 4:50 | 2024-04-23 | 2024-05-16 |
 | [With A Thousand Words To Say But One](https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Undoing Ruin](https://open.spotify.com/album/3CpqdDHKPxCakKYu5XP2SU) | 4:22 | 2024-04-23 | 2024-05-25 |
 | [With The Wolves](https://open.spotify.com/track/54t3PG4GNYxO8D4rRSFJ0X) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Dear Youth](https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1) | 3:53 | 2024-04-26 | 2024-04-27 |

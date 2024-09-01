@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-409 songs - 1 day 1 hr 46 min
+410 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Survival Of The Strongest](https://open.spotify.com/track/78xMNvfmAiTAtZsJLqSZ6v) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5) | [The Audition](https://open.spotify.com/album/6a7WtgHQTCUKXkoWKEzZBK) | 4:10 | 2021-08-11 | 2022-07-29 |
 | [Swimming Team](https://open.spotify.com/track/6jwZQIS9nPUQ7yCCouusqx) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Swimming Team](https://open.spotify.com/album/1CsdJqEMw20SvnpiYaOwuX) | 3:26 | 2019-11-19\* | 2021-02-06 |
 | [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2019-11-19\* | 2020-12-22 |
+| [Tell Me How](https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Tell Me How](https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv) | 3:17 | 2024-08-29 |  |
 | [Temps](https://open.spotify.com/track/5jh147eWeuNyimT2Oo1A5J) | [Mellow Gang](https://open.spotify.com/artist/048vFxJzjmNds1zJjeZ3mP) | [Temps](https://open.spotify.com/album/4zLS3ANkrGUVlKjz7PvG73) | 3:46 | 2019-11-19\* | 2021-02-06 |
 | [Tenderness](https://open.spotify.com/track/0l4cR2AZ18MktMd0BU3zwh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/7zNsEEBdQImuX9pFfDMblw) | 4:01 | 2020-12-22 | 2022-07-29 |
 | [Tenderness](https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 4:01 | 2022-07-06 | 2022-11-25 |
@@ -369,7 +370,7 @@
 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 | 2019-11-19\* |  |
 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 | 2022-04-01 |  |
 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 | 2024-01-26 |  |
-| [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 | 2020-02-11 |  |
+| [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 | 2020-02-11 | 2024-09-01 |
 | [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 | 2024-01-26 |  |
 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 | 2020-08-09 | 2022-04-21 |
 | [The Photograph](https://open.spotify.com/track/225WgsvbK6RoIH6Y7OhKP2) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Photograph](https://open.spotify.com/album/2euiMSz9ZRKYiM4PeACicB) | 3:40 | 2019-11-19\* | 2020-08-09 |

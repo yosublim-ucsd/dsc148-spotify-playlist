@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 167691,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/5MmCBut3K1DS3SJtjVDluN"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 165078,
       "name": "Everything I Cannot Live Without",
       "url": "https://open.spotify.com/track/2QmjlN2galNBzuLxbiOirz"
@@ -864,6 +864,24 @@
     {
       "album": {
         "name": "Learning How To Live And Let Go",
+        "url": "https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251558,
+      "name": "It Aint Easy",
+      "url": "https://open.spotify.com/track/2x9B3R3pXAgzfuFL0NJMCD"
+    },
+    {
+      "album": {
+        "name": "Learning How To Live And Let Go",
         "url": "https://open.spotify.com/album/1BkBunl3Wug629qK7Ke1T2"
       },
       "artists": [
@@ -874,7 +892,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 122528,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"

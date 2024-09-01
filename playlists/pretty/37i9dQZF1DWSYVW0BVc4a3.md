@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > 6 in the morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,583 likes - 229 songs - 16 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,683 likes - 229 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 208 | [again and again \- Solomun Remix](https://open.spotify.com/track/02Gm7gzLWx7u9OkB3YrJrT) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [otherside \(remixes\)](https://open.spotify.com/album/3bAu4jBHLHe2ngHe9OpTPU) | 5:39 |
 | 209 | [Kelly \- Denis Horvat Remix](https://open.spotify.com/track/30DlzbvhRl1rC1lRJsqLkk) | [Auggië](https://open.spotify.com/artist/5NExMFya2Tu4I4DlTHKOMe), [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Kelly](https://open.spotify.com/album/63BE3wQjHlUmvvrF9oxRyx) | 7:14 |
 | 210 | [Funk Soul Brother \- GENESI Edit](https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Funk Soul Brother \(GENESI Edit\)](https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w) | 3:18 |
-| 211 | [ghost \(feat\. HUMAN\) \- Alex Wann Remix](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [ghost \(feat\. HUMAN\) \[Alex Wann Remix\]](https://open.spotify.com/album/72cnTA7svTEtPEVa081Ccf) | 3:52 |
+| 211 | [ghost \(feat\. HUMAN\) \- Alex Wann Remix](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [ghost \(feat\. HUMAN\) \- Alex Wann Remix](https://open.spotify.com/album/72cnTA7svTEtPEVa081Ccf) | 3:52 |
 | 212 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 |
 | 213 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 |
 | 214 | [Perfect Love \- Biscits Remix](https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Perfect Love \(Biscits Remix\)](https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj) | 3:11 |

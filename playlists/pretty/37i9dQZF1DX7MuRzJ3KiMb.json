@@ -1,6 +1,6 @@
 {
   "description": "Fortis Fortuna Adiuvat\ud83c\udf77\u00a1Disfruta del soundtrack de la pel\u00edcula y nos vemos en el cine el 12 de Septiembre! ",
-  "num_followers": 92314,
+  "num_followers": 92312,
   "original_name": "Casi El Para\u00edso",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-08-30 17:56:59",
       "album": {
+        "name": "Casi El Para\u00edso",
+        "url": "https://open.spotify.com/album/1ijlfDH5GPqhRBDYIqZEC3"
+      },
+      "artists": [
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Casi El Para\u00edso",
+      "url": "https://open.spotify.com/track/5H0OvlUIMnXy94ImiUhdG0"
+    },
+    {
+      "added_at": "2024-08-30 17:56:59",
+      "album": {
         "name": "Amore che vieni, amore che vai",
         "url": "https://open.spotify.com/album/0gzV9UvKkh2gfA8rzEhNNo"
       },
@@ -115,22 +131,6 @@
     {
       "added_at": "2024-08-30 17:56:59",
       "album": {
-        "name": "Casi El Para\u00edso",
-        "url": "https://open.spotify.com/album/1ijlfDH5GPqhRBDYIqZEC3"
-      },
-      "artists": [
-        {
-          "name": "Karol Sevilla",
-          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Casi El Para\u00edso",
-      "url": "https://open.spotify.com/track/5H0OvlUIMnXy94ImiUhdG0"
-    },
-    {
-      "added_at": "2024-08-30 17:56:59",
-      "album": {
         "name": "Latin Pop",
         "url": "https://open.spotify.com/album/5dWwbfIbMshWyhgQyM40rp"
       },
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-08-30 17:56:59",
       "album": {
-        "name": "Salsa de Exportaci\u00f3n Con Berraquera, Vol. 1",
-        "url": "https://open.spotify.com/album/2gH3Hos2ykqWESmLgzo3QY"
-      },
-      "artists": [
-        {
-          "name": "Wilson y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/48ukcJ99YY4i9RzWNuKAju"
-        }
-      ],
-      "duration_ms": 334288,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4LPoIcXpxoEMdZuIFHNF46"
-    },
-    {
-      "added_at": "2024-08-30 17:56:59",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0yuiugUiG3sCOMJG7CmGal"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 157285,
       "name": "Money",
       "url": "https://open.spotify.com/track/63mGulQEUtSI8jEvVxCr8e"
+    },
+    {
+      "added_at": "2024-08-30 17:56:59",
+      "album": {
+        "name": "Salsa de Exportaci\u00f3n Con Berraquera, Vol. 1",
+        "url": "https://open.spotify.com/album/2gH3Hos2ykqWESmLgzo3QY"
+      },
+      "artists": [
+        {
+          "name": "Wilson y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/48ukcJ99YY4i9RzWNuKAju"
+        }
+      ],
+      "duration_ms": 334288,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4LPoIcXpxoEMdZuIFHNF46"
     },
     {
       "added_at": "2024-08-30 17:56:59",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-08-30 17:56:59",
       "album": {
-        "name": "Bring the Heat",
-        "url": "https://open.spotify.com/album/0dNi47IXi4dsdRgxZq5I50"
-      },
-      "artists": [
-        {
-          "name": "Bagsy",
-          "url": "https://open.spotify.com/artist/6n49lcX20SBZKYcQWfWclk"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1b82anwie57hQ2bGOeBLVr"
-    },
-    {
-      "added_at": "2024-08-30 17:56:59",
-      "album": {
         "name": "Luxe",
         "url": "https://open.spotify.com/album/4MMvGdgcQ4mNOtVRyp9WnB"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 215520,
       "name": "La Mia Vita",
       "url": "https://open.spotify.com/track/2SG8duTEZqLJ5BNY3c7RIm"
+    },
+    {
+      "added_at": "2024-08-30 17:56:59",
+      "album": {
+        "name": "Bring the Heat",
+        "url": "https://open.spotify.com/album/0dNi47IXi4dsdRgxZq5I50"
+      },
+      "artists": [
+        {
+          "name": "Bagsy",
+          "url": "https://open.spotify.com/artist/6n49lcX20SBZKYcQWfWclk"
+        }
+      ],
+      "duration_ms": 159426,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1b82anwie57hQ2bGOeBLVr"
     }
   ],
   "unique_name": "Casi El Para\u00edso",

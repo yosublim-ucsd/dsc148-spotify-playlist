@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,070 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,086 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 64 | [Indiana Jones Theme](https://open.spotify.com/track/60ZYLVPmSNY9r0Uquaivvs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Philharmonic Symphony Orchestra](https://open.spotify.com/artist/3KVFlfZ7gBNLbGMXp0efKH), [Richard Hayman](https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9) | [Classics at the Movies: Adventure](https://open.spotify.com/album/4Ni99xL6RBog7Z1xpdKZCk) | 5:35 |
 | 65 | [La carioca](https://open.spotify.com/track/7jVR2gSVYg6GNwbE4FbI33) | [Philippe Chany](https://open.spotify.com/artist/1y6zrMJgLVm8khnIIsWqoK), [Alain Chabat](https://open.spotify.com/artist/2az7X29Jk5Epmx81Yv1PnZ), [Gérard Darmon](https://open.spotify.com/artist/2G2O2WpqKBSMwfF7uRda3R) | [La cité de la peur \(Bande originale du film\)](https://open.spotify.com/album/2LEh0ccOvIlNdg8BUcDD6o) | 3:28 |
 | 66 | [The Good, the Bad and the Ugly \(From "The Good, the Bad and the Ugly"\)](https://open.spotify.com/track/150bCeASorH3nlZHCrWWz9) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Once Upon a Time in the West \- Ennio Morricone Music Collection \(The Complete Edition\)](https://open.spotify.com/album/2tEHkzwQcKi1B0h0QXVv7P) | 2:42 |
-| 67 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
+| 67 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \- The Original Motion Picture Soundtrack](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:49 |
 | 68 | [Twin Peaks Theme \- Instrumental](https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 5:10 |
 | 69 | [Society](https://open.spotify.com/track/1gqsdl891sEVlHjaV1bTR6) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/4kgUVxCBvTnJIeyHpclrNl) | 3:56 |
 | 70 | [Reality](https://open.spotify.com/track/1gci2QBGH5nzPWePv6ATom) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY), [Richard Sanderson](https://open.spotify.com/artist/2VYfYBKv8RPlY3MhwI7mSR) | [La boum \(Bande originale du film de Claude Pinoteau\)](https://open.spotify.com/album/57piLRISNJFwpMwXfWC5kL) | 4:49 |

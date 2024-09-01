@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,926 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,125 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 26 | [Cruel Summer](https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 3:35 |
 | 27 | [Chacun fait \(c'qui lui plait\)](https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6) | [Chagrin D'amour](https://open.spotify.com/artist/1LTi4SuPK0G9juYKxU6AAG) | [Chacun fait \(C'qui lui plait\)](https://open.spotify.com/album/0I18V9PWrPOG3JmOkLyysm) | 4:09 |
 | 28 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 |
-| 29 | [Boys](https://open.spotify.com/track/4DhFKDNG7R94j5UVhd2hnG) | [Sabrina](https://open.spotify.com/artist/3RPvO8agSVIgo2gbNwsLfo) | [Vinyles 80's : The Best Of](https://open.spotify.com/album/2eGbGjobP1GT5btM5SlD4L) | 3:54 |
+| 29 | [Boys \(Summertime Love\)](https://open.spotify.com/track/4DhFKDNG7R94j5UVhd2hnG) | [Sabrina](https://open.spotify.com/artist/3RPvO8agSVIgo2gbNwsLfo) | [Vinyles 80's : The Best Of](https://open.spotify.com/album/2eGbGjobP1GT5btM5SlD4L) | 3:54 |
 | 30 | [Ça \(c'est vraiment toi\) \- Remasterisé en 2015](https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 4:28 |
 | 31 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 32 | [Je te donne](https://open.spotify.com/track/2i353bK8WrQbJ3wfR6IYWm) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [La collection 81\-89](https://open.spotify.com/album/2iT1EvHl2FccugMI211gnF) | 4:22 |

@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Charley Crockett",
-  "num_followers": 64073,
+  "num_followers": 64078,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Long Time Coming",
-        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Tequila or Whiskey",
         "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 133695,
       "name": "Tequila or Whiskey",
       "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 161733,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "As It Ever Was, So It Will Be Again",
-        "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Long White Veil",
-      "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Hey There, Dolly",
         "url": "https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 193834,
       "name": "Hey There, Dolly",
       "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "As It Ever Was, So It Will Be Again",
+        "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Long White Veil",
+      "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Stampede: Vol. 1",
         "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 186284,
       "name": "The Hurtin' Kind",
       "url": "https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/4XOJb1TmbZGoEYccHZtImE"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 219684,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7oCpK9tIb7AYWq1ZEINJwY"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Resurrection Day",
         "url": "https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 169570,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Can't Blame My Bloodline",
+        "url": "https://open.spotify.com/album/6ITeNavFzK5orE9w5ejqJK"
+      },
+      "artists": [
+        {
+          "name": "Dallas Alexander",
+          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Can't Blame My Bloodline",
+      "url": "https://open.spotify.com/track/1zFZJC8qixpRp67nB3O5Kr"
     },
     {
       "added_at": "2024-08-30 04:00:00",

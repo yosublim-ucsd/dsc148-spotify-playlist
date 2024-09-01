@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,142 likes - 80 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,274 likes - 80 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 32 | [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \- Live](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 |
 | 33 | [Holy Spirit \- Live](https://open.spotify.com/track/1GiTQQi36ThygGBzjl0fg9) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 5:22 |
 | 34 | [They Always Do \- Live](https://open.spotify.com/track/1Tjw8b9Nkv1pKHrohw0sgl) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [They Always Do \(Live\)](https://open.spotify.com/album/0E92LMcaFJbJFM6XyIpBa9) | 6:08 |
-| 35 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
+| 35 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl) | [Living Breathing Miracle](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 |
 | 36 | [One Day \- Live](https://open.spotify.com/track/0v8weMqlIWquZKp8TknLxL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [One Day \- Live](https://open.spotify.com/album/5BBCFlQYG6rcvY8Kzs6P3s) | 4:22 |
 | 37 | [Here Is Our Hallelujah \- Live](https://open.spotify.com/track/6oSxwAZN0ce6iDYI891eL7) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb) | [Here Is Our Hallelujah \(Live\)](https://open.spotify.com/album/6jtQa95XthgzYaVCOTHSKS) | 5:00 |
 | 38 | [We Choose Praise \- Live](https://open.spotify.com/track/3Fg12qkxZokspmB4UUYHiZ) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [We Choose Praise \(Live\)](https://open.spotify.com/album/5Xi732fHAJZapcrvoVI4Vt) | 5:00 |

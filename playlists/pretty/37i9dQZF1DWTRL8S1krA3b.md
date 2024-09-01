@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,943 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 12 | [Hallelujah](https://open.spotify.com/track/3werrgm6Ubsn9E002AvrPk) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Hallelujah](https://open.spotify.com/album/2bIViPfmWVNHZMFvtwrhwj) | 3:51 |
 | 13 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 |
 | 14 | [Tangled In Tinsel](https://open.spotify.com/track/5VBDZziVRcONqiSxuBYr4I) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Decker The Halls](https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep) | 3:25 |
-| 15 | [White Christmas](https://open.spotify.com/track/1m0Vg0HfkCziCkerLLy9BF) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:05 |
+| 15 | [White Christmas](https://open.spotify.com/track/1m0Vg0HfkCziCkerLLy9BF) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \- Deluxe Edition](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:05 |
 | 16 | [Frosty The Snowman](https://open.spotify.com/track/57VOGNqMY7WENGvVlEdJg2) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Frosty The Snowman](https://open.spotify.com/album/7h7IPWqDrGBYGWz4QshfQ7) | 2:53 |
 | 17 | [Joy To The World](https://open.spotify.com/track/4pCfx1Mghl9ccOTK40wRBP) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Joy To The World](https://open.spotify.com/album/4KPj94cA1iorxv8Ki9rBrv) | 2:51 |
 | 18 | [O Come All Ye Faithful](https://open.spotify.com/track/7vAtxxIskJvuEjEzzZ5hco) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [O Come All Ye Faithful](https://open.spotify.com/album/77RAitt8pGClwqj64jOGEB) | 3:59 |

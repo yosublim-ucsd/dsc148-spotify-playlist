@@ -1,12 +1,12 @@
 {
-  "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 587714,
-  "original_name": "This Is blink-182",
+  "description": "This is \u30d6\u30ea\u30f3\u30af182\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 587820,
+  "original_name": "This Is \u30d6\u30ea\u30f3\u30af182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAADR1zpJJlHkXTCI4pBnKwy7",
+  "snapshot_id": "ZtELgAAAAABUbsieNKMQ9TFUKRD9TgAU",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
-        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
+      "duration_ms": 188155,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+        "name": "The Mark, Tom And Travis Show (The Enema Strikes Back!) [Live]",
+        "url": "https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 188155,
-      "name": "DANCE WITH ME",
-      "url": "https://open.spotify.com/track/5k2KDcpVLgyy0dr7uzdJit"
+      "duration_ms": 166733,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Happy Days",
-      "url": "https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif"
+      "duration_ms": 161066,
+      "name": "Another Girl Another Planet",
+      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Another Girl Another Planet",
-      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 146933,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi"
+      "duration_ms": 179000,
+      "name": "Happy Days",
+      "url": "https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif"
     },
     {
       "added_at": null,
@@ -820,11 +804,27 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
+      "duration_ms": 146933,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
       "duration_ms": 179440,
       "name": "Pin the Grenade",
       "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
     }
   ],
-  "unique_name": "This Is blink-182",
+  "unique_name": "This Is \u30d6\u30ea\u30f3\u30af182",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,464 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,498 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 10 | [Să te iubeasca cineva](https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Să te iubeasca cineva](https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8) | 2:59 |
 | 11 | [eRAI](https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [eRAI](https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7) | 2:44 |
 | 12 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |
-| 13 | [O lume minunată](https://open.spotify.com/track/0hn4ruKYjzmEe56Ygyye76) | [Andreea Balan](https://open.spotify.com/artist/0EzdKL71gSNlSxnAmEQeGV) | [O lume minunată](https://open.spotify.com/album/6jcAdXkiZHrDDvQxgA6gQk) | 3:26 |
+| 13 | [O lume minunată](https://open.spotify.com/track/0hn4ruKYjzmEe56Ygyye76) | [Andreea Balan](https://open.spotify.com/artist/0EzdKL71gSNlSxnAmEQeGV), [Ella Maya](https://open.spotify.com/artist/0NqiVrEQRCymGqZEF7alce), [Clara](https://open.spotify.com/artist/7qpc9jUNPbkUlegmS5pbke) | [O lume minunată](https://open.spotify.com/album/6jcAdXkiZHrDDvQxgA6gQk) | 3:26 |
 | 14 | [Mă mai ia](https://open.spotify.com/track/0fzJXPwzyhXfHPIorHk2Ju) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mă mai ia](https://open.spotify.com/album/5bAa6wpYhlERe0A4fTm0lX) | 2:48 |
 | 15 | [Puerto Rico](https://open.spotify.com/track/4SqWdHtamU1qTOuBeVj1Yi) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Puerto Rico](https://open.spotify.com/album/0fUCdNSe2YMzCAbe0Faznx) | 3:04 |
 | 16 | [Ai greșit](https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua) | [Andreea Banica](https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Ai greșit](https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg) | 3:05 |

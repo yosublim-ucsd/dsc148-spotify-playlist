@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14763,
+  "num_followers": 14766,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "No Era para M\u00ed",
+        "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
+        }
+      ],
+      "duration_ms": 117418,
+      "name": "No Era para M\u00ed",
+      "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Cypher MND #18: Neo Pistea, Obie Wanshot & CNO",
         "url": "https://open.spotify.com/album/1eF1nsMyY0LfwNOqeTrnVt"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 154285,
       "name": "Cypher MND #18 v.1: Neo Pistea, Obie Wanshot & CNO",
       "url": "https://open.spotify.com/track/6NemFvDNVbQgKyArKaZCFn"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "No Era para M\u00ed",
-        "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
-        }
-      ],
-      "duration_ms": 117418,
-      "name": "No Era para M\u00ed",
-      "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+      },
+      "artists": [
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
-      },
-      "artists": [
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Sideral",
         "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "NOS CRUZAS EN EL POGO",
         "url": "https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 160000,
       "name": "MI PROP\u00d3SITO",
       "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "DIME",
-        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Niko RST",
-          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "DIME",
-      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Just in Case",
         "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 209490,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Niko RST",
+          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Millo",
-        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
-      },
-      "artists": [
-        {
-          "name": "Dehry",
-          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        },
-        {
-          "name": "MC Albertico",
-          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
-        }
-      ],
-      "duration_ms": 199997,
-      "name": "Millo",
-      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Remakia",
         "url": "https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH"
       },
@@ -1667,22 +1643,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
+        "name": "Millo",
+        "url": "https://open.spotify.com/album/4yQ1Fbc1n8DRCrw2DFyBx1"
       },
       "artists": [
         {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+          "name": "Dehry",
+          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
         },
         {
-          "name": "Tus",
-          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "MC Albertico",
+          "url": "https://open.spotify.com/artist/4NEqPORTyRAaVwrEAATFWO"
         }
       ],
-      "duration_ms": 189767,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
+      "duration_ms": 199997,
+      "name": "Millo",
+      "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1699,6 +1679,26 @@
       "duration_ms": 172271,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
+      },
+      "artists": [
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1903,6 +1903,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/79mAXDMjYWMG4KlZuhGpnF"
+      },
+      "artists": [
+        {
+          "name": "Modok Le Chef",
+          "url": "https://open.spotify.com/artist/7DVLI0AVmCKdY8WG0bZEs6"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        },
+        {
+          "name": "Rize 1200",
+          "url": "https://open.spotify.com/artist/0hkp5JpD7SWI1npZrpKeOa"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "Caribe",
+      "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Dependiente",
         "url": "https://open.spotify.com/album/0ndJ027vnBAx4MQ58fFYnu"
       },
@@ -1947,30 +1971,6 @@
       "duration_ms": 158256,
       "name": "Que Viaje",
       "url": "https://open.spotify.com/track/1yvnZx7APnGuSnX6INm1Km"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Caribe",
-        "url": "https://open.spotify.com/album/79mAXDMjYWMG4KlZuhGpnF"
-      },
-      "artists": [
-        {
-          "name": "Modok Le Chef",
-          "url": "https://open.spotify.com/artist/7DVLI0AVmCKdY8WG0bZEs6"
-        },
-        {
-          "name": "Oldtape",
-          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
-        },
-        {
-          "name": "Rize 1200",
-          "url": "https://open.spotify.com/artist/0hkp5JpD7SWI1npZrpKeOa"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Caribe",
-      "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
     },
     {
       "added_at": "2024-08-30 06:00:00",

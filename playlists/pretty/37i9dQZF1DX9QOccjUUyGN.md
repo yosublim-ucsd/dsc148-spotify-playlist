@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,394 likes - 86 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,392 likes - 86 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 38 | [Toque de Romance](https://open.spotify.com/track/4frGWVU5rxdNssjNzgXn6w) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [Toque de Romance](https://open.spotify.com/album/6UrYNJUIMedeoQRakwarE8) | 3:49 |
 | 39 | [Essa Noite](https://open.spotify.com/track/5I6nVAODkfhpP3Xtp2oRoa) | [Emicii](https://open.spotify.com/artist/0eTO5i5lInVto6o5wtxGUj), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Essa Noite](https://open.spotify.com/album/3jqOefz8Ntbf1lVoCbjJDu) | 2:12 |
 | 40 | [Doente de Amor](https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T) | [Doente de Amor](https://open.spotify.com/album/01aK5tuEUfVgI7BEi7H2Mx) | 2:01 |
-| 41 | [Dinheiro e Compromisso](https://open.spotify.com/track/7r5jTEapi0TeEnvCEq8ZwO) | [Lc da 100](https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dinheiro e Compromisso](https://open.spotify.com/album/3q4zSspAnBMnsceyMzcWJm) | 2:22 |
+| 41 | [Dinheiro e Compromisso](https://open.spotify.com/track/7r5jTEapi0TeEnvCEq8ZwO) | [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F), [Lc da 100](https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz) | [Dinheiro e Compromisso](https://open.spotify.com/album/3q4zSspAnBMnsceyMzcWJm) | 2:22 |
 | 42 | [Lets Go Vishh](https://open.spotify.com/track/5uPn6t7pHeVTOSYLWvqyh6) | [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [prod.bry4n](https://open.spotify.com/artist/1dzHWxdEN4Chv4OyOPjbMQ) | [Lets Go Vishh](https://open.spotify.com/album/6isLhjy8begtKAZRAE7lNn) | 2:57 |
 | 43 | [OPORTUNISTA](https://open.spotify.com/track/68UDudw2hNlLsKsLpiglUs) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1) | [OPORTUNISTA](https://open.spotify.com/album/5mcvjPjNdthyiY0pd8MkPD) | 2:45 |
 | 44 | [Famosinha do OnlyFans](https://open.spotify.com/track/1oJgRirQXrktbxm9d32Ok2) | [Dafree](https://open.spotify.com/artist/2qZPS0OspRKa9zYGRLpNer), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe) | [Famosinha do OnlyFans](https://open.spotify.com/album/2kzTcINhgShMMgvVVhL9bM) | 1:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,684 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,693 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 42 | [Party En California \- Spanglish Mix](https://open.spotify.com/track/4hkwq4n5cjHdxaq80bTIfB) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [Party En California \(Spanglish Mix\)](https://open.spotify.com/album/6IhxG3WpKYUMZEeDloEGMl) | 3:02 |
 | 43 | [El Culpable Soy Yo](https://open.spotify.com/track/1gaitV08t7WzgQiWuRxjkk) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [El Culpable Soy Yo](https://open.spotify.com/album/25MSpuaDHlVNMhGXVT2o3S) | 2:43 |
 | 44 | [Polvos Del Año Pasado](https://open.spotify.com/track/2aJZssCmM8iGFIsDcYY0UN) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Polvos Del Año Pasado](https://open.spotify.com/album/4hgW14l3ILuW1yv2huIr2M) | 2:52 |
-| 45 | [funkoh](https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:57 |
+| 45 | [funkoh](https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:57 |
 | 46 | [Andariega \- Live at Abbey Road Studios](https://open.spotify.com/track/41GZW6EqATeevOINptCxjV) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Andariega \- Live at Abbey Road Studios](https://open.spotify.com/album/3LOxy6ypC5hwegpFiMH1wU) | 3:05 |
 | 47 | [UN CUARTICO](https://open.spotify.com/track/2WYjLEYwE1vIWC6XNMN94z) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TODO PUEDE SUCEDER](https://open.spotify.com/album/19DbwnDUWS0CuJF92sc4Wn) | 2:47 |
 | 48 | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/track/0iR74OgtUEbbn0AEVrAk6Y) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Cosas Imposibles \(No Me Sirven\)](https://open.spotify.com/album/4SzytRlNQR4JBqTth6MD9j) | 2:57 |

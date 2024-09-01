@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,164 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,161 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 | 11 | [Lento](https://open.spotify.com/track/1KHjNgEWBGKPH3EJx6iJNq) | [Novedades Carminha](https://open.spotify.com/artist/52la6ts4higk3sqyFC3aTg) | [Campeones del Mundo](https://open.spotify.com/album/1cgKgdUd1nPoejCEFUNT7A) | 2:57 |
 | 12 | [Lucky Girl](https://open.spotify.com/track/5pP3sLkAVZ03hyJ6SbsprC) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/3uAXs9TF2jfh92uXLFOwLv) | 2:50 |
 | 13 | [Mars Is No Fun](https://open.spotify.com/track/0Gd0C4mYMArNvVfNIj6TM1) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 2:37 |
-| 14 | [Con Las Ganas](https://open.spotify.com/track/65S18KXTH1fl5AYnKOJN6r) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [La Fabulosa Historia De..\. \(Edited Version\)](https://open.spotify.com/album/0rvRFArQ6SlABePrcCNEZn) | 4:15 |
+| 14 | [Con Las Ganas](https://open.spotify.com/track/65S18KXTH1fl5AYnKOJN6r) | [Zahara](https://open.spotify.com/artist/67rs16zBAqflUTmTJ5FEHh) | [La Fabulosa Historia De..\. \- Edited Version](https://open.spotify.com/album/0rvRFArQ6SlABePrcCNEZn) | 4:15 |
 | 15 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/4WUtScJNGEekZ3gViKpa8Z) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [Reggaeton Romántico \(Vol\. 1\)](https://open.spotify.com/album/3EtE4QDOKoGRCe9Go1AMmQ) | 3:19 |
 | 16 | [Middle Of My Mind](https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW) | 2:44 |
 | 17 | [Good Thing](https://open.spotify.com/track/4ijuCKFJy02MuhIpnwdul6) | [Serafyn](https://open.spotify.com/artist/0r2sgxjQ3ZrqdX1qbPOdCA) | [Foam](https://open.spotify.com/album/3tVcFYK50LU4ryDshojHJ5) | 3:52 |

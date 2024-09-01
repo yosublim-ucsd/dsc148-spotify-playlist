@@ -4,7 +4,7 @@
 
 > The biggest songs of the 2010s\. Cover: Ariana Grande
 
-926 songs - 2 day 8 hr 31 min
+927 songs - 2 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 | 2021-08-11 | 2022-04-21 |
 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2022-06-08 | 2022-07-29 |
 | [Best Thing I Never Had](https://open.spotify.com/track/1pelUc7p61q4HfnoVQKdL0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Best Thing I Never Had](https://open.spotify.com/album/2mtf43J85iyxUjF57UP1Jl) | 4:12 | 2019-05-26\* | 2022-04-18 |
-| [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 | 2020-04-09 |  |
+| [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 | 2020-04-09 | 2024-09-01 |
 | [Better Than Love](https://open.spotify.com/track/1pMlNYd5bLL2ZHX5owv4Nf) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Happiness](https://open.spotify.com/album/4PlKlEPCoEvqzzKcPEKwh0) | 3:33 | 2019-07-11 | 2019-07-31 |
 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/album/1PruwGvQDfgh6CTSFWPNtn) | 3:31 | 2019-06-26 | 2022-04-21 |
 | [Bills](https://open.spotify.com/track/7rlCeTnjn0plPZkVAcctPZ) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills](https://open.spotify.com/album/6ItEjseW8RWuVTDLd1vcnp) | 3:24 | 2019-07-22 | 2019-08-06 |
@@ -419,6 +419,7 @@
 | [Like I Can](https://open.spotify.com/track/7jfiiktFwSM2YWTTnCFtWL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Now That's What I Call Music! 90](https://open.spotify.com/album/0kfe6NsSLDG2KiM37dRXWg) | 2:44 | 2019-05-26\* | 2022-07-29 |
 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 | 2022-06-08 | 2022-12-28 |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/1XXbgifsLFB5pRNWuRqz0t) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Weekendhygge](https://open.spotify.com/album/6PrwLe1KHwzYMjhWIGkUy5) | 3:45 | 2019-05-26\* | 2022-07-29 |
+| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2024-07-03 |  |
 | [Lips Are Movin](https://open.spotify.com/track/6o2FU43WxyMQabdi5hoSoW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Now That's What I Call Music! 90](https://open.spotify.com/album/0kfe6NsSLDG2KiM37dRXWg) | 2:58 | 2019-07-12 | 2019-08-10 |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2020-06-17 | 2022-06-04 |
 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 | 2019-05-26\* | 2020-06-12 |

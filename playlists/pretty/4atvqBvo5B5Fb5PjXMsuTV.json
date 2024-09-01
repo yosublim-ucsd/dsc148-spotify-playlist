@@ -1,13 +1,89 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Aug 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Sep 22:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAK3q1jYr5sP/ipXk8625wX26URbV9Q",
+  "snapshot_id": "AAAK5qdB7Rm+hsvP2bS+6cGiBSAgyQ/C",
   "tracks": [
+    {
+      "added_at": "2024-08-31 16:02:28",
+      "album": {
+        "name": "START AGAIN",
+        "url": "https://open.spotify.com/album/3SzvCGztJBvOsJLp5kp274"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "IRyS",
+          "url": "https://open.spotify.com/artist/7y1hO3QeftnOJmWCbzeZav"
+        },
+        {
+          "name": "Nerissa Ravencroft",
+          "url": "https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa"
+        },
+        {
+          "name": "Elizabeth Rose Bloodflame",
+          "url": "https://open.spotify.com/artist/5b7d09W6RvGKZVn0K5ZIPY"
+        }
+      ],
+      "duration_ms": 219827,
+      "name": "START AGAIN",
+      "url": "https://open.spotify.com/track/6Kuw8I4lIWMmZ0lL2Eu4Td"
+    },
+    {
+      "added_at": "2024-08-31 10:02:10",
+      "album": {
+        "name": "Pizza Rolls Royce",
+        "url": "https://open.spotify.com/album/1IOz8nqyViuhar7KPUglEi"
+      },
+      "artists": [
+        {
+          "name": "Gezebelle Gaburgably",
+          "url": "https://open.spotify.com/artist/2dAr2VXRbboq3vymg20Jtw"
+        }
+      ],
+      "duration_ms": 255892,
+      "name": "Pizza Rolls Royce",
+      "url": "https://open.spotify.com/track/1b7FZh4KJdEKCG9bg9UIYn"
+    },
+    {
+      "added_at": "2024-08-31 16:02:28",
+      "album": {
+        "name": "no motion",
+        "url": "https://open.spotify.com/album/7gfjzJrlHTpv4xii5h019s"
+      },
+      "artists": [
+        {
+          "name": "so so",
+          "url": "https://open.spotify.com/artist/55TY2YdFmJ11CSGC5DkXQc"
+        }
+      ],
+      "duration_ms": 142706,
+      "name": "no motion",
+      "url": "https://open.spotify.com/track/6XsH5nykcH3FpkmQiqSLWc"
+    },
+    {
+      "added_at": "2024-08-31 22:02:51",
+      "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/2pQBZM3cwyDQROzSBuMGvw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/4eHQfcftImQD6w5wDSpLud"
+    },
     {
       "added_at": "2024-08-30 16:02:58",
       "album": {
@@ -235,7 +311,7 @@
     {
       "added_at": "2024-08-30 04:03:47",
       "album": {
-        "name": "Mandante",
+        "name": "MANDANTE",
         "url": "https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA"
       },
       "artists": [
@@ -245,7 +321,7 @@
         }
       ],
       "duration_ms": 214000,
-      "name": "Mandante",
+      "name": "MANDANTE",
       "url": "https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn"
     },
     {
@@ -569,6 +645,22 @@
       "url": "https://open.spotify.com/track/29FBmRrebixRofs0flcm4O"
     },
     {
+      "added_at": "2024-08-31 10:02:10",
+      "album": {
+        "name": "Dead On Arrival",
+        "url": "https://open.spotify.com/album/6MfmqcksdMWuQBeQHGhAXl"
+      },
+      "artists": [
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Dead On Arrival",
+      "url": "https://open.spotify.com/track/65GIGXXf8l9UNnAwcjx823"
+    },
+    {
       "added_at": "2024-08-30 04:03:47",
       "album": {
         "name": "Life Is Good",
@@ -733,6 +825,22 @@
       "url": "https://open.spotify.com/track/2JYjgahgfmEB06CVtdrW7k"
     },
     {
+      "added_at": "2024-08-31 04:02:38",
+      "album": {
+        "name": "Aura Shine",
+        "url": "https://open.spotify.com/album/2Qt1Qqaf6o8EKZsCat8Ndk"
+      },
+      "artists": [
+        {
+          "name": "Sybyr",
+          "url": "https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ"
+        }
+      ],
+      "duration_ms": 196201,
+      "name": "Aura Shine",
+      "url": "https://open.spotify.com/track/27lnz8IAZv2SCBj5vGA5T5"
+    },
+    {
       "added_at": "2024-08-30 16:02:58",
       "album": {
         "name": "The Sky is Blue",
@@ -749,128 +857,24 @@
       "url": "https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga"
     },
     {
-      "added_at": "2024-08-30 22:02:22",
+      "added_at": "2024-08-31 04:02:38",
       "album": {
-        "name": "Nihilist",
-        "url": "https://open.spotify.com/album/2ACliNUQMUngflhz8jrA7y"
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/5n2FUdbSI4e57RbwZVUGqN"
       },
       "artists": [
         {
-          "name": "Code: Pandorum",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+          "name": "RomancePlanet",
+          "url": "https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE"
         },
         {
-          "name": "Sinizter",
-          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Nihilist",
-      "url": "https://open.spotify.com/track/7Jhdmr63eP3tcm5hYmBCHE"
-    },
-    {
-      "added_at": "2024-08-30 10:03:00",
-      "album": {
-        "name": "I hate your face",
-        "url": "https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 138116,
-      "name": "I hate your face",
-      "url": "https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur"
-    },
-    {
-      "added_at": "2024-08-30 16:02:58",
-      "album": {
-        "name": "BEFORE THE MORNING",
-        "url": "https://open.spotify.com/album/1cduyzJT2jxn3IlTlvjvdu"
-      },
-      "artists": [
-        {
-          "name": "CThruRio",
-          "url": "https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA"
-        }
-      ],
-      "duration_ms": 132376,
-      "name": "BEFORE THE MORNING",
-      "url": "https://open.spotify.com/track/4WBeX7hmIBZgrCtQfUSjNR"
-    },
-    {
-      "added_at": "2024-08-30 10:03:00",
-      "album": {
-        "name": "Deserve It All",
-        "url": "https://open.spotify.com/album/644bHxtxVgP80b9eTU5VsR"
-      },
-      "artists": [
-        {
-          "name": "Infernal",
-          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Deserve It All",
-      "url": "https://open.spotify.com/track/3OAX7nG40HNRJkxHJXLM5v"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "AGITATED!",
-        "url": "https://open.spotify.com/album/3fe68t7HXoAWM9UXBEuLvW"
-      },
-      "artists": [
-        {
-          "name": "ISSBROKIE",
-          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
-        }
-      ],
-      "duration_ms": 141798,
-      "name": "AGITATED!",
-      "url": "https://open.spotify.com/track/4qP4cU2lF8gQrPV5sJPaqF"
-    },
-    {
-      "added_at": "2024-08-30 16:02:58",
-      "album": {
-        "name": "BEEN HAD",
-        "url": "https://open.spotify.com/album/13xuqJnSH4DbIsXj28O90u"
-      },
-      "artists": [
-        {
-          "name": "Na-Kel Smith",
-          "url": "https://open.spotify.com/artist/500rBZDH42x0aBmajZARos"
-        },
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "BEEN HAD",
-      "url": "https://open.spotify.com/track/2xS6glKwDNVCd6ScLpv54G"
-    },
-    {
-      "added_at": "2024-08-30 16:02:58",
-      "album": {
-        "name": "El mar me ve\u00eda",
-        "url": "https://open.spotify.com/album/7m0BhPPtPt2YVk04VXnYBH"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "El mar me ve\u00eda",
-      "url": "https://open.spotify.com/track/2teQX3fz5UlRac0wGeJZDl"
+      "duration_ms": 123500,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/6N83IKIBZ8kTKO2ZomD6uT"
     }
   ],
   "unique_name": "New Singles Now",

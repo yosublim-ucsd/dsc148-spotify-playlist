@@ -4,7 +4,7 @@
 
 > Perfect music for perfect food.
 
-466 songs - 1 day 6 hr 10 min
+467 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 | 2023-01-09 | 2023-10-12 |
 | [Lowdown](https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [My Time: A Boz Scaggs Anthology \(1969\-1997\)](https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo) | 5:16 | 2023-06-27 |  |
 | [Lucky Man](https://open.spotify.com/track/4XBN0BNKaePeANSEcrs8vw) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/02a2wsjmtlcOn3mLbJuHb4) | 3:14 | 2023-06-27 | 2024-04-19 |
-| [Lucky Man](https://open.spotify.com/track/5Q4Dgn6sHsGkcSspTlLD9m) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/3V8jJfoqu62XYL8K9OArz9) | 3:14 | 2024-04-16 |  |
+| [Lucky Man](https://open.spotify.com/track/5Q4Dgn6sHsGkcSspTlLD9m) | [Courtney John](https://open.spotify.com/artist/53uGQ1amGHHb0Tzn2A6Oc0) | [Made In Jamaica](https://open.spotify.com/album/3V8jJfoqu62XYL8K9OArz9) | 3:14 | 2024-04-16 | 2024-09-01 |
 | [Made For Each Other](https://open.spotify.com/track/4qMuLEXTIITszoQ2KbSG29) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 4:44 | 2023-01-09 | 2023-06-28 |
 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 | 2023-01-09 | 2023-06-28 |
 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:13 | 2023-01-09 | 2024-04-19 |
@@ -279,7 +279,7 @@
 | [Mr\. Big Stuff](https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff](https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e) | 2:44 | 2023-01-09 | 2024-04-19 |
 | [Muscles](https://open.spotify.com/track/45a2uakbDbXOizyjyLv7dN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Silk Electric \(Expanded Edition\)](https://open.spotify.com/album/0K4vqspEZz6LYDzMKSypMF) | 4:37 | 2023-01-09 | 2023-06-28 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2023-01-09 | 2024-02-08 |
-| [My Guy](https://open.spotify.com/track/3WORyf3FVpYdVoHEgSEt1b) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/5JdQA7Qwvrw3rgyblLzxFW) | 2:54 | 2024-04-16 |  |
+| [My Guy](https://open.spotify.com/track/3WORyf3FVpYdVoHEgSEt1b) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/5JdQA7Qwvrw3rgyblLzxFW) | 2:54 | 2024-04-16 | 2024-09-01 |
 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2023-01-09 | 2024-04-19 |
 | [My Life](https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n) | [Noriko Miyamoto](https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk), [Isao Suzuki](https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb) | [Push](https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA) | 6:09 | 2023-01-09 | 2023-06-28 |
 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 | 2023-01-09 | 2023-06-28 |
@@ -295,7 +295,7 @@
 | [Nightshift](https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Nightshift](https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP) | 5:06 | 2023-01-09 | 2024-04-19 |
 | [No Easy Way Down](https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG) | [Na Allen](https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN) | [No Easy Way Down: Rare Soul Sides](https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa) | 2:53 | 2023-01-09 | 2023-06-28 |
 | [No Love Dying](https://open.spotify.com/track/03BN4IvMyiT9OEDJv2fH5n) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj) | 3:55 | 2023-06-27 | 2024-04-19 |
-| [No Love Dying](https://open.spotify.com/track/0q8Yje436bw3FkzEDNs7qI) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/4HVY2UGhxlZseyDu3EqcQc) | 3:55 | 2024-04-16 | 2024-07-27 |
+| [No Love Dying](https://open.spotify.com/track/0q8Yje436bw3FkzEDNs7qI) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Deluxe Version\)](https://open.spotify.com/album/4HVY2UGhxlZseyDu3EqcQc) | 3:55 | 2024-04-16 |  |
 | [No One In the World](https://open.spotify.com/track/3P8v2bYhgJ7Eba8Br6pr3H) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [80's R&B Love Songs](https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n) | 4:06 | 2023-01-09 | 2023-06-28 |
 | [Nothing Can Come Between Us](https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:22 | 2023-06-27 | 2024-04-19 |
 | [Nothing Can Come Between Us](https://open.spotify.com/track/6fM23mbGiKidAOuTExfpdv) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b) | 4:22 | 2024-04-16 |  |
@@ -458,6 +458,7 @@
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/203q2nkc0gQtcljXy6krbA) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number Ones](https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz) | 2:57 | 2024-04-16 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2023-01-09 | 2024-04-19 |
 | [You Bring out the Best in Me](https://open.spotify.com/track/1GaxPnyHozmwKCONQY7sAa) | [The Natural Four](https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY) | [The Natural Four](https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j) | 4:19 | 2023-01-09 | 2023-06-28 |
+| [You Can't Turn Me Away](https://open.spotify.com/track/12PyC1F2p7Rw6yAiboDD0v) | [Sylvia Striplin](https://open.spotify.com/artist/7FwBTyY30JFZ0kLsbh29yQ) | [Late Night Tales: Another Late Night \- Zero 7 \(Remastered\)](https://open.spotify.com/album/2LmIvyJlLul3Zlp4xElhhs) | 5:28 | 2024-07-08 |  |
 | [You Can't Turn Me Away](https://open.spotify.com/track/7H6lTSdK33pBFUwNbXCxX3) | [Sylvia Striplin](https://open.spotify.com/artist/7FwBTyY30JFZ0kLsbh29yQ) | [Late Night Tales: Another Late Night \- Zero 7](https://open.spotify.com/album/0qZikBhy0lOQGj8S9uq8l4) | 5:28 | 2023-06-27 | 2024-04-19 |
 | [You Don't Have to Be a Star \(To Be In My Show\)](https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M) | [Marilyn McCoo](https://open.spotify.com/artist/2jirMwr4cHJzjtx8vDX5IO), [Billy Davis Jr.](https://open.spotify.com/artist/090k1Fxa70NDQvkXmQBUfW) | [I Hope We Get To Love In Time](https://open.spotify.com/album/6Vwss896snaZfuyr351z99) | 4:39 | 2023-01-09 | 2023-06-28 |
 | [You Ought To Be With Me](https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Love And Happiness](https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg) | 3:07 | 2023-01-09 |  |

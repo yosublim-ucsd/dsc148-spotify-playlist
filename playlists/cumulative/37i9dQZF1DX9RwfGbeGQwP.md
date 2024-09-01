@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,435 songs - 2 day 6 hr 2 min
+1,436 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [come back](https://open.spotify.com/track/2SaUJBjA3pRqouUa4Wpczm) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [come back EP](https://open.spotify.com/album/5Cz0JCREleRzKoDI4eohvV) | 1:42 | 2022-11-11 | 2023-08-04 |
 | [Comfy Chair](https://open.spotify.com/track/4rQ0pTm3poVLafVbXCjnIy) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj) | 1:37 | 2022-01-27 | 2022-06-10 |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2022-01-27 | 2023-04-21 |
-| [comrade](https://open.spotify.com/track/2GTTGKowosHnN5v7xmzh7S) | [city signs](https://open.spotify.com/artist/6XrwfQs4tcuCOBgFXIszwy) | [comrade](https://open.spotify.com/album/3ZeAE3SFwu9VuUguDjyeZE) | 2:18 | 2023-02-07 |  |
+| [comrade](https://open.spotify.com/track/2GTTGKowosHnN5v7xmzh7S) | [city signs](https://open.spotify.com/artist/6XrwfQs4tcuCOBgFXIszwy) | [comrade](https://open.spotify.com/album/3ZeAE3SFwu9VuUguDjyeZE) | 2:18 | 2023-02-07 | 2024-09-01 |
 | [Congratulations](https://open.spotify.com/track/6o2CDVh5H4PgPdNneKV6vu) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [Congratulations](https://open.spotify.com/album/5J28rnZrfCBCcBGVy7LyHR) | 1:48 | 2022-05-20 | 2023-06-06 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-01-27 | 2023-04-21 |
 | [Connection](https://open.spotify.com/track/0sAdfWB1Dw7TriJwH5XFb0) | [Secret Thump](https://open.spotify.com/artist/46UTy5R6lBtCLqSULBUJ1s) | [Connection](https://open.spotify.com/album/14xyZBH4XYa3hvOP8Hqz7Y) | 2:31 | 2023-11-17 | 2024-08-02 |
@@ -999,6 +999,7 @@
 | [Rain](https://open.spotify.com/track/6Qo9rLlkAnaPSYzljIFeJ8) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq) | [Akademgorodok](https://open.spotify.com/album/3fhdj1IZa6mTiPQbQzKoBy) | 2:08 | 2022-01-27 | 2022-09-03 |
 | [Rainbow Dragon Waterfall](https://open.spotify.com/track/2VEaXzY3365EVAOB3ktamQ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Rainbow Dragon Waterfall](https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn) | 2:24 | 2022-01-27 | 2023-04-21 |
 | [Rainbower](https://open.spotify.com/track/4lnuH4kVZplCuv43wFsdmp) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Rainbower](https://open.spotify.com/album/0OJRLC4hCEoQWJqVl9P2AC) | 2:08 | 2024-05-13 |  |
+| [Rainy Garden](https://open.spotify.com/track/5OYUfe47KilF4naZycbf0q) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Rainy Garden](https://open.spotify.com/album/4t4XHavoZI07IKe2RyLEaV) | 2:11 | 2024-08-30 |  |
 | [raised by a pear](https://open.spotify.com/track/0bf0Kr1Vkb4xkHrzmlKIp3) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [raised by a pear](https://open.spotify.com/album/0WdwUwKsClIiD8Cgk9Qa2k) | 2:21 | 2022-11-11 |  |
 | [Ramen and Herb](https://open.spotify.com/track/7tSFbpe1KLESU6k3v2eBPA) | [Ferris Ferris](https://open.spotify.com/artist/54ePGakNB08wThnuKbgu8r) | [Ramen and Herb](https://open.spotify.com/album/4Dnkjwb9A8dHF6IcmQSUGI) | 2:17 | 2022-01-27 | 2023-04-21 |
 | [Rare Rocks That Look Like David Letterman](https://open.spotify.com/track/5tHoLQiFtgJLLSsRIS2YqK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Fuchsia Badusha](https://open.spotify.com/album/3OPJ6lE0knNq6E7q5YSITv) | 2:29 | 2022-01-27 | 2022-09-03 |

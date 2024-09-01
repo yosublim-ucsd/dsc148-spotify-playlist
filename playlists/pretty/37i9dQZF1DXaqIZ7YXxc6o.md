@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Peking Duk
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,522 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,535 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 18 | [212](https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [212](https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB) | 2:18 |
 | 19 | [Situation](https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Situation](https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny) | 2:52 |
 | 20 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
-| 21 | [WISH IT WERE DIFFERENT \- Britto Remix](https://open.spotify.com/track/7MQICHhsnhqX2LoeCukdGS) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM), [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY), [Britto](https://open.spotify.com/artist/3rMiHSj5HsiM1oiL0D0svU) | [WISH IT WERE DIFFERENT \- Britto Remix](https://open.spotify.com/album/7CkPLnW1yYVg8egYAjH1Ne) | 2:49 |
+| 21 | [WISH IT WERE DIFFERENT \- Britto Remix](https://open.spotify.com/track/7MQICHhsnhqX2LoeCukdGS) | [Jakka](https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM), [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY), [Britto](https://open.spotify.com/artist/2QXVZV57RnapW7dLrdMNUj) | [WISH IT WERE DIFFERENT \- Britto Remix](https://open.spotify.com/album/7CkPLnW1yYVg8egYAjH1Ne) | 2:49 |
 | 22 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 |
 | 23 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
 | 24 | [Talking Circle](https://open.spotify.com/track/0yYcqiT0E6xGYvzCq7Hxal) | [Ownlife](https://open.spotify.com/artist/2nCmwSRtRo6NIdVsYnw0u5) | [Talking Circle](https://open.spotify.com/album/37edH3YPMSLv84gVPuUjJP) | 2:36 |

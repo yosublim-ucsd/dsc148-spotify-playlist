@@ -2,7 +2,7 @@
 
 ### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This is Latto\. Todos os maiores hits em uma só playlist.
+> This is Latto\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
 99 songs - 4 hr 49 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:5qEZVKHzNjB8k5tAT41Iox">Dee\-1</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,411 likes - 89 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,491 likes - 89 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

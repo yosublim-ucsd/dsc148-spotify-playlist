@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,825 likes - 156 songs - 8 hr 45 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,830 likes - 156 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 17 | [Until There's Nothing Left](https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Until There’s Nothing Left](https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL) | 3:50 |
 | 18 | [Falling Stars \(feat\. Nevve\)](https://open.spotify.com/track/4wcmSExQiuz3mobIi0b8ku) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Falling Stars \(feat\. Nevve\)](https://open.spotify.com/album/5GYJViokxqPvkipMydrgID) | 4:46 |
 | 19 | [212](https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [212](https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB) | 2:18 |
-| 20 | [All Falls Down](https://open.spotify.com/track/41BcwBcn1NrL2cJk69pYA8) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [All Falls Down](https://open.spotify.com/album/3LLqzHqmnu04kBA5y4Umhy) | 3:18 |
+| 20 | [All Falls Down](https://open.spotify.com/track/41BcwBcn1NrL2cJk69pYA8) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [All Falls Down](https://open.spotify.com/album/3LLqzHqmnu04kBA5y4Umhy) | 3:18 |
 | 21 | [Come Find Me](https://open.spotify.com/track/6o3H1TeAuT8KJOiU8G856R) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/2bAerToDNEFtvwLt93CJ59) | 3:56 |
 | 22 | [Can It Be Easy](https://open.spotify.com/track/22GJxi8BjnUyoML2YW9YDv) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Can It Be Easy](https://open.spotify.com/album/6ZJxF14bXfhrSLHwX8qNhk) | 2:41 |
 | 23 | [Neunet](https://open.spotify.com/track/7bT4Uzo3Ple5cM6OaTynfz) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Neunet](https://open.spotify.com/album/1NcUQwtUXOw8ww8gPW5y5c) | 3:10 |

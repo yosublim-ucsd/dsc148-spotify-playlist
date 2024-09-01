@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,203 likes - 181 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,210 likes - 181 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

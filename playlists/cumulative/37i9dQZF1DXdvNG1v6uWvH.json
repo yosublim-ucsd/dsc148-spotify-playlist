@@ -6656,7 +6656,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 193446,
       "name": "COMO DIABLOS",
       "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
@@ -6912,6 +6912,24 @@
       "duration_ms": 156129,
       "name": "Crash",
       "url": "https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "album": {
@@ -13394,7 +13412,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 270480,
       "name": "Giver",
       "url": "https://open.spotify.com/track/10D6dHMimt8AhaTLPEmCNU"
@@ -14922,7 +14940,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 181333,
       "name": "Hello",
       "url": "https://open.spotify.com/track/05TaFQKO0WjqJ6tgw5Frwv"
@@ -22672,7 +22690,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 213346,
       "name": "Meyjan",
       "url": "https://open.spotify.com/track/2KVkFvyPhUNcsFFx3yn6Cv"
@@ -28008,7 +28026,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 275613,
       "name": "Rau\u00f0ir sk\u00f3gar",
       "url": "https://open.spotify.com/track/1FxpiIGvzczt0Bs1SKUEAA"
@@ -28282,7 +28300,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "Reel In",
       "url": "https://open.spotify.com/track/1AHGXiFb6btyUIeSHq4hlm"
@@ -30332,7 +30350,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 212000,
       "name": "Sj\u00e1lfsmynd",
       "url": "https://open.spotify.com/track/1hLF66sQMVmweFjfnDoNwp"
@@ -31591,6 +31609,24 @@
     },
     {
       "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184723,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf"
+    },
+    {
+      "album": {
         "name": "Stars In My Eyes",
         "url": "https://open.spotify.com/album/2nFtI51DMpkyBSZEiKsKUp"
       },
@@ -31708,7 +31744,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 204332,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/0dKT5uBZHwButbQhbNn7n0"

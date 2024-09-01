@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Misha Panfilov on cover. Artwork by Thami Nabil",
-  "num_followers": 170282,
+  "num_followers": 170355,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -393,26 +393,6 @@
       "url": "https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Taste The Air (Julia Holter Mix)",
-        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 203031,
-      "name": "Taste The Air - Julia Holter Mix",
-      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "cognition",
@@ -431,6 +411,26 @@
       "duration_ms": 141639,
       "name": "cognition",
       "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Taste The Air (Julia Holter Mix)",
+        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 203031,
+      "name": "Taste The Air - Julia Holter Mix",
+      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/5ZKItiErHMCGPXKc7PqI9Y"
     },
     {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 466420,
+      "name": "that love",
+      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
+    },
+    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu Remixes",
@@ -523,22 +539,6 @@
       "duration_ms": 334000,
       "name": "Riot on the Hush - K-LONE Remix",
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 466420,
-      "name": "that love",
-      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
-    },
-    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "Bakteria",
@@ -641,20 +625,20 @@
       "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Small Medium Large",
-        "url": "https://open.spotify.com/album/3DpHrOJuKw6QSfcvLNanRO"
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
       },
       "artists": [
         {
-          "name": "SML",
-          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
         }
       ],
-      "duration_ms": 123186,
-      "name": "Window Sill Song",
-      "url": "https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15"
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -709,6 +693,22 @@
       "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Small Medium Large",
+        "url": "https://open.spotify.com/album/3DpHrOJuKw6QSfcvLNanRO"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        }
+      ],
+      "duration_ms": 123186,
+      "name": "Window Sill Song",
+      "url": "https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15"
+    },
+    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "The Big Man Upstairs",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Inaudible",
-        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
-      },
-      "artists": [
-        {
-          "name": "Thom LaFond",
-          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
-        }
-      ],
-      "duration_ms": 314142,
-      "name": "Inaudible",
-      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Car Alarm, Turn Signal",
@@ -779,6 +763,22 @@
       "duration_ms": 287030,
       "name": "Car Alarm, Turn Signal",
       "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Inaudible",
+        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
+      },
+      "artists": [
+        {
+          "name": "Thom LaFond",
+          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
+        }
+      ],
+      "duration_ms": 314142,
+      "name": "Inaudible",
+      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+        "name": "Princ\u20acss",
+        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
       },
       "artists": [
         {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+          "name": "Princ\u20acss",
+          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+      "duration_ms": 173515,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Princ\u20acss",
-        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
       },
       "artists": [
         {
-          "name": "Princ\u20acss",
-          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
         }
       ],
-      "duration_ms": 173515,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -989,26 +989,6 @@
       "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Mediterranea",
-        "url": "https://open.spotify.com/album/4cjiV7heL5RXQGxFMe87nE"
-      },
-      "artists": [
-        {
-          "name": "Davide Famularo",
-          "url": "https://open.spotify.com/artist/5GSxIIq6UmkSBapK2S3eQP"
-        },
-        {
-          "name": "Pan-American",
-          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
-        }
-      ],
-      "duration_ms": 425454,
-      "name": "Mercurio",
-      "url": "https://open.spotify.com/track/0pTUnJy3AqAKHtYXc2fMWv"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "betrayal",
@@ -1039,6 +1019,26 @@
       "duration_ms": 234312,
       "name": "I'm here",
       "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Mediterranea",
+        "url": "https://open.spotify.com/album/4cjiV7heL5RXQGxFMe87nE"
+      },
+      "artists": [
+        {
+          "name": "Davide Famularo",
+          "url": "https://open.spotify.com/artist/5GSxIIq6UmkSBapK2S3eQP"
+        },
+        {
+          "name": "Pan-American",
+          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+        }
+      ],
+      "duration_ms": 425454,
+      "name": "Mercurio",
+      "url": "https://open.spotify.com/track/0pTUnJy3AqAKHtYXc2fMWv"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg"
-      },
-      "artists": [
-        {
-          "name": "Gloomer",
-          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Near Marineland",
@@ -1121,6 +1105,22 @@
       "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
     },
     {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg"
+      },
+      "artists": [
+        {
+          "name": "Gloomer",
+          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
+    },
+    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1135,6 +1135,26 @@
       "duration_ms": 68110,
       "name": "wearywatergod",
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Nostalgia Por Mesoz\u00f3ica",
+        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Arthur Mine",
+          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "Muzak For Mesozoic Showreel",
+      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1169,26 +1189,6 @@
       "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Nostalgia Por Mesoz\u00f3ica",
-        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        },
-        {
-          "name": "Arthur Mine",
-          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "Muzak For Mesozoic Showreel",
-      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Unbound",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Sundown Muse",
-        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
-      },
-      "artists": [
-        {
-          "name": "ERHA",
-          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
-        }
-      ],
-      "duration_ms": 261004,
-      "name": "Sundown Muse",
-      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Near the Lake We Forget to Count the Days",
@@ -1235,6 +1219,22 @@
       "duration_ms": 173428,
       "name": "aurora",
       "url": "https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Sundown Muse",
+        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
+      },
+      "artists": [
+        {
+          "name": "ERHA",
+          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
+        }
+      ],
+      "duration_ms": 261004,
+      "name": "Sundown Muse",
+      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1283,6 +1283,22 @@
       "duration_ms": 281374,
       "name": "And There Is Us",
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Endless Path of Memory",
+        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
+      },
+      "artists": [
+        {
+          "name": "NEXCYIA",
+          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
+        }
+      ],
+      "duration_ms": 287746,
+      "name": "Bury it Deep Inside Yourself",
+      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1353,22 +1369,6 @@
       "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Endless Path of Memory",
-        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
-      },
-      "artists": [
-        {
-          "name": "NEXCYIA",
-          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
-        }
-      ],
-      "duration_ms": 287746,
-      "name": "Bury it Deep Inside Yourself",
-      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "DJ HUMBLE (Expanded Edition)",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/39coyagUm7jIP67222iSkn"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
+      },
+      "artists": [
+        {
+          "name": "House on the Strand",
+          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
@@ -1427,22 +1443,6 @@
       "duration_ms": 196800,
       "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
       "url": "https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
-      },
-      "artists": [
-        {
-          "name": "House on the Strand",
-          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
-        }
-      ],
-      "duration_ms": 327804,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Bearings: Soundtracks for the Bardos",
-        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
-      },
-      "artists": [
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
-        }
-      ],
-      "duration_ms": 240868,
-      "name": "Gate VIII",
-      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 548586,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Bearings: Soundtracks for the Bardos",
+        "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
+      },
+      "artists": [
+        {
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+        }
+      ],
+      "duration_ms": 240868,
+      "name": "Gate VIII",
+      "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
     },
     {
       "added_at": "2024-08-21 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Teenage Wrist](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4euSju)
 
-> This is Teenage Wrist\. The essential tracks, all in one playlist.
+> This is Teenage Wrist\. Todos os maiores hits em uma só playlist.
 
 49 songs - 3 hr 9 min
 

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 66442,
+  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
+  "num_followers": 66444,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAAAjccpQ4GCfLj7Kp1u7vwbB",
+  "snapshot_id": "ZtELgAAAAADmJCZuxNEwT8R+tgFBGEks",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 198238,
       "name": "Cali Buenaventura",
       "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desaparecida",
+        "url": "https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Desaparecida",
+      "url": "https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido"
     },
     {
       "added_at": null,
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9reme",
-        "url": "https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv"
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estar Contigo",
-        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "Estar Contigo",
-      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIEZ",
         "url": "https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 201370,
       "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
       "url": "https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estar Contigo",
+        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "Estar Contigo",
+      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
     },
     {
       "added_at": null,
@@ -723,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magdalena",
+        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
       },
@@ -747,26 +783,6 @@
       "duration_ms": 226238,
       "name": "Te Besar\u00e9 - Salsa Remix",
       "url": "https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magdalena",
-        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mu\u00f1eca",
-        "url": "https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "La Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) [Remix]",
         "url": "https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 184828,
       "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) - Remix",
       "url": "https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "La Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR"
     },
     {
       "added_at": null,

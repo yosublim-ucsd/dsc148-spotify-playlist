@@ -1,12 +1,12 @@
 {
-  "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 543950,
+  "description": "This Is The Cure. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 544056,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAADfMjguQONFnjFg8GtzL2Mq",
+  "snapshot_id": "ZtELgAAAAADxJ1Tru9rljo4+Um+zOei4",
   "tracks": [
     {
       "added_at": null,
@@ -588,7 +588,7 @@
       "added_at": null,
       "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 165066,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv"
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
     },
     {
       "added_at": null,
@@ -652,7 +652,7 @@
       "added_at": null,
       "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 153040,
-      "name": "Perfect Girl",
-      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
+      "duration_ms": 165066,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv"
     },
     {
       "added_at": null,

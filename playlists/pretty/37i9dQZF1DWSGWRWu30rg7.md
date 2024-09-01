@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Clara Riva
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,574 likes - 93 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,573 likes - 93 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 17 | [Rabun](https://open.spotify.com/track/4OmavoUHxH5aNG9m4xHG7g) | [caldera](https://open.spotify.com/artist/2mYB723pbBKNPKbjDhMGYb) | [Rabun](https://open.spotify.com/album/4nch3VqtxwPeglZsqPhI2f) | 3:45 |
 | 18 | [Bertemu Lagi](https://open.spotify.com/track/0iTxJEjTRIJTSi0VvGgGtM) | [Adjani](https://open.spotify.com/artist/2ChD8hHQcN9XKTl52xfwy7) | [Bertemu Lagi](https://open.spotify.com/album/6DWd77YwUCCSkhqmcCMVJ2) | 3:18 |
 | 19 | [Love Song \- Sped Up](https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Shaumil Kamilia](https://open.spotify.com/artist/5NkWOO2EW1nRzY0EusrOlz) | [Love Song \- Sped Up](https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA) | 3:48 |
-| 20 | [On You](https://open.spotify.com/track/7lD0rtCO125zbR5dlXV18V) | [Yol](https://open.spotify.com/artist/4EXGguEoLgE5Y7Ud3Fnnqd), [Gbrand](https://open.spotify.com/artist/59t6QP0jd5vNknacUSoe5f) | [On You](https://open.spotify.com/album/10cVBja7qXLPFRSGEcXtYq) | 3:32 |
+| 20 | [On You](https://open.spotify.com/track/7lD0rtCO125zbR5dlXV18V) | [YOL](https://open.spotify.com/artist/562e0s2btlqUAHt0aSO7ai), [Gbrand](https://open.spotify.com/artist/59t6QP0jd5vNknacUSoe5f) | [On You](https://open.spotify.com/album/10cVBja7qXLPFRSGEcXtYq) | 3:32 |
 | 21 | [Guerrero](https://open.spotify.com/track/2VsY2iJ4BgmDuhQkVTu46h) | [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT), [Manic](https://open.spotify.com/artist/1xQQeHhBnvAB5aAUu6uXdj), [Ner](https://open.spotify.com/artist/5x3MDjIN1tyYunR1YRooBc) | [Guerrero](https://open.spotify.com/album/6iucVGrS5AUpK7dw6nxJyE) | 3:24 |
 | 22 | [Ini Terlalu Indah Untuk Abadi](https://open.spotify.com/track/0x0M6kz2Twu3d2Q6qP5GVH) | [The Dramma](https://open.spotify.com/artist/6kRIeObyMjqaWUeff6uM0v) | [Ini Terlalu Indah Untuk Abadi](https://open.spotify.com/album/0xV5rb27QMMM8mRvCUsVYa) | 3:23 |
 | 23 | [Semesta Cinta](https://open.spotify.com/track/1NS5i5xckfeiivFRzxAKNI) | [ELBYTRI](https://open.spotify.com/artist/3I0UZ7B9egDV3pl6C943fX) | [Semesta Cinta](https://open.spotify.com/album/1f1mxnW6zqKQfzFPOh8Wt4) | 3:42 |

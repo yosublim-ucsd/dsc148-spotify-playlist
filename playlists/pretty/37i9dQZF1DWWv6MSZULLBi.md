@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,657 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,654 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 36 | [Constant Love](https://open.spotify.com/track/2oCHHcIzRFlQAYDc4J7oQT) | [Richard Laviolette](https://open.spotify.com/artist/1pgjT95HLZVnRi0K4QqQa7) | [Constant Love](https://open.spotify.com/album/4ZQOLnATwISjyWDA4DKlLB) | 3:40 |
 | 37 | [What’s This About \(La La La La\)](https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [What’s This About \(La La La La\)](https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d) | 2:10 |
 | 38 | [Mesmerized](https://open.spotify.com/track/0sEwzHkr0Zjln1drW3tuRo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Eden](https://open.spotify.com/album/2cyMFfHbKbYQPRGPemBp8f) | 3:15 |
-| 39 | [Country Plains](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
+| 39 | [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
 | 40 | [All The Light](https://open.spotify.com/track/49q67fOFH8hDvyOIN3wtap) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [All The Light](https://open.spotify.com/album/4UPPsy8CfuUSWVt2hNQxbs) | 3:27 |
 | 41 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 |
 | 42 | [Caledonia](https://open.spotify.com/track/6zV8spJFEyL7EnQgRXLpEp) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Caledonia](https://open.spotify.com/album/5psgsDCg0HIxJw3ocxPsvf) | 4:39 |

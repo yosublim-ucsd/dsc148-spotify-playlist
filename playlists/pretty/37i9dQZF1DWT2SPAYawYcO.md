@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,726 likes - 84 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,763 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 16 | [Stiletto](https://open.spotify.com/track/4NVUat14Xk5CiaCzR41ijf) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Stiletto](https://open.spotify.com/album/0Tqg0XmIsN2kcWLWGKHI0M) | 7:21 |
 | 17 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
 | 18 | [Touch My Body](https://open.spotify.com/track/0iUwIi7QYV7ecwiwx5pCgd) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Touch My Body](https://open.spotify.com/album/2sFc58O2JuDvjGT11Gzgli) | 2:45 |
-| 19 | [Fruition\( feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 |
+| 19 | [Fruition \(feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 |
 | 20 | [Dead, Rich or In Jail](https://open.spotify.com/track/7CGIuV8NJYU4XxwzcBIPeV) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Dead, Rich or In Jail](https://open.spotify.com/album/5nnnTs3fkNKK9UM7bahMSE) | 1:35 |
 | 21 | [You'd Think I Was A Cowboy](https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [You'd Think I Was A Cowboy](https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890) | 2:59 |
 | 22 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 56 | [Bop Ba](https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:32 |
 | 57 | [Tell You All The Time](https://open.spotify.com/track/7G712DgSQCRPs4wVVwB7ZF) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Tell You All The Time](https://open.spotify.com/album/4ESaKzPJqvif9b7dS6zTS0) | 3:14 |
 | 58 | [Interludio](https://open.spotify.com/track/2HLUJVu3QbJ6Hz4KPMChOJ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [megacity1000](https://open.spotify.com/album/7m0McBqvOHZx8K9bILJ7vL) | 1:25 |
-| 59 | [Love Should Be Free](https://open.spotify.com/track/3lAk1opV6wYvTYcdlQzPWP) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Michael Rose](https://open.spotify.com/artist/1JmNJwBZf3V1EmgGUVSNRX) | [Evolution](https://open.spotify.com/album/5vnPj80K2ZJqby4V8ZVswz) | 2:36 |
+| 59 | [Love Should Be Free](https://open.spotify.com/track/3lAk1opV6wYvTYcdlQzPWP) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Evolution](https://open.spotify.com/album/5vnPj80K2ZJqby4V8ZVswz) | 2:36 |
 | 60 | [Shallow](https://open.spotify.com/track/1eTSc7UyuslEorKkq7ZHCk) | [First Beige](https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT) | [Shallow](https://open.spotify.com/album/5TCvHThs27iXeNPciVFhJp) | 3:24 |
 | 61 | [raincoat](https://open.spotify.com/track/12AHuNbammlb96IpqKhpKa) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [raincoat](https://open.spotify.com/album/6tMdzJd8H2CKk1zCvXEujM) | 3:01 |
 | 62 | [i want u](https://open.spotify.com/track/6420y7DAr7kuTbZPGfcOxo) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [i want u](https://open.spotify.com/album/6ETTkx8OKFAs97dmrcofLi) | 2:27 |

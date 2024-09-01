@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Gojira
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,682 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,806 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
 | 2 | [bitter friend](https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [EXCESSIVE GUILT](https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd) | 1:54 |
 | 3 | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j) | 3:18 |
-| 4 | [Omerta \- Justin K Broadrick Remix](https://open.spotify.com/track/187dygTSk4sPf7H44F9dzN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 5:50 |
+| 4 | [Omerta \- Justin K Broadrick Remix](https://open.spotify.com/track/187dygTSk4sPf7H44F9dzN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [Ashes of the Wake \- 20th Anniversary Edition](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 5:50 |
 | 5 | [Savior Of None / Ashes Of All](https://open.spotify.com/track/4rkjQlKpCN4LO8oK6du9tR) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Savior Of None / Ashes Of All](https://open.spotify.com/album/6q9hP08s2GGMeNferg4POA) | 4:14 |
 | 6 | [The Cure](https://open.spotify.com/track/3MWnqHpQAFSADILo9KNTiF) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [The Cure](https://open.spotify.com/album/54N6JjrHmvtn8CbBnm2pLP) | 3:13 |
 | 7 | [Future Myopia](https://open.spotify.com/track/1x9QNaJpJ2943JldpfVHO2) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Future Myopia](https://open.spotify.com/album/4EfkMOdt8vbmlqXplqtFWG) | 3:38 |

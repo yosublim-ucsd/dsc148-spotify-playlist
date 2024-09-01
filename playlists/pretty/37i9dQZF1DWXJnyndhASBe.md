@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: kuqe 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,183 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,355 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 12 | [Materiał na żonę](https://open.spotify.com/track/07xSkypf6gceRgjnY1kZGu) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Materiał na żonę](https://open.spotify.com/album/62rBBeCOYCOIRyN4u2uAh3) | 1:56 |
 | 13 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
 | 14 | [GENERACJA CUZI](https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [GENERACJA CUZI](https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU) | 1:53 |
-| 15 | [Futomaki](https://open.spotify.com/track/7eYYZYJOPAyAWshzCDHMN6) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Def Jam World Tour: PARIS](https://open.spotify.com/album/5E61tL1WhwCmaRlUrxSEoG) | 2:52 |
+| 15 | [Futomaki](https://open.spotify.com/track/7eYYZYJOPAyAWshzCDHMN6) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Noah](https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Def Jam World Tour: PARIS](https://open.spotify.com/album/5E61tL1WhwCmaRlUrxSEoG) | 2:52 |
 | 16 | [najlepszy dzień](https://open.spotify.com/track/4CzZz613hFFDTejJG9Eonw) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [najlepszy dzień](https://open.spotify.com/album/1q7e8JcwZdvweQmV9bkGog) | 2:30 |
 | 17 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |
 | 18 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |

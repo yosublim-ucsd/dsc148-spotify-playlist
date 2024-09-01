@@ -2,7 +2,7 @@
 
 ### [This Is Maverick City Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek)
 
-> This is Maverick City Music\. The essential tracks, all in one playlist.
+> This is: Maverick City Music\. Alle wichtigen Tracks in einer Playlist.
 
 96 songs - 12 hr 18 min
 

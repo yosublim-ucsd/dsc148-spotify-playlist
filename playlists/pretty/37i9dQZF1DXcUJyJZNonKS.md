@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived on Crunchyroll this summer! Listen along to the music behind the lineup!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,634 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,764 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 34 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 |
 | 35 | [荒野に咲けよ冒険者たち](https://open.spotify.com/track/6faYZlk7mbntB2tlfM47rZ) | [串田アキラ](https://open.spotify.com/artist/4jtNGQ3vlJ9yHRkQkuhrA3) | [荒野に咲けよ冒険者たち](https://open.spotify.com/album/6o4tklQtH1E57QXSWqYVuf) | 3:32 |
 | 36 | [Hazure](https://open.spotify.com/track/0d71kse4wROg8GrkqbRVaU) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Hazure](https://open.spotify.com/album/1HaXmimeKNGAdz6nTN4bdH) | 3:18 |
-| 37 | [修羅日記](https://open.spotify.com/track/7f6lItK5vMWcgciBpZwrAi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「異世界失格」オープニングテーマ「修羅日記」](https://open.spotify.com/album/5EVbQZSSbZKkbzvt9RMbHr) | 3:50 |
+| 37 | [修羅日記](https://open.spotify.com/track/7f6lItK5vMWcgciBpZwrAi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [修羅日記](https://open.spotify.com/album/5EVbQZSSbZKkbzvt9RMbHr) | 3:50 |
 | 38 | [クランクアップ](https://open.spotify.com/track/5U9AuW2kaBCcoMgyUUDUti) | [Ikusaburo Yamazaki](https://open.spotify.com/artist/6Gb2Ypn3fY7iNn9aHQDu85) | [クランクアップ](https://open.spotify.com/album/7FUhKHzyXR1XcJTwTYOLHi) | 4:23 |
 | 39 | [Ctrl C](https://open.spotify.com/track/3GhcOYSz5FAvgPF6eW3lFN) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Shun Ikegai](https://open.spotify.com/artist/1m1bA8fGetbpslWGRwSOhR) | [Ctrl C](https://open.spotify.com/album/0dyjsaW8iZa9O1mLPbKXnv) | 3:53 |
 | 40 | [未完成ランデヴー](https://open.spotify.com/track/1LTR3KSXruE1pQCmMAPPDp) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [未完成ランデヴー](https://open.spotify.com/album/4SQ9TPDLGnUfuATw6HrURi) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Nena
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,523 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,566 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 63 | [Estou a Ficar Maluco](https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Estou a Ficar Maluco](https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio) | 2:53 |
 | 64 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 |
 | 65 | [Filha de Lisboa](https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD) | [Catarina Castanhas](https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf) | [Filha de Lisboa](https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf) | 3:04 |
-| 66 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 |
+| 66 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/4IgRDYUNOfDQ64aaquFdtw), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 |
 | 67 | [A Chamada](https://open.spotify.com/track/4ycKz3ByrKv6s0NdZ36Tl5) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [A Chamada](https://open.spotify.com/album/5gK7m9ajcA9TbW4KcSaLIl) | 3:39 |
 | 68 | [Promessas](https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Margarida Rotilo](https://open.spotify.com/artist/6AiYa8nZTEc2u3HOFu3I7Y) | [Promessas](https://open.spotify.com/album/2DXHdgkLVueeCGmljBfZQs) | 2:34 |
 | 69 | [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 |

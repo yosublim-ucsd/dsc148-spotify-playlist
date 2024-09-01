@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: I Mean Us
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 73 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,022 likes - 73 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 62 | [不喜欢就请直说](https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [不喜欢就请直说](https://open.spotify.com/album/0BazLddjUePVnQqhKULEVN) | 3:17 |
 | 63 | [好佳哉 \(電視劇《我的意外室友》主題曲\)](https://open.spotify.com/track/63aeX1gAvMtrNhYmTFkPFI) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [好佳哉 \(電視劇《我的意外室友》主題曲\)](https://open.spotify.com/album/3csti8ruuYZ7dYnbhZhV1L) | 2:32 |
 | 64 | [Mr\. Peanutbutter](https://open.spotify.com/track/40WA6xKiFL9uff4KXvapxj) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Mr\. Peanutbutter](https://open.spotify.com/album/41HM09Vmhun3ziBD7DbEXM) | 3:58 |
-| 65 | [烟锅](https://open.spotify.com/track/0po3hj05Md6whoGi2OiElQ) | [濮曼乐队](https://open.spotify.com/artist/1V6gBBt9SmuJobwq0VhMqc) | [烟锅](https://open.spotify.com/album/3KqGBmO9kzhfbgOnAD1VGx) | 3:48 |
+| 65 | [烟锅](https://open.spotify.com/track/0po3hj05Md6whoGi2OiElQ) | [Puman](https://open.spotify.com/artist/1V6gBBt9SmuJobwq0VhMqc) | [烟锅](https://open.spotify.com/album/3KqGBmO9kzhfbgOnAD1VGx) | 3:48 |
 | 66 | [24/7 Shining](https://open.spotify.com/track/7cvkZVHF0tLOfKc9q4pEuq) | [AKB48 Team TP](https://open.spotify.com/artist/5EJySPaACof5q6mh88d3gb) | [24/7 Shining](https://open.spotify.com/album/2ntpCzRQE0RFCR2LCQAC2Y) | 4:37 |
 | 67 | [衡山路宛平路](https://open.spotify.com/track/5nOlGw08h80qQaWu3V136A) | [ChiliChill](https://open.spotify.com/artist/4Aets4vGG15UDeIffZ6Cbo) | [衡山路宛平路](https://open.spotify.com/album/2SzImQ6JlUpK8bXukNPRaV) | 3:56 |
 | 68 | [醒不来](https://open.spotify.com/track/0SM4o1qnpS097cjFaExfK5) | [melonboii](https://open.spotify.com/artist/1TZwWvsRd9vRm8zIwvLlWH) | [醒不来](https://open.spotify.com/album/4g5e6N4X42gHZ3wkZXI8t0) | 2:55 |

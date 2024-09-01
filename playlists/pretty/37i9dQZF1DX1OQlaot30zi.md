@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Cosang, Rondodasosa Shiva e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,142 likes - 91 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,151 likes - 91 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 |
-| 2 | [Mandante](https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Mandante](https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA) | 3:34 |
+| 2 | [MANDANTE](https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MANDANTE](https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA) | 3:34 |
 | 3 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 |
 | 4 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
 | 5 | [Carne e ossa](https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:34 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 82 | [33796](https://open.spotify.com/track/6K048iWHyMwJ38UNVoQsm8) | [Bruno20096](https://open.spotify.com/artist/6cuzr7jTm3s5LHoAz1BGZ5), [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [33796](https://open.spotify.com/album/67TYmnpPUqYbkkV2j7NBkF) | 2:34 |
 | 83 | [NO RAPPER](https://open.spotify.com/track/0VT4FLtWeALjlTwmne7GtY) | [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx), [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [NO RAPPER](https://open.spotify.com/album/4mH9BBP9QznE4ZNhcfhHw9) | 2:29 |
 | 84 | [Petit génie \- Italian Remix](https://open.spotify.com/track/6IGu0paTnB0EHPwMmEqzJm) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie \(Italian Remix\)](https://open.spotify.com/album/4sO5L5xtDaOPDvRzSp3oxD) | 3:52 |
-| 85 | [Per un BroBro \(feat\. Bresh\)](https://open.spotify.com/track/0Rn0jA86w84Icx77vPnEQ2) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Cultura Italiana Pt.1](https://open.spotify.com/album/1b3MZM1zZG8yRK4Hpcf8pJ) | 2:32 |
+| 85 | [Per un BroBro \(feat\. Bresh\)](https://open.spotify.com/track/0Rn0jA86w84Icx77vPnEQ2) | [Diss Gacha](https://open.spotify.com/artist/0Nmx60rlXjZNnQ4Q0DXyRl), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Cultura Italiana Pt.1](https://open.spotify.com/album/1b3MZM1zZG8yRK4Hpcf8pJ) | 2:32 |
 | 86 | [REINA DE LA ROCA \(feat\. Yung Snapp\)](https://open.spotify.com/track/6Kv2OSghDhbl60v8OQZnAq) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [REINA DE LA ROCA \(feat\. Yung Snapp\)](https://open.spotify.com/album/3EQYneaJaSUAXRxuzTl4yS) | 2:25 |
 | 87 | [Perfect Days](https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt) | [Perfect Days](https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA) | 2:42 |
 | 88 | [TELEPASS](https://open.spotify.com/track/0ssZdhlpP5Dz8W0mEevJ80) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM) | [TELEPASS](https://open.spotify.com/album/5xFjeVhsrGphykyNaHV2cs) | 2:41 |

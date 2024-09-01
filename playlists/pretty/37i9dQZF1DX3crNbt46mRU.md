@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,676 likes - 119 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,680 likes - 119 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 30 | [Vollkommen Leer](https://open.spotify.com/track/4Uvnws4K4o96gLiDoCT47G) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej), [Toni\-L](https://open.spotify.com/artist/1w7MOkgbqi9K4D9FXRwIh9) | [Vollkommen Leer](https://open.spotify.com/album/2Gu59mr9PWOq1ONjJ3kqir) | 2:36 |
 | 31 | [Si seulement...](https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2) | 2:57 |
 | 32 | [Keis Amen](https://open.spotify.com/track/3TlJcFkzJq2YrYDqtTZ5LZ) | [Port Polar](https://open.spotify.com/artist/4b41AQY0Be5MHvhf4g9opI) | [ich denk churz luut](https://open.spotify.com/album/5ryFGzLV6bQeB2I5hu1n3Y) | 3:31 |
-| 33 | [Mandante](https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Mandante](https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA) | 3:34 |
+| 33 | [MANDANTE](https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MANDANTE](https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA) | 3:34 |
 | 34 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 |
 | 35 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 |
 | 36 | [Halo](https://open.spotify.com/track/74KNUsROKQpivX8RHHwwr9) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Halo](https://open.spotify.com/album/1hR2Fahege0dQiUnRBm94b) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: SPIRIT OF THE BEEHIVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,467 likes - 105 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,506 likes - 105 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 70 | [will you, say your name](https://open.spotify.com/track/0hv4dNi96wfpvX7TifcrZ8) | [Gloom East](https://open.spotify.com/artist/08uFeaJXuBJKkPXuWleYY5) | [will you, say your name](https://open.spotify.com/album/39Ld2bcn5AhTpvoFqefhoD) | 3:10 |
 | 71 | [Burden](https://open.spotify.com/track/2E91EijEIcTjgtkalnrAov) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Burden](https://open.spotify.com/album/1l0qgjiQmZzFDox4zaGg4E) | 3:19 |
 | 72 | [Bug Bite](https://open.spotify.com/track/3n6GIJKukJcU0z2PLR4AgV) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [Bug Bite](https://open.spotify.com/album/542jUay4Kn3Z34rZXc56ez) | 2:58 |
-| 73 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo), [Heaven Slight](https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
+| 73 | [Presence](https://open.spotify.com/track/0sC050Ym8TNMuBNSn0ilYW) | [Heaven Slight](https://open.spotify.com/artist/32LEcsG3biRsMzdU6VVoMd), [Bobby Peppermint](https://open.spotify.com/artist/52sLlXe0RySIpfuhTtsvDo) | [Presence](https://open.spotify.com/album/6UZ2Htk0SMwcpLjXfS33f4) | 2:17 |
 | 74 | [chaperone](https://open.spotify.com/track/1vclWLEoykWDgSAUvubukb) | [Mermaid Chunky](https://open.spotify.com/artist/5IVLihKRLMZ5RHzSPa7cAI) | [chaperone](https://open.spotify.com/album/74mSBOPwTrTxW5ACmmIp4a) | 7:43 |
 | 75 | [Perfect Comms](https://open.spotify.com/track/4PRZX2TyLblnE43M3sNGqF) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Perfect Comms](https://open.spotify.com/album/2CeGWTVTrk2rA1MpSHFb6M) | 2:49 |
 | 76 | [Hide and Seek](https://open.spotify.com/track/4JhubhPFtaPXj2lW4RdPQn) | [Croozer](https://open.spotify.com/artist/0ty4d3BX8Yq8YGhWPW8Ock) | [Hide and Seek](https://open.spotify.com/album/5bcdYA2nWxjNMvjym387RD) | 2:37 |

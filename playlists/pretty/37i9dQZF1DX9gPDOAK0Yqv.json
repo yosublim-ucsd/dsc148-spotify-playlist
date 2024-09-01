@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 120978,
+  "num_followers": 121041,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
-      },
-      "artists": [
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 282247,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Hungover (with Camden Cox)",
         "url": "https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 220588,
       "name": "Hungover (with Camden Cox)",
       "url": "https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 282247,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Seraph",
+        "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Seraph",
+      "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Wet",
         "url": "https://open.spotify.com/album/6GQv5oaFsol421ygVYu5aW"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 525000,
       "name": "Wet",
       "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Seraph",
-        "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
-      },
-      "artists": [
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Seraph",
-      "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "The Belonging",
-        "url": "https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 254032,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Laura (Argy & Omnya Remix)",
         "url": "https://open.spotify.com/album/38BbZfMpoLj0lkl5ESkKDz"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 347520,
       "name": "Laura - Argy & Omnya Remix",
       "url": "https://open.spotify.com/track/548DlYhe2Pn8f9wGpOJsBV"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "The Belonging",
+        "url": "https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 254032,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Close Encounters",
+        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Close Encounters",
+      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 263520,
       "name": "The Future Is Unknown",
       "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Close Encounters",
-        "url": "https://open.spotify.com/album/5YxOhkGIWLYZRXWc5V173x"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Close Encounters",
-      "url": "https://open.spotify.com/track/0vYxkkJ5bGTs3OzP1E3Isl"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Yumi (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 245624,
-      "name": "Yumi - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Sorry (with Madonna) [Miss Monique Remix]",
         "url": "https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 187200,
       "name": "Sorry (with Madonna) - Miss Monique Remix",
       "url": "https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Aran",
-        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 342626,
-      "name": "Aran",
-      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Level One",
         "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 470400,
       "name": "Level One",
       "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Aran",
+        "url": "https://open.spotify.com/album/25Q0kKTebIuGemyCkTzKH1"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 342626,
+      "name": "Aran",
+      "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Atomic Heart",
+        "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Yana Blinder",
+          "url": "https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R"
+        }
+      ],
+      "duration_ms": 433920,
+      "name": "Atomic Heart",
+      "url": "https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 180952,
       "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Atomic Heart",
-        "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Yana Blinder",
-          "url": "https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R"
-        }
-      ],
-      "duration_ms": 433920,
-      "name": "Atomic Heart",
-      "url": "https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/5gWO17CbmyvXOtiukxEcdr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        }
-      ],
-      "duration_ms": 238093,
-      "name": "Ana",
-      "url": "https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Transmission (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 224274,
       "name": "Transmission - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/5gWO17CbmyvXOtiukxEcdr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "duration_ms": 238093,
+      "name": "Ana",
+      "url": "https://open.spotify.com/track/5PpqIZqDaY0dtKSxjLNO64"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2191,26 +2191,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Ringo (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 222594,
-      "name": "Ringo - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Sternstunde (Joris Voorn Edit)",
         "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
       },
@@ -2227,6 +2207,26 @@
       "duration_ms": 226680,
       "name": "Sternstunde - Joris Voorn Edit",
       "url": "https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Ringo (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 222594,
+      "name": "Ringo - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Freaks at Night",
-        "url": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Freaks at Night",
-      "url": "https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Freyja",
         "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 229959,
       "name": "Freyja",
       "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Freaks at Night",
+        "url": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Freaks at Night",
+      "url": "https://open.spotify.com/track/2hAIcWh147ofa7v2DXyHPn"
     },
     {
       "added_at": "2024-08-29 22:00:00",

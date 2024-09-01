@@ -4789,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "Muero X dec\u00edrtelo",
+        "url": "https://open.spotify.com/album/3HBuUOZAcoR6GyQ2uU08dE"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Muero X dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/5YP2eun7Fp0W9vVe0VCoyM"
+    },
+    {
+      "album": {
         "name": "Vamos por Mas..",
         "url": "https://open.spotify.com/album/1DUW4lrfFjQ1CO9hPhQdck"
       },
@@ -6458,7 +6476,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 167927,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou"

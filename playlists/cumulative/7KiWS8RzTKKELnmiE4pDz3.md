@@ -4,7 +4,7 @@
 
 > 
 
-757 songs - 1 day 12 hr 20 min
+758 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Porridge](https://open.spotify.com/track/1nkF0p4LX4h39DxwXXjus5) | [Maitchhh, Ion999](https://open.spotify.com/artist/2jJ3dHmsUVS70WcJidjy0P) | [Porridge](https://open.spotify.com/album/57dEzkP0hlWxeE7HbSm5R9) | 3:36 | 2022-06-30 | 2023-12-14 |
 | [Portrayal!](https://open.spotify.com/track/22DtsLext8dWgV3PBYrmxi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Portrayal!](https://open.spotify.com/album/44Ieuq8XEqoNxkvcN02jBd) | 2:30 | 2023-01-23 | 2023-04-12 |
 | [Pot Roast \(feat\. Key Glock\)](https://open.spotify.com/track/4lGVw2ckNgm2rvVySj7qTP) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:18 | 2023-02-28 | 2023-12-14 |
+| [POTHEAD & STONER](https://open.spotify.com/track/7rh1Rw4Xm2cqBaHBcEkT5q) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Da Real Oso](https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1) | 2:12 | 2024-08-31 |  |
 | [Pour Maman](https://open.spotify.com/track/2aUuq6RpuAxPDFsJxsBI1X) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:53 | 2024-02-16 |  |
 | [Power Trip](https://open.spotify.com/track/3bDH7eIQ84QWdBeWwffUZD) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:24 | 2024-02-21 | 2024-04-24 |
 | [Praise Da Most High](https://open.spotify.com/track/38hxguECpjDWojaM01WJwo) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:00 | 2023-01-27 | 2023-04-24 |

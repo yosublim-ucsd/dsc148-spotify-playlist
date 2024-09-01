@@ -1,12 +1,12 @@
 {
   "description": "This is Mot\u00f6rhead. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 193798,
+  "num_followers": 193830,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs+6AAAAAAA9uwTb2HkhIaX163NjL98T",
+  "snapshot_id": "ZtELgAAAAACIxwIlTSj72QrUv3As+U6Z",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orgasmatron",
-        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 324506,
-      "name": "Orgasmatron",
-      "url": "https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX"
+      "duration_ms": 191066,
+      "name": "(We Are) The Roadcrew",
+      "url": "https://open.spotify.com/track/4n5OX6FX4jcyow16EP3LaL"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6"
+        "name": "Orgasmatron",
+        "url": "https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 191066,
-      "name": "(We Are) The Roadcrew",
-      "url": "https://open.spotify.com/track/4n5OX6FX4jcyow16EP3LaL"
+      "duration_ms": 324506,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX"
     },
     {
       "added_at": null,

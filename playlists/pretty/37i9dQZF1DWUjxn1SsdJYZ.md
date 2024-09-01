@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The latest in AUS & NZ Rap\. Cover: Ay Huncho
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,412 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,422 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 2 | [You Won't](https://open.spotify.com/track/7nzeonrsnd8GkQno8qDr8u) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [You Won't](https://open.spotify.com/album/3CYZumdsP2LpbBdQVdyUHh) | 3:54 |
 | 3 | [IDK](https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR) | [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [IDK](https://open.spotify.com/album/2Y0DM8tj6FtYo0jzkcQlPh) | 2:54 |
 | 4 | [No Disrespect](https://open.spotify.com/track/0ZDYdn0Eirn5HVqDzP5hes) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Peace of mine.](https://open.spotify.com/album/4tZPcfJAWSiGsADrEnNDor) | 2:35 |
-| 5 | [Fruition\( feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 |
+| 5 | [Fruition \(feat\. Minty\)](https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [MINTY](https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu) | [Big Tidda](https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI) | 3:13 |
 | 6 | [PROVE 'EM WRONG](https://open.spotify.com/track/4Xu0UEjeBxVYPAlauEriqb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [PROVE 'EM WRONG](https://open.spotify.com/album/2h4IV2lLPgLkcoSnXfWoKW) | 4:08 |
 | 7 | [Say So](https://open.spotify.com/track/1zW1Zjf8qNSc0Kv6zFOv62) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Say So](https://open.spotify.com/album/2KDS12Ed8ISiajiZ09XtCS) | 2:10 |
 | 8 | [God Save the King](https://open.spotify.com/track/52X37z9aSJJXHWCZNfX6X6) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [God Save the King](https://open.spotify.com/album/3YvPtZKraCf9nUMUwg6JLB) | 2:39 |

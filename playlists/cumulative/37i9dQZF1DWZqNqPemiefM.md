@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-633 songs - 2 day 1 hr 31 min
+634 songs - 2 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Nova](https://open.spotify.com/track/165sdKbKB2By9Hs3T5CYoQ) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 10:47 | 2024-02-08 |  |
 | [Nuska](https://open.spotify.com/track/0VjNU6gmu3obqXJEaZdYi4) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/27iGaCh2JV907Q3rkHnJAE) | 4:44 | 2024-03-07 |  |
 | [Nuska](https://open.spotify.com/track/6O7OnCq0HzT08Msx088gxn) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/6306c8CVmaIrZRGHG8UP5O) | 4:44 | 2024-02-08 | 2024-04-19 |
+| [Oath](https://open.spotify.com/track/4Glh13oKfSEsDL0GtAyxw6) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Oath](https://open.spotify.com/album/2WweF0iUD71SuOdrUC7aXM) | 3:31 | 2024-08-25 |  |
 | [obi](https://open.spotify.com/track/356DU7XWkqYSrmPnMDPD49) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient \(vol.01 "the first"\)](https://open.spotify.com/album/2DyfeR0bFqTunVWMluANrl) | 7:36 | 2022-04-16 | 2022-06-01 |
 | [Obscure Corner](https://open.spotify.com/track/7p1GxtJvJMEcAs70TnK15l) | [Hegira Moya](https://open.spotify.com/artist/5GKnUWZLOg93scPTUsXtkj) | [Slow Vein](https://open.spotify.com/album/3SzmsmIURHxAiXTQQdVRPM) | 4:49 | 2022-03-30 | 2022-04-05 |
 | [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 | 2024-06-15 |  |
@@ -455,7 +456,7 @@
 | [Shimmer in the Sky](https://open.spotify.com/track/5LNuw8cXIpN3Oc3YD9EbID) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 2:17 | 2022-03-31 | 2022-07-29 |
 | [Shimmering Lake Emblaze the Shady Trees.](https://open.spotify.com/track/6tHjusOqbHBxr5LEKYXTwe) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Opitope](https://open.spotify.com/artist/5GhcNZictH4RHb1qWXHs4f) | [The Crepuscular Grove](https://open.spotify.com/album/7kM1y74RIDRGD931Sh0uRP) | 7:19 | 2022-03-31 | 2022-06-24 |
 | [Shiosai \- Remix](https://open.spotify.com/track/4nXHTDn9XzPT2xOH2DbEdo) | [Cokiyu](https://open.spotify.com/artist/7zxbGCI5DeZCwpbYXn20it), [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [Shiosai \(Remix\)](https://open.spotify.com/album/6wI4pRNq4SV8LZ4OWJuMHk) | 4:14 | 2022-04-07 | 2022-07-28 |
-| [SHORT ROMANCE](https://open.spotify.com/track/5saTw0QYc3AEcZyfz7mPI3) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [SUNSET LIGHT COCKTAIL](https://open.spotify.com/album/7ygVmOlw4hWHilxCvlfe1K) | 1:22 | 2024-06-15 |  |
+| [SHORT ROMANCE](https://open.spotify.com/track/5saTw0QYc3AEcZyfz7mPI3) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [SUNSET LIGHT COCKTAIL](https://open.spotify.com/album/7ygVmOlw4hWHilxCvlfe1K) | 1:22 | 2024-06-15 | 2024-09-01 |
 | [SHUFFER](https://open.spotify.com/track/6oB6CSjxPe9Vfn9g178Oa2) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:48 | 2022-03-31 | 2022-07-25 |
 | [SHUNGA Opening](https://open.spotify.com/track/2g9urdPN3OVcx4X77V4TS6) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [SHUNGA Original Soundtrack](https://open.spotify.com/album/27g1I8e9DdT1sZCPgcZ79e) | 0:38 | 2024-07-12 |  |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2022-03-31 | 2022-10-14 |

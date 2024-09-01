@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 55968,
+  "num_followers": 56076,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC"
+      },
+      "artists": [
+        {
+          "name": "Moonweaver",
+          "url": "https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
         "name": "Canola Morning",
         "url": "https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC"
+        "name": "Earth Awakening",
+        "url": "https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu"
       },
       "artists": [
         {
-          "name": "Moonweaver",
-          "url": "https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU"
+          "name": "Yin Gaya",
+          "url": "https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp"
+      "duration_ms": 167727,
+      "name": "Earth Awakening",
+      "url": "https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -455,22 +471,6 @@
       "duration_ms": 160624,
       "name": "Clearing",
       "url": "https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
-        "name": "Earth Awakening",
-        "url": "https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu"
-      },
-      "artists": [
-        {
-          "name": "Yin Gaya",
-          "url": "https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML"
-        }
-      ],
-      "duration_ms": 167727,
-      "name": "Earth Awakening",
-      "url": "https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Early Morning",
-        "url": "https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL"
+        "name": "Songbird Shrine",
+        "url": "https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n"
       },
       "artists": [
         {
-          "name": "Thomas Webster",
-          "url": "https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV"
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
         }
       ],
-      "duration_ms": 150810,
-      "name": "Early Morning",
-      "url": "https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ"
+      "duration_ms": 172909,
+      "name": "Songbird Shrine",
+      "url": "https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Songbird Shrine",
-        "url": "https://open.spotify.com/album/418V4m0E3V8o4ISbh8dS5n"
+        "name": "Early Morning",
+        "url": "https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL"
       },
       "artists": [
         {
-          "name": "Aviaries",
-          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+          "name": "Thomas Webster",
+          "url": "https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV"
         }
       ],
-      "duration_ms": 172909,
-      "name": "Songbird Shrine",
-      "url": "https://open.spotify.com/track/0XVodTArKi2jRSyWmFLYX1"
+      "duration_ms": 150810,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Lazy Lanta",
-        "url": "https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi"
-      },
-      "artists": [
-        {
-          "name": "Hevios",
-          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
-        }
-      ],
-      "duration_ms": 210541,
-      "name": "Lazy Lanta",
-      "url": "https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
         "name": "Peaceful Waters",
         "url": "https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 153639,
       "name": "Peaceful Waters",
       "url": "https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
+        "name": "Lazy Lanta",
+        "url": "https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi"
+      },
+      "artists": [
+        {
+          "name": "Hevios",
+          "url": "https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Lazy Lanta",
+      "url": "https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
+      },
+      "artists": [
+        {
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
+        }
+      ],
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
         "name": "In The Forest",
         "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 206000,
       "name": "Bogha Sound Bath",
       "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
-        "name": "Mystic Nature",
-        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
-      },
-      "artists": [
-        {
-          "name": "Dawe Natauk",
-          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
-        }
-      ],
-      "duration_ms": 202789,
-      "name": "Mystic Nature",
-      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Volans In Silva",
-        "url": "https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG"
-      },
-      "artists": [
-        {
-          "name": "Bo Beauve",
-          "url": "https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel"
-        }
-      ],
-      "duration_ms": 186168,
-      "name": "Volans In Silva",
-      "url": "https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
         "name": "October 21st",
         "url": "https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 144500,
       "name": "October 21st",
       "url": "https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
+        "name": "Volans In Silva",
+        "url": "https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG"
+      },
+      "artists": [
+        {
+          "name": "Bo Beauve",
+          "url": "https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel"
+        }
+      ],
+      "duration_ms": 186168,
+      "name": "Volans In Silva",
+      "url": "https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Tamana's Stream",
-        "url": "https://open.spotify.com/album/0I53et96cA2GQSIFF94WZl"
-      },
-      "artists": [
-        {
-          "name": "Stellarscopees",
-          "url": "https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6"
-        }
-      ],
-      "duration_ms": 152389,
-      "name": "Tamana's Stream",
-      "url": "https://open.spotify.com/track/2qXwh3IN2mTW1Ce9HySq2O"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
         "name": "Anima Naturale",
         "url": "https://open.spotify.com/album/3FjoYivEdT9lJFiD10OrHZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 148124,
       "name": "Anima Naturale",
       "url": "https://open.spotify.com/track/2kFfuFMjmXUuIyWEBDoKXA"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
+        "name": "Tamana's Stream",
+        "url": "https://open.spotify.com/album/0I53et96cA2GQSIFF94WZl"
+      },
+      "artists": [
+        {
+          "name": "Stellarscopees",
+          "url": "https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6"
+        }
+      ],
+      "duration_ms": 152389,
+      "name": "Tamana's Stream",
+      "url": "https://open.spotify.com/track/2qXwh3IN2mTW1Ce9HySq2O"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Exploring Nature",
-        "url": "https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV"
-      },
-      "artists": [
-        {
-          "name": "Vidar Arvidsson",
-          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Boreal Forest",
-      "url": "https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
         "name": "By The Window",
         "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 150250,
       "name": "By The Window",
       "url": "https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
+        "name": "Exploring Nature",
+        "url": "https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Boreal Forest",
+      "url": "https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Dasik\u00f3 Plankt\u00f3n",
-        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
+        "name": "Back to life",
+        "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },
       "artists": [
         {
-          "name": "Olhans",
-          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
+          "name": "My Dream Escape",
+          "url": "https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Dasik\u00f3 Plankt\u00f3n",
-      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
+      "duration_ms": 130807,
+      "name": "New Roads",
+      "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Back to life",
-        "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
+        "name": "Dasik\u00f3 Plankt\u00f3n",
+        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
       },
       "artists": [
         {
-          "name": "My Dream Escape",
-          "url": "https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d"
+          "name": "Olhans",
+          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
         }
       ],
-      "duration_ms": 130807,
-      "name": "New Roads",
-      "url": "https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5"
+      "duration_ms": 210000,
+      "name": "Dasik\u00f3 Plankt\u00f3n",
+      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel"
-      },
-      "artists": [
-        {
-          "name": "8 D Dreaming",
-          "url": "https://open.spotify.com/artist/1JhEH0zN1gIRtl5jSsuvpq"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E"
-    },
-    {
-      "added_at": "2024-08-23 10:54:49",
-      "album": {
         "name": "Beautiful Walk",
         "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 140181,
       "name": "Mellow Spring",
       "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
+    },
+    {
+      "added_at": "2024-08-23 10:54:49",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel"
+      },
+      "artists": [
+        {
+          "name": "8 D Dreaming",
+          "url": "https://open.spotify.com/artist/1JhEH0zN1gIRtl5jSsuvpq"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E"
     },
     {
       "added_at": "2024-08-23 10:54:49",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2024-08-23 10:54:49",
       "album": {
-        "name": "Winter Lake",
-        "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo"
       },
       "artists": [
         {
-          "name": "Carl Faber",
-          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+          "name": "Lenards \u0160mits",
+          "url": "https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Winter Lake",
-      "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+      "duration_ms": 162000,
+      "name": "Passing",
+      "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
     }
   ],
   "unique_name": "Calming Nature Music",

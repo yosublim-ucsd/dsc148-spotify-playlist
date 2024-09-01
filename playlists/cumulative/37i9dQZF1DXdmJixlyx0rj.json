@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Peggy Gou)",
+  "description": "New & best K-Electronic music is here. (Cover: I\u00d6N)",
   "name": "Electronii'K",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 262428,
       "name": "alive",
       "url": "https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 219840,
       "name": "INVU - ZHU Remix",
       "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
@@ -3151,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "C\u00d6URAGE",
+        "url": "https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285272,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/41cXhwBfE4UFfEeB0YYrLY"
+    },
+    {
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -3224,6 +3242,24 @@
       "duration_ms": 170440,
       "name": "SEROTONIN",
       "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
+    },
+    {
+      "album": {
+        "name": "ENDLESS SEROTONIN RMXS",
+        "url": "https://open.spotify.com/album/5fRkE6eEDjkb3aKexhVm77"
+      },
+      "artists": [
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "SEROTONIN - stevenc4stle c4stlesque Remix",
+      "url": "https://open.spotify.com/track/5Da3wmkNxihv7Hc11YndLA"
     },
     {
       "album": {
@@ -3750,6 +3786,24 @@
       "duration_ms": 161904,
       "name": "Useless",
       "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "Vanilla Sundae",
+      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
     },
     {
       "album": {

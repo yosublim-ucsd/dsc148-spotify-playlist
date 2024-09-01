@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,144 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,172 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 13 | [You fly me](https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh) | [Fingathing](https://open.spotify.com/artist/7l9MYefk0544OMaA9wIPDW) | [Hôtel Costes 6](https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0) | 2:52 |
 | 14 | [It's All Over But the Crying \(Instrumental\)](https://open.spotify.com/track/1WrQreMyy7L97MUSdS01xu) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 4:09 |
 | 15 | [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 |
-| 16 | [Dusty Lake](https://open.spotify.com/track/5xgON9z9ym08pQrRKHkBsT) | [Blue Frog Lofi](https://open.spotify.com/artist/1xofHYQfp6iMKG9XTk9RQq) | [Dusty Lake](https://open.spotify.com/album/6TjGE9e5AucQWWtYFUSrA1) | 1:47 |
+| 16 | [Dusty Lake](https://open.spotify.com/track/5xgON9z9ym08pQrRKHkBsT) | [Blue Frog](https://open.spotify.com/artist/1j71gO9gHulj7w1KXBtDXi) | [Dusty Lake](https://open.spotify.com/album/6TjGE9e5AucQWWtYFUSrA1) | 1:47 |
 | 17 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
 | 18 | [Ms\. Ho](https://open.spotify.com/track/6vQHxIHj6mFAsHgP6F52tf) | [Onra](https://open.spotify.com/artist/2sAlo7Fey5cqBk5WJILSd8) | [Chinoiseries pt 2](https://open.spotify.com/album/5bl0ylxUoBnIMB1Fn2oSYF) | 1:56 |
 | 19 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/3erovQ48Iy0iqZb9e9NrZu) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/7gpO1RGycB9OmjuALSkNBO) | 3:25 |

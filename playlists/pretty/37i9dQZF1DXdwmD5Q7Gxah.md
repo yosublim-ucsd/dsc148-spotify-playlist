@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > it's a Magdalena Bay world
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,842 likes - 131 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,075 likes - 131 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

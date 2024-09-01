@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 167885,
       "name": "1+1",
       "url": "https://open.spotify.com/track/6GujKDj7JIaPwMi990CkIK"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 203557,
       "name": "Alli Mia Fora",
       "url": "https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 191015,
       "name": "Allou",
       "url": "https://open.spotify.com/track/4Fke1kIQz7pzIZYKqyzeNm"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 132000,
       "name": "Aristourgima",
       "url": "https://open.spotify.com/track/4lwRh4qMQvANHm1OcgB4Tg"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8069,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179009,
+      "name": "DEKA",
+      "url": "https://open.spotify.com/track/4CRuQpPGq3gwD98HybW9wV"
+    },
+    {
+      "album": {
         "name": "Kyrios Nekrikos Part I",
         "url": "https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ"
       },
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 237916,
       "name": "Dokimasia",
       "url": "https://open.spotify.com/track/2wbBqDHV8Lv4XyBhBnakNx"
@@ -10319,6 +10337,32 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130562,
+      "name": "EMENA H TO XRHMA",
+      "url": "https://open.spotify.com/track/0bETg6pRQvzdjVrqRB6tBL"
+    },
+    {
+      "album": {
         "name": "CC COMMANDOZ",
         "url": "https://open.spotify.com/album/7rCAtdZaRBIxTyNf7Ovlwu"
       },
@@ -10360,6 +10404,28 @@
       "duration_ms": 236470,
       "name": "EMMONH",
       "url": "https://open.spotify.com/track/3xo0AJj0gWlp51SqoGaGDv"
+    },
+    {
+      "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "EMPODIO",
+      "url": "https://open.spotify.com/track/1ZymcsEUTGXdIpqzWn8sZU"
     },
     {
       "album": {
@@ -10932,7 +10998,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -12615,6 +12681,28 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147826,
+      "name": "FWTA MPLE",
+      "url": "https://open.spotify.com/track/3gDpE0edQ0K9wl87NuY8Ws"
+    },
+    {
+      "album": {
         "name": "Reworks",
         "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
       },
@@ -12784,6 +12872,28 @@
       "duration_ms": 131200,
       "name": "Ganador 2 - Intro",
       "url": "https://open.spotify.com/track/5xvaiHCscgfKb8x8cCFDBp"
+    },
+    {
+      "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137866,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/47YTXbWxWGCsal8Cc2xdlH"
     },
     {
       "album": {
@@ -14305,6 +14415,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/2GPwUOWgKmvrzX6wWaDhTN"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203523,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6IJuO80Va9Vi7h1STTX87k"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -14744,7 +14876,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 226595,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/6KIKPP18A8XR66bRVMy08k"
@@ -16676,7 +16808,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 120960,
       "name": "Kalokairi",
       "url": "https://open.spotify.com/track/1rHSPCWFHneNv8JUn5EzDz"
@@ -16799,6 +16931,32 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "MUNEYLXRD",
+          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
+        },
+        {
+          "name": "Fullife",
+          "url": "https://open.spotify.com/artist/6M0cPjKNRCTRgH0A4HKoeK"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155166,
+      "name": "KAPOTE",
+      "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
+    },
+    {
+      "album": {
         "name": "Kyrios Nekrikos Part I",
         "url": "https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ"
       },
@@ -16888,6 +17046,32 @@
       "duration_ms": 88777,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5ID6E2o3NT1ABFjPquS30r"
+    },
+    {
+      "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/3J993CIJ09zJSICAUmt3IU"
     },
     {
       "album": {
@@ -17983,6 +18167,28 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "KSANA",
+      "url": "https://open.spotify.com/track/4rhshTqxPAtZoJM6pkQLY8"
+    },
+    {
+      "album": {
         "name": "Ksana",
         "url": "https://open.spotify.com/album/2tz2xEEbft5Z4PLAvODruR"
       },
@@ -18214,7 +18420,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 240812,
       "name": "KVL 2",
       "url": "https://open.spotify.com/track/2bDernbM9iEMoWZLW4sprr"
@@ -18306,6 +18512,28 @@
       "duration_ms": 189124,
       "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140785,
+      "name": "LA VIDA LOCA",
+      "url": "https://open.spotify.com/track/5h3GrdBLyxyrCVv9KXD1wC"
     },
     {
       "album": {
@@ -21742,7 +21970,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 192515,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
@@ -25349,6 +25577,28 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143389,
+      "name": "ONE DANCE",
+      "url": "https://open.spotify.com/track/2moVjjYXKWy91ih9yh0oZH"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6edYgSjO0p6ySEuoM7HQux"
       },
@@ -26240,7 +26490,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -26554,7 +26804,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 211666,
       "name": "Parapatao",
       "url": "https://open.spotify.com/track/31A9vCMK5RaMBstup4l9iU"
@@ -28527,6 +28777,28 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147413,
+      "name": "PYRETOS",
+      "url": "https://open.spotify.com/track/5wjdRG2CnS5d508qTx3RsK"
+    },
+    {
+      "album": {
         "name": "Amantes Amentes",
         "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
       },
@@ -29942,6 +30214,28 @@
       "duration_ms": 167999,
       "name": "Santana",
       "url": "https://open.spotify.com/track/4IrhPzoN0JnbojnslcUtTr"
+    },
+    {
+      "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "SANTORINI",
+      "url": "https://open.spotify.com/track/4YHGPYTtOOylZuKjTanLv7"
     },
     {
       "album": {
@@ -32770,7 +33064,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 148571,
       "name": "TANAPU",
       "url": "https://open.spotify.com/track/2vRUn3ggWiCXnlq42mfbGP"
@@ -32868,7 +33162,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 292478,
       "name": "Taxidi",
       "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
@@ -36151,6 +36445,28 @@
     },
     {
       "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152584,
+      "name": "VODKA",
+      "url": "https://open.spotify.com/track/2PW5BDWjZXBnoRATDjYoub"
+    },
+    {
+      "album": {
         "name": "Vodka Vissino",
         "url": "https://open.spotify.com/album/0ROpwDiym9yEOIcEsleIoN"
       },
@@ -37276,6 +37592,28 @@
       "duration_ms": 182909,
       "name": "XRONO",
       "url": "https://open.spotify.com/track/1hTF7jt7eb1G7oMi10Tvwr"
+    },
+    {
+      "album": {
+        "name": "BABYSHARK",
+        "url": "https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2024-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "XWRIS",
+      "url": "https://open.spotify.com/track/0l3lG8DrnazizwBxGeJ9Qy"
     },
     {
       "album": {

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3WooFO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3WooFO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3WooFO)
 
-### [This Is blink\-182](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO)
+### [This Is ブリンク182](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO)
 
-> This is blink\-182\. The essential tracks, all in one playlist.
+> This is ブリンク182。アーティストの代表曲をひとつのプレイリストに。
 
 93 songs - 4 hr 45 min
 

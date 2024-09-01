@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 170280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
@@ -10148,7 +10148,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
@@ -10174,7 +10174,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 167213,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
@@ -13618,6 +13618,28 @@
       "duration_ms": 191789,
       "name": "Hey wir woll'n die Eisb\u00e4rn sehn",
       "url": "https://open.spotify.com/track/6j7AWOj8StXqLedARcmoBG"
+    },
+    {
+      "album": {
+        "name": "High Rise (Clean)",
+        "url": "https://open.spotify.com/album/5Lk9M0wKNzIgz2pfN3uVJq"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "High Rise (Clean)",
+      "url": "https://open.spotify.com/track/5YvHU5PlNJNZJsz3BYKDwX"
     },
     {
       "album": {
@@ -18968,7 +18990,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 178588,
       "name": "Marathons",
       "url": "https://open.spotify.com/track/0Di4J4VrQBVBEAX36BrZ0R"
@@ -31618,7 +31640,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 195220,
       "name": "The Punishment (Lockdown)",
       "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
@@ -35626,6 +35648,28 @@
       "duration_ms": 219541,
       "name": "Winter Dreamin'",
       "url": "https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65"
+    },
+    {
+      "album": {
+        "name": "Smurfville",
+        "url": "https://open.spotify.com/album/3V7gBWc0k1fPU7NOCjo4ak"
+      },
+      "artists": [
+        {
+          "name": "Blakk Ise",
+          "url": "https://open.spotify.com/artist/0PZxZj6L1NmAz9wH4EKnqM"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176128,
+      "name": "Wisdom",
+      "url": "https://open.spotify.com/track/7GYWCs1HACiFUNYOpQqLdI"
     },
     {
       "album": {

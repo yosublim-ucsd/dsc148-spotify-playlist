@@ -2,7 +2,7 @@
 
 ### [This Is Foo Fighters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kqwHC)
 
-> This Is Foo Fighters\. Los temas esenciales, todos en una lista.
+> This is Foo Fighters\. Todos os maiores hits em uma só playlist.
 
 71 songs - 5 hr 5 min
 

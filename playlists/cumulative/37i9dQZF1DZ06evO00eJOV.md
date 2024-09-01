@@ -2,7 +2,7 @@
 
 ### [This Is Brenda Fassie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00eJOV)
 
-> This is Brenda Fassie\. The essential tracks, all in one playlist.
+> This is Brenda Fassie\. Track\-track unggulan, semuanya dalam satu playlist.
 
 80 songs - 6 hr 6 min
 

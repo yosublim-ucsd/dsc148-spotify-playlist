@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
+> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
 311 songs - 19 hr 33 min
 
@@ -28,7 +28,7 @@
 | [Blues \(Sic\)](https://open.spotify.com/track/1JcC0IxUzvZtmj2sOPsVl6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:05 | 2022-09-21 | 2023-12-14 |
 | [Blues in E](https://open.spotify.com/track/76fnhZiCoZRs62Udv85QSI) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:12 | 2022-07-27 | 2022-09-26 |
 | [Buck Dance](https://open.spotify.com/track/3mehPZ1GnF8SUC4rc9BLol) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 1:27 | 2024-06-21 | 2024-08-09 |
-| [Buck Dance](https://open.spotify.com/track/2IhDsv4glVvkFLvVuxh1EB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:52 | 2022-11-15 |  |
+| [Buck Dance](https://open.spotify.com/track/2IhDsv4glVvkFLvVuxh1EB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:52 | 2022-11-15 | 2024-09-01 |
 | [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 | 2022-11-22 | 2024-08-23 |
 | [C\-Rag](https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:57 | 2022-11-23 | 2023-03-25 |
 | [Can't Be Satisfied \- Instrumental](https://open.spotify.com/track/65TO75TTJpRkVzvplOyCnl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:55 | 2022-07-25 | 2022-10-07 |
@@ -215,7 +215,7 @@
 | [Rag in a Minor](https://open.spotify.com/track/4abTb7ITlODN3jIfHBYoAF) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 1:28 | 2023-07-06 | 2024-06-23 |
 | [Raise a Ruckus Tonight](https://open.spotify.com/track/1MX9fKse1bICsFGcQVahPb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:18 | 2023-04-09 | 2023-04-11 |
 | [Rev\. Gary Davis talks about verses \- not sung](https://open.spotify.com/track/0TdyKoKFKoj8QR2D2HpSgN) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:25 | 2023-03-29 | 2023-04-05 |
-| [Right Now](https://open.spotify.com/track/08GtrSkf0Z8YmjUoJXQNv9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:57 | 2022-05-28 | 2024-06-06 |
+| [Right Now](https://open.spotify.com/track/08GtrSkf0Z8YmjUoJXQNv9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:57 | 2022-05-28 |  |
 | [Runnin' to the Judgement](https://open.spotify.com/track/4GDSGXJy49y8GalpdQSIJT) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:54 | 2023-07-21 | 2023-07-23 |
 | [Saddle It Around](https://open.spotify.com/track/0XQiWWZG1sbOWF2uwgQTpP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:04 | 2023-01-25 | 2024-07-17 |
 | [Sally Please Come Back to Me \(Worried Blues\)](https://open.spotify.com/track/3dOozKl5yTxhnxtFG68S6s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [You Got to Move](https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7) | 2:45 | 2023-12-18 | 2024-01-24 |

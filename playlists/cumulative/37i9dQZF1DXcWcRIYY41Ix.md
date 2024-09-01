@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-651 songs - 1 day 14 hr 51 min
+652 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Después](https://open.spotify.com/track/6l4r2gBOi41cdcoIsmitZD) | [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [Después](https://open.spotify.com/album/50doKsl9xuqih3vc0ogq7L) | 3:09 | 2021-12-24 | 2022-01-15 |
 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 | 2022-03-07 | 2022-03-12 |
 | [Destino trocado](https://open.spotify.com/track/55kgTXqfcM3ixK0oc4gkeX) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Destino trocado](https://open.spotify.com/album/7Hx7ZqnKldsGScVBTy4uut) | 2:28 | 2021-12-24 | 2022-07-28 |
+| [Dicen Que Llora](https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt) | [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc), [Elena Medina](https://open.spotify.com/artist/43HmJWkGEJN0FSRND3SBJj) | [Dicen Que Llora](https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d) | 3:29 | 2024-08-30 |  |
 | [Diente de León](https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [El Perro Feroz](https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp) | 2:20 | 2023-08-18 | 2024-04-19 |
 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 | 2021-12-24 | 2023-08-23 |
 | [difícil de olvidar](https://open.spotify.com/track/7aUjQg9J1OtRbtQGufEMyS) | [Lola Vila](https://open.spotify.com/artist/1tPuSgUu01ORw58W7A49KU) | [difícil de olvidar](https://open.spotify.com/album/0FRZmrIfXUidRzVenyQ21w) | 3:05 | 2024-05-09 | 2024-07-06 |
@@ -238,7 +239,7 @@
 | [Fiebre](https://open.spotify.com/track/0BU7XScRdY1cSfuS6bdeub) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Fiebre](https://open.spotify.com/album/7mdcHlznhmw6mb8Sq4Z9fK) | 3:19 | 2021-12-24 | 2021-12-29 |
 | [FLORECE](https://open.spotify.com/track/3YLaVgfS9HfSpmtDvOwRjk) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [FLORECE](https://open.spotify.com/album/0sNr91K6lSawOWJm3gswSK) | 3:22 | 2022-01-14 | 2022-01-21 |
 | [Florecer](https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH) | [Carla Collado](https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Florecer](https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI) | 3:37 | 2024-02-02 |  |
-| [Flores Muertas \- Exasperación](https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [Flores Muertas \- Exasperación](https://open.spotify.com/album/40nmbLLwLKedYbZMloYwi5) | 4:24 | 2021-12-24 |  |
+| [Flores Muertas \- Exasperación](https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [Flores Muertas \- Exasperación](https://open.spotify.com/album/40nmbLLwLKedYbZMloYwi5) | 4:24 | 2021-12-24 | 2024-09-01 |
 | [Fluya](https://open.spotify.com/track/428Td36ZF4FyzY6lKrHczS) | [Carranza](https://open.spotify.com/artist/3GxtrZqcvn42ODpJi0EM22) | [Conecta](https://open.spotify.com/album/3lXdJ1Rbh6bDkmEGzHGhyn) | 3:06 | 2021-12-24 | 2022-01-22 |
 | [frío al verte](https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [frío al verte](https://open.spotify.com/album/5hAepKuo5WYkn0ut6z2Jky) | 2:54 | 2024-01-12 | 2024-02-03 |
 | [Fuego](https://open.spotify.com/track/3Oswitzte0cJTr4VMloflx) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Fuego](https://open.spotify.com/album/2FJbtOAdbdLSimMwyY5DKn) | 3:37 | 2021-12-24 | 2022-07-27 |

@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Helping Hand - 2024 Version",
+        "url": "https://open.spotify.com/album/69FJ9ivzP9D1szvpsy1TWC"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263706,
+      "name": "Helping Hand - 2024 Version",
+      "url": "https://open.spotify.com/track/3dEQwRfSA6saQchDTs2suo"
+    },
+    {
+      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },

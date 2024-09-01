@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Marlin's Dreaming
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,558 likes - 142 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,556 likes - 142 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 2 | [Catacombs](https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Catacombs](https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H) | 2:55 |
 | 3 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 4 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
-| 5 | [Country Plains](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
+| 5 | [Country Plaines](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
 | 6 | [With You](https://open.spotify.com/track/2uAn59bUH20FLJzHXnl5zi) | [Juicy Jamz](https://open.spotify.com/artist/5YwLWCeArN7CECv7CLfz9f) | [With You](https://open.spotify.com/album/7KynKKoRnC19KaLuQVKt4U) | 3:34 |
 | 7 | [Let Me Be Yours](https://open.spotify.com/track/6z1mfrdITyt4CGfed0zI1T) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Let Me Be Yours](https://open.spotify.com/album/2XplTY58dX4a7ukv03vsf1) | 2:42 |
 | 8 | [Commit](https://open.spotify.com/track/7gUkDBWUdzGnAQWSKuAHQm) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Commit](https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo) | 3:21 |

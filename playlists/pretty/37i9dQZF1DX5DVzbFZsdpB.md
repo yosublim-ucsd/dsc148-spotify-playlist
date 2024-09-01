@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 ### [RADAR Podcasters AUSTRALIA](https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB)
 
-> Podcasts you need to have on your RADAR: Far East Confessions with Will and Emil.
+> Podcasts you need to have on your RADAR: I'm Wigging Out with Lucy and Kee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 7 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 7 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WORST FIRST DATE!! \| EP 15 \| Far East Confessions](https://open.spotify.com/episode/3Ok7Z73lxZ0ZBPGZAGa5FM) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 56:45 |
-| 2 | [NOT speaking the language!! \| EP 16 \| Far East Confessions](https://open.spotify.com/episode/0a2Szr1sToUEhvco7MmKbU) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 1:02:28 |
-| 3 | [Are we MORE THAN FRIENDS?? \| EP 18 \| Far East Confessions](https://open.spotify.com/episode/5QrgVxdPzO9ZZ9NQwaSupf) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 52:50 |
-| 4 | [The Podcast is HAUNTED!? \| EP 19 \| Far East Confessions](https://open.spotify.com/episode/4sB75bPVbplK5OLyZE3xzN) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 1:08:13 |
-| 5 | [ACTUALLY SPEAKING THE LANGUAGE!! \| EP 23](https://open.spotify.com/episode/5KsppHppzvQoCcvEe6bes5) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 54:31 |
-| 6 | [ARE WE EVEN FRIENDS!!? \| EP 24 \| Far East Confessions](https://open.spotify.com/episode/12ZZZSQ62IcxCLGEDC2RCy) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 57:50 |
-| 7 | [Catching feelings for your BFF?!! \| EP 26 \| Far East Confessions](https://open.spotify.com/episode/3kHA9P72KHGERftWVOs2FV) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 1:25:22 |
+| 1 | [WTF Am I Doing With My Career?](https://open.spotify.com/episode/0n8BnyhVFKLbPziEvWyFPK) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 30:42 |
+| 2 | [\(Self\) Love Actually](https://open.spotify.com/episode/5c7YQtnlQCVLOz7eITLheU) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 30:18 |
+| 3 | [SOS! I Haven't Had Sex Since My Ex](https://open.spotify.com/episode/10AcCyIQR45uh2zwhI3U6g) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 25:34 |
+| 4 | [\(Almost\) Thirty, Flirty and Freaking Out](https://open.spotify.com/episode/69kesDrkSuLCyKHiQOsWqL) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 28:33 |
+| 5 | [People Pleasers And The Art of Saying No](https://open.spotify.com/episode/4V1rqNkG5XclDqKHdj8wIv) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 29:17 |
+| 6 | [Can't Stop, Won't Stop Self\-Sabotaging My Relationships](https://open.spotify.com/episode/08abtP2dk74FhlWafhHVi5) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 31:48 |
+| 7 | [A Sober Curious Girl In A Binge Drinking World](https://open.spotify.com/episode/62wsHr30mNE18J47ZP7B3l) | [I'm Wigging Out](https://open.spotify.com/show/1rk11Kfkg717XJu8iOb3ob) | [I'm Wigging Out](https://open.spotify.com/album/1rk11Kfkg717XJu8iOb3ob) | 33:01 |
 
-Snapshot ID: `ZqnZPwAAAADy7o/xH6DoNxOssSsyKV26`
+Snapshot ID: `ZtMh4AAAAABezKie9MGtacydsGuR0UjK`

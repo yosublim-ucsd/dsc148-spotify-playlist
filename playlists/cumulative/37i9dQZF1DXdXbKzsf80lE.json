@@ -498,6 +498,28 @@
     {
       "album": {
         "name": "Cidade Inteira",
+        "url": "https://open.spotify.com/album/2neGOdvdIFmfTaO6zjyCW8"
+      },
+      "artists": [
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Cidade Inteira",
+      "url": "https://open.spotify.com/track/7J3QMuDCSv56jRSiD9jFBF"
+    },
+    {
+      "album": {
+        "name": "Cidade Inteira",
         "url": "https://open.spotify.com/album/0UOtVF6jKwdEC9oaMReSE8"
       },
       "artists": [
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-01",
       "duration_ms": 161785,
       "name": "Morena",
       "url": "https://open.spotify.com/track/1NwfsZ9RW0Iq16RpxKIUXU"
