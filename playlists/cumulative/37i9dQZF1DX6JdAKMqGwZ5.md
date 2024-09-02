@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Sen Senra.
 
-168 songs - 8 hr 44 min
+169 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 | 2024-06-27 |  |
 | [Cortinglés](https://open.spotify.com/track/0oNgmLV10G57H9DB9e1EPz) | [Juana](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [Cortinglés](https://open.spotify.com/album/0kIU4OpzZk14GM24f3Av2Q) | 3:05 | 2024-06-27 | 2024-07-17 |
 | [Creí que era eterno](https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [Creí que era eterno](https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH) | 3:12 | 2024-06-27 |  |
+| [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD) | 2:42 | 2024-08-29 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
 | [Del mismo modo](https://open.spotify.com/track/0ckZnUqPmNWdPZM66FkKhR) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Nadddot](https://open.spotify.com/artist/4rTFctfTgNdgSgU63jRy5Y) | [Del mismo modo](https://open.spotify.com/album/0u7EBG5sR8XPOZWs1Lbwbz) | 2:51 | 2024-06-27 | 2024-08-02 |
 | [Delirio](https://open.spotify.com/track/2yieEZhp3n3xTNiqthVaui) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Delirio](https://open.spotify.com/album/5lK4VPMoMSmF10tiBcY9Lp) | 2:05 | 2024-07-04 | 2024-08-23 |
@@ -100,7 +101,7 @@
 | [Madriz Madriz](https://open.spotify.com/track/2XUhcZOcLPAWwAnUclFpeu) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Madriz Madriz](https://open.spotify.com/album/6Aa0m8lK0IwjuKYn7hQXvX) | 3:17 | 2024-06-27 | 2024-08-16 |
 | [Malicia](https://open.spotify.com/track/5ylsvgN3rSWBU6PnyRbfIs) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Malicia](https://open.spotify.com/album/35LXS0jbbnya85SBWrWdwj) | 2:57 | 2024-06-27 |  |
 | [mangata](https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [mangata](https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq) | 3:03 | 2024-06-27 |  |
-| [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-04 |  |
+| [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-07-04 | 2024-09-02 |
 | [MATCHPOINT!](https://open.spotify.com/track/080505yqCmNc5Lqjx0uqCu) | [Desmelenao](https://open.spotify.com/artist/5e3AeuzcPHLKIimvkRlK5m), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [MATCHPOINT!](https://open.spotify.com/album/5AKCt1BVoVVdXAHWSWAzZh) | 2:37 | 2024-08-08 | 2024-08-30 |
 | [Mañana](https://open.spotify.com/track/6aWI0hMdwOtrIFh6NfMxEs) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Mañana](https://open.spotify.com/album/2HoHOGVL9uVCZ3K7v91Wfr) | 4:01 | 2024-07-11 | 2024-07-20 |
 | [Me Cago En Tus Muertos](https://open.spotify.com/track/7FNZ22EPTcr0wySdMiHAUX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Me Cago En Tus Muertos](https://open.spotify.com/album/7f0cqUGXKaudOdPyMYe2M5) | 2:49 | 2024-08-22 |  |

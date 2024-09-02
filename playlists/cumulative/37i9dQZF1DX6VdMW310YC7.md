@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,668 songs - 4 day 18 hr 22 min
+1,669 songs - 4 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-03-14 | 2022-12-01 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-07-01 | 2023-03-21 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-03-10 | 2024-04-19 |
-| [Essentialism.](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Essentialism.](https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ) | 3:20 | 2024-08-16 |  |
+| [Essentialism.](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Essentialism.](https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ) | 3:20 | 2024-08-16 | 2024-09-02 |
 | [Eternity](https://open.spotify.com/track/1fhcMMxjn3Gvin19Akf3Ig) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Eternity](https://open.spotify.com/album/4lJ51mNG9ZXfGyLzLSKwy6) | 6:20 | 2020-05-18 | 2020-07-03 |
 | [Europa](https://open.spotify.com/track/51CvOyizoH3LXHwrrFsptd) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Europa](https://open.spotify.com/album/06Oe9TTnOXbL4JTrqUCPvq) | 4:05 | 2022-02-11 | 2022-11-17 |
 | [Everlasting Evening \(feat\. Sea Oleena\)](https://open.spotify.com/track/4TaK6SAjHie2VGkiKzdZAc) | [Guilty Ghosts](https://open.spotify.com/artist/3pT9wrKIib4JGbSA4AOagZ), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Veils](https://open.spotify.com/album/75syGotaUKVhfDbqZ0cxT6) | 7:15 | 2020-05-18 | 2020-07-03 |
@@ -1607,6 +1607,7 @@
 | [When We Meet Again \- Edit](https://open.spotify.com/track/6DhPzi86qVRtAAXIlnU2fb) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/7u0IDT1mwyatrbk1ZPgs4X) | 3:57 | 2021-02-06 | 2022-10-17 |
 | [When You’re Dreaming](https://open.spotify.com/track/4UQWvx7zTXxveHGK3ZRWdb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [When You’re Dreaming](https://open.spotify.com/album/4YkPkktGstfAWaaGvKTUuQ) | 2:53 | 2020-08-06 | 2022-04-20 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2020-03-16 | 2020-10-09 |
+| [Where Did I Go](https://open.spotify.com/track/0HV7B3E5uzevwgj8faXO23) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Where Did I Go](https://open.spotify.com/album/1XvYqlhTg68inkvatrok29) | 4:11 | 2024-08-30 |  |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-04-28 | 2024-04-19 |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-10 | 2024-04-06 |
 | [Where To Go](https://open.spotify.com/track/5EIPYlUGHcWXFV8DHINuBa) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Where To Go](https://open.spotify.com/album/4PpRIBNZW0EW3gG3dwAuLX) | 4:11 | 2020-03-17 | 2021-01-11 |

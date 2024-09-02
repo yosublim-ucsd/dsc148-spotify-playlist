@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "A Calma Acalma",
+        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8Y Brandt",
+          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197635,
+      "name": "A Calma Acalma",
+      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
+    },
+    {
+      "album": {
         "name": "Uma",
         "url": "https://open.spotify.com/album/1oCCHl2dwVAXtODMA14oDZ"
       },
@@ -6442,7 +6460,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 300225,
       "name": "J\u00e3o",
       "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"

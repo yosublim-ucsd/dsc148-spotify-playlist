@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 173840,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Wish It Would Rain",
         "url": "https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 162706,
       "name": "I Wish It Would Rain",
       "url": "https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Let Nas Down",
-      "url": "https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "black like you",
         "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 192964,
       "name": "black like you",
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Let Nas Down",
+      "url": "https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -543,38 +543,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "MTV Unplugged No. 2.0",
-        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 359600,
-      "name": "So Much Things to Say - Live",
-      "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "NINA REVISITED: A Tribute to Nina Simone",
         "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
       },
@@ -627,6 +595,38 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 359600,
+      "name": "So Much Things to Say - Live",
+      "url": "https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend",
         "url": "https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 482963,
       "name": "No Woman No Cry (Instrumental Version)",
       "url": "https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Selah",
-      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Divine Secrets Of The Ya-Ya Sisterhood - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Selah",
+      "url": "https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 248466,
       "name": "Butterflyz",
       "url": "https://open.spotify.com/track/1TpATCBm9ex3N6q7b8rXgS"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "The Passion Of The Christ: Songs",
-        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 345946,
-      "name": "The Passion",
-      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 146938,
       "name": "Bitter Sweet",
       "url": "https://open.spotify.com/track/5oZWMoyco56vs88S9GbWwU"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "The Passion Of The Christ: Songs",
+        "url": "https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 345946,
+      "name": "The Passion",
+      "url": "https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm"
     }
   ],
   "unique_name": "Dominique's Taste",

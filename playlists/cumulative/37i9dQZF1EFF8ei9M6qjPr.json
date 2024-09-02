@@ -2456,10 +2456,28 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 146206,
       "name": "WAKEY WAKEY",
       "url": "https://open.spotify.com/track/0JPs48bvxFLgHQOiFhDV51"
+    },
+    {
+      "album": {
+        "name": "PLANET JACK",
+        "url": "https://open.spotify.com/album/3nMnDEbKFoufD684EhM1Y1"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "WAKEY WAKEY",
+      "url": "https://open.spotify.com/track/0xVgfhlmU1mHDPhRGNVVMn"
     },
     {
       "album": {

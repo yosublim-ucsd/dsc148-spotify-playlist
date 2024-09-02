@@ -2,7 +2,7 @@
 
 ### [This Is Toby Keith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1f6BZ6)
 
-> This Is Toby Keith\. Los temas esenciales, todos en una lista.
+> This is Toby Keith\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 29 min
 

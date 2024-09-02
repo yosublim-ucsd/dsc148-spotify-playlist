@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 85756,
+  "num_followers": 85796,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "The King",
+        "url": "https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 381240,
       "name": "Guaguanc\u00f3 Raro",
       "url": "https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "The King",
-        "url": "https://open.spotify.com/album/7xgkOmB7syD8a5Srn3Z5va"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/2C06v7c02nnrZLPCR2TgHO"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mr. Watermelon Man",
-        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Aprovecha el Tiempo",
         "url": "https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Mr. Watermelon Man",
+        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "We Got Latin Soul",
+      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Let's Get Down To The Real Nitty Gritty",
         "url": "https://open.spotify.com/album/269lCCNvG2Nc91rXWh2ICp"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 160715,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/6VZZx248WTQ4mligzYLILP"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1"
-      },
-      "artists": [
-        {
-          "name": "Randy Carlos And His Orchestra",
-          "url": "https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y"
-        }
-      ],
-      "duration_ms": 147573,
-      "name": "Cha Cha Cha Con Pachanga",
-      "url": "https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -575,34 +575,18 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+          "name": "Randy Carlos And His Orchestra",
+          "url": "https://open.spotify.com/artist/6OYs6HlGeG4WSmkJYDFX7Y"
         }
       ],
-      "duration_ms": 182240,
-      "name": "We Got Latin Soul",
-      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
+      "duration_ms": 147573,
+      "name": "Cha Cha Cha Con Pachanga",
+      "url": "https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -639,22 +623,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Compilaci\u00f3n Salsa 1958-1964",
-        "url": "https://open.spotify.com/album/3DBnxpcPAMIz1itLKWx36J"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 119253,
-      "name": "Guajira Soul",
-      "url": "https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "I Like it Like That",
         "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 265080,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Compilaci\u00f3n Salsa 1958-1964",
+        "url": "https://open.spotify.com/album/3DBnxpcPAMIz1itLKWx36J"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 119253,
+      "name": "Guajira Soul",
+      "url": "https://open.spotify.com/track/03HV6ASLKmzXDm68IynJ7R"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Joe Cuba - Greatest Hits",
+        "url": "https://open.spotify.com/album/1q43qMTgCmzoGC0JqpNkdV"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/2nwZM9xPnqYCq21bizt772"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Live at the Red Garter Vol 2",
         "url": "https://open.spotify.com/album/6D8lBJUjjeDz6ZhkhZlKCS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 510400,
       "name": "Son Cuero Y Boogaloo",
       "url": "https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Ali Baba",
-        "url": "https://open.spotify.com/album/4Snlez56Y9rfE7M8cvrO8T"
-      },
-      "artists": [
-        {
-          "name": "Louie Ramirez",
-          "url": "https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "It's Not What You Say",
-      "url": "https://open.spotify.com/track/2e5coCHCulu84SddM2ripp"
     }
   ],
   "unique_name": "Boogaloo Essentials",

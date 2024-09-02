@@ -1,12 +1,12 @@
 {
-  "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103318,
+  "description": "This Is Carolina Ross. Los temas esenciales, todos en una lista.",
+  "num_followers": 103316,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAABijpenUm9s0pAVG3pr7p9b",
+  "snapshot_id": "ZtJdAAAAAADhYbvRPC4w6SPpwhzGFlSW",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00f3mo le Hago",
-        "url": "https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG"
+        "name": "Merecemos Perdonarnos (En Vivo)",
+        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
       },
       "artists": [
         {
-          "name": "Paulina B",
-          "url": "https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 179823,
-      "name": "C\u00f3mo le Hago",
-      "url": "https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p"
+      "duration_ms": 195000,
+      "name": "Merecemos Perdonarnos (En Vivo)",
+      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merecemos Perdonarnos (En Vivo)",
-        "url": "https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS"
+        "name": "C\u00f3mo le Hago",
+        "url": "https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Paulina B",
+          "url": "https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z"
         },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Merecemos Perdonarnos (En Vivo)",
-      "url": "https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm"
+      "duration_ms": 179823,
+      "name": "C\u00f3mo le Hago",
+      "url": "https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p"
     },
     {
       "added_at": null,

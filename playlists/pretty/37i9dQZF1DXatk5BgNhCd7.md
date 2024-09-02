@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Luck Ra, Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,741 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,803 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 |
 | 5 | [Sirena \(feat\. Cuco\)](https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sirena \(feat\. Cuco\)](https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ) | 3:32 |
 | 6 | [Como si no nos amáramos](https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Emanero](https://open.spotify.com/artist/7LJCRpVGQi5ttBb8WEa1RE), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Como si no nos amáramos](https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW) | 3:11 |
-| 7 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:43 |
+| 7 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:46 |
 | 8 | [Desaparecida](https://open.spotify.com/track/4dFBAzj8ap6tDZJW7o4Ido) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Desaparecida](https://open.spotify.com/album/1vpdZ9uGjclGZ9WWNeCjuz) | 2:58 |
 | 9 | [La Última Granada \- En Vivo](https://open.spotify.com/track/6TnZSXypAbIozg8BlodtWe) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Última Granada \- En Vivo](https://open.spotify.com/album/5uc1xjjYiLGJP84EfjxSBO) | 2:46 |
 | 10 | [Muévelo, Bailalo](https://open.spotify.com/track/1HFMgE5zOAwESADG2fzalR) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Muévelo, Bailalo](https://open.spotify.com/album/6kcq0tdHiIXz3xOX1ZoANf) | 2:50 |

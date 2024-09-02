@@ -2,7 +2,7 @@
 
 ### [This Is Sarkodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWvDTe)
 
-> This is: Sarkodie\. Alle wichtigen Tracks in einer Playlist.
+> This is Sarkodie\. The essential tracks, all in one playlist.
 
 173 songs - 10 hr 26 min
 

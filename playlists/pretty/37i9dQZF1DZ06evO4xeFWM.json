@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 214706,
+  "num_followers": 214735,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAABJaGPKp/cFugKoaHCrYqPQ",
+  "snapshot_id": "ZtJdAAAAAABBGAhwsb1JUWAJh3Z/S/RT",
   "tracks": [
     {
       "added_at": null,
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Eve & Paradise Lost",
-      "url": "https://open.spotify.com/track/7fTd0qCtA3ihBR1aF9mhSP"
+      "duration_ms": 235040,
+      "name": "Intros & Narrators",
+      "url": "https://open.spotify.com/track/3NoY4tz047Kha05DWCTask"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 235040,
-      "name": "Intros & Narrators",
-      "url": "https://open.spotify.com/track/3NoY4tz047Kha05DWCTask"
+      "duration_ms": 193093,
+      "name": "Eve & Paradise Lost",
+      "url": "https://open.spotify.com/track/7fTd0qCtA3ihBR1aF9mhSP"
     },
     {
       "added_at": null,

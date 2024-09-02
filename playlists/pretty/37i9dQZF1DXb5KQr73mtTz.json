@@ -243,6 +243,22 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
+        "name": "The day was beautiful",
+        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "The day was beautiful",
+      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -291,22 +307,6 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "\uaf43",
         "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 258872,
       "name": "\uc81c\ubc1c",
       "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
-      },
-      "artists": [
-        {
-          "name": "RIO",
-          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Dimly",
-      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 214933,
       "name": "Don't ever say love me (Feat. RM of BTS)",
       "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Dimly",
+      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
+        "name": "Why Would I",
+        "url": "https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "Why Would I",
+      "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
-        "name": "Why Would I",
-        "url": "https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu"
-      },
-      "artists": [
-        {
-          "name": "Kim Gyeol",
-          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Why Would I",
-      "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
     },
     {
       "added_at": "2024-08-10 15:54:36",

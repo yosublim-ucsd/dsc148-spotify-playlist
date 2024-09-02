@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-317 songs - 18 hr 0 min
+318 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ["WINTER" Etoile page 1\. Rosie waltz!](https://open.spotify.com/track/0CZ57CN9Ol3fCetsUg5OAB) | [Seol Kyung](https://open.spotify.com/artist/3PgHUNgvyVrM1c2S93dRTY) | ["WINTER" Etoile page 1\. Rosie waltz!](https://open.spotify.com/album/094xMYgKnPpgpXzEpk9V9N) | 4:02 | 2022-05-03 | 2022-07-21 |
 | [22 Samurai](https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 2:56 | 2024-07-02 |  |
 | [3\-OUT](https://open.spotify.com/track/67PEoIjllIpuM0lLuetEJ5) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 2:54 | 2022-05-03 | 2022-07-24 |
-| [A Breath of Fresh Air](https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [In Search of Peace](https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb) | 2:38 | 2024-07-02 |  |
+| [A Breath of Fresh Air](https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [In Search of Peace](https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb) | 2:38 | 2024-07-02 | 2024-09-02 |
 | [A longing night](https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Illusion](https://open.spotify.com/album/6uu5CP0ipD9JZ6wyl14QXc) | 3:01 | 2022-05-03 | 2024-07-03 |
 | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/track/2QvAqO6f2sbjGnLaAdlaNI) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [A Rounded Stone 모난돌 \(Monthly Project 2019 February Yoon Jong Shin\)](https://open.spotify.com/album/6roGryreinaVwywhgupU4w) | 4:31 | 2022-05-03 | 2022-07-05 |
 | [A villain is born](https://open.spotify.com/track/342FlGcgU1lx4T9KqnzprJ) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Gaijin III Rise of Jiro](https://open.spotify.com/album/68W1fqGzQdkUU0uqkQ1ehR) | 2:58 | 2024-07-02 |  |
@@ -27,6 +27,7 @@
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2024-06-22 |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
 | [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 |  |
+| [Arisa](https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 2:40 | 2024-07-02 |  |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 |  |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 | 2024-07-02 |  |

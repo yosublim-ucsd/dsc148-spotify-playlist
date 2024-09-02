@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: This is a Campus Romance Series(\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 91424,
+  "num_followers": 91439,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
+        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
         "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
         "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 207760,
       "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
-        "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Draw",
-      "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
         "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
         "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 187306,
       "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
       "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
-        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
-        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
-      },
-      "artists": [
-        {
-          "name": "Minhyun",
-          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
-      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
+        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
       },
       "artists": [
         {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+          "name": "Minhyun",
+          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
         }
       ],
-      "duration_ms": 306499,
-      "name": "I Don't Want To Say Goodbye",
-      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
+      "duration_ms": 194466,
+      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -847,22 +847,6 @@
       "duration_ms": 239853,
       "name": "Better for Me (Nth Romance X MeloMance)",
       "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
-        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
-        "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
-      },
-      "artists": [
-        {
-          "name": "\uc2b9\ud76c",
-          "url": "https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "The day",
-      "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -899,6 +883,22 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
+      },
+      "artists": [
+        {
+          "name": "\uc2b9\ud76c",
+          "url": "https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "The day",
+      "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "A Beautiful Farewell - I am Re:Born #1",
-        "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 250211,
-      "name": "A Beautiful Farewell",
-      "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Love Revolution (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 221761,
       "name": "Love Revolution",
       "url": "https://open.spotify.com/track/6ABW0qGEjyIAnCzFIUe4Bh"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "A Beautiful Farewell - I am Re:Born #1",
+        "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 250211,
+      "name": "A Beautiful Farewell",
+      "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Love Diary (Back to You X Lee MinHyuk)",
-        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Love Diary (Back to You X Lee MinHyuk)",
-      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Your Day (Romance 101 X Loco)",
         "url": "https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 199986,
       "name": "Your Day (Romance 101 X Loco)",
       "url": "https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Love Diary (Back to You X Lee MinHyuk)",
+        "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Love Diary (Back to You X Lee MinHyuk)",
+      "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Warm Black Tea (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
-      },
-      "artists": [
-        {
-          "name": "THE NEW SIX",
-          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Beautiful world (Warm Black Tea Original Soundtrack)",
-      "url": "https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "The Moon Has Passed (The Moon during the Day)",
         "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 226386,
       "name": "The Moon Has Passed",
       "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Warm Black Tea (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Beautiful world (Warm Black Tea Original Soundtrack)",
+      "url": "https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
         "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
       },
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
-        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
+        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
       },
       "artists": [
         {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "An da eun",
-          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 207613,
-      "name": "Spring Is Come By Chance",
-      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+      "duration_ms": 185533,
+      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1431,6 +1411,26 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
+        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
+        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Spring Is Come By Chance",
+      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
         "name": "The Extra (One of a Kind Romance)",
         "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Write about you (Romance 101 X Lyn)",
-        "url": "https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Write about you (Romance 101 X Lyn)",
-      "url": "https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
         "name": "The One And Only You (The Moon during the Day X SANDEUL)",
         "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 241440,
       "name": "The One And Only You (The Moon during the Day X SANDEUL)",
       "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
+        "name": "Write about you (Romance 101 X Lyn)",
+        "url": "https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Write about you (Romance 101 X Lyn)",
+      "url": "https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
+      },
+      "artists": [
+        {
+          "name": "LIZRO",
+          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
+        }
+      ],
+      "duration_ms": 186862,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
+    },
+    {
+      "added_at": "2024-08-12 04:52:50",
+      "album": {
         "name": "\ub9c8\ud53c\uc544 \ubcf4\uc2a4\uac00 \ub098\uc5d0\uac8c \uc9d1\ucc29\ud55c\ub2e4 (Original Webtoon Soundtrack) Pt. 16",
         "url": "https://open.spotify.com/album/5ksezvb7eZtCPFCUVvc9XM"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 226680,
       "name": "Let's meet again",
       "url": "https://open.spotify.com/track/0Zkk3Q2dAGrpaUt7v5d5h4"
-    },
-    {
-      "added_at": "2024-08-12 04:52:50",
-      "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
-      },
-      "artists": [
-        {
-          "name": "LIZRO",
-          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
-        }
-      ],
-      "duration_ms": 186862,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
     },
     {
       "added_at": "2024-08-12 04:52:50",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-08-12 04:52:50",
       "album": {
-        "name": "Daily JoJo (Original Webtoon Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW"
+        "name": "I'll talk to you (The Moon during the Day X Gummy)",
+        "url": "https://open.spotify.com/album/0AGHJEmZCaxOFzuTC2UGD2"
       },
       "artists": [
         {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 176946,
-      "name": "Cinderella's Love (Daily JoJo)",
-      "url": "https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj"
+      "duration_ms": 231120,
+      "name": "I'll talk to you (The Moon during the Day X Gummy)",
+      "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
     }
   ],
   "unique_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",

@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Break My Own Heart",
+        "url": "https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215276,
+      "name": "Break My Own Heart",
+      "url": "https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P"
+    },
+    {
+      "album": {
         "name": "BETWEEN2WORLDS",
         "url": "https://open.spotify.com/album/0vU9edLqvX0azxdWwKzCKl"
       },

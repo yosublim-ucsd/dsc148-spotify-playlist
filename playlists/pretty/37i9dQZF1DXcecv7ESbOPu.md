@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,128 likes - 121 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,135 likes - 121 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Another Lovesong](https://open.spotify.com/track/7ElcwcWng7HG0mM4S0CKfV) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Another Lovesong](https://open.spotify.com/album/5fphkf2DFgsEbtOx4sBCnL) | 2:37 |
 | 73 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 |
 | 74 | [honey baby](https://open.spotify.com/track/1oxRczq7sYrIfXF9ROobai) | [JYN](https://open.spotify.com/artist/0AX2jZaUfUfEDzZnl6QCxG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Dye My Hair / honey baby](https://open.spotify.com/album/0o9LpRyUlxupKiF1o2daEc) | 2:25 |
-| 75 | [Gas Pedal \(feat\. Sage The Gemini\)](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal \(feat\. Sage The Gemini\)](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 75 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 76 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 |
 | 77 | [Biggie Boom Boom](https://open.spotify.com/track/4oW4aeRU5W6uixbb8UYxK7) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Biggie Boom Boom](https://open.spotify.com/album/2eNVJRXDDgRyyLxE4w1i0R) | 2:36 |
 | 78 | [CABO \- Pt1](https://open.spotify.com/track/0m3n8erB8NHOMyqmaHxF86) | [Raizy](https://open.spotify.com/artist/4HT1M3pxAQB6hzIpLRfGmf) | [CABO \- Pt1](https://open.spotify.com/album/4MyPH2iR206loDp5wKVg2V) | 2:45 |

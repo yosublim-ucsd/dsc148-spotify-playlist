@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: LE SSERAFIM
 
-776 songs - 1 day 21 hr 33 min
+776 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,7 +674,7 @@
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-02-29 | 2024-04-09 |
 | [Telat Cemburu](https://open.spotify.com/track/1u9pDLLKMz9S2ZdCIEAeTk) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Telat Cemburu](https://open.spotify.com/album/3EHqNyAUL8eRx2lZpGWqdk) | 3:19 | 2024-01-25 | 2024-03-01 |
 | [Telat Cemburu](https://open.spotify.com/track/5lhZZyv7fbLNzyeUPYU2Jx) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Telat Cemburu](https://open.spotify.com/album/1VS9vn4MGLaiXSNPzhNsYa) | 3:30 | 2024-03-28 | 2024-04-12 |
-| [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:45 | 2024-08-22 |  |
+| [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:43 | 2024-08-22 |  |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-03-21 | 2024-05-03 |
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-08-16 |  |
 | [Terbit](https://open.spotify.com/track/2TA2MpKIB9J0w1XajZyEQw) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2), [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT) | [Terbit](https://open.spotify.com/album/2t9Ki5hjibfHdxS5nkecV2) | 4:27 | 2024-01-18 | 2024-01-26 |

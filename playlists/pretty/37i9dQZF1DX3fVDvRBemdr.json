@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Robert van Hemert",
-  "num_followers": 146934,
+  "num_followers": 146952,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtF9pQAAAACsd9Z+cpcGYJ2XLtCseJoq",
+  "snapshot_id": "ZtTj4AAAAAAPwrI1V3zfVUWMaej2SUaf",
   "tracks": [
     {
       "added_at": "2024-08-29 22:00:00",
@@ -23,6 +23,42 @@
       "duration_ms": 157358,
       "name": "Geld Maakt Niet Gelukkig",
       "url": "https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Ik Leef M'n Eigen Leven",
+        "url": "https://open.spotify.com/album/73hoU7EUbLVKfgiO8ZRD42"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        },
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "duration_ms": 206110,
+      "name": "Ik Leef M'n Eigen Leven",
+      "url": "https://open.spotify.com/track/78NbJ4YI54ou05zr9YPpOP"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Voor geen goud",
+        "url": "https://open.spotify.com/album/5I8coyXBa5PaB8xvnfG9ns"
+      },
+      "artists": [
+        {
+          "name": "John De Bever",
+          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
+        }
+      ],
+      "duration_ms": 170230,
+      "name": "Voor geen goud",
+      "url": "https://open.spotify.com/track/66y9VeKRojjD5GuhZJeAr9"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -63,22 +99,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Ik Leef M'n Eigen Leven",
-        "url": "https://open.spotify.com/album/73hoU7EUbLVKfgiO8ZRD42"
+        "name": "Laat Me Alleen",
+        "url": "https://open.spotify.com/album/0c9FMcectVh9zz6RBRqFzd"
       },
       "artists": [
         {
-          "name": "Sander Kwarten",
-          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
-        },
-        {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+          "name": "Gino Graus",
+          "url": "https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT"
         }
       ],
-      "duration_ms": 206110,
-      "name": "Ik Leef M'n Eigen Leven",
-      "url": "https://open.spotify.com/track/78NbJ4YI54ou05zr9YPpOP"
+      "duration_ms": 154218,
+      "name": "Laat Me Alleen",
+      "url": "https://open.spotify.com/track/73Wvvc3AGWby8uBRroCXur"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -115,6 +147,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Weet Dat Ik Van Je Hou",
+        "url": "https://open.spotify.com/album/4gSPalfCeepqx40s3Sxaw0"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Weet Dat Ik Van Je Hou",
+      "url": "https://open.spotify.com/track/3Utf67YFXYM1cyR12BoUSV"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Zit liever hier dan thuis",
         "url": "https://open.spotify.com/album/4QXxBPoPUPewQAa8p4d2tG"
       },
@@ -127,22 +175,6 @@
       "duration_ms": 178470,
       "name": "Zit liever hier dan thuis",
       "url": "https://open.spotify.com/track/641vYzJpo6qM5eQ9OCOsev"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Voor geen goud",
-        "url": "https://open.spotify.com/album/5I8coyXBa5PaB8xvnfG9ns"
-      },
-      "artists": [
-        {
-          "name": "John De Bever",
-          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
-        }
-      ],
-      "duration_ms": 170230,
-      "name": "Voor geen goud",
-      "url": "https://open.spotify.com/track/66y9VeKRojjD5GuhZJeAr9"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -195,22 +227,6 @@
       "duration_ms": 178623,
       "name": "Sportschool",
       "url": "https://open.spotify.com/track/4UoGvmUfqIj9KWzoi3Cw1N"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Weet Dat Ik Van Je Hou",
-        "url": "https://open.spotify.com/album/4gSPalfCeepqx40s3Sxaw0"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Weet Dat Ik Van Je Hou",
-      "url": "https://open.spotify.com/track/3Utf67YFXYM1cyR12BoUSV"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -331,22 +347,6 @@
       "duration_ms": 173395,
       "name": "Panja",
       "url": "https://open.spotify.com/track/62BtrcdN73fRXrkOUML9v9"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Laat Me Alleen",
-        "url": "https://open.spotify.com/album/0c9FMcectVh9zz6RBRqFzd"
-      },
-      "artists": [
-        {
-          "name": "Gino Graus",
-          "url": "https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Laat Me Alleen",
-      "url": "https://open.spotify.com/track/73Wvvc3AGWby8uBRroCXur"
     },
     {
       "added_at": "2024-08-29 22:00:00",

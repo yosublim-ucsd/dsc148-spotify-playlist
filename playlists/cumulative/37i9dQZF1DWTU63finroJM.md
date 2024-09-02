@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Bayaan.
 
-1,608 songs - 3 day 15 hr 44 min
+1,609 songs - 3 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-03-21 | 2022-06-26 |
 | [Call of Valhalla](https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:53 | 2023-10-27 | 2024-04-27 |
 | [Call You Mine](https://open.spotify.com/track/2mK80eNz1IrJh2Yyi2glRe) | [FML](https://open.spotify.com/artist/0fUa0Fw2rm0HCRtKYmBJ1N), [Seachains](https://open.spotify.com/artist/6UiKZD9yB7Gxjol62s431k), [Nhat Hoang](https://open.spotify.com/artist/12rPv2DR0Jq0dKp7Rz0iZK) | [Call You Mine](https://open.spotify.com/album/0qVrL3DlsGeJn7prR1e07a) | 2:38 | 2022-02-03 | 2023-01-21 |
-| [Calling For You](https://open.spotify.com/track/2f9WrxAjdhOgEXpjLXzOfu) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt), [GURLI](https://open.spotify.com/artist/3gGhgzj2JBJnEhnDdMJQHw) | [Calling For You](https://open.spotify.com/album/49jS8oDKVQikaagnTRNvVB) | 3:00 | 2024-06-07 |  |
+| [Calling For You](https://open.spotify.com/track/2f9WrxAjdhOgEXpjLXzOfu) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt), [GURLI](https://open.spotify.com/artist/3gGhgzj2JBJnEhnDdMJQHw) | [Calling For You](https://open.spotify.com/album/49jS8oDKVQikaagnTRNvVB) | 3:00 | 2024-06-07 | 2024-09-02 |
 | [Calls](https://open.spotify.com/track/2mA5PqtD2UsbCEPEqdZLwB) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [I Hate Spring](https://open.spotify.com/album/39ZrOscgMZEODhz6nEKS5Q) | 2:51 | 2022-03-24 | 2022-08-02 |
 | [calor](https://open.spotify.com/track/2QNT2MvSRO1DrqrmAnX47Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [calor](https://open.spotify.com/album/2eUfQWRGBq8xCFR51UK20N) | 3:13 | 2022-03-24 | 2022-12-15 |
 | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [CAN YOU UNDERSTAND ME?](https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh) | 3:28 | 2024-02-26 | 2024-05-11 |
@@ -1524,6 +1524,7 @@
 | [來](https://open.spotify.com/track/3gK1yAMaZxpFY9aW9xgWv3) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [來](https://open.spotify.com/album/7Kz1hqb1gJtG6dpxLRWF23) | 2:22 | 2022-02-03 | 2022-08-02 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-03-24 | 2022-06-30 |
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-18 | 2023-05-31 |
+| [傻花](https://open.spotify.com/track/2V4EQ0vaMDChsyxXjRpSGq) | [God Øne](https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL), [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [傻花](https://open.spotify.com/album/5PblPFKq7INaXf0PYgYSvr) | 3:28 | 2024-08-30 |  |
 | [優しさ](https://open.spotify.com/track/0f3Ce9xjHymExIpEyHUC8D) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 4:00 | 2022-02-03 | 2022-03-17 |
 | [光](https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Callous Room](https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe) | 2:45 | 2023-05-30 | 2023-10-06 |
 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 | 2022-03-24 | 2022-10-20 |

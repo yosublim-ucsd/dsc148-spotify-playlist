@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: w.o.d.",
-  "num_followers": 45615,
+  "num_followers": 45633,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Autumn Song",
+      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "Danger Danger",
         "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
       },
@@ -699,38 +715,6 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "The Autumn Song",
-      "url": "https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "GIRL'S TALK",
-        "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 174767,
-      "name": "GIRL'S TALK",
-      "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -779,34 +747,18 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
-        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
       },
       "artists": [
         {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 233393,
-      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
-      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "Beast Mode",
-        "url": "https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Beast Mode",
-      "url": "https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush"
+      "duration_ms": 228000,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -823,6 +775,54 @@
       "duration_ms": 252453,
       "name": "\u98a8\u306e\u65e5",
       "url": "https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 233393,
+      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "GIRL'S TALK",
+        "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 174767,
+      "name": "GIRL'S TALK",
+      "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
+        "name": "ELEVEN FIRE CRACKERS",
+        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
       },
       "artists": [
         {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 187800,
-      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
+      "duration_ms": 226920,
+      "name": "Salamander",
+      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -959,38 +959,6 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "gg\u71e6\u7136",
-        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 149839,
-      "name": "gg\u71e6\u7136",
-      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "ELEVEN FIRE CRACKERS",
-        "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Salamander",
-      "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
@@ -1007,6 +975,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 167000,
       "name": "SONGS",
       "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "gg\u71e6\u7136",
+        "url": "https://open.spotify.com/album/2hDP6BHe4P8vtRQivsHyOR"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 149839,
+      "name": "gg\u71e6\u7136",
+      "url": "https://open.spotify.com/track/3rapbAvmhbQpdpsRCDJrtB"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "TAKING THEM DOWN",
+        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "TAKING THEM DOWN",
+      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "SLAY!!",
         "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 192753,
       "name": "SLAY!!",
       "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "Inside Of Me",
+        "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "duration_ms": 193824,
+      "name": "Inside of Me",
+      "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
         "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
       },
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
+        "url": "https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 218242,
+      "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
+      "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "PALEHELL",
         "url": "https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N"
       },
@@ -1379,38 +1411,6 @@
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends feat. VIGORMAN",
       "url": "https://open.spotify.com/track/3hopU0u5AXFkY0qcAxpSSd"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "Inside Of Me",
-        "url": "https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE"
-      },
-      "artists": [
-        {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
-        }
-      ],
-      "duration_ms": 193824,
-      "name": "Inside of Me",
-      "url": "https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
-        "url": "https://open.spotify.com/album/3Q67hGPemhh0Zj7WYVm9g7"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 218242,
-      "name": "\u30ab\u30e2\u30f3\u6804\u4e00",
-      "url": "https://open.spotify.com/track/5y2qz18Ryt51C2WHnqOkYR"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
       },
       "artists": [
         {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
         }
       ],
-      "duration_ms": 251400,
-      "name": "\u5bc2\u5bde -sekibaku-",
-      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+      "duration_ms": 207301,
+      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
+      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "\u5bc2\u5bde -sekibaku-",
+      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "Bestie",
         "url": "https://open.spotify.com/album/244u3mXBG8CnwawYKawCsw"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "\u307c\u3061\u307c\u3061\u30d9\u30c6\u30e9\u30f3",
-        "url": "https://open.spotify.com/album/7cCJXG5AWEk7aeAcpQFRwm"
+        "name": "JUNGLE BUN DEM",
+        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
       },
       "artists": [
         {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
         }
       ],
-      "duration_ms": 207301,
-      "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
-      "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"
+      "duration_ms": 193520,
+      "name": "JUNGLE BUN DEM",
+      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1583,22 +1599,6 @@
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "JUNGLE BUN DEM",
-        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
-      },
-      "artists": [
-        {
-          "name": "SPARK!!SOUND!!SHOW!!",
-          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "JUNGLE BUN DEM",
-      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "\u30e6\u30a8\u30cb",
-        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
-      },
-      "artists": [
-        {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
-        }
-      ],
-      "duration_ms": 240550,
-      "name": "\u30e6\u30a8\u30cb",
-      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
         "name": "Catch Up",
         "url": "https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 236125,
       "name": "\u6249\u306e\u5411\u3053\u3046",
       "url": "https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
     }
   ],
   "unique_name": "Loud Rock Japan",

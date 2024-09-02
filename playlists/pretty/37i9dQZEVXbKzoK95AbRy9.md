@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,796 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,867 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Minha Herança](https://open.spotify.com/track/1CpneInvFvGYcDVU4CCDgI) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Minha Herança](https://open.spotify.com/album/2boxN9IacevwsFdvVPJ4xO) | 3:42 |
 | 50 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Simone Mendes \- Só Hits](https://open.spotify.com/album/1LftNEPKrkFye3xoJ8kjQ7) | 3:09 |
 
-Snapshot ID: `LmaHIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmfWSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

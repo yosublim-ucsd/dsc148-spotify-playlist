@@ -4,7 +4,7 @@
 
 > New music from Big Sean, Drake and Lil Tecca.
 
-2,136 songs - 4 day 14 hr 48 min
+2,137 songs - 4 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [Lottery \(Renegade\)](https://open.spotify.com/track/4dZTZbmJBCCofAExHwefda) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Wayy 2 Kritical](https://open.spotify.com/album/6Z8fenVdNwyQZ9iBFkNyKZ) | 2:50 | 2020-02-21 | 2020-03-14 |
 | [Love & War](https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Love & War](https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla) | 3:59 | 2021-12-17 | 2022-03-18 |
 | [Love For The Streets](https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Paper Route Frank](https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S) | 3:06 | 2022-12-16 | 2023-04-01 |
+| [LOVE HURTS \(with Lil Uzi Vert\)](https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:34 | 2024-09-01 |  |
 | [Love Me](https://open.spotify.com/track/7Aem1fAapTdGcHwAYyQYU4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Love Me](https://open.spotify.com/album/2mmm7szQmrcm5BpAg0GzXO) | 1:57 | 2019-08-02 | 2019-08-30 |
 | [Love Me More](https://open.spotify.com/track/2NSWi83peog6gHerzlMCqU) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Love Me More](https://open.spotify.com/album/6DNpFe4WAWTa84I6JBuey6) | 2:23 | 2019-11-01 | 2020-01-10 |
 | [Love of Money](https://open.spotify.com/track/7BVXZByQjfmtEWt9AhjlwL) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 2:47 | 2023-11-10 | 2023-11-25 |

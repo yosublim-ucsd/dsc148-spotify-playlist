@@ -10087,6 +10087,28 @@
     },
     {
       "album": {
+        "name": "d\u1eedng d\u01b0ng",
+        "url": "https://open.spotify.com/album/1YgYkoIBay5HKNa6Z6Gz6S"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR"
+        },
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "d\u1eedng d\u01b0ng",
+      "url": "https://open.spotify.com/track/2ODE2S0lw6GDheGeyIa5dT"
+    },
+    {
+      "album": {
         "name": "EASY",
         "url": "https://open.spotify.com/album/3ePJT2MfLOW0AjPtm7lkXP"
       },
@@ -18219,6 +18241,32 @@
     },
     {
       "album": {
+        "name": "MAY M\u1eaeN",
+        "url": "https://open.spotify.com/album/3ck93tJpX84TltnWX2VVgj"
+      },
+      "artists": [
+        {
+          "name": "MiQ",
+          "url": "https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm"
+        },
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/0uujlZ3ZqFabsl6dztOMC7"
+        },
+        {
+          "name": "Catchellers",
+          "url": "https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215474,
+      "name": "MAY M\u1eaeN",
+      "url": "https://open.spotify.com/track/0DicnTzawWwRU5C76dSr4w"
+    },
+    {
+      "album": {
         "name": "maybe it's all for the best",
         "url": "https://open.spotify.com/album/0UxAbv1loFTbdUbY56STLy"
       },
@@ -22820,7 +22868,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC"
@@ -32582,7 +32630,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 171000,
       "name": "V\u1ea5n V\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/15EnYeFWQM4Pl9V1FzUXCy"
@@ -34234,7 +34282,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 160888,
       "name": "Y\u00caU L\u1ea0 K\u1ef2",
       "url": "https://open.spotify.com/track/68QtXQoiFWjoU5uEZw5376"

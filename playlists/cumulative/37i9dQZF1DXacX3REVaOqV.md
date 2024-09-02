@@ -4,7 +4,7 @@
 
 > The best in house music
 
-481 songs - 1 day 8 hr 32 min
+482 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2022-04-14 | 2024-03-21 |
 | [Freedom 2024](https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Freedom 2024](https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI) | 2:41 | 2024-07-18 |  |
 | [Freeze \- John Summit Remix](https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Freeze \(John Summit Remix\)](https://open.spotify.com/album/1y9vtFEaefqwQUioWsaOsw) | 3:12 | 2022-07-14 | 2024-02-08 |
-| [French 75](https://open.spotify.com/track/4kMa10rUvrtekpPGrNROWC) | [Shaggii](https://open.spotify.com/artist/1YnFKDmp7kh1JzXekxnMez), [Arra](https://open.spotify.com/artist/4sTQKgtCClcWghDtIMcVuw) | [Roadhouse](https://open.spotify.com/album/3KMFzZTiKXtzeK6uW7KIbh) | 3:30 | 2024-06-27 |  |
+| [French 75](https://open.spotify.com/track/4kMa10rUvrtekpPGrNROWC) | [Shaggii](https://open.spotify.com/artist/1YnFKDmp7kh1JzXekxnMez), [Arra](https://open.spotify.com/artist/4sTQKgtCClcWghDtIMcVuw) | [Roadhouse](https://open.spotify.com/album/3KMFzZTiKXtzeK6uW7KIbh) | 3:30 | 2024-06-27 | 2024-09-02 |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-07-20 | 2024-03-01 |
 | [Friendly Pressure \- Into The Sunshine Edit](https://open.spotify.com/track/2u1KZIchGsTN0Beas9mlaU) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl) | 3:49 | 2024-04-26 |  |
 | [Friends](https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Friends](https://open.spotify.com/album/4THASIy2X16riMpZINnTTz) | 9:07 | 2022-07-28 | 2022-09-16 |
@@ -202,6 +202,7 @@
 | [I Can Boogie](https://open.spotify.com/track/2ozkaxd6uFj0dKhHJUxurx) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Pure Moons Vol\. 2](https://open.spotify.com/album/1rZVQxrdRpW4KYrGfUl2x8) | 4:46 | 2022-04-14 | 2022-07-26 |
 | [I Feel For You \- Star B Remix](https://open.spotify.com/track/3IeCTI1sPQKF0fXUzMFGmH) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l), [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt) | [I Feel For You \(Star B Remix\)](https://open.spotify.com/album/5f75iR1LqLFO3bo26aQDrv) | 3:33 | 2022-06-22 | 2024-08-31 |
 | [I Got Nothing \- Ferreck Dawn Mix](https://open.spotify.com/track/6ZR6tHglQJYQCLDrZNpFUV) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing \(Ferreck Dawn Mix\)](https://open.spotify.com/album/2Rfodx3PPInqdZUplCNzjq) | 2:51 | 2024-04-09 |  |
+| [I Like That](https://open.spotify.com/track/0yg55SYRcOFhlTgpLtGW6p) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD) | [Echoes EP](https://open.spotify.com/album/3qzaYUandimelZdEhWQd8S) | 3:15 | 2024-08-30 |  |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-08 |  |
 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 | 2022-06-30 | 2023-07-15 |
 | [In Arms](https://open.spotify.com/track/0mqDNdnkSOTKqsUIsAEfW2) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l) | [In Arms](https://open.spotify.com/album/2vh3bKINYS3kbVVqbJ3Nf7) | 3:26 | 2022-07-28 | 2022-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,779 likes - 60 songs - 3 hr 20 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,776 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 2 | [Wanna Freak](https://open.spotify.com/track/3E9BrnxO4cesi1PKrliDWC) | [SLAYJAY](https://open.spotify.com/artist/7gb52q4jK8QFbNYcd2TpJd) | [Wanna Freak](https://open.spotify.com/album/7a46pCc8GXxApPCOLUcyDH) | 3:05 |
 | 3 | [Everything to Lose](https://open.spotify.com/track/0hZaXSEw6z17FdUD6LcZke) | [Samuel Vasell](https://open.spotify.com/artist/2CRab4ntrkT6P2CdbnBxtf) | [Everything to Lose](https://open.spotify.com/album/5usIJyf28QAJX58papD8Q3) | 2:23 |
 | 4 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 |
-| 5 | [Gas Pedal \(feat\. Sage The Gemini\)](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal \(feat\. Sage The Gemini\)](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 5 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 6 | [Day 'N' Nite](https://open.spotify.com/track/46mlgXXpNSqwF1e6Fefuyi) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Day 'N' Nite](https://open.spotify.com/album/2y4zFJGQbMMYMrQKO7cBZH) | 2:36 |
 | 7 | [Rich Girl](https://open.spotify.com/track/5uasd9oqrcRddWgbTbhFDk) | [Tyson O'brien](https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL), [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Rich Girl](https://open.spotify.com/album/0bMp5Nly8cVDeebzNux4pI) | 2:32 |
 | 8 | [I Like To Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Still Loud](https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [I Like To Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7) | 2:28 |

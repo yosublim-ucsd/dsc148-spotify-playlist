@@ -4,7 +4,7 @@
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: JD\. REID
 
-116 songs - 6 hr 23 min
+117 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blue Car](https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR) | [Shivani Day](https://open.spotify.com/artist/5mnwQTXBL1eoE4Fj9v9Awn) | [Blue Car](https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl) | 2:59 | 2024-06-27 | 2024-07-27 |
 | [Bobby](https://open.spotify.com/track/77Nj22dWozO9Bs39PkdNKB) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bobby](https://open.spotify.com/album/3w4G7MndfEi5ShBj88xMao) | 2:42 | 2024-06-27 |  |
 | [Boyfriend](https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Boyfriend](https://open.spotify.com/album/5AwxyJ0KmVm17VWaH1Hybu) | 2:54 | 2024-06-27 |  |
+| [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 | 2024-09-01 |  |
 | [Brother](https://open.spotify.com/track/63vEPrmJjJpBxZvMiE9EHj) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Brother](https://open.spotify.com/album/59eK2iLsb52x01CWL9UC7D) | 2:46 | 2024-08-22 |  |
 | [Call It What You Like](https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Call It What You Like](https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW) | 2:54 | 2024-07-25 |  |
 | [Can't Catch Me Now!](https://open.spotify.com/track/1T1hFZUCLBeq7lBg5lhq5a) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Can't Catch Me Now!](https://open.spotify.com/album/3mm7MFJwERsbZg8dszphQr) | 4:00 | 2024-08-29 |  |

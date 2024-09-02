@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,613 likes - 97 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,606 likes - 97 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

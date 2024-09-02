@@ -1743,6 +1743,28 @@
     },
     {
       "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/4puzVs4QKZoppwI0BpwQ9p"
+      },
+      "artists": [
+        {
+          "name": "PHARAOH",
+          "url": "https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "OMEGA",
+      "url": "https://open.spotify.com/track/1Pd7YDi71oQkPenclP9H0q"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6edYgSjO0p6ySEuoM7HQux"
       },
@@ -1816,7 +1838,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -3608,7 +3630,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 171500,
       "name": "\u041a\u0438\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV"
@@ -4616,7 +4638,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 138512,
       "name": "\u0420\u0430\u0439\u0441\u043a\u0438\u0435 \u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a"
@@ -5138,7 +5160,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
@@ -5472,6 +5494,24 @@
       "duration_ms": 96642,
       "name": "\u0425\u0410\u0419\u0415\u0413\u041e\u0425\u041e",
       "url": "https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq"
+    },
+    {
+      "album": {
+        "name": "8 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u043a\u0430\u043a \u0431\u0440\u043e\u0441\u0438\u0442\u044c...",
+        "url": "https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190818,
+      "name": "\u0425\u0430\u043d\u043d\u0430\u043c\u043e\u043d\u0442\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542"
     },
     {
       "album": {

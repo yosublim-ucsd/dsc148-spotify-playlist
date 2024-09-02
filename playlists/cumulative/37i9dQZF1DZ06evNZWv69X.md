@@ -2,7 +2,7 @@
 
 ### [This Is Mar de Copas](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWv69X)
 
-> This Is Mar de Copas\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Mar de Copas\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 56 min
 

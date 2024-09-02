@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Sep 04:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -21378,7 +21378,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 123500,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/6N83IKIBZ8kTKO2ZomD6uT"
@@ -30292,6 +30292,24 @@
       "duration_ms": 227736,
       "name": "Sour Candy (Reimagined)",
       "url": "https://open.spotify.com/track/1NJIt2Ma1YxoTQkxmWjRRg"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2tCMG1koypvpSjNi1YL5Ac"
+      },
+      "artists": [
+        {
+          "name": "addie dunworth",
+          "url": "https://open.spotify.com/artist/1G8yksGII2Hsb8tEIqD6zf"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196350,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4lxyEdpRUVXFpJDHMrFag9"
     },
     {
       "album": {

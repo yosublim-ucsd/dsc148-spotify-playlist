@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 169441,
+  "num_followers": 169554,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "Infinite Surprise",
-      "url": "https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 229840,
       "name": "Baby Bluebird",
       "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "Infinite Surprise",
+      "url": "https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Sneaker Waves",
-        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Glass Jar",
-      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Pearls to Swine",
         "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 360946,
       "name": "Juniper Arms",
       "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Sneaker Waves",
+        "url": "https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Glass Jar",
+      "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "To Who Knows Where",
-        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "To Who Knows Where",
-      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Existential Beast",
         "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 367480,
       "name": "Golden Gate",
       "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "To Who Knows Where",
+        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "To Who Knows Where",
+      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Cosmic American Blues",
-        "url": "https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA"
-      },
-      "artists": [
-        {
-          "name": "OJR",
-          "url": "https://open.spotify.com/artist/3BxLJvBTizcXZfwkydW2oT"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Cosmic American Blues",
-      "url": "https://open.spotify.com/track/4S057bezdn8681JCxHCUfc"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Phosphorescent Harvest",
         "url": "https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 307573,
       "name": "About a Stranger",
       "url": "https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Cosmic American Blues",
+        "url": "https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA"
+      },
+      "artists": [
+        {
+          "name": "OJR",
+          "url": "https://open.spotify.com/artist/3BxLJvBTizcXZfwkydW2oT"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Cosmic American Blues",
+      "url": "https://open.spotify.com/track/4S057bezdn8681JCxHCUfc"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Movie Of The Week",
-        "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 273395,
-      "name": "Century City",
-      "url": "https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Turn It On",
         "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 270530,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Movie Of The Week",
+        "url": "https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 273395,
+      "name": "Century City",
+      "url": "https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs"
     },
     {
       "added_at": "2024-07-05 19:49:15",

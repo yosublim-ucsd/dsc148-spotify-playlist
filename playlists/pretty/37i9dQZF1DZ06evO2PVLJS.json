@@ -1,12 +1,12 @@
 {
-  "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1023708,
+  "description": "This Is Vicente Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
+  "num_followers": 1023959,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAAALJ9cnm85+yTyCgtNDXBO/",
+  "snapshot_id": "ZtJdAAAAAAC6Ccfc4HJBit8OoD5HuqkO",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estatua De Marfil",
-        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
+        "name": "El N\u00famero Uno",
+        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Nos Estorbo la Ropa",
-      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
+      "duration_ms": 191066,
+      "name": "Yo Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero Uno",
-        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
+        "name": "Estatua De Marfil",
+        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Yo Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
+      "duration_ms": 184426,
+      "name": "Nos Estorbo la Ropa",
+      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
     },
     {
       "added_at": null,

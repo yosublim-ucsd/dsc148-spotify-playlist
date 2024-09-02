@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Reinier Zonneveld
 
-1,144 songs - 2 day 13 hr 17 min
+1,145 songs - 2 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Fiesta Mágica](https://open.spotify.com/track/3JcPfHYLzv6dJZP37xJjb8) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Fiesta Mágica](https://open.spotify.com/album/6q1HWt6KF5gUnQhGzPmJRB) | 2:37 | 2022-09-01 | 2023-01-13 |
 | [Fiesta Mágica](https://open.spotify.com/track/5MGZD0qUymCLy1mUhLM8b9) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 2:37 | 2023-08-03 | 2023-12-14 |
 | [Fiesta Mágica](https://open.spotify.com/track/5pGOfzm7XH67mOXS7c8LO9) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 2:37 | 2023-06-24 | 2023-08-04 |
+| [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-09-01 |  |
 | [Find Yourself \- Yosuf Remix](https://open.spotify.com/track/5lOEDi6v6QmgB3TiMuAMuX) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Find Yourself \(Yosuf Remix\)](https://open.spotify.com/album/2DaXCPXNClBHMeDixPlnFB) | 2:55 | 2023-12-07 | 2024-06-14 |
 | [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 | 2023-12-14 |
 | [Firewalk](https://open.spotify.com/track/1NKpQ4bVY4rsTdUl7f4Cp7) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Firewalk](https://open.spotify.com/album/7q1cqbwRgGWzz341ZFFOpD) | 2:58 | 2023-02-09 | 2023-06-28 |

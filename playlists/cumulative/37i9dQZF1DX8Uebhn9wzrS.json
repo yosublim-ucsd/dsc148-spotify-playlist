@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -6704,6 +6704,24 @@
       "duration_ms": 142280,
       "name": "Coconut Cup",
       "url": "https://open.spotify.com/track/1KdXLFsrKF4bRlWXw9skui"
+    },
+    {
+      "album": {
+        "name": "cocoon",
+        "url": "https://open.spotify.com/album/2vsxrL5VXH4bi6FX2uHbVO"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148770,
+      "name": "cocoon",
+      "url": "https://open.spotify.com/track/79nz6puC2rx26h5JHH2sju"
     },
     {
       "album": {
@@ -13262,7 +13280,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 129000,
       "name": "give it a whirl",
       "url": "https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF"
@@ -28627,6 +28645,28 @@
     },
     {
       "album": {
+        "name": "saveme.",
+        "url": "https://open.spotify.com/album/1n1L0umSUyAcAUaJJlXDpx"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111349,
+      "name": "saveme.",
+      "url": "https://open.spotify.com/track/1WydprqiHcF4Xl7IdQoOzt"
+    },
+    {
+      "album": {
         "name": "say less",
         "url": "https://open.spotify.com/album/5XPaQ0ULoeWDvQsMmIxrvt"
       },
@@ -30384,6 +30424,24 @@
       "duration_ms": 124324,
       "name": "Snooze Groove",
       "url": "https://open.spotify.com/track/0Pvu5OJLVcukLnrLFZ8YgH"
+    },
+    {
+      "album": {
+        "name": "snoozed",
+        "url": "https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170376,
+      "name": "snoozed",
+      "url": "https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn"
     },
     {
       "album": {
@@ -33322,7 +33380,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 105365,
       "name": "Tapestop",
       "url": "https://open.spotify.com/track/0UIlFZoYz9PobCAyzu7spv"

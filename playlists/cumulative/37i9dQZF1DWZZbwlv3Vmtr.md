@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-949 songs - 1 day 12 hr 51 min
+950 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [It's Real](https://open.spotify.com/track/43cvBPKTYdJESkGr9jqmOR) | [Suede Wallet](https://open.spotify.com/artist/2oTCWOKOMia5kg2jep7nKY), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [It's Real](https://open.spotify.com/album/0M6zhqqm3JwLaSr5Amkt55) | 2:30 | 2022-11-11 |  |
 | [Jay](https://open.spotify.com/track/5GEJovN72R9nDWb4xUXk9o) | [Lukrembo](https://open.spotify.com/artist/2mvFGnu3tPO49WSrFZ4zVR) | [Jay](https://open.spotify.com/album/3Iu3hTlA1SEuWkPddLJxb1) | 2:39 | 2022-09-02 | 2023-09-22 |
 | [Jazz Tales](https://open.spotify.com/track/0TdUd1HFmecMdulJujFNi6) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Jazz Tales](https://open.spotify.com/album/5LUbxCPTmRYRkvD9IBtoSJ) | 2:29 | 2022-07-08 | 2022-09-24 |
+| [JazzRevelations](https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzRevelations](https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR) | 2:15 | 2024-08-30 |  |
 | [Jazzy Attitude](https://open.spotify.com/track/1ImlRruQ0ZMShqLNQ47JA7) | [Lush Groovebox](https://open.spotify.com/artist/1XUvAB59xTBce6cacKHuNj) | [Mellow Horizon](https://open.spotify.com/album/4XF3GKpWQuTQHemR24784t) | 1:28 | 2022-04-15 | 2022-07-08 |
 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 | 2022-04-15 | 2022-10-14 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-04-15 | 2022-05-20 |
@@ -646,7 +647,7 @@
 | [Reflections](https://open.spotify.com/track/21tkja4bPHLqIcgAXiYBFX) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:20 | 2022-11-11 | 2022-11-24 |
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2022-11-11 | 2023-10-06 |
 | [Regular Guy](https://open.spotify.com/track/0Qxfx9Sxa0TVy3p0j0lPha) | [Sir Peanut](https://open.spotify.com/artist/3HpvKoWXmM1S2eB4tKBtRF) | [Regular Guy](https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru) | 3:34 | 2022-04-15 | 2022-09-17 |
-| [Reincarnated Owl](https://open.spotify.com/track/6uj7771hHXo9ub148zgj0c) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Reincarnated Owl](https://open.spotify.com/album/5raw94hhzoBLq0iDaJj7D0) | 2:32 | 2022-04-15 |  |
+| [Reincarnated Owl](https://open.spotify.com/track/6uj7771hHXo9ub148zgj0c) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Reincarnated Owl](https://open.spotify.com/album/5raw94hhzoBLq0iDaJj7D0) | 2:32 | 2022-04-15 | 2024-09-02 |
 | [Relevance](https://open.spotify.com/track/5xntfyh1ivokbbC3cV7268) | [Zifon](https://open.spotify.com/artist/6Ys1Of9xkkOSwsxgEMtcFU) | [Alleviate](https://open.spotify.com/album/0sfx4STbwzhN1tyfCsUuL2) | 1:46 | 2022-04-15 | 2022-05-14 |
 | [Relief](https://open.spotify.com/track/1A0kkBkOz7kMyyaYegwysl) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Relief](https://open.spotify.com/album/1JVTYybTxlKDYFs7VcxN8b) | 2:36 | 2022-04-15 | 2023-10-13 |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-04-15 | 2022-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "New music from Valley , Victoria Mon\u00e9t, AP Dhillon, Tommy Richman and more. ",
-  "num_followers": 532593,
+  "num_followers": 532600,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -427,7 +427,7 @@
     {
       "added_at": "2024-08-30 04:07:50",
       "album": {
-        "name": "Gas Pedal (feat. Sage The Gemini)",
+        "name": "Gas Pedal Remix",
         "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
       },
       "artists": [
@@ -436,20 +436,16 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
           "name": "Sage The Gemini",
           "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
       "duration_ms": 130070,
-      "name": "Gas Pedal (feat. Sage The Gemini)",
+      "name": "Gas Pedal Remix",
       "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
     },
     {

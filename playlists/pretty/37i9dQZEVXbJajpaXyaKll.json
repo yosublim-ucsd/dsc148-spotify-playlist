@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 126151,
+  "num_followers": 126162,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LmaHIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmfWSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "El Traje del PSG",
         "url": "https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "YKWGTS",
         "url": "https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "No digas Nada",
         "url": "https://open.spotify.com/album/110SBsBv9wRVIgkspP0eKy"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/7f19JVyp0VYzZ5pKiBRmvN"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
         "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
@@ -85,7 +85,31 @@
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "SOBRE UNA NUBE DE ALGOD\u00d3N",
+        "url": "https://open.spotify.com/album/1VNSqvOeEGB0QKNoI3PNBb"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/60d2c47Oz2Wf2h0GnU2m9d"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -101,23 +125,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "MC 2K",
-        "url": "https://open.spotify.com/album/57gAitsOYgGnlgorwPedUc"
-      },
-      "artists": [
-        {
-          "name": "Mc 2k",
-          "url": "https://open.spotify.com/artist/0L6qPQHSSlNItWXm5kY4yQ"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Chupa *o*ota",
-      "url": "https://open.spotify.com/track/7vpZ0NfPosPy8XbyAFli9N"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -133,7 +141,23 @@
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "MC 2K",
+        "url": "https://open.spotify.com/album/57gAitsOYgGnlgorwPedUc"
+      },
+      "artists": [
+        {
+          "name": "Mc 2k",
+          "url": "https://open.spotify.com/artist/0L6qPQHSSlNItWXm5kY4yQ"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Chupa *o*ota",
+      "url": "https://open.spotify.com/track/7vpZ0NfPosPy8XbyAFli9N"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Este O Este Vs Tumba RKT",
         "url": "https://open.spotify.com/album/6z03dY0Oc0efsBW986Asgb"
@@ -169,23 +193,7 @@
       "url": "https://open.spotify.com/track/6mIbjbzKYy1jLL9qwvGI7z"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "en la cara",
-        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "en la cara",
-      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Mix Cumbias VV1 (Mil Preguntas, Doctorado, Mientes)",
         "url": "https://open.spotify.com/album/4s7377pYdVHMPYU9QqjkY3"
@@ -201,7 +209,23 @@
       "url": "https://open.spotify.com/track/5Ml3L4YK3g0SjQLo21JWG0"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
@@ -217,7 +241,7 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
@@ -237,7 +261,7 @@
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
         "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
@@ -261,7 +285,7 @@
       "url": "https://open.spotify.com/track/4eqXTlaHeK6xkM1fRx9wR5"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Toa Toa",
         "url": "https://open.spotify.com/album/4U8Wm6GlLJG9OmisISDfBp"
@@ -277,7 +301,7 @@
       "url": "https://open.spotify.com/track/2zQa0VTafGFnrtuZnkeuPm"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "FREEBARS #2",
         "url": "https://open.spotify.com/album/4SXUD1V42E0BO1UjkGBwHn"
@@ -297,7 +321,7 @@
       "url": "https://open.spotify.com/track/1EpczndW0Lhsst3qhwLpd8"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -313,7 +337,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Samba de Raiz - Ao Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
@@ -329,7 +353,7 @@
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -349,7 +373,59 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/5zfhhKXHK0YQdvacCs1ErM"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Teenangels 2",
+        "url": "https://open.spotify.com/album/6Oc6jLPonBwKLN7gE0OGyy"
+      },
+      "artists": [
+        {
+          "name": "Teenangels",
+          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
+        },
+        {
+          "name": "Mariana Esp\u00f3sito",
+          "url": "https://open.spotify.com/artist/4E7QzpIydJaq6JZkq2aaTx"
+        }
+      ],
+      "duration_ms": 198853,
+      "name": "Hay un Lugar...",
+      "url": "https://open.spotify.com/track/49LS1XS7VB8Vho0mh8olro"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
@@ -373,23 +449,23 @@
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 289560,
+      "name": "Don't Look Back in Anger - Remastered",
+      "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -409,7 +485,7 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -441,10 +517,26 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
-        "name": "Definitely Maybe",
-        "url": "https://open.spotify.com/album/5zfhhKXHK0YQdvacCs1ErM"
+        "name": "VANITY",
+        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend",
+      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
       },
       "artists": [
         {
@@ -452,12 +544,12 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 276866,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
+      "duration_ms": 303133,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "El Pron\u00f3stico",
         "url": "https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI"
@@ -477,79 +569,7 @@
       "url": "https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "VANITY",
-        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "I'd Rather Pretend",
-      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 198495,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back in Anger - Remastered",
-      "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Teenangels 2",
-        "url": "https://open.spotify.com/album/6Oc6jLPonBwKLN7gE0OGyy"
-      },
-      "artists": [
-        {
-          "name": "Teenangels",
-          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
-        },
-        {
-          "name": "Mariana Esp\u00f3sito",
-          "url": "https://open.spotify.com/artist/4E7QzpIydJaq6JZkq2aaTx"
-        }
-      ],
-      "duration_ms": 198853,
-      "name": "Hay un Lugar...",
-      "url": "https://open.spotify.com/track/49LS1XS7VB8Vho0mh8olro"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Maradona (Tatara)",
         "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
@@ -569,7 +589,103 @@
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 198495,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Teenangels 4",
+        "url": "https://open.spotify.com/album/3Ox78SYOzBKCydw2vnu5X9"
+      },
+      "artists": [
+        {
+          "name": "Teenangels",
+          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
+        },
+        {
+          "name": "Mariana Esp\u00f3sito",
+          "url": "https://open.spotify.com/artist/1nbru60TzThNijYjXsLKHk"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/16uXKJjrVv1y2L4j3gmgGh"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Teenangels 4",
+        "url": "https://open.spotify.com/album/3Ox78SYOzBKCydw2vnu5X9"
+      },
+      "artists": [
+        {
+          "name": "Teenangels",
+          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Miedo a Perderte",
+      "url": "https://open.spotify.com/track/6JqMNHGYlouggzHJje6JJW"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Teenangels",
+        "url": "https://open.spotify.com/album/2aFHNIcvoTDh5UZPwJGofO"
+      },
+      "artists": [
+        {
+          "name": "Teenangels",
+          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
+        },
+        {
+          "name": "Emilia Attias",
+          "url": "https://open.spotify.com/artist/5FQbuIRFnizVjI6FhhBeOH"
+        },
+        {
+          "name": "Nicol\u00e1s Vazquez",
+          "url": "https://open.spotify.com/artist/2KDvKn7TtPqLOUkoJPOzhZ"
+        }
+      ],
+      "duration_ms": 214680,
+      "name": "Dos Ojos",
+      "url": "https://open.spotify.com/track/4uYIJzMxsdO4iSCAbAZx7o"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Supersonic - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Chief Boot Knocka",
         "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
@@ -585,7 +701,7 @@
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -601,10 +717,10 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
       "artists": [
         {
@@ -612,12 +728,12 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 303133,
-      "name": "Stop Crying Your Heart Out",
-      "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
@@ -641,7 +757,7 @@
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
         "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
@@ -665,103 +781,7 @@
       "url": "https://open.spotify.com/track/2fMiCHqLXMKC54sbfYugJK"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Tu Silueta",
-        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
-      },
-      "artists": [
-        {
-          "name": "Diegote",
-          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Tu Silueta",
-      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Con Carpusa & De Cayetano",
-        "url": "https://open.spotify.com/album/611i2e0Q1kQG8AEOPCbI4o"
-      },
-      "artists": [
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Bla, Bla, Bla",
-      "url": "https://open.spotify.com/track/7LObVUWVLHGG3iSrVUarmu"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Antes de Noviembre",
-        "url": "https://open.spotify.com/album/253XbefR2k5K8z8W3YUiXN"
-      },
-      "artists": [
-        {
-          "name": "Oney1",
-          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
-        }
-      ],
-      "duration_ms": 196979,
-      "name": "Antes de Noviembre",
-      "url": "https://open.spotify.com/track/4VPRZa1iFBKaN6v9v9vKcs"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Cara De Bellaquita",
-        "url": "https://open.spotify.com/album/1F5WGlGhOX3bi6Q9AdwDm9"
-      },
-      "artists": [
-        {
-          "name": "NAHU IN THE MIX",
-          "url": "https://open.spotify.com/artist/2LtvCh5flXYqtifbcTYiU6"
-        }
-      ],
-      "duration_ms": 167779,
-      "name": "Cara De Bellaquita",
-      "url": "https://open.spotify.com/track/4MoEwLx6UBkr3wAQkZRo32"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "YPF",
-        "url": "https://open.spotify.com/album/3FaLwz8tRIknLY9cOskXhY"
-      },
-      "artists": [
-        {
-          "name": "turrobaby",
-          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
-        }
-      ],
-      "duration_ms": 127346,
-      "name": "YPF",
-      "url": "https://open.spotify.com/track/3v5zNfZJmz1tbU1hnQHzGF"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Soltera - W Sound 01",
         "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
@@ -785,7 +805,87 @@
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 451320,
+      "name": "Champagne Supernova - Remastered",
+      "url": "https://open.spotify.com/track/1wo3UYTeizJHkwYIuLuBPF"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Antes de Noviembre",
+        "url": "https://open.spotify.com/album/253XbefR2k5K8z8W3YUiXN"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "duration_ms": 196979,
+      "name": "Antes de Noviembre",
+      "url": "https://open.spotify.com/track/4VPRZa1iFBKaN6v9v9vKcs"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Se Paciente Funk",
+        "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        }
+      ],
+      "duration_ms": 69360,
+      "name": "Se Paciente Funk",
+      "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
+      "album": {
+        "name": "Con Carpusa & De Cayetano",
+        "url": "https://open.spotify.com/album/611i2e0Q1kQG8AEOPCbI4o"
+      },
+      "artists": [
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Bla, Bla, Bla",
+      "url": "https://open.spotify.com/track/7LObVUWVLHGG3iSrVUarmu"
+    },
+    {
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -817,23 +917,23 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
         }
       ],
-      "duration_ms": 208487,
-      "name": "Drugs You Should Try It",
-      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
+      "duration_ms": 170480,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
     },
     {
-      "added_at": "2024-08-31 14:09:13",
+      "added_at": "2024-09-01 14:38:18",
       "album": {
         "name": "Definitely Maybe (Remastered)",
         "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
@@ -844,109 +944,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 283786,
-      "name": "Supersonic - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Teenangels 4",
-        "url": "https://open.spotify.com/album/3Ox78SYOzBKCydw2vnu5X9"
-      },
-      "artists": [
-        {
-          "name": "Teenangels",
-          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
-        },
-        {
-          "name": "Mariana Esp\u00f3sito",
-          "url": "https://open.spotify.com/artist/1nbru60TzThNijYjXsLKHk"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/16uXKJjrVv1y2L4j3gmgGh"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Teenangels 4",
-        "url": "https://open.spotify.com/album/3Ox78SYOzBKCydw2vnu5X9"
-      },
-      "artists": [
-        {
-          "name": "Teenangels",
-          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Miedo a Perderte",
-      "url": "https://open.spotify.com/track/6JqMNHGYlouggzHJje6JJW"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Qu\u00e9 Esperan???",
-        "url": "https://open.spotify.com/album/5Syp9VrBZO5PsMnylWYct1"
-      },
-      "artists": [
-        {
-          "name": "Matias Fisher",
-          "url": "https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd"
-        },
-        {
-          "name": "Phontana",
-          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
-        },
-        {
-          "name": "Santiago Ibarra",
-          "url": "https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076"
-        }
-      ],
-      "duration_ms": 124778,
-      "name": "Qu\u00e9 Esperan???",
-      "url": "https://open.spotify.com/track/0vRY0gNfGqR8fS5gXOAhEA"
-    },
-    {
-      "added_at": "2024-08-31 14:09:13",
-      "album": {
-        "name": "Teenangels",
-        "url": "https://open.spotify.com/album/2aFHNIcvoTDh5UZPwJGofO"
-      },
-      "artists": [
-        {
-          "name": "Teenangels",
-          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
-        },
-        {
-          "name": "Emilia Attias",
-          "url": "https://open.spotify.com/artist/5FQbuIRFnizVjI6FhhBeOH"
-        },
-        {
-          "name": "Nicol\u00e1s Vazquez",
-          "url": "https://open.spotify.com/artist/2KDvKn7TtPqLOUkoJPOzhZ"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Dos Ojos",
-      "url": "https://open.spotify.com/track/4uYIJzMxsdO4iSCAbAZx7o"
+      "duration_ms": 392306,
+      "name": "Slide Away - 2014 Remaster",
+      "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa"
     }
   ],
   "unique_name": "Viral 50 - Argentina",

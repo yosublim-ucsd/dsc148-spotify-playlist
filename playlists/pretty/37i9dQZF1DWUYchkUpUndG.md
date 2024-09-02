@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=eS2iNpVSTMiw5vS\_IFCFpg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,322 likes - 99 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,437 likes - 99 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 92 | [Peace Of Mind](https://open.spotify.com/track/1bX2qh5uYLx1i8QNcRS5sX) | [Mark Success](https://open.spotify.com/artist/2UsJ6DTOfg7n99HC3aJAip) | [Peace Of Mind](https://open.spotify.com/album/4nsB71H8Slk9pP0sfb4tk8) | 1:59 |
 | 93 | [Spani](https://open.spotify.com/track/0ps1Z3IO5SUmM6NZrO6lVy) | [EimsoflY](https://open.spotify.com/artist/2tyajqv8mquIHrlRkEKaTl), [Lyrikal Busta](https://open.spotify.com/artist/3o4H51gfvSTJPmhJzewhEw) | [Spani](https://open.spotify.com/album/0fUsVvIxW54nIN4ovJusFQ) | 3:06 |
 | 94 | [Reign](https://open.spotify.com/track/5Ihx5hpbXnuKyT2O2pmaxw) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Reign](https://open.spotify.com/album/3nXzqLc7IGfMn3QfKbn7gy) | 8:22 |
-| 95 | [All in You \(Revisit\)](https://open.spotify.com/track/3ymO7DgOvzjxN28YoWUcgx) | [DaDDy K DeeDjy](https://open.spotify.com/artist/7Env5w2KhJcMxlDFsrRcR8), [Why01.1](https://open.spotify.com/artist/352csyvsL62SBJSPg2cUOD) | [All in You \(Revisit\)](https://open.spotify.com/album/7i9XZPgWJAOAz8PBE4RrkE) | 4:25 |
+| 95 | [All in You \- Revisit](https://open.spotify.com/track/3ymO7DgOvzjxN28YoWUcgx) | [DaDDy K DeeDjy](https://open.spotify.com/artist/7Env5w2KhJcMxlDFsrRcR8), [Why01.1](https://open.spotify.com/artist/352csyvsL62SBJSPg2cUOD) | [All in You \(Revisit\)](https://open.spotify.com/album/7i9XZPgWJAOAz8PBE4RrkE) | 4:25 |
 | 96 | [Nobody](https://open.spotify.com/track/0wrJ78TgcGRQ0jo14XXUE5) | [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV), [Milly J](https://open.spotify.com/artist/6qiVdS3Z7AgdkA4l01H9ph) | [Nobody](https://open.spotify.com/album/0cshTY4OReXMKLdn0bQHAw) | 2:58 |
 | 97 | [Speak](https://open.spotify.com/track/3GFEv8dHoN1yVqaGltAJpj) | [U'chims](https://open.spotify.com/artist/5JQ2HDh019lW9BksoYyGhL) | [Speak](https://open.spotify.com/album/2FbkigOlgiQgjjKjSADkVE) | 6:38 |
 | 98 | [Spirit](https://open.spotify.com/track/0ES7wcf9GABpnRKB865ycQ) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Spirit](https://open.spotify.com/album/3MlftWzxSGUDfRsyQCykGv) | 1:44 |

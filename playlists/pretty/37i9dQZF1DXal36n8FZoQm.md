@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,844 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,921 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 3 | [Pop It](https://open.spotify.com/track/6l2UMmlBvmSwWTF5AcdALT) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [Noize Parade](https://open.spotify.com/artist/0OPVfZ7MTtTpCmGGFNEV0v) | [Pop It](https://open.spotify.com/album/78BpahfyUWKrzOHegSPLr2) | 3:06 |
 | 4 | [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 |
 | 5 | [Rise of Kwon](https://open.spotify.com/track/5Doh4Ez68BmKPGjEs5SA6w) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 2:34 |
-| 6 | [Crank It Up](https://open.spotify.com/track/2IUBfsp3bP6idA34meFZQP) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Crank It Up](https://open.spotify.com/album/0xkW83vvQjMBEb9r458HT6) | 2:52 |
+| 6 | [Crank It Up](https://open.spotify.com/track/2IUBfsp3bP6idA34meFZQP) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Crank It Up](https://open.spotify.com/album/0xkW83vvQjMBEb9r458HT6) | 2:52 |
 | 7 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 |
 | 8 | [Let The Games Begin](https://open.spotify.com/track/4imhSCTu61HFQiMSFeBui4) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 3:06 |
 | 9 | [You Want It All](https://open.spotify.com/track/3ubp0uVqoMtBJFfgyBtCdV) | [Go Betty Go](https://open.spotify.com/artist/7ou4oSEDh1AWwIUmlIz5WD) | [Nothing Is More](https://open.spotify.com/album/3uSGIAOm3qyF4rJGriXhKM) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,12 +99,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 89 | [Big Dope](https://open.spotify.com/track/2MdMP2y5mCkGVnp3DkbJ8b) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:35 |
 | 90 | [You Ain't Hard](https://open.spotify.com/track/21t8Edns1aUrUC8nMl0KZM) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 3:46 |
 | 91 | [Came Up](https://open.spotify.com/track/4SnvJDymo0LkkuFNNLemQl) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Came Up](https://open.spotify.com/album/7f22HnE6AmI4cFtPu1PmHj) | 2:41 |
-| 92 | [Movin' Around](https://open.spotify.com/track/57Oj1BIV9A36qCEdKHAxiA) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/5sU40ix3D2JI8ERh4L0nIF) | 4:18 |
-| 93 | [DOPE BOY \(feat\. Young Nudy\)](https://open.spotify.com/track/1lLl9Wu4ULpHaLYypCwoi9) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:43 |
+| 92 | [DOPE BOY \(feat\. Young Nudy\)](https://open.spotify.com/track/1lLl9Wu4ULpHaLYypCwoi9) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:43 |
+| 93 | [Movin' Around](https://open.spotify.com/track/57Oj1BIV9A36qCEdKHAxiA) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/5sU40ix3D2JI8ERh4L0nIF) | 4:18 |
 | 94 | [Story Of Us](https://open.spotify.com/track/1IkzUw8dx0h6dgLGfJib0X) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Songs For You](https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05) | 2:45 |
 | 95 | [I Have a Dream](https://open.spotify.com/track/4wTBoTjp7S73BrKOM54WMd) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 1:56 |
-| 96 | [18K \(feat\. Juicy J\)](https://open.spotify.com/track/6AccToiKhDvl8AH0gRJSlt) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Jesus Said Run It Back](https://open.spotify.com/album/5re3HEZOWB9F7QaHnKOgvA) | 3:01 |
-| 97 | [preach](https://open.spotify.com/track/3Ii0BOEdzFjnmSkEmoAY9g) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 2:36 |
+| 96 | [preach](https://open.spotify.com/track/3Ii0BOEdzFjnmSkEmoAY9g) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 2:36 |
+| 97 | [18K \(feat\. Juicy J\)](https://open.spotify.com/track/6AccToiKhDvl8AH0gRJSlt) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Jesus Said Run It Back](https://open.spotify.com/album/5re3HEZOWB9F7QaHnKOgvA) | 3:01 |
 | 98 | [NO RAP KAP \(feat\. Trippie Redd\)](https://open.spotify.com/track/2sIottAN4ZxxxlaZAh0oxR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [NO RAP KAP \(feat\. Trippie Redd\)](https://open.spotify.com/album/1FCEeTgrrUizTXaNhpHNuC) | 3:35 |
 | 99 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
 | 100 | [Whippin' It Up \(feat\. Lil Dicky\)](https://open.spotify.com/track/6p24ODEmUhxCPblHgoZZ25) | [Brain](https://open.spotify.com/artist/6g0Xatzg8vlchoEe21LoeH), [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [I'm Brain](https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS) | 3:16 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 110 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 111 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `Aba7IgAAAAB9pG9a00jkXa3IzxUI5VIp`
+Snapshot ID: `AbbAwgAAAAD1YeBgorp3LF7gcf4RgUvY`

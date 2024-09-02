@@ -2,7 +2,7 @@
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. The essential tracks, all in one playlist.
+> This Is Kelli\-Leigh\. Les titres incontournables, réunis dans une seule et même playlist.
 
 58 songs - 2 hr 57 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Manu Dibango\. The essential tracks, all in one playlist.
 
 140 songs - 10 hr 34 min
 
@@ -99,7 +99,7 @@
 | [On Na Mba](https://open.spotify.com/track/1sJArh5M6tTRQgUCSXrcuI) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 3:48 | 2022-03-07 | 2022-03-31 |
 | [Ongele Mba](https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/7bfvTwvAo7ILbQgpmuH8Li) | 5:25 | 2021-12-28 | 2022-10-06 |
 | [Oriental Sunset](https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:47 | 2023-01-25 |  |
-| [Out of Score](https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:47 | 2022-07-04 | 2024-05-02 |
+| [Out of Score](https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:47 | 2022-07-04 |  |
 | [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 | 2022-06-30 | 2024-06-17 |
 | [Paris je t'aime d'amour](https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Paris je t'aime d'amour](https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ) | 4:51 | 2021-12-28 | 2023-09-01 |
 | [Percussion Storm](https://open.spotify.com/track/2eTftYReNs4X7x40zMUEDP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:54 | 2023-09-12 |  |
@@ -140,7 +140,7 @@
 | [Tu sais \- Hymne officiel de la Francophonie](https://open.spotify.com/track/2DL1IgEEJxRT88OScgQv0G) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD), [Inna MODJA](https://open.spotify.com/artist/2Wcolafj7tcFeVOIr0V4Ju), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Tu sais \(Hymne officiel de la Francophonie\)](https://open.spotify.com/album/6GB9E89wUtFSU9HzpJacyi) | 3:00 | 2023-01-03 | 2023-03-15 |
 | [Waka Juju](https://open.spotify.com/track/4SSbRPQrMUQZiTPyBikl1w) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:49 | 2022-01-15 | 2022-04-08 |
 | [Wakafrika](https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:47 | 2021-12-28 |  |
-| [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 | 2022-08-23 |  |
+| [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 | 2022-08-23 | 2024-09-02 |
 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 | 2021-12-28 |  |
 | [Wilderness](https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:08 | 2022-08-18 |  |
 | [Wimoweh \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/2ZHwMnAiXZ6YvnLtPMQE4e) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:19 | 2021-12-28 | 2022-10-13 |

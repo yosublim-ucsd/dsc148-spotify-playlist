@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,764 songs - 5 day 3 hr 0 min
+1,765 songs - 5 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [Everybody's Alone](https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Everybody's Alone](https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy) | 2:31 | 2024-05-17 | 2024-06-08 |
 | [Everything Destroys You](https://open.spotify.com/track/02WsLeepRUELUmfxC31QTc) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Everything Destroys You](https://open.spotify.com/album/5HxJGedU8hLULalg1ktLgb) | 3:55 | 2023-05-05 | 2023-06-04 |
 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 | 2023-10-06 | 2023-11-05 |
-| [Eye To Eye](https://open.spotify.com/track/7EPpqsbDMJjHf6IL0l9g3D) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Call The Devil](https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o) | 4:40 | 2024-08-30 |  |
+| [Eye To Eye](https://open.spotify.com/track/7EPpqsbDMJjHf6IL0l9g3D) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Call The Devil](https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o) | 4:40 | 2024-08-30 | 2024-09-02 |
 | [Fade](https://open.spotify.com/track/3mKSCxZ2Esz7r2wKjOSbYE) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Two Rooms](https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB) | 4:29 | 2023-05-05 | 2023-05-12 |
 | [Fade Away And Radiate \- Live 1978](https://open.spotify.com/track/0oZE5u43K5Kt6BMYWsVCdy) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Got Nothing To Say \(Live\)](https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc) | 4:56 | 2024-05-17 | 2024-05-19 |
 | [Fading Like A Rose \(Everytime Remix\)](https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Fading Like A Rose \- EP](https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi) | 2:35 | 2024-07-12 | 2024-08-11 |
@@ -1669,6 +1669,7 @@
 | [Wayward Eyes](https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Endtime Signals](https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI) | 3:28 | 2024-08-16 |  |
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-06-30 | 2023-07-23 |
 | [We Don't Care](https://open.spotify.com/track/0pCmQxPKjj9roW9HJcgmYL) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [We Don't Care](https://open.spotify.com/album/0LCoxC1ihyaiygfwk7Rt3L) | 3:49 | 2024-08-09 | 2024-09-01 |
+| [We Don't Care](https://open.spotify.com/track/6GtWz3PCQ12jai5htoKiQ3) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Call The Devil](https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o) | 3:49 | 2024-08-30 |  |
 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 | 2023-10-20 | 2023-11-19 |
 | [We Have Heaven \(Full Version\) \- Steven Wilson Mix](https://open.spotify.com/track/0fvp6bQkSptkKcHedAjV8x) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [We Have Heaven \(Full Version\) \[Steven Wilson Mix\]](https://open.spotify.com/album/6an7DhNWYgq8oDWn8TFFVw) | 2:21 | 2024-06-07 | 2024-06-17 |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 | 2023-06-03 |

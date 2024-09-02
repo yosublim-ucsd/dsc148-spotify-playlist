@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201 likes - 124 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 124 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 37 | [Oxygen](https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ten Thousand Feet & Rising](https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP) | 4:04 |
 | 38 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 | 39 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 |
-| 40 | [Take Control](https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Take Control](https://open.spotify.com/album/56tUVhEvrYo9J3lPZzTy9v) | 4:58 |
+| 40 | [Take Control](https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535) | 4:58 |
 | 41 | [The Power](https://open.spotify.com/track/7lzv5uk7R0mut7QYl6JmFG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Love For The Beat](https://open.spotify.com/album/6XpmXMbVcZ0wO2vot78P2O) | 3:21 |
 | 42 | [Pull Up](https://open.spotify.com/track/14ypcMSqXvuiGFcaMrGreK) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [anti everything](https://open.spotify.com/album/2VhtWe9LsmM3Ckhdpj1Tqu) | 2:40 |
 | 43 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
@@ -125,12 +125,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 115 | [The Blue](https://open.spotify.com/track/6C2DXj6KlW6Ndy4KRWkmhA) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Auras](https://open.spotify.com/album/6L9xMiwvTGzes1STTQ6VqD) | 4:07 |
 | 116 | [Mountain Song](https://open.spotify.com/track/1H9OoezsLOH6tCCPQIMvmR) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Auras](https://open.spotify.com/album/6L9xMiwvTGzes1STTQ6VqD) | 4:44 |
 | 117 | [Drink Alone](https://open.spotify.com/track/4SKf9DoryV3Wu25tFvIze0) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:48 |
-| 118 | [NGFM](https://open.spotify.com/track/64vuzGjFknp6dpA7hiUFvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [NGFM](https://open.spotify.com/album/4ZPv83UmqVfQHY0NgFbwli) | 3:43 |
-| 119 | [Just a Second](https://open.spotify.com/track/33vRItyPv1a9n1g2mWtH1N) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Just a Second](https://open.spotify.com/album/0XLX8xTRvNlZcdT6VStkFR) | 3:59 |
+| 118 | [Just a Second](https://open.spotify.com/track/33vRItyPv1a9n1g2mWtH1N) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Just a Second](https://open.spotify.com/album/0XLX8xTRvNlZcdT6VStkFR) | 3:59 |
+| 119 | [NGFM](https://open.spotify.com/track/64vuzGjFknp6dpA7hiUFvy) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [NGFM](https://open.spotify.com/album/4ZPv83UmqVfQHY0NgFbwli) | 3:43 |
 | 120 | [Senses](https://open.spotify.com/track/7lVL0O30WHAEoZRLAcObvR) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 4:06 |
 | 121 | [Train to Catch](https://open.spotify.com/track/5VVZw2RLNNNvyIM7Sfa5UH) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Train to Catch](https://open.spotify.com/album/6nV3RuvxjyAJcl0GDOTlTu) | 3:05 |
 | 122 | [No Hero](https://open.spotify.com/track/51KIZQHx2RX54HQQX35HbS) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [KBVOL.5](https://open.spotify.com/album/3zqfP3jTQPDNtCBknPV1MU) | 3:15 |
 | 123 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 124 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Aba7HgAAAAAMj8tgBLUYbHU2NP3gUr9c`
+Snapshot ID: `AbbAvgAAAACv/0AkGjbPma+ZuXmSXX4d`

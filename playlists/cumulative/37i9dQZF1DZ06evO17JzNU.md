@@ -2,7 +2,7 @@
 
 ### [This Is Los Gemelos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17JzNU)
 
-> This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
+> This is Los Gemelos De Sinaloa\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 69 songs - 3 hr 29 min
 

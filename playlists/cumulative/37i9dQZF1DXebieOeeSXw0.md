@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-524 songs - 1 day 18 hr 49 min
+525 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Love and Death](https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf) | 6:55 | 2021-12-24 | 2024-04-19 |
 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 | 2021-12-24 |  |
 | [Lung Tung Wai](https://open.spotify.com/track/0Jqpo39GGCFpNX2E81lhjD) | [Chaweewan Dumnern](https://open.spotify.com/artist/5FfClIGioybDMrfEp2cj3T) | [Sound of Siam, Vol\. 1 \- Leftfield Luk Thung, Jazz & Molam in Thailand 1964\-1975](https://open.spotify.com/album/0fnDkJkDLNyv7kGDoxhSyR) | 3:41 | 2021-12-24 | 2024-04-19 |
-| [Lung Tung Wai](https://open.spotify.com/track/25tb4tWiBBId7x3QPxW7t1) | [Chaweewan Dumnern](https://open.spotify.com/artist/5FfClIGioybDMrfEp2cj3T) | [Sound of Siam, Vol\. 1 \- Leftfield Luk Thung, Jazz & Molam in Thailand 1964\-1975 \(Soundway Records\)](https://open.spotify.com/album/2dBwGURHBB6qsMvGGIhGZs) | 3:41 | 2021-12-24 |  |
+| [Lung Tung Wai](https://open.spotify.com/track/25tb4tWiBBId7x3QPxW7t1) | [Chaweewan Dumnern](https://open.spotify.com/artist/5FfClIGioybDMrfEp2cj3T) | [Sound of Siam, Vol\. 1 \- Leftfield Luk Thung, Jazz & Molam in Thailand 1964\-1975 \(Soundway Records\)](https://open.spotify.com/album/2dBwGURHBB6qsMvGGIhGZs) | 3:41 | 2021-12-24 | 2024-09-02 |
 | [Machete](https://open.spotify.com/track/5ZBM5Lx9YlY875sWj3YxBx) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/5OLhGWdWNpUrd634SLFoXa) | 3:48 | 2021-12-24 |  |
 | [Machete](https://open.spotify.com/track/68mXF4xBYqzdzqhTsJTuy1) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Afro](https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ) | 3:48 | 2021-12-24 | 2024-04-19 |
 | [Mad Over Me](https://open.spotify.com/track/09YigjsvaBb24afspOfYfc) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Anthology: Young, Gifted and Yellow](https://open.spotify.com/album/6XnNBdFSYV3U1k8tkhfVNM) | 3:25 | 2021-12-24 |  |
@@ -475,6 +475,7 @@
 | [Sweeper Soul](https://open.spotify.com/track/5nT8FX33FYnnrf90n1TxIj) | [Super Mambo 69](https://open.spotify.com/artist/4l7M1nYrldPMyDSsD4jGFy) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY) | 2:43 | 2021-12-24 | 2024-04-19 |
 | [Sweet Mother](https://open.spotify.com/track/4n2UrVNTtPaKHt9h6SQwr6) | [Prince Nico Mbarga & Rocafil Jazz International](https://open.spotify.com/artist/4GwFsI0S9Eb90LjF97Xz04) | [Highlife Time Vol\. 2](https://open.spotify.com/album/4JFY8PzkeDULjFt5tevEWC) | 9:54 | 2021-12-24 |  |
 | [Table ronde](https://open.spotify.com/track/2lEVCxrrDLuxNW0ozc82jG) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Joseph Kabasele and the Creation of Modern Congolese Music, Vol\. 1](https://open.spotify.com/album/6t0NUWB6PVtWMkDP48QAnm) | 2:59 | 2021-12-24 | 2024-04-19 |
+| [Table ronde](https://open.spotify.com/track/1ay3McnLpgCJnvprftw7M8) | [Grand Kalle](https://open.spotify.com/artist/3BwtfrNuPmkwSSo8lwcHGc) | [Congo Zaïre \(Les maîtres de la Rumba\)](https://open.spotify.com/album/0qaDPW4r5zO6laR42GC2K2) | 3:01 | 2021-12-24 |  |
 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 | 2021-12-24 |  |
 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 | 2021-12-24 | 2024-04-19 |
 | [Talkin' Talkin'](https://open.spotify.com/track/5HJtrcm1ey4vR1KacKE1bx) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 4:37 | 2021-12-24 |  |

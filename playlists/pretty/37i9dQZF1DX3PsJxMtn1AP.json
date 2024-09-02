@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74740,
+  "num_followers": 74746,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs/cagAAAACZyJW+iBq9zB/nAA/Y6ePv",
+  "snapshot_id": "ZtSB2AAAAABuQ/ArjjOnxu7fA1WJdj9k",
   "tracks": [
     {
       "added_at": "2024-08-12 17:57:17",
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/2BI6KD4uL19vAqbUs76EpF"
     },
     {
+      "added_at": "2024-09-01 15:01:44",
+      "album": {
+        "name": "Tu Te Vas",
+        "url": "https://open.spotify.com/album/6Wl9NMhu7szXfbjJSB9YO0"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Laeti",
+          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
+        }
+      ],
+      "duration_ms": 205839,
+      "name": "Tu Te Vas",
+      "url": "https://open.spotify.com/track/369f9Gi3CcBouwL49C8HZx"
+    },
+    {
       "added_at": "2024-07-11 04:26:46",
       "album": {
         "name": "Summer Song",
@@ -239,6 +259,38 @@
       "duration_ms": 355733,
       "name": "Don't Get Me Started",
       "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
+    },
+    {
+      "added_at": "2024-09-01 14:53:02",
+      "album": {
+        "name": "Wild God",
+        "url": "https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Song Of The Lake",
+      "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
+    },
+    {
+      "added_at": "2024-09-01 14:53:02",
+      "album": {
+        "name": "Always a Stranger",
+        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+      },
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+        }
+      ],
+      "duration_ms": 357901,
+      "name": "Always a Stranger",
+      "url": "https://open.spotify.com/track/4kdL2AM5Smw3eTrVeefwlz"
     },
     {
       "added_at": "2024-08-16 19:15:20",
@@ -573,38 +625,6 @@
       "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
     },
     {
-      "added_at": "2024-06-21 15:02:14",
-      "album": {
-        "name": "Faust",
-        "url": "https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "Faust",
-      "url": "https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs"
-    },
-    {
-      "added_at": "2024-06-24 14:24:49",
-      "album": {
-        "name": "Los manantiales",
-        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
-      },
-      "artists": [
-        {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
-        }
-      ],
-      "duration_ms": 183900,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH"
-    },
-    {
       "added_at": "2024-07-18 21:55:58",
       "album": {
         "name": "Taste The Air (Julia Holter Mix)",
@@ -731,26 +751,6 @@
       "duration_ms": 286350,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/23OSfYuny7LLnWHtWVV3bs"
-    },
-    {
-      "added_at": "2024-06-18 16:28:48",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 202648,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "added_at": "2024-08-16 19:25:03",

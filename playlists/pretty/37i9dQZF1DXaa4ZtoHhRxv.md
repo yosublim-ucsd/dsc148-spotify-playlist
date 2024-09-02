@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,478 likes - 175 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,503 likes - 175 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 102 | [Waitin' on 5 \- Summer Jam Mix](https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Waitin' on 5 \(Summer Jam Mix\)](https://open.spotify.com/album/1qpUQmzdGhpUwYbeeVTlW9) | 2:44 |
 | 103 | [Tequila Does \- Remix](https://open.spotify.com/track/5OAR2NIvwDJ5QAmrJYgGv5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Tequila Does \(Remix\)](https://open.spotify.com/album/34IfaAv6R5zmpjLQhzlwIh) | 3:29 |
 | 104 | [Head Over Boots \- Cahill Remix](https://open.spotify.com/track/493j3Kgwyj10g5KAOVDtuF) | [Phil Dust](https://open.spotify.com/artist/3QjqGZ3r7sMq8XHsRbFU5U), [Jaron Strom](https://open.spotify.com/artist/6Hm2cThGavZW4kAWpYzfWP), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Head Over Boots \(Cahill Remix\)](https://open.spotify.com/album/3mwB1cyeK7t6OKgw2gBm5L) | 3:06 |
-| 105 | [New York at Night \- Remix](https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [New York at Night \(Remix\)](https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T) | 3:04 |
+| 105 | [New York at Night \- Remix](https://open.spotify.com/track/59wIRZMCUccEB0Piht3s2b) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [New York at Night \- Remix](https://open.spotify.com/album/3JHR6aJYnspcmiai6MZe7T) | 3:04 |
 | 106 | [Do Si Do](https://open.spotify.com/track/0lXjag7QhbY2UQdbKKLpQR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Do Si Do](https://open.spotify.com/album/2X1iXLehHwCZsP2BXEiEGg) | 2:38 |
 | 107 | [Leave Right Now \- Martin Jensen Mix](https://open.spotify.com/track/2jfxgvlFmXQzUxTfCSEwmR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Leave Right Now \(The Remixes\)](https://open.spotify.com/album/1YEKN0Bpeo0i0coa5niw9F) | 2:41 |
 | 108 | [This Feeling](https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:17 |

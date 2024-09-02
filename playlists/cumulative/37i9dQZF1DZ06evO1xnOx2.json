@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Wasteland, Baby! (Special Edition)",
+        "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Be - Acoustic",
+      "url": "https://open.spotify.com/track/0U74q2Txx1kpyJ8iB1cFAG"
+    },
+    {
+      "album": {
         "name": "Be - Acoustic",
         "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
       },

@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba fine",
+        "url": "https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl"
+      },
+      "artists": [
+        {
+          "name": "\u65e7fine/\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)",
+          "url": "https://open.spotify.com/artist/0Sd7c2j09NBAzxKw93DXN9"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283520,
+      "name": "Genuine Revelation",
+      "url": "https://open.spotify.com/track/58IRDzby3EXJb8SUt37mMV"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 261346,
       "name": "VERMILION",
       "url": "https://open.spotify.com/track/3Bh5czKbGnsc7sudNCx2d8"

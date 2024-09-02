@@ -90,7 +90,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 145999,
       "name": "Barrios Bajos",
       "url": "https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6"
@@ -894,6 +894,28 @@
       "duration_ms": 134352,
       "name": "Jardin Verde (feat. Hijos de Garcia & Fuerza Regida)",
       "url": "https://open.spotify.com/track/10Je5SzWya58a2eTc8hQa8"
+    },
+    {
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Gabriel Silva",
+          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144900,
+      "name": "La Flechiza",
+      "url": "https://open.spotify.com/track/25uKb1KGbYRB0QXepM67Oi"
     },
     {
       "album": {

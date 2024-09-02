@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,432 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,480 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 9 | [Aqda](https://open.spotify.com/track/0R1Y0bivX5ASIh4Tiyl65w) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Aqda](https://open.spotify.com/album/78hWb6l21eCElnYPcFT6UQ) | 3:13 |
 | 10 | [Lo Aayi Baarishein](https://open.spotify.com/track/5xkNOFtqybVpHQj3Av8Cu8) | [Piyush Mehroliyaa](https://open.spotify.com/artist/5Gzv3tQFyqdp6x8OM9TMk8), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Sangita Singhh](https://open.spotify.com/artist/7F65kq27jBxkr7tLZo4Lzd) | [Lo Aayi Baarishein](https://open.spotify.com/album/2R3vIlC4Qf0KjkHMmVGIkj) | 3:33 |
 | 11 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
-| 12 | [Tera Hua](https://open.spotify.com/track/6cO6ZJNpA6W0Eu44jCegxJ) | [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Suhit Abhyankar](https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E) | [Tera Hua](https://open.spotify.com/album/5dKzMgsX8ljlhcPRvFcceS) | 3:09 |
+| 12 | [Tera Hua](https://open.spotify.com/track/6cO6ZJNpA6W0Eu44jCegxJ) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Suhit Abhyankar](https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E) | [Tera Hua](https://open.spotify.com/album/5dKzMgsX8ljlhcPRvFcceS) | 3:09 |
 | 13 | [Mitthi Zubani](https://open.spotify.com/track/7fmxDhHEBh0NWnyq0Zdhbs) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Mitthi Zubani](https://open.spotify.com/album/2ZCL7h83kq6NXO9rlZrvFB) | 3:27 |
 | 14 | [Fiza](https://open.spotify.com/track/2c48ac8gKAfOpfXVSnfKzQ) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2), [Khushi Rastogi](https://open.spotify.com/artist/3Htusc8n2LQTNbtHdTGDwA) | [Fiza](https://open.spotify.com/album/0Q0En0xu0BWTQWjRt9eQgk) | 2:40 |
 | 15 | [Lost & Found](https://open.spotify.com/track/1RiTw0VgHMdqwD9tpJhk3Q) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Lost & Found](https://open.spotify.com/album/0SXE6PNRua0kHN6kv4dD8K) | 3:09 |

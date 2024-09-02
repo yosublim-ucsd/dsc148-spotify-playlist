@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206054,
+      "name": "You're All I'll Take With Me - Live Acoustic",
+      "url": "https://open.spotify.com/track/6N6Pn9vCqy22eVaYIGlDN5"
+    },
+    {
+      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },

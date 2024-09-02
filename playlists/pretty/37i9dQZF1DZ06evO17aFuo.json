@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 287940,
+  "num_followers": 287981,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAACQ0NoWfQbwWuqQBn2Yy2eB",
+  "snapshot_id": "ZtJdAAAAAACNCRKwGGoeSjq02T2YLcDN",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "The Killing Road - Remastered 2004",
-      "url": "https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 239413,
       "name": "Return to Hangar",
       "url": "https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "The Killing Road - Remastered 2004",
+      "url": "https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5"
     },
     {
       "added_at": null,

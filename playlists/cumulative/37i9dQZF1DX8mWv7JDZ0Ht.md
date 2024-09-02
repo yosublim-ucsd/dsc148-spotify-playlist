@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Clara Valverde
 
-677 songs - 1 day 9 hr 39 min
+678 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Amor De Verão](https://open.spotify.com/track/3igf44fMAhsX23KhWq4HfN) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Amor De Verão](https://open.spotify.com/album/6RKr8YiH8S8vRiwatSS2E7) | 3:01 | 2023-12-08 | 2024-04-19 |
 | [amor desalinhado](https://open.spotify.com/track/14Y83kEVHr3ktSp2wDK7Gj) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [amor desalinhado](https://open.spotify.com/album/3elPKbmjOlzJAvwJq6KIu7) | 3:02 | 2022-06-24 | 2022-08-02 |
 | [Amor Indefinido](https://open.spotify.com/track/5mGdoYQsdHqHwV9AIbOM4w) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Tibi](https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Amor Indefinido](https://open.spotify.com/album/1ryZOT2brR6X57rSQmMAxl) | 3:03 | 2022-06-14 | 2022-06-25 |
+| [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 | 2024-09-01 |  |
 | [Amor Sem Pausa](https://open.spotify.com/track/78zJu5FmCBkPGhbHnmAL1t) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Amor Sem Pausa](https://open.spotify.com/album/4oZxaLG86xQCLLAAspN2Io) | 2:57 | 2022-12-09 | 2023-02-25 |
 | [Amores E Flores](https://open.spotify.com/track/5rRpDkzRMwGViXM0jYd5ye) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/1PlsJ3MpUgGs7AkuKymCtp) | 2:51 | 2022-05-13 | 2022-12-03 |
 | [Ana Rosa](https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2) | [NIZZ](https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Lugares](https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2) | 2:55 | 2023-08-25 | 2024-03-30 |
@@ -588,7 +589,7 @@
 | [Terminou Bem](https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Com.Fuso](https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN) | 2:49 | 2023-07-28 | 2023-10-07 |
 | [Teu Calor](https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8) | [Megic Eric](https://open.spotify.com/artist/3rFzMogFPAHD5EV57Trym9) | [Teu Calor](https://open.spotify.com/album/4bRwD7jIFJsYeG0qstycLh) | 5:02 | 2023-09-22 | 2023-11-18 |
 | [Teu Cheiro](https://open.spotify.com/track/6P3QD1WuFRk8MpFbhni3K5) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Teu Cheiro](https://open.spotify.com/album/67u19LuCCTiOg6Ig8NCF1w) | 2:03 | 2024-04-19 | 2024-05-18 |
-| [Teu Chá](https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [o futuro já está acontecendo](https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj) | 4:50 | 2024-04-12 |  |
+| [Teu Chá](https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [o futuro já está acontecendo](https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj) | 4:50 | 2024-04-12 | 2024-09-02 |
 | [Teu Céu](https://open.spotify.com/track/5WexHsvZI4jPk1cyLtjWVr) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 2:54 | 2022-05-13 | 2022-10-15 |
 | [Teu sim, mas não\. \(feat\. Pedro Calais\)](https://open.spotify.com/track/2ySHbwdxA32udzny7hlULo) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Pedro Calais](https://open.spotify.com/artist/5txRGZfNQ81RUk5G90Iqez) | [Teu sim, mas não\. \(feat\. Pedro Calais\)](https://open.spotify.com/album/6PZyMzlh4wTtUqO0NJzlUv) | 3:21 | 2022-07-01 | 2022-08-20 |
 | [teu sinal](https://open.spotify.com/track/5dOolVYZWx4APORj56Lbuw) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Las Delicias de La Abuela de Lucas](https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E) | 2:33 | 2023-09-22 | 2023-10-21 |

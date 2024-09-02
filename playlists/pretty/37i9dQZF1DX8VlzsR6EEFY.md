@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Omar Chaparro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,224 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,246 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 21 | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 |
 | 22 | [Tengo Claro](https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tengo Claro](https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr) | 3:11 |
 | 23 | [¿Qué Se Siente?](https://open.spotify.com/track/4160uHuO33PVowET0ZZfON) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [¿Qué Se Siente?](https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9) | 2:56 |
-| 24 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:43 |
+| 24 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:46 |
 | 25 | [Lejos \- En Vivo](https://open.spotify.com/track/5ApwxAEVY9BLPZ4x9KUNMF) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:27 |
 | 26 | [Ilusión 98](https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl) | [Banda Perla de Michoacan](https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf) | [Ilusión 98](https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm) | 2:42 |
 | 27 | [S.O.S](https://open.spotify.com/track/3rsbBwx4iQtmdWOIeWLNJa) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [S.O.S](https://open.spotify.com/album/1pMRvAQAizHhGOvsjO0eEv) | 2:55 |

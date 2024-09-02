@@ -2701,6 +2701,28 @@
     },
     {
       "album": {
+        "name": "Famax (Goom Gum Remix)",
+        "url": "https://open.spotify.com/album/6NaIUD5NH59gzeSYwkkI8V"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210976,
+      "name": "Famax - Goom Gum Remix",
+      "url": "https://open.spotify.com/track/3lqOtB1xXrDjBxGbiqZuP9"
+    },
+    {
+      "album": {
         "name": "Fell In Luv (Black Circle Remix)",
         "url": "https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E"
       },
@@ -4686,7 +4708,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 215003,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/3j1wd5HVTtU1osGzblz693"

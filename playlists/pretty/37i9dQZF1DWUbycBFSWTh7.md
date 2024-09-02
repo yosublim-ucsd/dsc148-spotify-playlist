@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,435 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,468 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Impressions](https://open.spotify.com/track/4FuHaBjsIZ7zYWGQdy9ruS) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Treat You Right EP](https://open.spotify.com/album/1wwzsRk2UN3nErksPX440n) | 3:33 |
-| 2 | [Glory \- Atjazz Galaxy Aart Remix Edit](https://open.spotify.com/track/7IivDejHcwBCsdZs0Ay5JY) | [Halo](https://open.spotify.com/artist/7Lj6k89X6P1R61Fcjmhewd), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Maiya](https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb) | [Glory \(Atjazz Galaxy Aart Remixes\)](https://open.spotify.com/album/3PRJIg8Ok3yB2au4vvKgfh) | 3:56 |
-| 3 | [Papertrip](https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Papertrip](https://open.spotify.com/album/3aEA4puiYaJi1ICSFF42Bu) | 6:08 |
+| 2 | [Papertrip](https://open.spotify.com/track/0z5d5d0nugKsiODYJS1tAz) | [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Papertrip](https://open.spotify.com/album/3aEA4puiYaJi1ICSFF42Bu) | 6:08 |
+| 3 | [Glory \- Atjazz Galaxy Aart Remix Edit](https://open.spotify.com/track/7IivDejHcwBCsdZs0Ay5JY) | [Halo](https://open.spotify.com/artist/7Lj6k89X6P1R61Fcjmhewd), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Maiya](https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb) | [Glory \(Atjazz Galaxy Aart Remixes\)](https://open.spotify.com/album/3PRJIg8Ok3yB2au4vvKgfh) | 3:56 |
 | 4 | [Waves](https://open.spotify.com/track/2PUIT7nqDEqV2S1qOPm9fD) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Waves](https://open.spotify.com/album/02nyDicMLxEwKmFgADipze) | 6:01 |
 | 5 | [Say Yes \(feat\. Rona Ray\) \- Jimpster Remix](https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Say Yes \(feat\. Rona Ray\) \[Jimpster Remix\]](https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt) | 4:03 |
 | 6 | [Never \- Yoruba Soul Mix](https://open.spotify.com/track/23JSgi1N6XDrJV6yntzHOK) | [Fred Everything](https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Never \(Osunlade Remixes\)](https://open.spotify.com/album/7unwGRzwPg63ACQTFrpvXs) | 6:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Call A Wave \- Tilman's Sunset Mix](https://open.spotify.com/track/5qWicSNFXBiSUmMLVbHBo7) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Call A Wave \(Tilman's Sunset Mix\)](https://open.spotify.com/album/3NJ5dcpWSfbfsORqYYM2C4) | 7:20 |
 | 100 | [How We Gonna Stop the Time \- Brijean Remix](https://open.spotify.com/track/5Ko55ikqzRbSbNfIbhF6YW) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [How We Gonna Stop the Time \(Brijean Remix\)](https://open.spotify.com/album/315WPYsYgAn5dFeih6XzCd) | 4:39 |
 
-Snapshot ID: `ZtIn0gAAAACbv3urP715NwX2d+pVknnp`
+Snapshot ID: `ZtQmDgAAAADIzrlrzLdnd3QcTjN853J3`

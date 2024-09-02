@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Amir
 
-2,771 songs - 6 day 3 hr 21 min
+2,772 songs - 6 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1530,7 +1530,7 @@
 | [London Fever](https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [London Fever](https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V) | 3:22 | 2023-06-02 | 2023-08-19 |
 | [Long feu](https://open.spotify.com/track/49bEamx2i86poxwPWGEEvX) | [Ariel](https://open.spotify.com/artist/6E8If98t7xy5cJYy4eUntD), [Poulin](https://open.spotify.com/artist/5LvMLkptn5AokNYLnahOIE) | [Chroniques souterraines](https://open.spotify.com/album/6n4envaUhjRaUQ1OhKNMpq) | 3:30 | 2022-02-11 | 2022-02-26 |
 | [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 | 2024-05-03 | 2024-06-11 |
-| [LORO PIANA](https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:00 | 2024-08-09 |  |
+| [LORO PIANA](https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:00 | 2024-08-09 | 2024-09-02 |
 | [Lose It All](https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Lose It All](https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM) | 2:54 | 2023-04-07 | 2023-04-29 |
 | [Loup blanc](https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Loup blanc](https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r) | 2:40 | 2023-03-17 | 2023-04-15 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 | 2024-01-27 |
@@ -2624,6 +2624,7 @@
 | [Vamos](https://open.spotify.com/track/5QowMIujytktMDC8pktNXH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 4:01 | 2022-07-01 | 2022-07-23 |
 | [Vampire](https://open.spotify.com/track/7Iy3isMoMHYsKPtUZdXWE6) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Vampire](https://open.spotify.com/album/1Ps1zKHpyr3X35EuxXTLXE) | 2:33 | 2023-03-10 | 2023-03-25 |
 | [VANESSA'S FIRST RAVE](https://open.spotify.com/track/3SiubxzJUUQP75qS2VGENV) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [VANESSA'S FIRST RAVE](https://open.spotify.com/album/4rIsAp0i4ogiKtPsrN8vE9) | 2:46 | 2024-05-17 | 2024-05-25 |
+| [Vanilla](https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL), [Ramos.](https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB) | [Vanilla](https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL) | 3:07 | 2024-08-30 |  |
 | [Vanille](https://open.spotify.com/track/0VGhs7p3D7aeXBcmcRWhk0) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts) | [Chansons Vivaces](https://open.spotify.com/album/0xJIHQoJ55kNq85ieK59r1) | 3:16 | 2022-11-18 | 2022-12-03 |
 | [Vanille](https://open.spotify.com/track/0xk8f8yJPn2z3H9SEcunic) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Vanille](https://open.spotify.com/album/0FkprGiBKN6MKMLXNTCSB1) | 2:57 | 2022-05-27 | 2022-06-11 |
 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 | 2022-04-22 | 2022-05-07 |

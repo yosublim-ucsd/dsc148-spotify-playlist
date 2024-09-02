@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-275 songs - 16 hr 21 min
+276 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Party President](https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Party President](https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8) | 3:07 | 2023-03-14 | 2024-07-27 |
 | [Pearl River \- Karney Remix](https://open.spotify.com/track/0vdmdIWO128POiECtp1ekv) | [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0), [Johnny Shaker](https://open.spotify.com/artist/5yOo6QU2tfEj7C8jPoMMTk), [Karney](https://open.spotify.com/artist/4IYtlYqi3daKiscEqovUTG) | [Pearl River \(Karney Remix\)](https://open.spotify.com/album/6osgX9tHLWrPo8pDIn34JK) | 3:46 | 2023-12-27 | 2024-01-12 |
 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 | 2024-01-26 |  |
-| [Perfect Harmony \- Phibes VIP](https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Perfect Harmony \(Phibes VIP\)](https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6) | 2:43 | 2024-07-25 |  |
+| [Perfect Harmony \- Phibes VIP](https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx) | [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Perfect Harmony \(Phibes VIP\)](https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6) | 2:43 | 2024-07-25 | 2024-09-02 |
 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 | 2022-09-30 | 2024-02-23 |
 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 | 2023-04-13 | 2024-06-01 |
 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 | 2022-09-30 | 2023-08-08 |
@@ -223,6 +223,7 @@
 | [Sabertooth](https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Sabertooth](https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl) | 4:26 | 2024-07-25 |  |
 | [Savage](https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Savage](https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S) | 3:24 | 2024-08-02 |  |
 | [Say My Name](https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Say My Name](https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD) | 2:39 | 2024-07-25 |  |
+| [SECRETS](https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [FORWARDS](https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4) | 4:13 | 2024-08-29 |  |
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 | 2023-07-13 |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-17 | 2024-08-03 |
 | [Shake the Foundations](https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Shake the Foundations](https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0) | 3:02 | 2023-10-06 | 2024-08-03 |

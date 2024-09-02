@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 186296,
       "name": "Anybody.. feat. \u5c0f\u888b\u6210\u5f6c",
       "url": "https://open.spotify.com/track/1VffHuaOhDoLk9PX8yaauU"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "APART",
       "url": "https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
@@ -9508,7 +9508,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 228433,
       "name": "Kid Blue",
       "url": "https://open.spotify.com/track/57vIAKd39ZR9My3ow9Jwud"
@@ -10240,7 +10240,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 249372,
       "name": "Lightness",
       "url": "https://open.spotify.com/track/0jsxoCR3pBf06LGyqaj7iH"
@@ -10598,6 +10598,24 @@
       "duration_ms": 199230,
       "name": "Love Is Money?",
       "url": "https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md"
+    },
+    {
+      "album": {
+        "name": "Electronic Phantoms",
+        "url": "https://open.spotify.com/album/0y8hFBOstlHWL97IYb1uAL"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182162,
+      "name": "Love with Phantom",
+      "url": "https://open.spotify.com/track/0F4BawcWjALvX77NEImm37"
     },
     {
       "album": {
@@ -13826,7 +13844,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 229593,
       "name": "over me",
       "url": "https://open.spotify.com/track/47uwvJLIlYwGIWVjsDFazR"
@@ -13916,7 +13934,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 199490,
       "name": "p.m.5:00",
       "url": "https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx"
@@ -17756,7 +17774,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 235931,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
@@ -21302,7 +21320,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 260388,
       "name": "will",
       "url": "https://open.spotify.com/track/7uIA62xRJFwgWZFLx7QHeu"
@@ -22801,6 +22819,24 @@
     },
     {
       "album": {
+        "name": "808:Blue",
+        "url": "https://open.spotify.com/album/2hsVf9UUHrR1DsoH7h2nwv"
+      },
+      "artists": [
+        {
+          "name": "\u3068\u304c\u308b",
+          "url": "https://open.spotify.com/artist/2xuG3xPtRmV2Vp6phWfAxZ"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225161,
+      "name": "\u304d\u307f\u306b\u9752\u3092\u3042\u3052\u308b\u306d",
+      "url": "https://open.spotify.com/track/72796JC5PQKU5niCgMWNGm"
+    },
+    {
+      "album": {
         "name": "\u3042\u3053\u304c\u308c",
         "url": "https://open.spotify.com/album/39AFfvD3CUjQR0QHK7ETWg"
       },
@@ -24063,6 +24099,24 @@
     },
     {
       "album": {
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
+    },
+    {
+      "album": {
         "name": "\u3080\u304b\u3057\u306e\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/4rBoWGol4wx5pUZ0zS2Wh3"
       },
@@ -24092,7 +24146,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 118133,
       "name": "\u3082\u3046\u3051\u3082\u3093",
       "url": "https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn"
@@ -24406,7 +24460,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 143000,
       "name": "\u30a2\u30b9\u30c6\u30ed\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2fOxIDOlP0VDatvvaRUOGz"
@@ -26532,7 +26586,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 169295,
       "name": "\u30d5\u30a1\u30f3\u30c7\u30fc\u30b7\u30e7\u30f3\u306e\u524d\u306b",
       "url": "https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy"
@@ -26756,7 +26810,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 211008,
       "name": "\u30de\u30a4\u30c7\u30a3\u30a2",
       "url": "https://open.spotify.com/track/1oItY0AjKHFSWjQbtxvrks"
@@ -27110,7 +27164,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 209454,
       "name": "\u30e9\u30d6\u30ea\u30fc\u304a\u306f\u3088\u3046\u611b\u3057\u3066\u308b\u3088\uff01",
       "url": "https://open.spotify.com/track/2XegY1XhqepwviRjnv1QNH"
@@ -28961,6 +29015,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
+    },
+    {
+      "album": {
         "name": "\u591c\u9593\u98db\u884c (HALFBY Night Breaks Re-Work)",
         "url": "https://open.spotify.com/album/2YvRimW8jLp1EtOA6rsKa3"
       },
@@ -30410,7 +30482,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 201266,
       "name": "\u65b0\u559c\u5287",
       "url": "https://open.spotify.com/track/0f1V0xG8CD5JKo7vEkJvyS"
@@ -32150,7 +32222,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 342027,
       "name": "\u76f8\u5e2d\u5c4b\u306b\u884c\u304d\u305f\u3044",
       "url": "https://open.spotify.com/track/4xRqwgsH6TQWaiAmrj2O3P"

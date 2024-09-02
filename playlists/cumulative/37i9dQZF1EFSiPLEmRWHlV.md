@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 7 hr 16 min
+126 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Sugar Lemz](https://open.spotify.com/track/2Ns9uTsZgJO1zSWqsdnCQs) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:26 | 2024-06-13 |  |
 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 | 2024-06-13 |  |
 | [Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7ungYgCb89FcPwKE3tr4fc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [More Than You'll Ever Know / Surrender \(feat\. Clementine Douglas\)](https://open.spotify.com/album/7pd9eEy552EVVqscaYry4Z) | 4:47 | 2024-06-13 |  |
-| [Take Control](https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Take Control](https://open.spotify.com/album/56tUVhEvrYo9J3lPZzTy9v) | 4:58 | 2024-08-02 |  |
+| [Take Control](https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Take Control](https://open.spotify.com/album/56tUVhEvrYo9J3lPZzTy9v) | 4:58 | 2024-08-02 | 2024-09-02 |
+| [Take Control](https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535) | 4:58 | 2024-09-01 |  |
 | [Take Control](https://open.spotify.com/track/7l9b0AZg0rgkUUsoUD0TiR) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 4:58 | 2024-06-13 | 2024-08-03 |
 | [Take It Easy](https://open.spotify.com/track/7tcHhUpBMuIqToolN3ZPD3) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Take It Easy](https://open.spotify.com/album/43bkp1b2lPlULq9vpfXNvu) | 2:20 | 2024-06-13 |  |
 | [Take My Chance](https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0) | 3:18 | 2024-06-13 |  |

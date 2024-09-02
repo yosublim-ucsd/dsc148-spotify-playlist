@@ -2230,10 +2230,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 298086,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/31733EiuBEBNhelaSW8yAI"
+    },
+    {
+      "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298086,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP"
     },
     {
       "album": {

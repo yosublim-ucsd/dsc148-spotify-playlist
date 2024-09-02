@@ -1,6 +1,6 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. The Dare ",
-  "num_followers": 162222,
+  "num_followers": 162440,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -959,6 +959,54 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
+        "name": "Room On Fire",
+        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "The End Has No End",
+      "url": "https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Y Control",
+      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -991,22 +1039,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Room On Fire",
-        "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "The End Has No End",
-      "url": "https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1019,38 +1051,6 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "Give Up",
-        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Such Great Heights",
-      "url": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Y Control",
-      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "Down the Drain",
         "url": "https://open.spotify.com/album/4VKv3mXNAsH0SLPTHiMfYd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 166530,
       "name": "Down the Drain",
       "url": "https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/5udnrY00yVUOAzupil2H56"
     },
     {
+      "added_at": "2024-08-30 04:02:36",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ"
+    },
+    {
       "added_at": "2024-08-08 16:30:14",
       "album": {
         "name": "Elephant Shell",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Partie Traumatic",
-        "url": "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
-      },
-      "artists": [
-        {
-          "name": "Black Kids",
-          "url": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "I'm Not Gonna Teach Your Boyfriend How to Dance with You",
-      "url": "https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
         "name": "I Can Change",
         "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 331525,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
+    },
+    {
+      "added_at": "2024-08-08 16:30:14",
+      "album": {
+        "name": "Partie Traumatic",
+        "url": "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
+      },
+      "artists": [
+        {
+          "name": "Black Kids",
+          "url": "https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "I'm Not Gonna Teach Your Boyfriend How to Dance with You",
+      "url": "https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1423,6 +1439,22 @@
       "duration_ms": 465333,
       "name": "Paris - Aeroplane Remix",
       "url": "https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP"
+    },
+    {
+      "added_at": "2024-08-30 04:02:36",
+      "album": {
+        "name": "Crystal Breath",
+        "url": "https://open.spotify.com/album/1CCdbTlll95A1LYyBQyq9S"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "duration_ms": 207016,
+      "name": "Crystal Breath",
+      "url": "https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87"
     },
     {
       "added_at": "2024-08-08 16:30:14",
@@ -1589,22 +1621,6 @@
       "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
     },
     {
-      "added_at": "2024-08-30 04:02:36",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ"
-    },
-    {
       "added_at": "2024-08-08 16:30:14",
       "album": {
         "name": "B/E/A/T/B/O/X",
@@ -1635,22 +1651,6 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
-    },
-    {
-      "added_at": "2024-08-08 16:30:14",
-      "album": {
-        "name": "Mickey Avalon",
-        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
-      },
-      "artists": [
-        {
-          "name": "Mickey Avalon",
-          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Jane Fonda",
-      "url": "https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w"
     }
   ],
   "unique_name": "Indie Sleaze",

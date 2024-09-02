@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 26 min
+74 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,13 +72,14 @@
 | [The Desolate One](https://open.spotify.com/track/7dSANKxf0vVbUEVFqea5Uv) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [SPARE THE ROD, SPOIL THE CHILD](https://open.spotify.com/album/53fyaQZoh6R4iElw2Uv1jZ) | 2:39 | 2023-12-13 | 2024-08-06 |
 | [The Irishman](https://open.spotify.com/track/7M70IhOS0zNCXWCjPjwiPR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 2:02 | 2023-12-13 | 2024-01-31 |
 | [The Reaper's Hood](https://open.spotify.com/track/5Sd2MOkV1pCorwKiiFsEFF) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/3RWpDwnprPbQqoUkEIObp6) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 2:21 | 2023-12-13 |  |
+| [The Reaper's Hood Remix](https://open.spotify.com/track/0AioKbKSmGVyhyqbXEM8b4) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:09 | 2024-09-02 |  |
 | [The Shocker](https://open.spotify.com/track/6r9ZDxL5ioMRrrSaBO5seN) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:40 | 2024-08-30 |  |
 | [They Live](https://open.spotify.com/track/7hVW06FEfif7tkvc7viAKs) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Directors Cut 4](https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY) | 4:14 | 2023-12-13 | 2024-08-22 |
 | [True Religion](https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 2:35 | 2024-07-03 |  |
 | [War Dogs](https://open.spotify.com/track/0jpjz8LG1lUH1VVLBPvuPQ) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J) | [Directors Cut 4](https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY) | 2:55 | 2023-12-13 | 2024-08-23 |
 | [Wit out a Question](https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:26 | 2023-12-13 |  |
 | [Wolfing Down](https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:15 | 2023-12-13 |  |
-| [YOD Body](https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:48 | 2024-04-15 |  |
+| [YOD Body](https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:48 | 2024-04-15 | 2024-09-02 |
 | [You Ain't No Menace](https://open.spotify.com/track/1CzgJLPQmVCnCxtprKmKgA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:14 | 2024-02-29 | 2024-05-04 |
 | [Yzerman](https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:42 | 2023-12-13 |  |
 

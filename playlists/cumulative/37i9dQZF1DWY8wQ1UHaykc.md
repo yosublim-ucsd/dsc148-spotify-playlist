@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Vierra
 
-171 songs - 11 hr 42 min
+173 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 | 2024-01-05 |  |
 | [I Heart You](https://open.spotify.com/track/4zhGJ84SHwua3pzJ1WkNtA) | [SMASH](https://open.spotify.com/artist/1x5dGP91xs8B6VCi80SlQF) | [Senyum Semangat](https://open.spotify.com/album/41Cz2ED5W95kU1m7SuCWTF) | 3:20 | 2024-04-19 |  |
 | [I Heart You](https://open.spotify.com/track/78rsxJsbBtWtTcCwgJqoA3) | [SMASH](https://open.spotify.com/artist/1x5dGP91xs8B6VCi80SlQF) | [Senyum Semangat](https://open.spotify.com/album/7nnmhFkm8eqY4d8wAhhjom) | 3:20 | 2024-01-05 | 2024-04-19 |
+| [Jadilah Legenda](https://open.spotify.com/track/1zpocf8I1zsBso2C4Uv9CA) | [Superman Is Dead](https://open.spotify.com/artist/3rfoqUCU1swxeUghdDj3lt) | [Sunset di Tanah Anarki](https://open.spotify.com/album/71s6wJeCnUerZjBbodaKVy) | 5:00 | 2024-09-01 |  |
 | [Jaga Slalu Hatimu](https://open.spotify.com/track/3YZQseFqB5LVy9VcfVv7dp) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:45 | 2024-01-05 |  |
 | [Jagalah Bumi \- Theme from BoBoiBoy](https://open.spotify.com/track/0RrC5CXcqEBnIBzfSpqjTX) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Jagalah Bumi \(Theme from BoBoiBoy\)](https://open.spotify.com/album/230j6Xor4akHOqicAtj83V) | 2:29 | 2024-01-05 |  |
 | [Jalanmu Bukan Jalanku](https://open.spotify.com/track/2DrlC7LtDvr1LWxOPFcxMo) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Love, Faith & Hope](https://open.spotify.com/album/6WL8evGdQW3Z209facKSGG) | 3:47 | 2024-01-05 | 2024-04-19 |
@@ -131,6 +132,7 @@
 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 | 2024-01-05 |  |
 | [Seandainya](https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz) | 4:23 | 2024-07-18 |  |
 | [Sebuah Rasa \- Remastered 2024](https://open.spotify.com/track/3gZAtOwiKO0PnUYn1zrUjI) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Agnes Monica \(Remastered 2024\)](https://open.spotify.com/album/3sXoFCzCXy1JfzHAXIf4OA) | 4:11 | 2024-07-04 |  |
+| [Sedang Mikirin Kamu](https://open.spotify.com/track/5HPiaCZAvLHGpGX4OBzwpM) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:10 | 2024-09-01 |  |
 | [Sekuat Hatimu](https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:43 | 2024-01-05 |  |
 | [Selalu CInta](https://open.spotify.com/track/0GDxhBE0Sq0Dq8y4JE2SDC) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Energi \(Repackaged\)](https://open.spotify.com/album/7sCAI9ZywmCxWa03pMyXWy) | 4:43 | 2024-07-19 |  |
 | [Selir Hati](https://open.spotify.com/track/44jm7VMs3gZlzZMnwa3Wt3) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:04 | 2024-01-05 |  |

@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 142400,
       "name": "1...2...3 Intro (Funk)",
       "url": "https://open.spotify.com/track/7eCsmRcWfsX98qkHhIiCCu"
@@ -1459,7 +1459,7 @@
     },
     {
       "album": {
-        "name": "Embaixador Ac\u00fastico",
+        "name": "Embaixador Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q"
       },
       "artists": [
@@ -1470,9 +1470,9 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 201557,
-      "name": "A Noite (La Notte)",
+      "name": "A Noite (La Notte) - Ao Vivo",
       "url": "https://open.spotify.com/track/2D0C1CYWKdyau002ZtcTHW"
     },
     {
@@ -7036,7 +7036,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -14424,7 +14424,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 536711,
       "name": "Disbica",
       "url": "https://open.spotify.com/track/1ujVxK6XMYLr9p4IPwRG2q"
@@ -20319,6 +20319,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
+    },
+    {
+      "album": {
         "name": "Fode Bem",
         "url": "https://open.spotify.com/album/2Sky04WIU47r6SZ4AGGOzE"
       },
@@ -22605,6 +22623,24 @@
     },
     {
       "album": {
+        "name": "Himitsu da yo",
+        "url": "https://open.spotify.com/album/5frK5ka3NhmhxH6c2OFSzf"
+      },
+      "artists": [
+        {
+          "name": "Tuzera",
+          "url": "https://open.spotify.com/artist/3s0liW6FMQi0jZ3cHpU2pU"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137125,
+      "name": "Himitsu da yo",
+      "url": "https://open.spotify.com/track/0wZ7IfQGUGrUkK9bYB3xJo"
+    },
+    {
+      "album": {
         "name": "PLAYGROUND i",
         "url": "https://open.spotify.com/album/127WeAaWlJD82kEATMeQua"
       },
@@ -22620,7 +22656,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 137142,
       "name": "Himitsu da yo",
       "url": "https://open.spotify.com/track/0AaKGNMnqyRf8xZSWE9m3X"
@@ -35008,6 +35044,24 @@
       "duration_ms": 167131,
       "name": "Ningu\u00e9m \u00e9 Igual a Ela",
       "url": "https://open.spotify.com/track/6845Ghai5zpbQw2r8xHcMk"
+    },
+    {
+      "album": {
+        "name": "No Campo Belo N\u00f3s \u00c9 o Coment\u00e1rio Delas",
+        "url": "https://open.spotify.com/album/3Ai3Ax9GEXqgjkokFso5kp"
+      },
+      "artists": [
+        {
+          "name": "DJ BILHA DO CAMPO BELO",
+          "url": "https://open.spotify.com/artist/1GRzZ41yd0wyidvu0rv7JK"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99857,
+      "name": "No Campo Belo N\u00f3s \u00c9 o Coment\u00e1rio Delas",
+      "url": "https://open.spotify.com/track/5jJ8m6NnrXAqOOs5pECssS"
     },
     {
       "album": {

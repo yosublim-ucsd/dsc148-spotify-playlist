@@ -1,12 +1,12 @@
 {
-  "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 658913,
+  "description": "This Is The Doors. Los temas esenciales, todos en una lista.",
+  "num_followers": 658989,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAAAKmHcsug0ez8H4Xz05T3Po",
+  "snapshot_id": "ZtJdAAAAAAB+L8udtGK+XNVyMcGrEYkH",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 152000,
-      "name": "The Crystal Ship",
-      "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
+      "duration_ms": 213000,
+      "name": "Soul Kitchen",
+      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Soul Kitchen",
-      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
+      "duration_ms": 152000,
+      "name": "The Crystal Ship",
+      "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1047988,
+  "num_followers": 1048058,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -159,38 +175,6 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -207,6 +191,38 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "hotline (edit)",
+        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 60719,
+      "name": "hotline (edit)",
+      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -259,22 +275,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
-        "name": "hotline (edit)",
-        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 60719,
-      "name": "hotline (edit)",
-      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 183586,
       "name": "would've been you",
       "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Billie Bossa Nova",
-      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
         "name": "Ocean Girl",
         "url": "https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 250625,
       "name": "Ocean Girl",
       "url": "https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
-        "name": "when i close my eyes",
-        "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 226117,
-      "name": "when i close my eyes",
-      "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
         "name": "Ha Ha Heartbreak",
         "url": "https://open.spotify.com/album/6LuOPb9O7o8nrUvARf1SDb"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 337700,
       "name": "When I Am With You",
       "url": "https://open.spotify.com/track/1lRyZDsGGOm8fFRhaz0un4"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
+        "name": "when i close my eyes",
+        "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 226117,
+      "name": "when i close my eyes",
+      "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
     },
     {
       "added_at": "2024-08-23 08:50:31",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-08-23 08:50:31",
       "album": {
+        "name": "Stand up and Dance",
+        "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
+      },
+      "artists": [
+        {
+          "name": "Sweetlemon",
+          "url": "https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stand up and Dance",
+      "url": "https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx"
+    },
+    {
+      "added_at": "2024-08-23 08:50:31",
+      "album": {
         "name": "Superbloodmoon (feat. d4vd)",
         "url": "https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
-    },
-    {
-      "added_at": "2024-08-23 08:50:31",
-      "album": {
-        "name": "Stand up and Dance",
-        "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
-      },
-      "artists": [
-        {
-          "name": "Sweetlemon",
-          "url": "https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stand up and Dance",
-      "url": "https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx"
     }
   ],
   "unique_name": "Sommer Chillout",

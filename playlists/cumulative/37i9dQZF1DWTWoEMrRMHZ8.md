@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Chico Chico
 
-770 songs - 1 day 21 hr 10 min
+771 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Alma do Rio](https://open.spotify.com/track/4mhGat3U3yLyuWrn8lzz8p) | [Oswaldo Montenegro](https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV) | [A Alma do Rio](https://open.spotify.com/album/1c8C2ySygExIqIjSrUISYp) | 2:55 | 2022-08-11 | 2022-08-20 |
 | [A arte de não morrer](https://open.spotify.com/track/491TwNe5sWUi1fSXmRAJIw) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg) | [A Arte de Não Morrer](https://open.spotify.com/album/6b6EFmzBxSfWfrvCW6lJxs) | 3:44 | 2023-03-24 | 2023-05-13 |
 | [A Bela é a Fera](https://open.spotify.com/track/5ih4tXFZQWtshcsRmpKljo) | [Mãeana](https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE), [Tainá](https://open.spotify.com/artist/1y3yZ6EkHPMyEOFTGl2TNT), [Tori](https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS) | [A Bela é a Fera](https://open.spotify.com/album/3v2NIqWIvTDOKl59wX9Eip) | 3:33 | 2023-04-28 | 2023-05-13 |
+| [A Calma Acalma](https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4) | [JØY Brandt](https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk) | [A Calma Acalma](https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c) | 3:17 | 2024-09-01 |  |
 | [A Chave](https://open.spotify.com/track/3zyGnvvjexBjoE2Q8K0uMh) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma](https://open.spotify.com/album/1oCCHl2dwVAXtODMA14oDZ) | 4:27 | 2024-07-26 |  |
 | [A Chuva Sem Gal](https://open.spotify.com/track/51n8FkiDdHnpdCpWceridp) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [A Chuva Sem Gal](https://open.spotify.com/album/6wLGkIhbIdCXVxUSMwQCxx) | 3:44 | 2022-12-24 | 2023-01-14 |
 | [A Dança \- Ao Vivo](https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Dança \- Ao Vivo](https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg) | 4:03 | 2024-08-23 |  |
@@ -327,7 +328,7 @@
 | [Jovens, fantasmas e dinheiro](https://open.spotify.com/track/2HEc23zuux0neUHUZTShS9) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m) | [Jovens, fantasmas e dinheiro](https://open.spotify.com/album/61Fhk7mWilI50sCIF5jkOf) | 1:59 | 2024-07-19 | 2024-08-17 |
 | [Juventude Transviada](https://open.spotify.com/track/2tbfaB6mHxcD4LVhII9DpW) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Elza Soares & João de Aquino](https://open.spotify.com/album/4sxsOQFTDRQZJFSe5mC6HD) | 3:44 | 2021-12-24 | 2022-02-11 |
 | [Já ouviu falar de amor?](https://open.spotify.com/track/0PaiJtDAhfzqZUgn7JciNa) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 3:48 | 2023-02-08 | 2023-03-12 |
-| [Jão](https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs) | [MOMO.](https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM) | [Jão](https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1) | 5:00 | 2024-07-05 |  |
+| [Jão](https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs) | [MOMO.](https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM) | [Jão](https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1) | 5:00 | 2024-07-05 | 2024-09-02 |
 | [Kairós](https://open.spotify.com/track/4P0ZsjJXXzlLKuADwwSkhg) | [Cris Romagna](https://open.spotify.com/artist/4ITd00e5r2QhotcIdfNMRW) | [Tempo](https://open.spotify.com/album/5KhiPFt2FWi3vreX4eysW6) | 2:45 | 2022-04-01 | 2022-04-09 |
 | [Laca Espanada](https://open.spotify.com/track/0nKVYP8Uo8ZpqkHQARMJCg) | [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Romulo Fróes](https://open.spotify.com/artist/30kRBDfEZayOrfaYBQIYsO), [Ana Passarinho](https://open.spotify.com/artist/7w6s1HEdJD3cWTRuucgSXt) | [Laca Espanada](https://open.spotify.com/album/6ysmTjpKKHAqDkmZRti1qF) | 3:07 | 2022-02-01 | 2022-02-28 |
 | [Ladainha](https://open.spotify.com/track/7LbvwlzPwrhsbm1es6oH3i) | [Mussa](https://open.spotify.com/artist/3mFXJf8IVbVSptWAN0Mi3A) | [Ladainha](https://open.spotify.com/album/2vPfO1Kb8GTaTLk6NmA6jE) | 2:29 | 2022-01-21 | 2022-04-29 |

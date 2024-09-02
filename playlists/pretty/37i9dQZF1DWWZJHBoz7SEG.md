@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Vamos a empezar el Viernes con el pie derecho con música nueva, con Grupo Marca Registrada al frente! 🫡
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,063 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,176 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 6 | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Cielo Eterno \- Spotify Singles](https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme) | 4:04 |
 | 7 | [El Prostipirugolfo](https://open.spotify.com/track/5PjCEIQEt2fwWj50xxrGTh) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [El Prostipirugolfo](https://open.spotify.com/album/73Pms7dFxAOsqEx8t1IxoW) | 2:37 |
 | 8 | [Sangre Potosina](https://open.spotify.com/track/5erCcQWsyLw84cPDKQCls4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Del Norte](https://open.spotify.com/album/7enZWFv7Rg26LhC5LF8j7o) | 3:38 |
-| 9 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:43 |
+| 9 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:46 |
 | 10 | [El César del Box](https://open.spotify.com/track/3PpuxkmoZvGOZlpHVcniAN) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El César del Box](https://open.spotify.com/album/2YtpAqof3gNVQKA35PyKt1) | 3:42 |
 | 11 | [Vivo a Mi Modo](https://open.spotify.com/track/7aEy3Bm9PCsH9obDPkCGaN) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Vivo a Mi Modo](https://open.spotify.com/album/7xYLrO5jFTLofRjpRgG3vl) | 2:24 |
 | 12 | [Grecia](https://open.spotify.com/track/4QAnf806tToaBuvbiv69X5) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Grecia](https://open.spotify.com/album/6e8pv6FfghnBltcOz0cg0C) | 3:43 |

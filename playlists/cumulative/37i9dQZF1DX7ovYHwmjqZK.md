@@ -4,13 +4,13 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-151 songs - 8 hr 59 min
+152 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Banca do Distinto](https://open.spotify.com/track/7kM9MuAIlRY3h0I8JnO68F) | [Walker Lahmann](https://open.spotify.com/artist/6n4Y9KIPs6AwSlQFZCbz6R), [Elias Jó](https://open.spotify.com/artist/2fIx5rLrOMvwKnxaTEKz8D), [Vando Lucena](https://open.spotify.com/artist/6b0UwUQQ1rh3OlKPtkpe69) | [A Banca do Distinto](https://open.spotify.com/album/5xWkhmNrlCtTfj8BOSSClj) | 2:32 | 2021-11-26 |  |
 | [A Day in the Life](https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 | 2024-08-09 |  |
-| [A Maçã](https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA) | [Carlos Buzelin](https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB) | [A Maçã](https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H) | 5:00 | 2021-11-26 |  |
+| [A Maçã](https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA) | [Carlos Buzelin](https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB) | [A Maçã](https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H) | 5:00 | 2021-11-26 | 2024-09-02 |
 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 | 2024-03-08 |  |
 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 | 2021-11-26 |  |
 | [A Sombra do Meu Chapéu](https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn) | [Rua das Pretas](https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj), [Pierre Aderne](https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z), [Nani Medeiros](https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z) | [Um Copo de Fado, Dois de Bossa Nova](https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG) | 5:02 | 2021-11-26 |  |
@@ -155,6 +155,7 @@
 | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-14 |  |
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2021-11-26 |  |
 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 | 2021-11-26 |  |
+| [Você Não](https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A) | [Jana Andrade](https://open.spotify.com/artist/110kMQksFS986W3yIbKozG), [Pedro Palma](https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI) | [Você Não](https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v) | 2:55 | 2024-09-01 |  |
 | [Zum Zum](https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Zum Zum](https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ) | 2:59 | 2021-11-26 |  |
 | [É Preciso Dizer Adeus](https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Edu & Tom, Tom & Edu](https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm) | 4:17 | 2021-11-26 |  |
 | [Índia \- Tarde de Sol](https://open.spotify.com/track/4WJdUncyLVGd2I4lyuAYB0) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [Salsa & The City](https://open.spotify.com/album/5x02IvX7PjTtJLSFDnzxhC) | 3:08 | 2022-10-14 | 2022-11-13 |

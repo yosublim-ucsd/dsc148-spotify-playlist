@@ -1,12 +1,12 @@
 {
-  "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 77153,
+  "description": "This is Elliott Smith. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 77168,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAADQMa1v9JOg2H/PUj1utxpM",
+  "snapshot_id": "ZtJdAAAAAABoB5Si8rgvO8njRRim8bO9",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 147240,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
+      "duration_ms": 84013,
+      "name": "Untitled Guitar Finger Picking - Demo",
+      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Adores You Soundtrack",
-        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 84013,
-      "name": "Untitled Guitar Finger Picking - Demo",
-      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
+      "duration_ms": 147240,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
     },
     {
       "added_at": null,

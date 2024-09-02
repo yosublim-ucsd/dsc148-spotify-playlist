@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 569086,
+  "num_followers": 569160,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAADTgBXKJA5IzKxoswsOlSif",
+  "snapshot_id": "ZtJdAAAAAAD8LgEd9mnJBs3KRsadRrdw",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 270386,
-      "name": "SING",
-      "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
+      "duration_ms": 246760,
+      "name": "Planetary (GO!)",
+      "url": "https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Planetary (GO!)",
-      "url": "https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo"
+      "duration_ms": 270386,
+      "name": "SING",
+      "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Dance Chill](https://open.spotify.com/playlist/37i9dQZF1DX6Z0nWFAx7KL)
 
-> You can dance or chill.
+> easy and breezy
 
 255 songs - 12 hr 50 min
 

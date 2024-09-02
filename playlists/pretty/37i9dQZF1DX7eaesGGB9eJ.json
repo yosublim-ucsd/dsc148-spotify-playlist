@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 243190,
+  "num_followers": 243263,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 209146,
       "name": "Ma\u00f1anero",
       "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Deja V\u00fa",
         "url": "https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd"
       },
@@ -351,34 +367,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+        "name": "Si Ladran No Muerden",
+        "url": "https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "El Chivo",
+          "url": "https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7"
         }
       ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "La Sangre Nunca Muere",
-        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "La Sangre Nunca Muere",
-      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
+      "duration_ms": 266946,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Si Ladran No Muerden",
-        "url": "https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J"
-      },
-      "artists": [
-        {
-          "name": "El Chivo",
-          "url": "https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Que Me Entierren Con La Banda",
-      "url": "https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "La Plaga (Digitally Remastered Remix)",
         "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
       },
@@ -427,6 +411,38 @@
       "duration_ms": 227000,
       "name": "La Plaga (Digitally Remastered Remix)",
       "url": "https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "La Sangre Nunca Muere",
+        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "La Sangre Nunca Muere",
+      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Hey Si Me Ven",
+      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -463,22 +479,6 @@
       "duration_ms": 195520,
       "name": "Soy",
       "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Hey Si Me Ven",
-      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "004",
+      "url": "https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Rompe con To'",
         "url": "https://open.spotify.com/album/25Q6BFGBSIBd4G5PZT1JIL"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 179600,
       "name": "Rompe con To'",
       "url": "https://open.spotify.com/track/5LBLIFUeUUUq9Rf4r5ekAU"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "004",
-      "url": "https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah"
     },
     {
       "added_at": "2024-07-12 18:14:48",

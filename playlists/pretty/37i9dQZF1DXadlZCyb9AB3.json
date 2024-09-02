@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 176638,
+  "num_followers": 176723,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Beg For The Torture",
-        "url": "https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 85476,
-      "name": "Beg For The Torture",
-      "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 193373,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Beg For The Torture",
+        "url": "https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 85476,
+      "name": "Beg For The Torture",
+      "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Pottymouth",
-        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 91600,
-      "name": "Bitch Theme",
-      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Nemesisters",
         "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Pottymouth",
+        "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 91600,
+      "name": "Bitch Theme",
+      "url": "https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -487,22 +487,6 @@
       "duration_ms": 143666,
       "name": "50ft Queenie",
       "url": "https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -535,6 +519,22 @@
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -699,38 +699,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Ladies, Women and Girls",
-        "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 146946,
-      "name": "Eating Toothpaste",
-      "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Fontanelle",
-        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Handsome & Gretel",
-      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Feel Your Feelings Fool!",
         "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 157933,
       "name": "A Living Human Girl",
       "url": "https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Ladies, Women and Girls",
+        "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 146946,
+      "name": "Eating Toothpaste",
+      "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Fontanelle",
+        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Handsome & Gretel",
+      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Dry",
         "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "No One's Little Girl",
+      "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Silence Yourself",
         "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
       },
@@ -807,6 +823,22 @@
       "duration_ms": 170133,
       "name": "Husbands",
       "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Luxury Problem",
+        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
+      },
+      "artists": [
+        {
+          "name": "Lunachicks",
+          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Bad Ass Bitch",
+      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -839,38 +871,6 @@
       "duration_ms": 195155,
       "name": "Make America Great Again",
       "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Luxury Problem",
-        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
-      },
-      "artists": [
-        {
-          "name": "Lunachicks",
-          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Bad Ass Bitch",
-      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "No One's Little Girl",
-      "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 59400,
       "name": "My Baby (Axe Nice)",
       "url": "https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Hello Sir",
         "url": "https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 85493,
       "name": "Kung Fu on the Internet",
       "url": "https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Germ Free Adolescents: The Anthology",
-        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Oh Bondage! Up Yours!",
-      "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Cold Cold Hearts",
         "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 197226,
       "name": "Cute Boy Discount",
       "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Oh Bondage! Up Yours!",
+      "url": "https://open.spotify.com/track/7weMJXfu8leOPWd4COj2Qp"
     },
     {
       "added_at": "2024-07-22 20:24:37",

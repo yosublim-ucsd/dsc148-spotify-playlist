@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-447 songs - 1 day 15 hr 26 min
+448 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Fader](https://open.spotify.com/track/0nXB7YWrra82OKeTa6PVWq) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV) | [Fader](https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU) | 6:13 | 2022-04-15 | 2022-06-18 |
 | [Fairytale \- Radio Edit](https://open.spotify.com/track/3WXPhg7PtSheH2ZYzWBKTu) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fairytale](https://open.spotify.com/album/1rVQFmcx7jkCkTeVby9j7k) | 2:58 | 2022-04-15 | 2022-06-17 |
 | [Fall to the Call](https://open.spotify.com/track/4diYc4BmafdpQiixJ6zVBI) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r), [Brialmont](https://open.spotify.com/artist/3dzz9iCVPDr0hGs8DlNMOb) | [Fall to the Call](https://open.spotify.com/album/4Sz3dvn14AvFdvb50AZMXM) | 4:08 | 2022-04-15 | 2022-06-23 |
+| [Famax \- Goom Gum Remix](https://open.spotify.com/track/3lqOtB1xXrDjBxGbiqZuP9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Famax \(Goom Gum Remix\)](https://open.spotify.com/album/6NaIUD5NH59gzeSYwkkI8V) | 3:30 | 2024-08-30 |  |
 | [Fell In Luv \- Black Circle Remix](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Fell In Luv \(Black Circle Remix\)](https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E) | 4:21 | 2024-04-25 |  |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-15 | 2022-07-29 |
 | [Filter Force](https://open.spotify.com/track/0ZauCDu6zhBfbqG7qgDvRg) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [Rave the Planet: Supporter Series, Vol\. 008](https://open.spotify.com/album/1LJtdrIJGhXJp6Rz4Cn6lD) | 7:23 | 2022-04-15 | 2022-07-07 |
@@ -239,7 +240,7 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-06-24 | 2024-03-08 |
 | [Losing Control](https://open.spotify.com/track/0Ab9Mj7laZ4wz2ZeDfudBa) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Losing Control](https://open.spotify.com/album/4sIQ5ZhDMCg9ytxnHmWiAw) | 3:02 | 2022-04-15 | 2022-04-21 |
 | [Lost Connection](https://open.spotify.com/track/457J6aXUGeqeNXTqyxMRpZ) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Incrust EP](https://open.spotify.com/album/6mQn6wroVCHNMaQmaz0LOA) | 7:05 | 2022-06-24 | 2022-07-26 |
-| [Lost Control](https://open.spotify.com/track/3j1wd5HVTtU1osGzblz693) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Lost Control EP](https://open.spotify.com/album/1YPywDiKG4uzkaTmlAFArC) | 3:35 | 2024-07-08 |  |
+| [Lost Control](https://open.spotify.com/track/3j1wd5HVTtU1osGzblz693) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Lost Control EP](https://open.spotify.com/album/1YPywDiKG4uzkaTmlAFArC) | 3:35 | 2024-07-08 | 2024-09-02 |
 | [Love Ain't Over \- Gerd Janson Remix](https://open.spotify.com/track/3KU7S29UbwE9TwN86cV1yg) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Love Ain't Over \(Gerd Janson Remix\)](https://open.spotify.com/album/1hdehNKSIbU6MFiyoapqPS) | 6:22 | 2022-04-15 | 2022-04-21 |
 | [Love Is What](https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Love Is What](https://open.spotify.com/album/7IcQpBQ9z1iIlfCfTWBbOn) | 6:07 | 2022-06-17 | 2023-11-16 |
 | [Love Will Set U Free](https://open.spotify.com/track/60XMrQr1Q54t9F7obw4cul) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH) | 5:07 | 2022-04-15 | 2022-11-20 |

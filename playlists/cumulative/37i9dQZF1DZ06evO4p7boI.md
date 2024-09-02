@@ -2,7 +2,7 @@
 
 ### [This Is NAV](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4p7boI)
 
-> This is NAV\. The essential tracks, all in one playlist.
+> This Is NAV\. Les titres incontournables, réunis dans une seule et même playlist.
 
 63 songs - 3 hr 15 min
 

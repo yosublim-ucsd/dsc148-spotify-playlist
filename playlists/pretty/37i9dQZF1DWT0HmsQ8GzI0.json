@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Malurid\u00e9, Mark Zentai",
-  "num_followers": 13528,
+  "num_followers": 13530,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "FELDOBOM A K\u00d6VET",
-        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
+        "name": "F\u00c9NY",
+        "url": "https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1"
       },
       "artists": [
         {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
         }
       ],
-      "duration_ms": 311000,
-      "name": "FELDOBOM A K\u00d6VET",
-      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
+      "duration_ms": 147200,
+      "name": "F\u00c9NY",
+      "url": "https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "MAG\u00c1NY\u00d6L\u0150",
-        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
+        "name": "FELDOBOM A K\u00d6VET",
+        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
       },
       "artists": [
         {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
         }
       ],
-      "duration_ms": 182000,
-      "name": "MAG\u00c1NY\u00d6L\u0150",
-      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
+      "duration_ms": 311000,
+      "name": "FELDOBOM A K\u00d6VET",
+      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "F\u00c9NY",
-        "url": "https://open.spotify.com/album/1CF9ITmETDPTrpmK4VHgL1"
+        "name": "MAG\u00c1NY\u00d6L\u0150",
+        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
       },
       "artists": [
         {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
         }
       ],
-      "duration_ms": 147200,
-      "name": "F\u00c9NY",
-      "url": "https://open.spotify.com/track/1khOPJl7h5jFsAiifMOK6p"
+      "duration_ms": 182000,
+      "name": "MAG\u00c1NY\u00d6L\u0150",
+      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
+      },
+      "artists": [
+        {
+          "name": "Ivan & The Parazol",
+          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Holnapt\u00f3l",
         "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 127885,
       "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
       "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/3flCGlR7kuf0lXQaly9I1w"
-      },
-      "artists": [
-        {
-          "name": "Ivan & The Parazol",
-          "url": "https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/6OGUMF9e9yLyIYCwu3jAC5"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "n\u00e9ha-n\u00e9ha",
         "url": "https://open.spotify.com/album/4ozadBudxjgvEmKraTBPi8"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
-      },
-      "artists": [
-        {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Ugyanitt v\u00e1rlak",
         "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 197500,
       "name": "Ugyanitt v\u00e1rlak",
       "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Soha",
+        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Soha",
+      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -683,22 +699,6 @@
       "duration_ms": 164705,
       "name": "Legszebb Hib\u00e1nk",
       "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Soha",
-        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Soha",
-      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
-      },
-      "artists": [
-        {
-          "name": "Kov\u00e1cs Harmat",
-          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Szeressetek",
         "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "K\u00e9s\u0151 Van",
-        "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/0BTUhr3dSFmyNRMxmOZVSO"
       },
       "artists": [
         {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+          "name": "Kov\u00e1cs Harmat",
+          "url": "https://open.spotify.com/artist/4phC473Kwy8WUJcxdWFXZ4"
         }
       ],
-      "duration_ms": 156038,
-      "name": "K\u00e9s\u0151 Van",
-      "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
+      "duration_ms": 141666,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/4090q3mHZqadwUt75u0WV3"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 176000,
       "name": "Napf\u00e9ny",
       "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "K\u00e9s\u0151 Van",
+        "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "K\u00e9s\u0151 Van",
+      "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Egy popzen\u00e9sz nyara",
         "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 105000,
       "name": "Egy popzen\u00e9sz nyara",
       "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+        }
+      ],
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "vir\u00e1gb\u00f3l",
-        "url": "https://open.spotify.com/album/4UPdTbyA3t4kVMRjswZQfu"
-      },
-      "artists": [
-        {
-          "name": "MARGE",
-          "url": "https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "vir\u00e1gb\u00f3l",
-      "url": "https://open.spotify.com/track/44FjOOWwLHhMcVeyqPrcbr"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "b\u00fajj hozz\u00e1m",
         "url": "https://open.spotify.com/album/66i9I2BocGO3p0yrVlRTqn"
       },
@@ -1043,22 +1027,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Megbolond\u00edtott\u00e1l",
-        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 198665,
-      "name": "Megbolond\u00edtott\u00e1l",
-      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Cloudy Skies",
         "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
       },
@@ -1079,18 +1047,34 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Huszonegy",
-        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
+        "name": "Megbolond\u00edtott\u00e1l",
+        "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
       },
       "artists": [
         {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
         }
       ],
-      "duration_ms": 170719,
-      "name": "Huszonegy",
-      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
+      "duration_ms": 198665,
+      "name": "Megbolond\u00edtott\u00e1l",
+      "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "vir\u00e1gb\u00f3l",
+        "url": "https://open.spotify.com/album/4UPdTbyA3t4kVMRjswZQfu"
+      },
+      "artists": [
+        {
+          "name": "MARGE",
+          "url": "https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "vir\u00e1gb\u00f3l",
+      "url": "https://open.spotify.com/track/44FjOOWwLHhMcVeyqPrcbr"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 184000,
       "name": "beleszakad",
       "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Huszonegy",
+        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 170719,
+      "name": "Huszonegy",
+      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1143,6 +1143,30 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "CSILLAGT\u00daRA",
+        "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcller P\u00e9ter Szi\u00e1mi",
+          "url": "https://open.spotify.com/artist/1Th0eNk8SoQLogq9i4wGQ0"
+        },
+        {
+          "name": "B\u00e9RCZeSi R\u00f3BeRT",
+          "url": "https://open.spotify.com/artist/116yLVakpeArwclw9dSkJ1"
+        },
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 219474,
+      "name": "CSILLAGT\u00daRA",
+      "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "LUMBAGO",
         "url": "https://open.spotify.com/album/0FGJdGuvfObLfuALzlc7Id"
       },
@@ -1175,30 +1199,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "CSILLAGT\u00daRA",
-        "url": "https://open.spotify.com/album/2IdXSgwU1THJ65yaSh4jTF"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcller P\u00e9ter Szi\u00e1mi",
-          "url": "https://open.spotify.com/artist/1Th0eNk8SoQLogq9i4wGQ0"
-        },
-        {
-          "name": "B\u00e9RCZeSi R\u00f3BeRT",
-          "url": "https://open.spotify.com/artist/116yLVakpeArwclw9dSkJ1"
-        },
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 219474,
-      "name": "CSILLAGT\u00daRA",
-      "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Engem szeretni neh\u00e9z",
         "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "ENSO",
-        "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
-      },
-      "artists": [
-        {
-          "name": "kristoaf",
-          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "POCSOLYA",
-      "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "El\u00e9g a tenger",
         "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 207130,
       "name": "El\u00e9g a tenger",
       "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "ENSO",
+        "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
+      },
+      "artists": [
+        {
+          "name": "kristoaf",
+          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "POCSOLYA",
+      "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/04CWvThXIjo3zEPAz9ZlC5"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        }
-      ],
-      "duration_ms": 253772,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/0zLAjmn81GIXO9eDe1OVmp"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Ellensz\u00e9lben",
         "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Visszav\u00e1rsz",
-        "url": "https://open.spotify.com/album/0F9J62CdO226zPEVk7um2x"
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/04CWvThXIjo3zEPAz9ZlC5"
       },
       "artists": [
         {
-          "name": "Huzugha",
-          "url": "https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y"
+          "name": "M\u00f6rk",
+          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
         }
       ],
-      "duration_ms": 125844,
-      "name": "Visszav\u00e1rsz",
-      "url": "https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC"
+      "duration_ms": 253772,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/0zLAjmn81GIXO9eDe1OVmp"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 174545,
       "name": "Az \u00c9n Sz\u00edvem",
       "url": "https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Visszav\u00e1rsz",
+        "url": "https://open.spotify.com/album/0F9J62CdO226zPEVk7um2x"
+      },
+      "artists": [
+        {
+          "name": "Huzugha",
+          "url": "https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y"
+        }
+      ],
+      "duration_ms": 125844,
+      "name": "Visszav\u00e1rsz",
+      "url": "https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC"
     },
     {
       "added_at": "2024-08-15 22:00:00",

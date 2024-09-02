@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Walk Off the Earth & Romeo Eats
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,562 likes - 215 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,606 likes - 215 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

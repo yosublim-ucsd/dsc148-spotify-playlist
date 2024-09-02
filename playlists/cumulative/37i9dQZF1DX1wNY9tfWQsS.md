@@ -2,7 +2,7 @@
 
 ### [Women of R&B](https://open.spotify.com/playlist/37i9dQZF1DX1wNY9tfWQsS)
 
-> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: SZA and Lizzo
+> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: SZA
 
 153 songs - 9 hr 58 min
 

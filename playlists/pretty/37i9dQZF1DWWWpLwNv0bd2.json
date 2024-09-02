@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Raayan",
-  "num_followers": 92811,
+  "num_followers": 92860,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtBy2QAAAACCxbRARmCxM+S5uPt2yDg9",
+  "snapshot_id": "ZtRQ5AAAAAC6O+xjkH8fnU7iTafwloGF",
   "tracks": [
     {
       "added_at": "2024-05-24 12:56:45",
@@ -55,6 +55,30 @@
       "duration_ms": 250129,
       "name": "Spark (From \"The Greatest Of All Time\")",
       "url": "https://open.spotify.com/track/0ZBKLzSSLZ88BunaWrcKPX"
+    },
+    {
+      "added_at": "2024-09-01 11:32:52",
+      "album": {
+        "name": "Paththavaikkum (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB"
+      },
+      "artists": [
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 222165,
+      "name": "Paththavaikkum (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd"
     },
     {
       "added_at": "2024-06-22 12:54:50",
@@ -175,30 +199,6 @@
       "duration_ms": 211500,
       "name": "Pesaama Pesum Kannu - From \"Kalvan\"",
       "url": "https://open.spotify.com/track/18EZxvtfNcAu6t2i437pAd"
-    },
-    {
-      "added_at": "2024-08-05 15:54:37",
-      "album": {
-        "name": "Poruthhiru Selva (From \"Raghu Thatha\")",
-        "url": "https://open.spotify.com/album/2XdXelEJXHlDVVVWobKAD6"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Manoj Kumar Kalaivanan",
-          "url": "https://open.spotify.com/artist/33AeobQwuNEGbcr8fhVV2m"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Poruthhiru Selva (From \"Raghu Thatha\")",
-      "url": "https://open.spotify.com/track/5iO5h2B45Ta3adx9wyreXi"
     },
     {
       "added_at": "2024-04-05 09:19:53",
@@ -343,30 +343,6 @@
       "duration_ms": 205565,
       "name": "Kannadi Nilave",
       "url": "https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP"
-    },
-    {
-      "added_at": "2024-05-27 14:00:01",
-      "album": {
-        "name": "Vaada Poda (From \"Emmaku Thozhil Romance\")",
-        "url": "https://open.spotify.com/album/1S3f86IQqBwi4MB76J96kw"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Vaishali Jaishankar",
-          "url": "https://open.spotify.com/artist/2X0hRi1b1JJboBlbgHYtak"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 204123,
-      "name": "Vaada Poda - From \"Emmaku Thozhil Romance\"",
-      "url": "https://open.spotify.com/track/63qsz8oegHWiQhqnwTNVDO"
     },
     {
       "added_at": "2024-04-18 22:07:58",

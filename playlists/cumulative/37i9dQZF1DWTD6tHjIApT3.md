@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Aimer
 
-2,632 songs - 7 day 0 hr 49 min
+2,633 songs - 7 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [forgotten sun](https://open.spotify.com/track/5Pfl9hACV0IRLyptZ6Gvtx) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [forgotten sun](https://open.spotify.com/album/61EQYgQ6zz88eozjlsegGQ) | 4:11 | 2022-06-02 | 2022-07-14 |
 | [Fragile](https://open.spotify.com/track/01PfUkulXfv8lciqwwElRT) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Fragile](https://open.spotify.com/album/06rg3ryCKSOb090icMKs26) | 3:50 | 2023-10-17 | 2023-11-01 |
 | [Fragrance](https://open.spotify.com/track/3fiCK41IesZkgccQbmV7cB) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Fragrance](https://open.spotify.com/album/1I2kuxPs09qF1fL99Erygu) | 3:15 | 2023-09-19 | 2023-09-27 |
-| [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-03-19 |  |
+| [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-03-19 | 2024-09-02 |
 | [Free Free Free](https://open.spotify.com/track/0cGlG9r39bvpKz9VU8IQao) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Lilas Ikuta](https://open.spotify.com/artist/7lmMXFuKXhwQQB8QDno8mc) | [Free Free Free](https://open.spotify.com/album/3tTuUhsbHbu5XAwkhz82Yc) | 4:14 | 2022-07-28 | 2022-09-02 |
 | [Free Free Free \- feat.幾田りら](https://open.spotify.com/track/1yoIBbCENxL0dSkkhy88iB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Free Free Free \(feat.幾田りら\)](https://open.spotify.com/album/7nKNFCbybw9WLy5P4wGm4w) | 4:14 | 2022-07-26 | 2022-07-29 |
 | [Free Your Mind](https://open.spotify.com/track/7on614rI7Zqe4xsDmWrz6P) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Free Your Mind](https://open.spotify.com/album/218pMuuW13GItlOyN25ZdT) | 3:51 | 2022-09-06 | 2022-09-15 |
@@ -1411,6 +1411,7 @@
 | [WATER](https://open.spotify.com/track/2qDAlovRA8oQYhp8YR53CM) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [WATER](https://open.spotify.com/album/3eQb5LGFtWgPoTuNqokBui) | 3:03 | 2022-06-07 | 2022-06-29 |
 | [Water Slider](https://open.spotify.com/track/3kEaeoNZXzsbIplWnJPhv7) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [HEAT\_CZR](https://open.spotify.com/artist/5Owuz7COufyskyEz2Nc9mn) | [Water Slider](https://open.spotify.com/album/6widkMBUxkyJ7rv1rTmJBd) | 3:57 | 2022-07-21 | 2022-07-25 |
 | [watermelon \(demo\)](https://open.spotify.com/track/1Pp3YC3HtXjjFDtJedRNj3) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [watermelon \(demo\)](https://open.spotify.com/album/0aTrDi5x5rI4IU7vGW6D6y) | 1:28 | 2023-12-12 | 2023-12-20 |
+| [Wave](https://open.spotify.com/track/6FApYvz1OV0qcrhlR9h9YL) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Wave](https://open.spotify.com/album/7e50ytl8w63oodD8YLpsQy) | 3:40 | 2024-08-28 |  |
 | [Wave \(Utopia Acoustic Session Ver.\) Feat\. Kazuki Isogai](https://open.spotify.com/track/3QUiyRipjcsvyE8mPU2rF3) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Wave \(Utopia Acoustic Session Ver.\)](https://open.spotify.com/album/7snwgwAmUIVfirTwWL2CH5) | 3:38 | 2022-12-15 | 2023-01-04 |
 | [WAVE OF LUV](https://open.spotify.com/track/3Fn5clpuHqb0bTJZd9xfpo) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [WAVE OF LUV](https://open.spotify.com/album/4g7rIcO104YEdvAw3EuPuA) | 3:12 | 2022-10-25 | 2022-11-02 |
 | [Waver](https://open.spotify.com/track/74y0bBWpiyOoWsB442cniT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:30 | 2022-06-02 | 2022-07-01 |

@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Sunset di Tanah Anarki",
+        "url": "https://open.spotify.com/album/71s6wJeCnUerZjBbodaKVy"
+      },
+      "artists": [
+        {
+          "name": "Superman Is Dead",
+          "url": "https://open.spotify.com/artist/3rfoqUCU1swxeUghdDj3lt"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300893,
+      "name": "Jadilah Legenda",
+      "url": "https://open.spotify.com/track/1zpocf8I1zsBso2C4Uv9CA"
+    },
+    {
+      "album": {
         "name": "Dunia Yang Indah",
         "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
       },
@@ -2296,6 +2314,24 @@
       "duration_ms": 251746,
       "name": "Sebuah Rasa - Remastered 2024",
       "url": "https://open.spotify.com/track/3gZAtOwiKO0PnUYn1zrUjI"
+    },
+    {
+      "album": {
+        "name": "T.R.I.A.D",
+        "url": "https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY"
+      },
+      "artists": [
+        {
+          "name": "T.R.I.A.D",
+          "url": "https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Sedang Mikirin Kamu",
+      "url": "https://open.spotify.com/track/5HPiaCZAvLHGpGX4OBzwpM"
     },
     {
       "album": {

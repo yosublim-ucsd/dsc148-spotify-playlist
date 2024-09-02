@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-225 songs - 11 hr 44 min
+226 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Harps of Refinement](https://open.spotify.com/track/7rmtLLMsb4zKZbs8m4TBFs) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harps of Refinement](https://open.spotify.com/album/24rrR09ppuyoNWgKwGRP4J) | 3:00 | 2024-07-18 |  |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2023-02-17 |  |
 | [Healing Serenade](https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Lotus Garden & Healing Serenade](https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ) | 3:02 | 2023-08-02 |  |
-| [Healing Solfeggio 528 Hz](https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Healing Solfeggio 528 Hz](https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf) | 2:34 | 2023-12-15 |  |
+| [Healing Solfeggio 528 Hz](https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Healing Solfeggio 528 Hz](https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf) | 2:34 | 2023-12-15 | 2024-09-02 |
 | [Healing Winds](https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds](https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ) | 3:02 | 2024-07-18 |  |
 | [In Everness](https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [In Everness](https://open.spotify.com/album/3askarTMsTIOOiFy338QD0) | 3:25 | 2023-05-19 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2023-02-17 |  |
@@ -224,6 +224,7 @@
 | [Ușā Dhyāna / Dawn Meditation](https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Ușā Dhyāna](https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt) | 2:38 | 2023-09-25 | 2024-07-19 |
 | [Vents Calmes](https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg) | [Ellis Atkins](https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL) | [Vents Calmes](https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22) | 2:27 | 2023-08-16 |  |
 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 | 2023-02-17 |  |
+| [Viṣṇu / The Awakened One](https://open.spotify.com/track/4Hv1xig7t4bHkOQjuGFlJc) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Viṣṇu](https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY) | 2:46 | 2024-08-02 |  |
 | [Voices of Ether](https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Voices of Ether](https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE) | 2:27 | 2023-10-26 |  |
 | [Wander](https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Wander](https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY) | 3:20 | 2023-03-03 |  |
 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 | 2023-07-27 |  |

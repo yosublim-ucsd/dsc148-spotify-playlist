@@ -107,6 +107,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Live Songs",
+        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Passing Through - Live",
+      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Live Songs",
-        "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Passing Through - Live",
-      "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -215,6 +215,38 @@
       "duration_ms": 409333,
       "name": "The Future",
       "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Be for Real",
+      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 284973,
+      "name": "The Traitor",
+      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -287,22 +319,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 284973,
-      "name": "The Traitor",
-      "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Cowgirl's Prayer",
         "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
       },
@@ -315,6 +331,22 @@
       "duration_ms": 335906,
       "name": "Ballad of a Runaway Horse",
       "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -335,22 +367,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Be for Real",
-      "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo"
       },
@@ -367,6 +383,22 @@
       "duration_ms": 326684,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Bird on the Wire: The Songs of Leonard Cohen",
+        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
+      },
+      "artists": [
+        {
+          "name": "Perla Batalla",
+          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
+        }
+      ],
+      "duration_ms": 376946,
+      "name": "Ballad of the Absent Mare",
+      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -391,22 +423,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Bird on the Wire: The Songs of Leonard Cohen",
-        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
-      },
-      "artists": [
-        {
-          "name": "Perla Batalla",
-          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
-        }
-      ],
-      "duration_ms": 376946,
-      "name": "Ballad of the Absent Mare",
-      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Judy Collins Sings Leonard Cohen: Democracy",
         "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Taller Children",
         "url": "https://open.spotify.com/album/3qvwnnpiuuknpvB451r2IS"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 217440,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/0W4ALYvdQZfpiOG3wyfZ0f"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -499,38 +515,6 @@
       "duration_ms": 142262,
       "name": "One of Us Cannot Be Wrong",
       "url": "https://open.spotify.com/track/611gH5bqdrgHpNf7JkcE1V"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Dear Heather",
-        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Judy Collins Sings Leonard Cohen: Democracy",
-        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Joan of Arc",
-      "url": "https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -587,6 +571,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Judy Collins Sings Leonard Cohen: Democracy",
+        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Joan of Arc",
+      "url": "https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Queer as Folk - The Final Season",
         "url": "https://open.spotify.com/album/1MvhUanwf3vj9377tOezPi"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Judy Collins Sings Leonard Cohen: Democracy",
-        "url": "https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Priests",
-      "url": "https://open.spotify.com/track/2oSuNL0HLPFVe9VKpMVPOj"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Tower Of Song",
         "url": "https://open.spotify.com/album/1o9q9Kju40TUi39gcOzHNZ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 213019,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/0qPgVf2honwvo1D1y2yAQV"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen Songs",
+        "url": "https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j"
+      },
+      "artists": [
+        {
+          "name": "Avalanche Quartet",
+          "url": "https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd"
+        }
+      ],
+      "duration_ms": 358306,
+      "name": "Take This Waltz",
+      "url": "https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ"
     }
   ],
   "unique_name": "Leonard Cohen: Covered",

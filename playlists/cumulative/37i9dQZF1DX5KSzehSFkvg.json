@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Ya Mektoubi",
+        "url": "https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L"
+      },
+      "artists": [
+        {
+          "name": "Bilal Assarguini",
+          "url": "https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223157,
+      "name": "Ya Mektoubi",
+      "url": "https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH"
+    },
+    {
+      "album": {
         "name": "Ya Sidi Ya Baba",
         "url": "https://open.spotify.com/album/08J5WsddktM6tZvFUKx8Uj"
       },
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-02",
       "duration_ms": 246000,
       "name": "\u0645\u0633\u0631\u0627\u0631\u0629",
       "url": "https://open.spotify.com/track/1X2YrdeAORRcsgesqns9tO"

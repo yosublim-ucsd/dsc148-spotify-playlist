@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 144681,
+  "description": "This Is Grupo Niche. Los temas esenciales, todos en una lista.",
+  "num_followers": 144730,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAADpEpPqKZ9Vh6MMVM0Fmexi",
+  "snapshot_id": "ZtJdAAAAAACdAOdAYiObDCyf7Z4O61Dn",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 337866,
-      "name": "Cielo de Tambores",
-      "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
+      "duration_ms": 338964,
+      "name": "Digo Yo",
+      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Querer Es Poder",
-        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 338964,
-      "name": "Digo Yo",
-      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
+      "duration_ms": 337866,
+      "name": "Cielo de Tambores",
+      "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
       "duration_ms": 317180,
       "name": "Un Caso Social",
       "url": "https://open.spotify.com/track/5irSOlA7zXrwkJHVPgyVZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 296960,
-      "name": "Lo Bonito Y Lo Feo",
-      "url": "https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 323026,
       "name": "No Tuve A Quien Decirle Amor",
       "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 296960,
+      "name": "Lo Bonito Y Lo Feo",
+      "url": "https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7"
     },
     {
       "added_at": null,

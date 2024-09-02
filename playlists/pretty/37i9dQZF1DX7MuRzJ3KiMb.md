@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > Fortis Fortuna Adiuvat🍷¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,312 likes - 13 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,344 likes - 13 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 2 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
-| 3 | [Maledetta primavera \- 2021 Remaster](https://open.spotify.com/track/12xYwI2fztwjKRa9UcOgNz) | [Loretta Goggi](https://open.spotify.com/artist/0r310cYIlI5aMcuDTChNlO) | [Il mio prossimo amore \(2021 Remaster\)](https://open.spotify.com/album/0i5CzgqHHy4KWkaN1xR35n) | 4:12 |
-| 4 | [Casi El Paraíso](https://open.spotify.com/track/5H0OvlUIMnXy94ImiUhdG0) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Casi El Paraíso](https://open.spotify.com/album/1ijlfDH5GPqhRBDYIqZEC3) | 3:32 |
+| 3 | [Casi El Paraíso](https://open.spotify.com/track/5H0OvlUIMnXy94ImiUhdG0) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Casi El Paraíso](https://open.spotify.com/album/1ijlfDH5GPqhRBDYIqZEC3) | 3:32 |
+| 4 | [Maledetta primavera \- 2021 Remaster](https://open.spotify.com/track/12xYwI2fztwjKRa9UcOgNz) | [Loretta Goggi](https://open.spotify.com/artist/0r310cYIlI5aMcuDTChNlO) | [Il mio prossimo amore \(2021 Remaster\)](https://open.spotify.com/album/0i5CzgqHHy4KWkaN1xR35n) | 4:12 |
 | 5 | [Amore che vieni, amore che vai](https://open.spotify.com/track/526bjS1zMtGvA6KSYW1NrL) | [Ex\-Otago](https://open.spotify.com/artist/237CwiTh0USBnyLOSC3FIW) | [Amore che vieni, amore che vai](https://open.spotify.com/album/0gzV9UvKkh2gfA8rzEhNNo) | 3:19 |
 | 6 | [Amore addio](https://open.spotify.com/track/1mlY0pxOOzpZ5GEtT3GAVE) | [Brice Davoli](https://open.spotify.com/artist/27kwwOnjG09lmLHv3zle84) | [Italian Songs 2](https://open.spotify.com/album/3p22M955AkqezZkKgli8be) | 3:22 |
 | 7 | [Love on the Run](https://open.spotify.com/track/2POLNt3XiS1EZcWp9nYdNh) | [Andrei Mihai](https://open.spotify.com/artist/4eDIrn2NEJGrVqRrP2Xjgq), [Dorian Micu](https://open.spotify.com/artist/0nykcwlJAG7FbsvFgCr0g6) | [Chart Pop & Dance](https://open.spotify.com/album/7qVXO4ilWUtnnO23YQFSrK) | 3:21 |

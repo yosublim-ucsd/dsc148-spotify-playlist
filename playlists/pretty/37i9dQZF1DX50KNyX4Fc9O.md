@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,421 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,425 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 50 | [No More](https://open.spotify.com/track/3NnfH0nLJJYlXqu1NzsZ0D) | [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [LOVE](https://open.spotify.com/album/3uFUtBbdFYZy1scMZfpXzC) | 2:25 |
 | 51 | [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 |
 | 52 | [How You Like Me Now](https://open.spotify.com/track/5XMFdEsdceutSIY3L3LUut) | [Frankie Venter](https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn) | [How You Like Me Now](https://open.spotify.com/album/0y4LNch1kYUmV6NXBKYtSm) | 2:41 |
-| 53 | [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:45 |
+| 53 | [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:43 |
 | 54 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 |
 | 55 | [hollywood baby](https://open.spotify.com/track/2R0GminsvPBRxh2E2bY42N) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [hollywood baby](https://open.spotify.com/album/4VYRhzGkfj1aRCuRS4fCRr) | 3:22 |
 | 56 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |

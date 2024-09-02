@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,581 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,662 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 10 | [El AR](https://open.spotify.com/track/0pwfPUZVTtaoAK5KcMpzlr) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El AR](https://open.spotify.com/album/3zKfqgdYLNMhblsqvEgz8j) | 2:51 |
 | 11 | [Gente De Trabajo](https://open.spotify.com/track/2mEKAonomU58PwavJwYSlc) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [The Beginning](https://open.spotify.com/album/5VkepErVQUGrabLNsUPQZz) | 3:04 |
 | 12 | [ROSS](https://open.spotify.com/track/7slvlEyyBCNQYHD1HVP740) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [ROSS](https://open.spotify.com/album/4UJWBY7AQZ2HR5d87ZAtFS) | 2:57 |
-| 13 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:43 |
+| 13 | [Aqui Seguimos](https://open.spotify.com/track/0bO3Sr58orPE62EjMbRUKB) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [Aqui Seguimos](https://open.spotify.com/album/4piMnhIJFkKI1Q3XBzT0FF) | 3:46 |
 | 14 | [Rodeo Drive](https://open.spotify.com/track/36HymFB4WnuMY1VWJVG94N) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Rodeo Drive](https://open.spotify.com/album/66UxW7kvKHc1tRtjYh0j11) | 2:08 |
 | 15 | [Enamorado Estoy](https://open.spotify.com/track/2ImBvTj4CMGqi2SAAoSSGR) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Enamorado Estoy](https://open.spotify.com/album/54IZ6iltXjcMfJRZAXDIFD) | 3:30 |
 | 16 | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/track/73HYfVNW3k6xKnjYAPZcV0) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/album/2YrpJBDy0NQ9Ck6GY8FSFG) | 4:31 |

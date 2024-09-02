@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11042,
+  "num_followers": 11044,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAAB0uiLH1fWo5BgI6sOSm/Lo",
+  "snapshot_id": "ZtJdAAAAAAD+npCvVl+s73khwQ5Sr0+/",
   "tracks": [
     {
       "added_at": null,
@@ -123,30 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moonlight (The Remixes)",
-        "url": "https://open.spotify.com/album/3gmbHl9gfRU8KTOh9z26E7"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 177245,
-      "name": "When I Fall Asleep (feat. Day Wave with Jai Wolf) - Day Wave Remix",
-      "url": "https://open.spotify.com/track/17DntT7fbnEH13Ofd5bp6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "trilogy remixes",
         "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
@@ -179,6 +155,26 @@
       "duration_ms": 166400,
       "name": "Alive (Radio Edit)",
       "url": "https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I Fall Asleep (with Jai Wolf)",
+        "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 193984,
+      "name": "When I Fall Asleep (with Jai Wolf)",
+      "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
     },
     {
       "added_at": null,
@@ -598,15 +594,11 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Robokid",
-          "url": "https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3"
         }
       ],
-      "duration_ms": 270013,
-      "name": "Drowning (feat. Robokid)",
-      "url": "https://open.spotify.com/track/0eK9kkZtKmamkDs7BmLfMV"
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
     },
     {
       "added_at": null,
@@ -618,11 +610,15 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Now, Now",
+          "url": "https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3"
         }
       ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
+      "duration_ms": 283200,
+      "name": "Around The World (feat. Now, Now)",
+      "url": "https://open.spotify.com/track/41AQdsicGXQQaRZKNjIojd"
     }
   ],
   "unique_name": "This Is Jai Wolf",

@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Raghu Dixit
 
-92 songs - 6 hr 32 min
+93 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Aaj Rang Hai](https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Aaj Rang Hai](https://open.spotify.com/album/1BSSoO2kKSgWCUpXuM34tC) | 2:22 | 2023-08-10 | 2023-08-25 |
 | [Ae Re Sakhi](https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Ae Re Sakhi](https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI) | 3:42 | 2023-03-10 |  |
 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 | 2023-03-10 |  |
-| [Asadh Mein](https://open.spotify.com/track/4oYF9CjA5kaUNXtjHe6Gkd) | [Zubaan Music](https://open.spotify.com/artist/0hk5o3q3aoaTgq5RPtVYd9), [Chandan Tiwari](https://open.spotify.com/artist/1tjgaRT3lAX7OJqTrFsKN6), [Kavish Seth](https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV) | [Asadh Mein](https://open.spotify.com/album/7lU5oWhj6hJsrRGRDzHB3w) | 3:35 | 2023-03-10 |  |
+| [Asadh Mein](https://open.spotify.com/track/4oYF9CjA5kaUNXtjHe6Gkd) | [Zubaan Music](https://open.spotify.com/artist/0hk5o3q3aoaTgq5RPtVYd9), [Chandan Tiwari](https://open.spotify.com/artist/1tjgaRT3lAX7OJqTrFsKN6), [Kavish Seth](https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV) | [Asadh Mein](https://open.spotify.com/album/7lU5oWhj6hJsrRGRDzHB3w) | 3:35 | 2023-03-10 | 2024-09-02 |
 | [Banna](https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Banna](https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu) | 5:36 | 2023-05-30 | 2023-09-07 |
 | [Bayo \| Coke Studio Bharat](https://open.spotify.com/track/0tl9Sdjl9pEIhiymw1YMUy) | [Cyli Khare](https://open.spotify.com/artist/78n9RAOLkZtH6PMLf7LErN), [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M), [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Curtain Blue](https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15), [Girgaon Dhwajapathak](https://open.spotify.com/artist/3jn0g2zgPfjHKyX1fE5xsl) | [Bayo \| Coke Studio Bharat](https://open.spotify.com/album/1ILKU55wcEY2SHkDYZvuBJ) | 3:21 | 2024-08-20 |  |
 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 | 2023-03-10 |  |
@@ -41,6 +41,7 @@
 | [Jagat Mein Kaisa Nata Re](https://open.spotify.com/track/4DSJNXH2FaOGFGBaAY8e3B) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4) | [Jagat Mein Kaisa Nata Re](https://open.spotify.com/album/3F2JCrV7g0lKjurBAw9mpw) | 4:15 | 2024-06-26 |  |
 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 | 2023-03-10 | 2024-06-02 |
 | [Kaash](https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Raah\-e\-Fakira](https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v) | 3:53 | 2023-03-10 |  |
+| [Kaliya](https://open.spotify.com/track/3MnpWi9qC8vKr10HVz7Ku2) | [Paban Das Baul](https://open.spotify.com/artist/3FrGYJNQECWcYe2PMFYAgM) | [Music Of The Honey Gatherers](https://open.spotify.com/album/2GNwek98s1cDjSyWEEUoLZ) | 3:17 | 2024-08-30 |  |
 | [Karam \(Equals Sessions\)](https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG) | [Rangle Sardar](https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Karam \(Equals Sessions\) \- Single](https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ) | 4:19 | 2023-03-10 |  |
 | [Kasiyoli](https://open.spotify.com/track/6dMX9Ky6PCqtNZ6uSarXqU) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Jutimala](https://open.spotify.com/artist/2vO1IbLmGJkYK9LXFQipqP) | [Kasiyoli](https://open.spotify.com/album/3hkQpICrJkdU3eglPS2qkf) | 3:46 | 2023-05-30 | 2024-06-17 |
 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 | 2023-03-10 |  |

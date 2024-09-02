@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1386773,
+  "num_followers": 1387031,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
       "artists": [
         {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 338226,
-      "name": "Down In A Hole (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -231,6 +215,22 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 338226,
+      "name": "Down In A Hole (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 275212,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Images and Words",
         "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Far Beyond Driven",
         "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 243426,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -571,18 +587,18 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -603,22 +619,6 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Falling into Infinity",
+        "url": "https://open.spotify.com/album/2AcOiEYDeMTAzUdVLJ0DP7"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 353866,
+      "name": "Hollow Years",
+      "url": "https://open.spotify.com/track/2OwVp843CshseouYgyj75O"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Gutter Ballet (2011 Edition)",
         "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Falling into Infinity",
-        "url": "https://open.spotify.com/album/2AcOiEYDeMTAzUdVLJ0DP7"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 353866,
-      "name": "Hollow Years",
-      "url": "https://open.spotify.com/track/2OwVp843CshseouYgyj75O"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Streets - A Rock Opera (2011 Edition)",
-        "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
-      },
-      "artists": [
-        {
-          "name": "Savatage",
-          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
-        }
-      ],
-      "duration_ms": 342426,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Classic Rock",
         "url": "https://open.spotify.com/album/4m0tVQEuO296yPLtRQBOV2"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 292560,
       "name": "Winterdreams",
       "url": "https://open.spotify.com/track/2t8exWxl59Eix9hodoDmhG"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Streets - A Rock Opera (2011 Edition)",
+        "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
+      },
+      "artists": [
+        {
+          "name": "Savatage",
+          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+        }
+      ],
+      "duration_ms": 342426,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Creatures Of The Night - Remastered Version",
-        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 366106,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
       },
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Hair of the Dog",
-        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Love Hurts - Single Edit",
-      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 235066,
       "name": "In a Darkened Room",
       "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Creatures Of The Night - Remastered Version",
+        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Love Hurts - Single Edit",
+      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Golgotha",
-        "url": "https://open.spotify.com/album/37VFmeMFl6GWm9ga1AvW3Q"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 461480,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 261186,
       "name": "God Was Never on Your Side",
       "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Golgotha",
+        "url": "https://open.spotify.com/album/37VFmeMFl6GWm9ga1AvW3Q"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 461480,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/30sZ1d4G8K8RVNhz0IWgPN"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
       },
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/17AtQU2FNV14jSGpPfhejn"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Cross Road",
         "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/17AtQU2FNV14jSGpPfhejn"
     }
   ],
   "unique_name": "Heavy Ballads",

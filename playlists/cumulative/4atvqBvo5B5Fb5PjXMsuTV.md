@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Sep 22:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Sep 04:02 UTC.
 
-2,023 songs - 4 day 16 hr 12 min
+2,024 songs - 4 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1121,7 +1121,7 @@
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-05-23 | 2024-05-25 |
 | [Mixed Feelings](https://open.spotify.com/track/4yZ2j4t4tzZPIGDyeewp4V) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Mixed Feelings](https://open.spotify.com/album/4JXKS5ZDNnKbP5cCVgmaMQ) | 3:01 | 2024-05-23 | 2024-05-25 |
 | [Moist Meter](https://open.spotify.com/track/5THKP8vyJJZ5FK46y8m6rJ) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Moist Meter](https://open.spotify.com/album/5VEnSTbAuwyl5anxzB0KZD) | 2:27 | 2024-06-27 | 2024-06-29 |
-| [MOLLY](https://open.spotify.com/track/6N83IKIBZ8kTKO2ZomD6uT) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli) | [MOLLY](https://open.spotify.com/album/5n2FUdbSI4e57RbwZVUGqN) | 2:03 | 2024-08-31 |  |
+| [MOLLY](https://open.spotify.com/track/6N83IKIBZ8kTKO2ZomD6uT) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli) | [MOLLY](https://open.spotify.com/album/5n2FUdbSI4e57RbwZVUGqN) | 2:03 | 2024-08-31 | 2024-09-02 |
 | [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-16 | 2024-08-22 |
 | [MONEY, CARS & GUNS](https://open.spotify.com/track/52Tsu5tIG9hqex7aq6sKNS) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [MONEY, CARS & GUNS](https://open.spotify.com/album/6KxE293sX5Yn6aVCt8XIUS) | 2:05 | 2024-06-11 | 2024-06-13 |
 | [Monica Gives Me Lockjaw](https://open.spotify.com/track/3kvNjvINquYao4837FYoBW) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Monica Gives Me Lockjaw](https://open.spotify.com/album/3O51T0cvsgJ2AWNrSBpxgL) | 3:06 | 2024-06-26 | 2024-06-28 |
@@ -1583,6 +1583,7 @@
 | [SOS](https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [SOS](https://open.spotify.com/album/0BN0TP6joQ4n47Vx8u4gyU) | 2:02 | 2024-08-02 | 2024-08-06 |
 | [SOULSUCKER](https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SOULSUCKER](https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8) | 2:26 | 2024-05-26 | 2024-05-29 |
 | [Sour Candy \(Reimagined\)](https://open.spotify.com/track/1NJIt2Ma1YxoTQkxmWjRRg) | [Melt](https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9), [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Sour Candy \(Reimagined\)](https://open.spotify.com/album/219WaxPYiuWmoqu6kz0xa5) | 3:47 | 2024-04-27 | 2024-05-01 |
+| [Space](https://open.spotify.com/track/4lxyEdpRUVXFpJDHMrFag9) | [addie dunworth](https://open.spotify.com/artist/1G8yksGII2Hsb8tEIqD6zf) | [Space](https://open.spotify.com/album/2tCMG1koypvpSjNi1YL5Ac) | 3:16 | 2024-09-01 |  |
 | [SPECIAL](https://open.spotify.com/track/5fZUZEz2a8eGqi0Zo4FInv) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [SPECIAL](https://open.spotify.com/album/7cQIr1zjavl5A58iBKOMOC) | 2:12 | 2024-05-23 | 2024-05-25 |
 | [Spencer Needs A Ladder](https://open.spotify.com/track/74pznaCrEpgM0J9xBKjpBn) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Spencer Needs A Ladder](https://open.spotify.com/album/5p2K88MLPGIuR7wK9qs9We) | 2:41 | 2024-07-03 | 2024-07-06 |
 | [Spezial Mode](https://open.spotify.com/track/6hSNW0WbxVl6kLOXopTO5e) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Spezial Mode](https://open.spotify.com/album/4FhUA7PHsCBeFpckMJjAew) | 2:15 | 2024-08-16 | 2024-08-21 |

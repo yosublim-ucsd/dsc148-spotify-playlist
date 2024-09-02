@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue Bathing Suit",
+        "url": "https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195068,
+      "name": "Baby Blue Bathing Suit",
+      "url": "https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd"
+    },
+    {
+      "album": {
         "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
         "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
       },
@@ -302,6 +320,24 @@
       "duration_ms": 184860,
       "name": "Brainstorm",
       "url": "https://open.spotify.com/track/6O2rEuaCuz9oULfn6USRm1"
+    },
+    {
+      "album": {
+        "name": "Caught in Your Love",
+        "url": "https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138117,
+      "name": "Caught in Your Love",
+      "url": "https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370"
     },
     {
       "album": {

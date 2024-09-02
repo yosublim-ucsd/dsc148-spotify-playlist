@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,543 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,550 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [luv](https://open.spotify.com/track/196q2VK1VCn9gHMhYfaQxl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [luv](https://open.spotify.com/album/4nEWQkd2g81DTp50Z5jMCx) | 2:46 |
-| 2 | [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 |
-| 3 | [Topless](https://open.spotify.com/track/7w9I7fstsLuNRxGZBsgl63) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Jonna Fraser](https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10) | [Topless](https://open.spotify.com/album/5tPZ94MZUXLQKSF4m7AfQr) | 2:35 |
+| 1 | [Topless](https://open.spotify.com/track/7w9I7fstsLuNRxGZBsgl63) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Jonna Fraser](https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10) | [Topless](https://open.spotify.com/album/5tPZ94MZUXLQKSF4m7AfQr) | 2:35 |
+| 2 | [luv](https://open.spotify.com/track/196q2VK1VCn9gHMhYfaQxl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [luv](https://open.spotify.com/album/4nEWQkd2g81DTp50Z5jMCx) | 2:46 |
+| 3 | [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 |
 | 4 | [After Six](https://open.spotify.com/track/0QvcF7ded1Fcbs0lk4jDR4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [After Six](https://open.spotify.com/album/6NbSaBqFVpRIygXYMSMG8t) | 2:45 |
 | 5 | [Bati Sanka \(feat\. Saaff, Kempi & Tyrell\)](https://open.spotify.com/track/5VPGAximLdBE9CaZdmY8bG) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Tyrell](https://open.spotify.com/artist/17f7FSs8hywo3qdcH8ukek) | [Bati Sanka \(feat\. Saaff, Kempi & Tyrell\)](https://open.spotify.com/album/6q19LKx8Z9uIHlqZ2StsQg) | 2:07 |
 | 6 | [Deim Van Je](https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Deim Van Je](https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu) | 2:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 79 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 80 | [MOOIE LEUGEN](https://open.spotify.com/track/2PMec0qgEG1212bNx6aniG) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [MOOIE LEUGEN](https://open.spotify.com/album/0s3MLbCflRasdVSBXfAmwy) | 2:04 |
 
-Snapshot ID: `ZtDvYAAAAAClGiRgd3Z6xImsxm3H74B2`
+Snapshot ID: `ZtTj4AAAAAAd9g954UdqkBxVIJcBaqiE`
