@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Yan Yana Foto\u011fraf \u00c7ektirelim",
+        "url": "https://open.spotify.com/album/1oZlJEOEkBGW5XxiXKTfdm"
+      },
+      "artists": [
+        {
+          "name": "Nazan \u00d6ncel",
+          "url": "https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Beni Hat\u0131rla",
+      "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
+    },
+    {
+      "album": {
         "name": "Beni Her Yerden Engellemi\u015f",
         "url": "https://open.spotify.com/album/0wHn0epXv8L6GHd0l0m617"
       },
@@ -5322,7 +5340,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 157128,
       "name": "DOYAMADIM",
       "url": "https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR"
@@ -10014,7 +10032,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 135372,
       "name": "Kafam\u0131n \u0130\u00e7i",
       "url": "https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu"
@@ -15492,7 +15510,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 152438,
       "name": "Sen Kald\u0131n",
       "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"

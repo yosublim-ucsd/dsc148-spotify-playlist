@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-227 songs - 15 hr 19 min
+228 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Na Papamu Pogotti \- Hues Of Nalinakanthi](https://open.spotify.com/track/1vCsPdcBC7nwnMLtUfsVz0) | [Rijo Joseph](https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ), [Neelima P.R](https://open.spotify.com/artist/5bzK9ENPlhlg2i3r228pV2) | [Na Papamu Pogotti \- Hues Of Nalinakanthi](https://open.spotify.com/album/4UQDQM8Lk070hCHRVWhCrE) | 3:10 | 2024-07-12 |  |
 | [Naamiravil](https://open.spotify.com/track/43BgaTwtMm6CNH4b87ewOB) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Naamiravil](https://open.spotify.com/album/6RrQmFIHubqNqdrZAwmajZ) | 3:04 | 2023-11-21 | 2024-01-04 |
 | [Nada Nada](https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:04 | 2023-07-27 | 2024-06-12 |
+| [Nathune](https://open.spotify.com/track/2HcGtTLqWl7miMLKPSlGoI) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Nathune](https://open.spotify.com/album/65H3bdPm0glKN2zF1WGeEN) | 4:10 | 2024-09-02 |  |
 | [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 | 2022-11-21 |  |
 | [Ne Mathram](https://open.spotify.com/track/2UeUcMklimRzYjmpohUPWK) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9) | [Ne Mathram](https://open.spotify.com/album/1b9FDYIr9PM38BwZzd63bQ) | 3:14 | 2022-07-13 | 2023-07-28 |
 | [Ne Po](https://open.spotify.com/track/3Q1KfAc1O75K0OEX2YPI4H) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Ne Po](https://open.spotify.com/album/5RwYNI6oeKE0YGhhwM2H9X) | 2:35 | 2023-05-26 | 2023-07-28 |

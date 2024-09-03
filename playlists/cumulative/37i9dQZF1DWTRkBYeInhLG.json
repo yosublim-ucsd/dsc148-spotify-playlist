@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Manusia Paling Menyebalkan",
+        "url": "https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz"
+      },
+      "artists": [
+        {
+          "name": "BIANCADIMAS",
+          "url": "https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189917,
+      "name": "Manusia Paling Menyebalkan",
+      "url": "https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr"
+    },
+    {
+      "album": {
         "name": "Masa Depan",
         "url": "https://open.spotify.com/album/649hYz14PcCd78FLTC84mb"
       },
@@ -2362,7 +2380,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 325973,
       "name": "Satu Yang Tak Bisa Lepas",
       "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"

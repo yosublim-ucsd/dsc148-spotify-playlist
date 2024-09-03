@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 104855,
       "name": "Gotica",
       "url": "https://open.spotify.com/track/6Zs40HTLJe4AReNqOYqe4K"
@@ -4528,6 +4528,28 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "album": {
+        "name": "How Lucky We Are",
+        "url": "https://open.spotify.com/album/3uwxZPqyX8zDsToJr3v447"
+      },
+      "artists": [
+        {
+          "name": "Karis Sea",
+          "url": "https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq"
+        },
+        {
+          "name": "Billy Beat",
+          "url": "https://open.spotify.com/artist/7s89u4W02psBsJZ4EwzEW1"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "How Lucky We Are",
+      "url": "https://open.spotify.com/track/511fWfNmATpnuEjPfrVURl"
     },
     {
       "album": {

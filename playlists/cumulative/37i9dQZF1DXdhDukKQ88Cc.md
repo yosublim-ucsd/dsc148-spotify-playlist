@@ -2,7 +2,7 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den varmeste danske rap lige nu...<a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> & <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> er vaaarme 🥵
+> den bedste danske rap lige nu...<a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> & <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> er vaaarme 🥵
 
 219 songs - 9 hr 27 min
 

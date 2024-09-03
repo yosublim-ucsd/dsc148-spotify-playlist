@@ -8013,6 +8013,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30c3\u30af\u306f\u304b\u309b\u308f\u309b\u3044\u309b\u3044\u309b",
+        "url": "https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298020,
+      "name": "\u6843\u6e90\u90f7\u3068\u30bf\u30af\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq"
+    },
+    {
+      "album": {
         "name": "\u6843\u6e90\u90f7\u3068\u30bf\u30af\u30b7\u30fc",
         "url": "https://open.spotify.com/album/4iybrmDfQZUvxTweCSTLVa"
       },
@@ -8024,7 +8042,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 298253,
       "name": "\u6843\u6e90\u90f7\u3068\u30bf\u30af\u30b7\u30fc",
       "url": "https://open.spotify.com/track/2WW3SD60gBWS12cooxmfaZ"

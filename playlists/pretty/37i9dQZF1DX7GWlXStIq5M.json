@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372206,
+  "num_followers": 372211,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Calma, agora vai!",
-        "url": "https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM"
+        "name": "LolOLove (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
       },
       "artists": [
         {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 165306,
-      "name": "Calma, agora vai!",
-      "url": "https://open.spotify.com/track/1jJkZt6vUvO4z1YKqwguza"
+      "duration_ms": 160480,
+      "name": "LolOLove (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -875,42 +879,18 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "LolOLove (feat. Pabllo Vittar)",
-        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
+        "name": "Calma, agora vai!",
+        "url": "https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 160480,
-      "name": "LolOLove (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+      "duration_ms": 165306,
+      "name": "Calma, agora vai!",
+      "url": "https://open.spotify.com/track/1jJkZt6vUvO4z1YKqwguza"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -935,6 +915,26 @@
       "duration_ms": 213125,
       "name": "LOVE COMMUNITY",
       "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
+        "name": "o \u00faltimo",
+        "url": "https://open.spotify.com/album/0h7quIDwRpxnwkg8kA4OXD"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 145233,
+      "name": "o \u00faltimo",
+      "url": "https://open.spotify.com/track/0QSnslyJGNhl1kNyJeBQAa"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
         "name": "Vibezinha",
         "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 148325,
       "name": "Vibezinha",
       "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
-        "name": "o \u00faltimo",
-        "url": "https://open.spotify.com/album/0h7quIDwRpxnwkg8kA4OXD"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 145233,
-      "name": "o \u00faltimo",
-      "url": "https://open.spotify.com/track/0QSnslyJGNhl1kNyJeBQAa"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Sussurro",
-        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sussurro",
-      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
         "name": "Pra Viajar",
         "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 249489,
       "name": "Pra Viajar",
       "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "Sussurro",
+        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sussurro",
+      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
     },
     {
       "added_at": "2024-08-30 03:00:00",

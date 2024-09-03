@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 213556,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/4d97x2KkKklZZJsvtWBCn7"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 182733,
       "name": "Above All",
       "url": "https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV"
@@ -2095,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "Everything to Me",
+        "url": "https://open.spotify.com/album/7N30teik31wy52gIfitQaj"
+      },
+      "artists": [
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        },
+        {
+          "name": "Johan Christoffersson",
+          "url": "https://open.spotify.com/artist/6Ku9APa2mS57YWUvRXxx3O"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Everything to Me",
+      "url": "https://open.spotify.com/track/57AuAJhDlfOsIilDdegA4M"
+    },
+    {
+      "album": {
         "name": "Everytime We Fall",
         "url": "https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y"
       },
@@ -2675,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "I Give You My Heartache",
+        "url": "https://open.spotify.com/album/5eomsw0Mz4WqBPtPehmhQG"
+      },
+      "artists": [
+        {
+          "name": "Basinettes",
+          "url": "https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215268,
+      "name": "I Give You My Heartache",
+      "url": "https://open.spotify.com/track/60elferziKSEVbCSTQi04W"
+    },
+    {
+      "album": {
         "name": "I Hate to Say Goodbye",
         "url": "https://open.spotify.com/album/7kE0aft0tx52ddIidg6odz"
       },
@@ -3130,7 +3170,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 276366,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4"
@@ -3170,6 +3210,24 @@
       "duration_ms": 176729,
       "name": "In Another Universe",
       "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
+    },
+    {
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182667,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A"
     },
     {
       "album": {
@@ -4174,7 +4232,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 149302,
       "name": "Midnight Passion",
       "url": "https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr"
@@ -4678,7 +4736,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 193612,
       "name": "Never Gonna Be Right",
       "url": "https://open.spotify.com/track/022W2iG3WhA3fFIKGhR07y"
@@ -7508,7 +7566,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 271255,
       "name": "Wilting",
       "url": "https://open.spotify.com/track/6DrPWXPRmH6osy99X58H6K"

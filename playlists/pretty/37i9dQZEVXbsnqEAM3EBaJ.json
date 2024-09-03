@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACVA3eFMzu+gvEPd/VP2/v1",
+  "snapshot_id": "AAAAAAAAAACEHmY7WetB/NK2KFgoMbAc",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Inedito",
-        "url": "https://open.spotify.com/album/1Ool4Gnrf2orko4zlIlGhF"
+        "name": "Antiregetontos",
+        "url": "https://open.spotify.com/album/1ulDTW4oaziFjA8gvAR5ET"
       },
       "artists": [
         {
@@ -60,13 +60,25 @@
           "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
         },
         {
-          "name": "Lonely",
-          "url": "https://open.spotify.com/artist/48bfZvFKaR60HfDiBIirER"
+          "name": "S\u00e9ptimo Fragmento",
+          "url": "https://open.spotify.com/artist/7mVTQvcOBygelqrVIGOjQp"
+        },
+        {
+          "name": "Claudio Bastardo",
+          "url": "https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx"
+        },
+        {
+          "name": "Rayking",
+          "url": "https://open.spotify.com/artist/2xuAoCMVQgaNOKLML9oqD2"
+        },
+        {
+          "name": "Ducker Mafia",
+          "url": "https://open.spotify.com/artist/47zqfqVM88JStzvchnmeXk"
         }
       ],
-      "duration_ms": 289468,
-      "name": "Inedito",
-      "url": "https://open.spotify.com/track/05VIrzxtdyWwrXUApmP4Cj"
+      "duration_ms": 245260,
+      "name": "Antiregetontos",
+      "url": "https://open.spotify.com/track/0u8NYCtBveE5VKnWgbwz29"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -107,6 +119,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Thrasher (Live at The Boarding House) - from Archives. Vol III",
+        "url": "https://open.spotify.com/album/48xhkUBZZF04g3Y2gdb3RH"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 378794,
+      "name": "Thrasher - Live at The Boarding House",
+      "url": "https://open.spotify.com/track/1VtqdiYfKqYq2lvDPvrycp"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Beautiful Sounds | Deep Sleep and Complete Relaxation",
         "url": "https://open.spotify.com/album/5ju8ib7ZOapOJW1ZouKJUu"
       },
@@ -127,22 +155,6 @@
       "duration_ms": 136363,
       "name": "Fairytales Alive Again",
       "url": "https://open.spotify.com/track/0nUCTlOP2soXkyUcpzhvom"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Thrasher (Live at The Boarding House) - from Archives. Vol III",
-        "url": "https://open.spotify.com/album/48xhkUBZZF04g3Y2gdb3RH"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 378794,
-      "name": "Thrasher - Live at The Boarding House",
-      "url": "https://open.spotify.com/track/1VtqdiYfKqYq2lvDPvrycp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -496,9 +508,9 @@
           "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
         }
       ],
-      "duration_ms": 229026,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/6GtWz3PCQ12jai5htoKiQ3"
+      "duration_ms": 280560,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/7EPpqsbDMJjHf6IL0l9g3D"
     },
     {
       "added_at": "2024-08-30 04:00:00",

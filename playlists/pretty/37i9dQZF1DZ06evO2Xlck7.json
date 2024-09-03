@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3011,
+  "num_followers": 3010,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtJdAAAAAAAFQSGUVNpCIOfLyMxyg4yy",
+  "snapshot_id": "ZtOugAAAAABAlz+3gQuD5fDRhDkG15L8",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+      "duration_ms": 203466,
+      "name": "Back To Oblivion",
+      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Back To Oblivion",
-      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Two Guns To The Temple",
-      "url": "https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     }
   ],
   "unique_name": "This Is Finch",

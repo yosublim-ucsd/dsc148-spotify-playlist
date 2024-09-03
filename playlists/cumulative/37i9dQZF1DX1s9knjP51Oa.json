@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 156677,
       "name": "Apricity",
       "url": "https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug"
@@ -7099,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "Letting you Go",
+        "url": "https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Letting you Go",
+      "url": "https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q"
+    },
+    {
+      "album": {
         "name": "Libellule",
         "url": "https://open.spotify.com/album/4g0YAEbTo4dqyxkPxqRiVV"
       },
@@ -7870,7 +7888,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 143307,
       "name": "Mer de r\u00eaves",
       "url": "https://open.spotify.com/track/5hGueE5UZ2PdUI4CD75MyR"
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 132376,
       "name": "Perla",
       "url": "https://open.spotify.com/track/0kQMah3gWs9amKOblNUdx7"
@@ -12245,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "The Dusty Piano",
+        "url": "https://open.spotify.com/album/3NAU9KB0N2XwMF3rajDBwk"
+      },
+      "artists": [
+        {
+          "name": "Darkuro",
+          "url": "https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The Dusty Piano",
+      "url": "https://open.spotify.com/track/5YIDkfALnA8jNjVP5IsXt6"
+    },
+    {
+      "album": {
         "name": "The Goodbyes We Never Said",
         "url": "https://open.spotify.com/album/1gYCw9fHnyIRBpP9vkVy97"
       },
@@ -14352,6 +14388,24 @@
       "duration_ms": 127000,
       "name": "Zu Hause",
       "url": "https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x"
+    },
+    {
+      "album": {
+        "name": "\u00c9toile",
+        "url": "https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148458,
+      "name": "\u00c9toile",
+      "url": "https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-652 songs - 1 day 14 hr 54 min
+653 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Mi Luz, Mi Voz, Mi Aliada](https://open.spotify.com/track/4X8Pm0y8PiRtOXcnKUsS5Q) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Escorpiano](https://open.spotify.com/album/3KmSLiah0WThmFVfYqEyJt) | 3:44 | 2024-03-15 | 2024-06-15 |
 | [Mi Música Es Muy Triste](https://open.spotify.com/track/5dDM1BnFWoPv1PEbsUDzyc) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Mi Música Es Muy Triste](https://open.spotify.com/album/7s3WWffDU7KPxRyfpxZ7Fk) | 3:33 | 2024-02-16 | 2024-03-30 |
 | [MI NI NO VE LA](https://open.spotify.com/track/0sOxnoNEKEw7OvUyycAg8I) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ) | [MIAU](https://open.spotify.com/album/6vw7xypWjaPM6UVjwLSyap) | 3:44 | 2023-06-02 | 2023-06-24 |
+| [MI NI NO VE LA](https://open.spotify.com/track/12t4EGfAbGTxUi3nZknKrE) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ), [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [MI NI NO VE LA](https://open.spotify.com/album/0nDIRkcWI5OtkiZORvqljj) | 4:01 | 2024-08-30 |  |
 | [Mi otra mitad](https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi otra mitad](https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB) | 3:49 | 2023-02-24 | 2023-03-11 |
 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 | 2022-05-27 | 2022-11-12 |
 | [Mi Vida](https://open.spotify.com/track/1Lx4D0ktuebDP7NG5l6RLc) | [Ona Mae](https://open.spotify.com/artist/1ejRCkLEViEiClmKLL1hpk) | [Mi Vida](https://open.spotify.com/album/2NAp7j38y6ktMr6IhhPjvi) | 4:22 | 2022-05-13 | 2022-05-25 |
@@ -504,7 +505,7 @@
 | [Recordarte](https://open.spotify.com/track/2UKW3RttwFxadMfhUpFyfW) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Recordarte](https://open.spotify.com/album/4A3YmQtJWc47KCXQ5zd9KQ) | 3:40 | 2022-10-15 | 2022-11-14 |
 | [Recorrer el Mundo](https://open.spotify.com/track/0qonFOwwyYWRzsvDepp2Zb) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Recorrer el Mundo](https://open.spotify.com/album/2pzpG4epo2TUMiGwfqj7RN) | 3:11 | 2023-06-23 | 2023-07-29 |
 | [Recuérdame](https://open.spotify.com/track/7zpVwSOoFqDa1c42D6EzwF) | [Lena Carrilero](https://open.spotify.com/artist/4w7xZndYz2tIKdflbxPFu9) | [Cenizas en el aire](https://open.spotify.com/album/5wTCsh7UUqLRfH146aAgAl) | 4:38 | 2022-07-22 | 2022-07-29 |
-| [Regalizz](https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Regalizz](https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3) | 3:44 | 2024-05-30 |  |
+| [Regalizz](https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Regalizz](https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3) | 3:44 | 2024-05-30 | 2024-09-03 |
 | [Relieve](https://open.spotify.com/track/4KAWkrPuZ4bkpjS799ZHaw) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [Relieve](https://open.spotify.com/album/7i0jP7k6WFshAcXTVz8sNR) | 2:27 | 2022-07-22 | 2022-07-25 |
 | [Remanso para morrer \(con Tanxugueiras\) \- Sesiones Moraima 2](https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Remanso para morrer \(con Tanxugueiras\) \[Sesiones Moraima 2\]](https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb) | 3:06 | 2024-07-11 |  |
 | [REMOLINO](https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [ENCORE](https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6) | 4:12 | 2024-02-09 |  |

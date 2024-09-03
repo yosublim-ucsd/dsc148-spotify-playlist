@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-132 songs - 5 hr 27 min
+134 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Lassitude](https://open.spotify.com/track/3YC3J5jl254mN4yCTiZz27) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Lassitude](https://open.spotify.com/album/7KvllB6zOkX2mf0SCf9jp5) | 2:34 | 2023-05-09 |  |
 | [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 | 2024-04-03 |  |
 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 | 2024-04-19 |
+| [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 | 2024-09-02 |  |
 | [Lullaby in Ab](https://open.spotify.com/track/3aYsCuKTpXYZiWKhignTD2) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Lullaby in Ab](https://open.spotify.com/album/1Q9FZghRGWyJIlRtBy5Zn2) | 1:54 | 2023-05-09 |  |
 | [Láska nás rozdělí](https://open.spotify.com/track/3VEugG0JjifOVAc9HW8GWb) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Láska nás rozdělí](https://open.spotify.com/album/1SkusXfUiDOAA80XWU0kmE) | 1:56 | 2023-05-09 |  |
 | [Lättnad](https://open.spotify.com/track/4V5yTOr0Xit6Cc0zvAs0H3) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Lättnad](https://open.spotify.com/album/3D1oqoEKiohXiC9ZSXWufI) | 1:50 | 2023-05-09 |  |
@@ -103,6 +104,7 @@
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 |  |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |
 | [Small](https://open.spotify.com/track/0aviORRTQwOiKwtM8EX6Ep) | [Théa Allemand](https://open.spotify.com/artist/4ZnTLMnuVhamRoBXLbTO9S) | [Small](https://open.spotify.com/album/3rMGkoE0Q38xRszZD11K6F) | 3:04 | 2023-05-09 |  |
+| [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2023-05-09 |  |
 | [Solandis](https://open.spotify.com/track/3fxdFU7UuXbmos8FTVydU0) | [Maria Melua](https://open.spotify.com/artist/0ltDh2ebSVsK4Xd9wjM1L2) | [Solandis](https://open.spotify.com/album/7i2iTmTnMDyFBFBX8wEvrH) | 1:55 | 2023-05-09 |  |
 | [Sommeil du matin](https://open.spotify.com/track/48iJJJ9TGZQAbcdu5B05Xh) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [Sommeil du matin](https://open.spotify.com/album/4e3yaL5e7v46uCWo7SAqu5) | 2:29 | 2023-05-09 |  |

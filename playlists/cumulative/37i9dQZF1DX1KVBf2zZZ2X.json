@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 158490,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
@@ -3098,6 +3098,24 @@
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+    },
+    {
+      "album": {
+        "name": "Wisdom in Waves",
+        "url": "https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Wisdom in Waves",
+      "url": "https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1KVBf2zZZ2X"

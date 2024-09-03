@@ -1,12 +1,12 @@
 {
   "description": "This Is Twenty One Pilots. Los temas esenciales, todos en una lista.",
-  "num_followers": 1363406,
+  "num_followers": 1363555,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtJdAAAAAADz0pn2W6FFuoagcPiG+d16",
+  "snapshot_id": "ZtOugAAAAAB6nX8wRv4LeU1Q14jtrRxc",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
       "duration_ms": 279053,
       "name": "Johnny Boy",
       "url": "https://open.spotify.com/track/2hUFjIbpKaRqs97OjUAmXb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twenty One Pilots",
-        "url": "https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "Friend, Please",
-      "url": "https://open.spotify.com/track/6gDTyTnFxpvQtkgGuNWGbE"
     }
   ],
   "unique_name": "This Is Twenty One Pilots",

@@ -1,6 +1,6 @@
 {
   "description": "These songs will put a smile on your face.",
-  "num_followers": 591127,
+  "num_followers": 591124,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,18 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
       "artists": [
         {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -399,18 +395,22 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 236119,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Dance at the Function",
-        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
-      },
-      "artists": [
-        {
-          "name": "Amilli",
-          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
-        }
-      ],
-      "duration_ms": 205901,
-      "name": "Dance at the Function",
-      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
         "name": "Heavy Objects",
         "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 185076,
       "name": "Hole Digger",
       "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
+        "name": "Dance at the Function",
+        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        }
+      ],
+      "duration_ms": 205901,
+      "name": "Dance at the Function",
+      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
-      },
-      "artists": [
-        {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
-        }
-      ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
         "name": "Majored In Broken Hearts",
         "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 191499,
       "name": "Majored In Broken Hearts",
       "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+      },
+      "artists": [
+        {
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+        }
+      ],
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
         "name": "Raincoats",
         "url": "https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "We Wake Up In The Garden",
-        "url": "https://open.spotify.com/album/5SPss6SH1gMZH7T5KALIUx"
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
       },
       "artists": [
         {
-          "name": "Gardens of Capri",
-          "url": "https://open.spotify.com/artist/5mU6A5otqj6gJZQHuj0Rni"
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/73mJ845ZKFOlBKlu90BbBw"
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1163,6 +1147,22 @@
       "duration_ms": 213418,
       "name": "Red & Blue",
       "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
+        "name": "We Wake Up In The Garden",
+        "url": "https://open.spotify.com/album/5SPss6SH1gMZH7T5KALIUx"
+      },
+      "artists": [
+        {
+          "name": "Gardens of Capri",
+          "url": "https://open.spotify.com/artist/5mU6A5otqj6gJZQHuj0Rni"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/73mJ845ZKFOlBKlu90BbBw"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
+        "name": "Parasols",
+        "url": "https://open.spotify.com/album/0u6JSuef88Gk0cD2cKJxgF"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 199897,
+      "name": "Parasols",
+      "url": "https://open.spotify.com/track/2pbIIJf26jXuS70UbDsdD0"
+    },
+    {
+      "added_at": "2024-08-29 10:13:33",
+      "album": {
         "name": "Your Moment",
         "url": "https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 204878,
       "name": "Your Moment",
       "url": "https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL"
-    },
-    {
-      "added_at": "2024-08-29 10:13:33",
-      "album": {
-        "name": "Parasols",
-        "url": "https://open.spotify.com/album/0u6JSuef88Gk0cD2cKJxgF"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        }
-      ],
-      "duration_ms": 199897,
-      "name": "Parasols",
-      "url": "https://open.spotify.com/track/2pbIIJf26jXuS70UbDsdD0"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/17iM8xirzqQOAm4w7zZd6D"
+        "name": "Never Been To Paris",
+        "url": "https://open.spotify.com/album/2S4uiLncV1WCwLcPcDxF7t"
       },
       "artists": [
         {
-          "name": "KE\u00d8MA",
-          "url": "https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U"
+          "name": "Two Year Vacation",
+          "url": "https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ"
         }
       ],
-      "duration_ms": 186151,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6AccHVZg9yVxPv6TbEF4Lw"
+      "duration_ms": 181107,
+      "name": "Never Been To Paris",
+      "url": "https://open.spotify.com/track/0wQiELbg5RrxhoRUIxV2ZC"
     },
     {
       "added_at": "2024-08-29 10:13:33",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-08-29 10:13:33",
       "album": {
-        "name": "Never Been To Paris",
-        "url": "https://open.spotify.com/album/2S4uiLncV1WCwLcPcDxF7t"
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/17iM8xirzqQOAm4w7zZd6D"
       },
       "artists": [
         {
-          "name": "Two Year Vacation",
-          "url": "https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ"
+          "name": "KE\u00d8MA",
+          "url": "https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U"
         }
       ],
-      "duration_ms": 181107,
-      "name": "Never Been To Paris",
-      "url": "https://open.spotify.com/track/0wQiELbg5RrxhoRUIxV2ZC"
+      "duration_ms": 186151,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6AccHVZg9yVxPv6TbEF4Lw"
     },
     {
       "added_at": "2024-08-29 10:13:33",

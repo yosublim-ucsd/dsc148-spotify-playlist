@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die Playlist zur Wasserpfeife. Cover: MERO",
+  "description": "Die Playlist zur Wasserpfeife. Cover: DANO",
   "name": "Shisha Club",
   "tracks": [
     {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Ah Ah",
+        "url": "https://open.spotify.com/album/0yU2VxttAH6SkJ2jVhAJY4"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144497,
+      "name": "Ah Ah",
+      "url": "https://open.spotify.com/track/0cktMojlSyXU4tw8EdPIJ3"
+    },
+    {
+      "album": {
         "name": "Airforce",
         "url": "https://open.spotify.com/album/2FZfpEgaQCVeYLieGFVorP"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 165013,
       "name": "Airforce",
       "url": "https://open.spotify.com/track/52DjIXARE3qh096lgv77XA"
@@ -86,6 +104,24 @@
       "duration_ms": 164937,
       "name": "Alors (feat. CAPO)",
       "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+    },
+    {
+      "album": {
+        "name": "AMA DOREN",
+        "url": "https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "AMA DOREN",
+      "url": "https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY"
     },
     {
       "album": {
@@ -471,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Bogota",
+        "url": "https://open.spotify.com/album/1rvZibf8hsAYjaaGdGP82A"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Ouzzi",
+          "url": "https://open.spotify.com/artist/6msEnJb2ceDZw4GF1Z2D5o"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83335,
+      "name": "Bogota",
+      "url": "https://open.spotify.com/track/7myrIkRqw4LCMsr673ckNb"
+    },
+    {
+      "album": {
         "name": "BONITA (feat. AJ Tracey)",
         "url": "https://open.spotify.com/album/2bUmjs7QowhsDpdl8JpBZZ"
       },
@@ -795,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Race 'n' Pain",
+        "url": "https://open.spotify.com/album/5Z2VP7id6qY2xTRiJ4QTxy"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127437,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2clyzcE05jrDKpq410hcRQ"
+    },
+    {
+      "album": {
         "name": "DILEMIN",
         "url": "https://open.spotify.com/album/5AAUlDsNabwWAHMSnRQdOv"
       },
@@ -1110,6 +1186,28 @@
       "duration_ms": 189988,
       "name": "Imaginando (feat. Morad & MERO)",
       "url": "https://open.spotify.com/track/5XO5xTh36v4kdblErCUk4k"
+    },
+    {
+      "album": {
+        "name": "Island Chick",
+        "url": "https://open.spotify.com/album/1uhlZZYdp50ha43tV7PNYK"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Island Chick",
+      "url": "https://open.spotify.com/track/7pOnWrb3yXx3PeXPj2Zged"
     },
     {
       "album": {
@@ -1957,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "RiRi",
+        "url": "https://open.spotify.com/album/75BTCd10yGobKjbpLJwAh0"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "RiRi",
+      "url": "https://open.spotify.com/track/7vkMCaQtCRzXs1uKafkoUJ"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4Y17P7EwESVpNc1qR8ZQJl"
       },
@@ -2090,7 +2206,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 123428,
       "name": "sonnenschein",
       "url": "https://open.spotify.com/track/6uEZAuUuR0N1K85493kxK6"
@@ -2556,6 +2672,28 @@
       "duration_ms": 148653,
       "name": "Yugo jebe dugo",
       "url": "https://open.spotify.com/track/60slX18toWLokyfTvL4Mkz"
+    },
+    {
+      "album": {
+        "name": "Zelle",
+        "url": "https://open.spotify.com/album/0m7rVcss5XRw1b8OOHDFcU"
+      },
+      "artists": [
+        {
+          "name": "Jiyo",
+          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
+        },
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137028,
+      "name": "Zelle",
+      "url": "https://open.spotify.com/track/0MLKvQX64ZyzNkXJwQ6jZw"
     },
     {
       "album": {

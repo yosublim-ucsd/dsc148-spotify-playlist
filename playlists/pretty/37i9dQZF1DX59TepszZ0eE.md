@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=ZJvb0rUMRDW0opM01RtMAg>Joyous Celebration</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,710 likes - 103 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,801 likes - 103 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

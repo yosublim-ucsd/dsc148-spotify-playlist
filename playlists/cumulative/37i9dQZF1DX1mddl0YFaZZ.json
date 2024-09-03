@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Merengue Caliente",
+        "url": "https://open.spotify.com/album/7Ks1nJ7GJylirfhRWox5j6"
+      },
+      "artists": [
+        {
+          "name": "Merengue Latin Band",
+          "url": "https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277920,
+      "name": "El Za Za Za (La Mesa Que M\u00e1s Aplauda)",
+      "url": "https://open.spotify.com/track/3wt39jPEhxAoOyRbTKTG8O"
+    },
+    {
+      "album": {
         "name": "Siente El Amor",
         "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 272466,
       "name": "Tu Muere Aqui",
       "url": "https://open.spotify.com/track/6GhjK3Tv16mp2OJcGjMWzk"

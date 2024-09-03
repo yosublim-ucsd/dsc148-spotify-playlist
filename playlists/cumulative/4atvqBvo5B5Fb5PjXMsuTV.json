@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Sep 04:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Sep 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 196201,
       "name": "Aura Shine",
       "url": "https://open.spotify.com/track/27lnz8IAZv2SCBj5vGA5T5"
@@ -3764,7 +3764,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 156617,
       "name": "Biggie Boom Boom",
       "url": "https://open.spotify.com/track/4oW4aeRU5W6uixbb8UYxK7"
@@ -7751,6 +7751,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/6ufSIMU4eAQjkI37l8ecoO"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD"
+    },
+    {
+      "album": {
         "name": "Danimarca",
         "url": "https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA"
       },
@@ -10899,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "FAKE IDOL",
+        "url": "https://open.spotify.com/album/6it990sp2jw29IlDjFpO26"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159040,
+      "name": "FAKE IDOL",
+      "url": "https://open.spotify.com/track/4eF3keUr7n9TXSl4NaZQOS"
+    },
+    {
+      "album": {
         "name": "Fake Romantic",
         "url": "https://open.spotify.com/album/1qUP5FNKlmsHeile352WX9"
       },
@@ -11076,6 +11112,24 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/5GwlXi6YhxFM3wspppMAv5"
+    },
+    {
+      "album": {
+        "name": "TTYL",
+        "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
+      },
+      "artists": [
+        {
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89066,
+      "name": "FANATICISM",
+      "url": "https://open.spotify.com/track/2dPZRZoj6oK7FKHE6izyiG"
     },
     {
       "album": {
@@ -12034,6 +12088,24 @@
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "album": {
+        "name": "for you, patiently",
+        "url": "https://open.spotify.com/album/0RXng3RULZ67UyeINKzKD4"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203741,
+      "name": "for you, patiently",
+      "url": "https://open.spotify.com/track/2Eh0NGqMOEKmW5Zf5vtsuo"
     },
     {
       "album": {
@@ -13434,7 +13506,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 221190,
       "name": "Go Again",
       "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
@@ -14964,7 +15036,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 185600,
       "name": "Hex So Heavy",
       "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
@@ -17580,7 +17652,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 125647,
       "name": "Intergalactic Underground",
       "url": "https://open.spotify.com/track/2JYjgahgfmEB06CVtdrW7k"
@@ -20422,6 +20494,24 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "album": {
+        "name": "Made Out Of Memory",
+        "url": "https://open.spotify.com/album/1329EWe2YqVTTfdNLxVKKy"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214694,
+      "name": "Made Out Of Memory",
+      "url": "https://open.spotify.com/track/3MtYosUywchE5YIdNdg0vB"
     },
     {
       "album": {
@@ -32943,6 +33033,24 @@
     },
     {
       "album": {
+        "name": "The Disturbance",
+        "url": "https://open.spotify.com/album/4YLZmgR9t9iWccAchcdU0w"
+      },
+      "artists": [
+        {
+          "name": "Dimrain47",
+          "url": "https://open.spotify.com/artist/27IjlIOwlo59ZWM9pJq8Gv"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236564,
+      "name": "The Disturbance",
+      "url": "https://open.spotify.com/track/5djTFsJc1irDsY6cZEYGBg"
+    },
+    {
+      "album": {
         "name": "The Fences of Stonehenge",
         "url": "https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215"
       },
@@ -33608,7 +33716,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 225791,
       "name": "The Sky is Blue",
       "url": "https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga"
@@ -34148,7 +34256,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 184053,
       "name": "Tik Tok",
       "url": "https://open.spotify.com/track/1o6pmlQ7ooEFNQKLqNcvKU"
@@ -34636,6 +34744,24 @@
       "duration_ms": 142539,
       "name": "Toxins",
       "url": "https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3"
+    },
+    {
+      "album": {
+        "name": "Trashy",
+        "url": "https://open.spotify.com/album/3SxQp4N8L7KyuVEJLwjyPh"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575066,
+      "name": "Trashy",
+      "url": "https://open.spotify.com/track/7e0E5GveuHiWiwNe94MM64"
     },
     {
       "album": {
@@ -38207,6 +38333,24 @@
     },
     {
       "album": {
+        "name": "Zp\u00ed\u010denec",
+        "url": "https://open.spotify.com/album/4G0fEYLM5lVMSVk8dcMlHn"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/5dtGS8XRUIPNiCjrLngLJP"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153650,
+      "name": "Zp\u00ed\u010denec",
+      "url": "https://open.spotify.com/track/6s6ZXtqG43eZwAnTw5vW4j"
+    },
+    {
+      "album": {
         "name": "Zzz",
         "url": "https://open.spotify.com/album/6JcLuP2beGauqJtGMlcgon"
       },
@@ -38486,7 +38630,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 181948,
       "name": "\u0421\u0415\u041a\u0420\u0415\u0422\u0410\u0420\u0428\u0410",
       "url": "https://open.spotify.com/track/3cwT9c3zKuac1UjZwLBfs9"

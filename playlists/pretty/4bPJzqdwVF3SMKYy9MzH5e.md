@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,951 songs - 4 day 9 hr 4 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,953 songs - 4 day 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1959,5 +1959,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1949 | [Intoxicated \(Slowed\)](https://open.spotify.com/track/5d2ND4hQ2zyeB3UI6fhn0I) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Intoxicated \(Slowed\)](https://open.spotify.com/album/6A2tENxlWLMOfJHhJ1F149) | 2:14 |
 | 1950 | [POLSKA JUMPSTYLE](https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [POLSKA JUMPSTYLE](https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1) | 2:20 |
 | 1951 | [Paper Planes](https://open.spotify.com/track/64vv8CmBPaxya187jS6KhT) | [Voluptuöus](https://open.spotify.com/artist/0Op5CNaLTuYdXiB3rFesg8) | [Paper Planes](https://open.spotify.com/album/1aIaQoqhZhm7p4CNnPdXCQ) | 2:36 |
+| 1952 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/21cgnjk9unhXn3SBQAAaA9) | [vamp](https://open.spotify.com/artist/19pNKzmfJyEVRpDd179sNP) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/52qrtveZ7LAWg0RO1J36A8) | 1:53 |
+| 1953 | [Control](https://open.spotify.com/track/4ERLdZgnMH9rHuvt5TjGoP) | [WEB](https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3) | [Control](https://open.spotify.com/album/1brLQuH5jrdwyCklF8y4XN) | 3:35 |
 
-Snapshot ID: `AAADRUTxTpcT5Fi18jVWJs3l8hqjTj2g`
+Snapshot ID: `AAADR/NYUmaGy6yygqDfECiNfz7m/DoF`

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-388 songs - 1 day 8 hr 21 min
+389 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Clouds](https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH) | [Clouds](https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh) | 3:46 | 2022-10-14 |  |
 | [Compositions 1960: No\. 2, Build a Fire \- Arr\. for Guitar](https://open.spotify.com/track/1BLCpzbzjfBmamOS7lDHDK) | [La Monte Young](https://open.spotify.com/artist/5h2yl4fuAyztOOBgMRyQhE), [Noël Akchoté](https://open.spotify.com/artist/18zFsOC20KUzWDnvGdITar) | [La Monte Young: Compositions 1960 \(Arr\. for Guitar\)](https://open.spotify.com/album/7gqNwFODbA2GbvEJ7CCeos) | 0:39 | 2023-09-22 | 2023-10-07 |
 | [Consciousness, Pt\. 1](https://open.spotify.com/track/57AGd80DRCOzwMy7WbCq3y) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [Enter the Cosmos: Ambient Cello Meditation](https://open.spotify.com/album/3VtiBbKf131tPgqFuFXvAN) | 7:15 | 2022-11-27 | 2024-08-20 |
+| [Contours](https://open.spotify.com/track/3Ve1THBjsyIZ9JJ2sE1RQq) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Contours](https://open.spotify.com/album/7AgmO49GIQuCO5C2pKsmXm) | 4:08 | 2024-08-30 |  |
 | [Crescent](https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:51 | 2023-01-27 | 2024-04-19 |
 | [Crescent](https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Crescent](https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc) | 5:51 | 2022-08-17 | 2023-02-18 |
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 | 2023-01-21 |
@@ -194,7 +195,7 @@
 | [Loved Ones](https://open.spotify.com/track/7rteNw7alL8uZiLmtBWiAP) | [Hauschka](https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt) | [Philanthropy](https://open.spotify.com/album/0ts04BxWX0tqhE7uCSyWOp) | 3:33 | 2023-11-17 | 2024-04-19 |
 | [Loving Kindness](https://open.spotify.com/track/0dxXjGXABX6gs1svER3A6p) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Loving Kindness](https://open.spotify.com/album/079D5fH3NELsp00fmd4YIQ) | 5:17 | 2022-10-14 | 2023-06-19 |
 | [Loving Kindness](https://open.spotify.com/track/4H2RtvGCui0DIKOZ85ik4g) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Intention II](https://open.spotify.com/album/598GBCSFddK5tWVfYifnFy) | 5:17 | 2023-06-09 | 2024-04-19 |
-| [Luck \(運\)](https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:32 | 2023-06-05 |  |
+| [Luck \(運\)](https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:32 | 2023-06-05 | 2024-09-03 |
 | [Lumi](https://open.spotify.com/track/4JwgaqEc7cFmKsBxhNqRSt) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Lumi](https://open.spotify.com/album/0PaJNCdv9ME8mJkrI1OX0W) | 2:44 | 2022-08-05 |  |
 | [Luna](https://open.spotify.com/track/2xeDQzA44Pr2xq5r1C7T5m) | [Finis Africae](https://open.spotify.com/artist/7Dshl982TzDhBL4GBL4woB) | [Finis Africae](https://open.spotify.com/album/7GAkNMHcTXrtzqvRMC5oHI) | 3:08 | 2023-06-30 | 2023-07-14 |
 | [LUX 1.1](https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:42 | 2023-01-27 |  |

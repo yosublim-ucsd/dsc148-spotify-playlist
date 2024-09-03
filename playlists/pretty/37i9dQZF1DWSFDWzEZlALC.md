@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: SOFFIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,419 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,570 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [Zu viel / nicht genug](https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Zu viel / nicht genug](https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2) | 2:36 |
 | 4 | [letzter sommer](https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [letzter sommer](https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV) | 2:38 |
 | 5 | [Kind](https://open.spotify.com/track/2ijN6TEWfzlyHK8fbRvbcx) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Kind](https://open.spotify.com/album/5trcQO9w0S8auaknT2zFTI) | 2:29 |
-| 6 | [Liebe programmiert](https://open.spotify.com/track/1EbXYNG3UegZ7KmQRTkvba) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Liebe programmiert](https://open.spotify.com/album/5z6OKBlejzEUrWnvs5QSuJ) | 2:14 |
-| 7 | [Nordpol](https://open.spotify.com/track/1F74goBtiQEgPZ2kKzVTQV) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Nordpol](https://open.spotify.com/album/5ro4t98GjwISxZcRhsmqYm) | 2:17 |
-| 8 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 |
-| 9 | [Tatendrang](https://open.spotify.com/track/5JB7I9oC1BWK2FEgsL68km) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Grünlich](https://open.spotify.com/album/5laaRsOTkJsyn7uJBofZey) | 2:41 |
-| 10 | [Grau](https://open.spotify.com/track/547ANtisgBzqbywQfQBtK8) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Grau](https://open.spotify.com/album/3mtskI0keFB3wDrgicxwA6) | 2:50 |
-| 11 | [was passiert wenn die straße kommt ?](https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [was passiert wenn die straße kommt ?](https://open.spotify.com/album/1tPeUs7NBElneokQ4kAc6L) | 3:20 |
-| 12 | [Ich liebe dich für immer](https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Ich liebe dich für immer](https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R) | 2:43 |
-| 13 | [Nur Nachts](https://open.spotify.com/track/0WwPwsSDyIDU4C1WYxIKjl) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wovon träumst du eigentlich](https://open.spotify.com/album/0PiUQ1iRS2aVfLETOzw8cz) | 2:55 |
+| 6 | [Nordpol](https://open.spotify.com/track/1F74goBtiQEgPZ2kKzVTQV) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Nordpol](https://open.spotify.com/album/5ro4t98GjwISxZcRhsmqYm) | 2:17 |
+| 7 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 |
+| 8 | [was passiert wenn die straße kommt ?](https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [was passiert wenn die straße kommt ?](https://open.spotify.com/album/1tPeUs7NBElneokQ4kAc6L) | 3:20 |
+| 9 | [Nur Nachts](https://open.spotify.com/track/0WwPwsSDyIDU4C1WYxIKjl) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Wovon träumst du eigentlich](https://open.spotify.com/album/0PiUQ1iRS2aVfLETOzw8cz) | 2:55 |
+| 10 | [Liebe programmiert](https://open.spotify.com/track/1EbXYNG3UegZ7KmQRTkvba) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Liebe programmiert](https://open.spotify.com/album/5z6OKBlejzEUrWnvs5QSuJ) | 2:14 |
+| 11 | [Tatendrang](https://open.spotify.com/track/5JB7I9oC1BWK2FEgsL68km) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Grünlich](https://open.spotify.com/album/5laaRsOTkJsyn7uJBofZey) | 2:41 |
+| 12 | [Grau](https://open.spotify.com/track/547ANtisgBzqbywQfQBtK8) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Grau](https://open.spotify.com/album/3mtskI0keFB3wDrgicxwA6) | 2:50 |
+| 13 | [Ich liebe dich für immer](https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Ich liebe dich für immer](https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R) | 2:43 |
 | 14 | [charlie chaplin](https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [charlie chaplin](https://open.spotify.com/album/1S1du4ePkJQ63nv38KeH2O) | 2:54 |
 | 15 | [Marathon](https://open.spotify.com/track/3dNjDMod4qSZ1kM0QGhRc3) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Marathon](https://open.spotify.com/album/6lDGrMh75TwqSJyygAMmfB) | 2:35 |
 | 16 | [Berliner Luft](https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Berliner Luft](https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Van Gogh](https://open.spotify.com/track/3MWBw4s7TTCp6g0GDxI3LO) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Yu & Me](https://open.spotify.com/album/02z0imGAclK26oxzu2mVr1) | 2:27 |
 | 75 | [so schön rot](https://open.spotify.com/track/79crABfcQo5b1viw1gBZi5) | [Wavy](https://open.spotify.com/artist/6fo2QiffMr02sEA2aFvUIz) | [so schön rot](https://open.spotify.com/album/6uKIvRYZoxjQ4wZyJowsyn) | 2:34 |
 
-Snapshot ID: `ZtDxuAAAAACf2y9b3vldB3vLK5DnxUIz`
+Snapshot ID: `ZtV28wAAAABhKB/wAWMx/HtyEZVq72WG`

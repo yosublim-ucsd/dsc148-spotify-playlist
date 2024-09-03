@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Swedish House Mafia
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,674 likes - 144 songs - 7 hr 36 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,675 likes - 144 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

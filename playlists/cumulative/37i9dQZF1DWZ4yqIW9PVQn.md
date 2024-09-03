@@ -4,7 +4,7 @@
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-172 songs - 10 hr 22 min
+173 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Daydreaming](https://open.spotify.com/track/1hOahzGzbUO28mcIfHWhOE) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:22 | 2024-03-08 |  |
 | [Daydreaming](https://open.spotify.com/track/6xHK3zWW1AwpRQbsOuc4f0) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ryXl7IIN877fqTwfalFwT) | 3:22 | 2022-07-04 | 2024-04-19 |
 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 | 2023-11-02 |  |
+| [Do You Even Know](https://open.spotify.com/track/724T5v1fXgCalJ6nxOwuu6) | [Samson](https://open.spotify.com/artist/5NhVZeWFFcNsJFLhFyHlJN) | [Immaturity](https://open.spotify.com/album/0xP9Lq06psVsXDlidhJXJi) | 4:24 | 2024-09-02 |  |
 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 | 2022-07-04 |  |
 | [Don't Know \(Prod\. CLAZZI\)](https://open.spotify.com/track/7i2G1Vhqgzb7P0qbYkgy7j) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:31 | 2022-07-04 |  |
 | [Dreamed a dream](https://open.spotify.com/track/0tumsfaXAjtZKqF5Vi2QFH) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/4wvtBBEkkjPHfyWXPkwmF6) | 3:20 | 2022-11-01 | 2024-04-19 |

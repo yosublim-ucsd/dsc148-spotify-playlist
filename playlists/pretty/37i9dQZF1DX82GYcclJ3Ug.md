@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Orla Gartland
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,995 likes - 137 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,046 likes - 137 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

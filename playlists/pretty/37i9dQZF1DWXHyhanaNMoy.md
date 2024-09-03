@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,550 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,562 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 79 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 80 | [MOOIE LEUGEN](https://open.spotify.com/track/2PMec0qgEG1212bNx6aniG) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [MOOIE LEUGEN](https://open.spotify.com/album/0s3MLbCflRasdVSBXfAmwy) | 2:04 |
 
-Snapshot ID: `ZtTj4AAAAAAd9g954UdqkBxVIJcBaqiE`
+Snapshot ID: `ZtXuxQAAAAB9Aq1DggJbMFQBs7n5YoSv`

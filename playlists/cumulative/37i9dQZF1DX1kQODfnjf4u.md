@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Hard Rico
+> 50 nejžhavějších hitů v České republice\. Cover: Pil C, Luca Brassi10x
 
 58 songs - 2 hr 42 min
 

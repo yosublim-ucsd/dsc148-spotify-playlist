@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Incubus",
-  "num_followers": 976638,
+  "num_followers": 976598,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-08-09 15:47:46",
       "album": {
+        "name": "Neurotic (feat. Lukas Rossi)",
+        "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        },
+        {
+          "name": "Lukas Rossi",
+          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Neurotic (feat. Lukas Rossi)",
+      "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
+    },
+    {
+      "added_at": "2024-08-09 15:47:46",
+      "album": {
         "name": "ARMY OF ME",
         "url": "https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 269333,
       "name": "Fighting On - 2021 - Remaster",
       "url": "https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R"
-    },
-    {
-      "added_at": "2024-08-09 15:47:46",
-      "album": {
-        "name": "Neurotic (feat. Lukas Rossi)",
-        "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        },
-        {
-          "name": "Lukas Rossi",
-          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Neurotic (feat. Lukas Rossi)",
-      "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
     },
     {
       "added_at": "2024-08-09 15:47:46",

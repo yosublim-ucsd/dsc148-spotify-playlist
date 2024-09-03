@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Cosang in cover.
+> Rap napoletano e il meglio della scena campana\. Cover: Cosang
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,627 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,667 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 51 | [PLATA O PLOMO](https://open.spotify.com/track/3M48RdME7j6qwd3hF3wSZX) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [PLATA O PLOMO](https://open.spotify.com/album/7G3bsp51X53XzI3ydsk2Zn) | 2:16 |
 | 52 | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 |
 
-Snapshot ID: `ZtD9rAAAAAARPmP4Ng+S3X3tqxZkOTjA`
+Snapshot ID: `ZtWGiwAAAACfIewjLRc7/RFVK7t3dNg/`

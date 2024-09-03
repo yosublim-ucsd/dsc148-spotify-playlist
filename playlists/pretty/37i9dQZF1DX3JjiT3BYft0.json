@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 71928,
+  "num_followers": 71943,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,38 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Extra Volume",
+        "url": "https://open.spotify.com/album/5hmfbNP9yxbvxdw2v7YoNP"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "\u541b\u306e\u795e\u69d8\u306b\u306a\u308a\u305f\u3044\u3002 - Cover",
+      "url": "https://open.spotify.com/track/0m2SawnqPGhNnzGtHfUtUs"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
         "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
       },
@@ -671,22 +703,6 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
-        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Extra Volume",
-        "url": "https://open.spotify.com/album/5hmfbNP9yxbvxdw2v7YoNP"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "\u541b\u306e\u795e\u69d8\u306b\u306a\u308a\u305f\u3044\u3002 - Cover",
-      "url": "https://open.spotify.com/track/0m2SawnqPGhNnzGtHfUtUs"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
         "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
         "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 233960,
       "name": "YAPPY! SCHOOL CARNIVAL\u2606\u5f61",
       "url": "https://open.spotify.com/track/1vpQNpxodWPEL69zLaCVAw"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
-        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 322546,
-      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
-        "name": "\u30ad\u30df\u304c\u3044\u306a\u304f\u3061\u3083\u3063!",
-        "url": "https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
+        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
       },
       "artists": [
         {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
         }
       ],
-      "duration_ms": 233633,
-      "name": "\u308f\u3061\u3083\uff65\u3082\u3061\u3083\uff65\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
-      "url": "https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE"
+      "duration_ms": 322546,
+      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
-        "url": "https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG"
+        "name": "\u30ad\u30df\u304c\u3044\u306a\u304f\u3061\u3083\u3063!",
+        "url": "https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T"
       },
       "artists": [
         {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 235426,
-      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
-      "url": "https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR"
+      "duration_ms": 233633,
+      "name": "\u308f\u3061\u3083\uff65\u3082\u3061\u3083\uff65\u307a\u3063\u305f\u3093\u884c\u9032\u66f2",
+      "url": "https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
+        "url": "https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG"
       },
       "artists": [
         {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
+      "duration_ms": 235426,
+      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
+      "url": "https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -923,22 +923,6 @@
       "duration_ms": 239533,
       "name": "\u30d1\u30c3\u30d1\u30ec\u2606\u4eba\u751f\uff01\u30d0\u30fc\u30f3\u4e07\u6b73\uff01",
       "url": "https://open.spotify.com/track/6WV66ZeRZ7nAGKYKjjaBQX"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
-        "name": "\u306b\u3053\u00d7\u306b\u3053=\u30cf\u30a4\u30d1\u30fc\u30b9\u30de\u30a4\u30eb\u30d1\u30ef\u30fc!",
-        "url": "https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "\u304a\u3082\u3044\u3067\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-07-23 15:00:00",
       "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
         "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
         "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 175033,
       "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
       "url": "https://open.spotify.com/track/0qwLal0qRdLuLlCpbCJabF"
+    },
+    {
+      "added_at": "2024-07-23 15:00:00",
+      "album": {
+        "name": "\u306b\u3053\u00d7\u306b\u3053=\u30cf\u30a4\u30d1\u30fc\u30b9\u30de\u30a4\u30eb\u30d1\u30ef\u30fc!",
+        "url": "https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "\u304a\u3082\u3044\u3067\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -1080,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
         }
       ],
-      "duration_ms": 249146,
-      "name": "\u3069\u304d\u3069\u304dSING OUT!",
-      "url": "https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g"
+      "duration_ms": 232266,
+      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/2yVV8WMakahuVZ4SJjQUSI"
     },
     {
       "added_at": "2024-07-23 15:00:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 304693,
       "name": "Yes! BanG_Dream! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2XVzZxfLb4unbJBM9pzK1x"
-    },
-    {
-      "added_at": "2024-07-23 15:00:00",
-      "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm"
-      },
-      "artists": [
-        {
-          "name": "\u6238\u5c71\u9999\u6f84(CAST:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/2yVV8WMakahuVZ4SJjQUSI"
     },
     {
       "added_at": "2024-07-23 15:00:00",

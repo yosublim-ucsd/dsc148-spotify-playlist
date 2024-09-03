@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Contours",
+        "url": "https://open.spotify.com/album/7AgmO49GIQuCO5C2pKsmXm"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248164,
+      "name": "Contours",
+      "url": "https://open.spotify.com/track/3Ve1THBjsyIZ9JJ2sE1RQq"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
       },
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 272695,
       "name": "Luck (\u904b)",
       "url": "https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM"

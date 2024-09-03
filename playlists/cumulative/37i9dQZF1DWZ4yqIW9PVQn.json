@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Immaturity",
+        "url": "https://open.spotify.com/album/0xP9Lq06psVsXDlidhJXJi"
+      },
+      "artists": [
+        {
+          "name": "Samson",
+          "url": "https://open.spotify.com/artist/5NhVZeWFFcNsJFLhFyHlJN"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264970,
+      "name": "Do You Even Know",
+      "url": "https://open.spotify.com/track/724T5v1fXgCalJ6nxOwuu6"
+    },
+    {
+      "album": {
         "name": "Do you want to hear",
         "url": "https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5"
       },

@@ -2,7 +2,7 @@
 
 ### [Blijf Luisteren!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste en nieuwste liedjes van het moment\. Cover: Chris Stapleton & Dua Lipa
+> De mooiste en nieuwste liedjes van het moment\. Cover: Racoon
 
 475 songs - 1 day 3 hr 22 min
 

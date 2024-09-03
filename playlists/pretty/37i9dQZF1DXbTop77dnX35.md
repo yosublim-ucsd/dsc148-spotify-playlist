@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Fireboy DML and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,985 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,103 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 29 | [RUSH](https://open.spotify.com/track/5wi7vm5xrCWLObJIvMIffN) | [Governor of Africa](https://open.spotify.com/artist/6Xz5j8cYgffRFaB1fC8sri), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO) | [RUSH](https://open.spotify.com/album/7gdBI5uiC8CxqTkTn47Nts) | 2:16 |
 | 30 | [MissTape Vol 1.](https://open.spotify.com/track/2c068yK4p50ICiqT0aILt4) | [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [MissTape Vol 1.](https://open.spotify.com/album/33BHCzEiTZb4UbAlTRQOXv) | 1:44 |
 | 31 | [Do Something](https://open.spotify.com/track/7aAjqacePVl9SiLtwK4zgS) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Do Something](https://open.spotify.com/album/24j8freQtWn4b2LdjuOa8f) | 2:33 |
-| 32 | [DIAMOND \(feat\. PERUZZI\)](https://open.spotify.com/track/3oNcEDXZ31B8yyvkdml1g8) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [DIAMOND \(feat\. PERUZZI\)](https://open.spotify.com/album/0ED8jEe9hLq17TMqTKT2NX) | 2:41 |
+| 32 | [DIAMOND \(feat\. Peruzzi\)](https://open.spotify.com/track/3oNcEDXZ31B8yyvkdml1g8) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [DIAMOND \(feat\. Peruzzi\)](https://open.spotify.com/album/0ED8jEe9hLq17TMqTKT2NX) | 2:41 |
 | 33 | [On God Oh Boss](https://open.spotify.com/track/1qfE3ZIV3lkzXYUdZsXBtW) | [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Brown Roofs](https://open.spotify.com/album/0oqFYMzBIZbaymc5fYAvma) | 2:10 |
 | 34 | [Shake](https://open.spotify.com/track/52EKAzr6RDFDKaKgyQX7ju) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Shake](https://open.spotify.com/album/1WNhlbrqtVL1zgcD8y4g9g) | 3:26 |
 | 35 | [Rabba Vs Love](https://open.spotify.com/track/1XV5g12UC2C9YOHcyq3yFS) | [Illbliss](https://open.spotify.com/artist/0aunKsCBtJ67KiUJ2gIwsq), [Tha Suspect](https://open.spotify.com/artist/2aYhZWTjIsfvQOkWvKMQrA) | [Rabba Vs Love](https://open.spotify.com/album/76VsVMPLci9DBejCpvzFit) | 4:18 |

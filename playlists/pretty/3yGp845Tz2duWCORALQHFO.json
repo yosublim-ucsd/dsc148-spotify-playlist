@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25776,
+  "num_followers": 25778,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgravtCc/4AB82NFInIy3QJ6ymgP9Q",
+  "snapshot_id": "AABgr54SGOBce7ByYIRPIAWwdMSToMEX",
   "tracks": [
     {
       "added_at": "2024-08-30 11:33:23",
@@ -387,6 +387,22 @@
       "duration_ms": 205440,
       "name": "Worst Behaviour",
       "url": "https://open.spotify.com/track/75ZbL7RI6chMqEySHL0hd7"
+    },
+    {
+      "added_at": "2024-09-02 19:50:50",
+      "album": {
+        "name": "California Boy",
+        "url": "https://open.spotify.com/album/0TsAtYtTkrim4S8Ju9SFav"
+      },
+      "artists": [
+        {
+          "name": "Laine Kowalski",
+          "url": "https://open.spotify.com/artist/57XUXXbRAgR1AqS45pP9Az"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "California Boy",
+      "url": "https://open.spotify.com/track/1yE6KYzKyJ6aBqFl7GskT3"
     },
     {
       "added_at": "2024-08-31 12:31:18",
@@ -963,6 +979,26 @@
       "duration_ms": 236332,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/6o3H1TeAuT8KJOiU8G856R"
+    },
+    {
+      "added_at": "2024-09-02 19:49:52",
+      "album": {
+        "name": "Groovinator",
+        "url": "https://open.spotify.com/album/7yWpRSJD97ZeYJd9QVYTuX"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD"
+        },
+        {
+          "name": "The Kudu",
+          "url": "https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Groovinator",
+      "url": "https://open.spotify.com/track/04TOVzPKDxO9FNcbjTWvuf"
     },
     {
       "added_at": "2024-08-30 11:33:23",

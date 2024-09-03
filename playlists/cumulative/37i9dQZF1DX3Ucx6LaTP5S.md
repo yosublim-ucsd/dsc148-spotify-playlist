@@ -4,7 +4,7 @@
 
 > It's a good day to be a My Day!
 
-142 songs - 8 hr 30 min
+150 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Colors](https://open.spotify.com/track/49rRoH4DZcUlbeBQlDgN8c) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 4:17 | 2020-05-12 |  |
 | [Congratulations](https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u) | 3:49 | 2020-05-12 | 2024-04-19 |
 | [Congratulations](https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Day](https://open.spotify.com/album/2GQCh43InxGIbT0h2GnXWs) | 3:49 | 2020-05-12 |  |
+| [COUNTER](https://open.spotify.com/track/0oDDoTLcHPMnHJNmB2Ts40) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:58 | 2024-09-02 |  |
 | [Cover](https://open.spotify.com/track/6U6qCPRJfahTspeXjgCSSH) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW) | 3:26 | 2020-05-12 | 2024-04-19 |
 | [Cover](https://open.spotify.com/track/7MvhufnZEiAsf2x45ZK3MR) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6Bhc2M8Jn0CcMnzpAuKS85) | 3:26 | 2020-05-12 |  |
 | [DANCE DANCE](https://open.spotify.com/track/30LuvfdiCtpw7Tki3PmkBb) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 | 2020-05-12 |  |
@@ -60,6 +61,7 @@
 | [Headache](https://open.spotify.com/track/4NgOXJPLmX1X2iYOYHihFc) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Remember Us : Youth Part 2](https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh) | 2:57 | 2020-05-12 | 2024-04-19 |
 | [Healer](https://open.spotify.com/track/3LPGSFnV3zANLiXQiQGjOx) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: Negentropy \- Chaos Swallowed up in Love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:47 | 2021-04-19 |  |
 | [Healer](https://open.spotify.com/track/7kC5Q1Ai6RSshkuFXCcsMG) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj) | 3:47 | 2021-04-19 | 2024-04-19 |
+| [Help Me Rock&Roll](https://open.spotify.com/track/61Jmp8gGCF2pZDlGZ3d9D2) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:36 | 2024-09-02 |  |
 | [Hi Hello](https://open.spotify.com/track/0zDnaAWKRpibCTuSNHT8yL) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:52 | 2020-05-12 | 2024-04-19 |
 | [Hi Hello](https://open.spotify.com/track/5nd63yWhfWq5VKX7r6aFMI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:52 | 2020-05-12 |  |
 | [Home Alone](https://open.spotify.com/track/3XLWCoZubMt1WPp7TmSNAP) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:22 | 2021-07-09 |  |
@@ -82,6 +84,7 @@
 | [I Wait](https://open.spotify.com/track/2ucxenk7DMnImzGMXOIFrd) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 3:38 | 2020-05-12 | 2024-04-19 |
 | [I Would](https://open.spotify.com/track/0dYpPDvC5XA0E7LcrvGWOA) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:43 | 2020-05-12 |  |
 | [I Would](https://open.spotify.com/track/14GROeHpGT7elxuRYpGkQm) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 3:43 | 2020-05-12 | 2024-04-19 |
+| [I'm Fine](https://open.spotify.com/track/0HEeafoIUSw9baWulU9WYC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:15 | 2024-09-02 |  |
 | [I'm Serious](https://open.spotify.com/track/3iFjNnlsAsC9OcE3P1yLEW) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 3:14 | 2020-05-12 |  |
 | [I'm Serious](https://open.spotify.com/track/5pvRlGWjTy6Y3e5BIn8Ux0) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 3:14 | 2020-05-12 | 2024-04-19 |
 | [Let Me Love You](https://open.spotify.com/track/3A5urMlHvbqkxMaz5AtXGN) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 4:03 | 2024-03-20 |  |
@@ -93,6 +96,8 @@
 | [Love me or Leave me](https://open.spotify.com/track/7F9HWeJf4BTUzpj3B0CQKT) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:42 | 2020-05-12 |  |
 | [LOVE PARADE](https://open.spotify.com/track/3cppKGBLYhmYU9r5APbIwa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:43 | 2021-07-09 | 2024-04-19 |
 | [LOVE PARADE](https://open.spotify.com/track/6nklsJnZ6OimouWLm80Xuc) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:43 | 2021-07-09 |  |
+| [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-02 |  |
+| [Monster](https://open.spotify.com/track/3nSyllwWNp9XuLKqCWswVv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:36 | 2024-09-02 |  |
 | [Not Fine](https://open.spotify.com/track/4r2pzvLIdg0Zgk5Bef7mIV) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:35 | 2020-05-12 |  |
 | [Not Fine](https://open.spotify.com/track/6W8dT3CMFlVIwfsnnYLL0D) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:35 | 2020-05-12 | 2024-04-19 |
 | [Not Mine](https://open.spotify.com/track/09vCm1gYxlBSi6ijArnczi) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:15 | 2020-05-12 | 2024-04-19 |
@@ -108,14 +113,17 @@
 | [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2021-07-05 | 2024-04-19 |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2021-07-05 |  |
 | [Sad Ending](https://open.spotify.com/track/68Jm50sJpUdqu3IyMdFaXp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:24 | 2024-03-20 |  |
+| [She Smiled](https://open.spotify.com/track/6e5L42GYpMs0jHODC9VEes) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:22 | 2024-09-02 |  |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2020-05-12 |  |
 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 | 2020-05-12 | 2024-04-19 |
+| [Shxtty Game](https://open.spotify.com/track/4UToDzb0OxKTPQNZt1aL4x) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:09 | 2024-09-02 |  |
 | [so let’s love](https://open.spotify.com/track/0p3flPNocJa64LB7pZDiTZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/5ZQuMOStcP5jMmGiI1Slmj) | 3:42 | 2021-04-19 | 2024-04-19 |
 | [so let’s love](https://open.spotify.com/track/7IDUo5rlyHw08w8l3UpAcE) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: Negentropy \- Chaos Swallowed up in Love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:42 | 2021-04-19 |  |
 | [Somehow](https://open.spotify.com/track/0uLgxIVjt4CaUyvM3jcmQJ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:22 | 2020-05-12 |  |
 | [Somehow](https://open.spotify.com/track/1tVXHdJZbv9H5ZHpJ4zpHZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 3:22 | 2020-05-12 | 2024-04-19 |
 | [Still](https://open.spotify.com/track/2vtAf3rLV9i96x2z8n8N0V) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 4:11 | 2020-05-12 | 2024-04-19 |
 | [Still](https://open.spotify.com/track/6DXROAQPfkfduzcbihXRsw) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 4:11 | 2020-05-12 |  |
+| [Still There](https://open.spotify.com/track/5royC4vK6AQGfkRwbnL0Qa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:19 | 2024-09-02 |  |
 | [STOP](https://open.spotify.com/track/2kEXwegoUocARVri2uvgVH) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us: The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:48 | 2020-05-12 |  |
 | [STOP](https://open.spotify.com/track/4Ra12xZQOiwSSYjUNcvyBZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:48 | 2020-05-12 | 2024-04-19 |
 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 | 2020-05-12 |  |

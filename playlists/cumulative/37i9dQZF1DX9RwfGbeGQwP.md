@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,437 songs - 2 day 6 hr 7 min
+1,439 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Built By Clay](https://open.spotify.com/track/26SYBm5Rvuuse2oAAltjny) | [Hand Made](https://open.spotify.com/artist/5sWOIwfXsjzxjU31XYCsmU) | [Built By Clay](https://open.spotify.com/album/0kII7M6cWH7JeVqJffaUfh) | 1:54 | 2022-01-27 | 2022-10-15 |
 | [Bulls](https://open.spotify.com/track/3hzGguJ3xIzOWoSFZBOV4x) | [New Gate](https://open.spotify.com/artist/1zLR47Dgv8ab7NZyoPi2ay) | [Bulls](https://open.spotify.com/album/3koh0TI5LLhJ2bkD0smZ3f) | 2:34 | 2022-01-27 | 2022-07-15 |
 | [Buoyant Mood](https://open.spotify.com/track/7k6qKm5mhfkzjVuvMEUuVe) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Buoyant Mood](https://open.spotify.com/album/498d4L9mZNgKbjuXrNDpQC) | 2:01 | 2022-11-25 | 2023-03-09 |
+| [Bushwick Garage](https://open.spotify.com/track/1f7AROTmLIHlt0Xuia9pIf) | [Fade Boggz](https://open.spotify.com/artist/540xW8Zj0jKsxRi39virc5) | [Bushwick Garage](https://open.spotify.com/album/4Ia4TfhX7YVgHimtmu6xMy) | 2:13 | 2024-08-30 |  |
 | [BUYING TIME](https://open.spotify.com/track/42ONWs84CDvyidcjFTPAdq) | [LiLucifer](https://open.spotify.com/artist/6Lr60FHZF0k8lGTQVQoBSO) | [THROWAWAY VOL\. 4: LAVENDER & LILAC](https://open.spotify.com/album/6lhvBh2ftiVNoDXajbHWL4) | 3:15 | 2022-04-08 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/1LkuMhbV1HMSB7Mye60a40) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [By Your Side](https://open.spotify.com/album/6yEFO1j7AKAUl08KjgKglg) | 2:00 | 2023-03-24 |  |
 | [cactus on my table](https://open.spotify.com/track/0KLNaZS6yJY6R3jyJJsXun) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Cactus Man](https://open.spotify.com/album/0xbp9NClixl5hupffRxnCA) | 1:45 | 2023-04-20 | 2024-07-03 |
@@ -202,6 +203,7 @@
 | [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 |  |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-03 |  |
+| [Chocolate Cosmos](https://open.spotify.com/track/0sl6nQZO7BNqSLcKBVgKJp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Summer Dusk](https://open.spotify.com/album/3WfgziQVxnrHbwQtFEsqey) | 2:10 | 2024-08-30 |  |
 | [Chop](https://open.spotify.com/track/1wfE8a7yX0KRzpEc83Vjfs) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt), [éurdún](https://open.spotify.com/artist/1JRioB3bu3XOIosyPBiVma) | [Chop](https://open.spotify.com/album/5EMRF4lcFiE6hXu3do4DtH) | 2:00 | 2022-10-08 | 2023-09-22 |
 | [Cinnamon](https://open.spotify.com/track/4pyVqxmgjlgKp4PWY9VdJp) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Cinnamon](https://open.spotify.com/album/6ye2vtm17HqV3Rh74NVZzb) | 2:27 | 2023-02-13 | 2023-11-17 |
 | [City Blues](https://open.spotify.com/track/6SifLfcOTml8LV7f9LaVwH) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [City Blues](https://open.spotify.com/album/4FrDCGWpPCPaX370mJgiAj) | 1:30 | 2022-04-22 | 2022-11-26 |
@@ -233,7 +235,7 @@
 | [Cocody](https://open.spotify.com/track/2S5zCpMUfE6Vf0OfSp47lC) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Cocody](https://open.spotify.com/album/31XVK9Arz6Ak5LU7UXGu90) | 1:44 | 2022-09-23 | 2023-09-05 |
 | [coffe break](https://open.spotify.com/track/27nTIPsA7DPskQHdX7kAUR) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [coffe break](https://open.spotify.com/album/3pr0z0UHmCRgguVjgU8WE3) | 2:32 | 2022-12-16 |  |
 | [Coffee And Pie, Oh My!](https://open.spotify.com/track/1RKHfYrGwQVGld7XO2lOSt) | [Trainsleeper](https://open.spotify.com/artist/5vjsK1KRuMhzdFJHYI8ll5) | [Coffee And Pie, Oh My!](https://open.spotify.com/album/4BQSUpeKpiaLhbf8C3oe1H) | 1:47 | 2022-05-20 | 2022-11-26 |
-| [Coffee As The Day Goes](https://open.spotify.com/track/6vAkdVKssSsSGoOZ049HoS) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [North Of The Lights](https://open.spotify.com/album/6EpvEx8s0DIyUP7HTzVJFl) | 2:30 | 2023-03-08 |  |
+| [Coffee As The Day Goes](https://open.spotify.com/track/6vAkdVKssSsSGoOZ049HoS) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [North Of The Lights](https://open.spotify.com/album/6EpvEx8s0DIyUP7HTzVJFl) | 2:30 | 2023-03-08 | 2024-09-03 |
 | [Coffee Bean](https://open.spotify.com/track/7vQW3Ml7G1AOpQhWHRz2Hh) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Coffee Bean](https://open.spotify.com/album/6XN9QFx0kHgb98qP2E4MB9) | 2:12 | 2022-01-27 | 2022-10-29 |
 | [Coffee in the Morning](https://open.spotify.com/track/6N83i2OmWaYFbvga1xLD1v) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:21 | 2022-01-27 | 2022-09-30 |
 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 | 2022-01-27 | 2023-09-29 |
@@ -309,7 +311,7 @@
 | [Distance](https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29) | [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Distance](https://open.spotify.com/album/1AfMrUInGVyCcKrGV0dC5k) | 2:43 | 2022-01-27 | 2022-05-27 |
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
-| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
+| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 | 2024-09-03 |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-22 | 2023-11-08 |
 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |

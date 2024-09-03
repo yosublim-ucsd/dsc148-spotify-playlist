@@ -2535,6 +2535,32 @@
     },
     {
       "album": {
+        "name": "Nathune",
+        "url": "https://open.spotify.com/album/65H3bdPm0glKN2zF1WGeEN"
+      },
+      "artists": [
+        {
+          "name": "Amrutam Gamay",
+          "url": "https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5"
+        },
+        {
+          "name": "Amritha Suressh",
+          "url": "https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk"
+        },
+        {
+          "name": "Abhirami Suresh",
+          "url": "https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250032,
+      "name": "Nathune",
+      "url": "https://open.spotify.com/track/2HcGtTLqWl7miMLKPSlGoI"
+    },
+    {
+      "album": {
         "name": "Navarasam",
         "url": "https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog"
       },

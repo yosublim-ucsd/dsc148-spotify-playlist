@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 240428,
+  "num_followers": 240625,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtJdAAAAAACb5zoDylBwTW0Q2H2lJR/J",
+  "snapshot_id": "ZtOugAAAAAAfYMXOb8pIyOPR1DgdCyHd",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People's Champ",
-        "url": "https://open.spotify.com/album/05nUDymtjkkya5l7gtyznT"
-      },
-      "artists": [
-        {
-          "name": "Upchurch",
-          "url": "https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 231457,
-      "name": "Vows (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/01CPKpskTCzekQrlkqZtjS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
       },
@@ -775,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 200174,
+      "name": "Love the Heartless",
+      "url": "https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ballads of the Broken",
         "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+        "name": "People's Champ",
+        "url": "https://open.spotify.com/album/05nUDymtjkkya5l7gtyznT"
       },
       "artists": [
+        {
+          "name": "Upchurch",
+          "url": "https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 200174,
-      "name": "Love the Heartless",
-      "url": "https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"
+      "duration_ms": 231457,
+      "name": "Vows (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/01CPKpskTCzekQrlkqZtjS"
     },
     {
       "added_at": null,

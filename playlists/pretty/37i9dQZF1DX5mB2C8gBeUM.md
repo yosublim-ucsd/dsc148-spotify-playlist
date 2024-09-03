@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: mgk and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,391 likes - 131 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,415 likes - 131 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

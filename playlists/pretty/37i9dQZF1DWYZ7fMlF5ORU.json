@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 162574,
+  "num_followers": 162603,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-08-30 17:39:42",
       "album": {
+        "name": "Ema\u00fas",
+        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        }
+      ],
+      "duration_ms": 435428,
+      "name": "Ema\u00fas",
+      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
+    },
+    {
+      "added_at": "2024-08-30 17:39:42",
+      "album": {
         "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
         "url": "https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 243495,
       "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
       "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"
-    },
-    {
-      "added_at": "2024-08-30 17:39:42",
-      "album": {
-        "name": "Ema\u00fas",
-        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
-      },
-      "artists": [
-        {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
-        }
-      ],
-      "duration_ms": 435428,
-      "name": "Ema\u00fas",
-      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
     },
     {
       "added_at": "2024-08-30 17:39:42",

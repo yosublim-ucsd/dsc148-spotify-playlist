@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Anna Thamma",
+        "url": "https://open.spotify.com/album/36ovnJBaeqKGzWopJkewx2"
+      },
+      "artists": [
+        {
+          "name": "Stunning Brothers",
+          "url": "https://open.spotify.com/artist/0wCLmaPe5QdliCrAF8Iu84"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Anna Thamma",
+      "url": "https://open.spotify.com/track/7kEKFFKfNXGRbcdB5OGnmL"
+    },
+    {
+      "album": {
         "name": "Antariksha",
         "url": "https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This is Brian Eno\. The essential tracks, all in one playlist.
+> This is Brian Eno\. Todos os maiores hits em uma só playlist.
 
 167 songs - 13 hr 0 min
 
@@ -35,7 +35,7 @@
 | [Backwater \- 2004 Digital Remaster](https://open.spotify.com/track/5LyWia3X6AJtosLJdSA6ar) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:43 | 2022-06-04 | 2022-10-09 |
 | [Becalmed \- 2004 Digital Remaster](https://open.spotify.com/track/3qq8XPwF2DoBhENRgLQ7ET) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:56 | 2022-05-29 | 2022-10-13 |
 | [Blonde](https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:10 | 2022-10-12 | 2022-10-17 |
-| [Brave Are the Waves](https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq) | [The Leisure Society](https://open.spotify.com/artist/6SzmRtk9EnP5q1rqfqbfSW), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brave Are the Waves](https://open.spotify.com/album/6upCEAEHiChDghpLuHXG0H) | 2:20 | 2023-07-20 |  |
+| [Brave Are the Waves](https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq) | [The Leisure Society](https://open.spotify.com/artist/6SzmRtk9EnP5q1rqfqbfSW), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brave Are the Waves](https://open.spotify.com/album/6upCEAEHiChDghpLuHXG0H) | 2:20 | 2023-07-20 | 2024-09-03 |
 | [Burnt Umber](https://open.spotify.com/track/4cv26gwDWciRzeL7pzAXIV) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:15 | 2023-01-10 | 2023-01-18 |
 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 | 2022-05-29 |  |
 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 | 2022-07-16 | 2023-03-22 |

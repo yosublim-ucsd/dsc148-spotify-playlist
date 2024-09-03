@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "Ik Munda",
+        "url": "https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd"
+      },
+      "artists": [
+        {
+          "name": "Simmi Virk",
+          "url": "https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7"
+        },
+        {
+          "name": "Bugzy",
+          "url": "https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI"
+        },
+        {
+          "name": "Parneet Kaur",
+          "url": "https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211619,
+      "name": "Ik Munda",
+      "url": "https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7"
+    },
+    {
+      "album": {
         "name": "Intezaar",
         "url": "https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY"
       },
@@ -1296,7 +1322,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 100863,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/6hN5PBVrnAwydgOYNWeUWj"
@@ -1786,7 +1812,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 156107,
       "name": "Time Chahida",
       "url": "https://open.spotify.com/track/4NiXbLYDwnA93pAxOO9fw2"

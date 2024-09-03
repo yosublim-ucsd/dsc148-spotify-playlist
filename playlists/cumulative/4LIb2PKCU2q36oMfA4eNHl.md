@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-138 songs - 8 hr 40 min
+139 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [closer](https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [closer](https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae) | 6:08 | 2023-12-08 | 2024-08-10 |
 | [Closer To You](https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Closer To You](https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax) | 3:12 | 2024-06-03 |  |
 | [Come Together \- Nox Vahn & Marsh Revisit](https://open.spotify.com/track/1a9ShyDtSg8KqVdfa4Kyd0) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Come Together \(Nox Vahn & Marsh Revisit\)](https://open.spotify.com/album/6m0mLramcaMID73jvYf0Lx) | 4:07 | 2024-08-02 |  |
+| [Contours](https://open.spotify.com/track/3Ve1THBjsyIZ9JJ2sE1RQq) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Contours](https://open.spotify.com/album/7AgmO49GIQuCO5C2pKsmXm) | 4:08 | 2024-09-02 |  |
 | [Diamonds \- Vraell's Guitar Version](https://open.spotify.com/track/2DgVUg7thg7eZlFOm5IN3a) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Diamonds \(Vraell's Guitar Version\)](https://open.spotify.com/album/4SG3j1q6Yo8J8bWOIAOii4) | 2:01 | 2024-06-14 | 2024-07-20 |
 | [Don't Say](https://open.spotify.com/track/19GrUQikezttWTKWGzoEik) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Don't Say](https://open.spotify.com/album/1UuJiJZNQCfQrarRvAqBe9) | 4:26 | 2024-03-21 | 2024-08-03 |
 | [Don't Say \- Talee's Pool Party Mix](https://open.spotify.com/track/5BjwwUEhzvWGAS43Uz7hwo) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [Don't Say \(Talee's Pool Party Mix\)](https://open.spotify.com/album/0VkyvhRve3iOjjIChODhAi) | 4:25 | 2024-06-03 |  |
@@ -99,7 +100,7 @@
 | [Memories](https://open.spotify.com/track/2s5VFHjQkBIipPndpB1sJD) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:02 | 2023-12-08 | 2024-03-02 |
 | [Memory Morning](https://open.spotify.com/track/4oCjGQqLI3EQ6yztfHl9Gt) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 5:08 | 2024-04-19 | 2024-07-20 |
 | [Mother \- Slowed + Reverb](https://open.spotify.com/track/4mFiTGlJLEWxBqhIp3hgtl) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Mother \(Slowed + Reverb\)](https://open.spotify.com/album/1An9k3L20xsC26H2GAJZBK) | 2:17 | 2023-12-08 | 2024-03-02 |
-| [Mother Earth](https://open.spotify.com/track/3rBbYnRNZkLTcpdjfHCjNv) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:37 | 2024-03-28 |  |
+| [Mother Earth](https://open.spotify.com/track/3rBbYnRNZkLTcpdjfHCjNv) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:37 | 2024-03-28 | 2024-09-03 |
 | [Mother Earth \- Instrumental](https://open.spotify.com/track/2XPGBr6hXHiZpr610ARsWK) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 4:34 | 2024-05-03 | 2024-07-06 |
 | [Mr Man \- Dusky Revisit](https://open.spotify.com/track/20kMYR1urcBTumqu7A9mub) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Mr Man \(Dusky Revisit\)](https://open.spotify.com/album/7azyENMb9wOHFWoRShPs0x) | 5:14 | 2023-12-15 | 2024-04-13 |
 | [My Mother Was A Synthesizer](https://open.spotify.com/track/7LI2eU6g40u5C4SnhSnZ1H) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer](https://open.spotify.com/album/6fN16ql9IGuF2mpChQbIYO) | 3:23 | 2023-12-08 | 2024-05-04 |

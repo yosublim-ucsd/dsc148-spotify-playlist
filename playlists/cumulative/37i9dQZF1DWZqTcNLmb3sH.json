@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover :  Royal\n",
+  "description": "Check out the latest hits from Sandalwood!\nCover :  Max\n",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -9421,6 +9421,28 @@
     },
     {
       "album": {
+        "name": "Surya's Saturday (Kannada) - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1IyjS1n9jWp0LvG5zCT8lg"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sivam",
+          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Garam Garam",
+      "url": "https://open.spotify.com/track/1lXdj7LNJ5KrhQtoo6rJdS"
+    },
+    {
+      "album": {
         "name": "Garam Garam [From \"Surya's Saturday (Kannada)\"]",
         "url": "https://open.spotify.com/album/5DsW3QzlUGGdOkQxUe8ZVC"
       },
@@ -17828,6 +17850,36 @@
       "duration_ms": 51458,
       "name": "Max Title Theme (From \"Max\")",
       "url": "https://open.spotify.com/track/0mBmQS4J3tNj2E7SoMIYng"
+    },
+    {
+      "album": {
+        "name": "Maximum Mass (From \"Max\") (Kannada)",
+        "url": "https://open.spotify.com/album/0SyErK0DldR8lOlr8dI21j"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Chethan Gandharva",
+          "url": "https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Anup Bhandari",
+          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144460,
+      "name": "Maximum Mass (From \"Max\") (Kannada)",
+      "url": "https://open.spotify.com/track/7Kott5DI3YR7CTAZhv4iyM"
     },
     {
       "album": {
@@ -29412,6 +29464,32 @@
       "duration_ms": 206120,
       "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
+    },
+    {
+      "album": {
+        "name": "Surya's Saturday (Kannada) - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1IyjS1n9jWp0LvG5zCT8lg"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Krishna Lasya Muthyala",
+          "url": "https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Ullaasam",
+      "url": "https://open.spotify.com/track/0LX3109SiCBjXY3bpzGMuj"
     },
     {
       "album": {

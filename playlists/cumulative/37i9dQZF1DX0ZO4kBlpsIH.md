@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-217 songs - 10 hr 35 min
+219 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Flambee Montalbanaise](https://open.spotify.com/track/7fPHlQGsVtfOyVU3hQnrYU) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Mystery Pacific](https://open.spotify.com/album/0ElHMJOjrO6zuCF076Eot2) | 3:12 | 2022-11-25 |  |
 | [Flambée montalbanaise](https://open.spotify.com/track/6gugxXbWxWRtXqaen97y9l) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 2:26 | 2023-03-07 | 2023-08-19 |
 | [Folie à amphion](https://open.spotify.com/track/4X5fkuK8fbrlUARtdxbD2h) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:10 | 2023-03-07 | 2023-08-19 |
+| [Fontainebleau](https://open.spotify.com/track/0lHtjEll4CWMMx88sq2Osa) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6), [Giacomo Smith](https://open.spotify.com/artist/6mW13TDxyopjGM4ZNOr4ex) | [Fontainebleau](https://open.spotify.com/album/6icp2OONihDsCvAHDDjdrz) | 3:41 | 2024-09-02 |  |
 | [Forêt de Hêtres](https://open.spotify.com/track/3WG0yb0OLB99N3NAIlCWKo) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Forêt de Hêtres](https://open.spotify.com/album/2p7ku7TRCskCv3qdHJDPSL) | 2:54 | 2023-04-13 |  |
 | [Fragile](https://open.spotify.com/track/0GtinxtEBaIfjQ3MeZmBSD) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Fragile](https://open.spotify.com/album/633ITRU98vaPptgSFYcmG6) | 2:21 | 2023-05-18 |  |
 | [French Press](https://open.spotify.com/track/7bl9M1KZTZglIYfygVb0Pb) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [French Press](https://open.spotify.com/album/0YVgQG1VzjBgkd1Oigv5lr) | 3:09 | 2024-08-19 |  |
@@ -210,6 +211,7 @@
 | [Un Jour Avec Toi](https://open.spotify.com/track/3cTYEYUszhYuIqCkfXTbqd) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Un Jour Avec Toi](https://open.spotify.com/album/0D3RyIOUJpzgLS6kTH8lgL) | 2:59 | 2023-08-03 |  |
 | [Under Paris Skies](https://open.spotify.com/track/1IT59rLa3oUTJ3FF9sOUAc) | [The Paris Musette](https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0) | [Café Francaise](https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh) | 2:08 | 2022-11-25 |  |
 | [une dernière question](https://open.spotify.com/track/0NP0mMjDlSx8PvfMu7UxEY) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Tarte aux pommes de maman](https://open.spotify.com/album/6OCCBuYKcK2rfvFwg8XugI) | 2:53 | 2023-05-11 | 2023-08-19 |
+| [Une Nuit Avec Toi](https://open.spotify.com/track/1XuznZ0644amUBzyeRgZNx) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [Une Nuit Avec Toi](https://open.spotify.com/album/0Fd1X2ENYfHvq0gkGCUy5i) | 3:33 | 2024-09-02 |  |
 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:37 | 2022-08-05 | 2024-04-19 |
 | [Valse aux Champs\-Elysees](https://open.spotify.com/track/2tXsQnHFbOiEros8MUVLrj) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Café Paris: French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/1hmtyvAicRpfnJLKmNVd9K) | 2:37 | 2022-02-18 | 2022-11-08 |
 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/501iTeeBoE0l0lDoUUNO3R) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Cafe Paris \- French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/4m0sM2zsMv3DxOPPj5y4Es) | 2:37 | 2022-02-18 |  |

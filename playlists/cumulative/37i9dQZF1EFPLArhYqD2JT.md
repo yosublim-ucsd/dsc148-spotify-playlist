@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-388 songs - 19 hr 45 min
+389 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/4r6xwq5p4Zv6qjJdmnvCZg) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 3:30 | 2024-08-26 |  |
 | [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5UQB8BMAvG8kFhFY3znlxf) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 3:30 | 2024-07-26 | 2024-08-27 |
 | [Since They Turn Loch Lomond Into Swing](https://open.spotify.com/track/08BSsLQRCYy9C4GMfnoMtK) | [Ginger Rogers and Fred Astaire](https://open.spotify.com/artist/47sMVzsgSHNatdsgfc8RG4) | [Ginger Rodgers & Fred Astaire](https://open.spotify.com/album/6sdadofq19ht7bDXvs45km) | 2:42 | 2024-07-26 |  |
-| [Sisters \(with Betty Clooney & Paul Weston & His Orchestra\)](https://open.spotify.com/track/7ulfzXGryvQwmpaiuaAkVC) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Betty Clooney](https://open.spotify.com/artist/0WIT6HzDRIvRSgiBkvkyml), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Irving Berlin's "White Christmas"](https://open.spotify.com/album/6dl9kzPEA7STWrEAZqbAFZ) | 2:44 | 2024-07-26 |  |
+| [Sisters](https://open.spotify.com/track/3Y9qS8DawoOLviWAg6mJxV) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Betty Clooney](https://open.spotify.com/artist/0WIT6HzDRIvRSgiBkvkyml) | [Mothers & Daughters](https://open.spotify.com/album/1XONE1bYPUwKPRbl14ou5A) | 2:44 | 2024-09-02 |  |
+| [Sisters \(with Betty Clooney & Paul Weston & His Orchestra\)](https://open.spotify.com/track/7ulfzXGryvQwmpaiuaAkVC) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Betty Clooney](https://open.spotify.com/artist/0WIT6HzDRIvRSgiBkvkyml), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Irving Berlin's "White Christmas"](https://open.spotify.com/album/6dl9kzPEA7STWrEAZqbAFZ) | 2:44 | 2024-07-26 | 2024-09-03 |
 | [Sittin' In The Sun](https://open.spotify.com/track/4GJsxSWqJYlhyezWye88sV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:17 | 2024-07-26 | 2024-08-04 |
 | [Sittin' In The Sun](https://open.spotify.com/track/3HweMyWc0IfCUfmgh5dg5a) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/4JtsHZBPAvCXNaXWOWV08j) | 3:18 | 2024-08-03 |  |
 | [Slumming On Park Avenue](https://open.spotify.com/track/523L3jqAKxUYpJt1BoBMhT) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 2:24 | 2024-07-26 |  |

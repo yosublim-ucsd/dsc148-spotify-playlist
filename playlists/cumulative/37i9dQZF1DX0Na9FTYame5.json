@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "AMA DOREN",
+        "url": "https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "AMA DOREN",
+      "url": "https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY"
+    },
+    {
+      "album": {
         "name": "Anderer Mann",
         "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
       },
@@ -552,7 +570,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 176077,
       "name": "Ein Jahr (feat. Montez)",
       "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
@@ -618,6 +636,24 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+    },
+    {
+      "album": {
+        "name": "FAMILY & MONEY",
+        "url": "https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148861,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf"
     },
     {
       "album": {
@@ -746,7 +782,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 216421,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k"

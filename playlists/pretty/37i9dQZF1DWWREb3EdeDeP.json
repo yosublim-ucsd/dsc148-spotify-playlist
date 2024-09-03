@@ -1,666 +1,1222 @@
 {
-  "description": "Relive the most exciting battles and fight scenes from Star Wars.",
-  "num_followers": 38532,
-  "original_name": "Epic Battles",
+  "description": "If you\u2019re willing to take the risk, the galaxy is full of opportunity. Listen to the music from Star Wars Outlaw, available now. ",
+  "num_followers": 38515,
+  "original_name": "Star Wars Outlaws Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsRuwAAAADNMqDnsQ2jbn7t1ie9iSrs",
+  "snapshot_id": "ZtW20AAAAADJZe4ZNgvpe5FXtIyOBuxc",
   "tracks": [
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 155906,
-      "name": "March of the Resistance",
-      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
+      "duration_ms": 132736,
+      "name": "Kay Vess, The Outlaw",
+      "url": "https://open.spotify.com/track/3Bec7ZE7MaLVciwXuTRThu"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "Joseph Shirley",
-          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Ya-Ya Melodies",
+          "url": "https://open.spotify.com/artist/1IdPTcy0RQj13OxmEAJu98"
         }
       ],
-      "duration_ms": 246373,
-      "name": "Stop That Train",
-      "url": "https://open.spotify.com/track/7qYAX8yamoruNCCCYvjIVe"
+      "duration_ms": 159285,
+      "name": "This Cantina Can't Contain Us",
+      "url": "https://open.spotify.com/track/1ynfD50FwvB3dBiUCA9KDe"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 121440,
-      "name": "Kylo Ren Arrives at the Battle",
-      "url": "https://open.spotify.com/track/4iMmW8NcVFU5ytJkHa6IbA"
+      "duration_ms": 158933,
+      "name": "Canto Bight Worker's District",
+      "url": "https://open.spotify.com/track/1TFeD9Y85R2MbB4SGZBCvs"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 212493,
-      "name": "The Falcon",
-      "url": "https://open.spotify.com/track/73kJJ42uVT0eu1CseFBu7i"
+      "duration_ms": 138768,
+      "name": "Time to Go, Kay",
+      "url": "https://open.spotify.com/track/3fJrv2Kz3nVPUr8U3ybutx"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Obi-Wan Kenobi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "Natalie Holt",
-          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Dark Side Assault",
-      "url": "https://open.spotify.com/track/7MbrbN2OvhYisxYIO8goEy"
+      "duration_ms": 181573,
+      "name": "Zerek Besh",
+      "url": "https://open.spotify.com/track/0kwNGuC4ioQ2kRvNfszpeL"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "Joseph Shirley",
-          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 102933,
+      "name": "Luck and a Casino Chip",
+      "url": "https://open.spotify.com/track/5ekVfiMUb6y33wNFDgOIKG"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 124330,
+      "name": "The Trailblazer",
+      "url": "https://open.spotify.com/track/4ebKRisHEFe9d4DEO07Nth"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
         },
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 150356,
-      "name": "Battle for Mos Espa",
-      "url": "https://open.spotify.com/track/0CN8D4RBp2qbDijxLuhERA"
+      "duration_ms": 184704,
+      "name": "Death Mark ~ Welcome to Toshara",
+      "url": "https://open.spotify.com/track/7j86CUB4RA6J8H2yHBZUOc"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "Joseph Shirley",
-          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Toshara, The Amberine Savanna",
+      "url": "https://open.spotify.com/track/3e1wF469hXLG0jgqCUcHBR"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "Mirogana City",
+      "url": "https://open.spotify.com/track/3RXQwxFVYvq69MIfOg6bjb"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 181168,
+      "name": "The Pyke Syndicate",
+      "url": "https://open.spotify.com/track/4Y6IhTAR3efwxBo1uSGBqD"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "Jaylen Vrax",
+      "url": "https://open.spotify.com/track/0cZY72j7ediOliSMaA10Gf"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 162368,
+      "name": "The Empire vs The Outlaw",
+      "url": "https://open.spotify.com/track/4WIStZYnN8ts3vicDcv2kG"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         },
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Jon Everist",
+          "url": "https://open.spotify.com/artist/4DqJvNq10EAyXLdTIFoMK2"
         }
       ],
-      "duration_ms": 334170,
-      "name": "You Fly, I'll Shoot",
-      "url": "https://open.spotify.com/track/4LNvSul9OaZ1NR3STy9mvh"
+      "duration_ms": 167744,
+      "name": "Leaving Jaunta's Hope ~ The Debris Field",
+      "url": "https://open.spotify.com/track/2tFXccjShavQA8UDN9XROL"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 175280,
-      "name": "AT-ACT Assault",
-      "url": "https://open.spotify.com/track/3GZPC62okpzTgJnVXwiYRh"
+      "duration_ms": 100928,
+      "name": "Toshara Orbit Dogfight",
+      "url": "https://open.spotify.com/track/2Sv4KH0kLmnwlnuTHvfOah"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/06EONjbfq9vtinuIqq29HX"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "duration_ms": 192341,
+      "name": "Kijimi, The Frozen Refuge",
+      "url": "https://open.spotify.com/track/37YKWrWluOvPdjZSS62zRK"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "duration_ms": 207018,
+      "name": "The Ashiga Clan",
+      "url": "https://open.spotify.com/track/35HBbRcM8UoLOwLGyLgpDc"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "duration_ms": 137557,
+      "name": "Kijimi City",
+      "url": "https://open.spotify.com/track/4QKPgc8GTs4pJN3SeH1IeL"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Jon Everist",
+          "url": "https://open.spotify.com/artist/4DqJvNq10EAyXLdTIFoMK2"
+        }
+      ],
+      "duration_ms": 196132,
+      "name": "Crimson Dawn",
+      "url": "https://open.spotify.com/track/0T13W0CSavVzjmszjXmGiG"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 208981,
+      "name": "Tatooine, The Desert Frontier",
+      "url": "https://open.spotify.com/track/7EFtOsqR6Pkd2szad8RfeI"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 212757,
+      "name": "Mos Eisley",
+      "url": "https://open.spotify.com/track/57w5D5igDOwHuwHUzGR8UL"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 180474,
+      "name": "Stolen Womp Rat ~ The Merqaal Runs Free",
+      "url": "https://open.spotify.com/track/2bG6jG1aFGhf8MGu1eXTwQ"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Nix",
+      "url": "https://open.spotify.com/track/1PBCdhYTWTXdHnzWfo7UVD"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 183338,
+      "name": "Slicing and Entering",
+      "url": "https://open.spotify.com/track/3De66r1rlC6ao89REQEDy2"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 94570,
+      "name": "Rancor Surprise",
+      "url": "https://open.spotify.com/track/6tdcMGA7lr4jWZg2XNJ6CO"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Jon Everist",
+          "url": "https://open.spotify.com/artist/4DqJvNq10EAyXLdTIFoMK2"
+        }
+      ],
+      "duration_ms": 241862,
+      "name": "Akiva, The Jungle",
+      "url": "https://open.spotify.com/track/49O9Kg5SmkP97u8KVnb44M"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Jon Everist",
+          "url": "https://open.spotify.com/artist/4DqJvNq10EAyXLdTIFoMK2"
+        }
+      ],
+      "duration_ms": 239765,
+      "name": "Myrra",
+      "url": "https://open.spotify.com/track/20lC3PGJxhiyhglNc3qDdT"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 150741,
+      "name": "ND-5",
+      "url": "https://open.spotify.com/track/26W9fz8XrqHKbnv1mMBO7P"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Jon Everist",
+          "url": "https://open.spotify.com/artist/4DqJvNq10EAyXLdTIFoMK2"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
         }
       ],
-      "duration_ms": 246826,
-      "name": "The Forest Battle",
-      "url": "https://open.spotify.com/track/36gOhkXEHlcCMskCrisw5g"
+      "duration_ms": 134784,
+      "name": "Heavy Words, Light Pay",
+      "url": "https://open.spotify.com/track/6CHDQQxYnrI3d6M5bCEK6b"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1gl3f3otffNsIxosRAvKSz"
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
       },
       "artists": [
         {
-          "name": "London Voices",
-          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 249301,
+      "name": "Eyes on the Score, Kiddo",
+      "url": "https://open.spotify.com/track/5yD2OjBGMh9Y2CKzqz06bY"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 146730,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/1PzDG8Yofb52iby25oOpF7"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Sliro's Future",
+      "url": "https://open.spotify.com/track/46I4Q8EweXXTlb0ztSF9z6"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "The Heist",
+      "url": "https://open.spotify.com/track/55Y9NrjTax15Wg7XuNars9"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 231850,
+      "name": "The Heir Cuts a Deal",
+      "url": "https://open.spotify.com/track/7DCYyNM8Pbtz6ReqUwq75R"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 234282,
+      "name": "Battle of the Revelator",
+      "url": "https://open.spotify.com/track/6SmCUVNBQE9vCCjnAdC31f"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 200064,
+      "name": "The Broken Hoof",
+      "url": "https://open.spotify.com/track/5ESGuYtWa7OS4Q7JCxCGKs"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 128298,
+      "name": "Finale ~ Kay's Last Bet",
+      "url": "https://open.spotify.com/track/5m1xcZfZDkBtHQLlnIx2u2"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 179192,
+      "name": "Riko",
+      "url": "https://open.spotify.com/track/4EwiMrKV8E1k1qbAbraJJa"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 131072,
+      "name": "Trailblazer Legacy",
+      "url": "https://open.spotify.com/track/7u6FQa6cp4PyOsXgzU6iXh"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 270285,
+      "name": "Zerek Besh Go Hunting",
+      "url": "https://open.spotify.com/track/3hsJncSp9SgXHalrsNWdoe"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Jon Everist",
+          "url": "https://open.spotify.com/artist/4DqJvNq10EAyXLdTIFoMK2"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "The Dawn Rises",
+      "url": "https://open.spotify.com/track/2vFQKZk355xYB9l7Er4AGM"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 285696,
+      "name": "Gorak's Kingdom",
+      "url": "https://open.spotify.com/track/1KvKCPveYtaClxqLST9Ivy"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Roget, II",
+          "url": "https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT"
+        }
+      ],
+      "duration_ms": 205397,
+      "name": "Hired Guns",
+      "url": "https://open.spotify.com/track/2BDGlLid8lc5PO1H5KandG"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Star Wars Outlaws - Original Video Game Soundtrack",
+        "url": "https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "duration_ms": 179157,
+      "name": "The Queen and the Hive",
+      "url": "https://open.spotify.com/track/2cJSXvfffrfc3iaUD8rfNp"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Galaxy Rejects",
+          "url": "https://open.spotify.com/artist/2PIqzsN5eM3KbJkCwfZzSB"
+        }
+      ],
+      "duration_ms": 144083,
+      "name": "Inside an Exogorth",
+      "url": "https://open.spotify.com/track/4Avt4kEgh0RJViHGeY8q2j"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "The Wizards Are Alright",
+          "url": "https://open.spotify.com/artist/561K3F4XgrbGXwvliKDBcS"
+        }
+      ],
+      "duration_ms": 156458,
+      "name": "Dream on Space Pirate",
+      "url": "https://open.spotify.com/track/6hWmWimdfO8j5Z1pDS2pyX"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "New London Children's Choir",
-          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+          "name": "Maia and the Dewbacks",
+          "url": "https://open.spotify.com/artist/1zq2czfKROGivjh62OOaTP"
         }
       ],
-      "duration_ms": 254360,
-      "name": "Duel Of The Fates",
-      "url": "https://open.spotify.com/track/7di1zbwgfJkRLkTGV44icu"
+      "duration_ms": 144202,
+      "name": "Kisses and Spotchka",
+      "url": "https://open.spotify.com/track/6zpIxhf9G2gZJq8njeVTq9"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "Joseph Shirley",
-          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "Tozz 'n' Gash",
+          "url": "https://open.spotify.com/artist/50l1wbdYBF2x4TVDQaq5rE"
         }
       ],
-      "duration_ms": 253073,
-      "name": "Final Showdown",
-      "url": "https://open.spotify.com/track/4Ncz6bE3nq4YNGNJp3A7cB"
+      "duration_ms": 180871,
+      "name": "Lost in Temptation",
+      "url": "https://open.spotify.com/track/7ulbO6edFGBDQauBpxurV8"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54m0VdVh3yN9SrjSLPGVrP"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Skungy Gungus and the Refractors",
+          "url": "https://open.spotify.com/artist/4BrHRen9ObdmF45DpgygKd"
+        }
+      ],
+      "duration_ms": 186051,
+      "name": "If These Sands Could Speak",
+      "url": "https://open.spotify.com/track/45zGfovQlHKckMVkuQ2ms6"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Voices",
-          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          "name": "Snoopio's Ghost",
+          "url": "https://open.spotify.com/artist/5TVgAEeMCVFgO82O9glbUa"
         }
       ],
-      "duration_ms": 203293,
-      "name": "Bounty Hunter's Pursuit",
-      "url": "https://open.spotify.com/track/3fzVwWEHiwwYqEQOFKPnzE"
+      "duration_ms": 166198,
+      "name": "Falling for an Outlander",
+      "url": "https://open.spotify.com/track/3sXg9z0EbcfhgFnZwBGIzK"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "Joseph Shirley",
-          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+          "name": "The Jungle Hoppers",
+          "url": "https://open.spotify.com/artist/3TzSQba7m3tt5SEDj1fnkL"
         }
       ],
-      "duration_ms": 375638,
-      "name": "Train Heist - \"The Book of Boba Fett: Vol. 1 (Chapters 1-4)\" Bonus Track",
-      "url": "https://open.spotify.com/track/7I0Wha0ZV4GEq2PxWpg1mb"
+      "duration_ms": 200046,
+      "name": "My Speeder Will Find You",
+      "url": "https://open.spotify.com/track/2qkW10h45lYZQQLxfd4nag"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54m0VdVh3yN9SrjSLPGVrP"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "High Voltage",
+          "url": "https://open.spotify.com/artist/3gp2KVOjzLgKMo0HIBsd6G"
+        }
+      ],
+      "duration_ms": 161496,
+      "name": "Memory Core Is Dead, Let's Dance",
+      "url": "https://open.spotify.com/track/7JPJZSM5uJCsc4XO4TmHlL"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Voices",
-          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          "name": "Billi B and the Paradise Gang",
+          "url": "https://open.spotify.com/artist/40sYgvyC1hJB75smZHO5ah"
         }
       ],
-      "duration_ms": 228426,
-      "name": "Jango's Escape",
-      "url": "https://open.spotify.com/track/36z8v8HC27enGdM94O6TGZ"
+      "duration_ms": 177558,
+      "name": "Astral Love",
+      "url": "https://open.spotify.com/track/3vXjrQakLHKnYcuUstfoC2"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Pxlc9bhZjK7igCdffneyW"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Zade Winstone",
+          "url": "https://open.spotify.com/artist/2HDjHXPfeH2rpGo5G0ZK3z"
         }
       ],
-      "duration_ms": 379240,
-      "name": "Imperial Attack",
-      "url": "https://open.spotify.com/track/7sm2yTl12Yg0o5SDXizd3f"
+      "duration_ms": 184998,
+      "name": "Warm Jungle, Cold Heart",
+      "url": "https://open.spotify.com/track/2h6OqxVH5L4eeJw1tT56oF"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Obi-Wan Kenobi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "Natalie Holt",
-          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Hangar Escape",
-      "url": "https://open.spotify.com/track/43fexDGbiRiYCly1tYuAhh"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Rise of Skywalker - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "The Final Saber Duel",
-      "url": "https://open.spotify.com/track/0WncQWi2RqYKIGriO9gyJ0"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars Jedi: Fallen Order (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/2wOSuU41ufyX9OkcBZ9F6C"
-      },
-      "artists": [
-        {
-          "name": "Stephen Barton",
-          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "Gordy Haab",
-          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+          "name": "Little Rocks Big Sound",
+          "url": "https://open.spotify.com/artist/7Iu1Ppcj7Gg3VPJVip14IM"
         }
       ],
-      "duration_ms": 152416,
-      "name": "Jedi Starfighter",
-      "url": "https://open.spotify.com/track/0jVPQRKUe32nYZRXFt1WVG"
+      "duration_ms": 157852,
+      "name": "Queen of Air and Darkness",
+      "url": "https://open.spotify.com/track/5MQd79c2znENON6I3wF2aP"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 385920,
-      "name": "Main Title and The Attack on the Jakku Village",
-      "url": "https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Obi-Wan Kenobi (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
-      },
-      "artists": [
-        {
-          "name": "Natalie Holt",
-          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
-        }
-      ],
-      "duration_ms": 139853,
-      "name": "Tatooine Desert Chase",
-      "url": "https://open.spotify.com/track/0MXovHwFdhjABt9RCzNBLX"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Pxlc9bhZjK7igCdffneyW"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "The RU-B4s",
+          "url": "https://open.spotify.com/artist/7i50Cgw1taiy6pcJA8Gpki"
         }
       ],
-      "duration_ms": 256120,
-      "name": "Inner City",
-      "url": "https://open.spotify.com/track/0etVepT4gX2Q1HsXTGPIFe"
+      "duration_ms": 139776,
+      "name": "Place Your Bets on Me",
+      "url": "https://open.spotify.com/track/28WgofOqIMJ4qWJlGQJ21k"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/06EONjbfq9vtinuIqq29HX"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Rider",
+      "url": "https://open.spotify.com/track/0M7KL3dp7QYqW8sNiz2nG8"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "The Musical Quarter",
+          "url": "https://open.spotify.com/artist/00s62dvFbXmuHWrVHUst1K"
         }
       ],
-      "duration_ms": 161013,
-      "name": "Into the Trap",
-      "url": "https://open.spotify.com/track/6pl5HyudcFErG6wD6SKVXT"
+      "duration_ms": 188181,
+      "name": "The Nebula Calls",
+      "url": "https://open.spotify.com/track/3d4QLRB4kBkzUomHbEHvtt"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2nm0ehEbV8rnKKZppxhawc"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "London Voices",
-          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Jagged Hope",
+          "url": "https://open.spotify.com/artist/0et7K4GfWldruOMV3n8Ltk"
+        }
+      ],
+      "duration_ms": 186176,
+      "name": "Dreaming of Thala",
+      "url": "https://open.spotify.com/track/4wmFp9S3MIJ2ldtD5I4JMQ"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "That Hutt Can Dance!",
+          "url": "https://open.spotify.com/artist/4PI538mpqLtB7umfufQNHo"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Madness in Mos Eisley",
+      "url": "https://open.spotify.com/track/1mtIQJGVKL6YRi2yqJuVhD"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "New London Children's Choir",
-          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+          "name": "Skungy Gungus and the Refractors",
+          "url": "https://open.spotify.com/artist/4BrHRen9ObdmF45DpgygKd"
         }
       ],
-      "duration_ms": 222360,
-      "name": "Battle Of The Heroes",
-      "url": "https://open.spotify.com/track/7lDLBwXSH6jhBWxC7hmE4M"
+      "duration_ms": 149269,
+      "name": "Look Up!",
+      "url": "https://open.spotify.com/track/38XNaIB6ZKLrJZyryncZzs"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "The Drasa Sisters",
+          "url": "https://open.spotify.com/artist/4QzAGZBKjKmiB5z0m9VFuF"
         }
       ],
-      "duration_ms": 327133,
-      "name": "Rebels at Bay",
-      "url": "https://open.spotify.com/track/2NWNkDoePT1QOKx8wUnf7d"
+      "duration_ms": 171278,
+      "name": "Climb the Mountain",
+      "url": "https://open.spotify.com/track/6vn0GbDbajhniSWgSFYVCl"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2nm0ehEbV8rnKKZppxhawc"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        }
+      ],
+      "duration_ms": 219315,
+      "name": "Kessel Sabacc",
+      "url": "https://open.spotify.com/track/70tb2CqMPRBw5BPRNHJ3BA"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Arctic Nobaki",
+          "url": "https://open.spotify.com/artist/0dceGEElPrbl3gXB9nYSYJ"
+        }
+      ],
+      "duration_ms": 151338,
+      "name": "Wake Up the Enrako",
+      "url": "https://open.spotify.com/track/77bv22CLLpwlm2J7sEqMGU"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Voices",
-          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          "name": "Remla Moonis",
+          "url": "https://open.spotify.com/artist/4QAQ0UUYWeJ6DCfdI4YaGb"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Grievous and the Droids",
-      "url": "https://open.spotify.com/track/4IzVIi9R1Wavj7zAjWONPm"
+      "duration_ms": 154071,
+      "name": "Growing Old in Wayfar",
+      "url": "https://open.spotify.com/track/3dO65zxrm9HS3yKmkX9FHL"
     },
     {
-      "added_at": "2022-11-04 06:54:40",
+      "added_at": "2024-09-02 13:00:00",
       "album": {
-        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1gl3f3otffNsIxosRAvKSz"
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Uvi Yessira",
+          "url": "https://open.spotify.com/artist/0jfxQLTS7lKuvrqTROi8CU"
+        }
+      ],
+      "duration_ms": 155836,
+      "name": "Wings of Time",
+      "url": "https://open.spotify.com/track/2CYEavfRSrTHGOo38DsWzL"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        }
+      ],
+      "duration_ms": 166378,
+      "name": "Raven 6",
+      "url": "https://open.spotify.com/track/6tdzt8T4KyBkyEsiND9gWe"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "London Voices",
-          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+          "name": "Shukko",
+          "url": "https://open.spotify.com/artist/6tDsesKXZjfBUmYjsJojcm"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Nightmares and Daydreams",
+      "url": "https://open.spotify.com/track/3SeY3QP4iglZTiCHXlXKjl"
+    },
+    {
+      "added_at": "2024-09-02 13:00:00",
+      "album": {
+        "name": "Songs from the Underworld - Original Music from Star Wars Outlaws",
+        "url": "https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
         },
         {
-          "name": "New London Children's Choir",
-          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+          "name": "The Ice Brethren",
+          "url": "https://open.spotify.com/artist/1mVZKIDcus7mmX5ET577WJ"
         }
       ],
-      "duration_ms": 157040,
-      "name": "The Sith Spacecraft and the Droid Battle",
-      "url": "https://open.spotify.com/track/0dg70W30usIZtlibzYq4Jg"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 121613,
-      "name": "\u201cChrome Dome\u201d",
-      "url": "https://open.spotify.com/track/1ACII6dVvZETwW8FtpDzfI"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Rise of Skywalker - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 201386,
-      "name": "The Speeder Chase",
-      "url": "https://open.spotify.com/track/5eGqghXuRjQXsfhSs3gYn5"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 152146,
-      "name": "Scherzo for X-Wings",
-      "url": "https://open.spotify.com/track/6eWfgktrz9i593f0ivmw25"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Rise of Skywalker - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "Battle of the Resistance",
-      "url": "https://open.spotify.com/track/5crTeZqK71661wKQ6KdVum"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 407693,
-      "name": "The Battle of Crait",
-      "url": "https://open.spotify.com/track/77k9CEWfPOcizofgwLTBdH"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
-      },
-      "artists": [
-        {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Corellia Chase",
-      "url": "https://open.spotify.com/track/4ubtdn4Oa1IyM4gOtWDhIO"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "Jedha City Ambush",
-      "url": "https://open.spotify.com/track/4lNykqX7Lv55AXnlsSgQmh"
-    },
-    {
-      "added_at": "2022-11-04 06:54:40",
-      "album": {
-        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "The Battle in the Snow",
-      "url": "https://open.spotify.com/track/6VXUoYGhlCIRPN3bHznNg4"
+      "duration_ms": 156202,
+      "name": "The Prowl",
+      "url": "https://open.spotify.com/track/2BzlbFehaCw2UIn581HeoD"
     }
   ],
-  "unique_name": "Epic Battles",
+  "unique_name": "Star Wars Outlaws Official Playlist",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWREb3EdeDeP"
 }

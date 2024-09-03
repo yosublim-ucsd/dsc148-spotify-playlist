@@ -414,6 +414,32 @@
     {
       "album": {
         "name": "Albura Remixed",
+        "url": "https://open.spotify.com/album/6uJSUmrNrTG1KR8O6S7CDa"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        },
+        {
+          "name": "Barda",
+          "url": "https://open.spotify.com/artist/7rs7LuOnKkLjxj3Lr8J90k"
+        },
+        {
+          "name": "SidiRum",
+          "url": "https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314854,
+      "name": "Belleza en el Aire (Remix)",
+      "url": "https://open.spotify.com/track/5Pe9NcKyzwtefBusAGSCoJ"
+    },
+    {
+      "album": {
+        "name": "Albura Remixed",
         "url": "https://open.spotify.com/album/70PAc04K99bM8wTU79PQ2f"
       },
       "artists": [
@@ -1308,7 +1334,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"

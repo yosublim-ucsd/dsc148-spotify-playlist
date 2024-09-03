@@ -2013,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "Sunset Boulevard (Deutsche Gesamtaufnahme)",
+        "url": "https://open.spotify.com/album/1Y5LZs0DqJMv3gUsnQn1fh"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "1996 Die Besetzung Deutsch Sunset Boulevard",
+          "url": "https://open.spotify.com/artist/4JczNrsIBRCH3sas6GHdjV"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Dann bis bald",
+      "url": "https://open.spotify.com/track/51t7q6wwSvBJ3MCsEOFGs4"
+    },
+    {
+      "album": {
         "name": "The Phantom Of The Opera: Global Edition",
         "url": "https://open.spotify.com/album/7IL222Ma0TfNsf8hufqRNH"
       },
@@ -5048,7 +5070,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 170093,
       "name": "Lammastide",
       "url": "https://open.spotify.com/track/0WalzEn2e7lQD2y7bZWrVd"

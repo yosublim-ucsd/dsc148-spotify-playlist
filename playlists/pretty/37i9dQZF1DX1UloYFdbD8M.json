@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 33136,
+  "num_followers": 33154,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtHMoAAAAADXiaYlUrGgGH6JLk+URrlZ",
+  "snapshot_id": "ZtW5FQAAAABq29CoeGMVRRsBoAjjPg6a",
   "tracks": [
     {
       "added_at": "2024-07-30 13:08:46",
@@ -175,6 +175,30 @@
       "duration_ms": 150267,
       "name": "Neeharam",
       "url": "https://open.spotify.com/track/1ryRbjOvpNCKHQrmhH5Ha5"
+    },
+    {
+      "added_at": "2024-09-02 13:09:41",
+      "album": {
+        "name": "Nathune",
+        "url": "https://open.spotify.com/album/65H3bdPm0glKN2zF1WGeEN"
+      },
+      "artists": [
+        {
+          "name": "Amrutam Gamay",
+          "url": "https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5"
+        },
+        {
+          "name": "Amritha Suressh",
+          "url": "https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk"
+        },
+        {
+          "name": "Abhirami Suresh",
+          "url": "https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5"
+        }
+      ],
+      "duration_ms": 250032,
+      "name": "Nathune",
+      "url": "https://open.spotify.com/track/2HcGtTLqWl7miMLKPSlGoI"
     },
     {
       "added_at": "2024-08-28 18:38:51",

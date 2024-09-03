@@ -6,8 +6,24 @@
     "name": "Anjunadeep",
     "url": "https://open.spotify.com/user/anjunadeep"
   },
-  "snapshot_id": "AAAKPTfZRhVo4tZsF1Ncz0VDGNTB+Ilb",
+  "snapshot_id": "AAAKP2IFcRoaQUH/BKeNbcT5kNb3Ap0Y",
   "tracks": [
+    {
+      "added_at": "2024-09-02 09:10:02",
+      "album": {
+        "name": "Contours",
+        "url": "https://open.spotify.com/album/7AgmO49GIQuCO5C2pKsmXm"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "duration_ms": 248164,
+      "name": "Contours",
+      "url": "https://open.spotify.com/track/3Ve1THBjsyIZ9JJ2sE1RQq"
+    },
     {
       "added_at": "2024-08-23 15:38:47",
       "album": {
@@ -699,22 +715,6 @@
       "duration_ms": 265762,
       "name": "Don't Say - Talee's Pool Party Mix",
       "url": "https://open.spotify.com/track/5BjwwUEhzvWGAS43Uz7hwo"
-    },
-    {
-      "added_at": "2024-08-23 15:38:47",
-      "album": {
-        "name": "Fugue In Twilight",
-        "url": "https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM"
-      },
-      "artists": [
-        {
-          "name": "Croquet Club",
-          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
-        }
-      ],
-      "duration_ms": 277577,
-      "name": "Mother Earth",
-      "url": "https://open.spotify.com/track/3rBbYnRNZkLTcpdjfHCjNv"
     }
   ],
   "unique_name": "Chill with Anjuna",

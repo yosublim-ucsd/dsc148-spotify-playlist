@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Letting you Go",
+        "url": "https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI"
+      },
+      "artists": [
+        {
+          "name": "Eva Starr",
+          "url": "https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Letting you Go",
+      "url": "https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q"
+    },
+    {
+      "album": {
         "name": "Lullaby in Ab",
         "url": "https://open.spotify.com/album/1Q9FZghRGWyJIlRtBy5Zn2"
       },
@@ -1724,6 +1742,24 @@
       "duration_ms": 184863,
       "name": "Small",
       "url": "https://open.spotify.com/track/0aviORRTQwOiKwtM8EX6Ep"
+    },
+    {
+      "album": {
+        "name": "soft life",
+        "url": "https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "soft life",
+      "url": "https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL"
     },
     {
       "album": {

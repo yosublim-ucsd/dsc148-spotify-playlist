@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,669 songs - 4 day 18 hr 26 min
+1,670 songs - 4 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,7 +835,7 @@
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2020-03-20 | 2022-04-21 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-23 | 2023-04-29 |
 | [Lenses](https://open.spotify.com/track/2kqIRUIkaKgxMmuy7hM953) | [bonsi](https://open.spotify.com/artist/578eoXIdUP4FVuvzAKLwpE) | [Lenses](https://open.spotify.com/album/2TvYdsDsEMvzCT18VbsQel) | 2:44 | 2020-11-13 | 2022-04-21 |
-| [Let Go](https://open.spotify.com/track/3kYkAdc6W2L63k2gay5y9T) | [Headrow](https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Let Go](https://open.spotify.com/album/4r9XBMNtbal1h1OxWM1aL2) | 3:10 | 2024-08-02 |  |
+| [Let Go](https://open.spotify.com/track/3kYkAdc6W2L63k2gay5y9T) | [Headrow](https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Let Go](https://open.spotify.com/album/4r9XBMNtbal1h1OxWM1aL2) | 3:10 | 2024-08-02 | 2024-09-03 |
 | [Let Go \(feat\. Filous\)](https://open.spotify.com/track/5rv9esKInFN837RQXM2Arb) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Let Go \(feat\. Filous\)](https://open.spotify.com/album/3m4xUoubRZBt5T1gfcTs69) | 2:47 | 2020-05-18 | 2020-07-03 |
 | [Let It Snow](https://open.spotify.com/track/5gadBk725PMbMXIU5uqojC) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Let It Snow](https://open.spotify.com/album/2irTTmvQPvYm0fBSMBafIL) | 3:27 | 2020-05-18 | 2020-07-03 |
 | [Let Me Go](https://open.spotify.com/track/72UPGunahNXBgwtgrewjJS) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Let Me Go](https://open.spotify.com/album/7bgFAhcTq6MQZSDkPsSKc3) | 3:10 | 2022-07-08 | 2022-08-14 |
@@ -1075,6 +1075,7 @@
 | [NUNGWI](https://open.spotify.com/track/4hMdVt2j6y43bS7rC2dEBr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [NUNGWI](https://open.spotify.com/album/6jH3DK4MzS6X9o66eYXiJS) | 3:01 | 2020-05-22 | 2020-07-03 |
 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 | 2020-12-04 | 2021-11-13 |
 | [Ocean](https://open.spotify.com/track/7qMBNOhPfbouXl3JL3k1H4) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Ocean](https://open.spotify.com/album/4edIfnHvv2lFzRnUoLnPci) | 7:10 | 2021-12-24 | 2022-06-21 |
+| [Ocean](https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Ocean](https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT) | 3:20 | 2024-08-30 |  |
 | [Ocean](https://open.spotify.com/track/0m9VQCSZ7S9wlKpD4nRO27) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz), [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [HOPE \(Inspired by 'The Outlaw Ocean' a book by Ian Urbina\)](https://open.spotify.com/album/2kbqvv4io9uEQIgka6Zd45) | 2:58 | 2020-10-13 | 2021-03-06 |
 | [Ocean Liners](https://open.spotify.com/track/4tnMh8E6WvK81ZhJ6IcFSR) | [Zoe Reijue](https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF), [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Ocean Liners](https://open.spotify.com/album/6fGJtRRuKmr8UwvwQp6Vzj) | 6:06 | 2022-01-21 | 2022-07-27 |
 | [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/track/14EcgkY4YICkFrujD1NdDp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Ocean Quiet \(Refeci Remix\)](https://open.spotify.com/album/6UafXpT0Y3cnR7jDmM5ft2) | 2:44 | 2023-03-10 | 2023-10-26 |

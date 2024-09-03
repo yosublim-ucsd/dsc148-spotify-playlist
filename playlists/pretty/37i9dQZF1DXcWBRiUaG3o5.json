@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1241282,
+  "num_followers": 1241243,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "All Night Pharmacy",
-        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
-      },
-      "artists": [
-        {
-          "name": "Nathan Reich",
-          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "The Dream Song",
-      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199840,
       "name": "A Sea of Roses",
       "url": "https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "All Night Pharmacy",
+        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
+      },
+      "artists": [
+        {
+          "name": "Nathan Reich",
+          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "The Dream Song",
+      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "I Wish I Knew",
-        "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "The Nordic Mellow",
         "url": "https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD"
       },
@@ -899,18 +883,34 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Before the Sun",
-        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
+        "name": "I Wish I Knew",
+        "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
+      "duration_ms": 229626,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Patchwork Heart",
+        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
+      },
+      "artists": [
+        {
+          "name": "Justin Wade Tam",
+          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+        }
+      ],
+      "duration_ms": 239152,
+      "name": "Patchwork Heart",
+      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Patchwork Heart",
-        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
+        "name": "Before the Sun",
+        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
       },
       "artists": [
         {
-          "name": "Justin Wade Tam",
-          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 239152,
-      "name": "Patchwork Heart",
-      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
+      "duration_ms": 168853,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Top to Toe",
+        "url": "https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216415,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Top to Toe",
-        "url": "https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 216415,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
     },
     {
       "added_at": "2024-08-23 15:12:14",

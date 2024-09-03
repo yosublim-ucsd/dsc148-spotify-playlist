@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb?si=44tEXSPJSVOx47Yw98fyCw">Jordyn Simone</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,248 likes - 235 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,314 likes - 235 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

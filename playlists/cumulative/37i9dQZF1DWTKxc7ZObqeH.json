@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 153608,
       "name": "a skiff adrift at sea",
       "url": "https://open.spotify.com/track/5oSHVBnuEMVIRBTj2lCKCv"
+    },
+    {
+      "album": {
+        "name": "A Vacant Seat",
+        "url": "https://open.spotify.com/album/4z60dWh6KGRmQodBpR4tLn"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249923,
+      "name": "A Vacant Seat",
+      "url": "https://open.spotify.com/track/1mLPQihFM1ds6jpajqlGDw"
     },
     {
       "album": {
@@ -502,7 +520,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 282391,
       "name": "Chances Are",
       "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 257566,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/0tuXGGgwQeA6FDthPFPTOT"
@@ -1944,6 +1962,24 @@
       "duration_ms": 213255,
       "name": "If You Wish For My Despair",
       "url": "https://open.spotify.com/track/4g5RlJIzRKzXssWAQ2UVKc"
+    },
+    {
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182667,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A"
     },
     {
       "album": {
@@ -2268,6 +2304,24 @@
       "duration_ms": 168446,
       "name": "La Vie en rose",
       "url": "https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx"
+    },
+    {
+      "album": {
+        "name": "Lament of the Heart",
+        "url": "https://open.spotify.com/album/0LOEkhXmbYotwSoTSvpqEG"
+      },
+      "artists": [
+        {
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203828,
+      "name": "Lament of the Heart",
+      "url": "https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR"
     },
     {
       "album": {
@@ -3197,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "Ocean Hill",
+        "url": "https://open.spotify.com/album/7vT6cIzic68m8dZL6scvP2"
+      },
+      "artists": [
+        {
+          "name": "Berliner Luft Quartet",
+          "url": "https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263413,
+      "name": "Ocean Hill",
+      "url": "https://open.spotify.com/track/1Axy6ipoyBpZ6h0pJevnEQ"
+    },
+    {
+      "album": {
         "name": "Oh So Sweet",
         "url": "https://open.spotify.com/album/1u1MqTmOjUYbOG5a8i6jSZ"
       },
@@ -3442,7 +3514,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 207473,
       "name": "Pot of gold",
       "url": "https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB"
@@ -5058,7 +5130,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 345333,
       "name": "Tropical",
       "url": "https://open.spotify.com/track/7024KIeggkxn5C1k5SwXtC"
@@ -5094,7 +5166,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 199299,
       "name": "Vivendo",
       "url": "https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9"
@@ -5188,6 +5260,24 @@
       "duration_ms": 177951,
       "name": "Watch What Happens",
       "url": "https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5"
+    },
+    {
+      "album": {
+        "name": "We Tried so Hard",
+        "url": "https://open.spotify.com/album/4OAO7Qe0LnzusofD7rIOQt"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "We Tried so Hard",
+      "url": "https://open.spotify.com/track/6YBKC1DBIvkv8U1stTIIgl"
     },
     {
       "album": {
@@ -5357,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "Where I Live",
+        "url": "https://open.spotify.com/album/4ZydYtbj0uhKgzLe2kP5fn"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Where I Live",
+      "url": "https://open.spotify.com/track/76uHBO15FZLTUjiwAJ1Wg4"
+    },
+    {
+      "album": {
         "name": "Wichita Lineman",
         "url": "https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0"
       },
@@ -5458,7 +5566,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 169353,
       "name": "Wrap Your Troubles In Dreams",
       "url": "https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL"

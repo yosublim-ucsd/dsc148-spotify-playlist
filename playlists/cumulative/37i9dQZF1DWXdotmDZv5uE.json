@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
+  "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
   "name": "Tradici\u00f3n Mexicana",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213704,
       "name": "Adios Mariquita Linda",
       "url": "https://open.spotify.com/track/6D2kPFxl27oMzt57OyHCBz"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 212776,
       "name": "Adi\u00f3s Mariquita Linda",
       "url": "https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209706,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/3KO25zwcC0BmuCZLUs0xgL"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 210520,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/1wZGZOgoKofwwHC633FDPI"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167961,
       "name": "Alla En El Rancho Grande",
       "url": "https://open.spotify.com/track/6WvelD9Bg8htGoygnNVzRn"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 167636,
       "name": "All\u00e1 En El Rancho Grande",
       "url": "https://open.spotify.com/track/5sqRaYsFBVkG5QyI2c3SnV"
@@ -200,8 +200,8 @@
       },
       "artists": [
         {
-          "name": "Manuel Esperon",
-          "url": "https://open.spotify.com/artist/4R2lVKHhuxpVXjOsgIQKjr"
+          "name": "Manuel Esper\u00f3n",
+          "url": "https://open.spotify.com/artist/5Qx469LDGaD9LgZ9RMyj8F"
         },
         {
           "name": "Mariachi Azteca",
@@ -210,7 +210,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142826,
       "name": "Ay Jalisco",
       "url": "https://open.spotify.com/track/3xI51SnRTo8nhSwnq00fFI"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 145653,
       "name": "Ay jalisco",
       "url": "https://open.spotify.com/track/0qp8CfpKpNbT6P8wLoF3fC"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 320485,
       "name": "Camotal",
       "url": "https://open.spotify.com/track/33OsAaFfyv8Byv7tcYdb1u"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 321000,
       "name": "Camotal",
       "url": "https://open.spotify.com/track/4s7qx83G1CKhSHCcnHV0lC"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171693,
       "name": "El balaju",
       "url": "https://open.spotify.com/track/4rbBQZM99sZqn3AScgSGak"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 171693,
       "name": "El balaju",
       "url": "https://open.spotify.com/track/46fIkmK53h3Rk2yoEdQHx0"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 169708,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170388,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/4hxCTmOkrCR2biMIyivYuX"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 148986,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
@@ -660,13 +660,13 @@
       },
       "artists": [
         {
-          "name": "Los Montaneses Del Alamo",
-          "url": "https://open.spotify.com/artist/1VrQBP9P5ZlFTc3DagbuNP"
+          "name": "Los Monta\u00f1eses del Alamo",
+          "url": "https://open.spotify.com/artist/1TNizTeoAPN3xD6AXk8sl9"
         }
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149040,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/7fHRTqhAnc4N8oO3v8erz7"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 148240,
       "name": "El colas",
       "url": "https://open.spotify.com/track/2RbzXNmT3oryvvlMbgt8Ji"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148240,
       "name": "El colas",
       "url": "https://open.spotify.com/track/7e2aYM1h3QiyCZyAA9YI51"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262933,
       "name": "El Jarabe Jalisciense",
       "url": "https://open.spotify.com/track/3UU2ya43dA5iRePqIs6ZMf"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 262933,
       "name": "El Jarabe Jalisciense",
       "url": "https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245600,
       "name": "El polvorete",
       "url": "https://open.spotify.com/track/6J3SOBJl8aL5gXlf4msiNw"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 245600,
       "name": "El polvorete",
       "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178973,
       "name": "El Querreque",
       "url": "https://open.spotify.com/track/6LOHP4putvxzuuqBT2qykN"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 178973,
       "name": "El Querreque",
       "url": "https://open.spotify.com/track/0m393D1i8If36V9ADd9IUb"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227493,
       "name": "El querreque",
       "url": "https://open.spotify.com/track/0ieZKzWjcO0eBaTVBz82Mg"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 227493,
       "name": "El querreque",
       "url": "https://open.spotify.com/track/5dTTwhrvFAFrSVEZhIgK7U"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 185600,
       "name": "El tilingo",
       "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "El Tilingo",
       "url": "https://open.spotify.com/track/3XlOnuGPGhSwigVf9d6gaV"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175972,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/0mfy6nWWfXsttNU7mOw1Oj"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 175972,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 201680,
       "name": "El toro viejo",
       "url": "https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201680,
       "name": "El toro viejo",
       "url": "https://open.spotify.com/track/53ocVd5ZVdwpwHCRuTF33k"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 124666,
       "name": "Flor de M\u00e9xico",
       "url": "https://open.spotify.com/track/5OU5AciVr7rUp4ivpD8cGL"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 124760,
       "name": "Flor de M\u00e9xico",
       "url": "https://open.spotify.com/track/4kbhCKJhqcYCLfq602IB9k"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193453,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/6NfzJJCQQ2lG6kf0fPPCVI"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 193453,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0MBSO5GELNAmRSJ3QQxzXP"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 167000,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163400,
       "name": "La bikina (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/1O4VFqHZSAnJONSv7YQTVs"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 163400,
       "name": "La bikina (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187120,
       "name": "La Borrachita",
       "url": "https://open.spotify.com/track/1OIET3yptLiovEz07Wpk7y"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 187986,
       "name": "La Borrachita",
       "url": "https://open.spotify.com/track/26jrFuCeLU19arOmvLoiRa"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/0myD6IrudXq6XEXGaIkb9s"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 268000,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4hM0H2SupXsTkcQnSchNz5"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 317133,
       "name": "La Herlinda",
       "url": "https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 317133,
       "name": "La Herlinda (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/1slCnA3XXaB4Bv8UKiCXj5"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227400,
       "name": "La Malaguena",
       "url": "https://open.spotify.com/track/7EvfoiCkbtLTUacNhvPj2m"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 227600,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/3pXLPRQOIoIovJKNO2Ksf4"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181560,
       "name": "La Marcha De Zacatecas",
       "url": "https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 181578,
       "name": "La Marcha De Zacatecas",
       "url": "https://open.spotify.com/track/0Dlq6fg5KQgEyDzDxUfeUz"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170800,
       "name": "La Raspa",
       "url": "https://open.spotify.com/track/6N9he4wWKlcKnPZbUD0SDn"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 173800,
       "name": "La raspa",
       "url": "https://open.spotify.com/track/59kogGBmBNHC3r7t9DZ3ip"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 123453,
       "name": "La Valentina",
       "url": "https://open.spotify.com/track/7AEK6B5oWFgH5Du9nzINgr"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123271,
       "name": "La valentina (From the Film : La cucaracha)",
       "url": "https://open.spotify.com/track/6esWHs1AR8ds7g9EfZw615"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231440,
       "name": "La Virgen de la Macarena",
       "url": "https://open.spotify.com/track/1JKAfuQXTtd5FBUQsgjc2D"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 231440,
       "name": "La Virgen de la Macarena",
       "url": "https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 124893,
       "name": "Las altenitas",
       "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 122026,
       "name": "Las Alte\u00f1itas",
       "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176266,
       "name": "Las perlitas",
       "url": "https://open.spotify.com/track/5gK6fSfZFj7C980BwgcSVh"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 176266,
       "name": "Las perlitas",
       "url": "https://open.spotify.com/track/48bS8GnQrZuDSPP8CdMxis"
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211957,
       "name": "Los Machetes",
       "url": "https://open.spotify.com/track/2virjgZy9O8WzmbkpYATGY"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 214960,
       "name": "Los machetes",
       "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/0OOdn5YA4H5oqNpar9hxFm"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/76bx1yoItpI54YOixTk7f0"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284426,
       "name": "Pinotepa",
       "url": "https://open.spotify.com/track/2I4oBWJvg2X7UGaAhcGyIe"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 284426,
       "name": "Pinotepa",
       "url": "https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2"
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 158066,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5FxEVphkVfyLbsGnxvotZF"
@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160640,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/7uXqcRxoGWrqSTDKL5BnKo"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151179,
       "name": "Que Chula Es Puebla",
       "url": "https://open.spotify.com/track/02dlKZUYW3J15TToUOMohv"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 151179,
       "name": "Que Chula Es Puebla",
       "url": "https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175440,
       "name": "Qu\u00e9 Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/6LCZidGQ1WJzwC0iZt3YND"
@@ -2730,7 +2730,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 177733,
       "name": "Qu\u00e9 Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/5TUXmubvzIuV9Sv0jCndkw"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184253,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/3QCepB8MPLM3haboCIg9Fg"
@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 185600,
       "name": "Rayando El Sol",
       "url": "https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 316520,
       "name": "Sembrando Flores",
       "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 316522,
       "name": "Sembrando Flores",
       "url": "https://open.spotify.com/track/7MZH0QSVuh2QUAmhlr1BOQ"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Zopilote Mojado",
       "url": "https://open.spotify.com/track/4bwMAaMPmOY0ONrpJJyoMW"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 196000,
       "name": "Zopilote mojado",
       "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"

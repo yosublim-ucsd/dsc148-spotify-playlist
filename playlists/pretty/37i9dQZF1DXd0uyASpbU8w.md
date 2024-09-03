@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL?si=yhBBwuVXRYOv8VOT56Bq\-A">Aymos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,223 likes - 65 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,346 likes - 65 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

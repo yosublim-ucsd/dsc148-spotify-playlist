@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. \#IndieLokaldiSpotify Cover: Float
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,790 likes - 114 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,801 likes - 114 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

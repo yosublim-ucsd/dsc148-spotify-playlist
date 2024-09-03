@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den varmeste danske rap lige nu...<a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> & <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> er vaaarme 🥵
+> den bedste danske rap lige nu...<a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> & <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> er vaaarme 🥵
 
 [Spotify](https://open.spotify.com/user/spotify) - 186,823 likes - 89 songs - 3 hr 45 min
 
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 88 | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/track/1JknFyUyJ4c8pfOHcFNrzF) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/album/6fSe0DKpyUwXJQwPypQRbP) | 2:14 |
 | 89 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 |
 
-Snapshot ID: `ZtG99gAAAACeXj6NvHN4oMvqkgn0D7tg`
+Snapshot ID: `ZtV1owAAAADneg6S+fwbmP+CzCQV9qTY`

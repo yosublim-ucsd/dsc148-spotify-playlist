@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,571 songs - 3 day 0 hr 48 min
+1,572 songs - 3 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [KARI](https://open.spotify.com/track/5qhdXxsc1l7hQHOc1aZaGn) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [KARI](https://open.spotify.com/album/1Usgj4vnlf5iebjmzzRQJ7) | 3:14 | 2021-03-27\* | 2021-09-12 |
 | [KATRINA](https://open.spotify.com/track/1ju0sNZroZmC68r9h0Z8vD) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:57 | 2022-10-22 | 2022-10-25 |
 | [Kebab Boy](https://open.spotify.com/track/5i146wcbKkhP0ywZHQb7al) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Kebab Boy](https://open.spotify.com/album/0VmsQtKKe253zHPiRb3CY9) | 2:00 | 2021-08-04 | 2021-08-15 |
+| [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-02 |  |
 | [Keys to the City](https://open.spotify.com/track/4ghGfvW3fTPAqkuHqqa6Jb) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:45 | 2023-11-25 | 2023-11-27 |
 | [killua](https://open.spotify.com/track/60PINd8oHZjazE0J9cuKcA) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [killua](https://open.spotify.com/album/7JC9w4zeLz9dmkCjXOEDWs) | 1:37 | 2022-05-21 | 2022-07-24 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-07-11 |
@@ -761,7 +762,7 @@
 | [TATU](https://open.spotify.com/track/6ZlZ3uBMRyM4cmj0AVcfwc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:22 | 2022-10-22 | 2022-11-04 |
 | [TEASER](https://open.spotify.com/track/1imDwppkVEsjqrAFQiyqen) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 3:03 | 2022-10-22 | 2022-11-13 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-04-07 | 2021-04-09 |
-| [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-01-13 |  |
+| [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-01-13 | 2024-09-03 |
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-07-31 |
 | [That White](https://open.spotify.com/track/3n4kOc46bJi0jOnqvKfr0V) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 3:07 | 2022-07-02 | 2022-07-09 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |
@@ -1061,7 +1062,7 @@
 | [Жить как я живу](https://open.spotify.com/track/1hE8qC9NY9fWILjtLbEAKo) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 3:37 | 2021-04-29 | 2021-05-03 |
 | [ЖМУРКИ](https://open.spotify.com/track/6fiQEMbqzE6CMrcHeukmGc) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/4GuYZRioUTTM3OSDEUFCbV) | 2:07 | 2022-02-19 | 2022-04-02 |
 | [Жорики](https://open.spotify.com/track/3nhKaqLzFkGDkAEfb3XvZT) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Жорики](https://open.spotify.com/album/7efz6ZjPNulYuEZAnpsClZ) | 2:36 | 2022-01-29 | 2022-02-05 |
-| [журавли](https://open.spotify.com/track/7i7f7hw0n83iNcD9OhCFsB) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB), [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [журавли](https://open.spotify.com/album/5n6NwlDO5PkAwoFHBgWnRf) | 2:42 | 2024-08-31 | 2024-09-02 |
+| [журавли](https://open.spotify.com/track/7i7f7hw0n83iNcD9OhCFsB) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB), [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [журавли](https://open.spotify.com/album/5n6NwlDO5PkAwoFHBgWnRf) | 2:42 | 2024-08-31 |  |
 | [За всех](https://open.spotify.com/track/7uJlcGDXjx8Ha6t8kWFlxf) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [За всех](https://open.spotify.com/album/6iKw2kpxfdP9j0jn6Q3D7f) | 1:44 | 2022-02-08 | 2022-02-27 |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/1mAed61HkjfjJc5evljpNs) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/album/0DQpVAxO6BwRLfiaeQt6QE) | 1:59 | 2022-11-27 | 2022-12-20 |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 1:59 | 2022-12-17 | 2023-04-12 |
@@ -1321,7 +1322,7 @@
 | [Пополам](https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL) | [BRANYA](https://open.spotify.com/artist/0Bs5ttRLguNx77bWNy6og4), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Пополам](https://open.spotify.com/album/2TQvPwtjrMEcyCPEcvPCAg) | 2:21 | 2021-06-16 | 2021-10-16 |
 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2023-03-17 | 2024-07-31 |
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-22 | 2024-06-28 |
-| [Порічка](https://open.spotify.com/track/3gH5vuIvlmzHQkPGmbkXND) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Порічка](https://open.spotify.com/album/7psQf9ptuKCMeDfvlumlmU) | 2:39 | 2023-04-08 |  |
+| [Порічка](https://open.spotify.com/track/3gH5vuIvlmzHQkPGmbkXND) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Порічка](https://open.spotify.com/album/7psQf9ptuKCMeDfvlumlmU) | 2:39 | 2023-04-08 | 2024-09-03 |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2023-03-02 | 2024-04-19 |
 | [ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ](https://open.spotify.com/track/39cTOq0Egkqi718Xb9pYoG) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:17 | 2021-05-22 | 2021-05-26 |
 | [Последний поцелуй](https://open.spotify.com/track/136bMUZ7ucIpy3cBFu8ikI) | [Ruki Vverh!](https://open.spotify.com/artist/0T6ncGHAiGQ4LhbiUJAasn), [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [Последний поцелуй](https://open.spotify.com/album/58dm4PYLeFgZG1waGhwrNX) | 3:06 | 2021-09-19 | 2021-09-20 |

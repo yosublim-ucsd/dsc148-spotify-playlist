@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 14769,
+  "num_followers": 14771,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "No Era para M\u00ed",
+        "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
+        }
+      ],
+      "duration_ms": 117418,
+      "name": "No Era para M\u00ed",
+      "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Uh La La",
         "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 261311,
       "name": "Parlante",
       "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "No Era para M\u00ed",
-        "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
-      },
-      "artists": [
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
-        }
-      ],
-      "duration_ms": 117418,
-      "name": "No Era para M\u00ed",
-      "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Constante",
-        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Constante",
-      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "El Humito",
         "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160941,
       "name": "El Humito",
       "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Constante",
+        "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Constante",
+      "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 188600,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
+      },
+      "artists": [
+        {
+          "name": "AEME",
+          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
+        },
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        }
+      ],
+      "duration_ms": 194558,
+      "name": "Manantial",
+      "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "\"REC a LIL\"",
         "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 167236,
       "name": "KABRA",
       "url": "https://open.spotify.com/track/4cLVvAYy7QaavV93G4pjf0"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
-      },
-      "artists": [
-        {
-          "name": "AEME",
-          "url": "https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM"
-        },
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        }
-      ],
-      "duration_ms": 194558,
-      "name": "Manantial",
-      "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Charic",
-        "url": "https://open.spotify.com/album/1H7Xl7VVVoizaRx7P8XJx5"
-      },
-      "artists": [
-        {
-          "name": "GUANACO",
-          "url": "https://open.spotify.com/artist/7hU7xPPEEDgzWw3Ao8SupC"
-        },
-        {
-          "name": "Don De Gente",
-          "url": "https://open.spotify.com/artist/33fV4jYWFmoIiZZVlBGT9N"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "Charic",
-      "url": "https://open.spotify.com/track/5hDWlCSRBsoI5Xb3C4DbAq"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 202803,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Charic",
+        "url": "https://open.spotify.com/album/1H7Xl7VVVoizaRx7P8XJx5"
+      },
+      "artists": [
+        {
+          "name": "GUANACO",
+          "url": "https://open.spotify.com/artist/7hU7xPPEEDgzWw3Ao8SupC"
+        },
+        {
+          "name": "Don De Gente",
+          "url": "https://open.spotify.com/artist/33fV4jYWFmoIiZZVlBGT9N"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "Charic",
+      "url": "https://open.spotify.com/track/5hDWlCSRBsoI5Xb3C4DbAq"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1927,30 +1927,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Dependiente",
-        "url": "https://open.spotify.com/album/0ndJ027vnBAx4MQ58fFYnu"
-      },
-      "artists": [
-        {
-          "name": "Yoky Barrios",
-          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
-        },
-        {
-          "name": "Barragan",
-          "url": "https://open.spotify.com/artist/1cIqvDo17E9xHqz3homiJH"
-        },
-        {
-          "name": "Astrallbass",
-          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
-        }
-      ],
-      "duration_ms": 259312,
-      "name": "Dependiente",
-      "url": "https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "No Lo Sab\u00eda",
         "url": "https://open.spotify.com/album/19m2uImtcXFG4l8C7apxDp"
       },
@@ -1991,6 +1967,30 @@
       "duration_ms": 158256,
       "name": "Que Viaje",
       "url": "https://open.spotify.com/track/1yvnZx7APnGuSnX6INm1Km"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Dependiente",
+        "url": "https://open.spotify.com/album/0ndJ027vnBAx4MQ58fFYnu"
+      },
+      "artists": [
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        },
+        {
+          "name": "Barragan",
+          "url": "https://open.spotify.com/artist/1cIqvDo17E9xHqz3homiJH"
+        },
+        {
+          "name": "Astrallbass",
+          "url": "https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t"
+        }
+      ],
+      "duration_ms": 259312,
+      "name": "Dependiente",
+      "url": "https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD"
     },
     {
       "added_at": "2024-08-30 06:00:00",

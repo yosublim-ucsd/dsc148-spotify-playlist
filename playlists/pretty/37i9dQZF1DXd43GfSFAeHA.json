@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: The Synaptik ",
-  "num_followers": 132250,
+  "num_followers": 132256,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "3AMEL EH",
-        "url": "https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC"
-      },
-      "artists": [
-        {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "3AMEL EH",
-      "url": "https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "Garee2",
         "url": "https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 69498,
       "name": "Garee2",
       "url": "https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "3AMEL EH",
+        "url": "https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "3AMEL EH",
+      "url": "https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "YAKINE",
-        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 200909,
-      "name": "We9tna",
-      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
         "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
+        "name": "YAKINE",
+        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 200909,
+      "name": "We9tna",
+      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
       },
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Ayamy Betfoot",
-        "url": "https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3"
+        "name": "Hakeem",
+        "url": "https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP"
       },
       "artists": [
         {
-          "name": "Abo El Anwar",
-          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
         }
       ],
-      "duration_ms": 182253,
-      "name": "Ayamy Betfoot",
-      "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
+      "duration_ms": 146316,
+      "name": "Hakeem",
+      "url": "https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Hakeem",
-        "url": "https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP"
+        "name": "Ayamy Betfoot",
+        "url": "https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3"
       },
       "artists": [
         {
-          "name": "Muhab",
-          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
         }
       ],
-      "duration_ms": 146316,
-      "name": "Hakeem",
-      "url": "https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK"
+      "duration_ms": 182253,
+      "name": "Ayamy Betfoot",
+      "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
+        "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
+        "url": "https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
+      "url": "https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 182638,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
-        "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
-        "url": "https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "\u0627\u0644\u0639\u064a\u062f \u0627\u0644\u0643\u0628\u064a\u0631",
-      "url": "https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -835,18 +835,26 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "HEPTA",
-        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
+        "name": "Al Taman",
+        "url": "https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF"
       },
       "artists": [
         {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+        },
+        {
+          "name": "Wardenclyph",
+          "url": "https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h"
+        },
+        {
+          "name": "Sakt",
+          "url": "https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV"
+      "duration_ms": 166666,
+      "name": "Had 5ofi (feat. Sakt)",
+      "url": "https://open.spotify.com/track/6aJowWOzPZGpKsLByDopjz"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -871,26 +879,18 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Al Taman",
-        "url": "https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF"
+        "name": "HEPTA",
+        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
       },
       "artists": [
         {
-          "name": "The Synaptik",
-          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
-        },
-        {
-          "name": "Wardenclyph",
-          "url": "https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h"
-        },
-        {
-          "name": "Sakt",
-          "url": "https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy"
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Had 5ofi (feat. Sakt)",
-      "url": "https://open.spotify.com/track/6aJowWOzPZGpKsLByDopjz"
+      "duration_ms": 150000,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV"
     },
     {
       "added_at": "2024-08-12 08:19:10",

@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 74397,
+  "num_followers": 74430,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Embodied Awareness",
-        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
-      },
-      "artists": [
-        {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Embodied Awareness",
-      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Earth Emerald",
         "url": "https://open.spotify.com/album/3FhnkpDjdDzEvUBSDUE7XR"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 157241,
       "name": "Earth Emerald",
       "url": "https://open.spotify.com/track/3lcBjQ6LKDYTZ4AOjk7tu2"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Embodied Awareness",
+        "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Embodied Awareness",
+      "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Restful Whispers",
-        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
-      },
-      "artists": [
-        {
-          "name": "Joa Abbot",
-          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
-        }
-      ],
-      "duration_ms": 218239,
-      "name": "Restful Whispers",
-      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Renacer en Calma",
         "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 160800,
       "name": "Ecos de Meditaci\u00f3n",
       "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Restful Whispers",
+        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
+      },
+      "artists": [
+        {
+          "name": "Joa Abbot",
+          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
+        }
+      ],
+      "duration_ms": 218239,
+      "name": "Restful Whispers",
+      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Pilgrimage",
-        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
-      },
-      "artists": [
-        {
-          "name": "Arush Mandal",
-          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 139600,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "From Above",
-        "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
-      },
-      "artists": [
-        {
-          "name": "Vincent La Rossi",
-          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
-        }
-      ],
-      "duration_ms": 206291,
-      "name": "Towards The Light",
-      "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Rymdresa",
         "url": "https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 154090,
       "name": "Rymdresa",
       "url": "https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "From Above",
+        "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
+      },
+      "artists": [
+        {
+          "name": "Vincent La Rossi",
+          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
+        }
+      ],
+      "duration_ms": 206291,
+      "name": "Towards The Light",
+      "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Moonrise",
-        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
-      },
-      "artists": [
-        {
-          "name": "Asa Kora",
-          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
-        }
-      ],
-      "duration_ms": 208515,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Silent Waters",
         "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 144830,
       "name": "Silent Waters",
       "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "duration_ms": 208515,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
         "name": "Solitude Symphony",
         "url": "https://open.spotify.com/album/61bPZCBK58fHvRb9qWNsKV"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 145524,
       "name": "Prieks",
       "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
-        "name": "Oh so Quiet",
-        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Oh so Quiet",
-      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Dreamgaze",
-        "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
-      },
-      "artists": [
-        {
-          "name": "Brisbois",
-          "url": "https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Dreamgaze",
-      "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 137349,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Dreamgaze",
+        "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
+      },
+      "artists": [
+        {
+          "name": "Brisbois",
+          "url": "https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Dreamgaze",
+      "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Free Of Hesitation",
-        "url": "https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr"
-      },
-      "artists": [
-        {
-          "name": "Abigail Dorsey",
-          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
-        }
-      ],
-      "duration_ms": 160427,
-      "name": "Free Of Hesitation",
-      "url": "https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 255578,
       "name": "Reinstatement",
       "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Free Of Hesitation",
+        "url": "https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr"
+      },
+      "artists": [
+        {
+          "name": "Abigail Dorsey",
+          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
+        }
+      ],
+      "duration_ms": 160427,
+      "name": "Free Of Hesitation",
+      "url": "https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Soft Meadow",
         "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 193492,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 304952,
+      "name": "Solace - Meditation",
+      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Continuazione",
-        "url": "https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT"
-      },
-      "artists": [
-        {
-          "name": "Aamina Russo",
-          "url": "https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO"
-        }
-      ],
-      "duration_ms": 136034,
-      "name": "Continuazione",
-      "url": "https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU"
-    },
-    {
-      "added_at": "2024-08-28 15:56:24",
-      "album": {
         "name": "Sweet Slumber",
         "url": "https://open.spotify.com/album/1wku6ChN7IUzLY6pR4bKjW"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 200000,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/2lDzCZM7VDRjzfpvkXXtow"
+    },
+    {
+      "added_at": "2024-08-28 15:56:24",
+      "album": {
+        "name": "Continuazione",
+        "url": "https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT"
+      },
+      "artists": [
+        {
+          "name": "Aamina Russo",
+          "url": "https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO"
+        }
+      ],
+      "duration_ms": 136034,
+      "name": "Continuazione",
+      "url": "https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU"
     },
     {
       "added_at": "2024-08-28 15:56:24",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2024-08-28 15:56:24",
       "album": {
-        "name": "Comforting Sunshine",
-        "url": "https://open.spotify.com/album/4s2EEf4zyAhEDY2G5rijuC"
+        "name": "Fall in Dreams",
+        "url": "https://open.spotify.com/album/18KhaYrvBGa5EqPEBzwZWo"
       },
       "artists": [
         {
-          "name": "Rose Wells",
-          "url": "https://open.spotify.com/artist/3knchE3iZkUeX7Ja2Q1dEc"
+          "name": "Clentine Stellar",
+          "url": "https://open.spotify.com/artist/6eHY04GT2i1arr0pMuaPoB"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Comforting Sunshine",
-      "url": "https://open.spotify.com/track/5dZCZUc0WySvpgeaVuvVSr"
+      "duration_ms": 192157,
+      "name": "Fall in Dreams",
+      "url": "https://open.spotify.com/track/6CvtpsdnOtuo6m7RPjvOHL"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

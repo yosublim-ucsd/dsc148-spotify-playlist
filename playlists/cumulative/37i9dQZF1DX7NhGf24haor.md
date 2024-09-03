@@ -4,7 +4,7 @@
 
 > Updated weekly \| Hardstyle \| Cover: Hard Driver
 
-1,065 songs - 2 day 9 hr 31 min
+1,066 songs - 2 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Dia De Los Muertos](https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Dia De Los Muertos](https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY) | 3:35 | 2023-11-09 | 2023-12-15 |
 | [Dia De Muertos](https://open.spotify.com/track/2H8SGjYeOEOq7VGxeXKBtz) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Dia De Muertos](https://open.spotify.com/album/0VEqWDwDIZb7Sz6UKKsE54) | 2:30 | 2023-10-12 | 2024-02-16 |
 | [Digital Bass](https://open.spotify.com/track/4nv0kjN2nm0y4LsQdG868M) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Digital Bass](https://open.spotify.com/album/0GtLYa8B8l0tAx6304KzUf) | 3:39 | 2023-02-16 | 2023-03-31 |
+| [Digital Domination](https://open.spotify.com/track/304PwsUMVqgRM6pXH4i3K1) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Digital Domination](https://open.spotify.com/album/76q8PN2wH9m0RWeqHfxaoI) | 2:07 | 2024-09-02 |  |
 | [Dirty](https://open.spotify.com/track/6AWeDqvevggPd0FITDYshW) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Dirty](https://open.spotify.com/album/4Uzg555qgiltdiFp9hr3Fv) | 2:56 | 2022-12-08 | 2022-12-24 |
 | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN) | 3:58 | 2024-03-28 | 2024-06-01 |
 | [Disruption](https://open.spotify.com/track/7llaEU5vkPVjkHE3DaRVb4) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Disruption](https://open.spotify.com/album/1GYyPR5JjoWHuJtCpHC6Kq) | 4:01 | 2023-06-08 | 2023-10-17 |
@@ -510,7 +511,7 @@
 | [Like A Prayer](https://open.spotify.com/track/1K1GY5DNFt9neNS1nNWD7A) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Like A Prayer](https://open.spotify.com/album/0Ww2vLgzJ7vamTnjX4xZVB) | 4:26 | 2024-06-14 | 2024-06-30 |
 | [Like an Angel \- Earsquaker Mix](https://open.spotify.com/track/2vgiemO3q8kEcgWrbv8N6h) | [Giga Dance](https://open.spotify.com/artist/78L6JikpNu3iRD8VoQL5vt), [Earsquaker](https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT) | [Like an Angel \(Earsquaker Mix\)](https://open.spotify.com/album/6rYhhHHpGDT0tozobjmWjD) | 3:06 | 2023-10-19 | 2023-11-10 |
 | [Like Heaven \(feat\. Erich Lennig\)](https://open.spotify.com/track/7i7oPqYGMYhJfCJGk7xHzF) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Erich Lennig](https://open.spotify.com/artist/2T7bdw0TFPa9G27D2cVNCh) | [Like Heaven \(feat\. Erich Lennig\)](https://open.spotify.com/album/6IFbbcZCpftg3FvweeotuZ) | 2:47 | 2022-12-08 | 2023-02-10 |
-| [Like It Loud](https://open.spotify.com/track/10fIxlGTeil1znmhBEkCr0) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [Like It Loud](https://open.spotify.com/album/2YebFw4Tp0WxmJFiYDMHhh) | 2:30 | 2024-04-25 |  |
+| [Like It Loud](https://open.spotify.com/track/10fIxlGTeil1znmhBEkCr0) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [Like It Loud](https://open.spotify.com/album/2YebFw4Tp0WxmJFiYDMHhh) | 2:30 | 2024-04-25 | 2024-09-03 |
 | [Live 4 Ever](https://open.spotify.com/track/1MyP9m0My4lyc5C1eOnDw7) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/7Huvuo5IBlbH5EDrW0EFKS) | 2:13 | 2023-03-30 | 2023-04-01 |
 | [Live 4 Ever](https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS) | 2:13 | 2023-03-30 | 2023-07-14 |
 | [Live For The Hard](https://open.spotify.com/track/5CbzwDqLjODFI9BJBgINrD) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Live For The Hard](https://open.spotify.com/album/1P3j96mmetV6vywq2DtbGB) | 3:31 | 2024-06-14 | 2024-07-06 |

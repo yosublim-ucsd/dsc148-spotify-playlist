@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Ana Castela e mais mulheres no volume máximo! Co\-curadoria com Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,034 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,939 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Bloqueio Emocional \- Ao Vivo](https://open.spotify.com/track/3Uc6MgPlhQJVWuiUOgKnhE) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/6iPQrpMFI7bXjwozuMkhwn) | 2:30 |
 | 40 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
 | 41 | [Fraquinha de Tudo](https://open.spotify.com/track/2i7xriYsqQqlacRv0vjdpL) | [Julya e Maryana](https://open.spotify.com/artist/6EYhlxg5tQoFukHXaIRwGB), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ) | [Fraquinha de tudo](https://open.spotify.com/album/6LCLaegiqqsfYZDawq6HGe) | 2:34 |
-| 42 | [Irracional \- Ao Vivo](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2 \- Ao Vivo](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
-| 43 | [Sete Vidas \- Ao Vivo](https://open.spotify.com/track/37Wyl0UhTWcRwbf4RKHZMb) | [Yule Rossi](https://open.spotify.com/artist/4L84cDrvCezSuR0jwo0Dlo) | [Sete Vidas \(Ao Vivo\)](https://open.spotify.com/album/3QedI9N3cpiMPULClX1MYI) | 2:44 |
+| 42 | [Sete Vidas \- Ao Vivo](https://open.spotify.com/track/37Wyl0UhTWcRwbf4RKHZMb) | [Yule Rossi](https://open.spotify.com/artist/4L84cDrvCezSuR0jwo0Dlo) | [Sete Vidas \(Ao Vivo\)](https://open.spotify.com/album/3QedI9N3cpiMPULClX1MYI) | 2:44 |
+| 43 | [Irracional \- Ao Vivo](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2 \- Ao Vivo](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
 | 44 | [A Saideira](https://open.spotify.com/track/1egSLQgg9a4wnVaeqefNcI) | [Luana Magalhães](https://open.spotify.com/artist/5ZlBXtC4mFEALRMeUNt9wH) | [A Saideira](https://open.spotify.com/album/061XUJjmJ9iYghbYAExIMu) | 3:27 |
 | 45 | [Merceditas \- Merceditas](https://open.spotify.com/track/0loOV6TZ2LbAzi2W6WnVAv) | [Perla](https://open.spotify.com/artist/163vA5ouJrKYvTxfEsrfI0) | [Selecao De Ouro](https://open.spotify.com/album/0nv1eTTWn71TDhVubg8qhV) | 2:45 |
 | 46 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 |
 | 47 | [Mercedita](https://open.spotify.com/track/5PWuJdMsttAVYxfTw7ibPc) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Perla](https://open.spotify.com/artist/163vA5ouJrKYvTxfEsrfI0) | [Mercedita](https://open.spotify.com/album/4PxgqYVVxB1azKgy8EL8qW) | 2:38 |
-| 48 | [Te Amo Demais](https://open.spotify.com/track/60hB23SG2YUoJQ06Kv0TEG) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:25 |
-| 49 | [Flor E O Beija\-Flor](https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Flor E O Beija\-Flor](https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3) | 3:22 |
+| 48 | [Flor E O Beija\-Flor](https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Flor E O Beija\-Flor](https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3) | 3:22 |
+| 49 | [Te Amo Demais](https://open.spotify.com/track/60hB23SG2YUoJQ06Kv0TEG) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:25 |
 
 Snapshot ID: `Zs6SsAAAAAB4erT8Y+ncldxKQgTLfAYy`

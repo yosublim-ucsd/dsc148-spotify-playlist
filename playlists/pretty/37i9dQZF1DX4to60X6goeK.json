@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 62995,
+  "num_followers": 63006,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,34 @@
     {
       "added_at": "2024-08-30 00:00:00",
       "album": {
+        "name": "Sientelo - Sota & Circadian Remix",
+        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 237257,
+      "name": "Sientelo - Sota & Circadian Remix",
+      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
+    },
+    {
+      "added_at": "2024-08-30 00:00:00",
+      "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
       },
@@ -823,34 +851,6 @@
       "duration_ms": 268800,
       "name": "Behemoth",
       "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Sientelo - Sota & Circadian Remix",
-        "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 237257,
-      "name": "Sientelo - Sota & Circadian Remix",
-      "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
     },
     {
       "added_at": "2024-08-30 00:00:00",

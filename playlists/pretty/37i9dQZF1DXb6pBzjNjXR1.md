@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,900 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,913 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 44 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 |
 | 45 | [Wangila](https://open.spotify.com/track/1EBtwghC5Z4rpXlh6mtWiO) | [Studio Bros](https://open.spotify.com/artist/5TGycVupaB4WmtdWZNC2b3), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Wangila](https://open.spotify.com/album/0nBCezgCVzrmcqGW8Jjym4) | 7:52 |
 | 46 | [Abo Malume \- Radio Edit](https://open.spotify.com/track/3I0Z11pUKDvbCcaOQW3oGG) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4) | [Abo Malume](https://open.spotify.com/album/4kTkQb8gpZORAILKnHp52b) | 3:48 |
-| 47 | [Abangoma North London Mix \- Black Motion X Osaze](https://open.spotify.com/track/754Uw6qAYu7N5cgJAVAi1j) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Remixes 2023 Reel One](https://open.spotify.com/album/6sKtL2YJcuQVo2OMEY7ZzD) | 6:02 |
+| 47 | [Abangoma North London Mix \- Black Motion X Osaze](https://open.spotify.com/track/754Uw6qAYu7N5cgJAVAi1j) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Remixes 2023 Reel One](https://open.spotify.com/album/6sKtL2YJcuQVo2OMEY7ZzD) | 6:02 |
 | 48 | [Kwa Mama](https://open.spotify.com/track/0WGUkcTM1u5ssKcdqFtCJn) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Kwa Mama](https://open.spotify.com/album/6lJltP4TFQ2psn9do99SxC) | 6:30 |
 | 49 | [Thula](https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Khonaye](https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO) | [Thula EP](https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1) | 7:21 |
 | 50 | [T.R.O.A](https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [The Republic of Atmofrika](https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh) | 6:52 |

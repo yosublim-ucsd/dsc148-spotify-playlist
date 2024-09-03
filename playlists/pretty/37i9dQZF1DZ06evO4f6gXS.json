@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3061,
+  "num_followers": 3063,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtJdAAAAAAAVU2OWWGSEiOYF+gbyLnvk",
+  "snapshot_id": "ZtOugAAAAACEn2h0cHdDg5Om4qW+jOlg",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 304026,
-      "name": "Knockin'",
-      "url": "https://open.spotify.com/track/4DGWf5ehVZquFQmU3KfWl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get as Much Love as You Can",
         "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
@@ -275,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 304026,
+      "name": "Knockin'",
+      "url": "https://open.spotify.com/track/4DGWf5ehVZquFQmU3KfWl4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At Peace with Woman",
         "url": "https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI"
       },
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Let's Celebrate (Sittin' on Top of the World)",
-      "url": "https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY"
+      "duration_ms": 311560,
+      "name": "Children of the Night",
+      "url": "https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 311560,
-      "name": "Children of the Night",
-      "url": "https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS"
+      "duration_ms": 259146,
+      "name": "Let's Celebrate (Sittin' on Top of the World)",
+      "url": "https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY"
     },
     {
       "added_at": null,
@@ -591,46 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Central, Vol. 1",
-        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
+        "name": "Good to the Last Drop",
+        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Dean Edwards",
-          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
-        },
-        {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        },
-        {
-          "name": "Anthony Drakes",
-          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
-        },
-        {
-          "name": "Julianne",
-          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
-        },
-        {
-          "name": "The Sound Principle",
-          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
+      "duration_ms": 190293,
+      "name": "My Own Special Way",
+      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
     },
     {
       "added_at": null,
@@ -683,6 +655,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soul Central, Vol. 1",
+        "url": "https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya"
+      },
+      "artists": [
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+        },
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Dean Edwards",
+          "url": "https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        },
+        {
+          "name": "Anthony Drakes",
+          "url": "https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza"
+        },
+        {
+          "name": "Julianne",
+          "url": "https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR"
+        },
+        {
+          "name": "The Sound Principle",
+          "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        },
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/50UOjlh09B4y1OBbNMPQwF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 173520,
       "name": "Taster of the Honey (Not Keeper of the Bee)",
       "url": "https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good to the Last Drop",
-        "url": "https://open.spotify.com/album/2ZdN4EryvKNzKfzp3bfDGw"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "My Own Special Way",
-      "url": "https://open.spotify.com/track/1Sk0lvi9prK86bgkzGA4q4"
     },
     {
       "added_at": null,

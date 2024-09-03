@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-797 songs - 1 day 10 hr 11 min
+800 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-02-02 | 2024-03-26 |
 | [Answer](https://open.spotify.com/track/1FlBxmsJyCXMViFVNYFHv4) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Answer](https://open.spotify.com/album/6ybiMzz4uGQeMpUrObHltb) | 2:21 | 2022-10-24 | 2024-07-30 |
 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 | 2021-12-13 | 2024-01-03 |
-| [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-21 |  |
+| [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2022-12-21 | 2024-09-03 |
 | [April Sun](https://open.spotify.com/track/3oOUb7QryUQhLv2ZpLPSI8) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [April Sun](https://open.spotify.com/album/22115bOHkvjGPk8jNCtDFM) | 2:08 | 2021-12-13 | 2023-06-27 |
 | [Aquaterra](https://open.spotify.com/track/1eSt1uhXWcriWYOGZahU9i) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Aquaterra](https://open.spotify.com/album/4c1657shPbX080yozrcKuk) | 2:07 | 2023-01-27 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-02-15 | 2023-08-22 |
@@ -401,6 +401,7 @@
 | [Les débuts](https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [Les débuts](https://open.spotify.com/album/3nK1eHhGeRlFfD2PDMYiQY) | 2:13 | 2021-12-13 | 2022-09-13 |
 | [Let the water in](https://open.spotify.com/track/38Hqdf7CgUrEnCO6DMqCPv) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Never ending Grace](https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y) | 2:53 | 2022-11-21 | 2024-05-02 |
 | [Let the water in](https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Let the water in](https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O) | 2:53 | 2022-10-13 | 2022-11-22 |
+| [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 | 2024-09-02 |  |
 | [Libellule](https://open.spotify.com/track/1ypwYxSqProWa2PHp8try8) | [De Gruy](https://open.spotify.com/artist/1yfYcQByfFNOqdcv2u9J9q) | [Libellule](https://open.spotify.com/album/4g0YAEbTo4dqyxkPxqRiVV) | 2:20 | 2021-12-13 | 2022-07-22 |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-01-04 | 2022-12-22 |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2021-12-13 | 2022-09-13 |
@@ -443,7 +444,7 @@
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2022-05-26 | 2023-03-21 |
 | [Memento Mori](https://open.spotify.com/track/3hZJql1Z6TQXZaiT09NCPL) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Memento Mori](https://open.spotify.com/album/76tps53cRnz3GAGYtBWO2N) | 2:12 | 2021-12-13 | 2022-11-12 |
 | [Memory Lane](https://open.spotify.com/track/1z2q4Dmj24cBFnkkV0GPli) | [Niels Saunders](https://open.spotify.com/artist/6nlfg6qBEp3xeCBIkgqOmu) | [Memory Lane](https://open.spotify.com/album/21WNlxDCxJFAZuihLhOPRQ) | 2:18 | 2021-12-13 | 2022-09-24 |
-| [Mer de rêves](https://open.spotify.com/track/5hGueE5UZ2PdUI4CD75MyR) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Mer de rêves](https://open.spotify.com/album/43IM6dQThe1o9Ay5i0JAv0) | 2:23 | 2022-11-11 |  |
+| [Mer de rêves](https://open.spotify.com/track/5hGueE5UZ2PdUI4CD75MyR) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Mer de rêves](https://open.spotify.com/album/43IM6dQThe1o9Ay5i0JAv0) | 2:23 | 2022-11-11 | 2024-09-03 |
 | [Merveilleuse](https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB) | [Valeria Henkel](https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN) | [Merveilleuse](https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9) | 2:01 | 2021-12-13 | 2022-07-22 |
 | [Met Her at a Bar](https://open.spotify.com/track/4xMHvbwPvXHFRKjbij64eM) | [Otto Wahl](https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF) | [Met Her at a Bar](https://open.spotify.com/album/6BICUzjTGTCgno23a50PL3) | 2:06 | 2023-02-13 |  |
 | [Miles and Miles](https://open.spotify.com/track/4JYOZ0h4zzgnm1oPzsDVH6) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Miles and Miles](https://open.spotify.com/album/4IiAmWATDGDk2pb79kWJvw) | 2:35 | 2024-05-01 |  |
@@ -517,7 +518,7 @@
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-12-13 | 2022-10-25 |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-03-02 | 2024-03-19 |
 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 | 2021-12-13 | 2022-08-10 |
-| [Perla](https://open.spotify.com/track/0kQMah3gWs9amKOblNUdx7) | [Per Lööf](https://open.spotify.com/artist/18KIEPt8afqad7CPIzsWgV) | [Perla](https://open.spotify.com/album/3BN8pdq5ZXWGQD58OgJt5Q) | 2:12 | 2022-12-21 |  |
+| [Perla](https://open.spotify.com/track/0kQMah3gWs9amKOblNUdx7) | [Per Lööf](https://open.spotify.com/artist/18KIEPt8afqad7CPIzsWgV) | [Perla](https://open.spotify.com/album/3BN8pdq5ZXWGQD58OgJt5Q) | 2:12 | 2022-12-21 | 2024-09-03 |
 | [Pianola](https://open.spotify.com/track/48SGMBtW11z4g8ymVdpI4B) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Pianola](https://open.spotify.com/album/3qpHIXKiaEB8Z6M2otPc6U) | 1:49 | 2022-04-21 | 2023-08-22 |
 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 | 2023-11-06 |  |
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2021-12-13 | 2022-05-27 |
@@ -686,6 +687,7 @@
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2021-12-13 | 2023-01-10 |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2021-12-13 | 2022-10-25 |
 | [the deepest part of me](https://open.spotify.com/track/6jE6saiaFwGLHZpFaCHDoq) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [the deepest part of me](https://open.spotify.com/album/1SUXXC6QKnK81xkN2NuZba) | 2:04 | 2023-08-21 |  |
+| [The Dusty Piano](https://open.spotify.com/track/5YIDkfALnA8jNjVP5IsXt6) | [Darkuro](https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh) | [The Dusty Piano](https://open.spotify.com/album/3NAU9KB0N2XwMF3rajDBwk) | 3:00 | 2024-09-02 |  |
 | [The Goodbyes We Never Said](https://open.spotify.com/track/1EFoFLPtWaKdBeDTdce8nQ) | [Yichu Ann Chen](https://open.spotify.com/artist/6ZKZfb4BMulwGKbB6XBcds) | [The Goodbyes We Never Said](https://open.spotify.com/album/1gYCw9fHnyIRBpP9vkVy97) | 1:54 | 2023-04-03 | 2023-08-22 |
 | [The Great Walls Of Time](https://open.spotify.com/track/36YnXU7SvvZtNI2j0vvsGS) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [The Great Walls Of Time](https://open.spotify.com/album/6P2rrRGi74wWvXjgcC2AvC) | 1:58 | 2022-10-04 | 2023-04-04 |
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-09 | 2024-01-03 |
@@ -803,6 +805,7 @@
 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 | 2021-12-13 | 2023-06-15 |
 | [Zašto](https://open.spotify.com/track/7eiM2QUgzptSwtOAno0kVW) | [Suzana Tomić](https://open.spotify.com/artist/5MhlqMxEF4q8fUcxDLnPZL) | [Zašto](https://open.spotify.com/album/6ruV80tj4ul5kL8hbjYZI0) | 2:19 | 2022-10-13 | 2024-04-04 |
 | [Zu Hause](https://open.spotify.com/track/3KuHx15ro3TkRZTi5g261x) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Zu Hause](https://open.spotify.com/album/4zZaVpP8e7Gl9d4YvyAjrH) | 2:07 | 2022-12-21 |  |
+| [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 | 2024-09-02 |  |
 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2022-07-28 | 2022-10-25 |
 | [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 | 2021-12-13 | 2022-07-29 |
 

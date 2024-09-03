@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36603,
+  "num_followers": 36612,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 182033,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+      "duration_ms": 202587,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -799,34 +799,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "SucieriaZH",
-        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
       "artists": [
         {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 174296,
-      "name": "SucieriaZH",
-      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 202587,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
+      "duration_ms": 182033,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "SucieriaZH",
+        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 174296,
+      "name": "SucieriaZH",
+      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
     },
     {
       "added_at": "2024-08-29 22:00:00",

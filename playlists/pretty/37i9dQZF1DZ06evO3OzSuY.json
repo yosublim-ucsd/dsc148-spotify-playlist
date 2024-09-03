@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30bc\u30f3\u30c7\u30a4\u30e4\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 24124,
-  "original_name": "This Is \u30bc\u30f3\u30c7\u30a4\u30e4",
+  "description": "This is Zendaya. The essential tracks, all in one playlist.",
+  "num_followers": 24129,
+  "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtJdAAAAAACwsctsL+7uimqUwCgmphNk",
+  "snapshot_id": "ZtOugAAAAAAmH0vp2QfgxhVBRY3eMBIP",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 146186,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silver Soul",
         "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 268973,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
     },
     {
       "added_at": null,
@@ -681,6 +681,6 @@
       "url": "https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab"
     }
   ],
-  "unique_name": "This Is \u30bc\u30f3\u30c7\u30a4\u30e4",
+  "unique_name": "This Is Zendaya",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY"
 }

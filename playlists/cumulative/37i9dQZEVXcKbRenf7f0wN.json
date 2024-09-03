@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 258555,
       "name": "16 Psyche",
       "url": "https://open.spotify.com/track/6dfWiUc39g9BjD01irYviR"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 300099,
       "name": "39 by Design",
       "url": "https://open.spotify.com/track/7AlKXfPxYY8uNfsn2J7RCx"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 237573,
       "name": "Alone - Remastered",
       "url": "https://open.spotify.com/track/78FKqLoqGN2x3Wss7R0uxU"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 236640,
       "name": "Big Time Sensuality",
       "url": "https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5"
@@ -5711,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
+    },
+    {
+      "album": {
         "name": "The Lost Boys Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4KFyuG1e7yTOknV9Pm893S"
       },
@@ -7426,7 +7444,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 178693,
       "name": "Don't Call Me Babe",
       "url": "https://open.spotify.com/track/1eZXpmHIk9SaxmDjqMr3cs"
@@ -8391,6 +8409,24 @@
     },
     {
       "album": {
+        "name": "Rata Blanca",
+        "url": "https://open.spotify.com/album/5eVKSdr3maSDTlGmToRreg"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "El Sue\u00f1o De La Gitana",
+      "url": "https://open.spotify.com/track/1TPMt9f5xiS3PhEh3UvEtz"
+    },
+    {
+      "album": {
         "name": "Los Odio",
         "url": "https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC"
       },
@@ -8960,7 +8996,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 563893,
       "name": "Estranged",
       "url": "https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O"
@@ -9284,7 +9320,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 169280,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4KWzmHFYCmZAasa0qXlwX0"
@@ -9576,6 +9612,24 @@
       "duration_ms": 154208,
       "name": "Flashing Pangs of Love",
       "url": "https://open.spotify.com/track/7LbiVraP5W7w8RpJ6xymXI"
+    },
+    {
+      "album": {
+        "name": "The Sound of Perseverance - Reissue",
+        "url": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
+      },
+      "artists": [
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506813,
+      "name": "Flesh and the Power It Holds",
+      "url": "https://open.spotify.com/track/0GILd3eTcEsjzSTyDX2XXi"
     },
     {
       "album": {
@@ -11306,7 +11360,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
@@ -13128,7 +13182,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 336453,
       "name": "It Can't Rain All The Time",
       "url": "https://open.spotify.com/track/6Q6CHWbVZNHrz2dmiJMC0X"
@@ -14940,7 +14994,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 176440,
       "name": "Levantamuertos",
       "url": "https://open.spotify.com/track/7txNBHclcIAlsjQPIE8O6L"
@@ -16392,7 +16446,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 286813,
       "name": "Mejor No Hablar de Ciertas Cosas",
       "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
@@ -17694,7 +17748,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 322571,
       "name": "M\u00e9xico B\u00e1rbaro",
       "url": "https://open.spotify.com/track/5b7som9kQOiKJayR1XSDwc"
@@ -18090,7 +18144,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 257040,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
@@ -18476,6 +18530,24 @@
       "duration_ms": 200866,
       "name": "No Podr\u00e1n Parar el Tren",
       "url": "https://open.spotify.com/track/34SqW6wCBiGih7Jahvc79x"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422517,
+      "name": "No Quarter - Remaster",
+      "url": "https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK"
     },
     {
       "album": {
@@ -20788,7 +20860,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 349968,
       "name": "Protection",
       "url": "https://open.spotify.com/track/4bHFJc0ZIgz2lhdy9hFQA7"
@@ -21610,7 +21682,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 301093,
       "name": "Rest My Chemistry",
       "url": "https://open.spotify.com/track/2O5UcpKolgLT8l8yAvEmID"
@@ -22132,7 +22204,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
@@ -22348,7 +22420,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 394093,
       "name": "San Diego(The Tragical)",
       "url": "https://open.spotify.com/track/2x6uPtHZ4exHQfkio9jhas"
@@ -22550,7 +22622,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 604013,
       "name": "Screaming At Forgotten Fears (2007)",
       "url": "https://open.spotify.com/track/0qZ818q7eh1ovFUG8LU1RO"
@@ -23292,7 +23364,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 247333,
       "name": "Si Te Vas Me Mato y Si No... Tambi\u00e9n",
       "url": "https://open.spotify.com/track/24mZnZSuGUqRGUi9CRuSJu"
@@ -23634,7 +23706,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 549506,
       "name": "Sixteen Days / Gathering Dust - Remastered",
       "url": "https://open.spotify.com/track/4kLZR0q1u9R0Iz44JM64AV"
@@ -24430,7 +24502,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 407000,
       "name": "Spirit Crusher",
       "url": "https://open.spotify.com/track/3sSonVXqDeoEFj2lM7mpYT"
@@ -24596,7 +24668,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 365720,
       "name": "State of Non-Return",
       "url": "https://open.spotify.com/track/4rweIylhC9uQ67gTrGCdez"
@@ -24704,7 +24776,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 471187,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/5AbFdMKdv6kQB5rmIr8qTD"
@@ -26491,6 +26563,24 @@
     },
     {
       "album": {
+        "name": "Skyshaper",
+        "url": "https://open.spotify.com/album/1OUcpP0kyiMsv5ATm1qjCP"
+      },
+      "artists": [
+        {
+          "name": "Covenant",
+          "url": "https://open.spotify.com/artist/11zG3SH7tJ36wYmCJ2oWyB"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "The Men",
+      "url": "https://open.spotify.com/track/40JldHffC28y7iVr5wFjLv"
+    },
+    {
+      "album": {
         "name": "The Pale Emperor (Deluxe Version)",
         "url": "https://open.spotify.com/album/6dx8kRfhUFETCGphaiwR9z"
       },
@@ -26592,7 +26682,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 293173,
       "name": "The Noose",
       "url": "https://open.spotify.com/track/6lvNLD1XRU5paMwWH0RGRI"
@@ -26614,6 +26704,24 @@
       "duration_ms": 245122,
       "name": "The Old Man",
       "url": "https://open.spotify.com/track/5xtkl0Ftc9db9McbPr2MOb"
+    },
+    {
+      "album": {
+        "name": "This Is What You Want . . . This Is What You Get (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6eSITOp2WRPIwqRD1tTJjX"
+      },
+      "artists": [
+        {
+          "name": "Public Image Ltd.",
+          "url": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299120,
+      "name": "The Order Of Death - 2011 - Remaster",
+      "url": "https://open.spotify.com/track/6LM5C6vEAwfAlaobFOURz7"
     },
     {
       "album": {
@@ -27060,7 +27168,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 230219,
       "name": "There's a Girl in the Corner",
       "url": "https://open.spotify.com/track/3e3wfDqtC7YPKsIAv5Lmuy"
@@ -27490,7 +27598,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 286786,
       "name": "Todo Hombre Es Una Historia",
       "url": "https://open.spotify.com/track/1Dqkl2RvHeBuYD4uRgTfIh"
@@ -28068,7 +28176,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 263927,
       "name": "Ulvinde",
       "url": "https://open.spotify.com/track/1OVCelrSJzzCRslwzJ1Gsd"
@@ -29307,6 +29415,24 @@
     },
     {
       "album": {
+        "name": "The Musical History of Tiamat",
+        "url": "https://open.spotify.com/album/0bgaKHMjQqTrQ0oSopxy93"
+      },
+      "artists": [
+        {
+          "name": "Tiamat",
+          "url": "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346133,
+      "name": "Whatever That Hurts - live in Stockholm 1994",
+      "url": "https://open.spotify.com/track/3hjeIzjSe2ZJB9yu9Xoc5F"
+    },
+    {
+      "album": {
         "name": "Monster (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
       },
@@ -29794,6 +29920,24 @@
       "duration_ms": 214240,
       "name": "Worthless",
       "url": "https://open.spotify.com/track/7laqUQMtopPnO5P0wBOm3M"
+    },
+    {
+      "album": {
+        "name": "Wreath Of Barbs",
+        "url": "https://open.spotify.com/album/2qQeS4Zy9NJAOtbnOjiX13"
+      },
+      "artists": [
+        {
+          "name": ":Wumpscut:",
+          "url": "https://open.spotify.com/artist/3TTbkikkCAbUg2j5i9UrTV"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323413,
+      "name": "Wreath of Barbs (Album Mix)",
+      "url": "https://open.spotify.com/track/6I2lZcI1Dm8VeUYsOASNxz"
     },
     {
       "album": {
@@ -30348,7 +30492,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 348053,
       "name": "\u03a7 \u039e \u03a3 - 666",
       "url": "https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0"

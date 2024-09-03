@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Nubya Garcia
 
-628 songs - 1 day 20 hr 30 min
+629 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 | 2023-11-17 |  |
 | [Take Your Time](https://open.spotify.com/track/59Q0Io9CKIqZfPCJhRwH79) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [SAHRA](https://open.spotify.com/artist/0afdCvcgScPqyciaOKoAR6), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Take Your Time](https://open.spotify.com/album/4HEynfpdDFX61F4fOvmT3J) | 3:25 | 2021-12-17 | 2022-10-01 |
 | [Talk To Me](https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c) | [TIANNA](https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM) | [Talk To Me](https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y) | 2:42 | 2023-12-22 | 2024-06-15 |
+| [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2024-08-29 |  |
 | [Talking to the Walls \- Ash Walker Remix](https://open.spotify.com/track/1hk2g15PwL2kvkDIlmzRop) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Talking to the Walls \(Ash Walker Remix\)](https://open.spotify.com/album/4hjxIRzxNXqHnbYLC7fB72) | 4:32 | 2022-03-08 | 2022-03-09 |
 | [Talking to the Walls \- Ash Walker Remix](https://open.spotify.com/track/0YZ0pUxBhyzdvVZifFRm5l) | [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU), [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Talking to the Walls \(Ash Walker Remix\)](https://open.spotify.com/album/3TjUPXuSS8Li8nCN21OEQq) | 4:32 | 2021-12-17 | 2022-03-23 |
 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 | 2023-03-12 | 2023-10-06 |
@@ -602,7 +603,7 @@
 | [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-07-28 | 2022-08-10 |
 | [We Give Thanks](https://open.spotify.com/track/6FIREyvQivhLO6wQ9BdHwn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 3:40 | 2023-06-01 | 2023-10-16 |
 | [We Give Thanks](https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 3:40 | 2022-08-04 | 2023-04-30 |
-| [We Have Each Other](https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ) | [We Have Each Other](https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z) | 3:56 | 2024-06-06 |  |
+| [We Have Each Other](https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ) | [We Have Each Other](https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z) | 3:56 | 2024-06-06 | 2024-09-03 |
 | [Welcome To My World](https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 7:14 | 2023-09-01 | 2024-05-03 |
 | [Welcome To My World](https://open.spotify.com/track/4yALLcuMLrfslEuqbq6BPn) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 7:14 | 2022-12-23 | 2023-02-05 |
 | [What Do You Do](https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [What Do You Do](https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq) | 3:13 | 2024-03-08 | 2024-07-19 |

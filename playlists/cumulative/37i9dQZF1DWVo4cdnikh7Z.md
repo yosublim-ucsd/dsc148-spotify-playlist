@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : GOAT
 
-1,445 songs - 3 day 16 hr 15 min
+1,446 songs - 3 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 | 2023-09-08 | 2024-01-06 |
 | [Mathuramakuthe \(From "Ippadikku Kadhal"\)](https://open.spotify.com/track/0a6i0QM9U8bu4B54h21bTR) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Soundararajan](https://open.spotify.com/artist/2t1pO8jh03E4MLTTxFER3E) | [Mathuramakuthe \(From "Ippadikku Kadhal"\)](https://open.spotify.com/album/0ZCcr2BTPmDDwKOYAy2yhN) | 4:25 | 2024-02-12 | 2024-03-28 |
 | [Matta \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/0xN4nwgOWg59k0t94CJAj4) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Velu](https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4), [Sam](https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05), [Narayanan Ravishankar](https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD) | [Matta \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/6Iajx5eba54JLTDf97Me8p) | 3:32 | 2024-08-31 |  |
+| [Maximum Mass \(From "Max"\) \(Tamil\)](https://open.spotify.com/track/79sLNe1X41pydY3o8ss6Au) | [B.Ajaneesh Loknath](https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Vijay Kartikeyaa](https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1) | [Maximum Mass \(From "Max"\) \(Tamil\)](https://open.spotify.com/album/4TM0rKoj7HgseINbDstuxK) | 2:24 | 2024-09-02 |  |
 | [Maya Maya \- From "Irugapatru"](https://open.spotify.com/track/1vCC254ncBXdZ4uWNliw5s) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Padmapriya Raghavan](https://open.spotify.com/artist/2E5sS9FjfJBCgckaoajQSm) | [Maya Maya \(From "Irugapatru"\)](https://open.spotify.com/album/2qMgNFmDq9AnqS4gOFuCFX) | 4:10 | 2023-10-03 | 2023-11-17 |
 | [Mayakirriye](https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye](https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy) | 3:09 | 2022-02-10 | 2022-07-24 |
 | [Mayakitta Mayakitta \(From "Guardian"\)](https://open.spotify.com/track/24cZZLqJa8rFybSTlSAaWx) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Sam CS](https://open.spotify.com/artist/2Ktds0sOwPd0hq4kgquAda) | [Mayakitta Mayakitta \(From "Guardian"\)](https://open.spotify.com/album/5qn8bhmB5eMRMgiyEpLVjP) | 3:35 | 2023-11-17 | 2023-11-28 |

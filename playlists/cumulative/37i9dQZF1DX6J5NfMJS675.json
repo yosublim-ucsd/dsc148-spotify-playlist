@@ -1099,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv"
+      },
+      "artists": [
+        {
+          "name": "Zeltak",
+          "url": "https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd"
+        },
+        {
+          "name": "HOEHENANGST",
+          "url": "https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297290,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O"
       },
@@ -3310,7 +3332,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 341987,
       "name": "Dilate",
       "url": "https://open.spotify.com/track/7BqJpnXqSF0LEqG6V0Klcu"
@@ -6639,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "Interconnection EP",
+        "url": "https://open.spotify.com/album/6OWXUShb5cu2AEqxla3jY6"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433544,
+      "name": "Interconnection",
+      "url": "https://open.spotify.com/track/0oTqSCja48s8TkUDUW5q9w"
+    },
+    {
+      "album": {
         "name": "Interferencias",
         "url": "https://open.spotify.com/album/3lKHaRB8cxMM5boPzlOeif"
       },
@@ -7908,6 +7948,24 @@
       "duration_ms": 368375,
       "name": "Mind Hype",
       "url": "https://open.spotify.com/track/7M6BK7guer8tuSMu2ixk5a"
+    },
+    {
+      "album": {
+        "name": "Mind Seduction",
+        "url": "https://open.spotify.com/album/046JokQD6VIUXu6sz0QnKo"
+      },
+      "artists": [
+        {
+          "name": "Stoked",
+          "url": "https://open.spotify.com/artist/3p7fzDBhVlfoYrpM2p5n0T"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Mind Seduction",
+      "url": "https://open.spotify.com/track/6W3qPtDlpSv3vYIYyvKdCO"
     },
     {
       "album": {
@@ -9260,7 +9318,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 308111,
       "name": "Perplexed",
       "url": "https://open.spotify.com/track/60nb22FUDXM52ETcaUVX4k"
@@ -10236,10 +10294,32 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 324705,
       "name": "Refraction Of Time - Original Mix",
       "url": "https://open.spotify.com/track/6N5RehO69jkSQ0jkOEZCMH"
+    },
+    {
+      "album": {
+        "name": "Reloaded",
+        "url": "https://open.spotify.com/album/7lJDt3bSSlBvLLyaBsj0nz"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198806,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0kcE1nHIe0cHou6dldJuLQ"
     },
     {
       "album": {
@@ -10254,7 +10334,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 163165,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
@@ -11152,7 +11232,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 240000,
       "name": "Shadowprint - Dok & Martin Remix",
       "url": "https://open.spotify.com/track/1Y1msFAAZdAbLUxOqPK9mQ"
@@ -11290,7 +11370,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 261176,
       "name": "Silver Spark",
       "url": "https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk"
@@ -13221,6 +13301,24 @@
     },
     {
       "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/3DHH6Bv6smiXc04k6oaed7"
+      },
+      "artists": [
+        {
+          "name": "Kate Hex",
+          "url": "https://open.spotify.com/artist/5jeRWqe3aZfPrtbEQbo0KU"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231176,
+      "name": "Transcendence",
+      "url": "https://open.spotify.com/track/01PvCgdphu1eh2hJaPcxN0"
+    },
+    {
+      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5YEgd5fkjvmClZzLeGl1Z1"
       },
@@ -13906,6 +14004,24 @@
       "duration_ms": 416363,
       "name": "Wait",
       "url": "https://open.spotify.com/track/0y1jhyPdx2reWcXodAAIyt"
+    },
+    {
+      "album": {
+        "name": "Wanna Dance",
+        "url": "https://open.spotify.com/album/3dgfyB8izb3iUODR2GyJum"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354199,
+      "name": "Wanna Dance",
+      "url": "https://open.spotify.com/track/4vWSD25EtuQvXTqxZwenZT"
     },
     {
       "album": {

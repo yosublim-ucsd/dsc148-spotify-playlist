@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall
 
-353 songs - 20 hr 20 min
+354 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 | 2024-06-04 |  |
 | [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 | 2024-05-01 |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 | 2024-08-24 |
+| [Penne Vaadi](https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu) | [Octave Rockers](https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6) | [Penne Vaadi](https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw) | 3:36 | 2024-09-02 |  |
 | [Piriyaadhe](https://open.spotify.com/track/2sPa31owePFGZi8je18YkE) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Piriyaadhe](https://open.spotify.com/album/6kQd4SMnVuHWvQ0XMRFiWh) | 1:27 | 2023-09-12 | 2023-12-12 |
 | [Podu Mike](https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Podu Mike](https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh) | 2:00 | 2024-08-28 |  |
 | [Pogaathey](https://open.spotify.com/track/5F5DIAIAKeInyl3WndDM6l) | [Shriram Sachi](https://open.spotify.com/artist/4jzvkble6InbXIYDQRERSd) | [Pogaathey](https://open.spotify.com/album/5kLSRW1b4xRvzgM6pQdNpx) | 1:58 | 2024-01-16 | 2024-02-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
+  "description": "This Is Alfredo Olivas. Los temas esenciales, todos en una lista.",
   "name": "This Is Alfredo Olivas",
   "tracks": [
     {
@@ -208,6 +208,28 @@
       "duration_ms": 252026,
       "name": "El Chico Problema",
       "url": "https://open.spotify.com/track/1q8GNltXeR7JU9iWfgjAIA"
+    },
+    {
+      "album": {
+        "name": "El Cuerdo",
+        "url": "https://open.spotify.com/album/5qCOgfrctHU9yJ5GS2NDRO"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188086,
+      "name": "El Cuerdo",
+      "url": "https://open.spotify.com/track/4DGJawbFteCWOvieWU1bBK"
     },
     {
       "album": {

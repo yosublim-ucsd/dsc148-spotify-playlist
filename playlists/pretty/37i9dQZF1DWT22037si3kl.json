@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Phl Notunrboy",
-  "num_followers": 143343,
+  "num_followers": 143375,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Perfil#97 - Trazendo a Vibe",
-        "url": "https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        },
-        {
-          "name": "KENNEDYBEATZ",
-          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Perfil#97 - Trazendo a Vibe",
-      "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 221102,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Perfil#97 - Trazendo a Vibe",
+        "url": "https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "KENNEDYBEATZ",
+          "url": "https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Perfil#97 - Trazendo a Vibe",
+      "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
     },
     {
       "added_at": "2024-08-23 03:01:00",

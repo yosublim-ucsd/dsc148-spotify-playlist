@@ -4065,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Yagarri",
+        "url": "https://open.spotify.com/album/73Gw5t3RfZoRB1LD7VmbET"
+      },
+      "artists": [
+        {
+          "name": "Maanyung",
+          "url": "https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "Yagarri",
+      "url": "https://open.spotify.com/track/1WlVoXe5Lnv7i9zJ8vd7Hi"
+    },
+    {
+      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },

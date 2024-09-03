@@ -2,7 +2,7 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Ian
+> Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
 72 songs - 3 hr 22 min
 

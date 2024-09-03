@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover:  Leah Doh \(竇靖童\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,234 likes - 361 songs - 21 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,237 likes - 361 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

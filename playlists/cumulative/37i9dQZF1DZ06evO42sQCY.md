@@ -2,7 +2,7 @@
 
 ### [This Is Ivan Cornejo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42sQCY)
 
-> This Is Ivan Cornejo\. Los temas esenciales, todos en una lista.
+> This is Ivan Cornejo\. The essential tracks, all in one playlist.
 
 33 songs - 1 hr 51 min
 

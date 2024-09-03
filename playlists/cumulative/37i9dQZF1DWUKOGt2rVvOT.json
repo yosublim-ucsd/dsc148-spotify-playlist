@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u5b6b\u76db\u5e0c (Shi Shi)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u8521\u4f9d\u6797 (Jolin Tsai)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u60f3\u807d\u898b\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/39bMPyNcfUGGxHesBJGe1D"
+      },
+      "artists": [
+        {
+          "name": "Princess Ai",
+          "url": "https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287305,
+      "name": "\u4e0d\u60f3\u807d\u898b\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/6ZBWEbwzGrKZOcE2Hh2fZR"
+    },
+    {
+      "album": {
         "name": "\u985b\u5012\u4e16\u754c",
         "url": "https://open.spotify.com/album/6g1P2zeHgi2I7iKLgjleKb"
       },
@@ -458,6 +476,24 @@
       "duration_ms": 268630,
       "name": "\u4f60\u597d\u55ce",
       "url": "https://open.spotify.com/track/2T7LYExbf85ML5WrzWBz1F"
+    },
+    {
+      "album": {
+        "name": "\u597d\u597d\u5c0d\u5f85\u5979",
+        "url": "https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa"
+      },
+      "artists": [
+        {
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232017,
+      "name": "\u4f60\u662f\u8aaa\u8b0a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0"
     },
     {
       "album": {
@@ -790,7 +826,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 333628,
       "name": "\u5609\u5bbe",
       "url": "https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN"
@@ -844,7 +880,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 260500,
       "name": "\u56e0\u4e3a\u7231\u4f60",
       "url": "https://open.spotify.com/track/3FiiFJitYz8LhOp6jKaCjS"
@@ -964,6 +1000,24 @@
       "duration_ms": 262400,
       "name": "\u592a\u967d",
       "url": "https://open.spotify.com/track/0X3bUYUO9iacfMwgWxtD7T"
+    },
+    {
+      "album": {
+        "name": "\u5931\u7269\u62db\u9886 (\u7535\u5f71\u300a\u4ee5\u5e74\u4e3a\u5355\u4f4d\u7684\u604b\u7231\u300b\u60c5\u611f\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/3xGlcyuwHQZZM0mpSdSCol"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246231,
+      "name": "\u5931\u7269\u62db\u9886 (\u7535\u5f71\u300a\u4ee5\u5e74\u4e3a\u5355\u4f4d\u7684\u604b\u7231\u300b\u60c5\u611f\u4e3b\u9898\u66f2)",
+      "url": "https://open.spotify.com/track/1wX6qszDVC6B5IMXuJyKzD"
     },
     {
       "album": {
@@ -1202,7 +1256,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 173382,
       "name": "\u5c0f\u57ce\u590f\u5929",
       "url": "https://open.spotify.com/track/4QZMBVrBLAvBryj8ZJIIY2"
@@ -1718,7 +1772,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 244046,
       "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
       "url": "https://open.spotify.com/track/3r2BH563UfH3ZnLxywSe27"
@@ -1978,7 +2032,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 241000,
       "name": "\u70ba\u4f60\u5beb\u4e0b\u9019\u9996\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu"
@@ -2144,7 +2198,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 285222,
       "name": "\u7d42\u7a76\u9084\u662f\u56e0\u70ba\u611b",
       "url": "https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb"
@@ -2296,7 +2350,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 205500,
       "name": "\u89aa\u5bb3\u7684 (feat. A-Lin)",
       "url": "https://open.spotify.com/track/3rVVMySmCZCV0pEcrmNYOu"
@@ -2567,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/6sl6IgAnkTvYcta5bOgt4B"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "\u9084\u5728\u6d41\u6d6a",
+      "url": "https://open.spotify.com/track/0ATZVWuix4MxihrbCnZBfy"
+    },
+    {
+      "album": {
         "name": "\u901e\u5f37\u7684\u6eab\u67d4",
         "url": "https://open.spotify.com/album/7HYdCAdMsv37uSuQwsNMRo"
       },
@@ -2730,6 +2802,24 @@
       "duration_ms": 227307,
       "name": "\u9858\u4f60\u5feb\u6a02\u8207\u6211\u6709\u95dc",
       "url": "https://open.spotify.com/track/5A8tNprmuwjPEVSkgCdoWz"
+    },
+    {
+      "album": {
+        "name": "Ren\u7136",
+        "url": "https://open.spotify.com/album/04wLAOxcmZWDQfMJL5g9p1"
+      },
+      "artists": [
+        {
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296006,
+      "name": "\u98de\u9e1f\u548c\u8749",
+      "url": "https://open.spotify.com/track/4lhbajK3dvUcJ0UNEeCdMn"
     },
     {
       "album": {

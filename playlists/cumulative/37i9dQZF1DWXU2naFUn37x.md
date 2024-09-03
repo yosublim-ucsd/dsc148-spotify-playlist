@@ -4,7 +4,7 @@
 
 > Il top dello street rap italiano 🔥 Cover: Shiva
 
-596 songs - 1 day 3 hr 20 min
+597 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Bentley \(feat\. Simba La Rue, J Lord\)](https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 1:59 | 2023-10-12 | 2024-03-08 |
 | [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-06-30 | 2022-07-22 |
 | [Bibidi Bobidi Bu \(feat\. Paky\)](https://open.spotify.com/track/0wSpx49DTwBplnkeqH6zep) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 2:46 | 2023-06-08 | 2023-11-17 |
-| [BIBITA](https://open.spotify.com/track/4t9i0H25aA1yj1kY9iorRP) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [BIBITA](https://open.spotify.com/album/0iKlod0dukLX4mwniCk2vN) | 2:00 | 2024-07-18 |  |
+| [BIBITA](https://open.spotify.com/track/4t9i0H25aA1yj1kY9iorRP) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [BIBITA](https://open.spotify.com/album/0iKlod0dukLX4mwniCk2vN) | 2:00 | 2024-07-18 | 2024-09-03 |
 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 | 2024-06-20 |  |
 | [Big VROOM Big Ah Ah](https://open.spotify.com/track/0GXP7aq6Ec8b4tx1w8VNcu) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [Big VROOM Big Ah Ah](https://open.spotify.com/album/5uqthSZzxmDYVXErwPgkUG) | 2:54 | 2023-02-16 | 2023-03-25 |
 | [BIKINI \(feat\. Guè\)](https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 1:59 | 2024-07-11 |  |
@@ -567,6 +567,7 @@
 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 | 2023-11-02 | 2024-03-08 |
 | [Van Scuro](https://open.spotify.com/track/6cJSJ18BFkKij2wbSUakrR) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Bendicion](https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz) | 2:19 | 2024-01-18 | 2024-02-02 |
 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 | 2023-11-17 | 2024-04-05 |
+| [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-09-02 |  |
 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 | 2023-06-15 | 2023-10-27 |
 | [VERO TONY VERO SOSA](https://open.spotify.com/track/2tADvI8RnFhYln3GVvqGds) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:44 | 2024-03-14 | 2024-05-24 |
 | [Vestiti da Rapper \(feat\. Guè\)](https://open.spotify.com/track/4JZ0yTdBeWP4RGQKv0JDCN) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:44 | 2024-03-28 | 2024-06-28 |

@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Aadha Sa Ishq",
+        "url": "https://open.spotify.com/album/4gdCL1bNwN5X27G8iZNTiG"
+      },
+      "artists": [
+        {
+          "name": "Shriya Jain",
+          "url": "https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ"
+        },
+        {
+          "name": "Abir",
+          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192072,
+      "name": "Aadha Sa Ishq",
+      "url": "https://open.spotify.com/track/7hBK1zhexDGtXfy42siaxH"
+    },
+    {
+      "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS"
       },
@@ -1194,6 +1216,36 @@
       "duration_ms": 171428,
       "name": "Chori Chori",
       "url": "https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv"
+    },
+    {
+      "album": {
+        "name": "Call Me Bae - Original Series Soundtrack",
+        "url": "https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        },
+        {
+          "name": "Mudit Chaturvedi",
+          "url": "https://open.spotify.com/artist/6g7fXak9dPmoZnzbU3Hia9"
+        },
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228631,
+      "name": "Churaaiyaan",
+      "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
     },
     {
       "album": {
@@ -2234,7 +2286,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 193832,
       "name": "Ghodey Pe Sawaar",
       "url": "https://open.spotify.com/track/7wqNKCHh87HfIOGNgfyRCk"
@@ -5596,7 +5648,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 180000,
       "name": "Panghatwa",
       "url": "https://open.spotify.com/track/4PQD3P7gYXkUebtCyyJfOv"
@@ -6500,7 +6552,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 227160,
       "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
       "url": "https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF"
@@ -8420,6 +8472,32 @@
       "duration_ms": 248666,
       "name": "Zidd",
       "url": "https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1"
+    },
+    {
+      "album": {
+        "name": "Emergency - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3cbNwLpbVUHUoH3xVuQyGP"
+      },
+      "artists": [
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "\u2060Beqarariyaan - From \"Emergency\"",
+      "url": "https://open.spotify.com/track/1HZB3v2LWQPLBQIIyNFdiH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs"

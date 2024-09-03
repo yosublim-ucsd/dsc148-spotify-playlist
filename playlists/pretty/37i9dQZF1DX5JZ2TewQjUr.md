@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 阿正
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,538 likes - 199 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,542 likes - 199 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

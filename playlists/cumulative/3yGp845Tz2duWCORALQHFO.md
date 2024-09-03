@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-873 songs - 1 day 23 hr 2 min
+875 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Burn With You](https://open.spotify.com/track/1hVqCOqw7UWekmiExBrsCH) | [The M](https://open.spotify.com/artist/5meu2FI3cmtZ8XXAeJT7q7), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [With You](https://open.spotify.com/album/0TZWZaRerIc7RGavU0RoFA) | 2:43 | 2024-07-23 | 2024-07-27 |
 | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh) | 2:18 | 2024-08-30 |  |
 | [Calabria](https://open.spotify.com/track/4Z1ZzkTuPwtAtWkQXpftDK) | [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6) | [Calabria](https://open.spotify.com/album/5Bz9pYD7hCnQblei7mZRxh) | 2:43 | 2024-07-26 | 2024-08-02 |
+| [California Boy](https://open.spotify.com/track/1yE6KYzKyJ6aBqFl7GskT3) | [Laine Kowalski](https://open.spotify.com/artist/57XUXXbRAgR1AqS45pP9Az) | [California Boy](https://open.spotify.com/album/0TsAtYtTkrim4S8Ju9SFav) | 4:46 | 2024-09-02 |  |
 | [California Dreaming](https://open.spotify.com/track/1JpXeGqH7N4lDQsT9yRai2) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [California Dreaming](https://open.spotify.com/album/6Lw1wPDQsDXqhUemhoZTue) | 2:25 | 2024-06-20 | 2024-06-29 |
 | [Call On Me](https://open.spotify.com/track/7tXDjHtQ8VaojseWKMGzh1) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Call On Me](https://open.spotify.com/album/6yQ307guErqyn0uAbxFaQs) | 2:24 | 2024-07-19 | 2024-07-27 |
 | [Can We Do Better?](https://open.spotify.com/track/6GmIaA90k1ZylUGCMs3DwS) | [Winterfresh](https://open.spotify.com/artist/5CEQDOtEb9UftqMWwoJXrL) | [Can We Do Better?](https://open.spotify.com/album/5JRyvw1k2uzy1QFppSSjnL) | 2:49 | 2024-07-12 | 2024-07-19 |
@@ -305,6 +306,7 @@
 | [Good Time](https://open.spotify.com/track/6bDOVoxBDwCnWs3C5dUvgR) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Good Time](https://open.spotify.com/album/1nqYSvZvk3ockMHOvtG3tq) | 3:05 | 2024-05-24 | 2024-06-01 |
 | [Goosebumps](https://open.spotify.com/track/6cl7LOzaF96QizDnllJPun) | [Techno Mike](https://open.spotify.com/artist/4AnuN6Wz6nC0eRPPW4OuDt) | [Goosebumps](https://open.spotify.com/album/5ZzwzTT6PrGZC979JVcG1b) | 2:35 | 2024-08-23 | 2024-08-31 |
 | [Got To Believe](https://open.spotify.com/track/0ohw5aRHEw91j6SHeldRn2) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [DJ Disciple](https://open.spotify.com/artist/2p0Waz6D8QKzx1MeSlJEm8), [Progression](https://open.spotify.com/artist/4PGVD4TtOm5BqcAnumBqPH) | [Got To Believe](https://open.spotify.com/album/5h0XnAfPfu0j3iIbeIw2db) | 3:19 | 2024-08-02 | 2024-08-09 |
+| [Groovinator](https://open.spotify.com/track/04TOVzPKDxO9FNcbjTWvuf) | [Mylo](https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD), [The Kudu](https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ) | [Groovinator](https://open.spotify.com/album/7yWpRSJD97ZeYJd9QVYTuX) | 2:21 | 2024-09-02 |  |
 | [Gózalo \(with Deorro\)](https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Gózalo \(with Deorro\)](https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy) | 1:54 | 2024-08-02 | 2024-08-09 |
 | [Half Light](https://open.spotify.com/track/4SFnsEwWLkBS44EJdNOkj9) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Half Light](https://open.spotify.com/album/5Rs1G3NWK3jq7NU4v8adsf) | 3:49 | 2024-08-08 | 2024-08-16 |
 | [Half There](https://open.spotify.com/track/2x1JpdXJQckuFZ41z8Zr5y) | [LOR](https://open.spotify.com/artist/489VqAGm1TZQww4pmFMKa4), [Dominique](https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc) | [Half There](https://open.spotify.com/album/2qYiySWtcYs3EiK4KNoXYv) | 2:52 | 2024-08-25 | 2024-08-31 |

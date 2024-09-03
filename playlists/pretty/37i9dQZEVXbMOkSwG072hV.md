@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,985 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,822 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 11 | [De Graça ou Pagando](https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:16 |
 | 12 | [Relaxa a Bct Mulher](https://open.spotify.com/track/3rhCQVwAYYdcc0yFLQi3Kb) | [DJ NATHAN RV](https://open.spotify.com/artist/2eUmKl5zvdGRVIg2CsFpBh), [DJ Blakes](https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz), [Mc Roba Cena](https://open.spotify.com/artist/3JDFG8UQZzliFU7BiKK40c) | [Relaxa a Bct Mulher](https://open.spotify.com/album/43b8MbRzxEojO69E1sy6dX) | 3:18 |
 | 13 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
-| 14 | [Automativo da Turbulencia](https://open.spotify.com/track/0Y18X1TSNyKvYY8fgrKlgV) | [mal.](https://open.spotify.com/artist/44XXlvXDcY0ZIBa2EF1fgw) | [Automativo Da Turbulencia](https://open.spotify.com/album/750opHJyXdE1zxkYlgbdGO) | 2:13 |
+| 14 | [Automotivo da Turbulencia](https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF) | [Mc Oliver](https://open.spotify.com/artist/3JFJJKilvJeLfWFA6ENhRS), [MC ZKW](https://open.spotify.com/artist/5tDcNu62DRxJ4glbImNOy2), [DJ RD DA DZ7](https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj) | [Automotivo da Turbulencia](https://open.spotify.com/album/4oBA63HKO89DopUAfIMdBH) | 2:12 |
 | 15 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 16 | [Himitsu da yo](https://open.spotify.com/track/0wZ7IfQGUGrUkK9bYB3xJo) | [Tuzera](https://open.spotify.com/artist/3s0liW6FMQi0jZ3cHpU2pU) | [Himitsu da yo](https://open.spotify.com/album/5frK5ka3NhmhxH6c2OFSzf) | 2:17 |
 | 17 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMOkSwG072hV.md) - [plain]
 | 49 | [Escape](https://open.spotify.com/track/1fWa6ZQQAxt9maPGnN2WE4) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [30 Anos de Louvor e Adoração](https://open.spotify.com/album/1hhZQOE9oSvKpqLCFfl4FR) | 7:06 |
 | 50 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/2D0C1CYWKdyau002ZtcTHW) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/0f016CECNxj4rrQfHH4Z0Q) | 3:21 |
 
-Snapshot ID: `LmfWSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmklcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

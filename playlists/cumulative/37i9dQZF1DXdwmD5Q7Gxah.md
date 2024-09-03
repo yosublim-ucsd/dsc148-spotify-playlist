@@ -4,7 +4,7 @@
 
 > it's a Magdalena Bay world
 
-2,957 songs - 6 day 15 hr 49 min
+2,958 songs - 6 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 | 2024-04-19 | 2024-07-12 |
 | [ANGEL FANGS](https://open.spotify.com/track/08qb0NthjRwcBNe7sa0cDR) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [ANGEL FANGS](https://open.spotify.com/album/4dG9qANfO7RSd9pU8xUlUs) | 2:17 | 2020-07-31 | 2020-09-10 |
 | [Angel Landing](https://open.spotify.com/track/1ri3NFmrk6qbTMAHZGJhSg) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Angel Landing](https://open.spotify.com/album/6O95QXgfXKDbt3qxfTdaO4) | 3:52 | 2020-10-30 | 2020-12-04 |
-| [Angel on a Satellite](https://open.spotify.com/track/57C485VPv0kP1XASAwjEYV) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 4:03 | 2024-08-29 |  |
+| [Angel on a Satellite](https://open.spotify.com/track/57C485VPv0kP1XASAwjEYV) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 4:03 | 2024-08-29 | 2024-09-03 |
 | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/track/6CSTneaZKWmtPzZcLfSstQ) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/album/598OcPPCVwE5jK68mTOGNX) | 3:09 | 2023-01-20 | 2023-02-16 |
 | [Angelina](https://open.spotify.com/track/5YTztYEB44rImOMnukFNqI) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Angelina](https://open.spotify.com/album/3sY4fpHYZecvIo3hfuS6GS) | 2:30 | 2024-06-28 | 2024-07-27 |
 | [Angels](https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Angels](https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL) | 3:08 | 2022-02-02 | 2022-05-19 |
@@ -1566,6 +1566,7 @@
 | [Love Bites](https://open.spotify.com/track/4pd09M21PWe0xCiybzNIhe) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Love Bites](https://open.spotify.com/album/7bWsRI7dkz5HVbIf0Em5bW) | 3:48 | 2020-11-20 | 2021-03-06 |
 | [Love Come Down](https://open.spotify.com/track/17EVu5b0l5uo2gErSfqEt1) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 6:05 | 2021-01-29 | 2021-02-06 |
 | [Love Costs](https://open.spotify.com/track/7aJDtyNcnlx8a1P60uqmNn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Love Costs](https://open.spotify.com/album/5gcubcwD8Gvhti1gWvdMuO) | 3:15 | 2024-06-21 |  |
+| [Love Is Everywhere](https://open.spotify.com/track/2ZSDtC0XZnpokAMwRtgqzh) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:14 | 2024-09-02 |  |
 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 | 2022-06-03 | 2022-07-19 |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 | 2023-03-07 |
 | [Love Me](https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Love Me](https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd) | 2:20 | 2022-10-14 | 2022-11-05 |
@@ -2129,7 +2130,7 @@
 | [Running](https://open.spotify.com/track/1rqbzW0VtlQkSmsK7IoBll) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Running](https://open.spotify.com/album/601OmbbRtkHEZLAayrze9b) | 3:37 | 2024-01-19 | 2024-02-10 |
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2021-06-26 | 2022-01-08 |
 | [running in place](https://open.spotify.com/track/3hRD7U3XdIgbtNDnkjjZD4) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/58cat50oNLtyzugNTRQMUe) | 2:45 | 2021-04-24 | 2021-06-05 |
-| [running out of time](https://open.spotify.com/track/7zy7iE31dGO70ShMXghsfj) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 4:29 | 2023-01-29 | 2023-04-25 |
+| [running out of time](https://open.spotify.com/track/7zy7iE31dGO70ShMXghsfj) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 4:29 | 2023-01-29 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-31 | 2022-06-16 |
 | [Rushh](https://open.spotify.com/track/1MKgLYh5VC8n1wKyeMe20n) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Rushh](https://open.spotify.com/album/1pKT67ESmAHQsVxdfSRbsx) | 3:10 | 2022-07-07 | 2022-07-30 |
 | [Rusty](https://open.spotify.com/track/5KgTKKQCX9wP4YIfc4N94l) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [Rusty](https://open.spotify.com/album/5h7xyNmVNAUzzt7OF6OF7O) | 2:54 | 2021-09-17 | 2021-12-02 |

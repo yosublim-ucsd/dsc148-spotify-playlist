@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: XPOSE, Dina Nadzir",
-  "num_followers": 56753,
+  "num_followers": 56761,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Yang Terpilih",
-        "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Terlalu Cinta",
-      "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
-    },
-    {
-      "added_at": "2024-08-23 09:14:07",
-      "album": {
         "name": "Pongki Barata Meets The Stars",
         "url": "https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 232226,
       "name": "1000 Tahun Lamanya",
       "url": "https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID"
+    },
+    {
+      "added_at": "2024-08-23 09:14:07",
+      "album": {
+        "name": "Yang Terpilih",
+        "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
     },
     {
       "added_at": "2024-08-23 09:14:07",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Melayang",
-        "url": "https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt"
-      },
-      "artists": [
-        {
-          "name": "Ungu",
-          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
-        }
-      ],
-      "duration_ms": 307520,
-      "name": "Demi Waktu",
-      "url": "https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8"
-    },
-    {
-      "added_at": "2024-08-23 09:14:07",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+        "name": "Melayang",
+        "url": "https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
         }
       ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+      "duration_ms": 307520,
+      "name": "Demi Waktu",
+      "url": "https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8"
     },
     {
       "added_at": "2024-08-23 09:14:07",
@@ -651,18 +635,18 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
       "artists": [
         {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 241493,
-      "name": "Aku Bukan Untukmu",
-      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
+      "duration_ms": 241266,
+      "name": "Kamulah Satu - Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
     },
     {
       "added_at": "2024-08-23 09:14:07",
@@ -679,6 +663,54 @@
       "duration_ms": 200163,
       "name": "Hanya Aku",
       "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
+    },
+    {
+      "added_at": "2024-08-23 09:14:07",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Berdua Lebih Baik",
+      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
+    },
+    {
+      "added_at": "2024-08-23 09:14:07",
+      "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
+    },
+    {
+      "added_at": "2024-08-23 09:14:07",
+      "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Sekali Ini Saja",
+      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
     },
     {
       "added_at": "2024-08-23 09:14:07",
@@ -735,26 +767,6 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Love, Life & Music",
-        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Kamu Yang Kutunggu",
-      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
-    },
-    {
-      "added_at": "2024-08-23 09:14:07",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -771,38 +783,6 @@
     {
       "added_at": "2024-08-23 09:14:07",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Berdua Lebih Baik",
-      "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
-    },
-    {
-      "added_at": "2024-08-23 09:14:07",
-      "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
-      },
-      "artists": [
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Sekali Ini Saja",
-      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
-    },
-    {
-      "added_at": "2024-08-23 09:14:07",
-      "album": {
         "name": "Sudah Ku Tahu",
         "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
       },
@@ -815,6 +795,22 @@
       "duration_ms": 258331,
       "name": "Sudah Ku Tahu",
       "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
+    },
+    {
+      "added_at": "2024-08-23 09:14:07",
+      "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Akhir Cerita Cinta",
+      "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
     },
     {
       "added_at": "2024-08-23 09:14:07",

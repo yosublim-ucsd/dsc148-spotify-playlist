@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "believed",
+        "url": "https://open.spotify.com/album/65TinZpS9iX0S4aOvXYUAl"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "believed",
+      "url": "https://open.spotify.com/track/6dEKvEjO2aKRW8sETTH7Pv"
+    },
+    {
+      "album": {
         "name": "Bells",
         "url": "https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB"
       },
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 165023,
       "name": "Hues",
       "url": "https://open.spotify.com/track/69liE6Bhwv1vDcUyYuLlTn"
@@ -1846,6 +1864,24 @@
       "duration_ms": 117638,
       "name": "Lid",
       "url": "https://open.spotify.com/track/1ELEE2AKrasjJzMbVUBDYA"
+    },
+    {
+      "album": {
+        "name": "looking glass",
+        "url": "https://open.spotify.com/album/1y7oXo6qUMP4o3kjR939nR"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165208,
+      "name": "looking glass",
+      "url": "https://open.spotify.com/track/6hXQxvv49Ngmu27f2YpAm6"
     },
     {
       "album": {
@@ -2905,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "soft life",
+        "url": "https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "soft life",
+      "url": "https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N"
       },
@@ -2934,7 +2988,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 164395,
       "name": "Solemnity",
       "url": "https://open.spotify.com/track/5SFneEGsmuyDQ7icV9q7QS"
@@ -3464,7 +3518,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 126750,
       "name": "Trzymaj Mnie",
       "url": "https://open.spotify.com/track/75aSMYjVgAcknIrIJ9JEvA"

@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Sleepy Hallow, Sheff G
 
-361 songs - 17 hr 41 min
+362 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Next Up Australia \- S1\-E7](https://open.spotify.com/track/4v64dIlDQ2k4ZpDZeJ4HDV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Next Up Australia \- S1\-E7](https://open.spotify.com/album/3JRghRZoDxlBTG4ACYU1UC) | 2:17 | 2024-02-22 | 2024-05-03 |
 | [Next Up Australia \- S1\-E9 \- Pt.2](https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E9](https://open.spotify.com/album/3p7jtRW9XQ2CieEay3YYHx) | 1:49 | 2024-03-07 | 2024-05-10 |
 | [Nkita \(feat\. Fimiguerrero\)](https://open.spotify.com/track/0ZTM2WCM4fAOwmYtG9pbnm) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Nkita \(feat\. Fimiguerrero\)](https://open.spotify.com/album/1oTf2VWsO3CWjc1S4EWDkz) | 2:25 | 2024-06-21 | 2024-08-02 |
+| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-09-03 |  |
 | [No Face](https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Set The Tone \(Guns & Roses\)](https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc) | 4:35 | 2024-05-09 | 2024-06-22 |
 | [No Reason](https://open.spotify.com/track/02zVMezpAua7ZMmbzSyejO) | [808Riot](https://open.spotify.com/artist/3gnDrRehqMUXOrKU6mBUOe), [JAKOBI](https://open.spotify.com/artist/3IeagIAbCK3T2TRQUO0Wwt) | [No Reason](https://open.spotify.com/album/5Mrxmb4rgY5yFs6wQy9UCB) | 2:04 | 2024-01-04 | 2024-02-09 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-06 |  |

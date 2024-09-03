@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Vamos Correr Pro Mar",
+        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
+      },
+      "artists": [
+        {
+          "name": "Seu Cuca",
+          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206677,
+      "name": "Vamos Correr Pro Mar",
+      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
+    },
+    {
+      "album": {
         "name": "Vamos Fingir",
         "url": "https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8"
       },

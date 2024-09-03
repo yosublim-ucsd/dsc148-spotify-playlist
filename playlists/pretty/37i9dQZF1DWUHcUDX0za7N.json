@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Jeriq",
-  "num_followers": 53757,
+  "num_followers": 53794,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -743,42 +743,6 @@
     {
       "added_at": "2024-08-30 04:59:23",
       "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
-      },
-      "artists": [
-        {
-          "name": "Keys the Prince",
-          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
-    },
-    {
-      "added_at": "2024-08-30 04:59:23",
-      "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
-    },
-    {
-      "added_at": "2024-08-30 04:59:23",
-      "album": {
         "name": "Oppress",
         "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
       },
@@ -807,6 +771,42 @@
     {
       "added_at": "2024-08-30 04:59:23",
       "album": {
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
+    },
+    {
+      "added_at": "2024-08-30 04:59:23",
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
+      },
+      "artists": [
+        {
+          "name": "Keys the Prince",
+          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
+    },
+    {
+      "added_at": "2024-08-30 04:59:23",
+      "album": {
         "name": "AREA BOYZ (DELUXE)",
         "url": "https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo"
       },
@@ -823,30 +823,6 @@
       "duration_ms": 198560,
       "name": "SPIN DA BLOCK",
       "url": "https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM"
-    },
-    {
-      "added_at": "2024-08-30 04:59:23",
-      "album": {
-        "name": "No Love In Lagos",
-        "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        },
-        {
-          "name": "Nsikak David",
-          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
-        }
-      ],
-      "duration_ms": 189199,
-      "name": "No Love In Lagos",
-      "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
     },
     {
       "added_at": "2024-08-30 04:59:23",
@@ -887,6 +863,30 @@
       "duration_ms": 185411,
       "name": "Soro",
       "url": "https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX"
+    },
+    {
+      "added_at": "2024-08-30 04:59:23",
+      "album": {
+        "name": "No Love In Lagos",
+        "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "duration_ms": 189199,
+      "name": "No Love In Lagos",
+      "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
     },
     {
       "added_at": "2024-08-30 04:59:23",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-08-30 04:59:23",
       "album": {
+        "name": "Will Be",
+        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
+      },
+      "artists": [
+        {
+          "name": "Michealz",
+          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Will Be",
+      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
+    },
+    {
+      "added_at": "2024-08-30 04:59:23",
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 186796,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
-    },
-    {
-      "added_at": "2024-08-30 04:59:23",
-      "album": {
-        "name": "Will Be",
-        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
-      },
-      "artists": [
-        {
-          "name": "Michealz",
-          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Will Be",
-      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
     },
     {
       "added_at": "2024-08-30 04:59:23",

@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 164648,
       "name": "Hopes and Dreams",
       "url": "https://open.spotify.com/track/3Le8dA7PwImsZxRgEnwnt6"
@@ -1248,6 +1248,24 @@
       "duration_ms": 121500,
       "name": "Mirno",
       "url": "https://open.spotify.com/track/7oEbJXeTbSSWBNVr0RHRgM"
+    },
+    {
+      "album": {
+        "name": "Misterbianco",
+        "url": "https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW"
+      },
+      "artists": [
+        {
+          "name": "Mireia Lluna",
+          "url": "https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105874,
+      "name": "Misterbianco",
+      "url": "https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G"
     },
     {
       "album": {
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 155624,
       "name": "Tinamou",
       "url": "https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT"
@@ -2274,6 +2292,24 @@
       "duration_ms": 143500,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"
+    },
+    {
+      "album": {
+        "name": "\u00c9toile",
+        "url": "https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148458,
+      "name": "\u00c9toile",
+      "url": "https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7cZxYLqLUJl"

@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 150133,
       "name": "Jatt Di Pasand",
       "url": "https://open.spotify.com/track/6Y3WQXMeooXhysUaOq7XH3"
@@ -2433,6 +2433,42 @@
     },
     {
       "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/6timgyCLIHf64gsUxxfcxp"
+      },
+      "artists": [
+        {
+          "name": "Deep Dhaliwal",
+          "url": "https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Untouchable",
+      "url": "https://open.spotify.com/track/6iaZ3W10Oy9s8GgXq2TN28"
+    },
+    {
+      "album": {
+        "name": "VOW",
+        "url": "https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg"
+      },
+      "artists": [
+        {
+          "name": "Kaash",
+          "url": "https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359917,
+      "name": "VOW",
+      "url": "https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu"
+    },
+    {
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP"
       },
@@ -2580,7 +2616,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 160159,
       "name": "What's Beef",
       "url": "https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga"

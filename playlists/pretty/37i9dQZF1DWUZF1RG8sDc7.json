@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 131214,
+  "num_followers": 131274,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Clasicos de la Provincia",
-        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Amor Sensible",
-      "url": "https://open.spotify.com/track/2kqXk0cmW404g5P2iHxOjl"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Enamorandote",
         "url": "https://open.spotify.com/album/5btsdJQmvJRmhgAAro8w6h"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 254186,
       "name": "La Gemela",
       "url": "https://open.spotify.com/track/0ZHjL0IEpX94Z1S6lqB6xq"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Amor Sensible",
+      "url": "https://open.spotify.com/track/2kqXk0cmW404g5P2iHxOjl"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Destellos de Amor",
-        "url": "https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r"
-      },
-      "artists": [
-        {
-          "name": "Adriana Lucia",
-          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
-        },
-        {
-          "name": "Herold Rivera",
-          "url": "https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R"
-        },
-        {
-          "name": "Conexi\u00f3n Carito",
-          "url": "https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Dilo",
-      "url": "https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
         "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Destellos de Amor",
+        "url": "https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        },
+        {
+          "name": "Herold Rivera",
+          "url": "https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R"
+        },
+        {
+          "name": "Conexi\u00f3n Carito",
+          "url": "https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN"
+        }
+      ],
+      "duration_ms": 255613,
+      "name": "Dilo",
+      "url": "https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Grandes \u00c9xitos de los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4yKNXDW1ZOpkFIapNpfyHR"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name la Vida",
+      "url": "https://open.spotify.com/track/2Z4mhXRWi1ef8eqW8i4hjH"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Historia Musical",
         "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 306280,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

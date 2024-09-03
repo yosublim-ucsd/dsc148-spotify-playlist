@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Moriones
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: DESH, Young Fly, Azahriah
 
 64 songs - 3 hr 4 min
 

@@ -16335,6 +16335,24 @@
     },
     {
       "album": {
+        "name": "Misterbianco",
+        "url": "https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW"
+      },
+      "artists": [
+        {
+          "name": "Mireia Lluna",
+          "url": "https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105874,
+      "name": "Misterbianco",
+      "url": "https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G"
+    },
+    {
+      "album": {
         "name": "Mis\u00e9rable",
         "url": "https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08"
       },
@@ -23850,6 +23868,24 @@
       "duration_ms": 148801,
       "name": "Snowfall in a Forest",
       "url": "https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A"
+    },
+    {
+      "album": {
+        "name": "soft life",
+        "url": "https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "soft life",
+      "url": "https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL"
     },
     {
       "album": {

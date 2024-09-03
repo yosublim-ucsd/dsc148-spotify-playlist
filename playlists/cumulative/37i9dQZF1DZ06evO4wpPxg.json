@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
+  "description": "This is Rev. Gary Davis. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Rev. Gary Davis",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "A Little More Faith",
       "url": "https://open.spotify.com/track/5TTKDtedtCZOEK9RUDWr32"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 139860,
       "name": "Banjo Instrumental, No. 2",
       "url": "https://open.spotify.com/track/7tfMguaFlQVCXX6tJ865GR"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 154253,
       "name": "Darktown Strutters Ball",
       "url": "https://open.spotify.com/track/78HrAH7k0oIe0hBsOi1X4F"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 200373,
       "name": "Hesitation Blues",
       "url": "https://open.spotify.com/track/58ic3Ezzj1suFYlRhLO6Zq"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 189106,
       "name": "I Didn't Want to Join the Band",
       "url": "https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz"
@@ -4138,7 +4138,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 180680,
       "name": "Slippin' to My Gal Comes in Partner",
       "url": "https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj"

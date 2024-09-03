@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 54548,
+  "num_followers": 54604,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
         "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 182400,
       "name": "Man Stealer Blues",
       "url": "https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 130649,
-      "name": "Rock the Bop",
-      "url": "https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq"
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+      "duration_ms": 130649,
+      "name": "Rock the Bop",
+      "url": "https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -799,18 +799,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Trixie's Blues (Original Songs Remastered)",
-        "url": "https://open.spotify.com/album/1mLIyePVxZJ3EZOWTNp6bP"
+        "name": "The Victoria Spivey Collection 1926-27",
+        "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
       "artists": [
         {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+          "name": "Victoria Spivey",
+          "url": "https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4"
+        },
+        {
+          "name": "Louis Armstrong's Orchestra",
+          "url": "https://open.spotify.com/artist/2zDpfbbDiCyXhKSZIwiDpY"
         }
       ],
-      "duration_ms": 165589,
-      "name": "Jack I'm Mellow",
-      "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
+      "duration_ms": 196453,
+      "name": "Funny Feathers",
+      "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -831,22 +835,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Victoria Spivey Collection 1926-27",
-        "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
+        "name": "The Trixie's Blues (Original Songs Remastered)",
+        "url": "https://open.spotify.com/album/1mLIyePVxZJ3EZOWTNp6bP"
       },
       "artists": [
         {
-          "name": "Victoria Spivey",
-          "url": "https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4"
-        },
-        {
-          "name": "Louis Armstrong's Orchestra",
-          "url": "https://open.spotify.com/artist/2zDpfbbDiCyXhKSZIwiDpY"
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
         }
       ],
-      "duration_ms": 196453,
-      "name": "Funny Feathers",
-      "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
+      "duration_ms": 165589,
+      "name": "Jack I'm Mellow",
+      "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Female Crazy Blues (Classic Mood Experience)",
-        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204831,
-      "name": "Crazy Blues",
-      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
         "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 183667,
       "name": "I Crave Your Lovin' Every Day",
       "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Female Crazy Blues (Classic Mood Experience)",
+        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204831,
+      "name": "Crazy Blues",
+      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Milestones of Legends - Female Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/1tooc4z8lEcb5g3bXqwlwJ"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Any Woman's Blues",
+      "url": "https://open.spotify.com/track/178Sq9Ao4vivMJ6vfALqHB"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Grievous Blues",
         "url": "https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 163133,
       "name": "Dirty Moaner Blues",
       "url": "https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Milestones of Legends - Female Blues, Vol. 1",
-        "url": "https://open.spotify.com/album/1tooc4z8lEcb5g3bXqwlwJ"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Any Woman's Blues",
-      "url": "https://open.spotify.com/track/178Sq9Ao4vivMJ6vfALqHB"
     },
     {
       "added_at": "2024-06-02 16:39:20",

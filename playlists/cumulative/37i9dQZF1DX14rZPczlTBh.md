@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-137 songs - 7 hr 49 min
+139 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 | 2024-08-23 |  |
 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 | 2021-06-24 | 2024-08-24 |
 | [Gudilo Badilo Madilo \- From "D.J."](https://open.spotify.com/track/6YbsnZyosLQW36DJsFNMqO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Gudilo Badilo Madilo \(From "D.J."\)](https://open.spotify.com/album/5ss7H6y8hbyUEmJoZmFKFn) | 4:24 | 2021-06-24 | 2022-07-29 |
+| [Hero Entry](https://open.spotify.com/track/4sKe2yK6ceIhoBYRdr8BLY) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Tillu Square \- OST](https://open.spotify.com/album/7bqzL2VfqE1qQRM9nhWjRN) | 1:08 | 2024-09-02 |  |
 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 | 2024-08-23 |  |
 | [Hey Amigo](https://open.spotify.com/track/1bkkVI2YHt1c2iLEUyANAU) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Bandobast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oUNzRIdKqYBH3WQqMhYUQ) | 4:32 | 2021-06-24 | 2024-08-24 |
 | [Hulala](https://open.spotify.com/track/6dfzvJmyJN2vmAywOeFVMO) | [Sweekar Agasthi, Silvia Anisha](https://open.spotify.com/artist/49c1BIAlKXTdlc7NMivhMe) | [Express Raja](https://open.spotify.com/album/1T6t4DS8YhHLEJJk9Pbyx7) | 3:43 | 2021-06-24 | 2024-08-24 |
@@ -80,6 +81,7 @@
 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 | 2024-08-23 |  |
 | [MCA](https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 3:17 | 2021-06-24 | 2022-07-29 |
 | [MCA](https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:17 | 2021-06-24 | 2024-08-24 |
+| [Mehaboob Theme](https://open.spotify.com/track/5O6DBwk3vHjPLfYMGjcuF6) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Tillu Square \- OST](https://open.spotify.com/album/7bqzL2VfqE1qQRM9nhWjRN) | 1:26 | 2024-09-02 |  |
 | [Miami](https://open.spotify.com/track/3yTT15CQlhscT81BcImuqk) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gaopiyX0WtLuTMgQvZeUo) | 3:42 | 2021-06-24 | 2022-07-29 |
 | [Miami \- Ma Ma Ma Ma Mia](https://open.spotify.com/track/4BfdCnlFZ8sSSL21Sho1yf) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Th8ogCMASbR8eJ9xL3ekG) | 3:38 | 2021-06-24 | 2024-08-24 |
 | [Miami Dj Remix](https://open.spotify.com/track/1P6GZJqUtFQ2Wv2gXuSmf4) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Chal Mohan Ranga](https://open.spotify.com/album/6opwqr8TSIt91hqgN3aHE4) | 3:38 | 2021-06-24 | 2024-08-24 |

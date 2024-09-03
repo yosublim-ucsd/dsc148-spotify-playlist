@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > House music therapy for the dance floor \| Tech House \| Submit: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,025 likes - 65 songs - 3 hr 23 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,023 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,21 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 63 | [You're The Fire](https://open.spotify.com/track/0mIi22l7aDvYQoni2V8sNN) | [Sevnth Heavn](https://open.spotify.com/artist/1Lw8gOq0Iw7TZefQVxbdHr) | [You're The Fire](https://open.spotify.com/album/7KcoFooMWlX629gTLZwbqN) | 3:22 |
 | 64 | [Stay Together \(Baby Baby\) \[feat\. Vula\] \- VIP](https://open.spotify.com/track/3Zwh9Y7RaAyVqfYL5Qt4wx) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Stay Together \(Baby Baby\) \[feat\. Vula\] \[VIP\]](https://open.spotify.com/album/5DNzzEZ3smCWR4Fmuy7BTY) | 2:46 |
 | 65 | [Shake It](https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Shake It](https://open.spotify.com/album/1O4lERAS7dRSaJkV3zN1mM) | 2:55 |
+| 66 | [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 |
+| 67 | [I Wanna Be U](https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [I Wanna Be U](https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ) | 2:22 |
+| 68 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 |
+| 69 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 |
+| 70 | [212](https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [212](https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB) | 2:18 |
+| 71 | [Turn Up](https://open.spotify.com/track/6FtzDS0fUVG0TJQY59jHy0) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Give Me EP](https://open.spotify.com/album/7d27tyYSvvLK7WXkAT6r5D) | 3:58 |
+| 72 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 |
+| 73 | [Sunrise Demon](https://open.spotify.com/track/0mwTV1ZQYexuc7IesFfS9c) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ), [NotEvenTanner](https://open.spotify.com/artist/2FS6z8pQbDMXrscqKiw983) | [Sunrise Demon](https://open.spotify.com/album/4SRlU2HFtyRKnvNGChiInZ) | 3:11 |
+| 74 | [Too Close](https://open.spotify.com/track/3CT0Cb1X3dnBUJ4N4VAOZS) | [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Too Close](https://open.spotify.com/album/0ICw90gfprchNuix5JIaNs) | 2:18 |
+| 75 | [Believe In The Music](https://open.spotify.com/track/5Vwz4Sg0wQ78MaaoQYzbOA) | [Michael Leathers](https://open.spotify.com/artist/6QZdgsd7NHLTvcPt5RS5ll) | [Believe In The Music](https://open.spotify.com/album/4aYDbQEiucdpKdOhmjZnrs) | 2:38 |
+| 76 | [Take Control](https://open.spotify.com/track/6y410lrKkBp9GEBcaeXrKq) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Take Control](https://open.spotify.com/album/5l3ukkou7CyavlTU9hf4xF) | 3:03 |
+| 77 | [Ahamprehma](https://open.spotify.com/track/5VJMbEWm0WBa9Sx9jvSReZ) | [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm), [Mantrance](https://open.spotify.com/artist/0fymhqHhbINqHrNaGhU8cV) | [Ahamprehma](https://open.spotify.com/album/3JHuihqDInGN0kX8PF0yS6) | 3:32 |
+| 78 | [Feel It](https://open.spotify.com/track/6jSp2mezTWMDY6RZnbjZo5) | [Richard Vission](https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt) | [Feel It](https://open.spotify.com/album/6t7su7MXASPwfwLnE3nQRM) | 2:31 |
+| 79 | [Kickin](https://open.spotify.com/track/3eOvuzq1P0Sn4HNZI8vw21) | [Seeing Double](https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj) | [Kickin](https://open.spotify.com/album/57J0X0siPkNv9Wqgy2gCuj) | 3:56 |
+| 80 | [Bellakeo](https://open.spotify.com/track/0i2h5bvXf7j4Agf5WX7www) | [Bali](https://open.spotify.com/artist/55UOzTvLV8dyXGXiAbQ7Cl) | [Bellakeo](https://open.spotify.com/album/66ULutr87ETbZcSK4zNXUC) | 2:44 |
+| 81 | [Gasolina Flow \- Radio Edit](https://open.spotify.com/track/6pCL68zckPDmwbvcBO0ZQ2) | [D\-Rashid](https://open.spotify.com/artist/3BAbtGcpq9F6a7TJyw9krT), [Rounz](https://open.spotify.com/artist/6Lu46xIXiBUmXTespzvyb7) | [Gasolina Flow](https://open.spotify.com/album/0xpqgupIrBDSKhZpB1KbQw) | 3:22 |
 
-Snapshot ID: `AAAY3IeXq/8Y3rNkibpyGN3pvVoO2rZi`
+Snapshot ID: `AAAY7bPokIUq1q95VxyW80kONuUi4p8q`

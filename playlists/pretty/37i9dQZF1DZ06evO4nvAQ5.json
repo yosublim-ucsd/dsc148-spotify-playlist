@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14518,
+  "num_followers": 14522,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtJdAAAAAACGQ5N0b2FvF5n8jmd2Mz8z",
+  "snapshot_id": "ZtOugAAAAAABY7LhiYitEG1NDuj3vDRZ",
   "tracks": [
     {
       "added_at": null,
@@ -656,13 +656,17 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
-          "name": "Million Stylez",
-          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
+          "name": "Spawnbreezie",
+          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
+        },
+        {
+          "name": "Jah Maoli",
+          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
         }
       ],
-      "duration_ms": 197848,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
+      "duration_ms": 241083,
+      "name": "Hawaiian Pakalolo",
+      "url": "https://open.spotify.com/track/33wJTyMde69nSAreVisHlk"
     },
     {
       "added_at": null,
@@ -728,17 +732,13 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
-          "name": "Spawnbreezie",
-          "url": "https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6"
-        },
-        {
-          "name": "Jah Maoli",
-          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
+          "name": "Million Stylez",
+          "url": "https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L"
         }
       ],
-      "duration_ms": 241083,
-      "name": "Hawaiian Pakalolo",
-      "url": "https://open.spotify.com/track/33wJTyMde69nSAreVisHlk"
+      "duration_ms": 197848,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp"
     },
     {
       "added_at": null,
@@ -911,6 +911,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loose Shakas",
+        "url": "https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Freddy Leone",
+          "url": "https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Franskiiz",
+          "url": "https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Remember Gregory Isaacs",
         "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
       },
@@ -971,30 +999,6 @@
       "duration_ms": 239373,
       "name": "Danger",
       "url": "https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Lion Fiyah",
-          "url": "https://open.spotify.com/artist/4os8LHgkbQYhV5pvJeytcq"
-        },
-        {
-          "name": "Gappy Ranks",
-          "url": "https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Blaze It for Days (feat. Lion Fiyah & Gappy Ranks)",
-      "url": "https://open.spotify.com/track/48Lsxsxa8Z6XIxFK9uImA7"
     }
   ],
   "unique_name": "This Is J Boog",

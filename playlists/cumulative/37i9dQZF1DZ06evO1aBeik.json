@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-10",
-  "description": "This is Post Malone. The essential tracks, all in one playlist.",
+  "description": "This is Post Malone. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Post Malone",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 212353,
       "name": "Goes Without Saying (Feat. Brad Paisley)",
       "url": "https://open.spotify.com/track/20hTkA9oKKuxghkRptRczS"
@@ -578,6 +578,28 @@
       "duration_ms": 202638,
       "name": "Hey Mercedes",
       "url": "https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220479,
+      "name": "Hide My Gun (Feat. HARDY)",
+      "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Clairo
 
-993 songs - 2 day 3 hr 32 min
+994 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Let's Start a Country](https://open.spotify.com/track/41KhQPE4YvR5DolLkzqPgp) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Let's Start a Country](https://open.spotify.com/album/2MaaIRpWUxEpq35j8BwqDR) | 3:34 | 2023-08-18 | 2024-05-11 |
 | [let's stay at home](https://open.spotify.com/track/5v2qeWGNVgaev2dJNKBlPV) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [i'll see you there](https://open.spotify.com/album/1YI5xAhDZxsEB6ugTkInmM) | 2:18 | 2021-10-08 | 2022-04-21 |
 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 | 2022-03-04 | 2024-04-24 |
+| [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 | 2024-08-30 |  |
 | [Life Inside](https://open.spotify.com/track/2tpA4UByrUKHRCaSiS0eno) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Life Inside](https://open.spotify.com/album/0apJiS68nSoiEOpcrCn2dC) | 3:36 | 2020-05-02 | 2022-06-26 |
 | [lighten my mood](https://open.spotify.com/track/3uCjTYZPhUOATADE08Pyzv) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [lighten my mood](https://open.spotify.com/album/6DT4s3XmzYr5GNAgaFzFIq) | 2:40 | 2021-06-25 | 2022-06-17 |
 | [Lightning](https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Lightning](https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk) | 3:15 | 2023-07-14 | 2023-08-12 |
@@ -951,7 +952,7 @@
 | [What Can I Say?](https://open.spotify.com/track/46PqBgfqrVVkuQgZJaK0SD) | [Sam Woods](https://open.spotify.com/artist/0mJP3OOM9MbqWmuEjgabcV) | [What Can I Say?](https://open.spotify.com/album/2Xnt0Apm23tipW2wXx1uXc) | 2:41 | 2020-05-17 | 2021-05-27 |
 | [What Happens In Your Head?](https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What Happens In Your Head?](https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O) | 3:34 | 2023-07-14 | 2024-06-01 |
 | [What Is Love? Tell Me, Is It Easy?](https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Spoonfed](https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg) | 3:50 | 2019-07-30\* | 2024-04-24 |
-| [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 | 2024-01-12 |  |
+| [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 | 2024-01-12 | 2024-09-03 |
 | [What U Give U Receive](https://open.spotify.com/track/5ep5oVYuJo4BJX2P8q1QbX) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [barista boy](https://open.spotify.com/album/4S6zDcqTEP5TjGudLb7eUA) | 2:05 | 2021-02-27 | 2022-04-21 |
 | [What You Do To Me](https://open.spotify.com/track/0QuQCTJL4UXkDx111mXrbL) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [What You Do To Me](https://open.spotify.com/album/3P2eHCVYVyfzYRlmG5I2qO) | 3:16 | 2021-02-27 | 2024-04-24 |
 | [What You Do To Me](https://open.spotify.com/track/755fpw1IGAFIZ0uqjMfTvc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Some Days](https://open.spotify.com/album/3IFCd1wLD6M7rCntUsltk2) | 4:14 | 2021-05-01 | 2022-04-19 |

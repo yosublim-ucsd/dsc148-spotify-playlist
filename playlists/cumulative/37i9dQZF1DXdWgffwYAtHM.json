@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:68pZRcoMuq0DTgsc0DJXB9\">Joguei no Grupo</a>",
+  "description": "Podcasts que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:08kk3SYhqXvEEH26Pc243s\">Clube do Erro</a>",
   "name": "RADAR Podcasters Brasil",
   "tracks": [
     {
@@ -70,10 +70,28 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 3340376,
       "name": "#55 - que linda, meu amor! voc\u00ea \u00e9 muito ol\u00edmpica!",
       "url": "https://open.spotify.com/episode/6kzyZ5Xpnm4Frqxlw0TgYt"
+    },
+    {
+      "album": {
+        "name": "Joguei no Grupo",
+        "url": "https://open.spotify.com/album/68pZRcoMuq0DTgsc0DJXB9"
+      },
+      "artists": [
+        {
+          "name": "Joguei no Grupo",
+          "url": "https://open.spotify.com/show/68pZRcoMuq0DTgsc0DJXB9"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5071005,
+      "name": "#60 Passamos Vergonha? com Diva Depress\u00e3o - Joguei No Grupo",
+      "url": "https://open.spotify.com/episode/3LrxKZsqvIUCpS9zDETQRd"
     },
     {
       "album": {
@@ -106,10 +124,28 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 2054198,
       "name": "#76 E quando a zona de conforto \u00e9 uma cilada?",
       "url": "https://open.spotify.com/episode/2nJQCtqLHO2NJHk10NWKRB"
+    },
+    {
+      "album": {
+        "name": "Eu preciso falar de amor ",
+        "url": "https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd"
+      },
+      "artists": [
+        {
+          "name": "Eu preciso falar de amor ",
+          "url": "https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2192148,
+      "name": "#81 Encerrar ciclos e se priorizar",
+      "url": "https://open.spotify.com/episode/7tqBlecTjLFkIZggYUexDp"
     },
     {
       "album": {
@@ -124,7 +160,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 1624050,
       "name": "A ca\u00e7ada da internet que solucionou um crime",
       "url": "https://open.spotify.com/episode/7Jh8cUrOGm9h1CM25wbRjk"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 3915923,
       "name": "a fam\u00edlia que eu escolho (part. errando em p\u00fablico!)",
       "url": "https://open.spotify.com/episode/28Vn9r2HtG0ddmJTXWrGRU"
@@ -239,6 +275,42 @@
     },
     {
       "album": {
+        "name": "Clube do Erro",
+        "url": "https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s"
+      },
+      "artists": [
+        {
+          "name": "Clube do Erro",
+          "url": "https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1110633,
+      "name": "Clube do Erro #031 - De Repente, \u00c0 Dist\u00e2ncia",
+      "url": "https://open.spotify.com/episode/0DmQiwTk6Kd752WlcYGroF"
+    },
+    {
+      "album": {
+        "name": "vibes em an\u00e1lise",
+        "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
+      },
+      "artists": [
+        {
+          "name": "vibes em an\u00e1lise",
+          "url": "https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2785227,
+      "name": "COISAS QUE IRRITAM",
+      "url": "https://open.spotify.com/episode/2bygoBbucATKmmYha6oR6U"
+    },
+    {
+      "album": {
         "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
         "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
       },
@@ -311,6 +383,24 @@
     },
     {
       "album": {
+        "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+        "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
+      },
+      "artists": [
+        {
+          "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
+          "url": "https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1021865,
+      "name": "meus limites",
+      "url": "https://open.spotify.com/episode/4SoeZvhVJHtRSXZYMTZIFA"
+    },
+    {
+      "album": {
         "name": "vibes em an\u00e1lise",
         "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
       },
@@ -322,10 +412,46 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 4196440,
       "name": "M\u00c3ES SUFICIENTEMENTE NARCISISTAS",
       "url": "https://open.spotify.com/episode/47NORZdLle3IBHkCBVkx1z"
+    },
+    {
+      "album": {
+        "name": "Assustador, Bizarro e Misterioso",
+        "url": "https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR"
+      },
+      "artists": [
+        {
+          "name": "Assustador, Bizarro e Misterioso",
+          "url": "https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1254365,
+      "name": "Nem os c\u00e9ticos conseguem explicar esse caso",
+      "url": "https://open.spotify.com/episode/5UX83Zgw6wHlfL0jPSshBX"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3rias pra adulto dormir",
+        "url": "https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt"
+      },
+      "artists": [
+        {
+          "name": "Hist\u00f3rias pra adulto dormir",
+          "url": "https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 915213,
+      "name": "O JOVEM BRUXO CHAMADO NEIL GOBLE - Hist\u00f3rias pra Adulto Dormir (Som de Tempestade)",
+      "url": "https://open.spotify.com/episode/61iMn6OjTS2pTFYBC3ukir"
     },
     {
       "album": {
@@ -376,7 +502,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 2377585,
       "name": "o que sobra da gente quando uma rela\u00e7\u00e3o acaba #19",
       "url": "https://open.spotify.com/episode/1uLjrdTWu6pyiAJYUcaCsi"
@@ -466,10 +592,28 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 3951957,
       "name": "O QUE TEM NA SUA CARTEIRA? #32 | com Luanna Toniolo, Empres\u00e1ria",
       "url": "https://open.spotify.com/episode/6AusK0ye5GbO1BB2G7suA6"
+    },
+    {
+      "album": {
+        "name": "O que tem na sua carteira?",
+        "url": "https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG"
+      },
+      "artists": [
+        {
+          "name": "O que tem na sua carteira?",
+          "url": "https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3132906,
+      "name": "O QUE TEM NA SUA CARTEIRA? #37 | com Mariana Goldfarb, Influenciadora e nutricionista",
+      "url": "https://open.spotify.com/episode/2yJtjuKxnTJzadVwxk4MJb"
     },
     {
       "album": {
@@ -502,7 +646,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 706187,
       "name": "O \u00daLTIMO DIA - Hist\u00f3rias pra Adulto Dormir (Grilos da Noite)",
       "url": "https://open.spotify.com/episode/0LRhk5krCIuz4pGP8CpgrH"
@@ -668,6 +812,24 @@
       "duration_ms": 1261563,
       "name": "Um sobreviveu pra contar a hist\u00f3ria",
       "url": "https://open.spotify.com/episode/1AY2wAjhgJoxIc2PR6aSvT"
+    },
+    {
+      "album": {
+        "name": "bom mesmo \u00e9 ser emocionada",
+        "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
+      },
+      "artists": [
+        {
+          "name": "bom mesmo \u00e9 ser emocionada",
+          "url": "https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1974824,
+      "name": "voc\u00ea n\u00e3o \u00e9 uma coitada #24",
+      "url": "https://open.spotify.com/episode/6uEyTaUQusnXYovMh0i16K"
     },
     {
       "album": {

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 205829,
       "name": "24 hour stopover",
       "url": "https://open.spotify.com/track/5CBaikcT4Gx8iO8jQvmyDU"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 228139,
       "name": "A Note's Journey",
       "url": "https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 248624,
       "name": "Bitterly",
       "url": "https://open.spotify.com/track/5Xm41ptJQvE3seHAInytkr"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 321886,
       "name": "Blue Storm",
       "url": "https://open.spotify.com/track/7vR8lcQfO0FEHVy529PfOo"
@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 251656,
       "name": "Echoes of Elegance",
       "url": "https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 246250,
       "name": "Forgetful",
       "url": "https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y"
@@ -7504,7 +7504,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 163704,
       "name": "I've Been Dreaming",
       "url": "https://open.spotify.com/track/7Fudip9GPATB4YTKocr6fS"
@@ -7850,6 +7850,24 @@
       "duration_ms": 174867,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+    },
+    {
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182667,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A"
     },
     {
       "album": {
@@ -8843,6 +8861,24 @@
     },
     {
       "album": {
+        "name": "Just a Light Beauty",
+        "url": "https://open.spotify.com/album/7guE58VKo80dau4Lp2iJTQ"
+      },
+      "artists": [
+        {
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202832,
+      "name": "Just a Light Beauty",
+      "url": "https://open.spotify.com/track/6NrUTGEMrBPrh5LX7cR2Hh"
+    },
+    {
+      "album": {
         "name": "Romeo's Mood",
         "url": "https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI"
       },
@@ -9077,6 +9113,24 @@
     },
     {
       "album": {
+        "name": "Lament of the Heart",
+        "url": "https://open.spotify.com/album/0LOEkhXmbYotwSoTSvpqEG"
+      },
+      "artists": [
+        {
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203828,
+      "name": "Lament of the Heart",
+      "url": "https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR"
+    },
+    {
+      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ"
       },
@@ -9167,6 +9221,24 @@
     },
     {
       "album": {
+        "name": "Late Afternoon",
+        "url": "https://open.spotify.com/album/4xHxAFDudO7yvkMVf0kiVB"
+      },
+      "artists": [
+        {
+          "name": "The Central Park North",
+          "url": "https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216636,
+      "name": "Late Afternoon",
+      "url": "https://open.spotify.com/track/4ySYI3lRedo9iXbrraPsQN"
+    },
+    {
+      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m"
       },
@@ -9232,7 +9304,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 292623,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s"
@@ -12184,7 +12256,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 207554,
       "name": "Nothing But Elegant",
       "url": "https://open.spotify.com/track/58Q2Hb5b9P952cBon5gwnA"
@@ -12260,6 +12332,24 @@
       "duration_ms": 211671,
       "name": "Numerous Occasions",
       "url": "https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL"
+    },
+    {
+      "album": {
+        "name": "Ocean Hill",
+        "url": "https://open.spotify.com/album/7vT6cIzic68m8dZL6scvP2"
+      },
+      "artists": [
+        {
+          "name": "Berliner Luft Quartet",
+          "url": "https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263413,
+      "name": "Ocean Hill",
+      "url": "https://open.spotify.com/track/1Axy6ipoyBpZ6h0pJevnEQ"
     },
     {
       "album": {
@@ -13570,7 +13660,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 200932,
       "name": "Sailing Stones",
       "url": "https://open.spotify.com/track/73JetyewsVF0A1e2wEBzU6"
@@ -17311,6 +17401,24 @@
     },
     {
       "album": {
+        "name": "Turn the other cheek",
+        "url": "https://open.spotify.com/album/5UQigi03bmrCbTeXt6kQY6"
+      },
+      "artists": [
+        {
+          "name": "John B. Stewart",
+          "url": "https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "Turn the other cheek",
+      "url": "https://open.spotify.com/track/2Gl2AJ2xIWCTVEbzHyEXZc"
+    },
+    {
+      "album": {
         "name": "Tuxedo and top hat",
         "url": "https://open.spotify.com/album/2plkKk4zTHEOE0IFgVOGnz"
       },
@@ -17592,7 +17700,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 172378,
       "name": "Vinegar replacing honey",
       "url": "https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy"
@@ -18319,6 +18427,24 @@
     },
     {
       "album": {
+        "name": "Where I Live",
+        "url": "https://open.spotify.com/album/4ZydYtbj0uhKgzLe2kP5fn"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Where I Live",
+      "url": "https://open.spotify.com/track/76uHBO15FZLTUjiwAJ1Wg4"
+    },
+    {
+      "album": {
         "name": "Where or when",
         "url": "https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA"
       },
@@ -18612,6 +18738,24 @@
       "duration_ms": 216022,
       "name": "Wonderful Is Short",
       "url": "https://open.spotify.com/track/7AeoW54UXtfDBV2WpWSR6f"
+    },
+    {
+      "album": {
+        "name": "Wondering The Streets",
+        "url": "https://open.spotify.com/album/6UGMr2Ii9WMFfLmmBjHhTY"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304609,
+      "name": "Wondering The Streets",
+      "url": "https://open.spotify.com/track/1obGKffzqT4IFDKVIxthJH"
     },
     {
       "album": {

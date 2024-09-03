@@ -9333,6 +9333,24 @@
     },
     {
       "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn"
+    },
+    {
+      "album": {
         "name": "Life Inside",
         "url": "https://open.spotify.com/album/0apJiS68nSoiEOpcrCn2dC"
       },
@@ -17506,7 +17524,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-03",
       "duration_ms": 183080,
       "name": "What Should I Do?",
       "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
